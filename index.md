@@ -18,7 +18,7 @@ A browsable list of edited transcripts. Each title links to the local Markdown t
 | 2020-04-19 | [Bicycle Day Conversation with Jef Baker](sources/2020-04-19-bicycle-day-conversation-with-jef-baker.md) | Australian Psychedelic Society | [B0BhUOEP1Mg](https://youtu.be/B0BhUOEP1Mg) | 1:41:31 |
 | 2020-10-04 | [A Visionary Experience of the Birth of the Future Human](sources/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.md) | Cambridge Consciousness Forum | [-xbx5HnOFmA](https://youtu.be/-xbx5HnOFmA) | 1:02:48 |
 | 2020-12-21 | [Great Conjunction Reflection (short)](sources/2020-12-21-great-conjunction-reflection-short.md) | Christopher Bache (personal upload) | [fL3SqioIGm0](https://youtu.be/fL3SqioIGm0) | 00:14:17 |
-| 2021-03-16 | [Contemplating Reincarnation – Part 2](sources/2021-03-16-contemplating-reincarnation-part-2.md) | Gene Keys | [AQwAxhukBrE](https://youtu.be/AQwAxhukBrE) | 55:13:00 |
+| 2021-03-16 | [Contemplating Reincarnation – Part 2](sources/2021-03-16-contemplating-reincarnation-part-2.md) | Gene Keys | [AQwAxhukBrE](https://youtu.be/AQwAxhukBrE) | 00:55:13 |
 | 2021-03-27 | [Contemplating Reincarnation – Part 3](sources/2021-03-16-contemplating-reincarnation-part-3.md) | Gene Keys | [5Lus4MLlzbA](https://www.youtube.com/watch?v=5Lus4MLlzbA) | 1:08:18 |
 | 2021-03-29 | [Chris Bache – LSD and the Mind of the Universe – SPMC 2019](sources/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.md) | Spirit Plant Medicine | [DBddIrMryJc](https://youtu.be/DBddIrMryJc) | 1:08:46 |
 | 2021-04-01 | [Contemplating Reincarnation (Part 1)](sources/2021-04-01-contemplating-reincarnation-part-1.md) | Gene Keys | [jVDndxA6aZo](https://youtu.be/jVDndxA6aZo) | 1:08:33 |
