@@ -16,7 +16,7 @@ transcriber: gpt o3 model by openAI
 
 transcription_date: 2025-07-31
 
-license: CC BY-SA 4.0
+license: CC0 1.0 Universal
 
 ---
 

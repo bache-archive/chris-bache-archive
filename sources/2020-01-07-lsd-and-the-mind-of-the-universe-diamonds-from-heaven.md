@@ -16,7 +16,7 @@ transcriber: "gpt5 model by OpenAI"
 
 transcription_date: "2025-08-15"
 
-license: "CC BY-SA 4.0"
+license: CC0 1.0 Universal
 
 ---
 

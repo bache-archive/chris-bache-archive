@@ -59,11 +59,10 @@ YYYY-MM-DD-short-descriptive-slug.md
 ---
 
 ## Licensing
-- **Source recordings** remain © their original creators.
-- **Curated transcripts** are released under **Creative Commons BY-SA 4.0**.
-- When quoting, credit *“Chris Bache Transcript Archive”* and include a link.
+- **Source recordings** remain © their original creators (e.g., Chris Bache, interview hosts, publishers).  
+- **Curated transcripts, metadata, and indexing** are dedicated to the public domain under the **CC0 1.0 Universal (CC0 1.0) Public Domain Dedication**.  
+- You may copy, modify, distribute, and use this material for any purpose, without permission or attribution.  
 - Rights-holders may request removal or redaction by emailing: **bache-archive@tuta.com**
-
 ---
 
 ## Contact
