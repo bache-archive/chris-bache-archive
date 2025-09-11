@@ -7,7 +7,7 @@ youtube_id: mG1uyBw0ucg
 speakers: [CHRIS BACHE, TAMMY SIMON]
 transcriber: gpt5 model by OpenAI
 transcription_date: 2025-09-09
-license: CC BY-SA 4.0
+license: CC0 1.0 Universal
 ---
 
 In this conversation from *Sounds True: Insights at the Edge Live*, Tammy Simon interviews philosopher and 
