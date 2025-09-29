@@ -1,74 +1,97 @@
-# Chris Bache Transcript Archive (2014 – 2025)
+# Chris Bache Archive (2014 – 2025)
 
 ## Purpose
 This archive safeguards—and makes searchable—the **public talks, interviews, and reflections of philosopher-author Christopher M. Bache** recorded between 2014 and 2025.
 
-It is first and foremost a **textual transcript archive**: each item includes an **edited transcript** prepared for clarity and citation, and where available, the corresponding **raw caption export**.
+It now preserves both:
+- **Edited transcripts** (textual record, cleaned for clarity and citation).  
+- **Original media** (MP4 video and MP3 audio), downloadable via script or Zenodo/Internet Archive bundles.  
 
-Future phases may expand to include video, audio, slides, or images, but the current focus is on **clean, consistent text**.
+The goal is to maintain an **open, structured archive** so that Chris’s voice and insights remain accessible for future generations of seekers, scholars, and technologies.
 
 ---
 
-## Current Status (September 2025)
-- **Edited transcripts**: 59 complete, with YAML metadata headers and line-by-line cleanup in progress.
-- **Captions**: 59 matching raw caption files (from YouTube/auto-generated sources), stored separately for reference.
-- **Indexing**: master list reconciled against both sets for one-to-one alignment.
+## Current Status (v2.1 — September 2025)
+- **Transcripts:** 59 edited transcripts in `sources/`.  
+- **Captions:** 59 matching raw caption files in `sources/captions/`.  
+- **Index:** `index.json` maps all entries with metadata.  
+- **Media:** MP4 video + MP3 audio now preserved for nearly all items.  
+- **Automation:** `download_media.sh` script fetches audio/video using `yt-dlp` with Chrome cookies and geo-bypass flags.  
+- **Archival mirrors:** Media bundles deposited to Zenodo (DOI) and Internet Archive for permanence.  
 
 ---
 
 ## Folder Map
 
 chris-bache-archive/
-├── sources/              ← edited transcripts (final .md files)
+├── sources/              ← edited transcripts (.md)
 │   └── captions/         ← raw caption files (aligned 1:1)
-└── index.md              ← simple index of edited transcripts
-
-- Each transcript is stored as a **Markdown file** with a **date-first filename**:
-
-YYYY-MM-DD-short-descriptive-slug.md
-
-- Every file begins with a YAML metadata header including:
-- `archival_title`
-- `channel`
-- `recorded` / `published`
-- `speakers`
-- `license` (CC BY-SA 4.0)
+├── downloads/            ← local-only media (gitignored)
+│   ├── video/            ← MP4 video files
+│   └── audio/            ← MP3 audio files
+├── index.json            ← metadata index
+├── download_media.sh     ← automation script
+└── README.md             ← this file
 
 ---
 
 ## Naming Convention
-- **Format**: `YYYY-MM-DD-title-slug.md`
-- Example:
+- **Format:** `YYYY-MM-DD-title-slug` (base name used for transcript, caption, audio, and video).  
+- Example:  
 
 2023-03-16-collective-shadow-work-and-turning-toward-our-pain.md
+2023-03-16-collective-shadow-work-and-turning-toward-our-pain.mp3
+2023-03-16-collective-shadow-work-and-turning-toward-our-pain.mp4
 
-- Rules:
-- Use the original publication date.
-- Lowercase with hyphens, no spaces or punctuation.
-- The same root is reused for both edited transcript and caption.
-
----
-
-## Contribution Workflow
-- Improvements: open a PR with line-by-line edits to an existing transcript.
-- New transcripts:
-1. Add the cleaned Markdown transcript in `sources/` with metadata header.
-2. If a caption exists, place it in `sources/captions/` with the same filename.
-3. Update `index.md`.
+- Rules:  
+- Use the original publication/recording date.  
+- Lowercase with hyphens, no spaces or punctuation.  
+- Filenames normalized (e.g., removed `prof.` period).  
 
 ---
 
-## Licensing
-- **Source recordings** remain © their original creators (e.g., Chris Bache, interview hosts, publishers).  
-- **Curated transcripts, metadata, and indexing** are dedicated to the public domain under the **CC0 1.0 Universal (CC0 1.0) Public Domain Dedication**.  
-- You may copy, modify, distribute, and use this material for any purpose, without permission or attribution.  
-- Rights-holders may request removal or redaction by emailing: **bache-archive@tuta.com**
----
+## How to Use
 
-## Contact
-Maintainer: **Chris Bache Transcript Archive (pseudonymous)**
+### Fetch media locally
+```bash
+brew install jq yt-dlp
+./download_media.sh
+
+    •    Video will be saved in downloads/video/
+    •    Audio will be saved in downloads/audio/
+
+Download official media bundle
+    •    Zenodo DOI: https://doi.org/10.5281/zenodo.17228650 ← replace with v2.1 DOI after publish
+    •    Internet Archive: link coming soon
+
+Each bundle includes:
+    •    audio/ and video/ directories
+    •    checksums.sha256 for integrity verification
+
+⸻
+
+Citation
+
+If you use this archive in research or writing, please cite the Zenodo record:
+
+bache-archive. (2025). bache-archive/chris-bache-archive: v2.1 — Media download automation & archive hygiene (v2.1) [Software]. Zenodo. https://doi.org/10.5281/zenodo.17228650
+
+
+⸻
+
+Licensing
+    •    Source recordings remain © their original creators (e.g., Chris Bache, interview hosts, publishers).
+    •    Curated transcripts, metadata, indexing, and scripts are dedicated to the public domain under the CC0 1.0 Universal (Public Domain Dedication).
+    •    This means you may copy, modify, distribute, and use this material for any purpose, without permission or attribution.
+    •    Media is mirrored here for preservation and educational use; rights-holders may request removal by emailing: bache-archive@tuta.com
+
+⸻
+
+Contact
+
+Maintainer: Chris Bache Archive (pseudonymous)
 📧 bache-archive@tuta.com
 
----
+⸻
 
-*May these transcripts help illuminate the visions Christopher Bache has carried back for the Future Human.*
+May these transcripts and recordings help illuminate the visions Christopher Bache has carried back for the Future Human.
