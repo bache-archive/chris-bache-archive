@@ -1,4 +1,23 @@
+# OS cruft
 .DS_Store
 Thumbs.db
 ._*
+
+# Temp working directory
 tmp/
+
+# Downloaded media (keep out of Git)
+downloads/
+*.mp4
+*.mp3
+*.m4a
+*.webm
+
+# yt-dlp partials and temp files
+*.part
+*.ytdl
+*.temp
+*.aria2
+
+# Logs
+*.log
