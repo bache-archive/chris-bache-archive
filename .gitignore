@@ -12,12 +12,22 @@ downloads/
 *.mp3
 *.m4a
 *.webm
+*.opus
 
 # yt-dlp partials and temp files
 *.part
 *.ytdl
 *.temp
 *.aria2
+*.info.json
 
 # Logs
 *.log
+
+# Archive bundles (Zenodo/IA release zips)
+*.zip
+
+# Images and thumbnails
+*.jpg
+*.jpeg
+*.png
