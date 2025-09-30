@@ -5,3 +5,10 @@
 *.mov filter=lfs diff=lfs merge=lfs -text
 *.pptx filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+downloads/ export-ignore
+*.mp3      export-ignore
+*.mp4      export-ignore
+*.wav      export-ignore
+*.mov      export-ignore
+*.zip      export-ignore
+*.pdf      export-ignore
