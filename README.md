@@ -56,13 +56,22 @@ chris-bache-archive/
 ---
 
 ## Download official archive bundle
-- Zenodo DOI: https://doi.org/10.5281/zenodo.17230863 (v2.2.1, transcripts/metadata)  
-- Internet Archive: [Chris Bache Archive / chris-bache-archive](https://archive.org/details/chris-bache-archive)  
+- **Zenodo DOI (latest transcripts/metadata):** https://doi.org/10.5281/zenodo.17238258
 
-Each bundle includes:  
+### Internet Archive mirrors
+- **Audio (2014–2025):** https://archive.org/details/chris-bache-archive-audio
+- **Video (2014–2025):** https://archive.org/details/chris-bache-archive-video
+- **Transcript + metadata snapshots (versioned):** https://archive.org/search.php?query=identifier%3Achris-bache-archive-v*
+
+Examples:
+- v2.2.1 (transcripts/metadata): https://archive.org/details/chris-bache-archive-v2.2.1
+- v2.0 (transcripts/metadata): https://archive.org/details/chris-bache-archive-v2.0
+- v1.0 (transcripts/metadata): https://archive.org/details/chris-bache-archive-1.0
+
+**Transcript/metadata bundles** (Zenodo DOI + IA versioned snapshots) include:  
 - transcript sources (with diarist, captions, transcripts)  
 - metadata (`index.json`, `index.md`)  
-- checksums for integrity  
+- checksums for integrity
 
 ---
 
