@@ -31,3 +31,7 @@ downloads/
 *.jpg
 *.jpeg
 *.png
+
+# Local environment files
+.env
+.env.local
