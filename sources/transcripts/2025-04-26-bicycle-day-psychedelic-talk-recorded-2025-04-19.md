@@ -1,5 +1,4 @@
 ---
-
 archival_title: 2025-04-19 – Bicycle Day Psychedelic Talk – Chris Bache at The Pearl Institute
 
 channel: The Pearl Institute
@@ -19,137 +18,88 @@ transcriber: gpt o3 model by openAI
 transcription_date: 07/31/2025
 
 license: CC0 1.0 Universal
-
+speakers: ["Chris Bache", "Ehren Cruz"]
 ---
-
-**Abstract:**
-
-In this profound keynote delivered on Bicycle Day 2025, philosopher and transpersonal scholar Dr. Christopher Bache explores the deepest frontiers of psychedelic consciousness. Drawing from his 20-year, 73-session high-dose LSD journey, Bache shares insights on healing, spiritual awakening, cosmological exploration, and the emergence of the Diamond Soul—a new level of human identity integrating all incarnations. He warns of the risks of going too deep too fast and emphasizes the importance of rigorous integration. Bache also addresses humanity’s collective dark night and evolutionary transformation, urging listeners to transcend fear of death and embrace the vast intelligence of the universe. This talk is a culmination of decades of inner research and a call for collective spiritual maturity in the face of planetary crisis.
-
+<!-- diarist_sha1:c11cc9a0cc5fa622c964f2bb7233091620176b7c -->
 ---
+Ehren Cruz
+Before I welcome our first wonderful, esteemed keynote presenter, I want to leave a little quote from Albert Hoffman after he had his great first psychedelic experience: the psychedelics gave me an inner joy, an open mindedness, a gratefulness, open eyes and an internal sensitivity for the miracles of creation. I think that in human evolution has never been as necessary to have the substance of LSD, it is just a tool to turn us into what we're always supposed to be. Now, with that, I want to welcome onto the stage, here in just a moment, Dr. Christopher Bache.
 
-**HOST (INTRODUCTION):**
+Dr. Christopher Bache is a professor emeritus in the Department of Philosophy and Religious Studies at Youngstown State University, where he taught for 33 years. He's also an adjunct professor at the California Institute of Integral Studies, an emeritus fellow at the Institute of Noetic Sciences, and on the advisory board of the Grof Legacy Training. Chris's work explores the philosophical implications of non-ordinary states of consciousness, especially psychedelic states. He's an award-winning teacher and international speaker.
 
-Before I welcome our first esteemed keynote presenter, I want to share a quote from Albert Hofmann after his first psychedelic experience:
+Chris has written four books: Life Cycles, a study of reincarnation in light of contemporary consciousness research; Dark Night, Early Dawn, a pioneering work in psychedelic philosophy and collective consciousness; The Living Classroom, an exploration of collective fields of consciousness and teaching; and of course, what many of you might be familiar with today, LSD and the Mind of the Universe, the story of his 20-year journey with LSD. Everyone, please welcome Dr. Christopher Bache.
 
-\> "The psychedelics gave me an inner joy, an open-mindedness, a gratefulness, open eyes and an internal sensitivity for the miracles of creation. I think that in human evolution it has never been as necessary to have the substance of LSD. It is just a tool to turn us into what we're always supposed to be."
+Chris Bache
+What an honor to be here with you today, to celebrate Bicycle Day—an opportunity for the psychedelic community to come together, see each other, reunite, and make plans for the future.
 
-Now, I want to welcome Dr. Christopher Bache, professor emeritus at Youngstown State University, adjunct professor at CIIS, and fellow of the Institute of Noetic Sciences. He is the author of *Life Cycles*, *Dark Night, Early Dawn*, *The Living Classroom*, and *LSD and the Mind of the Universe*. Please welcome Dr. Christopher Bache.
+Now, I know what you're probably thinking. You look at me and think, he doesn't look like he's done a whole lot of LSD. I think the divine designed me as an undercover agent for the psychedelic revolution. It's amazing what you can get away with in a university classroom if you look like an accountant. I tell my students sometimes, if I looked on the outside like I think on the inside, I'd probably look like Jerry Garcia.
 
-**CHRIS BACHE:**
+So, 82 years since Bicycle Day—82 years. We've come a long way. Think how many people are doing psychedelics regularly, 82 years after Albert Hoffman's first famous bicycle ride. The reasons we use psychedelics, what draws us into them, and how we use them vary enormously. If we were to do an inventory of everyone in this room, we would find so many different approaches, methodologies, and results. The psychedelic testimony of the community together is always more important than the testimony of any one individual—so many medicines, so many ways they impact consciousness, so many ways to draw out the deeper reserves of human consciousness—that the collective is more important than the work of an individual.
 
-What an honor to be with you today, celebrating Bicycle Day, and gathering as a psychedelic community. It’s a time to reunite, to plan for the future.
+What I’d like to do to help seed our awareness is talk about my work and some of the potentials that I think lie untapped in the current psychedelic renaissance. The current renaissance is focused primarily, first, on healing. That’s how we’re getting psychedelics back into the academic and mainstream discussion: demonstrating their capacity to heal the wounds of a broken heart, the wounds of life, even the wounds of the soul when it goes deeper. This is critically important, and I understand all the scientific brethren who are working hard to document, legitimate, verify, and refine our ability to integrate psychedelics into clinical practice. Really, very important. But for me, this is just the first stage, the first step into the deep waters that psychedelics make available.
 
-You might look at me and think, "He doesn’t look like he’s done a whole lot of LSD." I think the Divine designed me as an undercover agent for the psychedelic revolution. You can get away with a lot in a university classroom if you look like an accountant.
+If you think of consciousness as an ocean, healing—or using psychedelics to augment creativity, or to generate insights you can apply to your life when facing important choices—these are near the shore, near where we live in the personal world. When I have a big, important choice, I’m not going to address it only in my ordinary state of consciousness. I will go into psychedelic space to get that larger dilation, a little more communion, bring my questions there, seek guidance, and then follow the advice I get: what books to write next, where to go with the research. Healing, creativity—I think of my friend Alex Grey and all the psychedelic artists—and insight are still only the shallow waters.
 
-If I looked on the outside like I think on the inside, I’d probably look like Jerry Garcia.
+What if we go deeper? What if we use psychedelic protocols to go deeper into the ocean of consciousness and begin to get into spiritual awakening? I’m thinking of the dialogue between the Buddhist community and the psychedelic community—Zig Zag Zen—asking whether psychedelics are useful in facilitating genuine enlightenment or a hindrance, as classical Buddhists would hold. Spiritual awakening is different from healing and creativity. Here we’re using psychedelics to break into the deeper universal themes of human existence. Enlightenment is not about personal healing—though you may go through healing to move there—it grapples with the fundamental human condition at its core. What is the nature of my identity underneath all the conditioning? What is that deeper identity? Eventually we come to a realization Hindus describe as Atman is Brahman: the essence of the individual is the essence of the totality, the essence of God. We immerse ourselves in, see, and enter into communion with the creative intelligence of the universe that permeates all things. Different than healing—broad, deep—something we share with all human beings. Our personal problems we may not share with everyone, but the deep spiritual questions we do.
 
-It’s been 82 years since Albert Hofmann’s famous bicycle ride. Think of how far we've come. The number of people using psychedelics regularly, and the diversity of how and why we use them, is remarkable. The testimony of the community is more important than any individual’s because there are so many ways these medicines affect us.
+To me, though—healing, creativity, insight, spiritual awakening, however you conceptualize it—this is still only the mid-waters of the ocean. What I’d like to talk about is what I call cosmological exploration: using psychedelics to probe the deep structure of reality at the deepest levels possible. What is the underlying structure of human existence? What are the layers? What is the source of creativity—the creativity that gave birth to our universe 13.7 billion years ago?
 
-Right now, the psychedelic renaissance is focused on healing. That’s how psychedelics are being legitimized—by showing their ability to heal emotional wounds, traumas, even wounds of the soul.
+My psychedelic journey began 45 years ago, when I was a brand-new academic, freshly minted out of graduate school, beginning my academic work. I was pretty much an atheistically inclined agnostic at the time—that’s what seven years of graduate school in religious studies made me. Then I met two people’s work in my first year. Ian Stevenson’s research in reincarnation convinced me, in one reading, that reincarnation was a fact of life—just a simple empirical fact of life. Deal with it. That wasn’t part of my worldview in my training. More importantly, I read Stan Grof’s Realms of the Human Unconscious, which turned my life—a major pivot point.
 
-This is vital. But to me, healing is only the first step into the ocean of consciousness. Beyond healing lies creativity, insight, and spiritual awakening. But these are still only mid-depths.
+I began the therapeutically oriented psychedelic work I knew would be required to give me access to the kind of experiences that would allow me to contribute to my discipline, philosophy of religion. After three medium-dose sessions, I found I had a facility for working with high doses of LSD and developed a protocol following Stan Grof’s approach. You know the drill: total isolation—not group work—private, protected, with a sitter; carefully curated playlist; all-day engagement, start to finish, long day. I chose to work with 500 to 600 micrograms of LSD. I don’t recommend that protocol. Knowing what I know now, I would do it differently if starting over: work with lower doses, balance periodic high-dose LSD with intermediate sessions of psilocybin or ayahuasca. I have experience with all those, but my primary work has been with LSD—appropriate to speak to that on Bicycle Day.
 
-What I want to share today is about using psychedelics for cosmological exploration—going to the deepest levels of reality to understand the structure of existence itself.
+I worked in a Grof paradigm—always in isolation—and took these massive doses about five times a year on average. It lasted 20 years. I worked for four years, stopped for six, then resumed for a very intense ten years. That period spanned ages 30 to 50—my second Saturn cycle was all under my psychedelic work. I stopped at 50 and didn’t publish LSD and the Mind of the Universe for another 20 years for a couple of reasons. One, if I had published that book as an academic, I probably would have been fired. The good people of Ohio, where I was teaching, don’t like their university professors doing massive doses of LSD on the weekend. So all my work was secret. None of my students ever knew. My faculty and close friends knew I was doing something, but they didn’t really understand it. It would usually start, “Yeah, I remember I did some psychedelics back in the day.” Good for you.
 
-My journey began 45 years ago. I was a freshly minted academic and agnostic. But then I read the work of Ian Stevenson and Stanislav Grof. Stevenson convinced me that reincarnation was a fact of life. Grof’s *Realms of the Human Unconscious* changed everything.
+But when you’re doing 500–600 micrograms, amplified by the most powerful music I could pull from the world stage and driving it hard, you shatter your mind. You shatter consciousness. You blow it all apart, which is dangerous unless you’re really prepared, seat belt fastened tight, strong support system, good clinical grounding, and a solid sense of self. It’s not wise to blow yourself apart that often. I found I had a capacity—and astrologically, it’s in my chart. I have a capacity to open—spacious, Neptune, deep states—and then I congeal easily. So the opening and expanding I could manage, and over the first few years I found I could navigate this domain. I developed an interest in working this hard because what interested me wasn’t clinical or creative applications. It was LSD’s capacity to take me into states where I could truly enter into communion with the intelligence of the universe, and then that intelligence would teach me. You open, go deep, clean up your house, then when you’re clean and take in this larger field, it speaks to you. I’ve often wished I had advanced degrees in quantum physics and astronomy, because I would have understood more of what it was teaching me. My background was philosophy and religious studies, so it took me into those areas I was most interested in: the paradoxes of the human condition. Why is it so hard here? Why so much suffering? Why are we estranged from our deepest connection to the universe? Where is reincarnation taking humanity? Where are we going?
 
-I began psychedelic work to explore philosophy of religion from the inside. I followed Grof’s protocol: total isolation, a sitter, curated music, and high-dose LSD—500 to 600 micrograms.
+Reincarnation lifts the restriction of time. We’re reincarnating—there’s no place to go after you leave here; you come back, you leave, you come back. You begin to open a time horizon that may be the horizon the divine thinks in. The divine does not think in small-term projects, or personal projects; it thinks in large projects, species projects, planetary projects, galactic-size projects. The challenge becomes: how do we let ourselves begin to experience in galactic-size projects? First, unlock the barrier of linear time—to go beyond the confines of this moment, as magnificent as it is. Of course, the divine lives in the present moment, so many spiritual practices focus on deepening the present. But in psychedelic work, there is a potential to transcend the limits of the present. When you step outside linear time and enter what I call deep time—many dimensions and levels of time—the universe experiences itself through different modalities of time. It will take you into deep, vast expanses where you can experience 100,000 years in the course of an hour. You can accelerate time beyond your personal story into humanity’s story, into the larger evolution the divine intent is seeding and nourishing in the human community. Where are we going as a collective? Sri Aurobindo, the great Oxford-educated Hindu sage, said humanity is a transitional species. We’re not stable. We’re transitioning from what we were before Homo sapiens to what’s coming. Everything’s in motion—galaxies, Earth systems, humanity. Where are we going? What’s it going to look like?
 
-I don’t recommend that now. If I were starting over, I’d work with lower doses and other medicines like psilocybin or ayahuasca.
+I want to inject a cautionary note. I’m so happy we’re spending a lot of time writing about integration. Now we have powerful chemicals; we can break out of our time-space suit increasingly easily. But to do it in a way that is valuable, where we bring back something we can keep—that’s the harder part. First, to remember it. We can go so deep we can’t remember what we experienced. You have to train yourself to remember deep experiences—if you go far beyond personal identity, beyond human identity, into archetypal reality, causal levels of reality, and into what I call the diamond luminosity, or what Buddhism calls Dharmakaya, the clear light of absolute reality. You go deep into that, you come back—it’s hard to remember. The first step of integration is to remember.
 
-Over 20 years, I averaged five sessions per year—four years on, six years off, then ten intense years. From age 30 to 50. My second Saturn cycle was steeped in this work.
+My experience was that if you go back systematically in a clearly defined therapeutic context, the first time you touch a new level of reality you won’t bring all of it back. But if you return again and again to that level, you begin to see more, understand more. There are fewer gaps in your session notes. It becomes clear. You learn how to bring it back. This pattern repeated every time I broke into a deeper level of reality: first chaos and uncertainty, then with repetition I could hold onto more and bring it in.
 
-I didn’t publish *LSD and the Mind of the Universe* until 20 years later, partly because I would have been fired. The good people of Ohio don’t want their professors doing LSD on weekends.
+The second reason I took so long to write Diamonds from Heaven was not just fear of losing my job—I liked teaching—I also needed time to digest and understand my experiences. A long history of psychedelic work is very different from one or two or three interesting sessions on a Saturday afternoon. Some of our expectations have been shaped by a literary tradition based on very few experiences. Aldous Huxley wrote The Doors of Perception after only one experience—he wrote a beautiful book on one experience. Huston Smith, the great don of religious studies, wrote Cleansing the Doors of Perception after taking LSD only six times; he stopped because the bummers seemed to increase and it wasn’t as useful to him. To me, that’s when it starts to get interesting. When the bummers increase, deep purification is taking place—something’s coming forward that’s hard to deal with. Or Michael Pollan, when he wrote his very important contribution, had only taken psychedelics a handful of times. This tends to create short-sighted expectations about what can happen.
 
-None of my students knew. Close colleagues didn’t really understand. But these sessions shattered my consciousness. And that’s dangerous unless you're deeply prepared.
+If you go through a long journey—at least in my experience—it’s not that you always start from the same spot and get to the same level. You go through a series of death-and-rebirth processes as you go deeper and deeper into the universe—as deep as your medicine can carry you. Not all medicines have the same capacity to carry you as deeply—that’s fine. Your capacity to withstand the chaos inherent in deep exploration and the tightness of your protocol—whether your protocol holds you in a very carefully contained container, a kiva to support you while you go deep and then come back out, integrate, and internalize—matters.
 
-Astrologically, I have a chart suited for it—Neptune openness and strong reconstitution. I learned to navigate this terrain and became interested not in therapy or art, but in the universe itself.
+At the end of my journey, working up my notes to write the book, I identified five basic levels at which I had worked over time. First, the level of personal mind—psychodynamic territory. Second, the level of collective mind—the collective psyche, Carl Jung’s territory, but more than that. Third, archetypal mind—in my context, the Platonic sense of archetypes, a domain of reality beyond the human species. Just as at the personal level your egoic mind has to fall away to open into deeper experience, to get into archetypal reality the entire collective mind of humanity has to fall away. You lose all your human roots, the subtle textures of human consciousness, the assumptions of human history and cognition drop away, and you enter a reality of archetypes—the living beings responsible for creating space and time, responsible for creating some of the four fundamental core themes of space and time.
 
-I wanted to commune with the intelligence of the cosmos and be taught.
+Beyond archetypal reality—more cycles of death and rebirth—you enter causal reality, where the signature feature is permeating oneness. Oneness has many permutations, but in deep causal reality you experience life free of all dualities: radical transparency, radical selflessness—no self here, no self there, no self anywhere in nature. The entire world, as Plotinus says, lives and breathes as one—us, ants, archetypes—all living and breathing as one. To sink into that oneness, to the intelligence underneath it all—the intelligence that is shaping us, driving us, teaching us, expanding us, holding us accountable in our rigorous learning that time and space do—and taking us somewhere deeper, richer, more satisfying.
 
-If I had degrees in physics or astronomy, I might have understood more. But with my training in philosophy and religion, I focused on the big existential questions—suffering, identity, reincarnation.
+And beyond causal reality, for me, the last five years of my work were spent exploring what I came to call the diamond luminosity—more death and rebirth—entering states of luminous clarity: hyper, hyper, hyper clear, beyond imagination. I began to understand better what the Buddhists mean when they say touching it once undoes thousands of years of karma. The hyper-clarity—once I touched that, I wasn’t interested in anything else I had been exploring. I’d spent 15 years exploring the other levels, but that reality is so profound and rich, the only thing I was interested in was getting back there. In the last five years—26 sessions, an entire third of my journey—I got to that reality only four times. A lot of work being done in those 26 sessions in other things, but only touching that reality four times. And they are, for me, the true diamonds from heaven. Subtitle of the book,
 
-Psychedelics helped me transcend time and understand deep time—vast spans far beyond linear human thinking. The Divine works in galactic timelines, not personal projects.
+Chris Bache: 
+Caution: you can go deeper into the universe than is wise for you to go. You can have too much God. That seems like an oxymoron—surely it’s better to have more of God—but at least with this method, which gives us temporary access and then brings us back, my experience is that even with careful integration—physical, subtle energy, emotional, social—you can go so deep into transcendence, into the subtle luminous body of the Divine, that you lose interest in living inside time and space. Time and space began to feel like papier-mâché when I knew that this reality is not as real as that reality, which is more real than this one.
 
-We are a transitional species. Everything is in motion. The question is: where are we going?
+I didn’t lose my bearings. I was doing my job, taking care of my family, doing what I ordinarily do. But in my heart, I was waiting to die so I could go back. I reached a point in my work where I knew I had to stop for reasons I talk about in the book—73 sessions. If you’re not cooked by 73 sessions, forget it; 74 is not going to give it to you. I was cooked. I was overcooked. I knew I wouldn’t do more deep work. And to go deep takes years and years—it’s like training an Olympic athlete. It takes years to develop the psychic momentum to move into that territory. I stopped this work over 20 years ago, and I could not get back into the territory I was exploring at the end no matter how heavy a dose of LSD I took today. It takes time to develop the momentum to move there. I reached a point where I knew it was time to stop, and that I would not get back into that reality until I died.
 
-But we must integrate. Integration begins with remembering. You train yourself to recall and digest these deep experiences. With repetition, clarity increases.
+This may be a difference between using psychedelics for spiritual awakening—where the goal is to consume all one’s karmic fixations and blocks until one can enter a transparent condition and deep communion with the eternal dimension of existence coursing through this present moment, a noble goal guided by the spiritual masters—and entering so deeply into deep time, into the evolutionary story of humanity, into the light from which the Big Bang exploded. After I stopped my sessions, it took me about 10 years to reground myself and recommit to living out the rest of my life inside time and space. I was totally functional, doing everything I had to do, but recommitting to living in the immanent divine instead of immersing myself in the transcendent divine took 10 years, until I could be comfortable living in the immanent divine. That’s why a word of caution: you can go deeper than is good for you. You can go deeper than is good for your family and the people who depend on you.
 
-That’s one reason *Diamonds from Heaven* took 20 years to write. It just takes that long to understand.
+Where is reincarnation taking us? I’ve talked about the large trajectory. There was a point in my sessions when the teacher—the only teacher I’ve ever had, the consciousness of the universe itself—seemed intent on showing me where reincarnation is taking us. I experienced all my former lives coming back into me, fast and furious. I had done past-life therapy and had a sense of my history, but this was larger. They were all coming back very quickly, like wrapping kite string around a spool. These lives were coming back, and eventually they fused into one. With that fusion there was an explosion of energy inside my chest—my first deep contact with diamond light. I was catapulted into a state of consciousness where I was an individual—not losing all boundaries and entering oneness—but an individual beyond any frame of reference I’d known. I came to understand this is where reincarnation is taking all of us. We die, we come back; we die, we expand into the soul; we return to incarnate life; we die, we expand into the soul again, and we keep this rhythm of expansion and contraction. If we keep it up for hundreds of thousands of years, doesn’t it make sense that the totality of our lives—which we meet when we die and return to our total soul—would eventually incarnate inside time and space?
 
-Too often, expectations are shaped by people who’ve only had a few sessions. But deep work requires many cycles of death and rebirth.
+That’s the birth of the diamond soul: the next form of human consciousness. A human being whose mind is the repository—integrated into a singularity—of all the experiences he or she, they have ever had across all lives. Then they look at the world and know they’re not just this; not a 100-year-old being. Their relationships are steeped in age and time. Their life projects are steeped in thousands of years of practice, not 100.
 
-I identified five levels of consciousness I moved through:
+I don’t think we can continue to run this planet on the basis of egoic consciousness. Ego is a beautiful thing—individual consciousness is magnificent, potentiating, empowering—but left to its own devices it tends to cut us off from each other and from the Earth. We’ve created a civilization based on the psychological limitations and assets of egoic consciousness, and now it’s generating problems of a magnitude I don’t think can be solved operating from ego alone. We can no longer afford the luxury of being children on this planet. We have to grow up—own ourselves, our histories, our former lives, the destiny carrying us through time, arching us into not our plan for the human future,
 
-1\. Personal mind
+but something I call the divine. I’m not always comfortable with that word—it’s been sullied by our world’s religions—but the creative intelligence of the universe is taking us into billions and billions of years still to come. I think we are entering a time of profound challenges. They are not simply political or social, not simply ecological—though that will become more powerful as we move deeper into the 21st century. At core, all these challenges are symptoms of a challenge of consciousness: we literally do not know who we are. We don’t know what we are. All we have to do is look at the White House to see that we do not know who we are. We cannot afford to run on this incomplete knowledge any longer.
 
-2\. Collective mind
+The universe is taking us into a profound death-and-rebirth process, very similar to what mystics experience in the dark night of the soul: intense purification until our natural, spontaneous spiritual nature shines free. Just as in psychedelic sessions, when we go through very dark, painful, difficult passages, if you embrace them and take them to the bottom—through the death process—you are spun into clarity, kindness, compassion, understanding, wisdom. I think the entire planet is going into a death-rebirth process. Since my book Dark Night, Early Dawn, I’ve talked about the dark night of our collective soul: the purification of our collective psyche and institutions. We’re entering a period where, as in a psychedelic session, we lose control—of the assumptions we could make about culture and civilization, the ordinary assumptions of life. We’ll face unprecedented challenges. The oceans are rising—you know the scenarios—cities going underwater, mass migrations. Eco migrants.
 
-3\. Archetypal mind (Platonic, not Jungian)
+We’re entering the time of the great undoing. Just as on the cushion or in a session, we must face the deepest fears, anger, and terrors to melt into the lasting condition, the true peace that satisfies the inner longing. Our culture is going to do that. I have no idea how, but in my sessions I have seen it in deep time: a period of profound trauma and uncertainty, a deep unraveling of the human community. And yet we make it through. We don’t survive it; we die and come through changed—transformed. In this international crisis, we go through an experience that breaks open the human heart, and oneness is born in the human family—concentrated in some individuals, subtly pervasive for the collective as a whole. Oneness. Compassion. The theme that makes all our intelligence and discoveries safe. We stop using them for war and destruction. We start using all our talents to serve the common good.
 
-4\. Causal reality—pure oneness
+I think the global crisis we’re entering is synergistically coupled to the psychospiritual process of the birth of the diamond soul. As we experience perpetual transformation in our sessions, the world is trying to become one. We cannot solve our problems within the world of nation-states. As the world tries to become one, the soul is trying to become one. There’s an inner wholeness: we are trying to become our deepest soul-self, just as the world is trying to become one. The world is composed of souls—and souls are not 100-year-old things; they’re 100,000-year-old things. I’d rather go into a global crisis with 100,000-year-old beings than 100-year-old beings, because we have the knowledge. It’s within us. This is one of the most exciting centuries to be alive in. By the end of the 21st century and beyond, we’ll be living in a very different world. I don’t know how long it will take—at least three generations, maybe more. This won’t be accomplished quickly or easily. And I’d like to end by
 
-5\. Diamond luminosity—hyper-clarity, dharmakaya
+reminding ourselves of the power of psychedelics to profoundly impact one of the scariest things human beings go through: dying. My wife of 25 years, Christina, died a month ago—six weeks ago. She had cancer. She, like me, was a psychonaut with extensive experience of spiritual reality, and this completely changed her death and my experience of her death. She was not afraid of dying. She knew where she was going. She had firsthand experience of where she was going. That changes death from a crushing experience of defeat, fear, and uncertainty into a celebration of a life well lived, brought to rich fruition and conclusion—knowing she was returning home into the arms of the Beloved, returning to the Great Mother who gave birth to her. There’s no fear here. There’s joy and celebration. This is the way it’s supposed to be. This is what the Center for Conscious Living and Dying is helping bring about in the community here. This is what death really is. Death is the celebration. You should mourn children who are being born—they’re beginning the hard work. In death, you’re graduating; you’re going back home.
 
-The last five years of my journey were focused solely on reaching diamond luminosity. Out of 26 sessions, I reached it four times. But once touched, I lost interest in anything else. That reality is more real than this one.
+Christina had a lot of psychedelic experience. Psychedelics were not part of her active dying process; it was already done beforehand. She took what she had learned into her dying and therefore engaged death differently than others might. If there were one thing I wish I could give people from all my psychedelic work, it would be: please lose your fear of death. If you’re afraid of dying, you have your cosmology upside down. Death is returning to the world of plenty, fullness, light, superintelligence, understanding, infinite compassion. Being born in Asheville—maybe not so much. We have to work hard here. We work hard there, and we receive the rewards of the work we’ve done.
 
-After stopping my sessions, it took 10 years to re-commit to living fully in time and space.
+What a revolution: 82 years since that bicycle ride, and we’re just getting started. Aaron said, we’re just getting started. We are in baby steps. If we look forward 15, 50, 100 years—just imagine—if we handle this transition well, if we harness the energy of psychedelics conscientiously, responsibly, wisely, we can accelerate this generational change that nature and the divine intelligence are trying to bring about in the human family. We are all part of this revolutionary transition. Simply by being here, we acknowledge that we are part of it. Thank you very much.
 
-You can go deeper than is wise. You can have too much God. And that can affect your ability to live well here.
+Ehren Cruz: 
+Thank you so much, everybody. Please—Dr. Christopher Bache. Applause.
 
-Eventually, I saw where reincarnation is taking us. I experienced all my past lives fusing together—an explosion of light, the birth of the Diamond Soul.
+Just taking a moment to honor this man’s profound courage. As I shared before, the mental health and healing dynamic is the on-ramp to our reintegration of psychedelics into our culture and community, and it’s very much an important on-ramp for many reasons. But as he has shared, the exploration of consciousness—our connection to spirituality and cosmology—is a frontier, a profound frontier that many of the ancients may have been aware of as well, and that we are re-stepping into. Let’s carry that in our hearts as we are now expressions of this possibility. We are active members in this great learning that has been tasked to us: How do we take these medicines and grow and learn beyond the self, into a collective, into a holistic being?
 
-That’s our trajectory. A being who remembers and integrates all their incarnations. We can’t run this planet on egoic consciousness anymore. Ego is beautiful—but insufficient for the challenges we face.
+Thank you for watching, and please remember to like this video and subscribe to our channel.
 
-We’re entering a collective dark night of the soul. A civilizational death and rebirth. The outcome? Oneness. Compassion. A new humanity.
-
-Finally, let me say something about death.
-
-My wife Christina died six weeks ago from cancer. She was a psychonaut. She wasn’t afraid. She knew where she was going.
-
-Her death was a celebration. That’s what psychedelics can give us.
-
-If I could give one gift from my journey, it would be:
-
-**Please lose your fear of death.**
-
-Death is not defeat. It’s returning home. Birth is the hard part.
-
-Eighty-two years after that bicycle ride, we are just beginning.
-
-Thank you.
-
----
-
-**Key themes:**
-
-- Healing as the shallow entry into psychedelic work
-
-- Five levels of consciousness: personal to diamond luminosity
-
-- The Diamond Soul as humanity’s evolutionary goal
-
-- Integration as a long-term discipline
-
-- Deep time and galactic-scale consciousness
-
-- Collective dark night and global death-rebirth process
-
-- Psychedelics as preparation for conscious death
-
-- Risks of going “too deep” and the need for spiritual grounding
-
-- Reincarnation as an arc toward integrated unity
-
-- Psychedelics as tools for cosmological awakening, not just therapy
-
----
-
-**Revision history**
-
-| Date | Editor | Change |
-
-|------------|----------------|--------------------------------------|
-
-| 2025-07-31 | GPT-4o (OpenAI) | Initial transcript formatting |
+For more information, or to make a donation toward our cause, please visit our website.

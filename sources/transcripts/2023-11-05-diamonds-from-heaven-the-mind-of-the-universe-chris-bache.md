@@ -1,5 +1,4 @@
 ---
-
 archival_title: "Diamonds From Heaven — The Mind of the Universe (Chris Bache)"
 
 channel: "Sacred Reconnections"
@@ -7,431 +6,103 @@ channel: "Sacred Reconnections"
 published: 2023-11-05
 
 youtube_id: pvZDcQfGzpM
-
-speakers: \["CHRIS BACHE", "RACHEL", "COLIN"\]
-
 transcriber: gpt5 model by OpenAI
 
 transcription_date: 2025-08-19
 
 license: CC0 1.0 Universal
-
+speakers: ["Chris Bache", "Colin Campbell", "Rachel Fleming"]
 ---
-
-In this conversation, Chris Bache outlines the method and meaning of his
-
-two-decade, high-dose LSD practice that informed *LSD and the Mind of the
-
-Universe*—a journey he preferred to title *Diamonds From Heaven*. Beginning
-
-with animistic assumptions about an ensouled cosmos and inspired by
-
-Stanislav Grof’s framework, Bache describes carefully sitted, music-assisted
-
-sessions that progressively dissolved personal identity and opened into
-
-deeper, interactive layers of universal mind. He argues that psychedelics
-
-amplify consciousness rather than supply content, leading from personal
-
-healing to shared transpersonal territory. Key revelations include the
-
-coherence of spiritual realities across traditions, reincarnation as an
-
-evolutionary engine, and the emergence of the “Diamond Soul,” a fused
-
-wholeness of many lifetimes. With Colin’s questions on time, Bache explores
-
-nonlinear modalities and “multi-incarnation.” He frames our civilizational
-
-crisis as a collective dark night birthing a more compassionate, embodied,
-
-and perceptive human species.
-
-*\[music\]*
-
-**RACHEL:** “Diamonds from Heaven”—your book was published as *LSD and the Mind
-
-of the Universe*. Was that title the publisher’s?
-
-**CHRIS BACHE:** Yes. The publisher chose that title, but while writing I always
-
-called it *Diamonds From Heaven*.
-
-**RACHEL:** Beautiful. I’ve been a fan of your books for years. Colin and I talk
-
-about your work often—*Reincarnation* was wonderful, and then the next book,
-
-and then the LSD book. Many here don’t know your research method. I’d describe
-
-you as an explorer of the outer reaches of the cosmos, seeking the truth of
-
-reality and what it means to be human. Could you start by describing your
-
-method and what your work has been?
-
-**CHRIS BACHE:** In the animistic community we share the sense that nature is
-
-infused with consciousness—with mind and soul. We now know how vast the
-
-physical universe is; the question becomes, how large and deep is the universe’s
-
-mind?
-
-Fresh out of graduate school in philosophy of religion in 1978, I encountered
-
-Stanislav Grof’s *Realms of the Human Unconscious*. That book pivoted my life.
-
-I saw his research was relevant not only to clinical psychology but to
-
-philosophy. He offered a way to safely and systematically explore the deepest
-
-levels of consciousness, where answers to my philosophical questions lay.
-
-In 1979 I began what became a 20-year journey with LSD—the substance Grof used.
-
-If I were doing it today, I might use a more diversified medicine palette, but
-
-I worked with LSD and chose very high doses for reasons too involved to detail
-
-here. That choice profoundly affected depth and breadth. The field of
-
-consciousness expanded with the state itself.
-
-I followed a Grof-informed protocol: total isolation, a trained clinical
-
-psychologist as sitter, controlled home environment, inward focus, and carefully
-
-selected music to amplify states. At these levels, you essentially shatter the
-
-mind; it dissolves into subtler aspects of reality. It became a systematic
-
-exploration of what I call the mind of the universe. I sometimes say “the
-
-Divine,” but that term carries cultural overlays I prefer to avoid.
-
-I worked for 20 years, keeping careful records, then spent another 20 digesting.
-
-These experiences are complex and interwoven, orchestrating many levels in tidal
-
-surges. Sessions picked up where the last left off, progressively deepening. It
-
-took years to understand what the universe was showing me. I felt a systematic
-
-encounter with an intelligence that orchestrated my experience in dialogue with
-
-me—not personified, never deity-form, and, when pressed, dissolving into deeper
-
-layers of infinity. That cumulative story is what I tell in *LSD and the Mind
-
-of the Universe*.
-
-**RACHEL:** Would you say this is an objective reality—that anyone using a
-
-similar method could reach the unfolding you did? Or is that impossible to say?
-
-**CHRIS BACHE:** It’s possible to say yes—and to qualify that yes. Grof’s work
-
-integrates thousands of cases; my experiences fit comfortably within that larger
-
-matrix.
-
-Psychedelics amplify consciousness; they don’t give you an experience. Because
-
-each mind has a different history, what is amplified at first is individual,
-
-which is why these tools are powerful for healing. But if you continue—press
-
-to the limits of your time-space identity and move through ego death—you open
-
-into spiritual reality less tethered to your personal story. There, experiences
-
-begin to overlap and converge.
-
-These realities are interactive. The mind we bring acts as a seed catalyst,
-
-crystallizing a certain set of experiences from the universe’s infinite
-
-potential. As we integrate and are purified, the seed-mind changes, catalyzing
-
-deeper disclosures. Once you understand this participatory cycle, the universe
-
-discovered is coherent and consistent across contemplative, mystical, and
-
-near-death traditions—though depth matters. What seems ultimate at one level
-
-opens into a deeper level where things change.
-
-**RACHEL:** What excites me is practice. Many paths require long repetition to
-
-find the cracks in ourselves. You used a different, faster route—not easy, and
-
-not one you’d recommend broadly—but it seems you reached edges of the map
-
-similar to, and perhaps beyond, contemplative practice. Is that fair?
-
-**CHRIS BACHE:** It is a fast track, but one that permits no bypass. A
-
-compressed labor is not easier—just more intense. The purifications and
-
-detoxifications required to acclimate to subtler, clearer realities can be
-
-extreme—convulsions, vomiting, profound somatic releases—and they demand
-
-systematic lifestyle purification, just like traditional paths.
-
-Also, I emphasize this is not abiding realization but temporary immersion.
-
-Great contemplatives abide; these sessions offer temporary access and seed
-
-experiences. You must nurture those seeds in daily embodied practice.
-
-Historically, such practices sometimes fed an up-and-out cosmology—escape
-
-into transcendence. What emerged in my work was different: transcendence in
-
-service of incarnation—opening to as much of the universe as possible and
-
-undergoing the transformations that let that energy live in history. I began
-
-with a personal model; it shattered. I was drawn into a collective
-
-transformation, and insights arose into our evolutionary trajectory as a
-
-species.
-
-**RACHEL:** Let’s talk about aliveness and intelligence. Is everything animate?
-
-How layered and deep is that intelligence?
-
-**CHRIS BACHE:** The universe is alive and intelligent at every scale and in
-
-interwoven layers—biospheric intelligence, planetary rhythms, incarnational
-
-processes. At one point I entered radically dilated time—not timelessness, but
-
-vast dilation—and dissolved into my human family, experiencing reincarnation as
-
-a collective pulse: generations incarnating, living, dying, returning. What I
-
-once thought of as individual karma revealed itself as exquisitely tuned
-
-collective karma, history expressing collective transformation through our
-
-individual lives.
-
-Deeper still, I experienced the universe breathing as a single organism. When
-
-the world is One, the private self pops—life runs through you and you through
-
-life. Late in the journey, I was taken into “deep time” and shown stars of
-
-light shooting out of time-space—“Diamond Souls,” the fruition of
-
-reincarnation: diamond-pure capacities exploring spiritual dimensions newly
-
-available through evolution.
-
-**RACHEL:** Before the evolutionary story, a word on reincarnation. You wrote
-
-earlier on it. Why do you believe it’s real?
-
-**CHRIS BACHE:** I see overwhelming empirical evidence. Ian Stevenson at the
-
-University of Virginia documented hundreds of young children worldwide with
-
-spontaneous memories of recent past lives. His work has been challenged, but it
-
-holds up. Add past-life therapy that heals present trauma through past-life
-
-access—this looks like an empirical fact of life.
-
-Living in a reincarnation universe changes how you see. Children can be old in
-
-soul, elders young. Early on, psychedelics taught me karma’s nuts and bolts.
-
-Later, that became ground for experiencing the human family evolving through
-
-reincarnation. It’s the higher octave of evolution—evolving individuals within
-
-species. And not only humans; somewhere down the chain, reincarnation likely
-
-engages.
-
-Where does it take us? Each soul’s purpose is specific, and humanity’s learning
-
-is vast. One grows into strength; another grows out of defense. Eastern
-
-traditions often teach awakening to Divine essence and exiting—moksha. In my
-
-sessions, something else occurred: former lives streamed into me, wrapping like
-
-filaments on a spool until they fused. A diamond luminosity exploded from my
-
-chest. I was shown that incremental progress across lives culminates in fusion:
-
-a being on Earth awake to hundreds of thousands of years of lived history. That
-
-being’s heart, mind, relationships, and bond with nature are vastly expanded.
-
-This is not merely individual. The species is birthing the Diamond Soul. We can
-
-no longer afford a world built by fragmented egos. We are entering a profound,
-
-tumultuous birth that will feel like death—the old egoic culture dissolving so
-
-something more whole can emerge. This is plate-tectonic change in the collective
-
-psyche. Those born after will live within a different collective matrix. Part of
-
-the work is reawakening to the divine presence we stripped from nature.
-
-**RACHEL:** For first-time listeners, it’s a lot. I’d like to bring Colin in,
-
-because he often says we need a new cognitive framework to reanimate ourselves.
-
-Colin?
-
-**COLIN:** Chris, it’s an honor. Your books—especially *Dark Night, Early
-
-Dawn*—were tectonic for me. I grew up within a traditional indigenous culture
-
-in southern Africa, with a cosmology shaped by wilderness. Now I also live in a
-
-post-industrial frame. It feels like two cognitive systems inside me that I
-
-must reconcile.
-
-I’m full of questions, especially around time. Reincarnation here isn’t named
-
-explicitly, yet it’s implicit. Our usual frame presumes sequence—past to
-
-future. What happens if we remove that arrow? How would we understand
-
-reincarnation without linear time?
-
-**CHRIS BACHE:** If you eliminate the arrow, reincarnation looks like
-
-multi-incarnation—many lives active simultaneously, interacting in ways that
-
-confound linear logic. I’ve tried to live in that model and find it unworkable
-
-for ordinary life.
-
-Robert Monroe suggested an evolved soul can incarnate in any period—soul
-
-forward is not time forward. My experiences included many modalities of time:
-
-my whole lifespan present at once; a hundred thousand years lived in a minute.
-
-The universe seems to host multiple temporal modalities. From its perspective,
-
-the “future” can be shown as already happened and yet to happen.
-
-Still, within space-time there’s an approximate linear arrow that serves the
-
-soul’s learning. Life chops learning into pieces; we can’t do it all at once.
-
-The Diamond Soul on Earth holds many time-moments in present consciousness, but
-
-development continues. In a million years we’ll be farther; the universe is
-
-only warming up. Individuality and time are great gifts of the physical
-
-universe, nested within more fluid metaphysics of time.
-
-**RACHEL:** When we reach the Diamond Soul—beyond remembering and wholeness—what
-
-else does it bring?
-
-**CHRIS BACHE:** Soul consciousness is what we return to when we die—the
-
-accordion of large and small. Over millennia, the large wakes up within the
-
-small. Temporarily, I was given Diamond Soul states and saw its archetypal
-
-imprint: a human completely healed of history’s wounds, with profound communion
-
-with nature and with others, and an open mind able to enter deeper communion
-
-with universal intelligence. The genius of the universe holds answers to our
-
-limited questions; the Diamond Soul can download more.
-
-It’s not only heart and mind. The senses are amplified. In my final, 73rd
-
-session, I was granted “Diamond Vision.” For about ten minutes, sight became
-
-thousands of times sharper—gradients of color and precision I’d never imagined.
-
-Then it receded. I realized sensation is a conscious process. The more
-
-consciousness infuses the body, the more its innate capacities bloom—touch,
-
-hearing, seeing—all by orders of magnitude. It is heaven on Earth in the body,
-
-without leaving embodiment. This isn’t up-and-out; it’s bringing it in, changing
-
-the body to sustain ecstasy as normal.
-
-The labor is severe. Our past will be stripped away; what we think essential
-
-will be lost. Mystical and psychedelic traditions agree: the small must be
-
-ground to dust so the new can awaken. Historically we’re entering a collective
-
-dark night—not merely a “hard time,” but an intense purification preceding
-
-illumination. In this ordeal, the old will not survive, but something more
-
-beautiful, ecstatic, competent, and connected will be born. We are becoming a
-
-species of Buddhas and Christs—not exceptional outliers, but a baseline of
-
-transparency to the essential condition that has always been here. The universe
-
-has always been one and intelligent, and we have always been empty of a
-
-separate self; we simply distracted ourselves. We are waking to the paradise
-
-already present.
-
-**RACHEL:** I find your vision profoundly hopeful as we face ecological and
-
-social crisis. It was one of the most inspiring books I’ve read—certainly of
-
-last year, perhaps of my life. I know Colin agrees. It’s wonderful to hear—
-
+<!-- diarist_sha1:acb69643f5c35c2fdc068958b7fb3a7be29ffd8b -->
 ---
+Rachel Fleming: Diamonds from Heaven. It was LSD in the Mind of the Universe—was that the title?
 
-### Key themes
+Chris Bache: Yes, that was the publisher’s title, but my title while I was writing the book was always Diamonds from Heaven.
 
-- Psychedelics as amplifiers of consciousness, not suppliers of content
+Rachel Fleming: Okay, beautiful. I’ve been a fan of your books—Colin and I talk about them regularly. Reincarnation was wonderful, then the one in the middle, and now the LSD book has been fabulous. Many people here don’t know your research methods. I’d describe you as an explorer of the outer reaches of the cosmos, in search of the truth of reality and what it means to be human. Your method is deeply interesting. Could you start by telling us what it is and what your work has been?
 
-- Grof-informed high-dose method: sitter, music, inward focus, careful records
+Chris Bache: What we share in the animistic community is the belief that nature is infused with consciousness—with mind and soul. Now that we know how vast the physical universe is, the question becomes: how large and how deep is the mind of the universe? Just out of graduate school in 1978, finishing in philosophy of religion, I encountered the work of Stanislav Grof—one of the foremost thinkers in transpersonal psychology and the psychedelic community. I read his book Realms of the Human Unconscious, and my life pivoted. I saw his research was relevant not only to clinical psychology but to philosophy: he was offering a method to safely and systematically explore the deepest levels of consciousness, where the answers to the philosophical questions I carried from religious studies might lie.
 
-- Ego death and progressive access to transpersonal, interactive realities
+In 1979 I began what became a 20‑year journey working with LSD. That’s what Stan had done his research with, and that’s what I continued with. If I were doing it today, I’d have a more diversified cocktail—ayahuasca, psilocybin, and more—but I worked with LSD and chose very high doses for reasons too complicated to go into now. That choice profoundly impacted the work. It changed not only how deep the work went, but how wide it went. The field of consciousness I entered in these transformational exercises expanded with the power of the state itself.
 
-- Participatory cosmology: seed-mind catalyzing disclosures from infinite mind
+I worked in standard Grofian protocol: totally isolated from the world with a sitter—a trained clinical psychologist—at home in a controlled environment, completely internally focused, no contact with the outside world, amplifying the states with carefully selected music designed to empower the state of consciousness. At these levels, you basically shatter your mind; it dissolves into subtler and subtler aspects of reality. It became a systematic exploration of what I think of as the mind of the universe. I hesitate to call it “the divine,” though sometimes I do, because “divine” carries so much cultural baggage. I kept very careful records for 20 years, then digested the experiences for another 20, because these are not immediately transparent. They’re complex, interwoven, involving many levels of reality orchestrated in tidal surges of state.
 
-- Reincarnation as empirical pattern and higher octave of evolution
+There was a systematic instruction: one session more or less started where the previous session stopped. When you work systematically, there’s a progressive deepening. It took years to understand what the universe was showing me—where it was taking me. I had a sense of a systematic encounter with an intelligence orchestrating my experience in dialogue with me—not taking any deity or archetypal form, always dissolving into deeper layers of infinity when pressed. That, cumulatively, is the story I’m telling in LSD in the Mind of the Universe.
 
-- Emergence of the Diamond Soul: fusion of many lifetimes into embodied wholeness
+Rachel Fleming: Would you say this is an objective reality—that if someone used a similar method, they would reach the unfolding you did? Or is that not possible to say?
 
-- Multiple modalities of time vs. useful linearity for learning
+Chris Bache: I think it is possible to say—Stan Grof’s work allows us to say it. He’s integrating the experiences of thousands of people; I’m integrating my own. My experiences fit within the larger matrix his work has explored. It’s a complicated answer, because on one hand I want to say yes, and on the other I must qualify it. These substances amplify consciousness; they don’t give you an experience or take you to a particular place. They amplify your mind. Because each of us has a different life story, the amplified mind is different, and when an amplified mind engages the deeper mind of the universe, what comes forward initially will be somewhat unique and reflect our individual history. That’s why these substances are helpful for healing: they evoke our unconscious and therefore our problems—an individual experience.
 
-- Transcendence in service of incarnation; no spiritual bypass
+But if you keep going—press to the limits of your time‑space identity, go through ego death—then you open into spiritual reality farther removed from personal history. That’s when experiences begin to overlap and converge. Spiritual reality is not a place where you simply pluck fruit; it’s interactive, participatory. The mind we bring acts as a seed catalyst; it crystallizes a certain set of experiences from the infinite potential of the universe. As we internalize and are purified by those experiences, the seed mind changes and catalyzes an even deeper level. Once you understand this cycle, the universe we discover is coherent and consistent. It’s the same universe discovered by contemplative monks, mystical traditions, and near‑death experiencers. There are degrees of depth, and we must be careful not to think, “This is reality,” when it may be, “This is reality at this level”—which can be popped to enter a deeper level where things change.
 
-- Collective dark night birthing a new human baseline of compassion and clarity
+Rachel Fleming: One exciting thing about your work is that we talk about practices—finding cracks in ourselves to become more porous and expanded—but they take repetition and tenacity. You used a different method, a fast track of sorts. It’s difficult, and I’m sure not one you’d recommend to many people, but it feels like you fast‑tracked a lot of slower practices and got to the edge of the map they reach. I feel you’ve gone further than much I’ve seen on the underlying nature of reality. Would you say that’s true?
 
-- Expanded perception (“Diamond Vision”) and embodied sacredness of the world
+Chris Bache: It is a fast track—except it doesn’t allow bypassing. It’s more intensely concentrated. Purification that in conventional paths might be drawn out over years can take place within days. As any woman who’s given birth knows, a short labor isn’t necessarily easier—just much more intense. The purifications and detoxifications required to acclimate to subtler, cleaner states are extremely intense—convulsions across the floor, vomiting, coming and going. They require a systematic purification of your lifestyle, as in traditional practice.
 
----
+I emphasize that the states I touched for hours at a time are usually known from contemplative mystics who abide in them. This is different. It’s temporary access—temporary immersion. All honor to the Great Ones who abide; I don’t want to confuse abiding immersion with temporary immersion. You don’t come away with permanent access embedded in your nature. You come away with seeds of transcendence—seed experiences you then must nurture in daily spiritual practice and embodied life.
 
-### Revision history
+Historically, these practices have often been associated with dissociative spirituality: up and out—get to transcendence and away from Earth. The cosmology that emerged in my work was different. It wasn’t transcendence for its own sake; it was transcendence in service of incarnation—deeper integration. It was about opening up and letting in as much of the universe as possible, then undergoing the transformations that allow this energy to live in the historical body. At one point I was given insights into where evolutionary intelligence was taking the human family. I began thinking in terms of a personal model of transformation, but events shattered that model. I realized I’d been drawn into a collective transformation, and my so‑called individual work was part of a collective process, which yielded insights into our evolutionary trajectory.
 
-| date | editor | change |
+Rachel Fleming: I want to ask about that in depth—because that’s the exciting thing you discovered, if you like. But first, the aliveness and intelligence of the universe. Are we talking about aliveness and intelligence in everything around us, humans being just one locus? Is everything an animate world, an animate universe? Could you summarize your understanding of how layered that aliveness is—how deep it goes, how big it is?
 
-|------------|----------------------|----------------------------|
+Chris Bache: You’re asking a lot—the universe is vast, and the mind of the universe has many layers, complexly interwoven. It’s all alive and intelligent. Everywhere we dig, we encounter living intelligence. Dig into the mind of the universe and you find layers of intelligence operating there; layers operating in the biosphere; layers in the incarnational rhythms of a planet.
 
-| 2025-08-19 | gpt5 model by OpenAI | Initial transcript formatting |
+At one point, for example, I began to experience reincarnation from states of radically dilated time—not eternity or timelessness, but radical dilations of time—and dilations of personal boundaries, dissolving into my human family, becoming the human family. From that perspective I experienced the pulse of reincarnation taking place: all of us together, as a single organism, incarnating generation by generation. I experienced whole lifetimes—generations living, dying, returning to spiritual reality. There was an intelligence to the entire process, so that what I had thought of as individual karma was part of a vast network of exquisitely tuned collective karma. History expressed rhythms of collective transformation through the medium of our individual transformation.
+
+Going deeper, I began to experience the pulse of the entire universe as a single living organism. When you dissolve into that level of oneness, you experience that there are no permanent boundaries between yourself and the world—literally there is no private self. The self pops; life runs through you, you run through life, and the whole of life breathes as one.
+
+At the very end of my journey—my 70th session out of 73—I was taken deep into what I call deep time and given a series of visions. In one, I experienced, from my perspective and history, the large story of what was happening in the universe. I saw stars of light shooting out of time and space into the universe. I understood these as diamond souls—the fruition of a reincarnation process creating a diamond‑pure soul that could explore the spiritual world in dimensions previously unavailable to it. Time and space were creating diamond souls over vast periods of time—layers upon layers of intelligence operating at different levels.
+
+Rachel Fleming: When I read your book, it’s literally mind‑blowing—almost science fiction, and yet nothing in it didn’t sound right. I’d love to talk about the evolutionary process—you touched on it—but first, reincarnation. Not everyone feels it’s true. You did earlier work on it. Before we go to the evolutionary story, could you talk about reincarnation and your work on it, and why you believe that is what’s happening?
+
+Chris Bache: I wrote my first book on reincarnation because it’s an essential principle. Our philosophical roads divide if you think we’re on Earth one time versus multiple times—those lead to different visions of reality. Today I think we have overwhelming empirical evidence that reincarnation is simply true—a fact of life. Ian Stevenson at the University of Virginia documented hundreds upon hundreds of young children around the world with spontaneous memories of their most immediate past life. His research has been challenged but it holds up; he’s the Charles Darwin of reincarnation studies. Then there’s past‑life therapy—highly qualified clinicians using access to past‑life memories to heal present‑life traumas. To me, that’s an empirical fact.
+
+It takes time to live inside a reincarnation universe and feel the implications: that all of us have been here multiple times; all of us have deeper histories with place, people, projects; we’re always starting something, continuing something, doing something that will be continued. The overlapping complexity means I don’t see little children as little anymore, nor old people as old. Sometimes children are deeply old in soul; sometimes the old are young in soul. You tune to a different level.
+
+In the early stages of my psychedelic work, I was taken into the nuts and bolts of reincarnation and karma. That became ground one as I began to be taken into the human family and experience it evolving through reincarnation. Reincarnation is the higher octave of evolution—the cutting edge in our species. Where evolution was trying to change whole species, reincarnation evolves individuals within species—and not only humans. Somewhere lower down the line, reincarnation begins to gestate.
+
+Then: where is reincarnation taking us? If we reincarnate so many times, what’s the purpose? It’s complicated. Once you see that every human being reincarnates with a specific purpose, you grasp the breadth of what humanity is learning—enormous in scope. When we say “the purpose of life,” we tend to overgeneralize from what we identify with. We have to look at the whole family of humanity and the range of what’s being learned to even begin a generality that encompasses it all. Sometimes we’re learning love, generosity, strength of self, physical defense; sometimes we’re learning to surrender physical defense. What one person is growing into, another may be growing out of; both are living their truth at a process level.
+
+Most Eastern religions say you activate the chakras, bring higher consciousness online; when you open to divine essence—the you that is more real than any individual incarnational you—you reach enlightenment, moksha, and can leave. Once you wake up, let’s get out of here—there are better places than Earth. That’s an up‑and‑out cosmology. What happened in my sessions was different. About halfway through my journey, all my former lives began to come into me. In a kind of deep‑time pregnancy, they wrapped around me like a filament on a spool—whole human lifetimes. They reached a critical mass, fused into one, and there was a tremendous explosion of energy. A diamond luminosity exploded from my chest. I was shown that we make incremental progress lifetime by lifetime, but the goal is not only incremental progress. Eventually, all our lives fuse into one, and we become, on Earth, a being who has hundreds of thousands of years of history awakened and empowered within. That being is different from an egoic being—its heart is deeper, its mind broader, its social texture richer. Its relationship to nature is different because it knows the world we leave is the world we inherit.
+
+This is not simply an individual path. We are all giving birth to the diamond soul. The species can no longer afford the luxury of a fragmented egoic state. A world order created by egos fragments and serves some, not others. When the soul wakes up—with the profound compassion of its history—it lives differently. We’re entering a profound, tumultuous period—a birth process that will feel like a death process, destroying the egoic culture and the ego that built it, dying to what is small and giving birth to something new: a new stage in the human story. Not merely a new body politic or economics, but a shift at the depths of the collective unconscious—the plate tectonics of the collective psyche shifting. All humans born after this transition will live their individual life within the matrix of a different collective psyche. That’s the work of the hour—actualizing this and reawakening to the divine presence we tried to strip out of nature, and to the intelligence that surrounds and saturates us.
+
+Rachel Fleming: Wow. People hearing this for the first time may find it difficult to get their heads around. I want to bring Colin in. To summarize in my terms: you’re talking about the evolution of the human species—individually and collectively—towards a position where we can remember our entire history. If we take reincarnation as a given, we’re evolving toward remembering our past incarnations on Earth. Colin, can I bring you in? In reanimating ourselves, we need a completely new cognitive framework. The way of connecting to the intelligence in the universe is so foreign to us now that we need a whole different framework to wrestle with that kind of information. What’s your feeling about what Chris is talking about? I know you’ve read the book and love it—biased question—but from your perspective?
+
+Colin Campbell: Thanks, Rachel. First, it’s an honor to meet you, Chris. My encounter with your books—the first was Dark Night, Early Dawn—was tectonic for me. I’m filled with questions. Many I don’t even know how to articulate; I can feel and sense them, but not frame them. I find myself at the edges of what I call my present cognition.
+
+I was born into and brought up within a traditional indigenous culture here in southern Africa. Through my childhood I lived in wilderness and among people with a very particular relationship with wilderness and a cosmology that came from it. Subsequently I find myself in the post‑industrial world, trying to reconcile that part of me with where I am now. It often feels like two cognitive frameworks within me, and I’m tasked with reconciling them. Reading your books pulls me back into the cognitive system I grew up in, the under‑structure of my experience now.
+
+Within that I have questions—loads of them—especially around time. Reincarnation isn’t something that explicitly appears in the cosmologies here, and yet it’s implicit in certain terms. As we speak about reincarnation, the cognitive framework I bring relies on a sequence of time that speaks of a past from which we come and a future to which we go. But what happens if we take that out—if that’s merely my present cognitive framework? How would we understand reincarnation, and the notion of a trajectory toward something, if time in its sequence—from beginning to seeming culmination—wasn’t the case? I don’t know if I’m making sense.
+
+Chris Bache
+It’s a good question. If we eliminate the arrow of time, then reincarnation begins to look like multi-incarnation, not reincarnation. Some people have conceptualized this: we’re living all our lives simultaneously, all active and interacting in ways that befuddle the logic of linear development and require a different kind of logic. I’ve tried to think in that world many times, and I keep coming down to: I can’t do it. I literally cannot live in a world where multi-incarnation makes sense.
+
+Another thread: Robert Monroe, from the Monroe Institute of Applied Science—the out-of-body guy—wrote three wonderful books exploring the universe daily from the out-of-body state. He says you reach a point in your spiritual development where you discover that you can incarnate in any time period you wish. Soul-forward does not mean time-forward. You can incarnate in the 10th century BC, and next in the 20th century AD. That preserves the concept of development, but flexes the notion of time’s absolute linearity.
+
+For myself, I’ve gone through so many permutations of time—moving into deep time where I experienced my entire life, birth to death, simultaneously present. I was experiencing the whole of my life—the end, the beginning, and all its development—as a simultaneous whole. Later, I was taken into periods where 100,000 years were being lived out as if they were one minute. It convinced me the universe has many modalities of time built into it; when we move into deeper dimensions of reality, different modalities of time are available.
+
+This makes me receptive to letting go of linear time and linear development. I try to reconcile the fact that, from the universe’s perspective, there are multiple modalities of time, so the universe can show me the future from its time and give me the experience of knowing the future as something that has already happened and is yet to happen—while at the same time holding onto some notion of the value and challenge of something approximating linear development.
+
+My best take is that life chops its challenges—chops learning—into bits and pieces. We can’t learn it all in one lifetime. We can’t do it all simultaneously. It’s easier if it’s broken down. And if this challenge of linear development is coming to fruition—coming to a diamond soul, an awareness that holds all of its time-moments in its present consciousness on Earth—this is not the end of the developmental story, because in a million years we’ll be farther; in a billion years, farther still. The universe is just getting warmed up. We have no reason to think it’s anywhere near the end of its evolutionary story; it’s still in the early stages.
+
+I think of time as one of the great gifts of evolution. Individuality is one of the great gifts of the physical universe. Time is another. Behind that lie permutations of metaphysics that are more fluid with respect to time, but inside space-time I think there is an approximate linear arrow of time that serves the soul’s purpose—serves some deeper kind of cosmic web. And yet, when we are in linear development, if we open up to the universe’s sense of time, we often get flashes of more than the present—parallel dimensions of time. So your question makes a lot of sense; it’s a substantive question.
+
+Rachel Fleming
+This is the problem with your work, Chris: we’re out in inarticulate ball terrain, aren’t we, when we get to what you call the diamond soul. When there’s this moment of remembering, what are the other attributes? What does that bring, beyond remembering and wholeness? Did you have an experience of what else?
+
+Chris Bache
+First of all, I think soul consciousness is what we return to when we die. While we are in the Bardo Earth kind of stage after death, we return to whole consciousness. It’s not unfamiliar; it’s something we know. Then we precipitate out of whole consciousness into part consciousness—egoic consciousness—and return. It’s a constant accordion effect: we die and get large; we’re born and get small; we die and get large; we’re born and get small. Sooner or later—if we just keep up for a few thousand years, a hundred million years—large wakes up inside physical consciousness. It’s simply a consolidation of what takes place naturally and normally, a stage in the process.
+
+The times I’ve been carried into deep time and experienced, temporarily, my diamond soul—the soul that’s emerging as an archetypal imprint, an archetypal form—it’s hard to describe because of the enormity, the beauty, the joy. We’re talking about a human being completely healed of all the wounds of history—healed of all the terrible things we’ve done to each other, of wars and violence. Healed, with a tremendous breadth of communion with the natural world, an intimacy with all life forms; a breadth of companionship with all life, with other human beings, with human community and nature’s community. And an openness of mind—able to take in more directly, to enter into deeper communion with the intelligence of the universe. The genius of the universe has answers to all the technological questions we want to answer; we’re just not able to download all that knowledge. The diamond soul is a more complete and higher potency of human being that can enter into deeper downloads from divine intelligence.
+
+It’s not only an expansion of heart and mind; our physical senses are amplified by orders of magnitude. In the very last session—after 73 sessions—the universe gave me an experience of what I call diamond vision. In a late-session, wind-down, clear space, my vision became thousands of times sharper than it had ever been. I could see details, gradients of color, the precision of form. I realized I had accepted this fuzzy stuff as real seeing; this was diamond-clarity seeing. After ten minutes it went away, and I was seeing the way I normally see. That’s when I realized: we tend to think of sensation as a biomechanical process, but it’s actually a conscious process. The more consciousness present in the body, the more the body’s built-in capacity for higher levels of sensate experience—touch, hearing, seeing, sensitivities of all kinds—comes online.
+
+It truly is heaven on earth in the body—the body participates in the qualities of heaven without leaving physical existence. It’s not an up-and-out cosmology; it’s bringing it in deeper and deeper, literally changing the physiology of the body to allow it to operate in an ecstatic state that becomes the normal state. That child, I think, is worth the labor we’re going into to give birth to.
+
+And we are going into terribly severe labor. Our past is being stripped away. We will lose capacities we associate with normal existence. This is what happens in mystical and psychedelic traditions: the small has to be broken down to dust, stripped and dismembered, for the new to awaken within us. This is happening now historically—we’re entering what I think of as the dark night of our collective soul. The Dark Night is often used as an image for a hard time, but in John of the Cross, the Dark Night of Self is a hard time; the Dark Night of the Soul is a very intense purification that immediately precedes the awakening of full illumination. A dark night of the collective soul is a time of intense purification, an intense loss of reality as we have known it. Out of the pain and suffering that’s coming, it’s going to crack us open and break us down to our center. In this ordeal, we will not survive, but we will give birth to that in us which is more beautiful, more ecstatic, more competent, more plugged in.
+
+I think we truly are becoming a species of Buddhas, a species of Christ and prophets. These are the models we’ve had trying to give us some forevision of what’s happening. In the early years we couldn’t imagine an ordinary human being reaching that level of excellence, but now we’re beginning to understand: through reincarnation, over and over again, slowly we grow into that level of excellence, which is simply a level of transparency to the essential condition in which we experience life. The irony is, we experience what’s always been happening all along. It’s always been this way. The universe has always been one. The universe has always been filled with intelligence. We have always been empty of self. Somehow we distracted ourselves from knowing that. So we’re waking up to the paradise the universe already is. We’ve just been missing it.
+
+Rachel Fleming
+Wow, Chris. I find your experience and your vision such a hopeful one as we move into ecological and societal crisis. As I said at the beginning, it was the most inspiring book I read last year—one of the most inspiring of my lifetime. I’m sure Colin would agree. It’s so wonderful to hear.

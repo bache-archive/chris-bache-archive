@@ -1,0 +1,20 @@
+---
+speakers: ["Chris Bache"]
+---
+<!-- diarist_sha1:7e8394be8d833325035fbc33019ab2756533b642 -->
+---
+---
+Interviewer: 
+At an integration circle, someone mentioned a mystical experience in which he encountered Ganesh, the elephant god of Hinduism. After your journeys, how do you reflect on the meaning of encountering a particular deity or form?
+
+Chris Bache: 
+When we experience realities beyond us—dimensions of consciousness beyond our own—and tap into qualities like infinite compassion, infinite intelligence, and infinite creativity, we naturally associate them with deities. It's not surprising that the mind maps the phenomenology of the experience onto deities we've been exposed to intellectually. Sometimes we encounter deities that aren't part of our personal lineage, even figures we didn't know about. It can come completely out of left field, yet bear the cultural form of a deity—Ganesh, Jesus, Mary, the Prophet Muhammad, or something like that.
+
+My understanding is that when we engage entities or forms identifiable in our historical traditions, we are engaging a collective thought-form, or a spiritual being wearing the clothes of a collective thought-form. By that I mean: if millions of devotees meditate, pray, and offer devotion to a scripturally identified form—painted and sculpted in a culture—over thousands of years, that sustained devotion creates a structure in the collective psyche, a collective thought-form. I don't minimize these forms; they're extraordinarily powerful, including secular thought-forms like greed, power, and anger, which are also very potent in our system.
+
+So when we encounter a deity in a particular form, we are either encountering a spiritual principle beyond form that is wearing this collective garment, or we are experiencing the collective garment itself. Either way, the collective psyche is implicated. That's perfectly normal and good. At the same time, it's possible to go beyond all collective thought-forms and beyond human history in one's experience, and when one does, those forms tend to fade away.
+
+There's a lot of discussion of entities—particularly because DMT and DMT derivatives often expose people to entities. I'm not suggesting those entities aren't real, but to me they reflect different levels of reality. As you go deeper, the granular quality of lots of individual beings yields to levels that are less granular—fewer individual beings—and opens into vast tracts of consciousness that are less individual, less entity-like, at least in my experience.
+
+Interviewer: 
+That resonates. It seems like a matter of levels, and after seeing where you go in those levels, it makes sense that at some point even those dissolve into something different.

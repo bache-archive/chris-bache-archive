@@ -1,5 +1,4 @@
 ---
-
 archival_title: "2024-06-30 – LSD and the Mind of the Universe – Full Interview (In Reality)"
 
 channel: "In Reality"
@@ -7,169 +6,36 @@ channel: "In Reality"
 published: "2024-06-30"
 
 youtube_id: "wp5V5_Y5rJ8"
-
-speakers: \["CHRIS BACHE"\]
-
 transcriber: "gpt5 model by OpenAI"
 
 transcription_date: "2025-08-19"
 
 license: CC0 1.0 Universal
-
+speakers: ["Chris Bache"]
 ---
+<!-- diarist_sha1:2b1a1e65cce2a191365477e6b08da70ad8260463 -->
+---
+Chris Bache: 
+And eventually you come out with a certain understanding, at least of the large structure—the nature of reality. We're not simply creating a new society or a better society or a new economy or a new ecology. We are actually giving birth to a new form of the human species. I never expected anything like this to emerge in the work. I didn't know this was even possible. At the subtle level of consciousness, you open up to different levels of collective consciousness, and when your individual identity pops, you can open to your species identity, to the collective psyche. I’ve had that experience many times.
 
-In this short monologue, Chris Bache sketches the cosmology and evolutionary arc revealed in his
+Well, I'm always hesitant to jump into this, because my experiences are based upon shamanic, rigorous use of LSD. When people hear LSD, they think the ’60s, hallucinations—this is very far from that. This is within a therapeutic tradition, within Stan Grof’s tradition: the systematic use of these very hyper-intense states of awareness. When you engage these states, there are cycles of tremendous purification—tremendous death and rebirth, death and rebirth. If you go through it often enough, deeply enough, there is a progressive initiation into deeper and deeper levels of reality, and eventually you come out with a certain understanding, at least, of the larger structure of the nature of reality. It's not easy to summarize, but I’ve tried to do it in this book I’m just finishing, Diamonds from Heaven, to describe the progression.
 
-two-decade, high-dose LSD practice. He distinguishes rigorous, therapeutic use—rooted in Stanislav
+One of the qualities that comes out of this cosmological vision is that there are many, many levels to the cosmos. The physical world is a dense level—of course there are layers within it as we get into the quantum level—but as you build out into non-physical or extra-physical dimensions, there are layers upon layers. It’s a repeated experience that the lower levels are sourced in the higher levels. The deeper levels are more intelligent, more intense energetically, and more conscious. Going into them is entering a more conscious, more powerful, more source dimension of existence, until eventually you leave behind time-space. There are dimensions which echo time-space—what the Tibetans call the Bardo, the intermediate dimensions—and one can go beyond all the echoes of time and space and enter what some traditions would call extra-samsaric reality, reality beyond all cycles of death and rebirth: the domain of pure light. Quantum physicists say all molecules are ultimately rooted in light—photons are light—and I find that true in the domain of consciousness. Ultimately, all physical reality is sourced in an ocean of light, an ocean of radiance.
 
-Grof’s framework—from casual associations with “the 60s,” emphasizing cycles of purification and
+You can't take your ego into that reality and have an experience of it. You can only enter those realities by surrendering what you were in the lower realities. It's not that the lower realities are inferior or bad; they are more specific, progressively individualized manifestations of a larger reality. To enter higher levels, you reverse the process: you decouple, let go at deeper levels, so that you literally become, for hours at a time, a citizen of that level of reality. You stop being Chris Bache. You stop being a human being. You stop being a time-space being at all. You literally live and breathe the nature of that existence. There is always a profound sense of homecoming and return. All existence comes from this reality, so there’s a tremendous sense of stillness, calm, reunion—being restored to your primal wholeness. One senses that these levels constantly infuse and inform this reality.
 
-death–rebirth that open progressively into deeper, more intelligent, and more luminous dimensions of
+Our theories of evolution are partly right and partly deeply incomplete. We think it's all happening by chance, screened by necessity. My experience is that it’s not driven by chance—chance has a role—but there is a tremendous intelligence manifesting itself in the self-emergent quality of time and space. It’s not a god outside manipulating, and it’s not even intelligent design in that sense; it’s a self-arising intelligence, a self-emerging intelligence manifesting ever more complex forms of life. When you move into these deep dimensions, you move beyond linear time as we conventionally know it, into deep dimensions of time, and sometimes beyond any sense of time whatsoever. Coming in and out of these states, you get a perspective that this reality is changing—where it’s changing to—what the next phase of human evolution might be. We’re going somewhere, and an intelligence is expressing itself in this process. The end result is a sense of trust: you learn to trust where you are, that there is wisdom in what you’re doing, and somehow each of our works contributes to the larger pattern of creative intelligence manifesting inside time and space.
 
-reality. Bache describes a hierarchy of levels in which higher strata source the lower, culminating
+I was totally surprised. I had never seen this addressed in the psychedelic literature. When you pop the bubble of the ego, you don't simply drop into unitive or oneness consciousness. At the subtle level of consciousness, you open to different levels of collective consciousness. When your individual identity pops, you can open to species identity—the collective psyche—and I found that species consciousness is coherent. Carl Jung was right: there is a coherent species mind. As the shamanic traditions say, when you touch the species mind in deep states of consciousness, it’s natural to receive insights into the evolutionary progression of this species. Over many years I had repeated experiences taking me deeper and deeper, teaching me what’s happening, showing me visions that humanity was coming into a time of tremendous fruition. After hundreds of thousands of years of development, we were coming to a pinnacle—a great awakening, an opening of a new level of consciousness in humanity. This is a pivot point. Everything we’ve accomplished would quickly become passé as we pivot into this new platform of consciousness.
 
-beyond time–space in “pure light.” He recounts repeated openings into species consciousness and a
+But for there to be a great awakening—the birth of a new consciousness—there must first be a great death. Just as mystics pass through a dark night of the soul to awaken into divine consciousness, humanity will have to pass through a great dark night of our collective soul to purge the karmic residue of ego-driven competition, hostility, violence—the things we do to each other. We can’t take that forward. This world we live in is a world built by ego. We are moving into a larger reality, and we have to let go of those old restrictive poisons. I think we’re coming into a time of great crisis. The visions show a dark night of purification. I don’t know the details; I’ve just experienced it. I think it starts in the 21st century. I don’t know how long it will last, but it’s a time of loss of control, breakdown, destructuring of life as we know it.
 
-vision of humanity entering a pivotal dark night followed by a great awakening—the birth of a “future
+But coming out of it, we’re not simply creating a new society or a better economy or ecology. We are giving birth to a new form of the human species. The fundamental architecture of the collective psyche is pivoting, and as it pivots, we birth a new blueprint for humanity. In my visions and psychedelic experiences—and others—reincarnation is simply a fact. We die, we’re born; we die, we’re born. Lifetime by lifetime, we rewind, collecting more experiences. In my sessions, I reached a point where all my former lives reintegrated—coming together like winding kite string around a spool—until it hit a critical mass and exploded into the most brilliant, luminous diamond light in my heart. I think I was being shown where reincarnation is taking us. We’re not just moving from first grade to second to third, adding incremental improvements. Sooner or later, we reach a fusion point where all our lives and experiences hit a critical mass and fuse. When that happens, the soul awakens inside the human body. When we die, we return to the soul—the mega-consciousness that holds us all—but this is the awakening of the soul inside time and space. I think that’s the future human we’re birthing. We’ve been gestating this consciousness for hundreds of thousands of years. We’re giving birth to it now. Most of the work has been done in history; now it’s time for this inner development to manifest.
 
-human” whose soul-awareness flowers within history. Reincarnational learning integrates across lives
+When we awaken as souls—when deep consciousness awakens—it will change life on our planet, because it will make our minds safe. Our hearts will be open, and we will no longer be a danger to each other or other species. There will be a much easier communion with the deeper creative consciousness of the universe, igniting a period of tremendous creativity—an acceleration of creativity. At the very end of this long 20-year journey, in my last sessions, I was put through a tremendous strip-down process and thrown deep into the future—I don’t know how far—and allowed to experience, to try on, that form: the most beautiful, extraordinary being. It’s really important to understand that we are giving birth to something magnificent. If we don’t have a vision of what’s happening in history, we will get swallowed by the pain of the purification that’s coming. We must hold firm and not yield to despair. A mother giving birth is in terrible pain, but she knows what she’s doing. We are giving birth. We have to understand what we’re doing.
 
-to a fusion point symbolized as diamond light. Evolution, he argues, is guided by self-arising
+We tend to think statically about human nature because it doesn’t seem to change very fast. But when you expand the horizon—intellectually, imaginatively, or experientially—what I was given to experience is that humanity is built for speed, and it has to do with our learning cycles: 100 years, 100 years, 100 years. The universe does not think in 100-year increments; it thinks in billions and trillions. From that perspective, humanity seems designed for accelerated evolution. On the long scale, we’re moving very fast through time. All the pains and mistakes—we carry them in our person—but we can shed them if our awareness intensifies, as I think it will in the trials that are coming. If we pay attention, do our work well, and live deeply, we can shed the past very quickly. As we shed the past, we can enact the soul in history.
 
-intelligence rather than mere chance. Holding this vision, he urges trust through the purification now
+He tells his story in four journeys of being taken into the not-great-distant future. He later said it was about a thousand years out, where, when he was taken into that future and looked back, all of the Bardo was empty—all the souls in the Bardo were emptied. There was much cleaner, clearer communion between physical beings and spiritual consciousness. It was easier to do a temporary visit—to come in, share a physical life form, leave it, and return to spiritual reality. I think that’s another way of describing where we’re going, because the Bardo is this layered reality surrounding time and space, filled with soul fragments—unintegrated pieces of experience at different levels. As we become more integrated, more coherent, we empty the Bardo. As we do, the communion between deep spiritual reality and physical reality becomes easier, clearer. We’ve seen it in individuals—great saints translucent to this reality—but I think they foreshadow what’s happening for the whole species. We’re going in that direction as an entire species.
 
-unfolding, insisting that the creative universe is “very happy with us.”
-
-*\[Music\]*
-
-**CHRIS BACHE:** I’m always hesitant to jump into this, because my experiences come from shamanic,
-
-rigorous use of LSD. When people hear “LSD,” they think of the 60s or hallucinations, but this work
-
-sits inside a therapeutic tradition—Stan Grof’s tradition—systematically engaging hyper-intense
-
-states of awareness.
-
-**CHRIS BACHE:** Entering these states brings tremendous purification—death and rebirth, again and
-
-again. If you go deep and often, there is a progressive initiation into deeper levels of reality, and
-
-you come out with a sense of the large structure of things. I try to summarize that progression in
-
-Diamonds from Heaven.
-
-**CHRIS BACHE:** The cosmos has many levels. The physical is the dense level, with layers even inside
-
-it down to the quantum. As you move into non-physical dimensions, each higher layer is more
-
-intelligent, more energetic, more conscious, and it sources the levels below. Eventually you leave
-
-time–space and pass through bardic echoes of it, and beyond that into extra-samsaric reality—domains
-
-of pure light.
-
-**CHRIS BACHE:** You cannot take your ego there. To enter, you surrender what you were in the lower
-
-realms. The lower aren’t bad; they are specific, individualized expressions of the larger reality. To
-
-be a citizen of those higher domains for hours, you stop being Chris, stop being human, stop being a
-
-time–space being. The experience is one of profound homecoming—a return to primal wholeness.
-
-**CHRIS BACHE:** Our evolutionary theories are partly right but deeply incomplete. Chance plays a
-
-role, but what presents itself is a self-arising intelligence manifesting through time and space. It is
-
-not a god outside tinkering, nor top-down design. It is creativity emerging from within reality itself.
-
-**CHRIS BACHE:** In deep states you move beyond linear time into deep time, sometimes beyond any time
-
-at all. Coming in and out of those states gives a perspective on where this world is going. There is a
-
-direction. The end result is a cultivated trust—trust that where you are and what you are doing fits a
-
-wiser pattern.
-
-**CHRIS BACHE:** When the bubble of the ego pops, you don’t just drop into unitive awareness; at the
-
-subtle level you can open into collective consciousness. Many times I opened into our species mind.
-
-Jung was right—the species psyche is coherent. Touching it, it is natural to be shown something of our
-
-evolutionary trajectory.
-
-**CHRIS BACHE:** Over years, I was taught that humanity is approaching a great fruition—a pivotal
-
-awakening into a new platform of consciousness. But as with mystics who pass through a dark night,
-
-our species must pass through a collective dark night to purge the karmic residues of egoic violence
-
-and competition. A crisis is unfolding—a loss of control and structural breakdown—but on the other
-
-side we are not merely making a better society. We are giving birth to a new form of the human
-
-species.
-
-**CHRIS BACHE:** Reincarnation appears as a given: birth and death across lifetimes, collecting
-
-experience. In my sessions, many lives reintegrated like winding kite string on a spool, reaching a
-
-critical mass and exploding into brilliant diamond light in the heart. That showed me where
-
-reincarnation is taking us—not just incremental grades but a fusion point where the soul awakens
-
-inside time and space. That is the future human we are birthing.
-
-**CHRIS BACHE:** Humanity is built for speed in the long view. Though we live in hundred-year cycles,
-
-the universe thinks in billions. Under intensified awareness—especially amid trial—we can shed the
-
-past quickly, enact the soul in history, and move into clearer communion with the creative depth of
-
-reality. The saints’ translucence foreshadows what is opening for the species.
-
-**CHRIS BACHE:** Near the end of my journey, I was stripped down and thrown far into the future,
-
-allowed to “try on” that form—an extraordinarily beautiful being. It is crucial to know we are
-
-birthing something magnificent; otherwise the pain of purification can swallow us. Like a mother in
-
-labor, we must not yield to despair. We must understand the birth.
-
-**CHRIS BACHE:** Lastly, what keeps coming through is that the Divine—the creative consciousness of
-
-the universe—is very happy with us. We make mistakes, yes, but in the long view we’re working hard
-
-and right on time. There is more hard work ahead, but the trajectory is good.
-
-*\[Music\]*
-
-*\[Applause\]*
-
-## Key themes
-
-- Rigorous, Grof-informed LSD practice as a disciplined path of purification and initiation
-
-- Stratified cosmology: higher, more conscious levels source the lower, denser realms
-
-- Ego-surrender as gateway beyond time–space into domains of pure light
-
-- Evolution guided by self-arising intelligence, not mere chance
-
-- Deep time perspectives cultivate trust in the unfolding process
-
-- Openings into species consciousness and a coherent collective psyche
-
-- A collective dark night preceding a species-wide awakening
-
-- Reincarnation integrating to a fusion point: “diamond light” and the future human
-
-- Toward clearer communion between physical life and spiritual reality
-
-## Revision history
-
-| date | editor | change |
-
-|------------|-----------------|-------------------------------------------------------------------------------|
-
-| 2025-08-19 | gpt5 (OpenAI) | Initial transcript from user-supplied raw text; formatted to house style. |
+I think we have an extraordinary future ahead. We have some hard work to do, but underneath, the thing that has come through my sessions is that the Divine is very happy with us and everything is right on time. We make so many mistakes, we do so many things badly, but in the long view, the sense I get is that we’re working hard and doing a pretty good job. There’s more hard work ahead, but overall the Divine—the creative consciousness of the universe—is very pleased with what’s happening.

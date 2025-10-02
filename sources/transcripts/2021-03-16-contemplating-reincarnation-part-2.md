@@ -1,5 +1,4 @@
 ---
-
 archival_title: Contemplating Reincarnation - Part 2
 
 channel: Gene Keys
@@ -19,411 +18,129 @@ transcriber: gpt5 model by OpenAI
 transcription_date: 2025-08-15
 
 license: CC0 1.0 Universal
-
+speakers: ["Chris Bache", "Richard Rudd"]
 ---
+<!-- diarist_sha1:05f67ceed1c55e0ae6b8867d0bf6c4c351aae626 -->
+---
+Chris Bache 
+Well, hello, Richard. It's good to continue our discussion. In our previous conversation, we started on reincarnation—looking at the evidence from extraordinary children around the world—and began to unpack that evidence into a deeper understanding of the rhythms of life and the stages of human evolution that reincarnation makes possible. It restores the meaningfulness of the challenges embedded in our lives and offers an opportunity to deepen therapeutic interventions where we’re stuck, where we’re holding pain rooted in our deeper history. Today, let’s go farther—into the significance of being reincarnating beings in a universe that supports, nurtures, and created this reincarnation dynamic.
 
-This dialogue between Chris Bache and Richard Rudd deepens their exploration of
+Richard Rudd 
+That’s a huge difference, isn’t it—living in a universe that nurtures us, with a kind of paternal-maternal energy surrounding it. That’s such a different framework to be born into.
 
-reincarnation beyond evidence and into meaning, agency, and practice. They
+Chris Bache 
+Yes. And I want to mention at the outset that some reincarnation thinkers assume every little thing in our lives is determined, but I don’t think we need to go there. Chance is a powerful element of this universe. We can affirm meaning and intentionality without forcing every detail into that press of “What’s the meaning of this? What’s the meaning of that?” We can affirm a larger scope of meaning in a world with chance, variables, and uncertainties. What’s important is understanding that the universe pays attention to how we respond to chance events as well as intentional events. Our learning—our quality of response—is carried forward and does us credit, regardless of the origin of the challenges we face.
 
-contrast deterministic narratives with a universe alive to our responses, where
+Richard Rudd 
+Absolutely. Funnily enough, today I recorded a short meditation where I asked people to imagine the universe crisscrossed by fields of karma—like ley lines through time and space, rippling with karmic energy. Then I invited each person to send out one really beautiful thought from the depth of their soul into that field, and to see the universe respond—how it enters the field, how the universe sighs and expands, how it reaches every tiny area, almost like opening synapses. The incalculable power of dropping something like that into the ocean of time and space—I find that a powerful contemplation.
 
-chance and intention both matter and where learning carries forward across
+Chris Bache 
+Absolutely. That’s very much my experience from working deeply with psychedelics: nothing I did at deep levels was mine alone or private. The pain came from a larger collective web, and the healing spread into a larger collective web. Practices like the meditations you’re describing change the tilt of how we live in the universe. According to our physical senses, life can feel like something independent of us that happens to us—we’re its victims, and then we respond. But when you begin to send out healing and love into the universe, you watch it respond—immediately and indirectly. Then you shift into sensing you live in a dynamic field; you are part of a dynamic field. At a deep, subtle level, you’re creating your universe as you go. That doesn’t mean you’re free of all the karma coming at you from the past—it’s still working its way through—but the balance of your life increasingly tilts from being the passive recipient of what you didn’t personally start to being the generator of the life you are inheriting now.
 
-lifetimes. Drawing on Tibetan Bardo teachings, near-death life review research,
+Richard Rudd 
+You’re no longer a victim; you’re a creator. We got a great question to inject here: What happens to us when we die? Shall we explore that? Many cultures have views—the Tibetans, who really seem to have a handle on this, and the Egyptians as well. The Tibetans are perhaps more contemporary because they’re still very much practicing those Bardo teachings.
 
-and Bache’s psychedelic work, they sketch an after-death journey of loving
+Chris Bache 
+Psychotherapists are exploring this territory too. Joel Whitton’s first book, Life Between Life, explored it, and Michael Newton’s Journey of Souls and Destiny of Souls are systematic attempts to explore—through deep spiritual regression—what happens as people go through the death process. So we’ve really got two halves of life: birth to death, and then death to birth. You have to understand the whole circle to understand what happens. Let’s jump in.
 
-debrief and iterative growth. Rudd introduces karmic “fields,” Termas
+Richard Rudd 
+The Tibetans coined the phrase Bardo—the in-between state. It can also describe any transformational experience because life is filled with transformations, especially thresholds like death or birth. They’re almost an allegory of all transformation, because we have so many deaths and births within a single lifetime. It seems obvious to expand that allegory beyond an individual life and see it everywhere throughout the cosmos. I know you’ve experienced this profoundly in your psychedelic journeys—the constant states of transformation and rebirth.
 
-(treasures) and Tulkus (intentional rebirth), while Bache situates them within a
+Chris Bache 
+Yes. When I started, I thought there was just one death—ego death—that would launch you into the spiritual universe. But the spiritual universe has many layers. Being operational at one layer doesn’t mean you’re operational at deeper layers. You go through another metamorphosis—another death and surrender—to be reborn into another layer, and so on. That reflects the Tibetan idea of Bardo: a discrete layer of consciousness. In describing the after-death journey, there are multiple Bardos you pass through—the hungry ghosts, heavenly spirits, and so on. In the West, we often use Bardo to represent the totality of what happens after death, and that’s fine, but the original use points to stages in a progression.
 
-vast cosmology of collective evolution. They weave involution and evolution,
+The basic pattern identified by the Tibetans is similar to what psychotherapists are finding. When we die, we reunite with our soul and soul lineage. The first thing is a debrief of the most recent life. We process our life in the context of absolute love—a love so deep it’s not even about forgiveness. We experience the totality of our life—our shortcomings and our good deeds—in infinite love, and we have the opportunity to see what we did well and what we didn’t do well.
 
-Aurobindo’s metaphysics, and contemporary physics speculations into a
+Richard Rudd 
+And we have that notion of your life flashing before you as you die—a replay in the timeless dimension. It makes perfect sense to go through that deep reflection at the end of something; it’s what we do in life.
 
-both/and view of freedom and fate. Practical implications include living as a
+Chris Bache 
+I think the near-death life review is a snapshot of what happens in a full death— a detailed reliving of every nuance, far more than we can track in time and space. We see how our life rippled out and touched others. We experience how our harmful deeds hurt and how our good deeds helped. We experience the totality of our life in a seamless fabric.
 
-soul, seeding memory across lifetimes, forming communities of return, and
+Richard Rudd 
+And we experience it without a physical body—in a subtle body, which is much more intense: the astral body, or the mental or causal layers. Without physicality, the intensity of the emotions we feel in that review may have given rise to notions like eternal damnation in Christianity or the eternal bliss realms of Buddhism—heaven and hell. There’s a sense of eternity that’s a correct intuition: when you’re out of time and space, in a place of grace, the experience of harm you’ve caused could feel infinite in that timeless space—seeing the ripple of that pain through a life and how it carries on, and how it finally gets worked out. I imagine we experience a lot of the subtler dimensions of our karmic passions—very intensely.
 
-cultivating “diamond awareness” amid a challenging historical transition.
+Chris Bache 
+What locks that phenomenology of eternity into a metaphysical principle is the mistaken view that we only live once. If you’ve had your chance and there’s no chance to correct it, then to be accountable for your misdeeds means punishment forever and ever. Fortunately, no one finds that when they get into the depths. Past-life therapists don’t find it; Buddhists don’t find it. We are accountable and responsible—we do experience the pain we cause others—but that’s so we can learn, come back, and do better next time, and the time after, and grow.
 
-**CHRIS BACHE:** Well, hello, Richard. It’s good to continue our discussion. In our previous talk,
+Richard Rudd 
+I’m from a lineage of distillers, so I look at it intuitively as a distilling or fermentation process. The grosser matter falls back to Earth—the lower subtle bodies, the astral, those lower energies we’ve created, fall back into the lower planes—while something higher crystallizes: the distillation of our life. All that was good, all that we learned, becomes a pure quintessence that adds to our soul’s trajectory. The lower elemental energies sink back into those lower planes and carry our karma. Every act, word, and thought goes into the collective; we are co-creating the collective karma of humanity. Then we return to pick up where we left off—but with an enhanced soul. We’ve learned, so when we return there’s more awareness present. There is continuity.
 
-we began with evidence for reincarnation, those extraordinary children around the world. We
+I also see our lives as arcs—spirals or kundalini-like curves that never end. We follow that arc through the portal and it continues. That’s lineage. If you can trace that arc in your inner being, you can trace where you’ve come from and where you’re going. Your awareness can travel down that arc, enabling you to remember—or, in the case of the Tibetans, to predict—where you’ll return. Awareness is aware of the arc beyond a single life. You can even help create where you’re going to return, in some respect. Those are my ideas.
 
-started unpacking that evidence into rhythms of life and stages of human evolution that
+Chris Bache 
+I’ve never been very interested in tracing my genealogy, but I have been interested in tracing the genealogy of my soul—what you’re describing as deep remembering: who you are, who you have been. When you do that, you sense a trajectory, a developmental process. Your pointing to the collective is absolutely right. The individual and the collective are evolving together—functionally separate systems, deeply intertwined. Everything we do as individuals seeds the growth of the collective, and everything the collective does seeds the individual.
 
-reincarnation makes possible. We restored a sense of meaning in the challenges embedded in our
+I believe that when I leave space-time—when I die—and even if I were to leave the entire system, all of my experiences and all of yours are held. Because we are human beings, everything we experience the human species holds; our life experience becomes part of its life experience. Our love and understanding become part of its love and understanding, part of its generative matrix out of which it gives birth to the next generation. It’s a both/and.
 
-lives, and we saw how therapy can deepen when we address pain rooted in our deeper history.
+Richard Rudd 
+Beautiful—the Akashic field constantly remembering and growing. Another idea I love from the Tibetans is Terma, which I interpret as transmission—treasure teachings or wisdom waiting for specific teachers in time and space. The story is that many of their lineage termas were dropped by their great teacher Padmasambhava—the second Buddha—who emanated these termas into the future, like depth charges at different depths of time, to go off at certain points where further emanations or disciples—really aspects of his greater consciousness—would discover them.
 
-Today let’s go farther. What are we? What does it mean that we are reincarnating beings in a
+That was a big shift for me when I understood termas, because that’s what happened to me. I had an opening that was just hanging there in time and space; then this wisdom memory came rushing through. I’ve had to spend my life figuring out what I’d received and living according to it. I mention it not just because it’s part of my story, but because it shows how subtle and rich the layers are that survive time and space. It brings us to involution, which we’ve been thinking about. What is involution, Chris?
 
-universe that supports, nurtures, and created this dynamic? That’s a huge difference. To live in a
+Chris Bache 
+First, I want to celebrate your receiving the terma of the Gene Keys. You didn’t make those; you received and unpacked them. You’re responsible for your half, but the other half is the seed from above. Once you understand reincarnation as a cycle with a bottom half (incarnation) and a top half, you see that just as there’s a community of beings in the bottom half, there’s a community in the top half—layers and layers of spiritual beings. It’s not just reincarnating humans; there are angelic presences, enlightened beings, all sorts of beings helping us gestate. Just as there are human beings above to help us, there are teachings above to infuse our lives—gems of ideas, gems of empowerment.
 
-universe with a maternal-paternal energy feels like being born into a very different framework.
+When you understand the dynamics of reincarnation—of the soul and soul communities, as the Tibetans do—you naturally track great beings through time, track great teachings through time, and become sensitive to diamonds dropping into our minds at specific times. Beyond the details—that there are termas and tulkus (self-consciously reincarnating beings)—the deeper fabric is the depth and grandeur at which reincarnation operates. It’s not simply who we were in the 17th century; it changes the parameters of our dialogue with the universe and our sense of what we are. We are beings traveling through time, beings who have been in the spiritual world many times, incarnating more and more diamond teachings into our bodies, hearts, and minds. That opens the playing field of human experience.
 
-**CHRIS BACHE:** I also want to say that thinkers sometimes drift into strict determinism, as if every
+I teach at a university where the religion of secular enlightenment says the universe appeared by chance, driven by random mutation; there’s no meaning to your life; when you die, you’re dead. It’s a crushing philosophy. But this—beginning on an empirical basis and expanding through a deeper appreciation of spiritual dynamics—restores meaning. It lets us play in a meaningful landscape, engaging the wisdom of our life with the wisdom of the universe entering. Involution is the downward flow of meaning, purpose, beauty, and truth into our life; evolution is our taking it and seeding it, growing it as best we can in the circumstances of our life.
 
-little detail is preordained. I don’t think we have to go there. Chance is one of the universe’s
+Richard Rudd 
+Beautiful. I sometimes look at involution as the future burrowing into the past, and evolution as the past spiraling toward the future—two forces. Or, as Aurobindo describes, seeds sown deep within matter: spirit asleep in a rock, a mountain—waiting. In a plant you see a little more, in a bird more clearly as it animates, and in a mammal even more—you see it in their eyes. In humans, it’s obvious—we can do this. Every tiny atom contains the seed of a spiritual truth. Everything is waiting its time, on this evolutionary ladder. Where involution meets evolution is the eternal Now—constantly creating and recreating.
 
-powerful elements. We can affirm meaning and intentionality without forcing every detail through
+From involution and evolution, you can also penetrate the old chestnut of free will and determinism. From involution, you might say it’s predetermined—everything is there, waiting. From evolution, nothing is predetermined—everything is being created anew. The two together—there’s the paradox, the divine science Aurobindo really nailed. If you can read him—the subtle nuance in his mindstream is extraordinary. He’s inspired both of us.
 
-that press. What’s important is understanding that the universe pays attention to how we respond
+Chris Bache 
+Yes, he has. And in everyday experience, some aspects of our lives are highly conditioned, and yet we’re not completely subservient to those conditions. We have a cubic centimeter of free will, which we can expand into a cubic meter of free will. We choose how we meet the circumstances of our life—whether we incubate a space to sit with options, examine deeply who we want to be, and enact choices from there. That’s something we can expand.
 
-to chance events as well as intentional ones. Our learning and the quality of our response carry
+That’s how I see what you’re doing in Gene Keys—correct me if I’m wrong. You help people make more informed choices by giving them an opportunity to sit deeply with the karmic core—the swirl of their being—so they can choose how to engage and define outcomes.
 
-forward and do us credit, regardless of the origin of our challenges.
+Richard Rudd 
+Exactly. In Gene Keys, it’s very simple: you have three layers—Shadow, Gift, and Siddhi. The Siddhi is the involutional seed. I often describe it as the Shadow being the seed, the Gift the flower, and the Siddhi the fruit—and the fruit also contains the seed. There’s a process of awakening inside us: what we learn from our karma, from our mistakes and challenges, becomes an incredible treasure. As we unlock it and forgive ourselves—learn and evolve—we access heightened states of consciousness that are buried in the dense places of creation. Our role as humans is to find those dense places and be an intermediary to help unlock them. That’s an incredible responsibility.
 
-**RICHARD RUDD:** Funnily enough, today I recorded a short meditation. I asked people to imagine the
+Chris Bache 
+Over long time, the shadow seeds become fewer—they evaporate in reflective awareness—so the creative seeds become more, and the opportunity to become increasingly transparent to the universe’s intelligence increases. If that’s true for us individually, it can be true collectively. Clearly the human race has a long way to go; so many shadow seeds are driving us now. But if we give the benefit of the doubt and assume what happens for the individual can happen for the collective—that humanity is cooking its past seeds through deep collective dynamics, transcending past limitations, and moving forward—then we have reasons to hope. The greatness we see in tulkus in dialogue with termas is what all humanity is aspiring to and can become. We are in the process of becoming a species of enlightened beings—living in the light more than in the shadows. I think we’re coming out of the shadows of history into a deeper, better tomorrow.
 
-universe criss-crossed by fields of karma, like ley lines rippling through time and space. Then I
+Richard Rudd 
+Particularly as we start to understand the universe a little more—the parameters of the universe—as we look out. I know you’ve got some wonderful slides you want to share, which would be a great backdrop if you want to show them.
 
-invited them to send one beautiful thought from the depth of their soul into that ocean and watch
+Chris Bache 
+When I think about where reincarnation is taking us—the larger scope and purpose of rebirth—I turn to the pictures NASA sends around every day. I collect and meditate on them, try to envision the enormous distances and the millions and billions of stars, and the life burgeoning on so many planets and systems. The sheer fertility—the profligate fertility—of the universe, and the scale at which the universe is thinking to create and manifest orders upon orders of evolving life on this magnitude. And then to appreciate that we are part of this.
 
-the universe respond, opening like synapses, sighing and expanding. The incalculable power of a
+The great burden of one-time-through metaphysics is the belief that the genius and beauty we see in these pictures are not ours to participate in; if life is meaningless and random, we don’t get to be part of this greatness. But if reincarnation is true—if we are not limited by the time of this little body, and if our mind is going to grow through countless incarnations—then we become intimately part of the generative creativity we see in these vast, magnificent images.
 
-single pure thought dropped into time-space—that’s a potent contemplation.
+Richard Rudd: This then becomes our playground. Without the physical body, this is surely where we live. It may even be within the physical body at some deep level, as a hologram—that could be a deep truth we come to, the as-above-so-below truth. I know you’ve experienced some of that yourself in your journeys, and so have I. That’s a fundamental truth I hold at the core of my being. In my teachings we have a profile called a Hologenetic Profile. I named it that because it is a map of the inner workings of our being, and it has a fractal reality that corresponds far beyond this microorganism of one body; it is replicated throughout the cosmos. Many of the great alchemical teachings of the Taoists, for example, have explored this in their deep studies and meditations—where you go within and find galaxies and stars existing in the glands of the body, and how everything has a correspondence. Knowing those correspondences allows your awareness to travel into that reality and outside your physical body, as many have experienced in dreams, astral projection, deep meditation, or psychedelic journeying. Feel free to share some of your experiences in that.
 
-**CHRIS BACHE:** Absolutely. That mirrors my psychedelic work. Nothing I did at deep levels was mine
+Chris Bache: Well, I’ve done that as carefully as I can in my book, LSD in the Mind of the Universe. The invitation is to appreciate that we only became conscious of the Mother Universe about 5,000 years ago—when we developed sufficient discipline to drop beneath the conditioning of our individual egoic mind and tap into the stream of consciousness we share with all life. We’ve been walking upright for 5.8 million years, operating with our larger brain for about 200,000 years. Writing came in about 5,000 years ago; the Upanishadic breakthroughs, three to four thousand years ago. But these are nothing compared to the billions of years ahead. We’re just waking up to who we are, so naturally we get confused given the enormity of what we’re growing into.
 
-alone. The pain came from a larger web and the healing spread through that web. Practices like
+The meditation exercises you’re describing, and those traditions recognizing the correspondence between above and below, lead us to intentionally reinforce the hybrid nature of our life—that we are spiritual beings and physical beings. We are both pure light and pure green, and there are correspondences in our body that mirror realities out there. The more we internalize and strengthen them in our meditation, the more we become a conscious mixing pot—a mortar and pestle—integrating the above and the below. If we keep this up for tens of thousands and then millions of years, I sometimes tell my students the only serious question is: What do you want to be in a million years? Because you’re going to be here in a million years. So let’s get down to it: What is our deepest heart’s desire? What can we…
 
-your meditation shift our tilt in the universe. Our senses suggest life happens to us and we’re
+Richard Rudd: …do? The fundamental question. A couple of weeks ago I heard a really interesting talk by Roger Penrose—you know him?—really imaginative, top-level physicist. He was saying how there’s this notion in physics that as the universe expands, everything gets farther apart and slows down toward a steady state, ending in a kind of distant, lonely stopping point. That’s not his intuition. The way he describes it, when you reach that stopping point, it’s the same as if you’ve gone incredibly fast, as if everything’s come together again—one end of the spectrum meeting the other. You wouldn’t be able to tell if things are slowing down; they might look like they’re speeding up.
 
-its victims. But when you send healing and love into the field and watch it respond—immediately
+This is my paraphrase of what he said, but what blew me away was his suggestion that the logic and elegance of the universe would be such that that condensing point would give birth to another universe out of itself—which seems to be the elegant logic we already see: rebirth leading to another birth and another eon. He went further and said the background radiation we see through our furthest telescopes—the very beginnings of the universe—contains certain shapes and patterns we see over and over again. His assumption was that those are leftovers from the previous eon, the previous universe, and that really blew me away. For a physicist at the top of his game to take those leaps—wow. That really seemed…
 
-and indirectly—you experience life as a dynamic field. At subtle levels, you are co-creating your
+Chris Bache: …to me to be—yes. I’ve heard Ervin Laszlo reflect that once you focus on the extraordinary precision of the unfolding of our universe in the Big Bang—the perfection of the balance of elements that had to be present in the first picoseconds—his hypothesis was: do we think this is the first time the universe has tried this? There may have been expansions and contractions, expansions and contractions, and the universe is learning. Perhaps this isn’t the first Big Bang; perhaps it’s the thousandth Big Bang, and it’s learned from previous experiences. And that’s the background radiation—the traces that are there.
 
-universe. Karma from the past still moves through the system, but the balance tilts from passive
+Richard Rudd: And it’s constantly ironing out flaws and perfecting, and perfecting, and perfecting itself, yeah.
 
-recipient to generator of the life you now inherit.
+Chris Bache: But of course, this wide view is rich only if it helps us live today. How does it help with the immediate problems and choices we face? I think it invites us to see our life as an intentional, intelligent convocation of circumstances, not a meaningless, blind, deterministic combination. If we engage our circumstances as an intentional challenge—chosen for us by us at a time when we knew more—and make choices from a deeper sense of engagement, trusting that our choices matter even if we don’t see immediate results, then life changes. Circumstances change; what was hard becomes soft; what was barren becomes richer. That’s your experience, I’m sure—with Gene—
 
-**RICHARD RUDD:** You’re no longer a victim; you’re a creator—an active participant. We received a
+Richard Rudd: —keys, yeah. And it gives us a different kind of backdrop with which to tackle the problems of the world. The problems around us that worry us so much become framed by a much wider view. We’ve just been looking at those cosmic background images; then you look at this tiny blue planet with its problems. They’re very real, causing great suffering—as they always have—but now they’re more easily seen than ever, and we’ve enacted them globally because of our technology.
 
-great question: what happens to us when we die? Many cultures map this. The Tibetans especially
+So I constantly remind people: action that comes from a state of trust is very different from action that comes from fear. If we can dive into that field of wider trust and make friends with our own death—not as something looming, “I’m running out of time,” but held within a long-term view as individuals—and even do this as a community, how about a whole community playing with this together? We’re all going to come back; we’re going to return into the same stream. That’s why these teachings have appeared: so we can come back into them and have a focal point for our continuous, progressive, evolutionary work as communities. Rather than, “I’ve done this work, now I’m gone—maybe reborn, but where?” If you’re reborn into the same community of souls committed to transmuting the planet’s karma, coming in with different gifts and genius in different locations around the world, interconnected through the internet and through a body of teachings that resonate in our soul so we recognize them again—even as a child, with synchronicity helping us find them—then it’s a different playground. You don’t have to say goodbye to all your loved ones forever. You’ll remember them in a different way and bring more of that awareness through the transitionary Bardo. The more of us who incarnate memory through the Bardos forward in time, the more—this is my intuition—the Bardos themselves open up so more people can remember.
 
-have a living tradition—the Bardo teachings. Psychotherapists have explored this terrain too:
+It’s a game of memory. The more we participate, the more memory opens. Memory is strange—even individually. There are memory practices, and therapeutically you can take someone back into their memories. You can also do things forward in time to ensure you don’t forget—triggers you can set. The lamas, the tulkus, sometimes leave objects they retrieve in the next life. Once you’ve found the wormholes, you can play more, and bring more awakening into the collective. That changes everything. It does.
 
-Joel Whitton’s *Life Between Life*, Michael Newton’s *Journey of Souls* and *Destiny of Souls* use
+Chris Bache: I think we’re shifting slowly from living an ego-based life grounded in this incarnation to living a soul life grounded in a much deeper life in the universe. It’s significant that in the classical story of the Buddha’s enlightenment—through the four watches of the night—in one watch he saw all of his former lives. They became a living part of his awareness. To remember your former lives is not simply to recall who you were; you bring all of that life experience into who you are. To remember your former lives is to become the soul which gathers all that knowledge and experience into one place. When he did that, he became transparent and shattered. He stopped the suffering. And the suffering is fundamentally living small, living as if this body is the only thing that is you.
 
-deep regression to chart the territory. We really have two halves of life: birth to death, and
+I think this is happening historically. The more we bring that memory forward, live it, and seed it into the future, the more we are practicing the skills of soul inside time and space. As our soul gets stronger, we begin to remember and have an intuitive feeling for relationships with a deeper history. If people come at us as enemies—let’s heal them. “I’m sorry for what I did, whatever it was; let me make it up to you.” More and more allies come, because waking up is a social, generative process—it has never been private at any time in history. The soul is waking up inside time and space. The human species is growing up on a scale comparable to 200,000 years ago, when we jumped to our bigger brain—except now the physical plant isn’t changing, but the awareness supported by the physical plant seems to be changing exponentially. I know you and I share a vision that we’re entering a very challenging time, a time of darkening shadows. I hope in our next conversation we can put together our understanding of the dynamics of this period we’re venturing into and the dynamics of soul growth that—
 
-death to birth. We’ve missed the second half, and you need the whole circle. Let’s jump in.
+Richard Rudd: —we both affirm so deeply. Yes, and how those two fit perfectly together—what you’ve called The Birth of the Diamond Soul, and what I also call the Diamond Awareness. It’s that memory that transcends lifetimes, maintaining memory between lives. For one thing, many people I’m engaged with become excited about being here and returning, as opposed to “I want to get out of here,” which has been prevalent in spiritual communities—“This is my last incarnation; I’m off.” I think there’s a more compassionate and more exciting view: a warrior’s view. This place needs us. It needs us here to do this work. That’s why we’re having these conversations, for me.
 
-**RICHARD RUDD:** The Tibetans coined “Bardo” for the in-between, but it also names transformational
+Chris Bache: I don’t think the creative genius that gave birth to the galaxies, planets, and solar systems inculcated reincarnation—we didn’t create it; religions didn’t create it; nature created it—just to grow us to the first inkling of our deep spiritual essence with the purpose being, “Okay, then you can go.” I think we miss it when we think that way. Awakening is a process that is part of the transformation of time and space itself. We are here to change the world. It really is heaven on earth that the process is about, yes.
 
-thresholds—birth and death being archetypal. We undergo many deaths and births within one life,
+Richard Rudd: And the prophecy—let’s leave that as a seed for next time. Sounds good. Wonderful. Thank you, Chris. What a fantastic—
 
-so it’s logical to see that pattern everywhere in the cosmos. You’ve experienced repeated
+Chris Bache: I’ll just leave with this thought: I wonder what our personal former life history is, that we meet in such ease and fruitful dialog, you and I. I honor the history between us, whatever it is.
 
-transformation in your journeys—constant rebirth, yes?
-
-**CHRIS BACHE:** Yes. I once thought there was a single ego death that launches you into the spiritual
-
-universe. I found there are many layers. Being operational at one layer doesn’t grant access to
-
-deeper ones. You undergo another metamorphosis—another death and surrender—to be reborn into the
-
-next layer, and so on. That reflects the Tibetan idea: each Bardo is a discrete layer of
-
-consciousness. We in the West sometimes use “Bardo” for the whole post-mortem journey, which is
-
-fine, but the Tibetan usage maps stages—Hungry Ghost realms, heavenly realms, and more. The core
-
-pattern matches what psychotherapy finds: after death we reunite with our soul and soul lineage.
-
-We debrief the life we just lived in absolute love—love so deep it’s beyond forgiveness. We see
-
-what we did well and where we fell short.
-
-**RICHARD RUDD:** That echoes the “life flashing before your eyes,” a timeless replay. It’s natural to
-
-have deep reflection at the end—just as we do in life.
-
-**CHRIS BACHE:** In near-death accounts, the life review is a snapshot of the fuller process—reliving
-
-every nuance, far beyond what we track in time. We see how our actions ripple into others’ lives.
-
-We feel the hurt our harmful deeds caused and the help our good deeds gave. We experience the
-
-seamless fabric of our life.
-
-**RICHARD RUDD:** And we experience it without a physical body—through subtler bodies: astral, mental,
-
-causal. Without physical buffering, the intensity can be huge. That may underlie ideas of eternal
-
-damnation or eternal bliss—the sense of eternity outside time. Feeling the harm we caused and its
-
-ripples could seem infinite in that state. I imagine we taste subtle dimensions of karmic
-
-repercussions—very intense.
-
-**CHRIS BACHE:** What locks that phenomenology of eternity into harsh metaphysics is the mistaken view
-
-that we live only once. If there’s one chance and we failed, then punishment must be forever. But
-
-no tradition that explores deeply finds that. We are accountable; we feel the pain we caused so we
-
-can learn—and then return to do better, and better, and grow.
-
-**RICHARD RUDD:** I come from a lineage of distillers. I picture a distillation or fermentation after
-
-death. The grosser elements precipitate back to lower planes, carrying unresolved karma, while
-
-the quintessence—what we truly learned—crystallizes and stays with the soul’s trajectory. Our
-
-acts also seed the collective field; we co-create humanity’s karma. We return to pick up where we
-
-left off, yet with an enhanced soul. Our lives trace an arc—perhaps a spiral or Kundalini wave.
-
-If you can track that arc inwardly, you can remember where you’ve been and sense where you’re
-
-going. Awareness can even help predict—or co-create—your next return.
-
-**CHRIS BACHE:** I’ve never cared much for family genealogy, but I care deeply for my soul’s genealogy—
-
-deep remembering of who I am across time. You gain a felt trajectory of development. And you’re
-
-right about the collective. Individual and collective evolve together—distinct yet intertwined.
-
-Everything we do seeds the species, and what the species does seeds us. When I leave space-time,
-
-even if I leave the system, my experiences—and yours—are held by the human psyche. Our love and
-
-understanding become part of humanity’s storehouse and its generative matrix for birthing the
-
-next generation.
-
-**RICHARD RUDD:** Beautiful—like an Akashic field that remembers and grows. I love the Tibetan notion
-
-of *Terma*—treasures of wisdom seeded in time, awaiting discovery by destined teachers. Stories
-
-say Padmasambhāva emanated Termas into future epochs like depth charges. They go off at the right
-
-time through emanations of his lineage. That model changed me. I had an opening, a wisdom memory
-
-rushed through, and I’ve spent my life unpacking it. It shows how subtle layers survive
-
-time-space. It also relates to involution, which we could dive into. What is involution, Chris?
-
-**CHRIS BACHE:** First, let me celebrate your receiving the Terma of the Gene Keys. You didn’t make
-
-them; you received and unpacked them—your half of a larger descent. Reincarnation has a bottom
-
-half in matter and a top half in spirit. There is a community below and a community above—layers
-
-of spiritual beings, angelic and enlightened, helping our gestation. Teachings also descend as
-
-gems of empowerment. When a culture truly understands reincarnation, it tracks great beings and
-
-great teachings through time—Tulkus and Termas—and recognizes patterned descents into minds at
-
-specific moments. Beyond the details, the deeper fabric is the grandeur at which reincarnation
-
-operates. It’s not “who was I in the 17th century?” It changes our dialogue with the universe and
-
-thus our sense of self: a time-traveling being, many times in the spiritual world, incarnating
-
-diamond teachings into body, heart, and mind. That opens the human playing field.
-
-**CHRIS BACHE:** I teach at a university where the secular creed says the universe appeared by chance,
-
-driven by random mutation, your life has no meaning, and when your brain stops, you’re gone. It’s
-
-a crushing philosophy. Beginning from empirical evidence and deepening through spiritual
-
-dynamics, reincarnation restores meaning. Involution is the downward flow of truth, beauty, and
-
-purpose; evolution is our cultivation of it in circumstance.
-
-**RICHARD RUDD:** I sometimes see involution as the future burrowing into the past and evolution as the
-
-past spiraling toward the future. Aurobindo framed involution as spirit seeded in matter. A rock,
-
-a mountain—sleeping consciousness awaiting time. Plants show more; animals even more, meeting your
-
-gaze with emotion. In humans, spirit is obvious—we can do this. Everything is a gem; every atom
-
-holds a spiritual seed awaiting its moment. Where evolution meets involution is the eternal now.
-
-This also softens the free will versus determinism paradox. From involution, all is seeded; from
-
-evolution, everything is created anew. Together they meet like a funnel. Aurobindo really nailed
-
-that—though he’s not easy reading.
-
-**CHRIS BACHE:** Our daily life shows both. Many aspects are highly conditioned, and yet we’re not
-
-subservient to them. We have a cubic centimeter of free will we can expand to a cubic meter. We
-
-can incubate choice. And that’s how I see Gene Keys—tell me if I’m wrong—helping people make
-
-informed choices by sitting deeply with the karmic core and deciding how to engage its outcome.
-
-**RICHARD RUDD:** Exactly. In Gene Keys there are three layers: Shadow, Gift, and Siddhi. The Shadow is
-
-the seed, the Gift the flower, the Siddhi the fruit that contains the next seed. Our densest
-
-places hold hidden heights. As we learn, forgive, and evolve, those heights emerge. Our role is
-
-to enter density as intermediaries and unlock it. That’s a profound responsibility.
-
-**CHRIS BACHE:** Over long time the shadow seeds evaporate through reflective awareness; creative seeds
-
-grow. We become increasingly transparent to the universe’s intelligence. If that’s true
-
-collectively, humanity can cook its seeds and move beyond historical limitations. Then the
-
-greatness we glimpse in Tulkus and Termas becomes a species-wide aspiration—we become a people of
-
-light more than shadow.
-
-**RICHARD RUDD:** Especially as we better sense the universe’s parameters. You’ve got wonderful slides
-
-as backdrop—care to share?
-
-**CHRIS BACHE:** *\[slides shown\]* I collect NASA images and meditate on them—the distances, the billions
-
-of stars, the life burgeoning on countless worlds. The universe’s profligate fertility and scale
-
-give context to evolving life. If life were meaningless chance, we’d be cut off from this
-
-greatness. If reincarnation is real and we’re not limited to one body’s span, then across
-
-countless incarnations our minds become intimate with this generativity. This is our playground
-
-without the physical body—and, holographically, perhaps even within it.
-
-**RICHARD RUDD:** As above, so below—a truth many have touched. Our Hologenetic Profile maps inner
-
-workings that fractally correspond far beyond one body. Taoist alchemy found galaxies within,
-
-corresponding to glands and energies. Knowing correspondences lets awareness travel outward from
-
-within. People touch this in dreams, astral projection, deep meditation, or psychedelics. Feel
-
-free to share a taste.
-
-**CHRIS BACHE:** I’ve tried to do so carefully in *LSD and the Mind of the Universe*. We’ve only been
-
-conscious of the Mother Universe for a few millennia. Writing is about five thousand years old,
-
-the Upanishadic breakthroughs three to four thousand. That’s nothing beside the billions of
-
-years ahead. We’re just waking up. Practices that reinforce our hybrid nature—spirit and matter,
-
-pure light and pure green—deepen those correspondences. As we internalize them, we become a more
-
-conscious mortar and pestle, integrating above and below. Keep it up for tens of thousands or
-
-millions of years and ask the only serious question: what do you want to be in a million years?
-
-Because you’ll be here. So what is your deepest heart’s desire?
-
-**RICHARD RUDD:** Recently I heard Roger Penrose. Against the heat-death narrative, he suggests the
-
-extremes meet—ultimate slowing mirrors ultimate speed—and an elegant logic gives birth to another
-
-universe from that limit. He even reads repeating shapes in the cosmic background as leftovers
-
-from a previous aeon. That blew me away—coming from a physicist.
-
-**CHRIS BACHE:** Ervin László notes the exquisite fine-tuning of our Big Bang—balances in the first
-
-picoseconds. He asks: is this the first try? Perhaps expansions and contractions repeat. Maybe
-
-this isn’t the first Big Bang but the thousandth, each learning from the last—the background
-
-radiation preserving traces as the universe perfects itself.
-
-**CHRIS BACHE:** Wide views are rich, but how does this help me today? It invites us to engage life as
-
-an intelligent convocation of circumstances, not blind determinism. If we meet our challenges as
-
-intentional—chosen for us by us when we knew more—and trust that our choices matter even when
-
-effects are delayed, life changes. Hard things soften; barren soil grows.
-
-**RICHARD RUDD:** It also gives a different backdrop for our world’s problems. Action from trust differs
-
-from action from fear. Befriending our death and taking a long view—what if communities agree to
-
-return together? That’s why these teachings appeared: to give a focal point for continuous
-
-collective work across lives. Interconnected by the internet and shared resonance, we can
-
-recognize the path again, even as children. Synchronicity guides us. Memory is the game. More of
-
-us carrying memory through the Bardos opens those Bardos for others. As with Tulkus retrieving
-
-objects, once you learn the wormholes, you can play more and bring awakening into the collective.
-
-**CHRIS BACHE:** I think we’re shifting from ego-based lives to soul-based lives rooted in a much deeper
-
-cosmic biography. In the Buddha’s enlightenment, one watch of the night was seeing all his former
-
-lives. Remembering isn’t just facts; it gathers the entire treasury into the present soul. When
-
-he did so, he shattered suffering—living small as if you are only this body. The soul is waking
-
-inside time and space. Allies arrive because waking up is social and generative, never private.
-
-This shift rivals the cognitive leap two hundred thousand years ago, but now awareness, not
-
-anatomy, is changing.
-
-**RICHARD RUDD:** And how that dovetails with a darkening historical period and the birth of the diamond
-
-soul—what I call diamond awareness. Maintaining memory between lives excites people to be here
-
-and to return. Instead of escaping, it’s a compassionate, even warrior stance: this place needs
-
-us.
-
-**CHRIS BACHE:** The creative genius that birthed galaxies also birthed reincarnation. Religions didn’t
-
-invent it; nature did. I doubt it would cultivate us to the first inklings of our deep essence
-
-only to have us depart. Awakening is part of transforming time and space itself. We are changing
-
-the world—heaven on Earth.
-
-**RICHARD RUDD:** And the prophecy. Let’s leave that as a seed for next time. Wonderful—thank you, Chris.
-
-I wonder what our former-life history is that makes our dialogue so easeful and fruitful. I honor
-
-that history, whatever it is. I will contemplate it.
-
-**CHRIS BACHE:** Much love.
-
-**RICHARD RUDD:** Great. Thank you.
-
-## Key themes
-
-- Reincarnation as iterative learning within a responsive, meaningful universe
-
-- Chance and determinism reconciled through ethical response and soul agency
-
-- Tibetan Bardos and the loving life review as stages of post-mortem growth
-
-- Individual–collective reciprocity: experiences seed the species’ psyche
-
-- Terma (treasures) and Tulku (intentional rebirth) across historical lineages
-
-- Involution and evolution: descending wisdom and ascending cultivation (Aurobindo)
-
-- Cosmic perspective: meditation on the universe as our long-arc playground
-
-- Practical soul-life: incubating choice, carrying memory, forming communities of return
-
-- Diamond awareness: stabilizing trans-lifetime memory amid civilizational challenge
-
-## Revision history
-
-| date | editor | change |
-
-|------------|----------------------|--------------------------------------|
-
-| 2025-08-15 | gpt5 model by OpenAI | Initial transcript and formatting |
+Richard Rudd: I will contemplate that. Much love. Thank you.

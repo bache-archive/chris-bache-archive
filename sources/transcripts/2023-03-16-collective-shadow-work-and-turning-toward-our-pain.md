@@ -1,5 +1,4 @@
 ---
-
 archival_title: 2023-03-16 – Collective Shadow Work & Turning Toward Our Pain
 
 channel: Adventures Through the Mind
@@ -9,97 +8,23 @@ recorded: unknown
 published: 2023-03-16
 
 youtube_id: KAGPLyC2WZQ
-
-speakers: \[James Jesso, Chris Bache\]
-
 transcriber: gpt o3 model by openAI
 
 transcription_date: 2025-07-31
 
 license: CC0 1.0 Universal
-
+speakers: ["Chris Bache"]
 ---
-
-In this probing conversation, host James Jesso invites philosopher and LSD explorer Chris Bache to reflect on the
-
-collective turmoil visible in today’s screen-mediated world. Bache draws on forty years of academic work and twenty
-
-years of high-dose LSD journeys to propose that humanity is undergoing a planet-wide psychedelic initiation. The pair
-
-discuss the necessity of radical self-responsibility, the mechanics of shadow projection, and why turning toward pain
-
-is the only route to deep transformation. Bache argues that embracing more than one’s share of suffering—out of
-
-compassion and commitment to the whole—triggers disproportionate blessings and accelerates personal and collective
-
-evolution. The dialogue offers both a sobering diagnosis of our cultural moment and a hopeful roadmap for navigating
-
-it with courage and integrity.
-
+<!-- diarist_sha1:ba8f02bf4c8bf382377417f6c13c3600f0f6d6e0 -->
 ---
+Interviewer: For listeners who don’t know, this conversation is couched in your 40-year journey as a philosophy professor and a 20-year journey with high-dose LSD sessions. The book we referred to earlier is your book on those journeys, among others. What I’m seeing in the world—mostly through a screen—is not a place I want to be. I don’t want to be where it appears we’re going, or part of a system that does what it does. I don’t like feeling complicit in something distorted. I see a lot of toxic behavior and discussion, draped in this self-confident, self-righteous, almost Machiavellian moralism of good versus evil—where the good is me, and anyone who disagrees is the violent devil to cast out. It makes me want to hide away. If I couch this in psychedelics—seeing it as a large, collective, planetary experience, not just involving humanity—when I see these parts of myself in a session, it’s just as ugly, and I want to turn away from that too. Yet in your book you say we need to learn, as part of the psychedelic journey, not to turn away from this kind of pain but to turn toward it. Could you comment?
 
-**JAMES JESSO:** For listeners who don’t know, this conversation sits atop your forty-year career in philosophy and
+Chris Bache: The starting point of serious psychedelic work is taking complete responsibility for one’s own shadow. You go into a room, close the door, lock it—nothing there but you and your mind—and you go into the parts of your being that are, at least initially, the most daunting, intimidating, frightening, the ugly ones we least like to acknowledge. But the commitment is to take that on, to enter into it.
 
-your twenty-year journey of high-dose LSD sessions chronicled in *LSD and the Mind of the Universe*.
+When we see that ugliness manifested in the world around us by people who have not yet taken responsibility for themselves—who are still in this exterior mode where the shadow, the evil, the darkness, the really ugly things are outside of them—that’s a very different world, isn’t it? I think this breaking-down process we’re going into is basically going to break down that defense of thinking we’re the good guys and the other people are the bad guys. Eventually we’re going to have to come to terms with the fact that we did this. We created this imbalance. We have benefited from it. We are continuing to generate it in the cars we drive, the lives we live, the lifestyles we aspire to. There’s going to come a time when there’s no place else to look: we have to take individual and collective responsibility for the pain that is alive within us and in the lives of everyone around us. That’s a pivot point—when we stop blaming the other, stop blaming previous generations, and really settle in. We’re not there yet. Some of us are; I think the psychedelic community understands these things, because that’s how you make progress in psychedelic work: you confront the shadow.
 
-What I’m seeing online is a world I don’t want to inhabit. I feel complicit in something distorted and ugly: toxic
+When you go into the work, you know that the more you purify and cleanse, the deeper the reward, the ecstasy, the teaching. So the more you purify, the deeper the communion. Once you learn that, not only do you become more comfortable facing the shadow, but you actually actively embrace the shadow. You actively embrace pain and suffering—not because you like pain and suffering, but for two reasons. One, you’ve learned that the deeper the purification, the deeper the ecstasy. You don’t like to suffer, but you like what’s on the other side of the suffering. And two, you embrace the pain and suffering, even knowing that a lot of it is not yours, out of the same compassion that every father has for his children, every mother for her children, every teacher for all of their children—eventually that everybody has for other people. You embrace the pain without counting whether it’s yours or somebody else’s, because by doing so you are helping somebody, helping other beings you may never meet.
 
-behavior wrapped in self-righteous moralism—*I’m good, you’re evil, be gone*. It makes me want to hide.
+My experience has been that if you are willing to take on more than your fair share of suffering, you reap more than your share of benefit. The universe responds; it can’t help but respond. And I think that’s going to be happening with us generationally. This generation, the next generation, the generation after that, is going to go through more than their share of suffering compared to previous generations. After they stop kicking and screaming and begin to take it on and just do it, I think they will experience the blessings that come from that deep generosity—that profound existential choice to work with the given, even when the given is terrible, even when it kind of crushes your personal life. You still dedicate yourself to the good of the whole, and in that process something begins to change. Something shifts inside your person, and the more complete the surrender to the process, the more complete the commitment, the deeper and the faster the transformation in our individual and collective lives.
 
-If we frame this as a collective psychedelic process, the ugliness outside looks like the stuff that surfaces inside
-
-a hard session. You write about not turning away from that pain. Could you speak to that?
-
-**CHRIS BACHE:** The starting point of serious psychedelic work is total ownership of your shadow. You shut the door,
-
-sit with your mind, and enter the most daunting, ugly parts you’d rather ignore.
-
-When people project that unowned shadow, the world grows toxic. The breakdown we’re entering will dissolve the story
-
-of *good us, bad them*. Eventually we must accept responsibility for the pain our lives and lifestyles create.
-
-Some in the psychedelic community get this, because progress demands shadow work. Once you learn that deeper
-
-purification brings deeper ecstasy, you begin to embrace the shadow. Not because you like suffering, but because you
-
-know the reward on the other side—and because compassion moves you to carry pain that isn’t strictly yours.
-
-If you take on more than your share of suffering, the universe responds with more than your share of blessing. Our
-
-generation—and the next—will suffer more than previous ones. When we stop resisting and simply do the work, profound
-
-gifts emerge from that generosity.
-
-Complete surrender accelerates the transformation. On the far side of the ordeal you’re almost back where you
-
-started, but the psychic debris is gone. You’re still you, yet living from a purified ground.
-
-**JAMES JESSO:** That’s powerful—thank you. *italic brackets* *\[Music fades\]* *italic brackets*
-
----
-
-### Key themes
-
-- Radical ownership of personal and collective shadow
-
-- Projection as the root of societal toxicity
-
-- Planet-wide psychedelic initiation and breakdown
-
-- Purification–ecstasy coupling: deeper purge, deeper reward
-
-- Compassionate willingness to bear surplus suffering
-
-- Generational rite of passage toward higher consciousness
-
-- Complete surrender as the catalyst for rapid transformation
-
----
-
-### Revision history
-
-| Date | Editor | Change |
-
-|------------|----------------|----------------------|
-
-| 2025-07-31 | gpt o3 model | Initial transcript |
+As we move deeper into this and come through it, I think generationally we will learn what every psychedelic journeyer learns: confront the shadow and there are riches on the other side of the ordeal, and there’s no other way to get to it. In the end, the irony is you kind of end up where you were in the beginning, except you’re all cleaned out. All sorts of gunk is out of your system. You are you, and you are where you were before, but you’re living a different life because what was compromising and burdening you is no longer there, and something new has taken its place. I think that’s where we’re going. It’s going to take time.

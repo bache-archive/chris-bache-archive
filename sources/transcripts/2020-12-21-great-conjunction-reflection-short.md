@@ -1,5 +1,4 @@
 ---
-
 archival_title: Great Conjunction Reflection (short)
 
 channel: Spirit Plant Medicine
@@ -21,123 +20,33 @@ transcriber: gpt o3 model by OpenAI
 transcription_date: 2025-07-31
 
 license: CC0 1.0 Universal
-
+speakers: ["Chris Bache", "Stephen Gray"]
 ---
-
-**Abstract**
-
-On the winter solstice of 2020, coinciding with the rare Saturn–Jupiter “Great Conjunction,” philosopher and
-
-psychedelic scholar **Christopher Bache** reflects on humanity’s collective passage through crisis. Invited by
-
-**Stephen Gray** of Spirit Plant Medicine, Bache frames the pandemic, ecological upheaval, and social turmoil as a
-
-global “dark night of the soul” that will catalyze an evolutionary leap. Drawing on decades of high-dose LSD
-
-research, he describes nature “turning up the heat,” forcing both individual and collective shadows to surface.
-
-Bache envisions a coming “diamond soul” era in which the distilled genius of countless lifetimes fuses into a more
-
-integrated, compassionate humanity. He urges listeners to embrace hardship, release fear of death, and align with
-
-the creative intelligence animating the cosmos, trusting that today’s convulsions herald profound spiritual
-
-renewal.
-
+<!-- diarist_sha1:744acd8fb305c013ee8f12acaba280ac3c1890b2 -->
 ---
+Stephen Gray: 
+I’m going to call on our friend and colleague Chris Bache to share some words with us. Thank you very much for taking the time to do this, Chris. I know it’s getting later in the evening for you. Many of us know Chris through his work, but if you don’t, and you have any interest at all in the fate of humanity, get yourself a copy of LSD in the Mind of the Universe, his most recent book—it’s a stunner in a beautiful and positive way. Thank you for joining us. Chris, over to you.
 
-**STEPHEN GRAY:** *\[music fades\]* Welcome, everyone. I’m calling on our friend and colleague Chris Bache to share
+Chris Bache: 
+Thank you, Stephen. It’s a pleasure and an honor to be with the community again, especially on this winter solstice.
 
-some words. Chris, thanks for joining us—it’s late where you are. If you care about humanity’s fate, read his book
+Saturn conjunct, Jupiter entering into Aquarius—good sign, good time, hopefully a marker of changes that are coming. It’s been a hard year. The pandemic has touched us all in one way or another, and many of us are looking forward to 2021 as a time of shift, a time of change. I hope it will be. So, a few words spoken softly, in the manner of our special ceremony tonight, about our collective transformation.
 
-*LSD and the Mind of the Universe*; it’s truly stunning. Over to you.
+I’ve picked this picture of the Earth to start with because the Earth is going into convulsions. It seems there’s no way to stop it now. We can ameliorate it, but we’re going into the dark night of our collective soul. We have set in motion a sequence of events that’s taking us into a very turbulent, convulsive period of history. That’s what my reading of ecological sources tells me. It’s also what my visionary experiences in psychedelic work tell me: we are going into a time of ascending energy, a time in which nature is reaching down and bringing up energy underneath our feet, taking humanity into an extraordinary new phase of its evolutionary journey—a time of great awakening, great spiritual fruition, a change in the fundamental archetypal architecture of the collective psyche that informs all our individual psyches as we work together. But when nature turns up the heat underneath us, it triggers profound purification processes. We have no choice but to confront our shadows, both individual and collective, because the shadow is rising. The ecological consequences we are inheriting in this century are aspects of this large collective shadow, and the ego—and a civilization of ego—that made the decisions it has made with respect to the Earth and to each other. It’s all coming forward now, hard.
 
-**CHRISTOPHER BACHE:** Thank you, Stephen. Am I coming through? Good.
+If we really want to go deep into this collective transformation, it’s a good time to step back into a larger context—into the presence of the creative intelligence of the universe, the divine intelligence, the great power. The starlights behind me are not just stars. Some are stars, but many are galaxies with billions and billions of stars—an unimaginable outpouring of power and genius. It’s the same genius that birthed this universe, that is birthing this time in history, and that has placed us here to participate consciously in this milestone century. We will come out of this century profoundly different than we came into it.
 
-It’s a pleasure to be with the community on this winter solstice—Saturn conjunct Jupiter, both entering Aquarius.
+So who is it that’s undergoing this transformation? It’s not who we think we are. We have a habit of thinking of ourselves as basically 100-year-old beings, but the science of consciousness today tells us clearly we are not 100-year-old beings. Reincarnation is a simple fact of life. Knowing this, when we look at ourselves, we see that we are 100,000-year-old beings. We have enormous quantities of time folded into the person we now are. Every talent we have, every piece of genius we have, every habit we have—even our bad habits—comes from somewhere, from a deeper history.
 
-A hopeful marker. After a hard year, many long for 2021 to bring change.
+One way to imagine a human being as a reincarnated being is the samurai sword, made by folding level upon level of metal, hammered over each other—up to 10,000 layers—subjected to fierce heat and fused together to create a blade of incredible lightness, strength, and agility. A soul is that too. This generation is the result of hundreds and thousands of lifetimes of precious human experience, folded upon one another and fused. And just as the planet is facing a huge crisis to become one planet, one ecosystem that lives in a healthy manner with each other and with the planet itself, a similar process is taking place in our inner world. I think it’s a time when all our former lives are coming into us really hard. We were born with many of our former lives active in our psyches, much more than in previous generations. As we engage our shadows—individual and collective—and submit ourselves to the transforming fire of deep awareness, letting the divine awareness that we all are focus on our past and purify it of what constricts us, we become initiated into deeper and deeper levels of intimacy with the universe and with each other.
 
-I’d like to speak softly about our collective transformation.
+The genius behind all these stars and galaxies—this is our nature. As we purify ourselves, we open into the cosmic arms, into the embrace of our own history, into the sacred communion that is taking us forward. Out of this century, I think, is coming a new humanity—the future human. I call it the birth of the diamond soul: all our former lives coming together and fusing into a single intelligence, a single consciousness—an individual awareness that is individual, yet a deeper form of individuality than we’ve ever seen on Earth before. Not just a few of us—all of us. The entire human species coming forward in this crescendo of power, purification, destabilization, reaching out and achieving something never achieved in history.
 
-*Shows image of Earth.* The planet is entering convulsions. We have set in motion events that will lead us through
+I share this from my own psychedelic work, but I don’t think it has anything to do with me. Privately, I talk with people, and many of us are seeing this same truth in our sessions. Indigenous people have been seeing it for generations in their work. Some of the great saints and mystics who never touched psychedelics have seen these things coming forward. This is the time of the great unraveling. The pandemic unraveled us faster than we ever thought possible—but it’s just the overture. There are harder times coming. If we embrace those hard times with foreknowledge and absolute dedication—not turning away from any of the hardship, but engaging it fully, asking ourselves, What is the highest good I can bring to the challenges I’m facing? What can I give that is being asked to be given now?—I think we accelerate our own individual evolution, and in accelerating our individual evolution, we accelerate humanity’s collective evolution. We’re all in this for the collective right now. The time of the individual saints and saviors is gone. It’s over. They’ve done their job.
 
-a dark night of the collective soul. Ecological data confirm, and my visionary work echoes, that turbulent times
+The hour now is for the children and the grandchildren and our great-grandchildren. The only calling worthy of ourselves is our collective salvation, our collective transformation, our collective good—to bring us back into alignment with the deep truths, with our deep soul, with our deep heart. As the future human emerges in history, I anticipate a tremendous opening of our hearts to each other as we open our hearts to the Divine Heart, which holds all of existence—not just humans, but all beings. And as our minds open into deep communion, it opens us into the cosmic communion, into the intake of awareness and insights—truly scientific insights—that can pour into us when we are open and clean and clear.
 
-lie ahead. Yet rising energies are pulling humanity toward an extraordinary evolutionary phase—a Great Awakening
+We’ve passed the longest night of the year. We’re coming into the rising daylight—a short six-month cycle—and then the cycle of darkness will begin again. The challenge humanity is facing is huge. We’ll make it, but that itself is not the end. It’s just a phase. We’ve been here for billions of years; we’re going to be here for billions more, taking us deeper and farther in unimaginable ways. My last thought tonight is this: the journey is so long we’re not going to accomplish it in this lifetime. It will take many lifetimes to stay on this journey. Therefore, as we open deeply to the cosmic communion, one thing that should fall away quickly is our fear of death. There is absolutely nothing to fear in death, because death is in no way an ending. It’s simply a punctuation in the cycle. The same beautiful universe we open to in sacred medicine space is the same universe we open to when our bodies fall away. The journey continues in the cascading ecologies of light. Thank you for letting me share these thoughts with you on this special night.
 
-that will alter the archetypal architecture of the psyche.
-
-When nature turns up the heat, deep purification begins. We must face our individual and collective shadows. The
-
-ecological crises before us are manifestations of a civilization built on ego, now rebounding upon us.
-
-To grasp this fully, step back further—into the presence of the universe’s creative intelligence. The galaxies
-
-behind me pour out unimaginable power and genius. That same genius birthed this moment and placed us here to
-
-participate consciously in a milestone century. We will leave it profoundly changed.
-
-Who is undergoing this transformation? Not a one-hundred-year-old self, but a being of a hundred thousand
-
-years—layered like a samurai sword folded ten thousand times. Every talent and habit arises from a deep history.
-
-As the outer world seeks planetary integration, our inner world calls all former lives into present awareness.
-
-Submitting to the fire of deep attention purifies the past and initiates intimacy with the cosmos.
-
-From this century, I foresee the birth of the *diamond soul*—all prior incarnations fused into a single, luminous
-
-consciousness. Not a privilege for a few, but a destiny for the species. Indigenous traditions, saints, and modern
-
-psychedelic explorers converge on this vision.
-
-The pandemic unraveled us swiftly, yet it is only an overture. Harder times are coming. If we face them with clear
-
-devotion—asking, “What highest good can I bring?”—we accelerate personal and collective evolution. The era of lone
-
-saviors is over; our calling is collective salvation for children, grandchildren, and all life.
-
-As the future human emerges, hearts will open to one another and to the divine heart that holds all existence.
-
-Clear minds will welcome cascades of insight, scientific and spiritual alike. Having passed the longest night, we
-
-walk toward increasing light—though darkness will return in its cycle.
-
-This journey is vast; it will span lifetimes. Thus fear of death must fall away. Death is no ending, only a
-
-punctuation. The same luminous universe met in sacred medicine space greets us when the body falls away—leading
-
-into cascading ecologies of light.
-
-Thank you for sharing this special night with me.
-
----
-
-### Key themes
-
-- Winter solstice and Great Conjunction as evolutionary omen
-
-- Pandemic and ecological crisis as collective “dark night of the soul”
-
-- Rising energies and forced confrontation with personal and societal shadow
-
-- Reincarnation and the multilayered “samurai sword” soul metaphor
-
-- Vision of the “diamond soul” and future human species-wide awakening
-
-- Primacy of collective transformation over individual sainthood
-
-- Embracing hardship to accelerate evolutionary progress
-
-- Dissolution of death-fear through awareness of cosmic continuity
-
----
-
-### Revision history
-
-| Date | Editor | Change |
-
-|------------|---------------------------|------------------------|
-
-| 2025-07-31 | gpt o3 model by OpenAI | Initial transcription |
+Stephen Gray: 
+Thank you so much, Chris.

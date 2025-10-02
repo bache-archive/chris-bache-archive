@@ -1,5 +1,4 @@
 ---
-
 archival_title: Consciousness, Psychedelics & Collective Evolution
 
 channel: Daniel Pinchbeck
@@ -7,433 +6,220 @@ channel: Daniel Pinchbeck
 published: 2025-07-16
 
 youtube_id: tzscyUU1rXI
-
-speakers: \[DANIEL PINCHBECK, CHRISTOPHER BACHE, DAVID LUKE, JEREMY JOHNSON, DIANA\]
-
 transcriber: gpt o3 model by OpenAI
 
 transcription_date: 2025-07-31
 
 license: CC0 1.0 Universal
-
+speakers: ["Chris Bache", "Daniel Pinchbeck", "David Luke"]
 ---
-
-**Abstract (≈135 words)**
-
-Journalist-author Daniel Pinchbeck hosts philosopher Christopher Bache, parapsychologist David Luke
-
-and integral scholar Jeremy Johnson for a sweeping conversation on how psychedelics illuminate—and
-
-perhaps accelerate—humanity’s collective metamorphosis. Bache recounts twenty years of 500-plus µg
-
-LSD sessions that propelled him through personal, collective and archetypal purgations into a vision
-
-of a post-collapse “diamond luminosity” species. Luke surveys empirical psychedelic science—neural
-
-hyper-connectivity, trauma resolution, eco-awakening—and warns against the cognitive prisons of
-
-rigid materialism. Johnson introduces Jean Gebser’s integral consciousness, framing today’s
-
-poly-crises as the sunset of the mental-rational era and the dawning of a multidimensional,
-
-time-transparent humanness. Throughout, the panel weighs preparation, shadow work and the ethics of
-
-mind-expansion amid imminent ecological reckoning.
-
+<!-- diarist_sha1:be7afb857aaaad9aedfbc869fec56585308efa3a -->
 ---
+Chris Bache 
+Hi everybody. It’s nice to see your faces. By way of brief introduction, I made my living as a university professor in Ohio. I taught in the Department of Philosophy and Religious Studies at Youngstown State—courses in religious studies, Eastern religion, the psychology of mysticism, comparative spirituality, Eastern thought. But what brings me here today isn’t that work; it’s my work with psychedelics, which I did for 20 years while I was an academic. I wasn’t really allowed to speak about it in that environment, and it was only after I retired that I was able to write a book I’m speaking from today.
 
-**DANIEL PINCHBECK:**
+I published the book at the end of last year. It tells the story of where I went over 20 years of working with LSD, following a protocol established by Stan Grof in psychedelic therapy—totally isolated, with headphones, eyeshades, music, all the traditional trappings—except I worked with very high doses. I did 73 sessions over 20 years, working with between 500–600 micrograms. I don’t recommend this protocol. I wouldn’t do it the same way if I were starting over, but that’s what I did, and this is the story.
 
-Hi, everybody—it’s wonderful to see so many curious faces. I love meeting the clan drawn to the same
+When someone asks what it’s like to take doses that high, I say it’s like being in the middle of a nuclear explosion. It shatters the dimensions of your mind and the boundaries of consciousness. If you keep it up for long periods, it reveals levels of reality beyond time–space. Like a nuclear blast pushing into the atmosphere and making invisible layers visible, working systematically with psychedelics—whether in indigenous or contemporary contexts—reveals levels of existence beyond ordinary sensory experience.
 
-mysteries as our presenters. Very briefly: I spent my career teaching philosophy and religious
+Very briefly, in the book I describe the levels of consciousness I moved through: a series of deaths and rebirths beginning at the personal level of mind—dealing with personal issues and ego death—then the collective level of mind, engaging deep structures in the collective psyche; then the archetypal dimension, going beyond time–space reality and dissolving into archetypal structures underlying physical existence; then the causal level—causal oneness; and finally, what I call the diamond luminosity—what Buddhism calls Dharmakaya, the clear light of absolute reality. Transitioning from one level to another involves successive deaths and rebirths—not just ego death, but deaths at the collective and archetypal levels and so on—entering into deeper intimacy with the universe.
 
-studies at Youngstown State in Ohio—Eastern thought, mysticism, comparative spirituality. But what
+It’s a long journey across many years and levels of consciousness—impossible to summarize succinctly—so today I’ll focus on two aspects relevant to consciousness exploration and building a regenerative society. First, something that happened at the collective level of mind; second, what I call the birth of the future human.
 
-brings me here isn’t my syllabus; it’s the psychedelic work I kept quiet for two decades. Only after
+After repeated ego deaths over a couple of years, I entered a domain of vast collective suffering I call the ocean of suffering. Over two years it expanded to encompass hundreds of thousands of beings and thousands of years of time. This confused me because, like many who work with psychedelics, I thought I was doing the work for personal benefit—to heal or enlighten myself, to accelerate my spiritual development—basically self-referencing. But the ocean of suffering went on so long and was so challenging, involving so many thousands of people, that it shattered the model I brought to psychedelics. I abandoned an individual model of transformation and adopted a collective model. I came to believe that entering the ocean of suffering was facilitating a healing not centered on my personal life or soul, but on the collective psyche of humanity—that something was using my sessions to drain toxins in the human psyche, residues of unresolved trauma from thousands of years of war and the terrible things we’ve done to each other.
 
-retirement could I publish the book I’m drawing from today. *shows cover on screen*
+Eventually this culminated in an orgy of cleansing, purification, and healing. I was jettisoned into archetypal reality and never returned to the ocean of suffering. My point, briefly, is that everything we do in deep states not only affects our personal being but those around us—our immediate relationships and, more deeply, the fiber of the collective psyche. In deep, non-ordinary states, if we choose or if it’s our karma, we participate in processes that facilitate the direct healing and transformation of our species—our deep family. There is no private self in the world. We are part of a species; our species is part of Earth’s ecosystem; Earth is part of the galaxy, and so on. When we do this work conscientiously, we’re given opportunities to bring about transformations that extend far beyond our personal life and moment in time.
 
-**CHRISTOPHER BACHE:**
+Perhaps because of this strong collective orientation, something else began to happen. Over the 20 years, I repeatedly experienced visions about humanity’s evolutionary trajectory—where evolution was taking us. I entered a state I call deep time—not eternity or timelessness, but a condition in which one can experience hundreds or thousands, even tens of thousands of years in a compressed frame, sometimes as a simultaneous now. I entered deep time personally and then collectively, receiving teachings about where humanity was in its evolution and where we were going. In a chapter called “The Birth of the Future Human,” the visions focused on a culmination point.
 
-This volume tells the story of seventy-three LSD sessions between 1979 and 1999. Following Stan
+We were coming into a before-and-after point—a turning point—an entire-species transformation. What was emphasized was that the creative intelligence of the universe wasn’t simply trying to awaken individuals. It was as if the age of individual enlightenment was over; the creative intelligence was trying to awaken the entire human species. We were poised on the cusp of a profound transformation that would change not only our economy, ecological values, and social orientation, but reach so deep it would change the bedrock of the human psyche—the fundamental archetypal blueprint. In my understanding, that is our hour of history.
 
-Grof’s method—headphones, eyeshades, music—I worked entirely in isolation but at very high doses,
+I did this work between 1979 and 1999—so these experiences were 25 to 30 years ago. In one critical series of sessions, I was taken deep into humanity’s future and experienced the death and rebirth of humanity. From the mystical traditions we learn that before great awakening there is great death; before mystical oneness, the dark night of the soul. Humanity as a whole was entering the dark night of its soul: intense purification, a confrontation with our historical karma and self-imposed limitations. I experienced a complete collapse of civilization as we know it—an implosion seemingly driven by an ecological crisis so deep it triggered a global systems disintegration. At the depth of this death process—when it looked like an extinction event—the worst of the storm passed, like a hurricane over a Pacific island. The survivors got up and began anew—and they were different human beings. In the depths of death and rebirth, we let go of fundamental beliefs, values, and patterns of the past and engaged the future as different humans—with an expanded heart, a profound innate sense of the oneness of existence and of other human beings, and a deeper transparency to the mind of the universe as a whole. It truly was a before-and-after point in time.
 
-five- to six-hundred micrograms. I don’t advise replicating that protocol, yet it shattered every
+It took me years to recover from the time expansion and the awesome, challenging confrontation with the human story, but this has been the reality I’ve lived with since. It’s how I understand what’s taking place in history today. It’s the background for how I confronted the COVID-19 pandemic, which I see as simply an overture to a series of punctuated historical crises ahead in the 21st century. I think there’s a correlation between outer and inner worlds: as we try to become one integrated planet with an integrated citizenry and a healthy biosphere, that external drive to oneness is mirrored by an internal drive to oneness—an integration of the soul into time–space reality. By “soul,” I mean the consciousness that holds the experiences of all our former lives. I think our consciousness of all former lives is coming together and fusing; when they fuse, they create a higher form of consciousness, which I think is the new platform of humanity in future time. I know I’ve thrown out a lot of large ideas, so I’ll stop there and see where we take this.
 
-mental boundary and revealed strata of reality beyond space-time. Imagine a nuclear explosion: as
+Daniel Pinchbeck 
+Christopher, that was wonderful—thank you for sharing. I love your work and your vision. It’s extraordinary to talk with someone who has explored the depth dimensions of the LSD space perhaps as much as anybody alive. I’m curious: what’s your perspective on LSD in this exploration? Is it itself—are there entities attached to it? Is it a being? Is it just a chemical catalyst? Is it here accidentally? Is there some kind of intentionality to it?
 
-the fireball rises, invisible atmospheric layers become visible. Systematic psychedelic practice—be
+Chris Bache 
+Given the synchronicity of the birth of the atomic bomb and the birth of LSD in the same decade, I don’t think it’s an accident that it’s here. I understand it as an amplifier and catalyst of consciousness—similar to psilocybin, ayahuasca, DMT, and 5-MeO-DMT. Each is a fundamental catalyst of consciousness with distinctive characteristics.
 
-it Indigenous or contemporary—likewise uncovers levels ordinarily out of reach.
+One difference with LSD is that it’s relatively new, so humanity doesn’t have a lot of history with it. My sense is that with ayahuasca and psilocybin, we don’t only experience the physiological effects; we also engage fields of consciousness created by all the beings who have worked with those substances through time. We’ve used psilocybin and ayahuasca for thousands of years, so strong fields are associated with them. LSD is relatively young and, in my experience, unusually clean—less cultural or historical overlay.
 
-In broad strokes, I passed through five terrains: personal mind, collective mind, archetypal
+Remember, I was working at higher levels than I recommend—500 to 600 micrograms. At those levels, LSD tends to drive to the high cosmological ceiling. Psilocybin is more body-grounded; the states it awakens are closer to where we live in our bodies. LSD isn’t necessarily so—at lower doses, yes, but at higher doses it tends to drive high into cosmology.
 
-realities, causal oneness, and finally the diamond luminosity—what Buddhism calls *dharmakāya*, the
+Daniel Pinchbeck 
+I’m also curious—you seem to have a bit of a Buddhist orientation. Am I correct?
 
-clear light. Transitioning between levels demanded repeated deaths and rebirths, each deeper than
+Chris Bache 
+That’s true.
 
-simple ego dissolution.
+Daniel Pinchbeck 
+You mentioned reincarnation and past lives. Do you have insight into what that means? I got very excited by amitha Swami’s book—I think it was called The Self Aware Universe. Amigos, a quantum physicist who was, I believe, working at the Institute of Noetic Sciences, began to look at how quantum physics—action at a distance—could provide at least a starting point for a scientific hypothesis for how there might be a kind of aggregate of feeling, willing, thinking that somehow continues after physical death and seeks to re-aggregate, to continue some process toward unification or realization or enlightenment. Any thoughts in that regard?
 
-Two episodes matter most for today’s theme. First, the “ocean of suffering.” After multiple ego
+Chris Bache 
+I do. Reincarnation is a fundamental part of my worldview. The first book I wrote—Life Cycles—is on reincarnation and discusses the empirical evidence. As a philosopher, I believe the scientific evidence for reincarnation is now overwhelming. We have an extraordinary number of cases. Ian Stevenson’s work with young children at the University of Virginia basically established the empirical database justifying a belief in reincarnation. That doesn’t mean we understand the physics of it—there’s much we don’t understand—but a fundamental principle I take from Stevenson’s work and past-life therapists in the psychotherapeutic community is that nature retains its learning. Nature holds on to its learning.
 
-deaths I plunged into vast reservoirs of collective trauma—hundreds of thousands of lives spanning
+My understanding is that reincarnation is the higher octave of evolution. In evolution, nature folds forward the learning of groups; in reincarnation, nature has found a way of folding forward in time the learning of individuals. Lifetime after lifetime, we’re learning more, becoming more, acquiring more skills, activating more latent potentials. Sooner or later, I believe our reincarnational history becomes integrated into a higher order of intelligence. I’ve experienced this in my sessions, where all my former lives came together and fused. When they fused, there was an enormous explosion of energy—diamond light broke out of my chest and shot me into a state of consciousness in which I was an individual, but an individual beyond any frame of reference I had previously known.
 
-millennia. I’d entered psychedelics thinking I was healing *myself*; this experience obliterated that
+Daniel Pinchbeck 
+We had a question from Deanna. She’s curious about your thoughts and experience of people getting to these places of insight, integration, and deep time without the use of mind-altering drugs or plant medicines.
 
-model. My sessions became a drainage channel for humanity’s unprocessed pain. Everything we do in
+Chris Bache 
+Absolutely. Many people have written me since the book was published saying, “I understand what you’re talking about; I’ve had similar experiences, but I’ve never done psychedelics—I’m a lifelong meditator.” I think that’s absolutely true. If LSD is an amplifier of consciousness, it’s consciousness that does the work, and there are many ways to intensify and amplify consciousness. Psychedelics are simply another key to working with consciousness, but it’s consciousness that does the work.
 
-deep states reverberates through the species.
+Daniel Pinchbeck 
+Since you’ve had these insights into the future—though without an exact timeframe—if I remember in Dark Night, Early Dawn you wrote it would be a very compressed period when civilization began to crack apart and the emergent properties of the new human began to integrate. How would you ground that into practical advice for people now? Are psychedelic or entheogenic explorations a way to prepare for what’s coming? Is there a way to minimize the destructive impacts? It feels like there’s a destructive express train heading our way.
 
-Second, persistent visions of humanity’s trajectory. In “deep-time” consciousness I was shown that
+Chris Bache 
+There is—it’s kind of a Kali destroyer, making room for the new. There are many things we can do. Collectively, we’re facing our collective shadow—a shadow we all have had a hand in creating by living through history. Confronting the collective shadow is part of our common work.
 
-our species stands at a before-and-after threshold. Ecological collapse triggers a systemic
+One way to consciously participate is first by understanding what’s taking place. You’re right—I wasn’t given specific dates or details of how, when, or where. I was given experiences of the meltdown, not as an individual would experience it but as the human species as a whole. One key is to take responsibility for our own shadow—do whatever psychotherapeutic work, psychedelic work, meditation, spiritual work helps us confront the shadow dimensions of our being, dissolve them, and let light in where darkness reigned. At another level, we can help others confront the shadow of our culture and of history—that’s the political and social action side.
 
-implosion—our collective dark night—yet on the other side emerges a transformed human with expanded
+Daniel Pinchbeck 
+Beautiful, Christopher. I think it would be great to have David Luke come on and speak for a bit, and then maybe have a little dialogue after. David, if you’re there, do you want to jump in?
 
-heart and transparent access to cosmic mind. Those sessions, decades ago, shape how I interpret the
+David Luke: 
+Good to be here. Thanks for inviting me along—good to see everybody. I’ll give you a bit of background and a précis of what I’ve been doing and the insights I’ve come to. I’m a psychologist by training—primarily a parapsychologist and transpersonal psychologist. My big umbrella interest is altered states of consciousness and anomalous or transpersonal experiences. I’ve done a lot of research on all kinds of altered states. I do a lot of research with psychedelics—I do a lot when I’m not on psychedelics as well, but it’s not as much fun.
 
-pandemic and the rolling crises of this century.
+I’ll offer an overview of insights from the research and from my own journey. You could sum up where we are in our intellectual quest by saying that psychedelics—and altered states generally—increase connectivity across the spectrum of experience: biological, psychological, sociological, ecological, and even cosmological or spiritual. Biologically, research from places like Imperial College shows increased connectivity between brain regions—areas that don’t normally communicate start talking to each other, a kind of hyperconnectivity. Cognitively, this helps explain synaesthesia, divergent thinking, increased creativity, cognitive flexibility, and so on.
 
-**DANIEL PINCHBECK:**
+Psychologically, they connect us with ourselves—access to unconscious material, shadow, personal history, past traumas—and, with guidance, the possibility of resolving prior traumas. I found a brilliant quote by Gabor Maté half an hour ago: “Every human being has a true, genuine, authentic self, and trauma is the disconnection from it, and the healing is the reconnection with it.” We know these processes can enhance mood, wellbeing, and mindfulness from a psychological science perspective.
 
-Thank you, Christopher—truly profound. A question upfront: what **is** LSD in this story? Beyond a
+Sociologically, psychedelics and altered states can increase our connection to each other: openness to experience, willingness to engage with culture and art and different perspectives. They increase empathy and compassion, which can lead to more prosocial behavior and enhanced value orientations. This leads into my more recent work on ecology. These states can increase our connection to nature—which is vital right now. We see increased eco-consciousness or biophilia, and more interspecies connection. Behaviorally, there are knock-on effects: in a large survey I conducted, a majority who had taken psychedelics said those experiences changed their diet—more raw, vegan, local, vegetarian. Gardening also increased for a majority—headline: psychedelics increase gardening. They can increase ecological activism, and some people even change their career as a result.
 
-chemical catalyst, does it carry intentionality or entity-like presence?
+Beyond the environment—into the cosmological—we find people reporting a greater sense of connection to the universe, God, the Other; transpersonal and mystical experiences that reduce fear of death, enhance spirituality, purpose, and meaning, and increase self-transcendence. In clinical research, those who have a mystical-type experience—by standard psychological measures—tend to have the best outcomes for addictions, depression, anxiety, and end-of-life distress. All of this, of course, requires appropriate set, setting, and substance, with preparation and integration bookending the process.
 
-**CHRISTOPHER BACHE:**
+Insights directly from the journey: John Lilly captured something crucial with his dictum, “In the province of the mind, what one believes to be true is either true or becomes true within certain limits. These limits are to be found experimentally and experientially; when these are found, they are just more beliefs to be transcended. In the province of the mind, there are no limits.” He added, after near-death experiences, “In the province of the body, there are certain limits not to be transcended.” Two points flow from this. First, beliefs shape reality—but they can also be prisons. Our convictions can make us convicts. Confirmation bias pulls us down rabbit holes where we bootstrap our own dogmas. This plays out in science, where the academy’s a priori dogmatic reliance on materialist reductionism—neuroreductionist physicalism—frames the organism and consciousness as mechanistic, life as devoid of real sentience. Those limiting beliefs constrain the questions scientists even ask. Fields like transpersonal psychology and parapsychology don’t get funded, so they don’t get a strong voice in the dominant paradigm. I’m making an argument for agnosticism and plurality—be open to many worldviews and be wary of belief in general. That’s useful in an era of “fake news” or post-truth; frankly, we’ve always been post-truth—nature uses deception for survival, so there’s never been such a thing as “real news.”
 
-The atomic bomb and LSD appeared in the same decade—hardly coincidence. LSD is an amplifier and
+Second, the mind is infinite. Evidence from genius, inspiration, creativity, and parapsychology suggests we can transcend time and space—by today’s empirical standards, the evidence is strong. We can talk to Dean Radin about this. I suspect Chris would back it up from his LSD sessions. Physics theory increasingly converges conceptually with parapsychology: time is seen as subjective; human experience of time is illusory; precognition grows more plausible.
 
-catalyst, cleaner than ayahuasca or psilocybin because it lacks millennia of cultural overlay. At
+Finally, everything is connected. That’s one thing parapsychology, psychedelics, and transpersonal psychology have shown: we can transcend time and space—precognition, empathy, clairvoyance, synchronicity—though that’s circumscribed by our beliefs. As a result, we should act with openness and transparency, with compassion and a spirit of reciprocity, and move away from all the “-isms”—including ones that get little airtime: ethnocentrism, species-centrism, and cognocentrism, the view that only one state of consciousness is valued. We need a more pluralistic valuation—from dreams to meditation to psychedelics. And that brings us back: altered states can help us move toward increased connectivity.
 
-high doses it drives consciousness toward cosmological ceilings.
+Daniel Pinchbeck: 
+David, that was awesome—thank you. I’m curious about what you wrote in the book about extraordinary experiences—the psychic and paranormal events that are so common in psychedelic states—and what they reveal about consciousness from your perspective.
 
-**DANIEL PINCHBECK:**
+David Luke: 
+I think they pose a huge question mark over the idea that consciousness is confined to the brain. We already have around 135 years of evidence from parapsychology suggesting psychic abilities and the transcendence of time and space have good empirical support. It’s not an everyday experience, but it happens to enough people, enough times, under controlled laboratory conditions, that we can say: okay, there’s an ability to transcend time and space. Psychedelics turn up the volume on that. People report many more psychic, paranormal-like, transpersonal experiences with psychedelics. A good proportion are probably genuine—some may be delusional, but many are genuine, and the evidence is moving that way. There hasn’t been enough research, but we have thousands of years of shamanic practice using psychedelics and other states for precisely this purpose. We need to listen more to Indigenous peoples with animistic, shamanistic worldviews and learn from them.
 
-You invoke Buddhist frames and reincarnation. Any reflections on how past-life dynamics fit, perhaps
+The cork is out of the genie’s bottle. The academy is exploring psychedelics seriously again. We can’t deny the scale of transpersonal and parapsychological experiences people report, and we should investigate them openly, at face value, rather than just trying to explain them away.
 
-in light of quantum ideas from Amit Goswami?
+Daniel Pinchbeck: 
+My understanding is that psychic and paranormal effects are extremely difficult to study under traditional methods. I’ve heard that even when an effect seems demonstrated at first, with repeat experiments the correlation goes down—as if there’s a secret that protects itself, that doesn’t want to be known.
 
-**CHRISTOPHER BACHE:**
+David Luke: 
+You can ask Dean more about that. Many parapsychology experiments aren’t immediately repeatable, but when you stack them with meta-analyses, you get highly significant datasets. Some effects decline over time but then hit a plateau. The Ganzfeld studies, for example, have remained around 32–35% above chance beyond the initial decline. Overall, when you aggregate the data, the effects are there. It’s just hard to learn much about them because of the complexity of factors involved. We’re turning a mirror on consciousness itself—it’s slippery.
 
-Empirical evidence for reincarnation—Stevenson’s child cases, past-life therapy—is overwhelming.
+A major theoretical problem is source: we don’t know where the psychic effect is coming from. It could be the participants—or it could be the experimenter exerting psi, precognition, whatever, to get the needed results. We should take that seriously—it applies to the whole scientific endeavor. Consider the Higgs boson discovery. The CERN setup is, in a way, indistinguishable in effect size from the Global Consciousness Project: lots of people coming together in a concerted, focused way to affect a “random” system. In the GCP, you get super-significant figures. In the Higgs experiments, you have many physicists spending huge sums building a massive accelerator to find something they think exists—and you get a probabilistic outcome that’s arguably no more significant statistically than the GCP. 
 
-Evolution folds forward group learning; reincarnation folds forward individual learning. In one
+Daniel Pinchbeck: 
+What about DMT? If you smoke N,N-DMT or have a direct experience of it, the experience can feel incredibly alien. Many people report encounters with entities or other-dimensional realities. Is it just the brain’s wiring being reconnected—or is there any evidence we might be connecting to some hyperdimensional reality in those states?
 
-session all my former lives fused into a single being, exploding in diamond light and projecting me
+David Luke: 
+DMT is super interesting because it’s the most reliable at giving people encounter experiences with seemingly sentient entities—encounters they often believe are real. There hasn’t been enough research, largely because science tends to study what it can explain with neuroscience. Most data comes from psychonauts. There do seem to be commonalities: “elves” are fairly common; also dispassionate beings conducting some kind of neuroanatomical procedures and extracting emotions—that meme shows up a lot. We can’t separate out cultural influences across such a varied phenomenology, but the commonalities are there and deserve more concerted study.
 
-into an identity beyond previous reference.
+Some recent data from Johns Hopkins showed that among people who had DMT entity encounters, less than half of those who were atheists beforehand remained atheists afterward. These are deeply world-changing experiences that lead people to believe there’s some genuine Other. It will be a tricky wrestling match with science to establish any empirical validity regarding the ontology of these beings—but it’s worth the wrestle.
 
-**DIANA (audience):**
+Daniel Pinchbeck: 
+In your book on extraordinary experience, you envisioned a future research institute focused on consciousness itself. With everything happening—and the ecological doom cloud ahead—maybe it’s time to accelerate that and bring it into manifestation. How would you construct such a thing? What research would you want to see done?
 
-Can similar insights arise without psychedelics?
+David Luke: 
+We’d have to bring together all perspectives. It can’t be purely a science/medical-model endeavor. Yes, we need psychiatrists, psychotherapists, and psychopharmacologists to understand the brain and that piece of the puzzle. But we also need people from wisdom traditions—cultures with thousands of years of shamanic practice using substances like peyote—and wisdom traditions from the East as well. We need a melting pot.
 
-**CHRISTOPHER BACHE:**
+As psilocybin and other substances get licensed for treatment—depression, etc.—we’ll need practitioners who are savvy with the transpersonal end of the spectrum. Not just mystical experiences, but telepathy, entity encounters, out-of-body experiences. People will need a better understanding of these experiences. We can’t leave that solely to psychiatrists and neuroscientists. Shamans, Tibetan Buddhist monks—people like that—need to be at the table. So: a multinational, multidisciplinary center where we can share ideas and exchange.
 
-Absolutely. Meditators write me describing parallel experiences. LSD merely amplifies consciousness;
+Daniel Pinchbeck: 
+One of our invitees today was Sergio Magaña, a Nahua shaman who works with Aztec dream practices. In his book The Age of the Sixth Sun, he describes a shift—from the fifth sun to the sixth—moving from a sun of light to a sun of darkness. Light corresponds to materialism, technology, rationality, science, logic. Darkness is where psyche and the dream world become predominant—reality feels more like a waking dream. I find this fascinating. How does it resonate with you? I also correlate it with the accelerating popularity of psychedelics—more people opening doorways that may be affecting the collective psyche in unpredictable ways. Thoughts? Maybe Christopher has ideas too.
 
-consciousness itself performs the work.
+David Luke: 
+I’d say the revival of psychedelic interest is going to affect the collective consciousness, certainly in the West where it’s happening first and foremost. Reconnecting with the dreamy, associative regions of mind—the mythological and unconscious—can only be a good thing, as Iain McGilchrist has described in his work.
 
-**DANIEL PINCHBECK:**
+Daniel Pinchbeck: 
+The McGilchrist idea—for those who don’t know it?
 
-Earlier in *Dark Night, Early Dawn* you predicted a compressed interval when civilization unravels as
+David Luke: 
+He takes a more poetic than literal stance, but grounded in neuroscience about left and right brain. The left is literal, logical, linear, linguistic; the right is more dreamlike, associative, mythological. We’ve confused the master with the emissary: the emissary (left brain—the mouth, the language) thinks it’s the master. We’re so skewed toward the logical, linear, linguistic mode in the developed world that we’ve ignored the dreamtime, imagination, associative thinking, the mythological—to our peril. Our intelligence has outstripped our wisdom, bringing us to a moment of crisis. Psychedelics can help flip that back into balance. The internet plays a role too: think of it as the noosphere, a technological bootstrapping of our clairvoyant/telepathic capacities—fake it till we make it. Meanwhile, we’re sifting an ocean of misinformation. I’ll let Chris jump in.
 
-the new human emerges. How should people practically prepare? Are psychedelic explorations a
+Chris Bache: 
+The analogy I use in Dark Night, Early Dawn is the daytime sky and the nighttime sky. Imagine a culture required to be indoors from sunset to sunrise. Its entire known world would be the brilliantly illuminated, nearby daytime—missing the night sky. Without the night, we miss the far-away, the greater context. We can’t answer questions of cosmology or origin. Those require the depth available only in the deepest levels of consciousness, where we can experience the consciousness of the universe. Everything physical has a conscious dimension. Balancing by seeing the nighttime sky of consciousness will profoundly rebalance our worldview.
 
-necessary training ground, or can we lessen the destructive impact ahead?
+Daniel Pinchbeck: 
+From your research, what practical advice would you offer? Is it the right time to explore these dimensions through entheogens? Are there dangers? Do you recognize a dark side to psychedelic exploration—for both of you?
 
-**CHRISTOPHER BACHE:**
+David Luke: 
+It’s down to the individual. Psychedelics aren’t for everybody. They can help many people in different ways, but they’re not universally suited. There are many paths: psychedelics can be a door-opener that smashes the door off its hinges and shows you the other side, or you can open it more gingerly through dreams, lucid dreaming, meditation, yoga—techniques that may feel more controlled. In fast-paced 21st-century life, many people are stuck in ruts for all sorts of reasons; psychedelics can be a good fast-track opener for some.
 
-Collectively we’re confronting our shared shadow. One task is rigorous personal work—psychotherapy,
+Is there a dark side? Potentially, yes—in how these things are distributed or experienced, and in the experiences themselves. Is your question about the experiences people have, or more about the community around psychedelics?
 
-meditation, psychedelics if appropriate—to dissolve inner darkness and invite light. Socially we
+Daniel Pinchbeck: 
+The experiences people have—and whether they can have negative effects as well as positive.
 
-must engage the outer shadow in politics, ecology and culture.
+David Luke 
+I certainly can say it’s not all light. You have to look at it as a process. From the clinical work that’s been done, many people have challenging experiences that are very difficult in the moment, but they usually pass through them, and those are the ones that tend to give a lot of insight and a sense of growth, even if they weren’t pleasant. A very small number have experiences that are traumatic and regret doing it in the first place. Maybe they shouldn’t be taking psychedelics, or psychedelics aren’t necessary for them, or they started a process that brought up more than they could immediately deal with. I don’t have a clear answer for that. There can be heavy, dark experiences. When you turn up the volume on the mirror, you’re not always going to like what you see. There are also problems like spiritual bypass and potential narcissism that may arise as part of the journey—but that’s true of any path of personal or spiritual development, not just psychedelics. I’ll hand over to Chris.
 
-**DANIEL PINCHBECK:**
+Chris Bache 
+I completely agree, David. There are dark experiences that serve in these states, and you have to be well prepared. Fasten your seatbelt, choose your location carefully, and work with all the safety precautions. My experience has been that dark experiences are a form of purification and clarification. The deepest breakthroughs into ecstatic knowing and visionary knowledge came after the deepest purification. In my work, I created conditions that facilitated the deepest and darkest encounters—not because I was fond of suffering, but because I was fond of what lay on the other side. To do that, it’s important to take psychedelics in a very carefully structured setting—not recreationally, not casually—with a lot of forethought and disciplined preparation going in and coming out: integration, retention, encoding, and a thorough debrief. A good, thorough debrief is a very effective way to prevent problems from emerging in subsequent sessions.
 
-Beautiful. Let’s bring in David Luke to widen the lens.
+Daniel Pinchbeck 
+For both of you: what are the best ways people can prepare themselves for a psychedelic experience? How do you approach sessions for yourself?
 
-**DAVID LUKE:**
+Chris Bache 
+In the Southwest, the Hopi have the kiva—a hole in the ground with a circular opening at the top. You climb down a ladder, it’s pulled up, and you’re completely isolated for the duration. I think of my psychedelic work that way: I’m in a kiva, a protected, isolated space. Someone is there to take care of my body. I’m not in a talking relationship; I’m highly internal. I want clean contact, so I eliminate outside influences. Going into nature can be wonderful, but when you’re going deep—facing personal, collective, and historical shadow—that work is best done in isolation. I do a lot of spiritual practice before and after a session. I take care of my body, make sure it’s tuned, relaxed, and aligned before going in. At very high doses, your body processes enormous quantities of energy—it’s demanding on your subtle energy system. If you haven’t been caring for that system well in advance, you’ll have more complications. So: care for the body, care for the subtle energy system, spiritual practice beforehand, and then a careful, sustained debrief afterwards. That’s my approach.
 
-Thanks, Daniel, and thank you, Chris—always inspiring.
+David Luke 
+It depends on your level of experience, the context, and what you hope to get from it. If you’re inexperienced, do your homework. Know what you’re taking—dosage, substance, purity, where it came from, whether you trust the source. Set and setting: where you are psychologically and physically. Preparation and then integration afterwards, as Chris pointed out. It needn’t always be a 600-microgram deep dive like Chris’s process—which is brilliant. For instance, we’ve experimented with low doses with top-level scientists for creative insight and problem solving on technical challenges. That’s a different agenda from a deep philosophical or spiritual journey, and it produced good results. It all depends on context, but pay attention to your intentions, set and setting, the substance, preparation, and integration.
 
-I’m a psychologist and parapsychologist focusing on altered states. Whether dreams, meditation or
+Daniel Pinchbeck 
+David, I know that England, and particularly Imperial College, has become a center for cutting-edge psychedelic research. What’s active there now, and what kinds of discoveries are being made?
 
-psychedelics, they sit on a continuum; psychedelics just crank the volume.
+David Luke 
+I’m loosely affiliated with Imperial’s psychedelic research center. Not much happened recently because of lockdown, though they’re beginning to recruit participants via Zoom for various studies. Some of it is clinical—psilocybin for depression as part of a global effort to get psilocybin licensed as a medicament. Most of their focus is on neuropsychopharmacology: how these substances work in the brain and what that reveals about the nature of consciousness. There’s been a lot of neuroimaging work with MDMA, psilocybin, LSD, and DMT. I’m collaborating on the DMT study, looking at slow infusion to bring people into high-dose breakthrough experiences over extended periods, exploring both the neuroscience and the phenomenology—what comes out of those experiences. As a parapsychologist, I’m also interested in shared visionary experiences: can two people on DMT at the same time, prolonged and side by side but separated, show correlated brain activity beyond what you’d expect if they did it at different times? And do their experiences show any correlation when they set an intention to have a shared journey? That takes us into pretty far-out transpersonal realms. That’s just the tip of the iceberg—there’s great research, survey work, and collaborations with retreat centers.
 
-Biologically, studies at Imperial College show psychedelics induce hyper-connectivity—brain regions
+Daniel Pinchbeck 
+It may sound funny, but it’s always on one’s mind: from your personal psychedelic explorations, what’s your philosophy on the purpose of life, and the purpose of our human experience?
 
-that rarely communicate become chatty. Cognitively we see synaesthesia, divergent thinking and
+David Luke 
+Nice, small question. Chris, you want to go first?
 
-creativity. Psychologically they reconnect us to the unconscious—shadow material, past­-trauma—for
+Chris Bache 
+Goodness—that is a large one. The universe has been unfolding for around 13.7 billion years, and we don’t see evidence it’s stopping anytime soon. Any attempt to define the purpose of life will be inadequate given the enormity of the project. What we can project may carry us a certain distance, but not through the entire process. For me, central is learning, loving, deeply experiencing, opening—exploring and expanding our capacities. Exploring is really important. One time, in a deep encounter with a creative, nameless, faceless intelligence, I was moving between nonbeing—the pure void—and being, the universe. That oscillation generated the question: what is the purpose of existence? This consciousness said to me, “Have we not learned anything?” It shattered me; I broke down and wept. It felt like it was all about learning. I’m not persuaded by the idea that consciousness is trying to learn something about itself, but that learning is central to the entire project seems really important.
 
-integration and enhanced wellbeing.
+Daniel Pinchbeck 
+Okay, David—what have you got for us?
 
-Sociologically they boost openness, empathy and compassion, leading to pro-social behavior. My
+David Luke 
+Not that much. We’re on a quest for meaning. Asking about the meaning and nature of the universe is a human endeavor. I’m not sure all species try to find meaning. We’re also lost in a way. Our loss of meaning in a materialist, reductionist universe has led us into difficult places. The quest for meaning is worthwhile, but ultimately it may not be about “meaning” per se—it might be about being, as Chris said, and that’s what’s really important.
 
-surveys reveal lasting ecological impacts: most users shift diet toward local or plant-based foods,
+Daniel Pinchbeck 
+I think learning, creativity, expression, play—there’s no necessity to it. Meaning is a human-created term. Dreaming, experiencing, creating, discovering, loving—maybe multiple purposes. We had a few questions about the value of microdosing. Do you see that as a helpful tool for people right now?
 
-garden more, and engage in environmental activism. Spiritually, those who score high on mystical
+David Luke 
+That might be for me, since Chris is more at the macrodose end of the spectrum. Microdosing may have potential, but we don’t have enough data yet. There’s a lot of uncontrolled data—non–placebo-controlled studies—where people report benefits for depression, insight, creativity, and so on. There’s very little rigorous research to say those outcomes are genuine; it could be one big placebo effect. But if people feel it’s beneficial, that might be good enough for some. Most of my research focuses on low to high macrodosing. There’s potentially a place for microdosing, but a danger in co-opting psychedelics as mere “psychovitamins” when they can do so much more. And from what I can gather, most people who microdose end up accidentally macrodosing at some point—and get a surprise that might be beneficial.
 
-experience scales show the best outcomes in addiction and depression studies.
+Chris Bache 
+I’ll leave that one in your hands, David. I don’t have much experience with microdosing. When I tried microdosing LSD, it was after years of very high-dose work, and I found I no longer liked LSD in my body. I drove it so hard for so long that my body developed a kind of allergy. I haven’t used it for years. I read the literature; like you, I see a lot of positive anecdotes but not much solid science yet—I’m sure it’s coming. And I agree with your phrase—it can become a kind of vitamin pill, when it can do so much more.
 
-All this hinges on substance, set, setting, preparation and integration.
+Daniel Pinchbeck 
+Later, we’re going to have a presentation from my friend Andrew Camargo, who’s worked deeply with Santo Daime and the ayahuasca tradition. But first, if he’s up for it—Jeremy Johnson—would you give us a quick overview of the Gebser integral consciousness model?
 
-**DAVID LUKE:**
+Jeremy Johnson 
+Sure. Thank you, Daniel. I’ve been really enjoying today’s presentations. Some of you may already be familiar with integral theory—Rory mentioned Spiral Dynamics in the context of Extinction Rebellion, for instance. When we’re talking about the history of consciousness, it can be abstract and detached—we view our living history from the distance of books. With Jean Gebser’s work—he’s one of the foundational thinkers of integral theory alongside Ken Wilber—Gebser is very different from Wilber in that he’s not a developmentalist per se. His writing is deeply phenomenological; it encourages us to explore our own experience of consciousness.
 
-John Lilly captured it: *“In the province of the mind, what one believes to be true either is true or
+We’ve been talking about left and right brain with McGilchrist. Gebser’s work is a good guide if you want to explore those modes in your own phenomenology. By way of background, I’m an integral scholar and researcher, have worked with the Jean Gebser Society for about a decade, and I’m planning to do my PhD at CIS—good to see Christopher here with the PCC program.
 
-becomes true—within limits.”* Beliefs can liberate or imprison. Our scientific culture is hamstrung
+Gebser presents a phenomenology of consciousness—an archaeology of meaning-making—through works of art, literature, the evolution of language and etymology. Even in our language there’s a processual movement from what he calls sidereal, nighttime dimensions of consciousness into the waking. He carefully describes how human consciousness moved from magical and mythical forms or structures into the waking Apollonian, discerning, ratio-oriented, secular age. There are gains and losses. A nuanced, nonlinear approach that encourages us to explore these modes in ourselves helps make them concrete rather than abstract—to live the magic and the mythic again in some capacity, not merely acknowledge them.
 
-by dogmatic materialism, funding only questions that fit the paradigm. We need agnosticism and
+For Gebser, the challenge now is not to “move to a next level,” but to presentiate and open the wealth and history of our consciousness—different modes of time, cyclical forms of time, participatory cosmologies—bringing them into contact with rational, scientific, secular modes. The requirement is what he calls the principle of diaphaneity: a clear enough consciousness to allow different modes and structures to presentiate themselves in us. In short, integral consciousness is an intensification of clarity and the capacity to bring forth different modes of being and being-in-time—linear time, timelessness, rhythmic time, cyclical cosmology—bringing them forward at will, as if we were mercurial beings who are both the living past and the living future.
 
-plurality—multiple worldviews coexisting, especially in a so-called post-truth era.
+His theory of time is, in a way, futuristic—a way of being present in which the future is latent in the present as a tangible experience. There’s a poetics of presence we can engage that allows this to come forward. When we do ancestor work—listening to the dead within us—this is not abstract. At our altars, working with ancestors, they are present. Gebser was sensitive to that. His phenomenology of this integral future includes the capacity to listen to the unborn as well—that the long dead and the not-yet-born are present in us, not just conceptually but as a living communion. How can we live like this in the present, where past, present, and future intermingle? Given climate change and the demands of ecological thought, an intensification of temporics is necessary.
 
-Second Lilly insight: the mind is infinite. Evidence from parapsychology—precognition, telepathy,
+Daniel Pinchbeck 
+We have Jyoti coming on in a minute and she only has a bit of time, but I want to quickly touch on the structures of consciousness Gebser mentions. He identifies stages and argues that each one reaches a crisis where the only way forward is a kind of mutation into a new structure. He would say we’re at the end of the mental-rational structure, with its particular way of conceiving time and space, and we’ve reached a point where the only way forward requires a mutational break into a new form of consciousness. Maybe delve into that for a few minutes?
 
-clairvoyance—shows consciousness transcends space and time. Physics increasingly echoes these
+Jeremy Johnson 
+Yes. The context in which I read Gebser about a decade ago: he sets up his book with the thesis that the 20th and 21st centuries mark a civilizational juncture. There is tremendous destabilization and restructuration. He lived through the first half of the 20th century as a European refugee, moving from country to country. He posits the end of what he calls the mental-rational perspectival age and the opening of the integral structure of consciousness. He basically said, “I’m in the middle of a transformation—new arts, new sciences, breakdowns of modes of being in the world. There’s a civilizational collapse and a civilizational opening.”
 
-findings.
+Gebser is key because he was sensitive and articulate about the deep themes we’re learning to let go of in the mental world—perspectival space, modes of time, subject–object relations, Cartesianism. If you want to cohere the culture we’re helping to die—and assisting in its death process—Gebser helps. He was a poet, so he makes it something we can phenomenologically explore in ourselves in relation to time and space. The overall structure, very quickly, is archaic, magic, mythic, mental, and integral. Each involves leaps or mutations.
 
-Third: everything is connected. Psychedelics and psi phenomena expose that unity, though beliefs may
-
-constrain how far we experience it.
-
-**DANIEL PINCHBECK:**
-
-You also study ecological outcomes. Could you share a headline or two?
-
-**DAVID LUKE:**
-
-Sure: “Psychedelics Increase Gardening” may be my favorite. But seriously, we see measurable upticks
-
-in eco-behavior—from diet changes to career shifts—following transformative experiences.
-
-**DANIEL PINCHBECK:**
-
-Speaking of transformation, DMT often produces entity encounters. Any evidence these are more than
-
-brain fireworks?
-
-**DAVID LUKE:**
-
-Data are scarce because academia funds what it can neuro-reduce. Yet survey work suggests consistent
-
-motifs—elves, clinical-style dissections, dispassionate observers. Johns Hopkins found that among
-
-atheists who met entities, fewer than half remained atheists afterward. Rigorous ontology studies are
-
-needed, but the question is worth wrestling.
-
-**DANIEL PINCHBECK:**
-
-Fair enough. You’re connected to Imperial’s DMT program. What’s brewing?
-
-**DAVID LUKE:**
-
-We’re planning slow-infusion protocols—extended breakthrough states while recording brain activity
-
-and phenomenology, even testing synchronized participants in separate rooms for shared visions and
-
-EEG correlations. It’s ambitious but overdue.
-
-**DANIEL PINCHBECK:**
-
-Before we pivot to Jeremy Johnson, quick practical question for both of you: how should newcomers
-
-prepare for psychedelic work, and what about the shadowy or “dark” side?
-
-**CHRISTOPHER BACHE:**
-
-Think of a Hopi *kiva*: a sealed chamber for deep work. Choose isolation, a trusted sitter, rigorous
-
-spiritual practice, body care, and thorough post-session debriefing. Dark passages are purifications;
-
-their gifts lie on the far side.
-
-**DAVID LUKE:**
-
-Basics: know your substance, dose, purity, setting, intentions. Integration is non-negotiable.
-
-Macro-dosing isn’t for everyone; micro- or mini-dosing, lucid dreaming or meditation offer gentler
-
-doors. Yet challenging experiences aren’t inherently “bad”—they often yield the most growth.
-
-**DANIEL PINCHBECK:**
-
-Excellent. Jeremy, could you weave in Jean Gebser’s integral perspective on our civilizational
-
-crossroads?
-
-**JEREMY JOHNSON:**
-
-Thank you, Daniel, and thanks to everyone here—this dialogue is already rich. Jean Gebser maps five
-
-structures of consciousness: archaic, magic, mythic, mental-rational and integral. Each reaches a
-
-crisis that triggers a mutation. The twentieth and twenty-first centuries mark the mental-rational
-
-structure’s sunset and the dawn of an *integral* presence he calls the “ever-present origin.”
-
-Gebser isn’t a linear developmentalist; he’s phenomenological. Integral consciousness intensifies
-
-clarity, allowing earlier modes—mythic rhythm, magic participation, even timelessness—to *co-present*
-
-in the now. Past, present and future interpenetrate. He invites us to live the “night-time sky” of
-
-psyche again, not just discuss it abstractly.
-
-We might say our poly-crisis is the birth pangs of a temporally transparent human, capable of
-
-simultaneously communing with ancestors and listening to the unborn.
-
-Gebser called the new mode *diaphany*—transparent consciousness. It doesn’t discard the
-
-mental-rational; it renders it translucent so magic, myth and mind shine through together.
-
-Such clarity is urgently needed as linear progress narratives collapse and climate grief
-
-intensifies. Psychedelics, dream practices and contemplative arts can act as *integral
-
-technologies*, helping us taste this multidimensional presence.
-
-**DANIEL PINCHBECK:**
-
-Powerful. Your point about “listening to the unborn” resonates with Chris’s deep-time visions.
-
-If the integral is emergent, do we *cultivate* it or does it happen *to* us?
-
-**JEREMY JOHNSON:**
-
-Both. Integral erupts spontaneously—think of modern art’s time-bending or quantum physics’
-
-non-locality—but it also asks for disciplined attention: somatic awareness, shadow work,
-
-aesthetic practice, dialogic spaces like this one. We can midwife the mutation.
-
-**CHRISTOPHER BACHE:**
-
-Jeremy, Gebser’s map mirrors what I saw in LSD sessions. The diamond luminosity felt like the
-
-integral’s full flowering—transparent, all-time-at-once. Your language gives it cultural
-
-coordinates.
-
-**DAVID LUKE:**
-
-And the research shows psychedelics reliably catalyze “integral glimpses.” Our challenge is
-
-making those glimpses stick—turning state into trait.
-
----
-
-*​\[A new window opens; a silver-haired elder appears.\]*
-
-**DANIEL PINCHBECK:**
-
-Perfect timing—Joti has joined us. Joti, would you gift us an Indigenous elder’s perspective
-
-on this collective passage?
-
-**JOTI:**
-
-Thank you, relatives. *\\bows\\*
-
-Among my people we say the longest journey is from the mind to the heart. When you take the
-
-sacred medicines without the heart, you may see worlds but you cannot *enter* them. The Earth
-
-Mother is contracting now—labor pains for a new dream. The medicines are her midwives, but
-
-the prayer must be service to all beings, not curiosity alone. Remember to feed the fire,
-
-sing the songs, share the harvest.
-
-**DANIEL PINCHBECK:**
-
-Gratitude, Joti. That grounds everything we’ve discussed.
-
----
-
-**AUDIENCE QUESTION (CHAT):**
-
-*“What about microdosing—tool or trend?”*
-
-**DAVID LUKE:**
-
-Current controlled studies are mixed; expectancy effects are huge. Yet even if placebo plays
-
-a role, people report mood lift, focus and subtle eco-attunement. My caution: don’t let
-
-microdosing become a bio-hack substitute for deeper relational work.
-
-**CHRISTOPHER BACHE:**
-
-From the macro-dose side, I’d add: microdosing can be useful *between* larger journeys,
-
-helping weave insights into daily life—if approached ceremonially, not as caffeine 2.0.
-
----
-
-**DANIEL PINCHBECK:**
-
-We’re near time. I’d love one sentence from each of you: What single practice sustains you
-
-through this “great turning”?
-
-**JEREMY JOHNSON:**
-
-Daily *aesthetic contemplation*—reading poetry aloud at dawn.
-
-**DAVID LUKE:**
-
-Dream journaling; it keeps the imaginal dialogue alive.
-
-**CHRISTOPHER BACHE:**
-
-Silent meditation with an unconditional *yes* to whatever arises.
-
-**JOTI:**
-
-Placing my bare feet on the soil each sunrise and saying, “I remember.”
-
-**DANIEL PINCHBECK:**
-
-Beautiful. Thank you Chris, David, Jeremy, Joti—and everyone watching. May our inner work
-
-seed the regenerative future. *\\virtual applause fills the chat\\*
-
----
-
-### Key themes
-
-- High-dose LSD as a lens on personal, collective and archetypal transformation
-
-- “Ocean of suffering”: psychedelic shadow work as collective psychic detox
-
-- Deep-time visions of civilizational collapse and the “future human”
-
-- Empirical science: neural hyper-connectivity, trauma healing, pro-social and ecological shifts
-
-- The limits of materialist belief; need for agnostic, plural epistemologies
-
-- Jean Gebser’s integral consciousness and the mutation beyond the mental-rational era
-
-- Indigenous wisdom: heart-centered intention, reciprocity with Earth and medicines
-
-- Preparation & integration: kiva-like containment, disciplined practice, community support
-
-- Microdosing: promises, placebos and the risk of commodification
-
-- Practical sustenance: daily contemplative, somatic and earth-honoring rituals
-
-### Revision history
-
-| Date | Editor | Change |
-
-|------------|--------|------------------------------------------------------------------------|
-
-| 2025-07-31 | gpt o3 | Initial transcript cleanup, formatting to house style, sections added. |
+Daniel Pinchbeck 
+Let’s come back to that later and go deeper. It’s a great framing for thinking about some of the subjects Christopher and David were speaking about.

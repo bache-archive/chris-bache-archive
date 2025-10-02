@@ -1,5 +1,4 @@
 ---
-
 archival_title: "LSD and the Mind of the Universe: Diamonds from Heaven — Psychedelics Today Interview"
 
 channel: "Psychedelics Today"
@@ -9,137 +8,270 @@ recorded:
 published: "2020-01-07"
 
 youtube_id: "CbgJkCoee3w"
-
-speakers: \["JOE MOORE", "KYLE", "CHRIS BACHE"\]
-
 transcriber: "gpt5 model by OpenAI"
 
 transcription_date: "2025-08-15"
 
 license: CC0 1.0 Universal
-
+speakers: ["Chris Bache", "Joe Moore", "Kyle Buller"]
 ---
-
-**Abstract:** In this Psychedelics Today interview, hosts Joe Moore and Kyle speak with philosopher of religion **CHRIS BACHE** about his twenty-year project of 73 high-dose LSD sessions and the book it produced, *LSD and the Mind of the Universe*. Bache recounts beginning as an atheistically inclined academic before encountering Stanislav Grof and Ian Stevenson, then committing to a rigorous, carefully recorded protocol at 500–600 µg LSD with curated, often indigenous, music. He outlines a staged progression through personal, collective, archetypal, and causal levels into diamond luminosity, sharing episodes of deep time, species-mind work, and the “birth of the future human” via the ignition of lifetimes into a “diamond soul.” He contrasts LSD with psilocybin and ayahuasca, reflects on classroom morphic fields and integration challenges, cautions against emulating his dosage strategy, and argues that psychedelics can catalyze the collective transformation demanded by our civilizational crisis.
-
-*\[Music\]*
-
-**JOE MOORE:** Hello everybody, welcome back to Psychedelics Today. This is Joe Moore coming at you from Breckenridge, Colorado. On this episode, Kyle and I talk to Dr. Chris Bache, who undertook 73 high-dose LSD sessions over many years and brought back extraordinary insights in personal growth and beyond. The book is *LSD and the Mind of the Universe*. Enjoy the episode.
-
-**JOE MOORE:** We also have our course, Navigating Psychedelics for Clinicians and Therapists. It’s eight weeks with masterclasses and live discussions. Details are on our site.
-
-**JOE MOORE:** If you want to support us, share the show or visit our Patreon. Thanks for tuning in, and now our conversation with Chris.
-
-**JOE MOORE:** Hello everybody. Today on the show we have Chris Bache, professor emeritus at Youngstown State University and author of *LSD and the Mind of the Universe*. We’re also running a giveaway. Chris, thanks for joining us.
-
-**CHRIS BACHE:** Thanks for having me. I’m delighted to be here.
-
-**JOE MOORE:** I’d been tracking your long-term project for a while and was excited when the book came through. How do you like to start this story? Maybe with how psychedelics came onto your radar?
-
-**CHRIS BACHE:** I had just finished graduate school in religious studies and was publishing from my dissertation. I encountered Stanislav Grof’s work and it snapped my head around. I didn’t have a psychedelic background and was, frankly, an atheistically inclined agnostic. Grof convinced me that this mattered for philosophy of religion, not just psychology. LSD was illegal, so I split my life: I taught conventional courses by day and began a 20-year LSD journey following Grof’s paradigm and, eventually, pushing its limits. I kept meticulous notes and knew that after I retired I would share what had been learned.
-
-**KYLE:** Did you have any spontaneous mystical experiences before this that paved the way?
-
-**CHRIS BACHE:** No. In many ways I’m the last person you’d expect to write this book. I grew up in Mississippi, earned a theology degree at Notre Dame, and had no early mystical flashes. What shifted me were Ian Stevenson’s reincarnation research, which argued for post-mortem continuity, and Grof’s *Realms of the Human Unconscious*, which provided a method.
-
-**KYLE:** What did your protocol look like?
-
-**CHRIS BACHE:** Conventional set and setting: complete isolation, a trusted sitter, and carefully curated music. The difference was dose. After three medium sessions, I moved to 500–600 micrograms. Partly it was efficiency within a busy life, partly the belief that larger “karma bites” might accelerate awakening. Over time, the project moved beyond personal enlightenment into a collective and cosmological engagement. I also shifted the playlist toward more indigenous chanting and rhythm because it intensified and supported deeper surrender.
-
-**KYLE:** How important is music at high dose?
-
-**CHRIS BACHE:** Very. Music amplifies and concentrates the process—five to ten times, in my experience. I’ve done sessions without music, but for very high doses, music is a powerful ally.
-
-**JOE MOORE:** Your book covers 73 high-dose sessions. How did the journey unfold?
-
-**CHRIS BACHE:** Systematically and in layers. Shattering the ego isn’t the end; it’s an entry visa. The universe took me in by degrees. Each consolidation at a new level was followed by another death-rebirth as the method pushed me to that level’s edge. Looking back, I distinguish five bands: the personal mind culminating in ego death; the collective mind at subtle levels involving species dynamics; archetypal realities beyond the species field; causal mind and nondual oneness; and, finally, a luminosity I call diamond luminosity, akin to dharmakaya in Buddhist terms.
-
-**KYLE:** Do therapists need to understand these levels?
-
-**CHRIS BACHE:** If you’re accompanying people into deep states, personal familiarity is essential. Theory helps, but when someone is terrified of losing everything they know, you need embodied experience to hold the room. That said, modern clinical work is rightly cautious—using gentler medicines and lower doses within clear protocols. The window closed once; we must steward its reopening.
-
-**JOE MOORE:** How do we talk about integration when clients report radical transpersonal experiences?
-
-**CHRIS BACHE:** Read deeply in transpersonal literature, but know that without lived exposure you’ll misread correlations and miss the phenomenological nuance. My own arc spanned 20 years of sessions and 20 years of digestion. Guiding at depth is less about directing and more about stable presence as someone approaches the edge of reality and lets go.
-
-**KYLE:** You mentioned your students being affected by your private work. What happened?
-
-**CHRIS BACHE:** As I went deeper, strange resonances appeared. While lecturing, examples would just arrive, and after class students would say, “That exact thing happened to me this week.” Over years, I saw two dynamics: spontaneous resonance between my field and theirs, and a cumulative learning field around courses—what I called affective group fields in *The Living Classroom*. Hundreds of students’ learning co-generated fields that accelerated subsequent learning. Let go of atomistic psychology and it becomes coherent: we’re participating in a quantum-like, relational cosmos.
-
-**KYLE:** How do LSD, psilocybin, and ayahuasca differ for you?
-
-**CHRIS BACHE:** My sense—heavily conditioned by how I worked—is that psilocybin tends to stay more embodied and personal than my high-dose LSD work, and ayahuasca opens deeper than psilocybin in disruptive, somatic ways. LSD, at the dosages I used, eventually opened vast cosmological domains. Also, traditional plant medicines carry species history and spiritual agencies; LSD lacks that lineage field and can feel “cleaner.” I don’t recommend replicating my dosage strategy; if I did it again, I’d balance high with lower doses and include more embodied medicines.
-
-**JOE MOORE:** Could you share a late-phase experience?
-
-**CHRIS BACHE:** Time reconfigured. For a year I experienced my entire life simultaneously present—beginning to end—distilled into the now. Later I entered archetypal domains: not static Platonic ideas but living beings of unimaginable magnitude, orchestrating time and space. Deep-time visions of humanity’s future became a major theme: a species-level metamorphosis underway. Causally, there was overwhelming oneness and cosmic love; beyond that, voidness and then diamond luminosity, whose clarity eclipsed all else. Once I touched it, returning to it became my sole aim. Over four years and twenty-six sessions, I reached it only four times, with intense purification in between.
-
-**KYLE:** You write about the “birth of the future human” and the “diamond soul.” What is that?
-
-**CHRIS BACHE:** In one session, lifetimes condensed—like string wrapping a spindle—and then fused. The fusion ignited a diamond light from my chest and launched me into a new order of consciousness. Reincarnation often feels incremental: a little more compassion, a little more clarity. But over thousands of cycles of expansion after death and contraction into birth, a threshold is crossed. The full soul wakes up inside incarnation. That is the diamond soul: transparent to the cosmic intelligence, related to other eternal beings with deep compassion, and no longer tempted to identify narrowly with ego. I think this is where humanity is headed, collectively.
-
-**KYLE:** Many listeners fear death. What would you say?
-
-**CHRIS BACHE:** We’ve got it backwards. Dying can be unpleasant, but being dead holds nothing to fear. Near-death research aligns closely with my deepest sessions. We go home. There are layers and work to do, but fear dissolves in the larger embrace. The work—the heavy lifting—happens here. Time-space is the weight room.
-
-**KYLE:** I had a near-death experience at sixteen and felt that blissful return home. Coming back was hard, and integration was long. Your comment about the weight room resonates.
-
-**CHRIS BACHE:** The hardest chapter for me to write was “Coming Down the Mountain.” I thought I had integrated each session carefully, but integrating an entire journey is different. After stopping, I entered a profound loneliness—waiting to die so I could return to the light. That was a failure of integration rooted in an imbalance: I had pushed transcendence so far I lost footing in immanence. It took a decade of deliberately grounding in the immanent divine—through contemplative practice—to inhabit my time-space suit with ease again.
-
-**JOE MOORE:** That’s a powerful caution.
-
-**CHRIS BACHE:** My story is a cautionary tale as much as a celebration. Even with meticulous method, you can go deeper than you can productively use. These experiences changed not only my remaining years but, I believe, the trajectory of my soul’s evolution across lifetimes. Now, as an elder, I cultivate Vajrayana and classical contemplative practices as primary means of intimacy with the Real. Also, it’s important not to judge psychedelic work solely by the enlightenment yardstick. My personal awakening was eventually eclipsed by collective healing and cosmological exploration. Those are different projects.
-
-**JOE MOORE:** Do you see psychedelics aiding the civilizational transition we’re in?
-
-**CHRIS BACHE:** Yes, and just in time. Psychedelics are to inner science what the telescope and microscope were to outer science: they expand the data set and force theory change. Temporary openings into deeper orders, even for ordinary people, can re-draft our metaphysics and ethics. Our culture—built by ego—is fragmenting; the species field is hyper-stimulated by global trauma. As systems enter nonlinearity, latent connectivity activates and small inputs can catalyze large shifts. Psychedelics can accelerate maturation so we can meet this pivot more consciously.
-
-**KYLE:** Feels like time is speeding up. Everything changes under our feet.
-
-**CHRIS BACHE:** Technology, norms, truth standards—so much is dissolving. It’s confusing and dangerous, but also extraordinarily exciting. I don’t think we’re victims. I think many of us chose to be here for this turn.
-
-**JOE MOORE:** Where can people find your work?
-
-**CHRIS BACHE:** The book is on Amazon. I’ve posted papers at Academia.edu. An audiobook and website are in the works. The book is my clearest telling of the journey.
-
-**JOE MOORE:** Thank you, Chris. We appreciate your work and your time.
-
-**CHRIS BACHE:** Thank you both. You’re social catalysts; keep at it.
-
-**JOE MOORE:** Thanks for listening to Psychedelics Today. If you enjoyed this, email us your feedback, share the show, or leave a review. Our Navigating Psychedelics course for clinicians starts in February—details on our site. See you next time.
-
-*\[Music\]*
-
+<!-- diarist_sha1:8ef9b439218410bc75a42041d0563462d886e57e -->
 ---
+Joe Moore
+Hello everybody. Welcome back to Psychedelics Today. This is Joe Moore coming at you from Breckenridge, Colorado. On this episode, Kyle and I talk to Dr. Chris Bache, who, over a number of years, went through 73 high-dose LSD sessions and had some very interesting things to report back—personal growth and much more. We get into it in quite a bit of detail. The name of the book is LSD and the Mind of the Universe. We’re giving away three copies; you can find that in the show notes, and we’ll have a link to the contest there and on our social media. You can also find it at psychedelicstoday.com/welcome. It was a really mind-blowing episode for me. We don’t need to spoil anything, but Dr. Chris Bache has some extraordinary things to share and, as a recently retired university professor, comes with perspective and education on topics we should all be aware of if we’re going to get into the transpersonal. Enjoy the episode.
 
-### Key themes
+This show is brought to you by Onnit—onit.com—use the code Psy Today at checkout for 10% off everything but fitness equipment. I’ve tried a bunch of their products. I really like Alpha Brain, a nootropic cognitive enhancer that’s gotten me through some tough situations—business meetings and whatnot. If you’re working on a cognitively difficult problem, Alpha Brain might help, along with some coffee. New Mood helps balance neurotransmitters a bit, and I’ve used it as a supplement to come back from a long party weekend. They’ve got a melatonin spray if you’re having trouble sleeping, plus fish oil and other supplements, coffee and various drinks, shirts and merch. Again: onit.com, and the code Psy Today for 10% off your order.
 
-- Methodical high-dose LSD practice (500–600 µg) with curated music and a trusted sitter.
+We’re also brought to you by Audible—audibletrial.com/psychedelics-today, or psychedelicstoday.com/welcome for a 30-day free trial and a free audiobook if you sign up using our link. It helps us a lot. There are great books up there—from Tim Leary to Terence McKenna, and even the recent Mike Jay book on mescaline, which is extraordinary. If you’re into podcasts, you’ll likely enjoy audiobooks. It’s good for your cognitive diet.
 
-- Layered progression: personal ego death → collective species mind → archetypal domains → causal nonduality → diamond luminosity.
+Also, we have a course coming up called Navigating Psychedelics for Clinicians and Therapists. This course is designed to help you understand the coming landscape of psychedelic drugs in clinical practice. There’s a huge variety of interventions coming for different indications, and it’s a really big deal in medicine—already is. If you want to understand microdosing, macrodosing, and psychedelic therapy at a basic level, this is an eight-week course. We’ve moved it from five to eight weeks because five wasn’t enough. We’ve got master classes from different experts in the field—names like Dr. Catherine McLean, Ashley Booth from the AWARE Project, Mitch Gomez from DanceSafe, Shannon Clare Carlin, who helps run the MDMA therapy training program at MAPS, Ingmar Gorman, Jessica Katzman, Sai T., who does ketamine-assisted psychotherapy, Raquel Bennett, who runs the CREA Institute and conference, and more. Check it out at psychedelicstoday.com or psychedeliceducationcenter.com. Classes start in February, with course times friendly for European and North American audiences—around 7 p.m. Eastern and 7 p.m. London time; specifics are on the website. We’d love referrals, and there are great testimonials on the page. It comes with a 30-day money-back guarantee—no real risk if you jump in. If you’re a clinician with an interest in this field, we think it’s for you.
 
-- Deep-time experiences and visions of humanity’s near-term metamorphosis; the “birth of the future human.”
+If you like our show and have friends who might be interested, the most flattering thing you can do is tell them about Psychedelics Today. Maybe send them a couple episodes or invite them to the Facebook group—we’re up to about 3,000 people. And if you want to support us with a small monthly donation, you can do that at patreon.com/psychedelicstoday. Donations as small as $2 a month help a lot.
 
-- Reincarnation reframed: lifetimes fusing into a present-incarnate “diamond soul.”
+Thank you all for tuning in to Psychedelics Today. I hope you enjoy this interview with Dr. Chris Bache, and we’ll see you on the other side. Today on the show, we have Chris Bache, retired professor and Professor Emeritus at Youngstown State University and author of the recent book LSD and the Mind of the Universe. We’re also going to be doing a giveaway, so stay tuned. Chris, thanks for joining us.
 
-- Classroom resonance and affective group fields; learning as a shared morphic field.
+Chris Bache
+Glad to be here, guys.
 
-- Integration as lifelong: balancing transcendence with immanence to resolve post-journey loneliness.
+Joe Moore
+I had been talking about you a couple years ago when I found out about your long-term project, probably before the book was even with a publisher. I was really excited by the idea and then totally forgot—and then we got connected through the publisher. I’m very excited to record with you, because this is quite the project you’ve undertaken, with unique insights to share. How do you like to start this story? Maybe we can start with psychedelics—how did psychedelics come on your radar initially?
 
-- Comparisons among LSD, psilocybin, and ayahuasca; lineage fields and embodiment.
+Chris Bache
+I had just finished graduate school, was publishing a few articles out of my dissertation, and looking for where to take my research. I was a brand-new university professor when I met the work of Stanislav Grof, and that snapped my head to attention. I did not have a psychedelic history. I finished graduate school in religious studies as a pretty deeply convinced, atheistically inclined agnostic. But I read Stan’s work and a light bulb went off. I said, this is important—not just to psychology, but to philosophy of religion, which was my training. I wanted to get involved, but it had been made illegal. So I split my life. In my day job, I functioned as a professor of religious studies, teaching conventional or semi-conventional courses. And I began what eventually became a 20-year journey working with LSD, following Stan’s paradigm and then pushing the limits of that paradigm much farther than I appreciated at the time. Trained in philosophy of religion, I kept careful records and notes, trying to make the engagement as clean and productive as possible. I knew there would come a time to share the insights with a broader audience. After I retired from the university, that time finally came.
 
-- Near-death parallels; reframing fear of death and emphasizing Earth-life as the weight room.
+Joe Moore
+Did you have any previous spontaneous mystical experiences or anything that clued you into how important these things might be?
 
-- Psychedelics as inner-science instruments catalyzing collective transition in nonlinear times.
+Chris Bache
+I’ve always been envious of people who say, “I was 12 when I had my first spontaneous mystical experience.” That’s not how it was for me. I’ve always been deeply locked into my body and my physical experience. I was reasonably well educated in Western religious thought, then became educated in Eastern thought and contemporary perspectives, but I had no experiential background. In many ways, I’m the last person you’d expect to write a book on deep psychedelic states of consciousness. I grew up in Mississippi. I got a degree in theology from the University of Notre Dame before graduate school. It wasn’t part of my background at all.
 
-- Ethical caution: do not emulate dosage; proceed judiciously and contextually.
+Kyle Buller
+I’m curious—how did you stumble across Stan’s work without any exposure to psychedelics beforehand?
 
----
+Chris Bache
+I was reading widely—emerging transpersonal psychology interested me. Two people whose work I met my first year out were Ian Stevenson, whose work at the University of Virginia convinced me that reincarnation is a simple fact of life—that was a jolt—and Stan, who had just published Realms of the Human Unconscious two years earlier. Ian gave me empirical evidence that there had to be another dimension of reality besides the physical world—if there’s any time interval between the death of one personality and the birth of the next, there has to be a place for them to exist during that time. Stan gave me the methodology with the prospect of exploring that reality. I decided to go for it.
 
-### Revision history
+Joe Moore
+Awesome. What did the protocol look like to you? It looks similar to the work being done at Hopkins and by MAPS now, but was it different in your perspective?
 
-| date | editor | change |
+Chris Bache
+Pretty conventional: working in complete isolation with a sitter, and a carefully curated playlist of music. The difference is that after three medium-dose LSD sessions, I shifted to very high levels—500 to 600 micrograms. At first I did it for efficiency—hard to get time in a dual-career marriage—so I wanted to make the most of each day. I also thought it would get me to my early goal of enlightenment faster, doing my karma in bigger bites. That project dissolved along the way, and the concept of a strictly personal spiritual journey fell out. So the differences were the substance—LSD, very different than psilocybin or MDMA—and the high doses, which changed the trajectory. I also curated a more aggressive playlist, using a lot more indigenous music and not Western classical. Otherwise, very much like contemporary therapeutic approaches.
 
-|------------|------------------------|-----------------------------------------|
+Kyle Buller
+Yeah, that’s interesting. Your book covers 73 high-dose sessions—insights from your experiences and philosophical work in understanding consciousness. I’m curious: why did the music change over time?
 
-| 2025-08-15 | gpt5 model by OpenAI | Initial transcript prepared from raw text. |
+Chris Bache
+I happened upon some indigenous chanting music, threw it into my next session, and it had a profound impact on the intensity—rattled my cage much more than even aggressive classical music. It was more disorienting and gave me stronger support for going deeper. So I began to collect that type of music.
+
+Kyle Buller
+From your perspective, how important is music when you’re doing high-dose psychedelics or psychedelic therapy in that self-discovery format?
+
+Chris Bache
+Very important. I’ve done sessions without music, and psilocybin sessions with and without music. But with a strong psychedelic like LSD at very high doses—which, by the way, I don’t recommend; I wouldn’t do it the same way today—music has a tremendously powerful effect. I’d estimate it has a concentrating, amplifying effect by five or ten times over doing it without music. I started using music only in the fourth session, and the jump in that session was enormous.
+
+Kyle Buller
+It keeps coming up in the psychedelic community, especially when talking about playlists for therapy. It’s a huge part of breathwork as well.
+
+Chris Bache
+Yes, and Helen Bonny’s early work plotting the stages of an LSD journey and the characteristics of music that support each stage—important work.
+
+Kyle Buller
+Where did the idea come from to engage in these high-dose sessions? Did you start off saying, “I’m going to do X amount of sessions,” or did you go in saying, “I’ll have a few and see where it goes”?
+
+Chris Bache
+No trajectory or goal. I saw the range of experiences Stan described in Realms of the Human Unconscious. With my grounding in Western philosophical and theological thought, I appreciated the significance of these states. I believed that people making the most important contributions in my discipline would be speaking from an experiential basis in a matter of years, not just a theoretical one. To do that, you have to get in and do the work. I had no idea how long it would be. Early on, I thought you go through ego death and then get unrestricted access to deep consciousness. What I found is the universe has many layers. While it’s all holographically integrated, if you engage systematically with a careful methodology, the universe takes you in by degrees, by layers. As you move into a new layer of consciousness and stabilize there, if you keep pushing, you go to the edge of that layer and through another death-and-rebirth process—different than ego death but building on it. You go through a series of death-and-rebirth processes as you explore progressively deeper levels. That’s how it happened for me. There was a systematic progression into communion with the universe. That’s how I laid out the book: beginning to end, consolidating the story, each chapter moving into another level of consciousness or engagement.
+
+Kyle Buller
+How would you define that “layer of consciousness”? What do you mean by moving through layers?
+
+Chris Bache
+I adopted Stan’s vocabulary: psychic, subtle, and causal levels of consciousness, each with low and high expressions. The universe is so deep with many levels—those are approximations. I don’t have a vested interest in a particular model. Looking back, there were many sub-cycles of death and rebirth, but four fundamental cycles and therefore different levels one moves into. I differentiated five levels. The first is the personal mind, culminating in ego death, where you lose your egoic time-space identity. The second, for me, is the collective mind—early subtle levels—species mind and dimensions of species existence. The third is archetypal mind—higher subtle levels—moving beyond species consciousness into archetypal reality. The fourth is causal mind—profound nondual, causal reality. The fifth I call diamond luminosity, an ultra-clear dimension of light. The closest I found in spiritual literature is the Buddhist Dharmakaya, the clear light of absolute reality—the light that exists prior to the Big Bang.
+
+Kyle Buller
+Stan even kind of talks about that with his first LSD experience, right?
+
+Kyle Buller
+Thinking about these levels and the new psychedelic renaissance with therapy, how important is it for therapists to understand these levels when working with clients?
+
+Chris Bache
+If you’re going to be a psychedelic therapist, yes, because one works at different levels of consciousness. A therapist doesn’t have to have deep familiarity with all the levels to work at early levels, but conventional wisdom is right: if you’re going to work with clients going into deep, non-ordinary states, you must be personally familiar with those states. How can you be the stabilizing factor in the room when someone is terrified of losing everything they know to be real if you haven’t been there yourself? If you haven’t learned to let go, how can you help someone else let go at deep levels? That poses a challenge in training therapists. We’re in a great period now, and the legal environment will change, I hope. Personal experience is really important.
+
+Kyle Buller
+Yeah, thanks for that. It’s been a hot topic—should therapists really understand these layers of consciousness and these experiences to be a guide?
+
+Joe Moore
+It’s interesting—this idea that yes, you can get training, but you don’t necessarily need a session. Then there’s this vast realm of religious and philosophical literature discussing these states. Or we can go experiential. I really want a strong argument for this and haven’t been able to come up with one.
+
+Kyle Buller
+A strong argument for the importance of personal experience?
+
+Joe Moore
+At least personal experience. The point you made, which is unique, is that there are very complex transpersonal experiences you can have, and that’s not really discussed in recent literature—how do you talk to someone about, “Yes, you became Buddha for a millennia, and now you’re trying to work at your day job again”? Any comments on that?
+
+Chris Bache
+It’s important to have a solid theoretical grounding—read deeply in transpersonal psychology, Stan Grof’s work, and others who’ve compiled large experiential databases. But if you don’t have personal experience of these realities, you’re at a disadvantage. You can have a verbal understanding, but without personal exposure you’ll make mistakes—draw inferences an experienced journeyer wouldn’t, find correlations where there aren’t any, miss ones that are there. These are complex experiences. My journey lasted from ’79 to ’99, covering 20 years. I didn’t publish for another 20, partly because of legal complications—I had to retire before publishing—and partly because it took years during and after the sessions to work out the complex, overlapping phenomenology. Also, I think “guide” isn’t the best word; it implies active direction, which isn’t really the case for much of this work. To be a sitter—holding the ground, helping someone go to the edge of everything they know and jump—to give them support to lose their mind and let go of everything they know to be real and true—I don’t know how one could do that without firsthand experience. To that extent, a therapist’s effectiveness will be limited to their own depth of experience. They can be very skillful at levels one and two, perhaps, but maybe not so much at levels three, four, or five.
+
+Joe Moore
+Right—that’s interesting to think about practically, even going to different people for different sessions. Obviously you never know what will come up, but someone might focus more on personal dynamics, for example.
+
+Chris Bache
+It’s good we’re proceeding slowly and methodically, using gentler psychedelics. There’s no federal protocol suggesting LSD at the levels I used, and that’s good. It’s important we proceed carefully. We lost our window 40 years ago; the window is back, and we need to move judiciously. But sooner or later we’re going to find what we found early on: healing the personal unconscious is only the first step in a long journey into the deeper dimensions of consciousness—the mind of the universe, the mind of the cosmos. I hesitate to call it the divine mind or mind of God because of cultural overtones. When one completely dissolves time-space identity and dissolves into increasingly comprehensive fields of experience, realities open you never dreamed possible. If you go back again and again methodically, levels that initially swallow you whole—where it’s hard to stay consciously aware—become navigable. That’s why we often call them ineffable. But if you go back consistently, you acclimate and learn how to stay conscious at levels that previously you couldn’t. That pattern repeats as you go deeper.
+
+Joe Moore
+Yeah, I find that to be really true. Are you familiar with this gentleman, Kalin de ai from Detroit?
+
+Chris Bache
+I’m not.
+
+Joe Moore
+He is a very strong proponent of these high-level doses. I struggle with his arguments around it, but yours seem quite sensible. It’s—how do we approach it?
+
+Kyle Buller: 
+I'm not a proponent of high doses myself. I did this work and came through it. In the early years, the high-dose work done at Spring Grove Hospital with terminally ill patients was limited to three sessions. Low-dose psychedelic work was open-ended; high-dose work was capped at three. Going in, I thought if you could do it safely three times, you could do it safely more times. But by doing it as systematically as I did and pushing the edge as hard as I did, issues and challenges arose that hadn’t been discussed in the early literature. Opportunities for insight and understanding emerged, but so did challenges in navigating increasingly intense, vast levels of consciousness—what it does to your body and mind as you enter these realities, and how it affects people around you.
+
+I kept my work completely isolated from anyone on campus, but at a certain point my students began to be activated by my psychedelic work. There was a natural contagion because consciousness at deeper levels is open-ended—like throwing a rock in a lake and watching the ripples spread. When one person goes very deep, people around them are naturally impacted. I had to learn how to take care of the activations my students were experiencing. That’s why I wrote The Living Classroom. It came out of years of trying to understand the dynamic between my mind, their minds, and our minds together in the context of consciousness at large. It’s not just a matter of taking care of your own body, emotions, intimate relationships, and everyone touched by your work at a larger collective level.
+
+If I were doing it again, I wouldn’t push as hard. I wouldn’t avoid high doses, but I’d balance them with lower doses, and balance LSD—which pushes a very high cosmological ceiling—with psilocybin and ayahuasca, which are more embodied psychedelic states.
+
+Joe Moore: 
+There are a couple directions I want to go, but I want to come back to the idea of ripples. I’ve thought about this a lot and I’m curious about your take. I’ve even had it in breathwork sessions—tapping into what you describe as this lake, you toss something in and there are ripples or time waves, synchronistic things start happening. From your perspective, you talked about your students changing—do you think that was more your presence and how you were showing up, or more in that subtle realm where you go into these states and it ripples on another level?
+
+Kyle Buller: 
+Both. As my work changed me, my presence in the classroom certainly changed. But the more interesting aspect is the subtle level. For example, when I was lecturing and searching for a random example to illustrate a concept, I’d pause and my mind would go blank—and then an example would come. I’d use it, and after class a student would quietly say, “It’s funny you used that example today, because that’s exactly what happened to me this week.” At first I thought it was an accident, but it kept happening. It happened so frequently it had to mean something. The deeper I went in my own work, the more students were being touched in deep, private areas—places needing healing or where they were blocked.
+
+As I faced my blocks and entered deep communion with the intelligence of life, it was as if the intelligent fabric around me was being activated, triggering aha moments and confrontations with their blocks. Students knew something unusual was happening. I couldn’t exactly explain it, but we all knew. Some took my courses partly for the intellectual content and partly to be in the energy of the room.
+
+It wasn’t just resonance between my energy and theirs; there was a second phenomenon I discuss in The Living Classroom: group fields. Think of Rupert Sheldrake’s morphic fields, but smaller and more specific. I found psychic fields growing around my courses, getting stronger year by year. Hundreds of students learning over many years created a field that impacted, accelerated, and deepened the learning of subsequent students. Multiple factors were at play.
+
+Kyle Buller: 
+It turns out that once you let go of atomistic psychology—that is, treating individual consciousness as a standalone phenomenon—and open to a quantum psychology in a participatory cosmos, where there’s a deeper tide always moving in and out, it becomes coherent and easy to understand. You have to shift your metaphysical basis.
+
+Kyle Buller: 
+It’s like plate tectonics. Early on it looked ridiculous, but once we saw it, a lot of data made sense—elegant, simple, transparent.
+
+Joe Moore: 
+I’m curious to go back to mushrooms and ayahuasca. You said they seem more like body medicine. Could you talk about the difference between your experiences with LSD and the more plant-based psychedelics? People ask this a lot—like, is LSD more psychological or biographical and doesn’t have this “spirit” quality? Albert Hofmann said psilocybin seems to have something in there. What’s your take?
+
+Kyle Buller: 
+My take is based on personal experience, so it’s dangerous to generalize from an n of one. Psychedelics used historically have fields associated with them. We’ve been using mushrooms for thousands of years, and around the biochemistry there are fields of human experience. When you take the substance, you don’t just introduce a chemical and have a private experience; how it affects you is mediated, in part, by your species’ history with it. I think that’s true of ayahuasca as well.
+
+With LSD we don’t have those fields. It’s a new substance, and I don’t find “organic vs. synthetic” a helpful distinction. Our experience in the ’60s and ’70s is only a few decades—thin compared to the fields I’m talking about. In my experience, that living, intelligent quality you often feel with mushrooms or ayahuasca is mediated by spiritual agencies on the other side and by humanity’s long relationship with those medicines. LSD strikes me as cleaner in that respect; it doesn’t have the same programmed quality.
+
+I don’t know what it would have been like working with low-dose LSD. I’m sure that would have been more personal and psychodynamically oriented. But at the very high doses I worked with, after the first 15 sessions or so, during the peak hours I wasn’t working in relation to my personal psyche at all. In the book, I downplay the personal story because it mostly showed up at the beginning and end of sessions—meaningful and healing for my life, but the peaks were far beyond the personal psyche.
+
+With psilocybin, I don’t have that experience of being so far removed from personal reality. I only have limited experience with ayahuasca, but I like the medicine very much; it’s powerful and has given me extraordinary help and clarity. I don’t have enough experience with it to do a careful A/B with my 70-some high-dose LSD sessions. My basic sense is that psilocybin tends to be less evocative, less disruptive, opening less to the deep levels; ayahuasca is more disruptive, opening deeper still; and for me, LSD, used as I did, eventually opens to very deep cosmological levels. I haven’t seen many reports with psilocybin or even ayahuasca that correlate to what I experienced in the last 10 years of LSD work. But again, that’s my personal experience, not a scholarly survey.
+
+Joe Moore: 
+What were some of your experiences in those last 10 years? Could you share examples of major themes if it wasn’t so personal or psychodynamic?
+
+Kyle Buller: 
+That’s tricky because every state builds on earlier stages. One barometer would be time. In subtle-level reality for about a year, I consistently experienced the totality of my life, beginning to end, as simultaneously present in the immediate now. I didn’t just have abstract insights into old age—I experienced the distilled essence of my entire life boiled down to right now, all the data present in this moment. It was so mind-shattering that at first I couldn’t remember it. It took entering it multiple times before I could hold it, which I write about in “Deep Time in the Soul.”
+
+Beyond that, I entered archetypal dimensions—something like a Platonic domain behind time-space. But these weren’t unchanging ideas in a transcendent mind; they were vast beings so huge I couldn’t wrap my mind around them. The best my mind could do was image them as galaxies—probably just an attempt to image something spanning hundreds of thousands of light-years. These beings were responsible for creating time and space and orchestrating unfolding reality.
+
+I went into what I call deep time—not eternity, not timelessness, but different magnitudes of time experienced within a broader, simultaneous frame. An overarching theme became humanity’s future: where we’re going, our moment in history, the archetypal trajectory of our species, what’s happening behind the scenes in the global sustainability crisis. I have a chapter called “The Birth of the Future Human,” going deep into humanity’s future and what’s attempting to be born now—how evolution works at that scale.
+
+Eventually I went deep into episodes of causal oneness—shunyata, emptiness, the primal void behind physical existence; experiences of cosmic love, which I see as the emotional counterpart of oneness. Then beyond oneness and beyond the void into a diamond luminosity state. Once I touched that, it occupied the last five years of my work. It was so exquisitely clear that once I touched it, I wasn’t interested in exploring other dimensions I’d explored for years. Returning to that condition became my sole objective. In 26 sessions over four years, I touched it four times; in between were tremendous cleaning, purification, detoxification so I could return and experience it more completely. There are a lot of levels—hence the complexity of the story.
+
+Joe Moore: 
+People should check out the book and read through all this.
+
+Kyle Buller: 
+It’s nice now that the book is out—they don’t have to get it from me speaking. I’ve done my best to tell the story as cleanly and simply as I can, without a lot of philosophical baggage.
+
+Joe Moore: 
+Is there a story you like to tell most about your project—any specific gem you like to share?
+
+Kyle Buller: 
+It’s a journey, and every phase was its own exciting adventure. I don’t have a single favorite. From my heart, the diamond luminosity is the deepest aspect. The story of the birth of the future human—where reincarnation is taking humanity—is also important.
+
+In my 38th session, all my former lives began coming into me very quickly, like wrapping string around a kite spool. I’ve done a lot of hypnotic regression to familiarize myself with my deep life history, but here all those lives fused—and when they fused, they ignited. There was a tremendous explosion of diamond light from my chest, throwing me into a completely different state. I think I was being shown where reincarnation is taking us.
+
+Classically, reincarnation leads to a gradual development of compassion and understanding—qualities of our essential nature. We make mistakes, we learn, we go forward. But I don’t think it’s about incrementally producing a slightly better life. We die and expand in the after-death condition; we’re born and contract into a one-life focus; we die and expand, and so on for hundreds of thousands of years. Sooner or later, the totality of our consciousness—what most experience after death—wakes up inside physical incarnation. That’s the birth of the diamond soul: we know ourselves not as merely this egoic body-mind, but as eternal beings among eternal beings, with a felt sense of history and the compassion that comes with it, and an open transparency to cosmic intelligence. I think that’s where we’re going.
+
+And I don’t think it’s private; it’s collective. The universe works with whole species. If there’s one thing I wish I could communicate, it would be to let go of this constricting fear of death. If we’re afraid of dying, we’ve got it backwards. Here is where the hard work is done. When we die, we have all this Hollywood nonsense about what happens—most of it is trash. We go back home. The vast majority of us enter easily into the depth of where we come from. There are many layers and work to do, but there’s nothing to fear. One thing that’s come out of my work is I don’t have a fear of death. Dying is a pain in the ass, but being dead holds no fear for me. In fact, it’s something I look forward to very much.
+
+Joe Moore: 
+That resonates a lot with me and gave me chills. I don’t know if you know my story—listeners probably do—but when I was 16, I had a near-death experience. I ruptured my spleen, and in the scanner I was overwhelmed with a blissful feeling of love and beauty that I was going back home. Something came over me: you’re going back to the stars where we all come from; physical life will cease to exist, but you’ll continue on. It wasn’t scary. When they first said I was dying—internal injuries, massive blood loss—I was terrified, but as I drifted away, there was total acceptance.
+
+I had a hard time coming back here. I resonate with wanting to return to that oneness I felt that night. That got me into exploring psychedelics—having similar experiences and correlating them to my NDE, wanting to get back there. Over time, the period in between became about stopping and focusing on integration. I keep coming back to the idea that the work is here—this is where the magic happens. How do we embody that and show up?
+
+Kyle Buller: 
+To complain about the restrictions of time and space is like a weightlifter complaining about the weights. This is where the work is done. Time-space is extremely demanding, but progress made here has exponential import for what’s available when we die. Of all populations, the people I feel the closest affinity to from my psychedelic work are near-death experiencers. I’ve taught NDE research for years and read deeply in the literature, and the correlations with the deepest psychedelic experiences are very strong. Ken Ring, one of the founders of the NDE movement, is a good friend—we’ve written and dialogued together on this.
+
+Joe Moore: 
+It’s a powerful topic I think about often. Early experiences put me on this path. I had a psilocybin experience that felt so on par with dying it captivated me—how could a substance take me there? From a psychotherapeutic lens, maybe it’s reliving trauma and reprocessing, but there have been plenty of other experiences that still felt similar and on par with that original NDE.
+
+Kyle Buller: 
+I’ve died many times, and that was the impetus in the early work at Spring Grove—to give people a foretaste of where they’re going when they die. Shamans know this territory well. Coming back is sometimes challenging. The hardest chapter for me to write was the last one, “Coming Off the Mountain,” telling what happened after I stopped my sessions.
+
+I had worked very hard integrating sessions—writing them down, studying them, incorporating their teachings. I thought I could stop and just collect and ponder the gifts. But integrating an entire journey is different from integrating individual sessions. By repeatedly going deeper into the universe and dissolving into sheer light—into the crystalline body of the Divine—when I decided it was time to stop, I suffered a loss of communion, a deep existential sadness. Eventually I realized I was just waiting to die to return to the light. That wasn’t right. My whole being was screaming “failure to integrate,” but it wasn’t clear where the imbalance was.
+
+I found I had inadvertently cultivated an imbalance between transcendence and immanence. It’s all the Divine—the physical universe is the Divine—and I knew that. But I had pushed so deeply into transcendence that I lost some footing in the immanent Divine. I had to choose and undertake specific practices to ground myself back in the immanent Divine for the remainder of my years. It took about 10 years to get solidly, comfortably back inside my time-space suit.
+
+Joe Moore: 
+Wow. After 20 years of deep exploration, that’s a long integration process.
+
+Chris Bache: 
+In this respect, my story is sometimes described as a hero’s journey, but it’s not the hero’s journey the way it’s usually thought of. It’s not simply going and experiencing something and bringing back something valuable for your culture or yourself. It’s tempered by a lesson that comes from dealing not with the failure of some aspect of the journey, but actually with the success of the journey—of being wounded by the sheer beauty of what one experiences. You are literally wounded by the beauty of the universe, by experiencing the extraordinary intelligence and love of the universe. And if you’re not able to create a container inside your historical existence where you can breathe this intelligence in and breathe the compassion in, it can become painful.
+
+So my story is, in part, a cautionary tale. Even though I tried to be as methodical as possible, as careful as possible, and to integrate as deeply as I could, it cautions against going too deep, too fast—if you can call 20 years too fast—going deeper than you can productively use. I think my memories have changed not only the rest of the years of my life, but the trajectory of my soul’s entire evolution. I don’t think of the results of my journey as necessarily coming to fruition in just the next few decades. I think they come to fruition over lifetimes. It’s changed the entire trajectory of my deep evolutionary project. And I think that’s true for anyone who enters into this. When you enter into deep intimacy with life in this way, you purify—you offload a lot of painful trauma—but you also open up to a different relationship with the universe.
+
+Right now, my primary way of being with the universe in this intimate way is not working with psychedelics. That time of my life is largely over. I’m 70 years old, and this is somewhat of a young person’s game. I do a lot of classical contemplative practice. I do a lot of Vajrayana practice, which I find to be very complementary to deep psychedelic work. I don’t feel any cross purposes between the two methods. I should mention, though, that I think it would be a mistake to evaluate the value of psychedelic work by holding it accountable just to the enlightenment project. I started this work with an agenda of an enlightenment project. What happened was my personal awakening was eventually eclipsed by a project of collective awakening. My work began to focus on healing the collective psyche beyond my personal healing, and on awakening the collective psyche beyond my personal awakening. Then it became a radical, cosmological adventure—going so deep that it would be impossible to bring those experiences back and stabilize them in some kind of spiritually awakened state. It’s just a different project. The enlightenment project and the cosmological exploration project have to be evaluated on their own terms. My two cents.
+
+Joe Moore: 
+Yeah. This is quite the interview. I knew it was going to be a big topic, but I’m always impressed by how big some of these things become. I do think some people are doing similar projects nowadays. I wonder if LSD is still in vogue in this context. I don’t know.
+
+Chris Bache: 
+I don’t know. I worked with LSD primarily because that was the substance Stan had done most of his early work with, and I trusted what I saw in his research and the history and methodology he developed. I only began to work with other psychedelic substances pretty much after my LSD work was done. So the mind I brought to my psilocybin experiences and my ayahuasca experiences, and so on, was a mind that had been transformed by all my previous psychedelic work. That’s important to take into account: the experiences we have reflect the entire history of our working in non-ordinary states of consciousness. If we’ve done this work only two or three times, we have that depth to bring to it. But if we’ve been doing this work for years, naturally these substances are going to have a different effect, because we’ve been transformed.
+
+The way I think of this is that, in my experience, the universe is an infinite ocean of possibilities. We’ll never get to the end of it. I used to think we’d get to an end state—that the project was to get to the end condition. That was taken away from me along the journey. I began to understand it’s an infinite progression. I get distracted from my original point by that particular image. I’ll just stick with that. I lost my train of thought.
+
+Joe Moore: 
+That works for us. Our orientation is this Grofian-meets-Whitehead-and-John-Cobb kind of synthesis. It rhymes, in a sense, with the Bodhisattva vow of “let’s keep going”—there’s not this endpoint of Nirvana until everybody’s there, and it’s going to be a long, long, long time, if time even enters into that discussion.
+
+Chris Bache: 
+It’s a long time—except, of course, it’s speeding up. Our collective karma as a species is coming at us hard. Our culture has basically been built by ego, and for all the virtues and values of the ego, it’s fundamentally a fragmented condition that creates a world deeply imbalanced—between ourselves and other life forms. That world is coming to a radical and accelerated breakdown. I think this is part of the evolutionary pivot—we’re coming into a time where we literally will not be able to continue operating out of the same psychological basis of egoic consciousness. How fast might we make this transition? If we use historical projections from the past, we probably deeply underestimate how fast this could happen.
+
+In that chapter on the birth of the future human, I talk about a session—session 55—that took me deep into the death and rebirth of humanity. The message that kept coming through over and over was: this is going to happen much faster than anyone is imagining. So the game is getting very intense. We’re being driven into nonlinear dynamics. The collective psyche is being hyperstimulated by the trauma we’re going into. We know from physical systems that when systems enter nonlinear conditions, they can do things they could not do in lower-energy, linear conditions. I think something similar happens with psychic fields. The integrated psychic field that holds all our individual minds is hyperstimulated by the suffering we’re going into. As it moves into a nonlinear condition, the rules change. Small changes can elicit huge outcomes. Latent connectivity that was invisible at the linear level becomes active and visible at the nonlinear level. Things can happen much faster.
+
+We’re going into a trial by fire, and I think this trial is part of the conscious intention of the creative intelligence itself. I don’t think it’s accidental, and I don’t think there are any victims. Personally, my belief is we all chose to be here. We chose to be part of this time in history. It’s an extraordinarily important time to be fully conscious and fully active.
+
+Kyle Buller: 
+That gives me chills. It does feel like things are speeding up. You always hear that as you get older, time seems to speed up, but even talking to people who are older, things seem to be happening quicker and quicker. It’s really interesting. I feel like I can’t hold on to anything—once you grasp something, it’s already changed form.
+
+Chris Bache: 
+Yeah. So many of our social customs are dissolving right out from underneath us. The standards of truth are changing. It’s a confusing, dangerous, hard time—and an extraordinarily exciting time.
+
+Joe Moore: 
+Do you see psychedelics aiding in this in any way?
+
+Chris Bache: 
+Yeah, absolutely. The ways in which psychedelics have come back into our culture—both from Central and South American cultures that have kept traditions alive, and through the new psychedelics. LSD is often compared to the atom bomb; they were discovered at the same time. It’s an exponential opportunity to explore dimensions of consciousness that previous generations, for the most part, had to spend lifetimes meditating just to access. Now people of even modest spiritual capacities can have temporary experiences of these realities, which require a profound redrafting of our existential assumptions about how life works.
+
+We can engage these dimensions of consciousness not for recreational purposes, and not even just for healing purposes, but systematically for educational and deep transformational purposes—not only for our own personal transformation, but on behalf of the collective. That’s what I saw when I first read Stan’s work. I thought, wow, this is going to change everything. It’s going to be a true before-and-after development—like the invention of the microscope for biology and the telescope for astronomy. It increases the quantity of data we have access to, forcing a radical revision of our theoretical understanding. I think psychedelics are part of it, and just in time, because we have very little time. It’s coming at us very fast.
+
+Joe Moore: 
+I hate to end the podcast, but we’re over an hour. I want to be respectful of your time, and I really appreciate this. This is a very enlightening episode. Can you tell us where people can find your book and perhaps the upcoming audiobook?
+
+Chris Bache: 
+They can find the book on Amazon. I’m just putting the final edits on the audiobook. I’m not sure that will be released through Inner Traditions; I’m not quite sure what the vehicle will be for that, but it should be out, hopefully by the beginning of the year. I will have a website up, hopefully by the first of the year. I’m way overdue in revising this website and getting it posted, but eventually, within a month or so, people will be able to find me at chrisbache.com—that’s going to be the easiest way. Right now, most of my written work and some tapes are collected at academia.edu under my name. You can find them listed there. I’m not as good on social media as I should be.
+
+Joe Moore: 
+Only do one. It’s not worth being everywhere.
+
+Chris Bache: 
+What’s really exciting is the book is finally out, and it’s as clear a presentation of this material as I’ve been able to make. It took me five years to put it together. It’s as good as I can tell the story.
+
+Joe Moore: 
+Thank you for all your work, and I really appreciate you joining us on the show today.
+
+Chris Bache: 
+Thank you, guys. It’s been a real honor. I really appreciate the work you’re doing. Keep it up. Keep getting the word out. You’re social catalyst. We need all the social capitalism we can get these days.
+
+Joe Moore: 
+Thank you for tuning in to Psychedelics Today. This interview with Dr. Chris Bache was super interesting for me, and I really can’t wait to dig into his work more. It sounds super fascinating, and I really hope you enjoyed it. If you did or didn’t, let us know. Psychedelics today, email@gmail.com. We’d really like to hear feedback. If you want to support the show, we accept small monthly donations over patreon.com/psychedelics, today. If you want to do it at no charge, you can just tell a friend and also leave us a review on Facebook or iTunes or your podcast app—any of those places help a ton. Please take a quick minute to help us out; it would be much appreciated.
+
+We also have a course called Navigating Psychedelics for Clinicians and Therapists coming up. Class starts February 6, and we are very excited about it. It’s an eight-week course, goes through the end of March, and it is extraordinary. Tons of pre-recorded content, class time with Kyle and I to discuss ideas. We’ll also have guest teachers, there’s master classes, and much more. We facilitate the class on Zoom, so it’s video—you get to see our faces, we can see your faces if you want to let us—and we get to chat and work through a lot of this material together. If you’re interested, check it out at psychedelic education center.com or psychedelicstoday.com to find the link for this course for clinicians and therapists.
+
+I think that’s it for now. Thank you all for tuning in to Psychedelics Today. This is Joe signing off from Colorado. See you on the next episode. Bye-bye.
