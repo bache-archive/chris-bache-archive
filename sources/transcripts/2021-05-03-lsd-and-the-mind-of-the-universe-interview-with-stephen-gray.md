@@ -1,5 +1,4 @@
 ---
-
 archival_title: LSD and the Mind of the Universe – Interview with Stephen Gray
 
 channel: StephenGray Vision
@@ -21,183 +20,149 @@ transcriber: gpt o3 model by OpenAI
 transcription_date: 2025-07-31
 
 license: CC0 1.0 Universal
-
+speakers: ["Chris Bache", "Stephen Gray"]
 ---
-
-### Abstract
-
-In this inaugural episode of *StephenGray Vision*, writer-activist **Steven Gray** speaks with philosopher of religion
-
-**Chris Bache** about *LSD and the Mind of the Universe: Diamonds from Heaven*. Bache outlines the disciplined,
-
-20-year program of 73 high-dose LSD sessions that catalyzed his visionary map of humanity’s collective evolution.
-
-He describes successive stages—from perinatal cleansing through archetypal, causal, and “diamond luminosity”
-
-realms—culminating in revelations of a coming species-level death-and-rebirth. The discussion covers session
-
-protocol, sitter responsibilities, music curation, and the need for daily spiritual practice. Bache and Gray reflect
-
-on global crises as collective “labor,” the emergence of the “future human,” and the role psychedelics can play in
-
-building a compassionate planetary culture. The conversation offers both practical guidance for deep psychonauts
-
-and hopeful context for non-users engaged in humanity’s awakening.
-
+<!-- diarist_sha1:f016a985cf9b0ab0676e0cc8d2c4e5d99544306f -->
 ---
+Stephen Gray 
+Welcome, everybody. This is the very first interview on my YouTube channel, which will also appear as an audio podcast on Anchor. The series is called “Stephen Gray Vision”—all one word, S-T-E-P-H-E-N, capital G-R-A-Y, Vision—and the purpose is to explore the possibilities of an awakening humanity. I hope to have subscribe and contact links available at the beginning and end of future episodes.
 
-**STEVEN GRAY:** *\[music\]* Welcome, everybody, to the very first episode of the **StephenGray Vision** YouTube channel—
+I’m very excited because this is the first in a series I hope to continue for quite a while. Chris Bache is my first guest, and we both acknowledged, just before recording, that we’re honored to be doing this inaugural conversation together.
 
-also available as an audio podcast on Anchor. The purpose of this series is to explore the possibilities of an
+Before I ask Chris to say anything, a short bio with a couple of comments. Christopher M. Bache is professor emeritus in the Department of Philosophy and Religion at Youngstown State University, where he taught for 33 years. He is also adjunct faculty at the California Institute of Integral Studies and a fellow at the Institute of Noetic Sciences. An award-winning teacher, Chris explores the philosophical implications of non-ordinary states of consciousness, especially psychedelic states. He has written three books—Life Cycles, Dark Night, Early Dawn (which I read about 20 years ago, a wonderful book), The Living Classroom (which I haven’t read)—and, more recently, LSD and the Mind of the Universe: Diamonds from Heaven.
 
-awakening humanity. I’m thrilled to launch with Professor **Chris Bache**. Before Chris speaks, let me read a short bio.
+I’m going to ask Chris for a summary of the 20-year journey described in LSD and the Mind of the Universe, but I don’t want that to take the whole interview, in part because he’s already given thorough, linear presentations in a few YouTube videos. If you want details short of reading the book—which is a stunner—I suggest looking up “Diamonds from Heaven, Time Waiver, Summer World 2018.” There’s a 50-minute talk where Chris goes through the whole journey. And here’s the book, which I have right here: LSD and the Mind of the Universe: Diamonds from Heaven. Chris, don’t let me forget at the end to ask for any contact information or links you’d like people to follow up on. Welcome to my inaugural Stephen Gray Vision series.
 
-**STEVEN GRAY:** Christopher M. Bache is Professor Emeritus in Philosophy and Religious Studies at Youngstown State
+Chris Bache 
+It’s a pleasure to be with you today, Steven, an honor to be in your memorial voyage.
 
-University, adjunct faculty at CIIS, and a Fellow at the Institute of Noetic Sciences. An award-winning teacher,
+Stephen Gray 
+There’s a lot I want to ask and discuss. A good place to start would be a relatively short summary—five minutes or so—of what got you into this, a bit of the 20-year journey, and where it went afterward. People can go to the YouTube videos for the full arc.
 
-his work probes non-ordinary states, especially psychedelics. His books include *Life Cycles*, *Dark Night, Early
+Chris Bache 
+So, basically, you’re asking for a highlight reel or trailer for the book. I’m a philosopher of religion. I was trained in philosophy of religion and came to this work interested in the potential of psychedelics to explore the deeper reaches of consciousness—pushing through the personal unconscious and entering what I eventually came to understand as the mind of the universe itself.
 
-Dawn*, *The Living Classroom*, and—most recently—*LSD and the Mind of the Universe*, subtitled *Diamonds from Heaven*.
+I did 20 years—73 high-dose LSD sessions—and I’d emphasize the significance of that protocol: 500 to 600 micrograms. This opened territory much deeper than is typically reached at the doses being used in the therapeutic community today, which is very important work but a different aim. This protocol was a more aggressive shattering of levels and boundaries of consciousness. I worked for four years, stopped for six, then worked for ten more, averaging about five sessions a year.
 
-Chris, thank you for inaugurating this series.
+The highlight reel: I spent about two years at what Stan Grof calls the perinatal level of consciousness, processing very early experiences—birth, death, fear of death, existential crisis—culminating in a deep ego death that exploded my identity and catapulted me into early spiritual realities. Then I spent another two years in a much more intense purification process I call the dark night of the soul. The work clearly pivoted away from my personal transformation and entered the collective psyche—healing or transforming the species mind itself—processing experiences from thousands and hundreds of thousands of persons over thousands of years.
 
-**CHRIS BACHE:** It’s a pleasure and an honor, Steven. I’m delighted to join your maiden voyage.
+When that culminated, I was spun into archetypal reality, exploring vast territories in the collective unconscious and learning how our species lives as a single integrated entity—all of us fractal embodiments of that being. From there I went through another round of death and rebirth into causal-level reality, where the universe pulsed as a single entity, a single life form—dissolving all boundaries, even the membrane between matter and spirit. I received many gifts in that territory for about a year, in what I call the benediction of blessings.
 
-**STEVEN GRAY:** Let’s start with a concise “highlight reel.” In maybe five minutes, can you recount why you undertook
+For the last five years, I entered what I came to call the diamond luminosity—a state of pure light with hyper-clarity, clarity beyond measure. I discovered many levels of light; the diamond luminosity was the purest, what Buddhism calls Dharmakaya, the clear light of absolute reality. Across those five years, I entered this reality only four times in 26 sessions, with a lot of purification in the intermediate sessions. I was then given one final vision of the human trajectory—where we are in history—and then the universe basically kicked me out. It wrapped up our work—before I fully realized it was wrapping up—and ushered me on my way. I began in 1979 and finished in 1999.
 
-your 20-year LSD journey and sketch its arc?
+Afterward, Spirit said to me in meditation: “20 years in, 20 years out,” meaning it would take me 20 years to understand and digest those 20 years of experiences. It just so happened—not by intent—that LSD and the Mind of the Universe was published 20 years after my last session.
 
-**CHRIS BACHE:** Sure. Trained as a philosopher of religion, I was drawn to psychedelics for their capacity to probe
+Stephen Gray 
+Wonderful. For those watching and listening, if you didn’t quite gather how stunning this series of journeys is, read the book—truly paradigm-shattering. I sometimes joke, with no offense to Terence McKenna, that his descriptions were tapping into realms you went far deeper into.
 
-the mind’s depths. Over 20 years I completed 73 sessions at 500–600 µg—far beyond today’s therapeutic doses. The
+A practical, user-friendly question: you’ve said you wouldn’t do it the same way again because it was so intense, and you also came to understand it wasn’t about “getting anywhere.” Clearly, this isn’t for everybody. For those who do feel called to deep exploration, could you briefly describe the safety protocol you employed?
 
-protocol followed Stanislav Grof’s high-dose guidelines: eyeshades, headphones, indigenous-leaning music, a trusted
+Chris Bache 
+I basically used the protocol established by Stanislav Grof in his early work, published in LSD Psychotherapy in 1980. He distinguishes low-dose psycholytic sessions from high-dose psychedelic sessions. In the early years, those psychedelic sessions were limited to three. I took that protocol and multiplied the number of sessions to 73, but always with the same safeguards: working in isolation, in the privacy of my home or my wife’s clinical office; lying down, protected from the outside world with no interruptions; a sitter present—my sitter for all this work was Carol, my first wife, a clinical psychologist; and a carefully curated playlist to support the deepening and unfolding of the work. The sessions were completely internally focused, sheltered from the outside world, with no interface except the music. The focus was on encountering, as deeply as possible, whatever was arising from within my consciousness.
 
-sitter—my then-wife Carol—and complete inward focus.
+Stephen Gray 
+Before we go further, a quick question about the sitter. For anyone doing this kind of work, what’s the job description? Does the sitter need to have been to some of these inner realms to do the job properly?
 
-The journey unfolded in stages:
+Chris Bache 
+Ideally, the sitter should be experienced in these domains. It depends on how interactive the work is, but the more experienced the sitter, the more comfortable they’ll be when the subject goes deep. In our case, Carol was not particularly interested in exploring these domains herself. She read the literature with me—not ideal, perhaps, but it worked sufficiently well.
 
-* **Perinatal catharsis (≈2 years):** Processing birth, death, and existential terrors; culminating in ego death and
+The sitter’s responsibility is to keep the subject safe so they don’t hurt themselves—some spasms can be quite violent—and to manage the practicalities, like vomiting at high doses. They help ensure the subject stays focused—discouraging any attempt to step outside the session—and manage the music, staying in touch so they can anticipate where the subject is and shift the music when the inner experience shifts. Sometimes they ask questions, but usually not often.
 
-entry into early spiritual realities.
+Stephen Gray 
+And the music—how important is it to get the right kind? I recall you mentioning a developing quality over a six-to-eight-hour arc.
 
-* **Dark night (≈2 years):** A pivot from personal to collective purification—engaging millennia of species-level
+Chris Bache 
+I followed Helen Bonny’s recommendations, cited by Stan in his early work. She differentiates five stages of an LSD session. There’s an early latency, then, as the drug kicks in, a high activation phase—particularly intense at high doses—with a huge surge of energy. You want music that encourages surrender, supports the breakthrough of defenses, and helps you give in to whatever is happening.
 
-trauma.
+Experiences build to a crisis—often a death-and-rebirth event—after which you’re catapulted into an ecstatic portion. For me, the early portion was always purification, culminating in and then yielding to the ecstatic. There’s a long peak where you want music that supports expansive worldviews, followed by a very slow decline: re-entry with gentle music that provides spaciousness for processing, integrating back into ordinary identity.
 
-* **Archetypal immersion:** Learning how the human family lives as a single being within mythic dimensions.
+After a number of sessions, I found indigenous music and chanting more powerful and evocative than classical music—even powerful classical. I collected a lot of indigenous music from different cultures. You don’t want lyrics you can understand; you don’t want to stay on familiar ground. Foreign territory is what you want to explore, not be anchored by the familiar.
 
-* **Causal reality:** Boundaries dissolved; the universe pulsed as one life-form. I received a “benediction of
+Stephen Gray 
+In a recent talk you referenced William James, saying there are three stages to this kind of work: pushing boundaries, meticulous recording, and a third stage of analysis and sharing. Is that about right?
 
-blessings.”
+Chris Bache 
+That’s really my articulation of psychedelic philosophy, building on James’s pioneering work—he used nitrous oxide and drew striking conclusions in The Varieties of Religious Experience. The method is: enter temporary non-ordinary states; record them afterward as clearly and precisely as possible; and integrate them. Completing the circle of learning is crucial if you want to do this systematically. Attending to and trying to understand your experiences lays a strong foundation for the next set—like keeping a dream journal, which often deepens and clarifies dreams. It’s as if the unconscious knows you’re paying attention and ups its game. Likewise, the more attention you give to integration, the more the cosmic mind engages you.
 
-* **Diamond luminosity (final 5 years):** Four visits to a hyper-clear light—what Buddhists call the *dharmakaya*.
+Retention is especially important if you’re pushing far boundaries and entering radically new territory with few cues in the literature. I was often writing at the edge of my ability, consolidating what I experienced as an important part of the process.
 
-After a culminating vision of humanity’s trajectory, the universe “wrapped up” our work in 1999.
+Looping back to why I wouldn’t do it the same way again: over the long haul, working at doses this high—responsibly and conscientiously, supplemented by other spiritual practice, yoga, meditation—is very demanding. It’s taxing. If I were doing it over, I’d be gentler with myself: balance high-dose sessions with low-dose; balance LSD, which tends to be a high-level, cosmic psychedelic, with psilocybin or ayahuasca—more body-grounded medicines—to facilitate ongoing integration of peak experiences. Hammering the high levels did open great cosmic vistas, but I was harder on myself than needed, maybe harder than was wise. It took a long time to internalize and, in some ways, recuperate from the journey.
 
-Spirit then told me, “Twenty years in, twenty years out,” meaning it would take two decades to integrate. Indeed,
+The other reason is that I learned this is not a journey with a distinct end. I began thinking there was an endpoint—oneness with God or immersion in the primal void. I entered oneness with the Divine many times and learned there are many levels to that, and even to immersion in the primal void. About two-thirds through, the universe showed me it’s an absolute, infinite universe. I would never get to the end of it. It’s open-ended. You take in as much as is healthy and wise for you. The idea of “getting to the end” was a misconception, so I’d be gentler and more patient with a slower pace of evolution.
 
-the book appeared 20 years after my last session.
+Stephen Gray 
+My old Buddhist teacher, Chögyam Trungpa, wrote a book called Journey Without Goal. And the Ten Oxherding Pictures—are you familiar with them? The way I encountered them, the last one goes something like, “Thus ends the journey that never needed to be made in the first place.”
 
-**STEVEN GRAY:** The book is stunning. For listeners who want the detailed linear narrative, I recommend your 2018
+Chris Bache 
+Yes. I started this work focused on enlightenment, which is what the Ten Oxherding Pictures are about—awakening to the ever-present condition so that, in the end, you come back to where you were, but with your filters clear and the present luminously there. That was my initial agenda.
 
-TimeWaver talk “Diamonds from Heaven.”
+But it was superseded by two other aspects. First, the challenges of our collective enlightenment—our collective evolution. Eventually my personal healing or enlightenment was superseded by responding to the call to support our collective transformation in history. Second, that was superseded by the opportunity to explore the deep structure of the universe itself—a cosmological exploration. You don’t need to explore the universe’s deep structure to awaken to your essential nature. These are different projects. My work combined the enlightenment project but yielded to a different one—the philosopher’s project: an invitation to explore, as far as I could, the nature of cosmic reality.
 
-On safety: what are the essential elements of your protocol?
+Stephen Gray 
+Thank you for clarifying that. I don’t know exactly how to ask this, but something like: a lot of people will never use psychedelics; another subset will work with them, but not at the depths you did. Have you had thoughts or intuitions about how many people—who aren’t going to do extremely deep work—can approach the work that needs to be done with the help of psychedelics?
 
-**CHRIS BACHE:** Isolation, a qualified sitter, meticulous set and setting, and music that tracks Helen Bonny’s
+Chris Bache 
+You’re right that I wrote LSD and the Mind of the Universe hoping it would be read not only by psychedelic voyagers—so we could have a Voyager-to-Voyager conversation—but also by people not interested in taking psychedelics or who haven’t had the opportunity. What’s important is the cosmology that emerges, the visions of reality that appear in psychedelic states. These can be valuable whether or not one ever touches these experiences. I’ve had many lifelong meditators write to say they resonate and have had similar experiences—collective suffering, death and rebirth—without psychedelics. That’s what we’d expect: psychedelics amplify consciousness; consciousness does the work. Focused work with consciousness naturally overlaps what emerges in sessions.
 
-five-stage arc—ascending activation, crisis, breakthrough, peak, and re-entry. Indigenous chants proved more
+For those who want to work with psychedelics, several basic rules of thumb stand out. First, meticulous attention to set and setting—widely understood now—but I’d emphasize clarity of intention and creating the conditions for long-term engagement. Sometimes the undertaking is months; sometimes it’s years. The longer the engagement, the more important it is to set up carefully—have your kiva prepared inwardly and outwardly—so you have clean contact and good recall. That means not obscuring the field with outside distractions. Tripping can be life-changing, no criticism there, but for deep inner work you have to clarify the field.
 
-powerful than Western classical pieces because unfamiliar languages prevent cognitive anchoring. The sitter’s job is
+Second, retention: hold on to your experiences—record them, clarify them—whether through art, music, or, for me, the written word. Much important work now is therapeutically focused—healing wounds of the personal psyche—which is crucial. But that which heals at the personal level is also that which opens into the cosmos. Renewing our relationship with the universe heals many wounds of incarnation.
 
-to protect, manage bodily needs, monitor music, and discourage premature externalization. Experience helps, but above
+If you feel called to push boundaries, it helps to have an adventurous spirit, a certain rigor, a capacity to tolerate ambiguity, and stability in your social circumstances—because your work touches those closest to you. Make sure your life is grounded and solid.
 
-all the sitter must be steady.
+Lastly, the deeper you want to go, the more important a daily spiritual practice becomes—to ground the energy unleashed and to ground the experiences. The more you learn about mysticism and study the autobiographies of saints and sages, the more touchstones you have for integrating radical experiences.
 
-**STEVEN GRAY:** You’ve said you *wouldn’t* repeat the journey the same way. Why?
+Stephen Gray 
+It’s funny you mention the great saints. There are these pinpoint figures over the last couple of thousand years—St. John of the Cross, St. Francis, Meister Eckhart—and of course many indigenous mystics who weren’t writing. Where are these people now? Are there just too many of us for them to stand out? Where are the Ramana Maharshis—those who seem to have completely “gotten it,” so to speak?
 
-**CHRIS BACHE:** High-dosing alone is taxing. Today I’d intersperse lower doses, alternate substances like psilocybin
+Chris Bache: I don’t know the answer to that question; it’s sociological and historical. I think there are more hidden saints than we appreciate, but I also agree with those who have observed that the age of private enlightenment is ending—has already ended. It’s not that individual enlightenment work isn’t important—it is—but we’ve entered a time when the whole human species needs to enter the enlightened condition, to get at the roots of what holds us in this tight configuration of ego. The civilization we’re in is built by the ego, which is ultimately a cut-off psychological entity. We don’t experience our common ground with other beings or with the universe itself. It’s a fragmented condition that builds a fragmented world, and that fragmentation is threatening the vitality of life on our planet. I think the real impetus now is collective transformation, and that’s taking us into a different level of the game than we’ve been in for the last 2,000 years.
 
-or ayahuasca, and integrate more somatic practice. I also learned the path has no final terminus; the universe is
+Stephen Gray: My old Buddhist teacher Chogyam Trungpa was critical of what he called the arhat mentality—enlightenment for self. I completely agree with you. That leads into the “great death and great awakening” you talk about in your work and explored in your journeys. A primary motivation for this series is exactly what you’ve been saying: we’ve reached a kind of karmic comeuppance where the fragmented ego mentality has brought the planet to an unsustainable place. I know you weren’t given a timeline—no 2012—but it feels like we’re in a vortex. The image I use is a boat drawn into a whirlpool: at first it circles slowly on the outer edge, then the pull becomes stronger and faster. It seems we’re well into that vortex now. Can you comment on that?
 
-open-ended. A gentler pace would honor that.
+Chris Bache: This was a great surprise in my work. When I began, I was thinking in terms of a model of individual transformation—I was doing this to transform and improve my private self. That shattered after two years. The game changed. About four years in, I began being given a series of visions that unfolded over more than 50 sessions, and the theme was always humanity’s collective transformation. They were consistent over time. The message was that humanity was coming to a before-and-after point in history—a decisive transformation, an evolutionary jump in the quality of consciousness we would be living out of and through. A time of great blessing, grace, illumination, and healing.
 
-**STEVEN GRAY:** Many seekers won’t pursue such extremes. What guidance can you offer the broader community?
+These visions came for years, but I wasn’t shown how nature was going to pull this off. Looking around, for every indicator we were getting better, there were indicators we were getting worse—more insanity, greed, corporate control. Then in 1995 I was given a very deep session, a series of visions that took me into the future. Time became very permeable in my sessions; I entered multiple modalities of trans-temporal experience. I entered the deep future and experienced what I came to understand as the death and rebirth of our entire species in a collective historical crescendo. I experienced it not as Chris Bache looking on, and not even as a spiritual aspect of myself looking on. By then I had dissolved so many times into the collective mind that I experienced this crisis as the species. I felt a rippling of crisis arising within the collective psyche, a time of tremendous suffering—things falling apart, loss of control, human beings losing more and more of the constants of their world. The image that comes to mind is a hurricane coming over a small island, threatening all life there.
 
-**CHRIS BACHE:** Whether or not one ingests psychedelics, consciousness does the work. Key principles:
+For a time, I thought we were going extinct. But then, at the peak, the storm passed, and humanity began to recover. When we started to pick ourselves up, something extraordinary happened. In going through this crisis, we were changed. Our hearts were broken open. When the pain became so terrible, we began to make choices we hadn’t been willing to consider in earlier periods of stability. In that instability, we made different choices. Past the worst of the crisis, there was a tremendous upsurge of new values, insights, ways of being and organizing. The fundamental theme was oneness—an experience deep in our psyche of the oneness that permeates all existence. A tremendous spiritual revitalization.
 
-1\. **Clarify intention** and create a “clean kiva.”
+Subsequently, in other sessions, I was taken into deep time and given an experience of what I came to call the future human. This change would not simply precipitate political, economic, or social restructuring; it would reach so deeply into the collective psyche that it would cause an evolutionary flip of the archetypal blueprint of the human psyche—an emerging, restructured core around which our individual lives crystallize in time. Just touching this future human was clarifying and gratifying: a magnificent humanity with its heart healed of the pain we’ve caused each other and that has been caused in us by nature, and a tremendous illumination of the human mind—an enlightened species emerging from this process.
 
-2\. **Retain and integrate**—journaling, art, or music strengthen the learning loop.
+This gave the larger context for my life and my understanding of history now. It helped me understand why my individual enlightenment fell away as insignificant and why my sessions for years aimed at collective transformation, trying to support it wherever possible. It gave me no timeline or specifics—no when, where, or how—but the certainty and magnitude of this convulsion seemed driven by a global ecological crisis triggering a crisis of global systems. After these experiences I did my ecological homework, read widely, paid attention to those tracking these things, and I think it’s clear we’re coming to a critical time in human evolution. We’re on the verge of losing the planet if we don’t change our ways, and we don’t seem to be changing nearly fast enough to avoid a crisis of unprecedented proportions.
 
-3\. **Daily spiritual practice** grounds energy and insights.
+I had these experiences from 1985 to 1999—20 years ago—and it seems they’re unfolding now as we enter a time of great ecological uncertainty and devastation in global climate change. In this context, I watched COVID-19 and didn’t see it as the true crisis of this era. It’s too small for that, but it’s serious, and if we respond well it can teach us many things we’ll need when the deeper crises emerge in the decades ahead. Some are learning; others are trying to get back to “normal” as quickly as possible. I think “normal” will be increasingly irretrievable. We have no choice but to go into a new future and find our way into it. The divine—or whatever you want to call the universe’s creative intelligence—is pulling us that way. It supports us as we cooperate with this crisis. It’s taking us somewhere it wants us to go.
 
-4\. **Long-term engagement** requires life stability; your circle is affected too.
+Stephen Gray: I’ve had the same intuition about COVID. It’s a kind of fantasy in my mind that the gods—as it were—have let us down step by step: here’s what can happen when there’s a great disruption. What changes in our mentality and collective behavior might come out of this? At the very least, the world has been quieter and cleaner for a while. Even if people don’t consciously reflect on the implications, it gets under the skin—birds more audible, cleaner air, a slower pace. I’m seeing so many people on bicycles and jogging. When people get back to “normal,” many may find they’re rested, healthier, cooking more at home—it’s even hard to find yeast in stores. At the same time, the way you describe this great death trajectory sounds frightening. It feels increasingly important for anyone who possibly can to be a rock for others.
 
-5\. **Courage with discernment:** Depth exploration suits certain temperaments; it’s not obligatory for awakening.
+Chris Bache: It is frightening. That’s why it’s important to understand what’s happening. Many will call on apocalyptic end-of-days narratives or extinction talk. But I think we’re in labor. This is a birth. Gestation is long, but labor is a short, very intense process that gives birth to something new. Humanity has been gestating the future human for thousands of years, and the process of giving birth to it is convulsive. If you walked into a room during active labor—yelling, screaming, everyone rushing about—you might think, “This is terrible; she’s going to die.” But if you know what’s happening, you know it’s labor. We’re entering a collective labor. We need to appreciate what this consists of: we’re giving birth to a new form of human being—not just polishing the edges, but a deep reconstruction of the human psyche.
 
-**STEVEN GRAY:** Let’s pivot to your recurring vision of a collective death-and-rebirth. You saw no dates, but sensed a
+The way I’ve come to understand this is through the concept of the diamond soul, drawn from experiential teachings I went through about where reincarnation is taking us. Traditional views often emphasize incremental improvement—third grade to fourth to fifth—karma follows us, we get a little better each time. We die, reconnect with soul in spirit, are born and get small, die and get large—on and on for thousands of years, touching our total consciousness mostly in the afterlife.
 
-species-level labor analogous to childbirth.
+But eventually, all our former lives start coming in and hit critical mass. When they hit critical mass, there’s a massive explosion of energy; they fuse. When they fuse, an extraordinary diamond light broke out of my chest and catapulted me into a state of consciousness beyond anything I’d known. I was still an individual, but an individual beyond any previous frame of reference. I think that fusion is the birth of the soul in time—a permanent shift of identity from the ego of this short-term body to the soul, which lives and feels on a much larger horizon.
 
-**CHRIS BACHE:** Yes. From 1985 onward I was shown humanity approaching a decisive “before-and-after.” I experienced
+This birth of soul consciousness inside time is happening as the planet tries to come to terms with its divisive history and confronts problems that can’t be solved at the national level, only the global. As we try to come together as one planet, internally the players are trying to come together as one soul. There’s reciprocity between the outer political-ecological dynamic and the inner psycho-spiritual one. The ego built this world, but the ego will never be able to solve the problems we’ve generated. It takes the expansion of the soul—the depth of courage, compassion, and insight—to carry us into the next stage of our planetary evolution.
 
-it *as* the collective psyche—waves of agony followed by an explosive upsurge of compassion and clarity. Out of the
+Stephen Gray: My sense of this passage is that it is scary—many of the status-quo anchors people rely on may be ripped away. It will be a really challenging time. The hopeful part of me leans on “necessity is the mother of invention.” As we move out of the collective dream and the virtual illusion in our heads—as Terence McKenna and others have said, whistling past the graveyard—destabilization may call forth the deep well of creativity and capability in the human species. Another favorite line from Victor Hugo: there’s nothing as powerful as an idea whose time has come. As the old ways become less viable, people may be more open to new ideas.
 
-crisis emerges the “future human,” forged by the fusion of all past incarnations into a diamond soul. Ecological
+Chris Bache: We’re experiencing a profound polarization. There will be forces pulling us toward the past—the divisions, certainties, and patterns of the past—and forces taking us into a less certain, unexplored future. The juice is with the future, because the past—patterns of consumption, corporate control, violence, placing one race or religion or continent over another—ends in death. A collaborative future—a world that works for all, where a portion may have less so that everyone has more—will produce a much happier, better existence for all of us. I think we have the courage to make it. Things like the coronavirus give us an opportunity to flex our courage and wisdom, to say no when we’re told lies by people who represent the past—the faded wisdom of patriarchy, the unspeakable shame of ego. We see it dramatized in the body politic, and it leaves a sour taste. When we see courage, compassion, wisdom, and insight working for the collective good, we recognize it and say, “Yes. I want to be like that. I want to support those forces.”
 
-breakdown appears to be the trigger, but the process ultimately births an enlightened planetary culture.
+Stephen Gray: Hopefully, as Leonard Cohen put it, there’s a crack in everything—that’s how the light gets in. I read some of the channeled books popular in the late ’80s and early ’90s. One I liked was Ken Carey—books like Starseed and Millennium. Assuming they were genuinely channeled, one message was that our communication technologies are interesting because when an idea’s time has come, we now have the capability to share information instantly around the planet. It feels like we have stepping stones now.
 
-**STEVEN GRAY:** You view COVID-19 as a rehearsal, not the main event.
+Chris Bache: If it were just me having these experiences, it might not be that significant. But a lot of people have been seeing this—psychedelic voyagers describing a time of fundamental historical crisis and choice; Indigenous cultures seeing it for decades; mystics and contemplatives who would never go near psychedelics having this deepening insight that we must grow up. That’s one way to view it: a time of maturation. We’ve been living like adolescents, with adolescent qualities; now we need to grow up. I think we have that capacity and we will make this transition, even though it’s going to get difficult. When I feel deeply uncertain and fearful, I remind myself the universe has brought us this far. Yes, there are dead ends and extinction events all around, but if we’re entering a time of such momentous choice and consequence, the universe must think we’re ready. I place my trust in the universe’s wisdom. In my sessions, the universe clearly seemed to think we’re ready—and that it knows what it’s doing—but we have to participate in that knowing.
 
-**CHRIS BACHE:** Correct—an early contraction teaching cooperation, truth-telling, and resilience we’ll need for
+Stephen Gray: This is why I’m so happy you’re my initial, inaugurative guest on this series. It’s central to why I respect you and your work, Chris: it’s hopeful. It points to who we can be and that there’s a way to get there—almost like the Four Noble Truths. People need that kind of encouragement and vision as things get less stable and there’s less ground to hold. This is probably a good time to bring it to a close—we’ve been talking for close to an hour—and it’s clear you could say much more. We might have to do it again. You’re an easy interview; I just need to ask one question and you articulate so clearly and beautifully. I’m really moved to hear what you’ve experienced and are sharing. Since this is my first one, I haven’t figured out how to end these. Sometimes people say goodbye to the guest and then talk to viewers, but I’ll do that while you’re still here, if you don’t mind.
 
-deeper challenges.
+Chris Bache: Before you do, thank you for your initiative. You’ve been drawing people together in conferences for years, and your commitment to our collective transformation has been profound. This series continues that. Your vision is collective awakening. I honor that and thank you for it.
 
-**STEVEN GRAY:** Your perspective is hopeful. You trust the universe wouldn’t bring us to labor if we weren’t ready.
+Stephen Gray: Thanks for saying that. I feel really connected to that vision. Another favorite line, from Bishop Desmond Tutu: a lot of people don’t believe in the possibility of possibility, and that’s what we need—to believe in the possibility of possibility. The ego can cook up all kinds of stories, but there’s only one functional attitude: believe in the possibility of possibility, do your own healing work, and participate however you can.
 
-**CHRIS BACHE:** Exactly. When fear rises, I remember the intelligence that carried life this far. The invitation is
+Stephen Gray: Do you want to say anything about how people can contact you?
 
-to grow up—shifting from egoic adolescence to soul-centric adulthood.
+Chris Bache: I’m embarrassed I haven’t finished my website yet—hopefully in a month or so. It will be chrisbache.com. Right now, people can find my articles and publications at academia.edu under Chris M. Bache, along with many podcasts. You can also reach me at my university address: CMBache@ysu.edu.
 
-**STEVEN GRAY:** Beautifully said. As we close, where can viewers find you?
+Stephen Gray: I should be able to put little tabs on the screen for that. And for those listening, Bache is spelled B-A-C-H-E—it’s not necessarily an intuitive spelling and pronunciation match. The book we’re talking about is incredible, really remarkable, and there’s so much more in it than we covered today. I hope people will find it; it’s already part of the transformation we’re talking about and will continue to be.
 
-**CHRIS BACHE:** My papers are on Academia.edu under “Chris M Bache.” Soon my website—*chrisbache.com*—will host news
+Chris Bache: Thank you, Stephen—really. Thank you for the conversation and the opportunity to bring these ideas forward to your listeners.
 
-and resources. Email remains *cmbache@ysu.edu*.
+Stephen Gray: You do it so well, Chris. I could listen to you all day. You’ve found your job—you explain it so clearly. Thank you very much. I’m hoping to add a subscribe button here; I hope people will subscribe to this YouTube channel and share it. It’ll also be on Anchor as an audio podcast once we strip the audio from the video. Much thanks from the heart, Chris. Take care.
 
-**STEVEN GRAY:** Thank you, Chris. Your clarity and generosity set the bar for this series.
-
-**CHRIS BACHE:** Thank you, Steven, and blessings on your project.
-
----
-
-### Key themes
-
-- Structured high-dose LSD praxis and Grofian protocol
-
-- Staged progression: perinatal, dark night, archetypal, causal, diamond light
-
-- Collective purification and the birth of the “future human”
-
-- Crisis as evolutionary labor rather than apocalypse
-
-- Importance of sitter ethics, music, and daily practice
-
-- Integration through rigorous documentation
-
-- Psychedelics as amplifiers; consciousness is primary
-
-- Hopeful cosmology amid ecological and social upheaval
-
----
-
-### Revision history
-
-| Date | Editor | Change |
-
-|------------|---------------------|-------------------------------------|
-
-| 2025-07-31 | gpt o3 model OpenAI | Initial transcript and formatting |
+Chris Bache: Bye-bye, my friend.

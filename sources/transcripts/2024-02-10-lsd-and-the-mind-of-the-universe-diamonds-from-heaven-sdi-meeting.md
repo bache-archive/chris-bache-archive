@@ -1,5 +1,4 @@
 ---
-
 archival_title: "LSD and the Mind of the Universe: Diamonds from Heaven (SDI Meeting)"
 
 channel: "San Diego Integral"
@@ -35,179 +34,202 @@ transcriber: gpt5 model by OpenAI
 transcription_date: 2025-08-19
 
 license: CC0 1.0 Universal
-
+speakers: ["Chris Bache", "Tom Habib"]
 ---
-
-**Abstract**
-
-San Diego Integral hosts CHRIS BACHE for a preview of themes later presented at the Future Human conference. Bache outlines his 20-year regimen of 73 high-dose LSD sessions conducted in a tightly standardized setting. Framing psychedelics not only as therapy or individual awakening but as tools for cosmological exploration, he maps a spiral of repeated deaths and rebirths across levels of consciousness—personal, collective, archetypal, causal oneness, and diamond luminosity. He describes the “ocean of suffering” as collective healing work, initiations into archetypal and cosmic orders, the birth of the “diamond soul,” and visions of a species-level transition toward the “future human.” A substantial Q&A explores creativity, transmission, integration, humility, and practicalities of method. Bache emphasizes rigorous practice, ethical grounding, and long-arc integration—“20 years in, 20 years out”—and cautions against inflation while affirming the universe as a profoundly intelligent and loving reality.
-
-# Part 1
-
-**TOM KHABIB:** Welcome to San Diego Integral for February 10, 2024. Our topic is “LSD and the Mind of the Universe: Diamonds from Heaven,” presented by Chris Bache.
-
-**TOM KHABIB:** I’m on the leadership team. We’re recording this meeting. If you prefer not to be seen, please turn off your camera, though we love to see your reactions. The link will be posted on Meetup and our YouTube channel. You can also find future events on our website, our Facebook page, or Meetup. Joining those groups ensures you’ll be notified of new presentations.
-
-**TOM KHABIB:** Next month we meet March 9; the speaker is to be determined. Chris kindly agreed to preview what he’ll share at the Future Human conference in May, and SDI gets an exclusive. We invite small donations to help cover meeting and equipment costs.
-
-**TOM KHABIB:** Let me introduce Chris. He’ll be a keynote presenter for the Future Human conference. Chris is Professor Emeritus in Philosophy and Religious Studies at Youngstown State University, where he taught for 33 years. He has also been adjunct faculty at CIIS and IONS and served on the advisory council for Stanislav Grof’s training.
-
-**TOM KHABIB:** One might ask how a boy raised Roman Catholic in Vicksburg, Mississippi, who entered seminary, came to write about a 20-year journey with LSD. Early on, he left Catholicism and shifted directions in graduate school at Brown. Over decades he refashioned himself as a philosopher of religion. He ended his psychedelic explorations in 1999; years later he published *The Living Classroom* and then *LSD and the Mind of the Universe: Diamonds from Heaven*. Please give a warm San Diego Integral welcome to Chris Bache.
-
-**CHRIS BACHE:** Thank you. It’s a pleasure to be with you. Since psychedelics may not be a frequent topic in your community, we thought we’d start with a short breakout before I say anything—just a quick inventory of your background with psychedelics and the beliefs you’ve formed from experience or study. Very short. We’ll do a brief “before,” and after my talk we’ll do an “after.”
-
-*\[Breakout sessions occur; not recorded.\]*
-
-**CHRIS BACHE:** I wanted you to have complete freedom in the groups, though I wish I’d been a fly on the wall. Later in the dialogue I hope to hear some of your answers. For now I’ll jump in and give an overview of the work I report in *LSD and the Mind of the Universe*.
-
-**CHRIS BACHE:** I’ve been a university professor my whole life and, in the background, I carried out one of the longest regimens of high-dose LSD work I’m aware of. I couldn’t speak about it publicly until after I retired; the good citizens of Ohio don’t love their professors doing massive doses of LSD on weekends.
-
-**CHRIS BACHE:** A difficulty in introducing my work is its duration and the many layers of consciousness accessed over 20 years. Our expectations for psychedelics are often based on small data sets. Aldous Huxley wrote *Doors of Perception* after one mescaline session and reportedly took psychedelics about ten times. Houston Smith took LSD six times and later echoed Alan Watts: “When you get the message, hang up the phone.” Michael Pollan’s influential book was written after about a half-dozen experiences.
-
-**CHRIS BACHE:** Today’s renaissance focuses on therapeutic outcomes—PTSD, depression, addiction—powerful work largely oriented to the personal psyche. Another stream is spiritual awakening—individual enlightenment. My project is different. I’m a philosopher of religion, not a therapist. My interest has been the philosophical and cosmological potential of these states.
-
-**CHRIS BACHE:** My work descends from Stan Grof. His *Realms of the Human Unconscious* and *LSD Psychotherapy* distinguished psycholytic (lower dose, many sessions) from psychedelic (high dose, few sessions) therapy. I asked: if three high-dose sessions can be done safely, why not more? Between 1979 and 1999 I conducted 73 high-dose LSD sessions—mostly 500–600 micrograms—using a rigorous, standardized protocol: same setting, substance, dose range, sitter, recording process, and location.
-
-**CHRIS BACHE:** The agenda wasn’t clinical healing, though much healing occurred, and not primarily individual awakening. I call it “psychedelic exploration”—cosmological exploration using therapeutic technique. The book focuses on what happened during the peak hours of sessions across the arc of the journey.
-
-**CHRIS BACHE:** A key pattern was a spiral of death and rebirth. Below the line is space-time and egoic identity; above the line are transpersonal domains. Ego death is only the first of many deaths. At successive thresholds—what some maps call psychic, subtle, and causal—one undergoes further dissolutions appropriate to each level. Standardizing practice seemed to return me to the same interface with larger mind, enabling a progressive deepening.
-
-**CHRIS BACHE:** Looking back, my sessions clustered into five levels: personal mind, collective or species mind, archetypal mind, causal oneness, and diamond luminosity. I’ll sketch each.
-
-**CHRIS BACHE:** At the level of personal mind, I crossed the perinatal boundary—confrontations with death, fetal sensations, reliving birth, existential alienation. After about ten sessions over two and a half years, the universe snapped me like a twig, turning me inside out. I had identified as a white male professor concerned with meaning; I was opened into hundreds of women of all kinds. The message was: where you’re going, gender doesn’t exist—let go. Held by the Great Mother, I was ushered onward.
-
-**CHRIS BACHE:** Then came the collective mind. Typically a session began with cleansing, then opened into instruction. For many months I was immersed in what I called the ocean of suffering—collective anguish beyond any frame I had known—hours each session. Initially I thought it was simply deeper ego death, but as it continued and expanded across history, I concluded something else was happening: the sessions were being used to process the trauma stored in the collective psyche. As individuals internalize unresolved pain, so too does the species. In amplified states we can sometimes lift fragments of that burden.
-
-**CHRIS BACHE:** After each immersion in the ocean came what I called deep time in the soul. For seven sessions—about a year—I experienced my entire life, beginning to end, as a simultaneous whole. Not eternity, but time operating in different modalities.
-
-**CHRIS BACHE:** After four years and roughly seventeen sessions, I paused the work for six years. When I resumed, the ocean of suffering picked up with uncanny precision where it had left off, which reinforced for me the magnitude and precision of the guiding intelligence.
-
-**CHRIS BACHE:** With that cycle completed, I entered a series of initiations into the universe—carefully orchestrated teachings in cosmic order, far beyond personal reference points.
-
-# Part 2
-
-**CHRIS BACHE:** Then I was taken into archetypal reality for roughly a year and a half. Each time, it was more real than space-time and ancient beyond imagination. Transitioning required a deeper death: surrendering the identity we carry simply by virtue of being human—species-level ego death. The energies were immense—white-hot, molten, purifying—necessary to sustain clear cognition at those levels.
-
-**CHRIS BACHE:** I encountered two aspects. One was like a platonic order: vast organizing principles responsible for space-time, so immense my mind could only render them as galaxy-scale movements. The other was a living tissue of our species—a single being whose mind and body include us as cells. Nothing is entirely private; there is continual osmosis between individual and species, psychologically and physiologically.
-
-**TOM KHABIB:** In the book you mention gentle guidance—intuition, creativity. Are we being influenced by cosmic principles, elders, something akin to a council?
-
-**CHRIS BACHE:** We are not alone. The universe is hyper-intelligent, conscious, compassionate. It infuses us whether or not we attend to it. As we open through subtler strata, help arrives—healing, guidance—which can come from multiple levels. I like Dwayne Elgin’s image of a mother universe and a daughter universe. It’s kinship, not control—older sister and younger sister. We are of the same stuff.
-
-**CHRIS BACHE:** I also witnessed reincarnation as a collective process—our species pulsing through history in an articulate collective karma, while our individual soul projects nest inside it. After a powerful archetypal opening, I underwent months of intense cleansing to stabilize a higher clarity. Then came what I call the benediction of blessings during the next year.
-
-**CHRIS BACHE:** “The Forest” was an immersion in oneness and no-self—one power coursing through all things, with emptiness and unity as two faces of a single truth. “Singing the Universe Away” was a deep entry into the primordial void. “Jesus’s Blood” was cosmic love so overwhelming it dissolved me. “The Birth of the Diamond Soul” came as many former lives spiraled back and fused; a diamond light burst from my chest and catapulted awareness into a refined individuality beyond previous frames. My sense is that over millennia the soul begins to awaken inside time—identity shifting from personality to soul, with expanded mind and heart.
-
-**CHRIS BACHE:** Fifteen years in, another transition came: the domain of diamond luminosity, a crystalline, breath-stealing clarity akin to dharmakaya. Over four years I entered it four times, with long intervals of purification and teaching between. The first two entries deepened immersion; then there was a pivot and the diamond light began compressing into mind and biology, re-patterning from within.
-
-**CHRIS BACHE:** In my fiftieth session, at maximum depth in that light, my visual field pivoted and I glimpsed a reality far beyond diamond luminosity. A ray from that domain struck me and shattered everything. I understood then it is an infinite progression. Homecomings occur, but there is no final end point. Even oneness does not exhaust the learnings available.
-
-**CHRIS BACHE:** I gathered another set of experiences into a chapter on the birth of the future human. From 1991 to 1994 I received visions of awakening: a guiding intelligence intent on awakening the species as a single being, a collective dark night, and a tectonic shift in the collective psyche.
-
-**CHRIS BACHE:** In 1995, instead of re-entering diamond luminosity, I was dissolved into the species and taken deep into future time to undergo the death and rebirth of humanity. It was an ordeal—an unraveling triggered by cascading ecological crises. At points it looked like extinction, yet we passed through. Afterward, values and relationships transformed; permeability of heart and higher awareness became ordinary. I wasn’t given dates or mechanics—only the species-level experience that a metamorphosis was underway.
-
-**CHRIS BACHE:** We have been gestating this for a very long time. Now comes labor—shorter, intense, dangerous, and, if all goes well, birthing a new human.
-
-# Part 3
-
-**CHRIS BACHE:** In my final year I received a last, far-reaching vision of the future human, then two goodbye sessions. I didn’t decide to stop; the universe closed the arc. I ended in 1999, then spent two decades integrating before publishing.
-
-**CHRIS BACHE:** I thought coming off the mountain would be straightforward. It wasn’t. There is the dying of seeing—what opens during the ascent—and the dying of keeping—what integration demands afterward. Integrating an entire 20-year arc is different from integrating single sessions.
-
-**CHRIS BACHE:** People reasonably ask about epistemic warrant: can we trust these depths? I’ve addressed that with Ken Ring and elsewhere, drawing on multiple lines of convergence. All my work—on reincarnation, psychedelic theory, the living classroom—flows from this arc. *The Living Classroom* is being reissued with the fuller story woven in; my students knew nothing of the sessions, yet their learning was measurably affected, which led me toward a “quantum pedagogy.”
-
-**TOM MCDOUGALL:** I’ve been studying Nora Bateson and Jeremy Johnson on Gebser. Your sense of a civilizational shift resonates. Can you relate your work to Gebser’s intensification?
-
-**CHRIS BACHE:** Gebser is a thinker I’ve long meant to read, so any correlations will have to be made by others. Not everyone experiences perpetual deepening. Two factors likely shaped mine: very powerful doses and a highly standardized, isolated practice. That stabilized the interface, and the mind being explored took me on as a student.
-
-**REGIS:** Gratitude for doing the work and translating it back. It’s inspiring and congruent with my own path.
-
-**CHRIS BACHE:** Thank you. Translation is its own discipline.
-
-**SANDY:** Gebser contrasts stage ladders with intensification and inclusion. Do you see resonance?
-
-**CHRIS BACHE:** When I wrote *Dark Night, Early Dawn* I used my academic voice. For *Diamonds from Heaven* I chose a visionary voice—speaking as a witness to what unfolded rather than offering a grand theory. In my experience, when you die as a private self you don’t jump straight to eternity. Often you pass through the human field and can be dissolved into its development. The closest image for the emergent being is the diamond soul—bringing everything forward into a higher synthesis. It is not just an enlightened last-generation human but a new structure of consciousness, glimpsed in our great saints yet now appearing at species scale.
-
-**SANDY:** Thank you. Your language of unfolding and intensification already hints at Gebser.
-
-**CHRIS BACHE:** Appreciated.
-
-**SANDY:** I loved this, though with my attention bouncing I missed bits. Do you offer counseling? I’d gladly pay for an hour, especially around Jesus and my own path.
-
-**CHRIS BACHE:** Thank you for the trust. Years ago I chose not to do one-on-one work. I’m a teacher more than a clinician, and time is finite. I focus on writing and groups.
-
-**TRUDY:** Practical questions. Why did you decide to do this? Did you have a sitter taking notes? Were they influenced by your trips?
-
-**CHRIS BACHE:** Stan Grof’s work spoke directly to my soul’s code. As a philosopher I couldn’t pass up a disciplined way to explore reality’s depths. I broke the law and went for it, carefully. My sitter was my first wife, Carol, a clinical psychologist and serious Vipassana practitioner. She didn’t take psychedelics, but supported my safety. We tried a video once—mostly boring to watch; it’s all internal. We spoke minimally. She followed her path; I followed mine. We learned from each other side by side.
-
-**LARRY:** Thank you for the courage and for integrating it back into life. Why “diamond”?
-
-**CHRIS BACHE:** Having known many lights, the quality here was crystalline—diamond was the most natural image. The term appears in Tibetan sources as well. On integration: we can blow through levels with increasing predictability, but embodying what’s seen is the long work. After I finished, I heard “20 years in, 20 years out.” I thought that sounded right if I was lucky; in truth I underestimated. How does a finite being embody infinity, a time-bound being embody deep time, or love with the love the universe has shown you? You can’t cram the infinite into the finite. You integrate the finite into the infinite. That brings you back to basic practice—your cushion.
-
-# Part 4
-
-**EATON:** Thank you for pioneering and bringing it back to us.
-
-**CHRIS BACHE:** Thank you.
-
-**LYNN:** Every time I hear you it’s phenomenal. I find this book paradigm-shifting—clear and dense in the best way. I hope everyone reads it.
-
-**CHRIS BACHE:** I tried to make it transparent and widely accessible, including to those who don’t use psychedelics. Many letters I receive are from dedicated practitioners who recognize the territory.
-
-**TOM KHABIB:** You often say “work.” What distinguishes a “session” from a “trip,” and why call it work?
-
-**CHRIS BACHE:** I think of it like a sesshin—an intentional container for deep practice. I isolated from the world, entered in a meditative way, and faced what arose as far as it would go. Breakthroughs require acclimatization; returning repeatedly lets you stabilize cognition at that level and fill in the story being taught. On ineffability: I think it’s overrated as a criterion. It’s hard to speak, yes, but if you can’t say where you’ve been, perhaps you simply got lost—and there’s nothing wrong with being lost. Zen masters speak plainly to those who know. I kept extensive notes—hundreds of pages—of which only a fraction appear in the book.
-
-**TOM KHABIB:** You wrote about preparing ourselves to receive transmissions. How do we do that in ordinary life?
-
-**CHRIS BACHE:** In Tibetan contexts, beyond technique and meaning there is lung—transmission of the seed-essence of practice. In my arc, purification was repeatedly demanded to receive higher teachings with clarity. I sense a broader rise in divine influx—more information becoming available not only via the internet but from the depths of being. To catch it we empty what is small so that what is large can land.
-
-**SANDY:** Thoughts on “the simulation” idea?
-
-**CHRIS BACHE:** Quantum theory keeps telling us the visible rides on an invisible order. To me, space-time is the skin of an apple; the apple keeps growing, and toward the core it is all light. How we render the deeper orders—threatening or loving—often reflects our psychology. My experience is of a mothering universe—exacting, yes, but wise, creative, and compassionate.
-
-**TOM KHABIB:** Some experiences left me sobbing in bliss—language failed. Did you have that?
-
-**CHRIS BACHE:** When the universe’s heart touches yours, it explodes into radiance and the only honest response is a good cry of joy. It becomes a love affair. I called that presence “my Beloved.” After such touch, a sacred hunger abides to live that love here and now.
-
-**TOM KHABIB:** I notice sadness woven into the joy.
-
-**CHRIS BACHE:** Yes. In deep intimacy we touch the ache of long absence. Humility is the safeguard. The greatest risk in psychedelic work is inflation—imagining that remarkable experiences make us remarkable persons. Family, students, and daily commitments kept me grounded. Let the inner transformation work quietly. Stay put. Practice.
-
-**TOM KHABIB:** Thank you, Chris. Where can people find you?
-
-**CHRIS BACHE:** My website is chrisbache.com. I look forward to seeing some of you at the conference. Please introduce yourselves.
-
-**TOM KHABIB:** Thanks, everyone. Please RSVP for March 9. Donations help us keep doing this. We’ll now shift to informal dialogue.
-
+<!-- diarist_sha1:e2617fd562dedb678c2f6f83cfefc6c9ebf8deb4 -->
 ---
+Tom Habib: 
+Welcome to San Diego Integral. I'm Tom Habib, and I'm a member of the leadership team. We have an exciting presentation today: LSD and the Mind of the Universe. We'll begin shortly, but I first wanted to mention that we're recording this meeting. If you prefer not to be seen on video, you can turn your camera off, although we love to see your reactions. The link to the recording will be posted on Meetup a day or two after this event on the SDI YouTube channel. Also, you can find future events on our website, either San Diego interworld.org, the Facebook page, or by coming back to Meetup.com. The advantage of joining one of these groups is that you'll automatically be notified for future presentations. If you have any questions today about these meetings, you are welcome to contact any member of the leadership team.
 
-## Key themes
+Next month we're meeting March 9, and the speakers are to be determined, but it's going to be similar to today. Chris was nice enough to do a pre-presentation of what he's going to talk about at the Future Human conference in May in San Diego. Earth girl gets exclusive rights to this. Finally, we invite you to make a small donation today to help cover the cost of our meetings and equipment, and you can make that donation as they go into call.org.
 
-- Psychedelics as cosmological exploration beyond therapy and individual awakening.
+I want to introduce Chris. As you've heard, he's going to be keynote presenter at the upcoming ICON conference, The Future Human. Chris is a Professor Emeritus in the Department of Philosophy and Religious Studies at Youngstown State University, where he taught for 33 years. He's also adjunct faculty at the California Institute of Integral Studies and at the Noetic Sciences Institute, and on the Advisory Council of Stanislav Grof Legacy Training.
 
-- Spiral of repeated deaths and rebirths across personal, collective, archetypal, causal, and luminous levels.
+One might ask, how does a boy raised in the deep South—Vicksburg, Mississippi—who was raised Roman Catholic and actually entered the seminary to become a priest, write a book about his 20-year journey with LSD? It appears that Chris's devotion to transformation appeared relatively early. Just as he was receiving his degree from Notre Dame's theology department, and was awarded an Award for Excellence, he decided to leave Catholicism. This radical transformation occurred again at Brown University. Halfway through his doctoral program, he realized that he had gotten what he wanted from biblical studies and, in his words, “I changed horses and began again.” Those of us in integral studies recognize this fidelity to what wants to emerge, although we may not always have the courage for radical transformations. Chris fashioned himself into a philosopher of religion. He settled into Youngstown University, where he would teach for the next 33 years.
 
-- The “ocean of suffering” as collective trauma processing in amplified states.
+Along the way, another transformation was pending. Chris read Stanislav Grof’s work on the use of psychedelics in psychotherapy, the non-dogmatic influences of Buddhism and Huston Smith’s perennialism. We know an integral soon followed. Chris ended his psychedelic explorations in 1999, and it wasn't until 2009 he wrote his first book, The Living Classroom. Here he shared how his expansive consciousness seemed to impact his students in what he called leaky boundaries. Again, those of us in integral recognize the psychoactive effect presencing has upon others. In 2019 he wrote LSD and the Mind of the Universe: Diamonds from Heaven, some of which he'll share today and at the conference. Please give Chris Bache a warm San Diego Integral welcome.
 
-- Archetypal reality more real than space-time; species as a single living mind.
+Chris Bache: 
+Thank you, everyone. It's a pleasure to be here with you tonight. My understanding is that psychedelics is not a frequent topic in the San Diego Integral community, so in talking with Kathy and Tom and people on your board, we decided we’d begin with a short breakout before I talk—before I say anything—just to do a quick inventory together of each of your backgrounds with psychedelics: whether you have any experience and, if so, with what and in what context—real short. And the second part is, what kind of beliefs have you formed about psychedelics, either from your own experience or from your reading or conversations with other people? So both the nature of your experience and your beliefs and perceptions about psychedelics. We’ll do it before, and then after I talk, we’ll do an after. So just about 10 minutes, and Kathy will break you up into groups.
 
-- Birth of the “diamond soul” and entry into diamond luminosity (dharmakaya-like clarity).
+Okay, is everybody back? I sure wish I could have been a fly on the wall and heard your answers. I didn’t want to encroach on your freedom by being part of the groups, but maybe later this evening in dialog I can learn what some of your answers were. So we’ve looked at our histories and beliefs around psychedelics; now I’m just going to jump in and take you on a ride—give you an overview of my work as reported in my book, LSD and the Mind of the Universe.
 
-- Infinite progression: homecomings without a final terminus beyond oneness.
+First, how many people have read my book? Perfectly okay if you haven’t. Good to know. Let me see if I can share my screen.
 
-- Visions of a civilizational dark night and the emergence of the future human.
+I’m an unusual person in that I’ve been a university professor all my life—a professor of religious studies teaching in a small state college in Northeast Ohio—and I’ve also done one of the longest regimens of high-dose LSD work that I’m aware of. I couldn’t talk about it until after I retired because the good citizens of Ohio don’t like their university professors doing massive doses of LSD on the weekends. The hardest thing about introducing my work is how long it lasted and how many layers of consciousness I accessed over this 20-year journey.
 
-- Strict standardization and discipline as keys to stable deepening.
+I think many of our expectations about where psychedelics can or should take us have been shaped by accounts based on very small data sets. For example, when Aldous Huxley wrote his important book Doors of Perception in 1954, he had taken mescaline only one time, and he took psychedelics only a total of 10 times in his life. Similarly, when Huston Smith, the great historian of religion, wrote Cleansing the Doors of Perception, he had taken LSD only six times. After that he said the bummers increased, and that led him to take Alan Watts's advice: when you get the message, hang up the phone. That gives a sense that you do psychedelics, you get the message, and that’s it. My book is about what happens if you don’t hang up the phone.
 
-- Integration as “the dying of keeping”: embodying infinity via practice and humility.
+Moving on, Michael Pollan’s influential How to Change Your Mind was written after he had taken psychedelics only about a half-dozen times. Other developments have shortened our metaphysical horizon: the psychedelic renaissance right now is focused on exploring psychedelics’ capacity to heal the wounds of the personal psyche. The literature is dominated by studies demonstrating capacities to heal post-traumatic stress, depression, addiction—very powerful—but this focuses us on the horizon of the personal unconscious. A second use is spiritual awakening, as in Zig Zag Zen’s discussion between the psychedelic and Buddhist communities. Still, that’s framed in terms of individual enlightenment. These two categories—the therapeutic and the spiritual awakening—dominate discussion today.
 
-- Creativity, guidance, and transmission arising from deeper communion with universal mind.
+My work is different. I was trained as a philosopher of religion. I’m not a therapist or psychologist. I was interested in the philosophical potential of psychedelics. So my work falls into a third category: cosmological exploration—not healing, not primarily aiming at awakening, but using deep non-ordinary states to explore the deep structure of reality.
 
-## Revision history
+My work derives from Stan Grof. Just out of graduate school, I encountered Stan’s Realms of the Human Unconscious and his manual LSD Psychotherapy, followed by a dozen or more important books. In those early works, Stan differentiates between low-dose psycholytic therapy and high-dose psychedelic therapy—very different regimens. Psycholytic heals the unconscious layer by layer; psychedelic aims for a breakthrough. At Spring Grove Hospital they worked with terminally ill patients, trying to trigger something approximating a near-death experience to give them a glimpse of where they were going when they died. But psychedelic therapy was limited to three sessions.
 
-| date | editor | change |
+I came along in 1978 and thought, if you can do psychedelic therapy three times, you can probably do it safely more than three times. For various reasons, I chose to work in a psychedelic therapy protocol. Between 1979 and 1999 I did 73 high-dose LSD sessions (three moderate doses at the start, then all high). I followed Stan’s protocol rigorously: same set and setting, same substance, same dose level, same sitter, same recording process, same location. I tried to standardize all variables to ensure clean, consistent, recurring contact with deeper levels of consciousness.
 
-|------------|---------------------|--------------------------------------------|
+At the end, organizing the sessions for the book, I realized this was a different undertaking than psychedelic therapy. I was dealing with issues that don’t come up in therapy, so I felt new terminology was required. I call my protocol psychedelic exploration. It uses psychedelic therapy’s techniques—high dose, isolation, eye shade, sitter, music—but the agenda is not primarily therapeutic and the dosing is far more than three sessions. In my case it was 73, and the project is cosmological exploration. It’s not primarily healing, though there was a great deal of healing; it’s not primarily spiritual awakening; it’s exploring the deep structure of the universe.
 
-| 2025-08-19 | gpt5 model by OpenAI | Initial transcription and formatting. |
+I kept very detailed records—within 24 hours of every session, noting even astrological variables. What I’m writing about in LSD and the Mind of the Universe is not primarily my personal story. Of course it’s personal, and I own it, but the book describes what took place during the peak hours of the sessions over the course of 73 sessions. It’s primarily a cosmological narrative, not a therapeutic narrative. I drop a lot of the personal healing and insights that came before the beginning and after the ending of the sessions. During the peak, I was usually operating far beyond personal reality, and that’s the part that has the most important philosophical, cosmological relevance.
+
+One more concept: what I call the spiral of death and rebirth. Everything below the line is time and space and ordinary consciousness; above the line is transpersonal consciousness. The drop at the bottom—what my students sometimes called the pantyhose model—represents egoic consciousness. Everything above, between the blue lines, represents various orders of transpersonal consciousness. To transition from egoic space-time identity into spiritual reality involves some type of self-death or ego death—letting the programming of our identity be dissolved so we can enter deeper states. Ego death gets a lot of attention, appropriately, but in my journey ego death turned out to be only one of a number of deaths that took place at different levels—hence the spiral of death and rebirth. To enter deeper levels of transpersonal consciousness, you go through repeated deaths and rebirths. The nature of those deaths is tricky to describe because they occur far beyond egoic consciousness and change as the adventure deepens. I use Dan and Ken Wilber’s categories of psychic, subtle, and causal reality simply to indicate a pattern. I have no vested interest in a particular cosmology; the point is there are many levels, and you may go through many levels of death and rebirth if you access these levels systematically. Standardizing the protocol returns you to the same membrane, the same platform of interface between individual consciousness and larger consciousness, leading to a perpetual deepening—perpetual initiations and deeper communion with the creative intelligence of the universe.
+
+At the end of my journey I identified five clusters or levels of consciousness that my experiences could be grouped in: personal mind; collective mind or species mind; archetypal mind; causal oneness; and diamond luminosity. I’ll throw up the chapter titles and organize them according to these levels, giving a quick thumbnail of some stages. It’s frustrating to do this quickly because conveying one deep psychedelic experience adequately is challenging and takes time. Juliana of Norwich spent decades digesting one particular near-death/trans-spiritual episode. And I should mention: I was working at 500 to 600 micrograms, right at the peak of the body’s tolerance—you don’t get higher if you take more. I do not recommend this protocol today. If I were doing it again, I’d be much gentler on myself. Nevertheless, this is what I did.
+
+First, the level of personal mind: crossing the boundary of birth and death—what Stan Grof calls the perinatal level between time-space identity and spiritual reality. It involves confrontations with death, lots of fetal sensations, often reliving one’s birth—very extreme—facing deep alienation and the question of whether life has any meaning whatsoever because everything and everyone we love is going to be dead, including ourselves. How can there be meaning in a universe where everything of value dies? This culminates in ego death—our identity turned inside out. For me, this took about 10 sessions and two and a half years until the universe snapped me like a twig—turned me into the exact opposite of everything I’d known myself to be and radically expanded my awareness. I thought I was a male, white university professor concerned with the meaning of existence. It turned me into hundreds of women—women of color, women with no interest in philosophy—and it snapped me. The message was: where you are going, gender does not exist. Let go. The problem wasn’t women or education; it was the tight role my social identity had on me, confining my experience. After I surrendered, I was taken under the arm of the Great Mother and given a long journey into the world of women, becoming hundreds of women in all sorts of life circumstances.
+
+Next, collective mind—species mind. At these dose levels, the first portion of nearly every session was a purification/detoxification—the dying process; the second portion was transcendent, ecstatic, transpersonal teaching or instruction. For the first half of the next year of sessions, I entered what I called the ocean of suffering. I was repeatedly and systematically immersed in a collective anguish that shattered all my frames of reference and dwarfed the previous phase. It expanded to encompass the entire history of the human species. The dying at this level was almost entirely collective. The surrender demanded was the ordeal of repeatedly opening to the enormity and savagery of the ocean of pain. I didn’t understand what was happening. At first I thought it was a deepening of ego death. But it went on so long, and involved so many thousands of people, that I came to a different conclusion—the major theme of my second book, Dark Night, Early Dawn. I think the universe used my sessions—not to heal or enlighten me—but to heal some aspect of humanity at large, to heal some aspect of the collective psyche. Just as an individual internalizes trauma in their unconscious, distorting their well-being, the human species internalizes the unresolved trauma of history. It aggregates in the collective psyche, distorting its functioning. In these highly expanded, amplified states, we can open to the depths of the collective unconscious and take on and experience some of these terrible memories—and in that process, lift them from the collective psyche.
+
+After each day in the ocean of suffering in that first year, the second half of the session took me into what I called deep time in the soul. For seven sessions—an entire year—I entered a reality where I experienced my entire life from beginning to end as a completed whole. I moved beyond linear time—not into eternity, but into modalities of time between linear time and eternity. You can experience different spans as simultaneously present, or time speeding up—evolutionary speed. For one year I experienced my life in all of its moments, from start to finish, as simultaneously present now. It was a powerful distillation of my life’s work and who I was doing this work.
+
+At that point—after about four years and 17 or 18 sessions—I stopped for six years, for reasons I go into in the book. Six years later, I started again, and the ocean of suffering began exactly where it had stopped. There was a year of the ocean before my six-year break and a year after. The precision with which it resumed and deepened is, I think, an indicator of the magnitude and precision of the intelligence guiding the sessions.
+
+On the positive side, once I went through the ocean in that next year, I entered a domain of consciousness that took me beyond anything to do with personal reality—into the mind of the universe. In the section I call initiation into the universe, at a different time of life and with different astrological transits, I was given a series of carefully orchestrated teachings—initiations into the cosmic order of things. I always give sessions names as mnemonic devices; I write them down in bullet points and name them to remember the journey all at once. The names in that chapter—initiation into the universe—give you the flavor of how profoundly transpersonal these experiences were. It was a deep excursion in cosmology 101: how the universe works at a fundamental level.
+
+When the ocean of suffering culminated in the 24th session—healing the collective wound—there was an orgy of feeding on the pain that reached a culmination, and I was spun into a level of reality I came to understand as archetypal reality. I discuss this in the chapter The Greater Real of Archetypal Reality. It lasted about 11 sessions over one and a half years. Every time I entered, I encountered something more real than space-time—ancient beyond imagination, with time working at a completely different scale. I felt like Plato’s prisoner climbing out of the cave into a more real level of reality.
+
+Entering archetypal reality, I had to die as a human being per se. There is a level of identity we hold simply by virtue of being human—more fundamental than ego identity. To slough off species identity and all the cognitive parameters that go with it is a deeper surrender than letting go of individual ego. The transition involved very high levels of energy. I learned that deep levels of consciousness are driven by high levels of energy; the deeper you go, the higher the energy. To have stable experiences there, you must go through the purification/detoxification that allows clear cognition—submitting to energies that, in my case, felt like white-hot lava flows, exploding sun flares, liquid fire pouring through me, changing me completely.
+
+I experienced archetypal reality on two levels. One was a Platonic type level where I encountered principles—more than beings; cosmic principles constitutive of space-time and its structures—so vast I couldn’t wrap my mind around them. The best semblance my mind could give was galaxies: hundreds of light years across, moving on a scale far beyond our solar system. The other was a more Jungian level—the living tissue of our species. I was given, over and over, the experience of our species as a single being, a single mind, with each of us as fractal iterations within it, even each of our bodies as cells within the collective body—nothing private about our existence. Our personal psychological issues and physical diseases are in a back-and-forth, osmotic process between the individual and the species as a whole.
+
+Tom Habib: 
+Can I ask a question here? In the book you mention how we’re being guided gently—that when we have deep, subtle intuition or creativity, would it be correct to say it’s either these cosmic principles or the Council of the Elders influencing our development—that we’re not alone?
+
+Chris Bache: 
+We are absolutely not alone. The universe is hyper-intelligent, hyper-conscious, hyper-compassionate, hyper-wise. It infuses us every minute of the day, whether we’re paying attention to it or not. If we tune into it—step away from our narrow focus and open into subtler and subtler levels of consciousness—we receive help: healing, advice, insight. These can come from multiple potential levels of consciousness, so I hesitate to identify a single source. It’s more a matter of an infinitely deep source you can draw from at multiple levels.
+
+Tom Habib: 
+A lot of integral people are aware that, in a moment of creativity or connection, somehow they become a vehicle for what wants to be expressed. Absolutely. So that’s an alignment.
+
+Chris Bache
+Yeah, a deep alignment. You just become transparent. When you drop beneath your personal identity—pierce the membrane, pop the bubble, and drop into the mind of the species, and beneath that into different levels of the creative mind—you become transparent. The joy is that, in becoming shunyata—empty of self—you become transparent to these deeper orders of awareness that come through you. They nourish you with healing, with love, with insight, and creativity.
+
+Tom Habib
+A final comment: whatever this intelligence is in the universe is grooming us to participate in this intelligence.
+
+Chris Bache
+Grooming might be a little strong, but I understand. I want to say yes, though I’d choose different words. We are of the same stuff. It is large; we are small, relatively speaking—but part of the same. We’re always in communion. It’s more like older brother/younger brother, older sister/younger sister. I think of the spiritual universe that way. Duane Elgin talks about it as the mother universe, and time-space as the daughter universe. Naturally there’s a relationship between mother and daughter. You wouldn’t say the mother is grooming the daughter, but the mother brings the daughter along.
+
+I began to have experiences of reincarnation as a collective process—witnessing the entire planet and the entire species reincarnating in a pulse that moved through history. My first book was on reincarnation, construed classically as the soul’s journey toward enlightenment, lifetime by lifetime—an individual journey. Here, instead, I was dissolved into the species as the entire species entered an intelligent, articulate collective karma—though that’s too crude a phrase—an intelligence growing itself generation by generation. Somehow all our individual soul projects fit beautifully, magnificently inside this collective soul project.
+
+Notice how much cleansing still takes place at this advanced level. Session 28 was an archetypal meltdown that briefly threw me into the next higher level of consciousness—a very pure, crystalline reality. Even though I was only there for minutes, it triggered a detoxification that lasted six months and three sessions—an ordeal of cleansing and cleansing. It’s hard to describe because it’s not personal history; it’s partly biological, emotional, subtle energy—just radical cleansing to allow me to return to that highly refined energy with clear cognition, which came by Sessions 32 and 33 and continued into the next year—what I describe as the benediction of blessings. That was an extraordinary year after archetypal reality, when I was given a series of extraordinary transpersonal blessings.
+
+Over four sessions that year: The Forest was an experience of oneness and no-self—shunyata. No self in me, no self anywhere. A universal force running through the forest, not caring whether it animates a pine or an oak. Oneness and emptiness are two sides of the same coin: when you experience deep oneness, it’s obvious there is no separate self; when you experience deep no-self, the oneness of life manifests spontaneously. Singing the Universe Away was a deep experience of the void, the primal void out of which the universe springs. Jesus’s Blood was an experience of cosmic love—being loved more deeply than I’ve ever known—an overwhelming immersion in cosmic love. In The Birth of the Diamond Soul, I experienced all my former lives coming into me like wrapping string around a kite spool—very fast. I’d done three years of past-life hypnotherapy and had a sense of some lives, but they came quickly to a critical mass and fused. There was an enormous explosion, and the diamond light broke out of my chest and catapulted me into a high, subtle state of consciousness in which I was an individual beyond any frame of reference I’d known. Over time I came to call this the birth of the diamond soul.
+
+My understanding is: when we die, we return to the soul, the larger consciousness holding all our experience. Incarnating, we shrink down; dying, we expand; back and forth. If all goes well many times, what happens? Keep this up for thousands of years: doesn’t it make sense that the soul would awaken inside time and space? The awareness of identity claimed in an incarnation becomes the soul as identity. With this comes a vast heart expansion, a deep opening of the mind, an awakening of compassion—the birth of the diamond soul.
+
+I was 15 years into my journey, blessed beyond imagining, asked to give something in the ocean of suffering work, and rewarded with more blessings than I could count. Still, five years remained. I went through yet another death-and-rebirth and entered what I call the domain of diamond luminosity—a reality exceptionally clear. It was light, but a particular quality. I’d known light many times—people often experience great light at ego death—but the diamond light isn’t a metaphor. It’s a particular quality: exceptionally pure, so clear it takes your breath away. I think Buddhism calls this Dharmakaya, the clear light of absolute reality.
+
+Over the next four years and 26 sessions—about a third of all my sessions—I only entered this reality four times. In between, more purification, more teaching, more absorbing lessons. The first two sessions took me deeper into diamond luminosity; then there was a pivot. In the last two, the diamond luminosity was crunching itself deeper into my mind, personality, physiology, biochemistry.
+
+In the 50th session, a particular experience in diamond luminosity radically changed my understanding of existence. I’d pushed hard, thinking the purpose was to reach a final condition—to get home, to become one with the universe or the metacosmic void. I’d had many experiences of oneness and learned there are degrees of oneness; I’d experienced the primal void and learned there are degrees of the void. At the peak of diamond luminosity, resting intact in a deeply blissful state, my visual field pivoted 90 degrees. A circle opened, and in the far distance I saw a reality far beyond diamond luminosity—a domain of light. A ray of light came from that reality and hit me; it shattered me. It took minutes to recover. That’s when I understood it’s an infinite progression. We’ll never get to the end of it. Even with this aggressive mode of exploration, I’d never reach the end. The mind of the universe is too vast. There is a homecoming, yes, but the idea of an end that changes everything—I don’t think so. Oneness is beautiful and important, but even oneness does not exhaust what the universe has to teach.
+
+I’d skipped a chapter—the birth of the future human. When I began this work in 1979, I never imagined humanity’s future would become part of my journey. Now I think this may be the most important chapter: it speaks to the fate of our planet and species—our children’s world. It speaks of a crossroads and powerful forces taking us into a future that will change us at the deepest levels. Over my journey I had numerous visions about humanity’s spiritual evolution—a turning point, a before-and-after moment. Rather than address them piecemeal, I gathered them into one chapter and broke it into two sections.
+
+First, the visions of awakening—a series over four years, 1991–1994—an extraordinarily positive assessment of where humanity is. We were being guided by a guiding intelligence intent on awakening not just individuals but the entire species as a single being, taking us into a different epoch of evolutionary development. We were entering intense collective purification—the dark night of our collective soul—and then a brief experience of the future human, representing a shift in the plate tectonics of the collective psyche. The future human is not simply an awakened present human but literally a different kind of human—the next iteration of our species.
+
+Nowhere in my journey, however, was I told how this transition would be pulled off so quickly. Then in 1995, in Session 55, in the middle of the diamond luminosity work—after two entries, expecting a third—I was taken deep into the future. Dissolved into the human species, I entered the future and experienced the death and rebirth of humanity—a profound spiritual, psychophysical transformation. It was a very difficult session—an ordeal. No specifics; rather, a profound unraveling of the global order triggered by a cascading series of ecological crises. In ’95 I was radically naive about global climate disruption; it wasn’t on my radar. But in this vision humanity was brought to its knees—an unraveling reflected in history of what happens in a psychedelic session: unraveling core assumptions, basic components of life. For a while it looked like extinction, but in the end we passed through the crisis. On the other side came new visions of the good, the true, new social relationships. Oneness had broken open in the human heart—a radical permeability of the heart and to higher states of awareness. No details of when or how—just that it would happen, we would come through it, and this was about the birth of a future human.
+
+What form will the future human take? I think it’s already marked in history. We’ve been reincarnating for hundreds of thousands of years—gestation is long. We’ve been gestating the future human across many incarnations and now enter the hour of labor. Labor is intense, short, dangerous, frightening—and if all goes well, it gives birth to a new child. This is what humanity is doing. Our individual spiritual and psychological transformations are part of a larger historical process—giving birth to the future human. The last year of work, the final vision, was my deepest excursion into future time—my deepest experience of the future human—an extraordinary being. After that, the sessions wrapped up. The last two were goodbye sessions. I didn’t choose to end them; the universe wrapped it up decisively. I stopped in ’99. The last chapter is called Coming Off the Mountain—some highlights of what it was like to stop.
+
+I was on this journey for 20 years, then processed the experiences for another 20 before releasing LSD and the Mind of the Universe. I thought coming off the mountain would be straightforward. I was wrong—it was very demanding. In some ways it was as difficult as going up. Spirit said to me, there is the dying of seeing and the dying of keeping. The dying of seeing happens as you enter deeper states; the dying of keeping is integration. I was integrating all along, but integrating an entire journey is different than integrating individual sessions. It took a long time.
+
+I’m acutely aware of the radical nature of these claims. Are these experiences trustworthy? Am I experiencing echoes of my personal psyche, or the collective psyche? How do we know these reflect a reality “out there”? I addressed this in an exchange with Ken Ring, one of the founders of near-death studies; we published it on Medium. It’s also on Academia.edu and likely my website. In Dark Night, Early Dawn, the first chapter has a section called “The Epistemic Warrant of Psychedelic Experience,” where I argue why these experiences are trustworthy, drawing on Ken Ring’s and Ken Wilber’s work.
+
+All my work has come from this psychedelic journey: my first book on reincarnation, the second on trend in psychedelic theory, and The Living Classroom, which is coming out in a new edition now because they wanted psychedelics woven into the story. I had kept psychedelics out of The Living Classroom, but the truth is my students—who knew nothing about my psychedelic work—began to be impacted by it, and I had to learn a new way of teaching, developing what I call a quantum pedagogy. That’s the story, and I’ll stop here.
+
+Tom Habib
+We have a couple of questions before we go to breakout. One relates to your comments about the time period we’re in and the shift that’s occurring. It echoes Jean Gebser’s writing—and, in a different way, Nora Bateson’s questioning of stage models. Can you relate your experiences to Gebser’s view?
+
+Chris Bache
+I’ll make it easy for you: Gebser is one of those thinkers I know I should read and I haven’t, so there’s zero direct influence. Others will have to make those correlations.
+
+Many people don’t experience perpetual deepening—more like, you go out, have an experience, come back, and next time you return to more or less the same territory. My sense of perpetual deepening came from two things: using a very powerful psychedelic at very high doses—much stronger than therapeutically oriented doses—and practicing in a totally tight, isolated, consistent container, what I call the Kiva of practice. Standardizing variables, staying away from contact with the world, entering in a meditative way. If you do that, the interface between the mind exploring and the mind being explored gets very stable, and the mind being explored takes you on as a student, taking you deeper and deeper. You enter deeper visionary states that many others—psychedelic explorers, indigenous practitioners, philosophically oriented people—are intuiting. There’s nothing really new in what I’m saying; it’s a repetition in that way.
+
+Tom Habib
+Another follow-up: Gebser emphasizes intensification rather than laddering stages—engaging previous structures of consciousness with growing awareness. Wilber tends to see discrete levels. Do your experiences resonate with that intensification, or do you see it differently?
+
+Chris Bache
+I may disappoint you; I don’t have a strong theoretical overview. In Dark Night, Early Dawn I wrote in an academic voice with intellectual synthesis. In LSD and the Mind of the Universe I deliberately developed a different voice—more shamanic, visionary. It took so much of my life just to survive and process these encounters that I speak simply as a witness to the unfolding process.
+
+What happens in an LSD session may or may not map to historical patterns. For me, it’s a natural progression: when you die as a private self, you don’t dissolve immediately into eternity. An intermediate level is dissolving into humanity. Just as you can have an overview of your life, you can have an overview of humanity’s developmental process. I was dissolved into that and experienced part of it. The closest I can come to describing the emergent being is the diamond soul concept: it brings everything from the past forward, but drives it into a higher synthesis—a new level. It’s not simply an enlightened last-generation human incarnation; it’s a new structure of consciousness emerging. Not entirely new—we see glimpses in the great saints, the Jesuses and Buddhas, the Muhammads and mahasiddhas. The difference here is the entire species undergoing a metamorphosis of that kind.
+
+Tom Habib
+Before we break out: please take time in small groups to process what’s been presented. Then we’ll reconvene for more Q&A.
+
+Chris Bache
+In this breakout, just respond to the ideas presented—what do you think? See you in 15.
+
+Tom Habib
+Back from breakouts: a practical question. Do you offer one-on-one counseling or guidance, and, for those coming from a Christian path, how has your journey related to Jesus?
+
+Chris Bache
+Thank you for the trust of the invitation. I’m going to disappoint you: I decided years ago not to be a therapist or work one-on-one, but to be a solo pioneer. I’m also a teacher, so I love working with groups. Even in retirement, time is limited, and I don’t think it’s fair without more clinical background to take on individual work. I focus on writing and groups.
+
+As for conversations around in-progress books and related themes: after publication I have to make choices. I don’t get to have as many conversations as I’d like.
+
+Tom Habib: I missed the very beginning of your presentation, so I’ll go practical. Why did you decide to go on this journey? And when you were in sessions, did you have someone there—not exactly a guide, but a sitter? Did anyone take notes or record what was happening, and in any way were they influenced by your trips?
+
+Chris Bache: Quick answers. As soon as I read Stan’s work, I knew this was something I wanted to do. It hit that soul’s code moment—when something speaks so deeply you recognize it as part of your intention in this lifetime. As a philosopher, I couldn’t turn down an opportunity to explore the universe using this protocol. It gave an ordinary lay person—not a spiritual genius—temporary access to the subtler layers of consciousness and reality. It was too compelling to pass up, so I made the choice to break the law and go for it.
+
+I always had a sitter—my first wife, Carol, a clinical psychologist. She wasn’t fond of what I was doing, but she knew I was committed and agreed to help so I could do it safely. She didn’t take notes; we set up a video camera once, but it’s basically boring to watch—just someone lying down. It’s all internal. I’m not in touch with Carol except through the music in the room and, occasionally, a word or two. I’m so far outside time-space that I barely relate to what’s happening around me, but she was always there taking care of me.
+
+Was she influenced by my sessions? Yes and no. Carol never did psychedelics. She’s a serious Vajrayana practitioner—she completed a three-year retreat with her vajra teacher—and has deep commitments to her lineage. I learned a lot from her. It felt more like a side-by-side play.
+
+Tom Habib: I really appreciated your emphasis on “coming off the mountain”—bringing the ineffable into life here and now. On a specific note: why the word “diamond” for those realms?
+
+Chris Bache: Having experienced the light itself, “diamond” felt like the most natural image. Perhaps I’m influenced by Vajrayana—the Diamond Way—in the background. The image isn’t uncommon in terma texts that try to describe subtle levels of consciousness, so it came organically from the experience.
+
+On integration, I’m glad it’s getting more attention. We can blow through levels and have extraordinary experiences with increasing predictability, but internalizing them—really digesting them so they become part of your being—is a long process. I think we overemphasize the dying of seeing and underemphasize the dying of keeping.
+
+I don’t do high-dose LSD work anymore. I’ve done low-dose sessions and some work with ayahuasca, psilocybin, and other things. After I finished my major sessions, in meditation the universe said to me, “Twenty years in, twenty years out,” which I took to mean it would take about 20 years to integrate 20 years of sessions. At the time I thought, “About right.” Now I think I was naive. I underestimated how many years—how many incarnations—it would take to internalize them.
+
+I’ll confess: I’m an absolute failure at integration. I’ve integrated the language and the memories, but embodying those realities is another matter. How does a finite being embody infinity? How does a time-bound being embody deep time or no time? How do you embody the love—being as loving to others as the universe has been to you—when that love is so pure and magnificent? I’m nowhere near done integrating those pieces.
+
+In the end, you can’t integrate the infinite into the finite. Your only option is to integrate the finite into the infinite. Even though my journey wasn’t about spiritual awakening per se, when you try to integrate cosmological exploration, you’re brought back to Spirituality 101: What can you hold right here, right now? What are you able to actualize right here, right now? That’s spiritual practice. You get brought right back to your cushion.
+
+Tom Habib: The journey continues.
+
+Chris Bache: The journey continues.
+
+Tom Habib: This is a good place to end the formal session. Thank you, everyone, for joining. Chris, where can people find more information and your books?
+
+Chris Bache: My website—chrisbache.com. It’s a bit unfinished—my web designer jumped ship about three-fourths of the way through—but it’s there, and you can reach me through it.
+
+Tom Habib: Quick reminder: we’ll be meeting again on March 9—TBD on the speaker, but we’ll aim for another voice from the “future human.” Please RSVP for the next presentation, and donations are welcome if you’re feeling generous. We’re moving into the informal portion, so feel free to jump in. I’ll just say I feel humbled after this talk. The idea of infinite progression can make our usual stage-talk feel trivial, yet we’re on the path we’re on. In the end, whatever we can realize in the moment is what matters. We’re stealing glimpses of the future, and it’s a privilege to do that together.
+
+Chris Bache: The greatest risk of working with psychedelics is psychic inflation—thinking that because you’ve had a remarkable experience, you’ve become a remarkable person. That doesn’t fly. It’s important to keep your feet grounded. For me, my family and my students kept me grounded—the requirement to show up for them over and over again. You don’t have to change much on the outside of your life while these changes are cooking your insides. The urge to wear different clothes or do something performative on the outside is a temporary thing. Sit tight, stay where you are, and let the inner transformation take place. It’s humbling to confront your faults—just stay grounded.
+
+Thank you. It’s been an honor and a true pleasure. I never imagined, when I was doing this work in hiding, that there would be this kind of audience and receptivity in my lifetime. Michael Pollan—who would have figured? The shift has been so fast that we can have this conversation in living rooms across the country.
+
+Thank you for the kind words about the book. I tried to make it as clear and transparent as possible, and it took five years to boil it down. I wanted it to be available to people who don’t take psychedelics as well as those who do. Half the letters I get are from people who have never taken psychedelics but have a spiritual practice—they know what I’m talking about through their practice.
+
+Tom Habib: You often use the word “work.” There’s a difference between a “trip” and a “session” in your language. Why do you call it work?
+
+Chris Bache: In the Japanese tradition there’s the Zen sesshin—a period of intense practice, like a five-day or two-week meditation retreat. “Session,” for me, is an anglicized version of sesshin. In a psychedelic session, I completely isolate from the world; I don’t allow anything into my mind except what’s already there. I sit, face what’s there, and follow it as far as it goes. That is work.
+
+There are many psychedelics and many ways to work; I’m not generalizing. But with high doses, it takes tremendous commitment and a willingness to be dismantled. The boundaries shatter quickly, and you’re in foreign territory very early. Year by year you go deeper. It takes time to acclimate. When you break through to a new level of consciousness, you can’t always remember everything. I take notes, but there are gaps. By going back again and again to the same level, you acclimate. You learn to stay conscious there; what was previously a gap you fill in; you get the whole story being taught. My experience is that something is consistently trying to teach us certain things and brings us back over and over until it’s sure we understand.
+
+Processing the sessions is work too. I developed a strategy for capturing these experiences. I even say in the book that ineffability is overrated as a measure of mystical experience. If you can’t say where you’ve been, you probably just got lost. There’s nothing wrong with getting lost, but just because it’s hard doesn’t mean words can’t be found. Zen masters can talk about enlightenment just fine—to other Zen masters. The challenge is talking to those who haven’t had the experience.
+
+As to condensation, I have about 400 pages of session notes. The passages in the book are less than 25% of that. Three-quarters I left out—partly because of repetition. I tried to pick the most powerful passages.
+
+Tom Habib: In the book you touch on preparing ourselves to receive transmissions—not under LSD, but in ordinary life. Can you say more about that preparation?
+
+Chris Bache: In the Tibetan tradition, a practice is given in three levels. First, the mechanics. Second, the meaning. Third—and most important—the transmission of lung, the seed energy of the practice. You receive a seed from a teacher who has matured the practice in their being, and you water and nourish it in yours.
+
+That’s my context for transmission, and it applies in my psychedelic context. I was put through enormous purification to receive teachings from those levels of consciousness. If there’s a parallel between the cushion and the psychedelic session—and if we’re in a historical shift—then my intuition is that we’re experiencing a rise in divine influx. There’s more energy coming up underneath us, more information becoming available—not just physically via the internet, but from the center of our being. Teachings and insights are rising inside us, which we can catch, but to catch them we must prepare ourselves. We have to empty ourselves of what is small to receive pieces of what is large. Transmission is a larger category.
+
+Tom Habib: One more: the “simulation” idea—The Matrix. Any thoughts?
+
+Chris Bache: It’s a popular sci‑fi theme. Quantum theory tells us the visible world is underpinned by a larger, subtler reality. Now 95–96% of reality is dark energy and dark matter. Over and over we’re told that what we’re living isn’t the whole of what’s real. Physical reality is like the skin of an apple—and as the apple grows, the skin expands. When you fall beneath time-space into deeper levels, you’re falling toward the center of the apple, where it’s all light. Even physical reality is composed of light, but at the center it’s the most radiant, beautiful brilliance.
+
+Whether we experience that larger reality as threatening, manipulative, dark and hostile—or as a magnificent co-creative intelligence—depends on our psychology. My experience is that the mother universe is extraordinarily creative, intelligent, wise, loving, and compassionate. To see the wisdom or compassion of life, you have to look very deep. On the surface, it can look anything but wise or compassionate—it can be a mean son of a bitch. But step back and look deeply and you see the wisdom built into this amazing laboratory we’re part of, growing the human experiment.
+
+Chris Bache: When the universe’s heart touches your heart, it explodes it into the most magnificent dimensional radiance. There’s nothing to do but have a good cry of joy. That’s why I call the universe my Beloved in the book. Contact with it was overwhelming—it became a love affair. I even joked about the rumpled sheets where we made love. That contact inspires an eternal hunger—not only to reunite, but to bring that reality into wherever we are right now. It’s a heartache to be separated from it even for a day, and to touch it is joy—joy in the body, in the heart and mind.
+
+Tom Habib: Isn’t it interesting that at the moment of that kind of joy, we can also touch sadness? In therapy, when someone reaches a level of intimacy and starts crying, it’s often a deep hunger and long absence surfacing. In the midst of joy, there’s a kind of sadness. Listening to you, I feel that cosmic hunger to know the mind of God—those glimpses carry a humbling awe, almost like a whisper: “You haven’t seen anything yet.”
+
+Chris Bache: Well, folks, it's approaching my time, and I haven't seen my wife all day—she just got back while we were doing this talk. I think I need to go be a good husband for a while. I've really enjoyed our time together and appreciate the invitation. I appreciated our discussion a great deal. I hope to see many of you at the conference in May, and when you're there, please introduce yourself—track me down. I'd love to see you there.
+
+Tom Habib: You're welcome. Okay, Chris. For further information, including upcoming events, resources, links to our Facebook and Meetup pages, and our fabulous donate button, please visit our website at sandiegointegral.org. Donations are greatly appreciated and help us continue to provide information and connection within the integral community.

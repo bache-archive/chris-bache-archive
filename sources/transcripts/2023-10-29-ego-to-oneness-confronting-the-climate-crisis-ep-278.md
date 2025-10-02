@@ -1,5 +1,4 @@
 ---
-
 archival_title: Ego to Oneness, Confronting the Climate Crisis (EP 278)
 
 channel: Connecting with Coincidence
@@ -9,287 +8,158 @@ recorded: null
 published: 2023-10-29
 
 youtube_id: pYw8ZqCqx18
-
-speakers: \["ANNOUNCER", "BERNARD BITEMAN", "DAN SIEGEL", "CHRIS BACHE"\]
-
 transcriber: gpt5 model by OpenAI
 
 transcription_date: 2025-08-19
 
 license: CC0 1.0 Universal
-
+speakers: ["Bernard Beitman", "Chris Bache", "Dan Siegel"]
 ---
+<!-- diarist_sha1:fc6602d8e25757b5083b73633a6431358923ad3d -->
+---
+Bernard Beitman: 
+Welcome to Connecting with Coincidence. I’m Bernard Beitman. I’m a psychiatrist who studies meaningful coincidences. My book, Meaningful Coincidences: How Synchronicity and Serendipity Happen, is available for those of you on YouTube at the link below.
 
-**Abstract**
+We’re talking about something psychiatry doesn’t quite address yet, but we have a problem here on Earth that tends to be denied or avoided in many ways. The evidence is strong: we are in the midst of the sixth mass extinction of life on our planet. A mass extinction is a short period of geological time in which a high percentage of biodiversity—distinct species of bacteria, fungi, plants, mammals, birds, reptiles, amphibians, fish, invertebrates, and vertebrates like us—die out. In geological terms, a “short period” can be thousands or even millions of years. The planet has experienced five previous mass extinctions, the last occurring 665.5 million years ago, which wiped out the dinosaurs. Experts now believe we are in the midst of the sixth mass extinction, and unlike previous ones caused by natural phenomena, this one is driven by human activity—primarily the unsustainable use of land, water, and energy, and the resulting climate change.
 
-Psychiatrist Bernard Biteman hosts a wide-ranging dialogue on the climate crisis as a portal for human
+We have two very smart guests approaching this in different ways. It’s their first time speaking together, and while their perspectives differ, their hearts and minds overlap. First, Chris Bache, professor emeritus in the Department of Philosophy and Religious Studies at Youngstown State University, where he taught for 33 years. His book The Living Classroom introduced me to his remarkable work on the connections between his mind and his students’ minds. Chris also has the distinction of having taken LSD 73 times, under controlled conditions at high doses, to explore consciousness. He’s come away with ideas about what’s unfolding in this mass extinction and what might mitigate it.
 
-transformation. Dan Siegel outlines interpersonal neurobiology’s view of mind as an emergent, self-organizing
+Dan Siegel is a clinical professor of psychiatry at the UCLA School of Medicine and co-founding director of the Mindfulness Awareness Research Center at UCLA. He’s executive director of the Mind Site Institute, which focuses on the development of mindset and teaches insight, empathy, and integration. His latest book, Interconnected, just came out this month. It’s about how the whole system we’re in is interconnected—me and you and them and us. Because each of these men brings a distinct perspective, I’ve asked them to discuss what’s coming for humanity and what we might do about it. We’ll start with brief opening thoughts from each, then let the dialogue unfold. Chris, let’s start with you, then Dan.
 
-process of energy and information flow within bodies and relationships. Integration—differentiation plus linkage—
+Chris Bache: 
+Well, I was hoping you were going to start with Dan first.
 
-yields well-being; its breakdown drives chaos and rigidity across personal and societal “pandemics,” including mass
+Bernard Beitman: 
+We can start with Dan first. Okay, Dan, you’re on.
 
-extinction. Siegel contrasts Newtonian time-bound reality with a timeless quantum realm, sharing how his Wheel of
+Dan Siegel: 
+Happy to go in whatever sequence—which probably relates to part of what I’ll talk about. My background is as a scientist, then a physician, a psychiatrist, a researcher in relationships and the development of the self, and eventually an educator working across mental health, education, parenting, policy and government, and organizational functioning. About 30 years ago I began bringing different sciences together into one framework that E. O. Wilson would call consilience—finding common ground. Initially, that meant all the scientific disciplines, from math and physics up to sociology and anthropology. Then it opened up into what we call interpersonal neurobiology, inviting all ways of knowing: religious studies, spiritual and contemplative practices, indigenous knowledge, poetry, music, art, dance—any pursuit of truth.
 
-Awareness practice reliably evokes experiences of unity and love, and argues for shifting from the “solo self” to an
+We now have 80 textbooks in the Norton series I founded, focused on reality, with a special emphasis on the human mind. We see the mind as broader than the brain. Unlike how Bernie, you and I were trained—where mind equaled brain activity—interpersonal neurobiology says the brain is essential, but the mind is broader than the brain and bigger than the body. Over the last 30 years, we’ve explored the mind as an emergent property of energy flow arising both within the individual and in relationships—with other people and with nature. The mind shows subjective experience, consciousness, and information processing. A fourth facet is that self-organizing emergent property of a complex system—an idea developed in the 1980s—where interaction among elements gives rise to properties larger than the elements themselves. We view the system as embodied-and-relational energy flow. This self-organizing process optimizes its unfolding through differentiation and linkage. When optimal self-organization occurs—what we call integration, the balance of differentiation and linkage—it yields a flow with five qualities that feel harmonious: flexibility, adaptability, coherence (holding together well over time), energy/vitality, and stability. That’s FACES. The proposal, from 30 years ago, is that integration is the basis of well-being, and deviations from integration yield chaos or rigidity.
 
-“intra-connected” identity (mWe). Chris Bache affirms these insights from his decades of deep psychedelic practice,
+You can see this in attachment: when a parent-child relationship honors differences and promotes compassionate linkages, that integrated flow of energy and information fosters integration in the child’s nervous system. In The Developing Mind, now in its third edition, there’s ample empirical support that integration underlies well-being. Smith and colleagues in 2015 showed that every measure of well-being is predicted by how interconnected the connectome is. Conversely, psychiatric suffering shows up as chaos or rigidity, and every study of brains in psychiatric disorders shows impaired integration. Positive interventions—compassion training, mindfulness—lead to growth in integration, in direct contrast to the impairments seen in trauma. So, integration is the basis of well-being.
 
-describing field-consciousness, classroom field effects, and time-transcending glimpses that humanity survives our
+Now to the planet. We face many pandemics: loss of biodiversity—the mass extinction; racism and social injustice; COVID-19; polarization and misinformation; loneliness in modern culture; screen addiction; the climate disaster. All are examples of chaos and rigidity. I’d have you consider that these are worsened by, or even caused by, how the self is constructed by the human mind. Because of vulnerabilities in the human brain and a cultural drive for certainty, modern culture constructs what I call the “solo self”—a view of identity as existing only inside the individual, or inside individuals like oneself. At the heart of these pandemics, including extinction, might be this solo self. In the book Interconnected, the idea is an identity as “me plus we”—the integration of self, identity, and belonging. Through a lifespan view, we explore how the self—a center of experience with subjective experience, perspective, and agency (SPA)—develops as separate in modern culture, and how that fits with ancient invitations from contemplative practices and indigenous wisdom. Here in Southern California, on unceded Tongva and Chumash land, those teachings say humans are part of nature. Modern culture, by contrast, shifts from a verb-like, fluid “intra-connected” identity—connected within a whole—to a noun-like, separate identity. “Interconnected” is the between; “intra-connected” is the within. The invitation is to speak from the subjective experience, perspective, and agency of the whole of reality, and to ask whether science can join those ancient invitations.
 
-present ordeal. Together they explore coincidence, collective fields, bifurcation dynamics, and the role of love,
+This means embracing uncertainty and opening to a more fluid identity and universal belonging. The realistic idealism is that we can construct a self that is intra-connected as “we,” leading to actions for the greater good—as if the whole living world were our own body. You stub your toe, you take care of it; likewise, we would care for the living world as who we are. That’s the notion, and how it fits this discussion.
 
-leadership, and culture in catalyzing the great turning now required.
+Bernard Beitman: 
+Beautiful, beautiful. Chris—comments or questions?
 
-*\[Music\]*
+Chris Bache: 
+Dan, that really was beautiful. I love the unfolding of layers of your research and the way you harness so many people’s work into focus. I sit here without the scientific background—you’ll get that in a minute—but in total agreement with what you’re saying. From my side of experience, it makes perfect sense: the balance of integration of the individual and the larger fields within which we’re contextualized; the ways we push against limits at different times; and where we’re being pushed now. I feel completely aligned with what you’re describing, though I come with a different story—less theory-heavy, less research-heavy, and purely experiential.
 
-**ANNOUNCER:** Welcome to Connecting with Coincidence with psychiatrist Bernard David Biteman, MD. Dr. Biteman founded
+My psychedelic journey is purely experiential. In different ways, I experienced the rupturing of that core self you talk about, unfolding into larger dynamic field consciousness—repeatedly, systematically—and then experiencing that field consciousness itself dissolve, like a small collective self dissolving into yet another deeper field of consciousness. I often wished I had a PhD in physics and astronomy to better assimilate what I was shown. But as an educated layman, my phenomenological sense was dissolving into fields within fields of consciousness and being given teachings about how those fields self-organize.
 
-The Coincidence Project, encouraging people to share coincidence stories. To learn more, search “Connecting with
+The Living Classroom, Bernie, that you mentioned—my attempt to understand the fields of consciousness connecting my students and me, with me as a kind of spark plug—was a case in point. The ways my spiritual journey impacted them through mysterious channels of inner communication—fields of consciousness—that entire book was downloaded in ten minutes in one session. I had been pondering the riddle for a long time, but it came clear in ten minutes, and took years to open up and research.
 
-Coincidence” to find his book, Psychology Today blog, and podcast interviews. And now, your host, Bernard Biteman, MD.
+Outside the modest academic frame of my courses—world religions, Eastern religions, Buddhism, psychology of religion, transpersonal studies—the experiential journey I undertook from ’79 to ’99 led me to experiences so harmonious with what you’re describing: a way of understanding larger patterns of organization arising from underneath. I don’t know that I have much to offer in ameliorating the extinction crisis we’ve entered. From these experiences, I do have a historical framework I use to understand what’s happening, and a conviction that we do make it through this crisis—that it doesn’t end in extinction—that we make it through, in consciousness. I offer that purely on an experiential basis. In deep states of consciousness, time can be penetrated; trans-temporal states emerge in all contemplative traditions and can be harnessed in sustained psychedelic practice. Part of my story is having experienced the death-and-rebirth crisis of humanity from the future—not from the present going forward, but simultaneously from the future as something that has already happened. That doesn’t make sense within linear time, but within psychedelic worlds it becomes possible.
 
-**BERNARD BITEMAN:** Welcome to Connecting with Coincidence. I’m Bernard Biteman, a psychiatrist who studies meaningful
+Bernard Beitman: 
+It definitely becomes possible, and understandable. The fluidity of time is becoming a more common discussion—precognition is one way into it. Dan, you were going to say something?
 
-coincidences. My book, *Meaningful Coincidences: How Synchronicity and Serendipity Happen*, is linked below on YouTube.
+Dan Siegel: 
+Thank you, Chris—and Bernie, thanks for having us. There’s so much richness in what you’re talking about, Chris. In consilience—having an open mind that many ways of knowing are valid—indigenous teachings, some using plant medicines for thousands of years, have insights into the way systems function: patterns and patterns of patterns, as Gregory Bateson would say. What’s fascinating is that independent cultures that never communicated came to the same conclusions. Contemplative practices, also thousands of years old, in their own independent ways, came to the same conclusions about our deeply intra-connected nature.
 
-Today, we face a planetary problem many avoid—the sixth mass extinction, driven this time by us. Unsustainable land,
+From a scientific point of view, where we challenge assumptions and doubt our own hypotheses, indigenous wisdom is consilient with systems science, and contemplative practices are consilient with systems science. Much of modern education prioritizes linear thinking—A leads to B leads to C. That’s incredibly useful for some things—discovering RNA-based vaccines for a deadly virus, for example. We need linear thinking. But we also need systems thinking.
 
-water, and energy use, and the resulting climate change, are central drivers.
+I developed a practice called the Wheel of Awareness by integrating two consilient notions: integration is well-being, and consciousness is needed for change. Then I integrated consciousness itself. I did this with patients, then with students who did it with their patients. People started getting better. Before the viral pandemic, I’d led this with about 50,000 people in person. The common reports when people bend the spoke of attention into the hub (pure awareness) are: I’ve never felt so connected; my sense of a separate self dissolves; time disappears; love is there; I’m with the universe; there’s eternity and infinity. This happens across backgrounds—never meditated to running monasteries, dragged there by spouses or forced by governments at parliaments.
 
-We’re joined by two smart, big-hearted guests meeting here for the first time. First, **CHRIS BACHE**, professor
+In Aware, Mind, and Interconnected, I ask: why, on the rim, do people feel locked into time—thoughts come and go, memories are time-bound—but in the hub, it’s timeless? I dove into physics. Teaching with 150 physicists for a week, I asked, what is energy, and what is time? Controversy is part of science, but some physicists describe two realms. Scientific American’s July 2018 cover featured this the month before Aware came out, which was a relief, because Aware was all about these two realms. In the large-object Newtonian world, the second law of thermodynamics applies: systems move toward entropy; there’s an arrow of time. But in the microstate realm—electrons, photons—the second law doesn’t apply; there’s no arrow of time. The equations don’t need a time variable. It’s timeless.
 
-emeritus of religious studies at Youngstown State University and author of *The Living Classroom* and *LSD and the Mind
+I drew this out; physicists said, yes, that’s what it would look like. The mind seems to map onto this. When people rest in pure awareness, they’re “dropping into” the quantum realm—timeless, massively connected, verb-like unfoldings. Self/other distinctions shift. Nonlocality—entanglement—has been demonstrated (Nobel Prize, 2022). In that realm, separation in time and space doesn’t constrain connection.
 
-of the Universe*. Chris undertook 73 high-dose, carefully structured LSD sessions exploring consciousness. Also with
+I’ve had neuroscientists chase me down hallways saying, stop talking about quantum physics and the mind. My response: if the mind is an emergent property of energy, and physicists who study energy tell us there are two realms, it’s at least plausible these realms help explain experiences in psychedelics, contemplative states, and the Wheel. People even had me go to Newton’s house in England—under the original apple tree—to do the Wheel. We made a documentary. We paid homage to Newton. I tell people: when you leave, get in your Newtonian body, your Newtonian car, and when you see a red light, press the Newtonian brakes and stop in time—otherwise you’ll become one with everything in the intersection. There’s a relativistic world where you’re in a body, and there’s the universal—what teachers like Thich Nhat Hanh describe. One doesn’t replace the other. And when people do the Wheel and are given the mystical experience of scale, their ratings match those of people on psilocybin.
 
-us is **DAN SIEGEL**, clinical professor of psychiatry at UCLA, co-founder of the Mindful Awareness Research Center,
+Chris Bache: 
+Dan, I love hearing you riff. It’s beautiful—what you’re putting together.
 
-and executive director of the Mindsight Institute. His new book, *IntraConnected*, explores how our identities and
+Bernard Beitman: 
+“Riff” is right—that’s a good word for it. It just needs a little music, which his son could provide.
 
-belonging interpenetrate. I’ve asked each to share how they understand what’s coming for humanity and what we can do.
+Dan Siegel: 
+And AlexSiegel.com—an album yesterday.
 
-Chris wanted Dan to go first—so, Dan, you’re on.
+Bernard Beitman: 
+Really? His son’s a musician. Now, I’m going to bring us down from that traffic jam at the red light—your metaphor—and into Chris’s classroom, where I first got introduced to his work. Let’s talk about intra-connection and Chris’s classroom experiences that showed it happening in real time—not just between two people or out into the mystery on psychedelics. Chris would be riffing as a teacher, and students would come up afterward and say, “You just answered a psychological problem I’ve been dealing with.” That’s what I now think you’re talking about, Dan—this intra-connection. It’s one “we,” a kind of one mind in that classroom. In your terms, something quantum seems to happen, where Chris is intuitively, subconsciously articulating what students need without knowing he’s doing it.
 
-**DAN SIEGEL:** Thanks, Bernie. By training I’m a scientist, physician, and psychiatrist who researches relationships
+Chris Bache: 
+It's one of the reasons I'm so comfortable with what you're saying, Dan—it's so coherent with my experience in the classroom and a growing understanding of the porosity of mind. There’s the field nature of our individual consciousness and the field nature of the collective consciousness. When individuals come together and focus their intention, they create a field, and classes develop fields over decades that get stronger and stronger. The more morphic genetic fields—the more students study this material around a particular teacher—the stronger the field gets.
 
-and the developing self. About 30 years ago I began weaving sciences together in a consilient framework—what E. O.
+What happened for me, completely against my will and without my guidance, was that I started filling in blanks in my lectures—opportunities to explain a principle with examples that just came out of my imagination. Students began coming up afterward and saying, “This is exactly what happened to me this week,” or, “This is exactly what happened to my mother.” At first I thought, okay, chance. But it kept happening so often. Over time, as my spiritual practice deepened—which happened to be a psychedelic practice, though that’s irrelevant; it’s really about spiritual practice—my access to my students’ minds deepened. It began to narrow in on places where they were hurt or wounded or blocked from moving to the next stage of their life. Working together, or simply being in the classroom with me while I opened to very intense, very large, very pure states of awareness, it began to cascade around me.
 
-Wilson called “consilience.” Our field, interpersonal neurobiology, invites all ways of knowing—sciences, contemplative
+I developed what I call—just a metaphor—a contrast between the atomistic, Newtonian approach to teaching, which is individual cells communicating across a distance, and what I call quantum teaching: teaching within the reality of fields, with an awareness that my mind has an active influence on the minds of my students before the class even begins to meet. That means taking responsibility for this mind-to-mind field effect, especially when you’re carrying the kind of energy that starts to flow from very intense spiritual practice. I found Juanita Brown’s work in Café Conversations very helpful in learning how to catalyze and harness the collective energy in the room, to shape it through conversations and distill it in written form.
 
-and indigenous wisdom, arts—into one conversation. We’ve published over 80 books in the Norton Series.
+In The Living Classroom, I don’t talk about psychedelics at all. The backstory is that my private practice began to impact my students; that’s how I worked it out. A third of the book is student essays—things they shared with me. I didn’t want psychedelics to get in the way for grammar school teachers, high school teachers, college teachers. It’s about the nature of consciousness and mind—what you called, Dan, a quantum understanding of mind, a quantum envisioning of human potential. And it doesn’t negate the atomic truth, the reality of individual mind.
 
-We view the mind as broader than the brain—an emergent process of energy and information flow that is both embodied and
+Bernard Beitman: 
+What I hear in what you’re saying, Chris, and I wonder about this with Dan—and I get this experience at dance—is that your consciousness, Chris, and certainly Dan’s, or your consciousness when you’re with a patient, begins to form a little unit of togetherness that becomes interconnected. We share some responsibility, each of us with some awareness of being in this group mind, and what our thoughts and emotions do—and even what we might not be conscious of—can influence that field. There’s a responsibility in our own thinking about what’s going on and what we want to have happen. I think about that a lot.
 
-relational. Complex systems science shows such systems self-organize. Optimal self-organization arises through
+Dan Siegel: 
+That’s so beautiful. Chris, it’s great to hear this. Some people would use the phrase relational sensing or relational fields. With Metabol and Peter Sangay and the group from MIT, we’re trying to figure out how to study those things in a classroom. We talk about generative social fields and have identified several teachers who seem to create exactly what you’re talking about. We brought them together and asked them very directly, “What are you doing?” Everyone who walks into those rooms can feel it. The teachers say the same thing: they have no idea, they just do it. So we’re making films of them and studying the films because they can’t articulate it.
 
-integration—differentiating parts and linking them. When integration is strong, life exhibits the FACES flow:
+When Michael Faraday came up with electromagnetic fields you couldn’t see, people thought he was nuts. Now all of our electronics are based on those invisible fields. My dear friend John O’Donoghue—he was a Catholic priest, mystic, poet, and philosopher—would say a mystic is someone who believes in the reality of the invisible. Teaching with him changed me. The true scientific stance is that you cannot visibly see everything that is real. So, even with the systems group at MIT, we’re asking: what are relational fields? Is it just the feeling you get as an individual, or is there an actual field? We don’t have an answer, but the experiences are fascinating.
 
-flexibility, adaptability, coherence, energized vitality, and stability. When integration is impaired, systems
+I was recently on a Grand Canyon trip—rocks formed 1.8 billion years ago give you a sense of geological time. Among the people on the trip, some were saying they get communications from relatives 10,000 miles away—someone’s sick, had an accident, is dying—and they know it exactly when it’s happening. No one knows why, but that specificity might be explained by entanglement and nonlocality. If mind is a process of energy flow, and energy has quantum properties, then nonlocality—entanglement—means Newtonian spatial separation doesn’t change relationality. It’s not spooky action at a distance. It’s that spatial separation, as we think of it, isn’t what we imagined. That’s been proven. We need to drop limited thinking.
 
-devolve into chaos or rigidity.
+Michael Pollan ends How to Change Your Mind by saying maybe psychedelics have something to do with “that quantum stuff.” I wrote to him and said, here’s a whole book on that quantum stuff—Aware. There’s also a beautiful book, You Matter More Than You Think, by Karen O’Brien—the quantum approach to social change. She very carefully says, it may not be true, but it might be. Let’s apply quantum findings to social change. It relates to everything we’re talking about in the Sixth Extinction.
 
-Attachment research, trauma studies, and contemplative science all converge here. Integrated relationships promote
+Joanna Macy’s “Great Turning” is a move away from the great unraveling. When she read Interconnected, she said this is the evolution and revolution we need. She’s long said we need a quantum change in consciousness. To me, that means the linear, solo self has had its day. Business as usual—if I’m only a body, I need as many toys as possible, as much money as possible—is unsatisfying. You buy stuff, feel empty, buy more stuff, produce more stuff, and destroy the planet. The modern notion of the solo self creates unconscious angst that drives materialistic acquisition, an addiction to unsatisfying things.
 
-integrated neural connectivity; mind training like mindfulness and compassion increases integration; psychiatric
+A quantum change means moving beyond the Newtonian illusion of a separate self—a potentially lethal lie. This becomes more than, “Chris, your explorations in LSD,” or, as Michael Pollan noted, that these experiences get you in touch with love. I was teaching in a parliament once. There was tension, so we did a day-long Wheel of Awareness workshop. During the break, a parliamentarian told me he didn’t share because, when he bent the spoke into the hub, he’d never felt so much love—so connected to everyone and everything. He didn’t share because his colleagues would think he was weak. I asked, “When you’re making national policies, are you leaving love out of the reasoning?”
 
-disorders show impaired integration. So integration is the basis of well-being.
+Dan Siegel: 
+Then his eyes got really big, and he ran over to them. He’d never meditated before. You can imagine how not being in touch with this core aspect—love as a thread of reality—creates trouble if people in power think love is weak. Even just the concept that we can tap a deeper source of awareness with love at its core gives me hope we can turn this around in time. There’s urgency—likely less than a decade—but it’s an ancient message modern culture has ignored. My hope is that adding a bit of science helps us see the splinter in the soul of modern culture: the separate self. When you remove the splinter, you walk straight again.
 
-Now, consider our many pandemics: biodiversity loss and species extinction, racism and social injustice, COVID-19,
+This conversation about interconnectedness—me plus we—isn’t about eliminating the individual. You don’t crash at the intersection. You say, I have an individual body; that’s the me. We integrate it with the we, making a “we” word, and that liberates us from the lie of the separate self. It helps us move with Joanna Macy toward the Great Turning and away from business as usual. I think everyone will be better for it.
 
-polarization and misinformation, loneliness, screen addiction, and the climate disaster. These show chaos and rigidity
+Chris Bache: 
+You stated that beautifully, Dan—just absolutely beautifully.
 
-at scale. I propose a root cause: how modern culture constructs the self. Driven by a need for certainty, we form a
+Bernard Beitman: 
+The contribution of awareness of meaningful coincidences is that the primary kind is mind thinking of something and it happening in the environment. It shows us in daily life that mind and environment are connected—that we’re not separate from each other or our surroundings. I was singing along a river the other day, hitting a low note, and heard a harmonic like the note I was singing—like it was joining me. It turned out to be a truck going across the river. But that experience of the external joining what appeared internal is a persistent reminder of mind connected with environment. The basic message is: we have to dissolve our reliance on the belief in a separate self. Then what do we have left?
 
-“solo self”—identity confined to the individual body, or to individuals like “us.”
+So the message from you, Dan— and Chris too—is: how do we help people recognize their inter- and intraconnectedness so they can find the love all around us? There are so many kinds of love we can experience; it’s fun to explore them. Dan, would you separate out for this listener intraconnected versus interconnected?
 
-*IntraConnected* offers mWe—me plus we—as an integrated identity of self and belonging. Indigenous teachings and
+Dan Siegel: 
+The origin of that word came while I was working with systems scientists at MIT. We went on a retreat to deepen our experiential sense of systems—up in the Colorado mountains with John P. Milton at The Way of Nature. Part of the retreat is spending three days by yourself in the forest. When we came back to share, everyone spoke beautifully about being interconnected with the forest—interlaced, interwoven—using Thich Nhat Hanh’s term interbeing.
 
-contemplative traditions have long invited fluid, verb-like being within the whole. Science can join them. If we build
+When it was my turn, I said I resonated with everything, but the experience for this body wasn’t a betweenness; it was a within-ness. I was the creek, the tree, the sky, the body called Dan. There wasn’t a separation of me connected to that, so I said intraconnected. Everyone nodded. Back at the lodge, I tried to type “intraconnected,” and my word processor kept autocorrecting to “interconnected.” I discovered there was no such word as intraconnected—connectedness of within. If we don’t have a word to speak from the perspective of the whole, we have a problem. In English—and many languages—there isn’t such a word.
 
-an intra-connected identity, we act for the larger body because it is who we are—like caring for a stubbed toe because
+Interconnected means there are connections between us—the inter and the connections—and that’s beautiful, better than no connection. But we need to go a step further to be able to speak on behalf of the experience of the whole—the whole forest, whatever life.
 
-it’s part of you. This is realistic idealism: a path by which humanity can choose actions for the greater good.
+Bernard Beitman: 
+What I get from your riff is this: I like going from intra to inter. I like the connection and the separate—it’s all part of it. I’m part of it, it’s part of me, and I get to experience myself as somewhat separate but still connected.
 
-**CHRIS BACHE:** Beautifully put, Dan. Though I lack your scientific background, my experiential path aligns with what
+Dan Siegel: 
+Exactly. The idea of integration is that you have a me in a body—no one’s saying get rid of it—and you have a we in relationality. There’s an inner and an inter. When you put inner and inter together, it’s the intra. In the book, I take the reader on a journey through lifespan development—not academically, but practically—to synthesize science about how the self develops in utero, infancy, toddlerhood, early school years, adolescence, adulthood; to look at resistance to change; and to see how modern culture develops the false view of a noun-like separate self entity. Then come the opportunities to open that up—not getting rid of the individual, but realizing you are inner, you are inter, and you are the wholeness of it all: the intra.
 
-you describe. In my psychedelic work, the ego ruptured and reconstituted into progressively larger fields of
+Chris Bache: 
+Beautiful again. This has been the ancient message of the spiritual traditions, and now the scientific voice is joining that chorus with its own epistemology. The core message is that the finite self is a limited, functional, contextual self—not an ultimate self. As the Buddha saw in his night of awakening, he saw no self anywhere—not in him, not in anyone else, not in anything else. When one enters deeply into transparency, intraconnected is still too small for it. It’s a wholeness of life where the beginning and ending of my life dissolves completely in the beginning and ending of all other lives, and one dissolves into the communion of life in its totality—functioning in its beautiful individuality and yet in incredibly complex, balanced harmony in community.
 
-consciousness—psychic, subtle, causal—each dissolving into the next. I often wished for PhDs in physics and astronomy
+If we can stabilize that experience, tap into it, generalize it, and make it part of living culture, we have a foundation for a very different culture on this planet. I also think this is happening at another level: we carry the history of the planet in our soul. We’ve been every race, every religion, every variation. As the planet enters a cataclysmic compression, we are psychically entering an inner compression. This transition into a quantum sense of self, wholeness, and entanglement—I love that term from Dean Radin’s Entangled Mind—feels like a compression point in history. Extinction is an evolutionary driver; it’s powerful. You’re right: this civilization has been built on the ego, which is a beautiful structure but an imprisoned self that builds a divided world. We no longer have the luxury of an egoic civilization, even a well-intentioned one. We need to give birth to a higher, more inclusive form of human identity. That inclusiveness correlates with an escalated intensity of a sense of integration, so that what I call the diamond soul is a summation of individuality, and by its very nature it’s a transparent individuality—open to the field, living in constant feedback with the field.
 
-to assimilate what opened, but I was simply taken into field-consciousness, taught how these fields self-organize.
+The faster we move through this crisis, the better. The more we understand what’s happening and align ourselves with becoming the kind of beings history needs us to be at all levels, the fewer children and grandchildren will have to die. I see this crisis deepening for decades—not based on psychedelic visions, but on what environmentalists are telling us. Yet I do think it’s about releasing something splendid in the human heart—actualizing our divine potential at a higher register: same divine being, same cosmic nature, but actualized into a higher self-expression. I take such strength from your description, Dan. I feel a deep resonance with it.
 
-*The Living Classroom* came through in one ten-minute download during a session and then took years to unpack and
+Bernard Beitman: 
+I thought you might, Chris, and you have. My next dance step is to facilitate not only the recognition but the experience of the self as part of something greater—not just me, but me with others, with nature, with the planet, with Gaia. There are centers of intraconnectedness: a family is a center of mind of which each person is a part, for example, or a group. As we come to the end, I don’t see this as an end. It’s a beginning. We’ve got to dissolve the self—at least temporarily—to modulate that defensive “just me” thing. Our mission, in our own ways, is to help that singular identity begin to oscillate between self and environment. That’s what we’re doing, each with our own songs and dances and people. Thank you both for clarifying something I kind of knew and making it clear for listeners: the singular ego has to be replaced with something broader—yet integrated in the oscillation. Let’s end with closing comments. Dan?
 
-research. Practically, those insights reshaped my teaching. From these experiences I also carry a conviction—not
+Dan Siegel: 
+It’s beautiful to be here with you, Chris and Bernie. This is a moment in our human evolution when a process called cultural evolution—very real—can be shaped by pervasive leadership, where every individual takes whatever role fits your life to sense into a self that is inner, connected to other people and to nature, and also intra: the me plus we is “mwe.” Cultural evolution happens one person, one relationship, one conversation at a time. People often quote Margaret Mead: don’t ever think a small group can’t change the world; indeed, that’s the only thing that ever has. With grounding in Indigenous wisdom and contemplative teachings from thousands of years, and the support of modern science, we can take the steps we need, in time. The issue isn’t whether we can—because we can. Cultural evolution can happen rapidly. The bigger question is—
 
-scientific, but experiential—that we make it through this historical crisis. In deep states, time becomes permeable.
+Bernard Beitman: 
+Will we? And we will, because we have to. I’m with you. That’s a big driver—keeping those grandchildren around to do their thing. We’re part of trying to make that happen. Chris?
 
-One can encounter humanity’s death-rebirth from the future as “already happened.” That makes no sense in linear time,
+Chris Bache: Dan, I would underscore everything you just said and put my initials beside it, because I believe it. One of the things that was shown to me along the way—when you talked about fields and quantum fields—was that the intensity of the global crisis we're entering is going to hyper-stimulate not only our individual fields but the collective field of humanity. It will drive us into non-linear conditions. We know something about how physical fields behave in non-linear conditions—chaos theory. If we assume the psychic field of humanity under non-linear, far-from-equilibrium conditions will have some of those same qualities, then we have a way of seeing emergence from the depths of the human psyche: the emergence of new forms, crystallizations that weren’t available previously but actualize latent capacities within human nature. That feels deeply aligned with what you’re talking about, and it helps us understand how we can make as big a change as we need to in as short a time as we have. When we come to trigger points—bifurcations—systems are very susceptible to small perturbations, so the influence of individuals increases the more we move into a period of crisis. That gives added weight to each of our effects on the outcome. I really support what you’re saying.
 
-but trans-temporal states allow it. Precognition hints at the same permeability.
+Bernard Beitman: That’s really good. Hopefully those listening and watching will join us in facilitating the intra-connection that’s also interconnected and about us individually. Thank you both for joining me today. It’s been a great discussion.
 
-**BERNARD BITEMAN:** Time’s fluidity has become a public conversation. Dan?
+Chris Bache: Thank you, Bernie. Thank you for getting us together.
 
-**DAN SIEGEL:** Consilience helps here too. Independent indigenous traditions and contemplative lineages—some using
+Dan Siegel: Thank you, Bernie. Thank you, Chris. Great to be with you all. This is an exciting moment, and we can do this. Yes.
 
-plant medicines—arrived at the same systems conclusions. Science asks us to doubt and test assumptions. In clinical and
+Bernard Beitman: Our mental—our mental atmosphere—
 
-educational settings I developed the Wheel of Awareness: we distinguish the hub (pure knowing) from the rim (known
+Dan Siegel: —like a hologram—
 
-sensations, feelings, thoughts). With over 50,000 people worldwide, when attention rests in the hub, common reports
-
-include dissolving of separate self and time, profound connection, love, and a sense of infinity.
-
-Physics offers a helpful map. In the Newtonian macro world, the second law of thermodynamics yields an arrow of time.
-
-In the quantum micro realm, equations need no “t”—it’s timeless. The hub experience seems to align with this timeless
-
-domain. The 2022 Nobel Prize recognized quantum entanglement’s non-locality; spatial separation doesn’t impede
-
-relations there. This frames why contemplatives, psychedelics, and wheel practice can yield unitary, timeless love.
-
-One story: a parliamentarian did the wheel, then told me, “I’ve never felt so much love.” He hadn’t shared in the group
-
-because, he said, “If I said ‘love,’ they’d think I was weak.” I asked whether he leaves love out when crafting laws.
-
-He ran to his colleagues. If leaders dismiss love as weakness, we’re in trouble. Joanna Macy calls for a “great turning”
-
-from business-as-usual—the solo self chasing material acquisition—toward a quantum change in consciousness. mWe doesn’t
-
-erase the individual; it integrates me with we.
-
-**CHRIS BACHE:** That coheres with my classroom experience of mind’s porosity and collective fields. Individual minds
-
-cohere into fields; courses generate fields over years—what we might call morphogenetic fields. Without planning it,
-
-I began filling lectures with spontaneous examples that matched students’ current struggles. As my practice deepened,
-
-access to the class field deepened—zeroing in on wounds and blocks. I started teaching “quantumly,” taking
-
-responsibility for mind-to-mind influence even before class convened and learning to catalyze and harvest collective
-
-intelligence—drawing on World Café methods and inviting written reflection. *The Living Classroom* includes student
-
-essays; psychedelics stay offstage there because the core is consciousness itself.
-
-**BERNARD BITEMAN:** In therapy and in dance I also sense relational fields—little units of togetherness. There’s a
-
-responsibility in what we think and feel inside those fields. Dan?
-
-**DAN SIEGEL:** Exactly. With colleagues at MIT like Peter Senge and Otto Scharmer, we study generative social fields.
-
-We identify teachers who reliably evoke them; they can’t articulate “how,” so we film and analyze. Michael Faraday was
-
-mocked for invisible electromagnetic fields; now our world runs on them. As my friend the poet John O’Donohue said,
-
-a mystic believes in the reality of the invisible. Science should too.
-
-Entanglement may explain specific relational sensing—“I knew at the moment my loved one, 10,000 miles away, was ill.”
-
-It isn’t spooky “faster-than-light” travel; in the quantum domain, separation doesn’t function the same way. Karen
-
-O’Brien’s *You Matter More Than You Think* carefully applies quantum insights to social change. We can honor linear
-
-macro realities—stop at red lights—and also live from universal, timeless awareness.
-
-Business-as-usual arises from the solo self: “I’m just a body; meaning comes from things.” It fuels acquisition, factory
-
-pollution, ads that tell you to buy more, and planetary damage. A quantum shift in identity liberates us from that
-
-lethal lie. mWe integrates me and we, allowing actions that serve the living whole.
-
-**BERNARD BITEMAN:** Coincidences are daily reminders that mind and environment interweave. A song I sang matched a
-
-truck’s tone across the river—a playful joining of “inside” and “outside.” Dan, please clarify interconnected versus
-
-intra-connected.
-
-**DAN SIEGEL:** On a systems retreat with John P. Milton’s Way of Nature, after a three-day solo in the forest, my own
-
-experience wasn’t “between me and the forest” (inter). It was “within the whole”—I was creek, tree, sky, and this body.
-
-I tried to type “intraconnected”; the word processor kept “correcting” it. We lacked a term for subjective experience,
-
-agency, and perspective of the whole. So I wrote *IntraConnected*. Practically, across the lifespan, modern culture
-
-overbuilds a noun-like separate self. The invitation is to integrate inner (me), inter (we), into intra (mWe)—identity
-
-as the integrated whole.
-
-**BERNARD BITEMAN:** I like moving from intra to inter—being the whole and also the part in relationship.
-
-**CHRIS BACHE:** The ancient spiritual message now meets scientific voice. The finite ego is a functional, limited self,
-
-not ultimate. As the Buddha saw, no fixed self exists anywhere. In deep transparency, life’s wholeness dissolves our
-
-beginnings and endings into communion. If we stabilize and culture this experience, we gain a foundation for a new
-
-planetary culture.
-
-I suspect the intensifying global crisis compresses our collective psyche. Extinction pressure drives evolution. We
-
-must birth a more inclusive identity—what I’ve called the diamond soul: a refined individuality, transparent to the
-
-field, in continuous feedback with it. The faster we move, the fewer children suffer. Environmental science suggests
-
-decades of difficulty, but this ordeal releases something splendid in the human heart. Same divine nature, higher
-
-expression.
-
-**BERNARD BITEMAN:** As we close, I see our shared mission: help people oscillate from “just me” to me-with-others and
-
-me-as-Gaia—so they can feel the love already here. Final words?
-
-**DAN SIEGEL:** Cultural evolution is real, and everyone can lead pervasively—one person, relationship, and
-
-conversation at a time. As Margaret Mead said, never doubt a small group can change the world; it’s the only thing that
-
-ever has. Grounded in indigenous wisdom, contemplative practice, and science, we can shift identity from solo self to
-
-mWe. The question isn’t can we—we can. The question is will we. We will, because we must.
-
-**CHRIS BACHE:** I agree. The crisis will hyper-stimulate humanity’s collective field, pushing it far from equilibrium
-
-into nonlinear dynamics. Chaos theory suggests bifurcations where small perturbations can shift outcomes. New forms can
-
-emerge—latent capacities crystallizing from depth. That magnifies each person’s influence as crisis intensifies. Our
-
-choices matter more than ever.
-
-**BERNARD BITEMAN:** May those listening join us in facilitating intra-connection that is also inter-connection and a
-
-healthy me. Dan, Chris—thank you. We can do this.
-
-*\[Music\]*
-
-# Key themes
-
-- Sixth mass extinction as a human-driven crisis demanding a transformation of identity and culture.
-
-- Mind as an emergent, self-organizing process in bodies and relationships; integration yields well-being.
-
-- From “solo self” to **mWe**: intra-connected identity integrating me and we.
-
-- Two Realms framing: Newtonian, time-bound macro reality and timeless quantum micro reality.
-
-- Practices (Wheel of Awareness, contemplative disciplines, psychedelics) evoke unity, love, and timelessness.
-
-- Collective fields and “quantum teaching”: classrooms and groups as living fields of mind.
-
-- Coincidence as everyday evidence of mind–world interweaving.
-
-- Crisis as evolutionary driver: bifurcation points, nonlinear dynamics, and emergent human capacities.
-
-- Love as a core, actionable force—even in policy and leadership.
-
-- Cultural evolution and pervasive leadership: small actions scaling systemic change.
-
-# Revision history
-
-| date | editor | change |
-
-|------------|------------------------|-------------------------------------|
-
-| 2025-08-19 | gpt5 model by OpenAI | Initial house-style transcription |
+Bernard Beitman: —of cosmic consciousness.

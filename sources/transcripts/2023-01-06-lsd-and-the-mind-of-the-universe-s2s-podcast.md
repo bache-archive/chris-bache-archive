@@ -1,5 +1,4 @@
 ---
-
 archival_title: "2023-01-06 – LSD and the Mind of the Universe (S2S Podcast)"
 
 channel: "S2S Podcast"
@@ -7,423 +6,276 @@ channel: "S2S Podcast"
 published: "2023-01-06"
 
 youtube_id: "Kh5aqAuDBIM"
-
-speakers: \["SIMEON", "CHRIS BACHE"\]
-
 transcriber: "gpt5 model by OpenAI"
 
 transcription_date: "2025-08-19"
 
 license: CC0 1.0 Universal
-
+speakers: ["Chris Bache", "Simeon Mihaylov"]
 ---
-
-**Abstract**
-
-Host Simeon welcomes philosopher of religion **CHRIS BACHE** to discuss the 20-year arc behind *LSD and the Mind of the Universe (Diamonds from Heaven)*. Bache outlines his disciplined, high-dose LSD protocol inspired by Stanislav Grof, the five recurrent “deaths” and levels he traversed, and why—despite deep hazards—he pursued philosophy through expanded states. He argues psychedelics amplify consciousness rather than fabricate it, and he validates insights through personal integration, cross-cultural mysticism, and therapeutic literature. Topics include session method, musical curation, indigenous chant, writing techniques to recover experiences, and the balance of agony and ecstasy. The conversation then moves into reincarnation evidence (Ian Stevenson, Michael Newton), the “diamond soul” synthesis of many lives, reconciling non-self with a porous, evolving soul, collective healing framed by a leaf-and-tree metaphor, and the ethical stance of bodhicitta. Part 1 ends as they explore how individual work radiates through the human field.
-
+<!-- diarist_sha1:61397c01bcd7ac7340095bfa9a4235cbcc534632 -->
 ---
+Simeon Mihaylov
+Welcome to the Secret to Seeker podcast. My name is Simeon, and it’s my honor to introduce our first-ever guest, Dr. Christopher M. Bache. Chris is Professor Emeritus in the Department of Philosophy and Religious Studies at Youngstown State University, where he taught for 33 years. His work explores the philosophical implications of non-ordinary states of consciousness, particularly psychedelic states. He has authored four books, his latest being LSD and the Mind of the Universe—or as Chris prefers to call it, Diamonds from Heaven.
 
-# Part 1
+In Diamonds from Heaven, Chris combines his expert knowledge of the world’s wisdom traditions with insights gained from 20 years of intense, high-dose psychedelic work undertaken in secrecy. The cosmic plan that revealed itself to him is both astonishing and beautiful, with implications for how we understand our individual and collective existence.
 
-*\[Music\]*
+Chris and I split our conversation neatly into two parts. In the first half, we cover the general areas his work focuses on and its chronology. If you’re already familiar with Chris’s work, feel free to skip ahead to where we delve into issues he hasn’t spoken about at length before—such as the nature of suffering and evil, and how reincarnation and the non-self can both be true at the same time.
 
-**SIMEON:** Welcome to the S2S Podcast. I’m Simeon, and it’s an honor to introduce our first guest,
+One final note: please bear with me as I get this podcast up and running. I know the video and audio quality on my end are pretty bad, but I promise better quality in the future—and fortunately, Chris does most of the talking here. I hope the beautiful conversation we had brings you joy and wisdom, as it did for me.
 
-Dr. Chris Bache. Chris is professor emeritus of philosophy and religious studies at Youngstown
+To begin, could you give a general overview of your work as you discuss in the book—what it’s about and what your experiences really were?
 
-State University, where he taught for 33 years. His work explores the philosophical implications
+Chris Bache
+It all began right after I finished graduate school in 1978. I started my career as a professor of religious studies at Youngstown State University in Ohio, and I read Stan Grof’s first book, Realms of the Human Unconscious. I knew immediately this was critically important to my discipline, philosophy of religion. Stan outlined a methodology that allowed us to enter systematically and carefully into deep states of consciousness in which we could not only heal but also explore the deepest levels of mind—dropping into levels that go beyond the individual.
 
-of non-ordinary states of consciousness, especially psychedelic states. He has authored four books,
+As a young philosopher, I thought this was a whole new philosophical method. So I began to do the work. Because it was illegal at the time, I made a choice I didn’t like: to divide myself in half. In my daytime job for the next 33 years, I was a professor of religious studies doing what professors do. In my nighttime job, I began a systematic journey into deep, non-ordinary states of consciousness using LSD. I chose LSD because that’s what Stan had worked with in his early years; his research was based primarily on it, and I trusted his work.
 
-his latest being *LSD and the Mind of the Universe*, which he prefers to call *Diamonds from
+I followed the protocols he laid out in LSD Psychotherapy. My sessions were always private and protected from the world. I worked with a sitter, always lying down with carefully choreographed music pacing the stages of opening and closing. I made a very careful and sustained effort to record each session faithfully and completely afterward.
 
-Heaven*.
+I worked intensely for four years, then stopped for six years for reasons I describe in the book, and then resumed for another ten. I started in 1979 and finished in 1999, doing 73 high-dose sessions over this 20-year period. I began with three medium-dose sessions, then moved to high doses—500 to 600 micrograms. It’s a protocol I don’t recommend. I wouldn’t recommend such a long, sustained hammering of the boundaries of consciousness, exploding so relentlessly into this work. If I did it again, I’d go more slowly, alternate high and low doses, and balance LSD with more body-grounded psychedelics such as psilocybin and ayahuasca.
 
-**SIMEON:** In this conversation, the first half covers the focus and chronology of Chris’s work.
+What happened on the journey is that I went through not just one death, not just ego death, but a gradual movement through multiple layers of reality—deeper and deeper states of consciousness. Entering deeper levels, and accessing the realities that correspond to them, required going through a series of deaths: dying at one level to enter the next, mastering that terrain, and then dying again to go deeper.
 
-In the second half, we go deeper into topics he has not often discussed at length, including the
+At the end, looking back over the years, I asked how many fundamental levels of reality I had experienced—how many cycles of death and rebirth. I came up with five: first, personal mind—ego death. Then the collective mind of our species. Then archetypal mind. Then the level of causal reality—the level of oneness. And, in the last five years of my work, what I call Diamond Luminosity—what Buddhism calls the Absolute, the clear light of absolute reality.
 
-nature of suffering and evil and how reincarnation and the doctrine of non-self can both be true.
+After I finished my sessions, Spirit said to me in meditation, “20 years in, 20 years out.” I took that to mean it would take me 20 years to fully assimilate and integrate 20 years of sessions. As it turned out, LSD and the Mind of the Universe—what I prefer to call Diamonds from Heaven—was published exactly 20 years after I finished. So it was 20 years of exploration, followed by 20 years of digesting, reflecting, integrating, and finally telling the story. I share it in the hope it will be useful to others—both journeyers and non-journeyers engaged in spiritual practices—because the cosmology that emerges, and the understanding of the processes we’re all engaged in, may be helpful.
 
-Thanks for bearing with my early audio and video quality—fortunately, Chris does most of the
+Simeon Mihaylov
+Your work is fascinating. One question that always comes up when talking about psychedelic states and the insights that arise from them is the skeptic’s go-to argument: these are states that appear while the mind is under the influence of a substance, so why should any insight gained be legitimate? And to take this further: when you’re having these experiences, how do you know what you are studying or seeing? Is it the cosmos? Your personal psyche? What exactly are you experiencing?
 
-talking.
+Chris Bache
+A really important question. Can we trust what emerges in psychedelic states of awareness?
 
-**SIMEON:** To begin, could you give an overview of your work, what the book is about, and what
+I took my starting point from Stan’s observations, and from many other psychedelic therapists in the early years: psychedelics don’t give you an experience; they amplify your own consciousness. They are an amplifier and catalyst of the mind. If you use these hours of amplified awareness carefully—focusing inward—you begin a process of purification and confrontation with blocks and pains we’d rather not face. Your system spontaneously moves to eliminate those challenges, which are lodged in our history—sometimes just this lifetime, sometimes former lifetimes.
 
-your experiences were?
+In the early stages, we can judge the legitimacy of what we’re experiencing because we’re activating memories from our lifetime. We can verify them; they have the texture of memory. When we confront the pains that arise, there’s a liberating, healing experience with demonstrable impacts on daily life afterward. That verification gives confidence that when one moves beyond the familiar domain of one’s immediate life, there is truth there as well, even though it’s coming from more foreign levels of consciousness.
 
-**CHRIS BACHE:** The work began after graduate school in 1978, when I joined the faculty at
+This process repeats. You enter a reality that is completely foreign and strange. At first the strangeness dominates, but the more frequently you return, the more familiar its landscape becomes. If you engage these hours carefully, record them, and listen to what they’re teaching, the universe enters into a dialogue with you. It’s as if it knows you’re paying attention, and it takes you through lessons about how reality works at that level.
 
-Youngstown State. I read Stan Grof’s *Realms of the Human Unconscious* and immediately recognized
+Early on, there are qualities that relate to your personal life—you may experience your life in a larger spiritual trajectory, have insights into former lives, or into deeper life history that clarifies and heals present relationships. Because these have such a dramatic impact, their legitimacy is confirmed in your own experience.
 
-its importance for philosophy of religion. Stan described a careful method for entering deep states
+As one goes deeper—into collective mind, archetypal reality, deeper spiritual reality—I was fortunate to have a PhD in philosophy of religion. I had studied the great spiritual traditions, their practices, and their maps of the spiritual world. I took a global perspective in my teaching—intro to world religions, comparative mysticism—looking for patterns that emerge across multiple traditions held in mind simultaneously. My psychedelic experiences fit comfortably within that larger landscape, even as, going deeper, they also pushed its boundaries.
 
-of consciousness—both for healing and for exploring levels of mind beyond the personal.
+Beyond personal and cross-cultural correspondences, there’s an experiential quality here. You pay a great price to enter these states—multiple cycles of purification and confrontation with your limitations—to arrive at clear perception. These states have a transparent clarity: you are encountering something real. That doesn’t mean you’re seeing everything, or that there aren’t limitations or distortions, but you know you are confronting something as real as time-space reality.
 
-**CHRIS BACHE:** I decided to adopt that method. Because LSD was illegal, I split my life in two.
+Through this dialog and dance, my conviction grew that I was on a journey of philosophical value—producing genuine insights into how our universe works. Not everything I saw is necessarily perfectly correct, but there is a fundamental conviction that these experiences are real and valuable—and they are shared by others. If they were only mine, perhaps they’d be a solipsistic fantasy. But comparing them to other psychedelic explorers—here Stan Grof’s compendium of hundreds of thousands of sessions was crucial—showed a deep accord. Comparing them to the cosmologies of meditation traditions gave me confidence that psychedelics are simply a key that grants access to universal states of awareness, which can also be reached by other methods.
 
-By day I was a professor. In private, I undertook a disciplined journey using LSD, the substance
+Simeon Mihaylov
+So you began with the motivation to explore the universe as a philosopher?
 
-Grof had studied most extensively. I followed his early *LSD Psychotherapy* protocols: private
+Chris Bache
+Correct. I’m not a therapist—though I received much healing in this work and am grateful for it. My primary intention, as a philosopher of religion, was to explore the universe as deeply as I could and understand not only my nature but the larger landscape.
 
-sessions, a trusted sitter, lying down, eyes closed, and music carefully paced for opening, deep
+Simeon Mihaylov
+You’ve said your experiences fit within the larger body of religious and philosophical traditions, which gave you confidence in their genuineness, yet they also pushed boundaries and took you into areas you hadn’t encountered elsewhere. Do psychedelics, then, offer the promise of genuinely new philosophical and spiritual insights? How do you see them fitting into the future development of philosophy and spirituality for our species?
 
-work, and return. After every session, I recorded the experience in detail.
+Chris Bache
+This is an exciting time and territory. I became convinced early on that psychedelics represent a true before-and-after moment in philosophical reflection. Philosophy, in one way or another, reflects on the breadth of human experience—our own and others’. Here we have an opportunity to temporarily deepen and widen awareness, pushing its boundaries.
 
-**CHRIS BACHE:** I worked intensively for four years, paused for six, then resumed for another ten.
+This opens not only individual insights into the nature of consciousness, but an entire new method of exploration, first articulated in modern times by William James—though there are ancient prototypes in the Eleusinian Mysteries and the ayahuasca churches of Brazil. The method is a systematic rhythm: expand consciousness, experience what you can, come back, record it, evaluate it, compare it to other bodies of knowledge and other people’s experiences—then expand again. Expansion and evaluation, again and again.
 
-From 1979 to 1999, I completed 73 high-dose sessions. After three medium-dose starts, most sessions
+For most people, unless they are lifelong practitioners of meditative arts, these dimensions of consciousness are invisible. By systematically entering these temporary states, we can explore them, taste them, sample them, and gather insights about how the universe is working. We find that the awareness, intelligence, and compassion inside us are not assembled by mechanical processes driven by random variation, as the modern mind often assumes. Our mind opens into an infinite mind—into the species mind, beyond the species, and ultimately into the generative mind of the universe itself. That’s my experience.
 
-were at 500–600 micrograms. I don’t recommend that protocol today. If I were doing it now, I’d
+Philosophically, we’ve been asking about this mind for years—even denying its existence in some traditions. We’ve long wanted to know our place in the cosmos, whether there is meaning in our lives, whether there is intention in evolution, why life hurts so much, why there is so much suffering. Many modern philosophers have declared these questions unanswerable and changed the subject. But we still want answers. Psychedelics give us an opportunity to systematically and rigorously engage these questions. That’s a turning point.
 
-alternate high and low doses and balance LSD with more body-grounded medicines like psilocybin or
+Ideally, we might take 100 of the best-educated, most creative people—PhDs across multiple disciplines—guide them through a systematic regimen of disclosure and encounter, and then compare notes. What patterns emerge? What common ground? That’s beginning to happen and will continue for hundreds of years. It marks the difference between an old philosophy based on ordinary sensory consciousness and a new philosophy grounded in a technology of encounter.
 
-ayahuasca.
+Simeon Mihaylov
+For our viewers, you have a great section in your book describing a day in the life when you’re doing a psychedelic session. Would you walk us through your protocols and how a typical session day would go?
 
-**CHRIS BACHE:** Over time, the universe led me through multiple deaths—each the threshold to a
+Chris Bache
+There’s a chapter in the book—basically “a session day”—because early readers asked for this. All my sessions took place either in my house or in my wife’s therapeutic office. They always began in the early morning. I would start with meditation or yoga—some kind of centering practice. The more I worked with these states, the more I understood the importance of preparation: not only set and setting, but my emotional and physical condition. I did practices to purify the body, and I made sure my physical alignment was good, because if you’re not balanced, open, and porous, energy can jam up once you’re in those intense states.
 
-deeper level of reality. Looking back, I count five major cycles: personal ego death; immersion in
+After preparation, my sitter—my first wife, Carol, a clinical psychologist—took responsibility for my safety and containment. I would take the psychedelic and turn myself over to her care. Working at very high doses, there was typically no verbal interaction. I lay down and listened to music. She curated the music, intuiting when to shift from one stage to another—there are distinct stages in a psychedelic session. I did the work as long as it lasted, usually six to eight hours. She stayed with me the whole time until I was back and consolidating.
 
-the collective mind of our species; archetypal mind; the causal level of oneness; and, in the final
+That evening I reflected on the session and tried to sketch the first map of what had happened. Often I didn’t sleep much. The next day, it was a priority to write a full account. When you’re entering foreign territory, making an accurate written record can be challenging. Some people draw or paint; I don’t have those skills, so I wrote. I developed a technique I called “standing at the edge of the well.” The day after a session, you’re still porous, but your verbal and cognitive functions have returned. I would play the music from the session in exactly the same order to re-enter the psychological space of each phase, and from that liminal condition—one foot in, one foot out—I’d write that portion of the experience. Then I’d shift to the next piece of music, repeating until I had captured as much as I could. Once I had that draft, I locked it. I learned that trying to “improve” the text later causes you to lose something contained in the original, raw language.
 
-years, what I call diamond luminosity—the clear light of absolute reality.
+I would then spend weeks or months studying the session, placing it in the context of previous ones. On average, I did about five sessions a year, so there was plenty of time to digest and assimilate. I was also meditating throughout. The day after a session always began with meditation—a spacious way to let the energy that had been running in the session continue to flow.
 
-**CHRIS BACHE:** When I finished, a message came in meditation: “Twenty years in, twenty years out.”
+Practically, I never ate before a session—always an empty stomach, because I often threw up. People don’t think you throw up on LSD, but you can; it’s a symptom of shifting energetic states. I’d eat something light at the very end of the day.
 
-It took 20 years to integrate the 20 years of sessions. The book arrived exactly two decades after
+Simeon Mihaylov
+There’s so much I’m curious about in your approach, but music in particular. Music and psychedelics have always had a special relationship, and there are different approaches. For example, Terence McKenna famously recommended “five dry grams in silent darkness,” and joked that if you come out of a psychedelic session saying “Bach was a genius,” well—everybody knows that. His approach was to let the experience take you where it will. You, by contrast, were very particular about your choice of music, and it evolved as your work progressed. There’s also that funny moment when your sitter put on the wrong piece of music and it actually helped you out of a difficult situation. What’s your approach to music?
 
-the work concluded. I share the story for journeyers and non-journeyers alike, because the emerging
+Chris Bache: Music does influence our experience, and I do value working without music. I continued to work with psychedelics after stopping my high-dose LSD work, and during this post‑LSD period I would often enter a meditative space with psilocybin or ayahuasca. In the late years of my high-dose work, I would often end the music in the second half of the session and move into a meditative space. Basically, I followed the protocol laid out in early psychedelic research. The understanding isn’t that music gives you experiences, but that it supports the immersion of your unconscious into awareness. It provides a background that makes it easier to detach from mental habits and go with the flow into what is emerging. I think of it as supporting and reinforcing what happens when you go into the dark without any music at all.
 
-cosmology and processes may help both.
+We know there are stages of the LSD experience. You have to look carefully at the psychedelic you’re using—the curve and depth of activation. It’s different working with low versus high doses. Working as I did with high doses, there was a tremendous acceleration of consciousness, a rapid adjustment of body and mind to the extraordinary increase of energy and awareness as you begin to break through the bounds of personal consciousness. Helen Bonnie’s early work mapped the stages of a psychedelic session and the type of music that supports those stages. I followed those early guidelines, which have been expanded in the Holotropic Breathwork network, which has a large library of musical recommendations.
 
-**SIMEON:** Skeptics often say, “If a state appears under a drug, why trust its insights?” When you
+By about my fifth, sixth, or seventh session, I came upon some indigenous chanting, and I found it had a much more powerful impact on my experiences than classical music, even new pieces of classical music. I listened to lots of classical music, but it stayed within a more conventional framework. Indigenous music that was foreign, unknown, with words I didn’t understand, had a more cathartic opening effect in my consciousness. I began to collect indigenous music from different cultures around the world and incorporated it into my sessions. At peak—after purification or death and the transition into deeper ecstatic reality and visionary states—you want music that is more expansive, that gives your mind room to work. Then, as you begin the long, slow descent—LSD has a long tail, which is one of its nice advantages—it gives you time inside the session to integrate, reflect, and compose yourself with respect to the experiences you’ve just had. You want long, gentle, expansive music. All through the work, until the very end, you don’t want any words in English or in your native language—words you can understand—because you don’t want them to script your experience.
 
-were in those states, how did you tell what you were studying? Cosmos, psyche, or something else?
+I found I could only really use a given piece of music about three times before I had to let it go. By then it tends to be saturated with the experiences you’ve had with it; it takes you back to where you were before, not where you are now. So I limited myself to using music only a few times, then found new music. When you’re on the downward slope, coming back into your more familiar life, that applies less; I’m more comfortable using more familiar music in the spacious return.
 
-**CHRIS BACHE:** Psychedelics don’t give experiences; they amplify consciousness. If you use that
+Simeon Mihaylov: Another thing about your sessions: someone unfamiliar with your work might think, here’s a person having visionary experiences—very nice and interesting—and writing about them, so it must be pleasant and exciting. But anyone familiar with psychedelics knows that high-dose experiences can be very difficult. Your initial sessions were expansive and exciting, but as time went on they became more difficult and the hard periods appeared more often. At some point it must have been hard to go back in, knowing it might be a day of really difficult experiences. In light of this, how did you work with daily spiritual practice to help you prepare, and also to incorporate your insights into daily life? As you’ve said, we can’t hold on to psychedelic experiences, so we need to find ways to integrate them.
 
-amplification carefully—staying inward, recording faithfully—you trigger purification and encounter
+Chris Bache: Let me try to hold on to the parts of your question: first, the method of working with high-dose LSD; second, the challenges that come up; and third, integrating those experiences into daily life. If I get lost, bring me back to those three.
 
-the blockages lodged in your history, sometimes beyond this life. Early on you can verify memories
+Stan’s early work differentiated clearly between low-dose psycholytic therapy and high-dose psychedelic therapy. Low-dose psycholytic therapy—much more like what’s being done today—amplifies consciousness in a way where the unconscious unfolds gradually, layer by layer, taking us more systematically and less traumatically into the inner confrontation that heals. High-dose psychedelic work was very different. What stands out in my mind is the work at Spring Grove Hospital in Maryland, where they worked with terminally ill cancer patients—people who were going to die—and tried to trigger an encounter with cosmic reality, essentially an NDE, a Near-Death Experience, that would give them a foretaste of where they were going. That protocol limited high-dose sessions to three—no more. It wasn’t trying to heal all the layers of personal issues; it was trying to blow through the personal unconscious into cosmic reality, just to get a taste.
 
-and measure changes in daily life. That builds confidence.
+I thought, if you can do that three times, you can do it more than three times—let’s go for it and see how deeply we can go. It took me about two years of work, about ten sessions, to go through what Stan calls the perinatal level of consciousness, where I relived my birth and very strong physical and emotional confrontations—existential crises, questioning the meaning and futility of life—all the things one goes through in those early experiences. Then I went through a classic ego death where my individual identity was shattered and turned inside out. I was forced to become the exact opposite of everything I knew myself to be. In that process, Chris Bache’s life—Chris Bache’s historical existence—ceased to be the container of my consciousness. I moved into a more expansive awareness beyond the historicity of my life.
 
-**CHRIS BACHE:** As you revisit unfamiliar territories, the foreign becomes legible. The universe
+As I went deeper, I encountered a very different order of challenges that were not personal. I was systematically taken into vast territories of pain and suffering—violence, wars, brutal scenes—like Dante’s Inferno, except many times worse. This was much harder than metaphysical doubts or personal ego death. I would spend hours in this condition, and it was difficult. Going back into it in the next session, I had to steel myself. But it would reach a crescendo and then spin me out into the ecstatic visionary state. The very intense pain of the ocean of suffering was balanced and proportioned to the great ecstatic joy that followed. When you understand that cycle—that a very intense period of pain will be followed by an even deeper immersion into visionary ecstasy—you find the strength to return.
 
-seems to notice your attention and enters into a dialogue. It educates you. You gain personal
+It’s not just that the sessions become pain-filled; there’s a new layer of pain, but also a new layer of insight, ecstasy, and joy. That’s what brings you back: the tremendous sense of ecstatic, visionary encounter and cosmological inquiry. The ocean of suffering lasted two more years. I went through that level, then through another death‑rebirth process, and then into a deeper level—archetypal reality—moving deep into the collective and archetypal psyche. After yet another death and rebirth, I entered the ecstasy of oneness—causal reality—for an entire year: experience after experience of different levels and parameters of oneness. The challenge increases, but the payoff also increases. I’ve always considered that a good exchange. I was always a volunteer. The rewards made it worthwhile. I wouldn’t trade those 73 days for anything—any of the treasures of the world.
 
-clarification, then collective and archetypal clarity, then spiritual insight. My academic grounding
+Simeon Mihaylov: One thing I’ve noticed is how psychedelic work parallels what people would call “normal” spiritual daily practice. Someone could read your book and, forgetting it’s psychedelic, read it as a report of intense daily meditation practice. These cycles of purification and then expansive insight and bliss appear in normal states of consciousness on a smaller scale. There’s a mirroring, almost fractal parallel between psychedelic states and real life. I’m interested in how you’ve used daily spiritual practice because I think continuity between daily practice and psychedelics is very important. Ram Dass used to say going on an LSD trip is like being with Buddha or Jesus for two hours, but then you have to leave—and the art is staying in that room as long as you can without any assistance. What are your views?
 
-in world mysticism let me compare my sessions with contemplative reports globally. There was a
+Chris Bache: I completely agree that there’s nothing unique about psychedelic experiences per se, because psychedelics are amplifiers of consciousness. In the end, it’s consciousness that does the work. Many readers have written me saying they’ve never taken a psychedelic but completely relate to what I’m describing—it mirrors their own breakthroughs. There’s profound overlap and continuity between non‑psychedelic spiritual practice and psychedelic spiritual practice.
 
-strong fit—and sometimes a pushing of boundaries.
+To understand what happens in psychedelic sessions, we need an understanding of how life works. For me, reincarnation is a fact of existence—my first book was on reincarnation, and I consider the empirical evidence overwhelming at this point. We may not understand all the details, but there is continuity arcing through multiple lifetimes in a larger developmental process. We die and our consciousness expands into the soul territory; we incarnate and get small and focused; we die and get large; we incarnate and get small. Each incarnation, we choose a set of issues, a set of challenges. Sometimes we don’t do well; other times we do very well and move on. This rhythm shows itself within a single life and across multiple lives.
 
-**CHRIS BACHE:** The experiential quality is unmistakable. You pay a real price to enter, but in
+Any spiritual practice, including psychedelic practice, accelerates this process. Reincarnation moves slowly and grinds finely. If you want to speed it up, you can turn awareness back onto itself and engage the challenges you face in the outer world in their nuclear form—as thought-forms within consciousness—before they manifest physically. This happens in meditative practice and in psychedelic practice.
 
-clear states the reality is transparent, even if partial or limited. Comparing notes with other
+The deeper the state of consciousness you enter temporarily, the stronger your daily practice should be. Opening to vast fields of energy places tremendous strains not only on the mind but on the body and subtle energy system. It’s important to bring those experiences into daily spiritual practice so you can absorb, integrate, and navigate not only the insights but the experiences themselves. In my sessions I was given many practices—told, “Do this, do that”—and I took those into my daily practice.
 
-explorers—Grof’s compendium is huge—and with contemplative traditions strengthened my conviction
+In the last five years of my work, as I discuss in the Diamond Luminosity chapter, I entered Vajrayana Buddhism. I’d always been a meditator, but I began a more formal relationship with Vajrayana teachers and practice. This helped where I was working—very pure, intense states of awareness, Diamond Luminosity. It was increasingly difficult for my subtle energy system to sustain encounters with the enormous flows of pure energy in this diamond consciousness. When I began doing ancient practices—Chud and various deity practices—I found my physical, psychological, and subtle energy systems could breathe more freely. Vajrayana gave me a space midway between physical consciousness and psychedelic consciousness. By entering those states, I could channel the energy that came in my psychedelic sessions; it moved more freely. It gave me a way of dialoguing with the universe that allowed my body and mind to breathe more comfortably. It was very helpful.
 
-that these were genuine encounters with the structure of the universe.
+The most important thing to remember about psychedelics in spiritual practice is you can’t take a psychedelic when you die. When you die, you go into the universe on your own. The mind you take is the mind you’ve got. Everything you do in psychedelic work should prepare you for that final encounter—when you let go of the body and enter that world. Psychedelics can teach us a lot and prepare the soul so that territory is familiar, not strange or intimidating. I understand the criticism from some classical meditation teachers who see psychedelics as a false spirituality or a distraction, but I’ve never found it incompatible with deepening spiritual experience. It’s not the same—it opens different types of experiences—but if you understand spiritual practice, psychedelic work can reinforce and accelerate daily practice in ways that are very beneficial.
 
-**SIMEON:** You began as a philosopher, not a therapist. Do psychedelics offer new philosophical or
+Simeon Mihaylov: I agree, and I’m interested in how one can achieve synergies between the two. In your last answer you touched on deeper territories of your work. Would you discuss the cosmic blueprint revealed to you? One of the things you talk about is reincarnation. Reading your book gave me permission to be intellectually interested in reincarnation and not be shy about it. Your work made me consider it seriously for the first time and discuss it with others. You mention a large literature with documented cases suggestive of reincarnation. What convinced you—in your reading and personal experience?
 
-spiritual insights we’ve not yet uncovered? How do they fit into philosophy’s future?
+Chris Bache: When I began teaching at Youngstown State, Stan Grof was a major turning point in my life, but another was Dr. Ian Stevenson at the University of Virginia. He spent a lifetime, with his team, studying children from around the world—different cultures and religious backgrounds—who, as soon as they could talk, began to speak matter‑of‑factly about another life they remembered. They described people, places, and events, and often had a powerful emotional attachment to that previous life—running away from home to return to the family they knew before.
 
-**CHRIS BACHE:** This is a turning point. Psychedelics open a new method—articulated modernly by
+Stevenson studied thousands of cases and published hundreds. Most did not meet the highest levels of rigor required for verification and publication, but an amazing number did allow verification. When I read his book 20 Cases Suggestive of Reincarnation, it showed me something I’d never encountered in graduate school: reincarnation as a simple fact of life. These children knew things they shouldn’t know, and we can reasonably exclude other possibilities—parents talking, neighbors, television, newspapers. We’re confronted with children who know facts about other people’s lives and have an emotional attachment and identification with that knowledge, clearly indicating continuity between a previous life and the present life.
 
-William James—of systematic expansion, return, documentation, comparison, and re-entry. It lets us
+At the end of his career, Stevenson published a magnum opus in which he demonstrated not only memory continuity but, in some cases, bodily marks of events that took place in a previous lifetime. He studied 187 cases of children with birthmarks or seeming scars that reflected the death circumstances of a previous life—someone stabbed in a previous life had a birthmark where they were stabbed; someone hanged had neck marks correlating to that. It’s an absolutely fascinating study.
 
-probe dimensions usually inaccessible without lifelong practice, then evaluate them against science
+From there, once I was convinced by Stevenson’s research, I studied the work of multiple past‑life therapists who were helping clients heal present‑life wounds. Most of the time, therapy traces pain to trauma earlier in the present life. But past‑life therapists consistently find a percentage of pains that aren’t healed by present‑life work; when the mind opens into deeper history, a deeper story emerges. You remember things that happened when you were a different person, but with the same sense of self you have now. When people relive the pains, traumas, or conflicts of a previous life, it has a healing effect on their present life. After reading hundreds of such cases, it became more and more obvious that reincarnation is part of the larger rhythm of our life. I didn’t agree with all interpretations of reincarnation—one of the things that came up in my sessions was an expansion of the model—but the fact that one life rolls into another with time in between was clear.
 
-and global mysticism.
+Michael Newton, a past‑life therapist, did fascinating work as well. He was doing conventional past‑life regression and made an ambiguous instruction one day. Suddenly he realized his patient was describing what happened after they died in the former life they’d been reliving. He discovered people could remember not only former lives but what they were doing in between incarnate lives. After regressing hundreds of people into this in‑between state, he wrote books—Journey of Souls and Destiny of Souls—compiling what his clients described about the interlife. He found that people choose consciously the conditions of their present life; that after death there’s debriefing and integration into the world of spirit, healing of unhappinesses, refreshment and restoration, continued learning, and a social structure to the postmortem condition. When it’s time for class to resume, the soul begins choosing the conditions of its next incarnation.
 
-**CHRIS BACHE:** Imagine a cohort of highly trained minds across disciplines following a disciplined
+Just as students choose courses carefully or haphazardly and get different results, I think some souls choose more carefully than others. The idea that we choose our incarnation and its circumstances—that it’s an intelligent process—and by becoming male, female, rich, poor, warrior, priest, artist, we grow faster than we would as one unchanging person, opens a new understanding. I’d tell students: imagine you are the universe’s creative intelligence and have two options—one life lasting 100,000 years, or the same 100,000 years in 100‑year increments with circumstances changing each time. Which produces greater learning? Clearly the 100‑year increments. Underneath the short‑term experience of a present life, the soul accumulates the experiences of many lifetimes, holding them like a library in spiritual reality.
 
-protocol, documenting, and comparing pattern-level findings. That’s the seed of a new philosophical
+I saw this in my sessions. I experienced, in some cases, former lives with people I’m engaged with in this lifetime, and healing took place. I was also taken into a series of experiences that pushed the boundaries.
 
-method grounded in expanded consciousness, not just sensory reason.
+Chris Bache: 
+There was a particular session I call the birth of the diamond soul. I experienced all of my former lives coming into me very quickly. Tremendous work had been done earlier in the session, and I was in a state where I was integrating streams of consciousness from multiple lifetimes. It was like wrapping string around a kite spool—filaments of white light. They hit a critical mass and fused—these lives fused into a single energy entity. When they fused, there was an explosion of diamond light from my chest that catapulted me into a completely different state of consciousness. I was still an individual, but beyond any frame of reference I had known. I wasn’t Chris Bache; I was a being of which Chris Bache was a part, along with these other former lives. That’s what I came to call the birth of the diamond soul.
 
-**SIMEON:** For listeners new to your work, could you walk through a typical session day and your
+It’s the idea that life grows; that part of the intelligent process of life is growing human consciousness layer by layer, grade by grade, course by course, allowing us to expand and grow—hopefully more intelligent, more compassionate. We make mistakes, we learn, and we grow. But the process isn’t simply incremental. Sooner or later, there comes a time when all those lives and all their learning fuse, and the soul consciousness awakens within us. In the normal process of reincarnation, I think we experience our soul when we die—we go from ego to soul, back to ego, back to soul. If we keep this up for thousands of years, sooner or later it’s natural that the soul wakes up inside time and space. I think this is happening not only for us individually but as a species. Through our long evolutionary journey and long learning process, we are transcending the ego. The soul is waking up inside time and space. History is taking us into an epoch when the diamond soul is waking up on Earth.
 
-protocol?
+Simeon Mihaylov: 
+That’s beautiful. Concerning this vision of reincarnation that you gained through your experiences and your reading, I have two questions that are difficult to answer. The first is the classic one: how can consciousness travel from one biological mechanism into another? We can leave that alone—probably beyond each of us at the moment—and I think the honest answer is we don’t know.
 
-**CHRIS BACHE:** Sessions were at home or in my wife’s therapy office, starting early. I centered
+Chris Bache: 
+Yeah. We don’t know what the physics of the soul is. We don’t know how our memories leave our biological base or how consciousness reprograms, returns to, and integrates with a new biological body. We don’t have the answer to that question. And we won’t begin to find it until we start asking different questions—opening up to a more complex cosmology of a multi-level universe, and stop acting as if our consciousness is generated by our brain. That reductive cosmology doesn’t even allow us to begin to find answers to your question. So, yes, we don’t know—but I think in time we’ll gain more knowledge.
 
-with meditation or yoga, paying close attention to emotional and physical alignment—the body’s
+Simeon Mihaylov: 
+Hopefully. The other question concerns the soul. In meditation, one of the key insights is non-self—Non-duality, the co-arising of everything. How does that square with a soul reincarnating? What is reincarnating? Is it the doer—the one making choices—or is it the witness, the one that’s conscious of all these things?
 
-structure matters when large energies move. My sitter through the 20 years was my first wife, Carol,
+Chris Bache: 
+I’ve had experiences of Non-duality and what Buddhism calls emptiness—Shunyata—emptiness of self, where there is such intimacy that there is no self inside you and no self anywhere in the world. Everything is open, porous, and magnificent. I think it depends on how you conceive the soul. By habit and custom we’ve tended to think of the soul atomistically—as a fundamentally isolated unit that doesn’t change and is separate from other souls. That notion contradicts Non-duality and Shunyata.
 
-a clinical psychologist. After ingestion, she curated the music and safeguarded the container. With
+But if you have a quantum or field model of the soul—soul as a field, as a learning system—then it’s never isolated from the surrounding world. It’s always in energetic exchange, always incorporating information and energy in the waves of life. Then we can understand the soul as dynamic—always changing, evolving through time, porous—yet retaining individuality. The universe is a learning environment. It learns at the species level and at the individual level. We learn, grow, remember, and acquire insights based on experience. That doesn’t mean we’re isolated or static; it means we are developing an individuality that is porous.
 
-high-dose LSD, verbal interaction was minimal. Sessions ran six to eight hours.
+So I don’t think there’s any contradiction between affirming an emergent individuality in creation and the fundamental condition of Non-duality. The spiritual traditions support this. Even the Dalai Lama has written that what Buddhism rejects in its anatta (no-self) doctrine is not individuality; it rejects a static soul—one that doesn’t change in time and is independent of surrounding reality. Shift your understanding of soul to an open-field vision, and it becomes completely compatible with Shunyata—emptiness.
 
-**CHRIS BACHE:** That evening I reflected. The next day I wrote a detailed account. I developed a
+Simeon Mihaylov: 
+This open-field vision also leads into your observation that enlightenment isn’t a private process. You talked about how your purification and healing experiences affected not only your personal sphere but also the larger collective of humanity. How does that work, and how does it feed into your vision of the future human?
 
-technique I call “standing at the edge of the well”: replay the session’s music in the same order,
+Chris Bache: 
+When I began this work, I thought I was doing it for my personal edification—my healing, maybe even my spiritual realization. But that wasn’t the universe’s mindset. The collective ramifications of our work are only mysterious if we assume we’re fundamentally private entities. In both classical meditative deepening and psychedelic deepening, we discover we’re part of an interwoven network of life.
 
-let one foot slide back into the session while cognition is restored, and write that segment. Lock
+I like the image of a tree and a leaf—leaf consciousness and tree consciousness. Imagine you could see only the leaves of a tree, each leaf with its own personality, and everything covered in bark—the trunk, limbs, branches—was invisible. One leaf decides to explore the real nature of its being. It goes deep within, finds where it connects to the twig, then into the limb, the branch, the core of the tree—then explodes into awareness of what a tree is, and therefore what a leaf is. A leaf isn’t a separate, private part; it’s a living aspect of a much larger being. The well-being of the leaf is connected to all the other leaves.
 
-the draft; don’t polish away its living texture.
+When that awareness dawns and the consciousness returns to its leafness, it sees all the other leaves as aspects of its deeper identity. It might say strange things like, “There is no self.” Shunyata. Anatta—no private self. Compassion arises spontaneously, because what you do to another leaf you do to yourself—you’re doing it to the tree.
 
-**SIMEON:** How did you use music? Some advocate silent darkness.
+In psychedelic work, when I would open deeply within “myself,” I found myself involved in healing and cleansing not related to my personal history, but expanding beyond it—as if I were working to heal all the leaves on one particular branch. This happens because nature doesn’t hold the boundaries our small mind imagines. Our species lives as an integrated totality. When we open to that totality, we can dissolve into it. The leaf can dissolve into the essence of the tree and experience how the tree experiences life.
 
-**CHRIS BACHE:** Music doesn’t script the content; it supports surrender. I followed research
+Our purification processes affect the “leaves” around us. Our ecstatic intimacy with life and the divine radiates naturally through our awareness into the awareness of beings around us. All spiritual traditions recognize that practice radiates through the fabric of reality—not just the human fabric but the animal world and beyond.
 
-lineages (Helen Bonny, then holotropic breathwork) for pacing. Indigenous chant proved especially
+This helped me understand the Buddhist tradition: at the beginning of every meditation session, you cultivate bodhicitta—the desire to save all sentient beings. You do the practice for all beings. At the end, you give away all the benefit to all beings of the universe at all levels. You strengthen your awareness that you are a fractal aspect of the totality. In that awareness there is liberation and joy. Alienation and loneliness dissolve. One becomes, again, what one has always been but forgets—a joyful aspect of the totality.
 
-potent—unknown languages free the mind from semantic capture. At peak, I used expansive, wordless
+Simeon Mihaylov: 
+I have so many quotes from your book, it’s hard to choose. Here’s one where you speak to the purpose of reincarnation and learning. I’ll quote you directly: “I also felt an exquisite tenderness coming from the Creator, who experienced with us every pain we had taken upon ourselves. Humans were so precious to the Creator that not a single ounce of pain, not a single cure was wasted. The depth of that divine care so moved me that no sacrifice seemed too large or unreasonable.” I think you’re speaking to all the suffering involved in learning, and a vision in which it didn’t seem meaningless anymore.
 
-music; on the long LSD descent, gentle spaciousness. No lyrics in a language I understand. And I
+This reminded me of The Brothers Karamazov by Dostoevsky. Two brothers, Alyosha and Ivan Karamazov, debate the existence of God. Alyosha is faithful and pure of heart; Ivan is a genius atheist. Ivan explains why he rejects God, giving pages of examples of cruelty inflicted upon children—drawn from actual accounts of children being tortured, killed, maimed. This reminded me of your experiences where, at a certain point, you were faced with not just images but the experiences of children being killed—the killing of the children. I think that’s the ultimate argument against any cosmic plan: What justifies the suffering of innocent beings? Because Ivan basically says, perhaps there is a God, but he does not accept the world God has created. What’s your comment?
 
-rarely used a piece more than three times; it “soaks up” prior sessions.
+Chris Bache: 
+That is the hardest part of all of it, isn’t it? How can we affirm an intelligence—let alone a compassion—behind existence when everywhere we look there is so much pain, brutality, horror, compounding over and over again?
 
-**SIMEON:** People may imagine visionary work as exciting, but high-dose work often becomes
+Ramakrishna, the great Hindu saint, said that if you want to understand God, you must be willing to look suffering in the face. I hold that to be true. You must confront and engage suffering if you hope to understand the true divine. I’m comfortable with atheism as a rejection of theism; depending on the theism in question, most of the theisms I know deserve to be rejected. They’re too small—terrifyingly small—and their visions of life are inadequate to help us understand the enormity of the pain we see. I won’t succeed in answering this satisfactorily—it’s a question I live with—but I can offer a few things.
 
-difficult. How did that unfold for you?
+To understand suffering, we also have to understand genius in life, and the larger trajectory of life. When I’ve dissolved into what I experience as the creative intention of the universe, I’ve entered a process of creation—self-manifestation—that is vast and ancient. It’s been going on so long—billions of years. Thirteen point eight billion years since this Big Bang, we’re told, and we’re not sure it was the first. The creative capacity of the universe extends to microorganisms, organisms, stars, collapsing stars, planets, evolution of life—countless galaxies. We’re the first generation to truly appreciate this scale—its age and expanse. The images from Hubble and other scopes show us the magnitude of existence.
 
-**CHRIS BACHE:** Grof distinguished psycholytic (low-dose, gradual) from psychedelic (high-dose)
+In that context we must look at our species and ask: What’s happening here? If there is intelligence, how is it expressing itself in our lives? And why is it so hard? Why couldn’t life be easier? One can believe in God and not accept the universe that God has created—and I understand that sentiment because it honors our children. There is no justification, on the surface, for their suffering.
 
-work. High-dose work, like at Spring Grove with terminal patients, aims to break through into cosmic
+But consider the larger process. A human is a growing intelligence, resting on the shoulders of the primate kingdom, which rests on other life forms down the evolutionary ladder. Are we at the end of this process? If you see a ten-act play from the first scene of the first act, you don’t have enough information to know if it’s a good play. If you’re at station three of 215 on an assembly line, you can’t judge what’s being built. One advantage of psychedelic states is that under certain conditions they let you expand beyond the present—dissolve into the intelligence manifesting as the universe, into its distant past and its future—what I call deep time. Those experiences convinced me that there are dimensions in which the universe knows itself far beyond this moment. In dissolving into the deep future, I’ve been shown something of the creative process—how creativity expresses in humans.
 
-reality—often limited to three sessions. I wondered what would happen if you kept going.
+We come here to make choices and learn. Bad choices, bad consequences; good choices, better consequences. But we’re just getting started. We only began to access the consciousness at the center of our being—our deep common consciousness—about 5,000 years ago. Self-awareness came earlier, but what the self is began then. We are only beginning to exercise our latent potential. In that creative process, we’re dealing with an incomplete creation—an incomplete planet, an incomplete species—still living out of primitive levels of self-understanding, and in our primitiveness we inflict great damage on others.
 
-**CHRIS BACHE:** It took about two years to clear perinatal layers and undergo ego death. Then came
+The process of evolution itself is incomplete—still working things out. Sri Aurobindo said humanity is a transitional species. We’re not the end of the line; we’re a transition from a lower to a higher order of awareness, and then higher still. The ability of mind to influence matter, to manifest joy, grace, fruition inside matter is still being developed. The ability of mind to control disease is still developing. We—and nature—are profoundly incomplete.
 
-a different order of ordeal: vast seas of collective suffering—violence, war, brutality—like
+My basic response is that suffering reflects the incompleteness of the universe and the terrifying demands of learning through experience—sometimes inheriting the consequences of choices so we can learn and choose better. Not all suffering derives from human choices. Some comes from what we’d call the cruelties of nature. This planet is severe: hurricanes, earthquakes, biology that takes children. It’s an intense world. We must be willing to look suffering in the face if we want to understand the deeper intentionality expressing itself in this incomplete place in time.
 
-Dante’s inferno multiplied. I would be submerged for hours until it crested and flung me into
+We tend to see God as perfect, static, unchanging, and hold God responsible for this and that. I don’t think that’s right. We are cells in the being of God—cells in the Divine. The Divine is not separate from the children’s pain; it is not other or distant. We, within the emerging Divine, are aspects of it. The pain is always felt, registered, held. We are all in this together, growing together.
 
-ecstatic, visionary states. Pain and joy were proportioned; the ecstasy gave me strength to return.
+If we were to stop the whole process now and hold the designer accountable for where we are, we would conclude he’s a bastard—there’s just too much pain. But if we could go forward even 100,000 years and experience an evolved humanity, we would encounter a much kinder, more gracious, intelligent, compassionate humanity—much better able to manage the still-painful fluctuations of nature. It’s hard to envision from here.
 
-After years, another death led to archetypal reality; another, to the causal oneness; later, to
+This brings me to the deeper part of your question: Where are we now in this process? What is happening in our historical circumstances? What is the immediate future for our species?
 
-diamond luminosity. The challenge deepened, but so did the grace.
+Chris Bache: 
+I know I’m sharing my own visionary experiences. What may be powerful and true for one person won’t necessarily be powerful or true for another. I can only share what my experience has been. Early on—starting around my 23rd session, so for the last 50 or so—one of the recurring themes was where humanity is going. The vision was repeated again and again: we are coming into a turning point in history, a decisive before-and-after point, poised on the edge of a magnificent transition into a higher level of functioning. There is a greatness emerging within humanity.
 
-**SIMEON:** Your arc parallels daily spiritual practice—purification cycles, insight, bliss—even
+When I look around at history, I often thought, I don’t exactly see that. I see people being as stupid and as cruel as they were 5,000 years ago. But my sessions kept saying, no, look deeper. There is a greatness emerging. Within reincarnation, to see humanity is not just to see the present generation, but the living pulse of life incarnating again and again over many thousands of years. The greatness that is emerging is at that deeper level of the soul’s accumulation—collecting and harvesting all the learning, suffering, experimentation, courage, and innovation cultivated over lifetimes. My sessions kept showing me this decisive turning point, but never how it would realize itself. I had no idea how it would come about.
 
-without psychedelics. How did you weave daily practice with this work?
+Then, in the 55th session—the Great Awakening session—I was taken deep into the future to experience the death and rebirth of the human species. Not a physical death and rebirth, but a psycho-spiritual one—though it did involve much physical suffering and many deaths. I experienced it not as “Chris Bache,” not even as an expanded version of myself, but as the entire species. My consciousness dissolved into the collective psyche. I experienced a crescendo of suffering and a birth coming out of that suffering—a new form of human being.
 
-**CHRIS BACHE:** There’s profound continuity. Reincarnation, to me, is a fact of existence. Life
+What unfolded was an historical period of unraveling: loss of control, an inability to control the circumstances of our lives, a profound confrontation with the sins of our fathers—we are our own fathers, of course—a confrontation with our past, our foibles, our divisiveness, the short-sightedness of our governance. It was a global systems crisis, seemingly driven by a global ecological crisis, forcing humanity simply to try to survive. For a time it looked like we wouldn’t. It looked like an extinction event, as if we would lose our place in existence altogether. But just when the storm was at its peak, it was as if a hurricane passed over the island and the skies began to clear. There had been many deaths, but there were many survivors. As the survivors picked themselves up and found one another, there sprang forth from within each of them—and from within the collective—new ways of knowing and feeling, new understandings and insights.
 
-oscillates: incarnate and narrow; die and expand; choose lessons; return and work them through.
+Fundamentally, at its core, there was the birth of an appreciation of oneness—an experience of oneness not as theory or ideology, but as the tree that underlies individual leaf-consciousness. We truly are one; we are connected to each other. From that awareness, we began to build a new world—not the world created by the ego. The ego is a magnificent expression of creativity, but it is divided from the fundamental springs of consciousness and from each other, and the world it creates is divided. It favors some portions of society at the expense of others; it does not work for all. With the birth of oneness, we began to build a world that truly worked for all, a true new beginning. This creativity and these new ideas fed upon themselves—cascading into more beauty, more knowledge, more understanding.
 
-Practice can accelerate that learning by engaging patterns in their “nuclear” form before they fully
+What I experienced was a collective birth of the Diamond Soul—the soul waking up on Earth. We understood ourselves not as 100-year-old beings but as 100,000-year-old beings, with relationships 100,000 years old. In that awareness, we experienced deeper compassion for other human beings and all life forms, and greater transparency to the creative intelligence of the universe itself. We were no longer experientially isolated from the cosmic intelligence. We could take in deeper downloads. With these, there was no technological problem we could not solve. Understandings came easier. There were no technological barriers to what we could accomplish. This is the birth of the future human—the Diamond Soul incarnating in history.
 
-externalize.
+In one of the last great visions of my journey—the 70th session—when I thought I was beyond all the meltdowns I’d gone through, it put me through the worst strip-down of my entire 20-year journey. It broke me down terribly, and I think it was necessary for what followed. It took me deeper into the future than ever before. In this condition, I was given my deepest experience of the future human. It was as if I was allowed to try on the new archetype of the human that had emerged in evolution, and just touching this being—if I try to describe it, I don’t think I can do it without crying. A magnificent beauty. A completely healed humanity, healed of all the scars accumulated through thousands of years of incarnating. An explosively large heart. A magnificent mind capable of illuminations that stagger the imagination. This is the child we’re trying to give birth to, and I think we are beginning to give birth to it in this century.
 
-**CHRIS BACHE:** The deeper the temporary state, the stronger your daily practice should be. In my
+I think we are entering the dark night of our collective soul. As in mystical traditions, in order for full spiritual realization to emerge, there must be a dark night—a time of purification, a confrontation with the poisons left by our past behaviors, and an opening. As this dark night comes to fruition, there is a death to the old self and a birth of something new. The mystics and saints say it makes all the purification and hardship worthwhile. When a mother holds her child, the pains of labor are forgotten; they’re worthwhile. I think something like that is happening for humanity. We have been gestating the new humanity for hundreds of thousands of years—lifetime by lifetime. Gestation takes a long time; birth is short and intense. We may just be in the early stages—the dark night of the self, as John of the Cross calls the early stage of purification and transformation. Deeper purification and transformation will follow, until we let go of our past—until it hurts so much to stay as we were that we open into who we can be and who we need to be to save life on this planet.
 
-last five years, working in diamond luminosity strained my subtle system. Vajrayana practice helped
+In that process, we’ll give birth to the new humanity. Looking back over human evolution and all its suffering, we won’t say it wasn’t real or terrible, but that in a larger order of things, it was worth it, because we will be operating from a completely different blueprint of the human psyche. Hard times are ahead—magnificently important, extremely creative times that will demand a great deal of us individually and collectively. If we engage them conscientiously, heart and soul, they will change our lives and those of our children, grandchildren, and great-grandchildren forever. Those are the visions that were poured into me, and I share them with you.
 
-my body-mind “breathe” those energies and stabilized dialogue with the universe. And remember: you
+Simeon Mihaylov: 
+That really leaves me speechless. It’s beautiful—absolutely beautiful. I can see how that removes anxiety about death and about life and about our future as individuals and as a species. It’s a beautiful vision.
 
-can’t take a psychedelic when you die. The mind you take is the mind you’ve made. Psychedelics can
+Chris Bache: 
+Every time we die, at the deepest level all spiritual traditions tell us no one dies—we transition into a different level of reality. I’m not making light of death or trivializing it, only affirming this deeper insight: everything we are survives the death of the body. At the end of every lifetime, we return to where we came from as a resting place. We are restored and refreshed, and then we return to the challenges of history. We don’t have to live through all the evolutionary future to know freedom from the fear of death. If there were one thing from my psychedelic experiences I wish I could give the world, it would be eliminating the fear of death. I am not only unafraid of dying—I’m looking forward to it, because death is homecoming. Always, death is homecoming.
 
-teach you the territory of dying so it’s recognized as homecoming, but daily practice is the spine.
+Simeon Mihaylov: 
+Different spiritual traditions have said that in different ways. Carl Jung says at one point that life is a short period between two infinities—which, in the end, might just be one. I think that’s a beautiful way of putting it.
 
-**SIMEON:** Let’s move into the cosmic blueprint. Reincarnation became central in your work. What
+There’s one more thing he says that I want to ask about in light of your experiences. Karim used to say, “I can either be good or I can be whole.” He had a tremendous respect for the dark side of the psyche—for evil. How do you see it? Do you see evil falling away as our egos fall away when we become this future human, or do you see a deeper logic to evil continuing, becoming integrated, and serving some higher purpose?
 
-convinced you—both in reading and in experience?
+Chris Bache: 
+I would begin by differentiating between darkness and evil. People often fuse them, but I think they’re different. Evil is a twisting of life—a process in which life has turned in upon itself and cut itself so deeply off from its source that it becomes twisted, cancerous, and needs to be healed. Darkness, on the other hand, is part of the inertia of existence—what the Big Bang explodes into, the resistance to the creative process itself.
 
-**CHRIS BACHE:** Two pillars. First, Ian Stevenson at the University of Virginia. His lifetime of
+When Jung said he’d rather be whole than good, he was claiming all the parts of his life that weren’t necessarily socially “good,” even those he wouldn’t deem good. That happens in spiritual practice and certainly in psychedelic practice. We claim the whole of our life, even the parts we’re embarrassed by or ashamed of, or feel are unforgivable. As we embrace them, all those twisted, unintegrated, or injured aspects are brought back into healing and wholeness, and what emerges is a higher order of goodness. It’s a commitment to embracing the shadow—to let no corner of our being be excluded from redemption. Nothing can be left out, or the system is incomplete. It’s like a chorus with missing voices; all must be present for the chorus to be complete.
 
-fieldwork on young children who spontaneously recall prior lives—with verifiable details and
+In our social and spiritual evolution, there is much darkness in the world—much that is twisted. We could call that evil. But I don’t think of evil as a cosmological process. I’ve never experienced it that way. I’ve experienced darkness, confusion, pain, and suffering, but not evil as such. And I think that’s what Ramakrishna meant when he said, “If you want to understand God, you must look suffering in the face.” Suffering doesn’t come from a second principle—an evil demiurge. It comes from the Divine; it is part of the Divine expression. We have to understand how life works. If we’re going to see the compassion in existence, we must be able to look very, very deep, because there is so much suffering. I think suffering is in the process of being redeemed in history, in the sense that it is part of a self-learning process taking us somewhere exciting and magnificent.
 
-corresponding birthmarks or wounds in some cases—was decisive. *Twenty Cases Suggestive of
+So I would say that darkness is being redeemed in evolution. I don’t know what will happen as we transition into this higher form of humanity. Even if within a thousand years—or sooner—we manifest a higher form of human experience on the planet, it doesn’t end there. We’ll keep going for millions or billions of years. There will be further challenges and thresholds. But along the way, we have to let go of some early stories we’ve told ourselves—that evil has its hand on the earth, or that a malevolent force intends our suffering, or that we can escape suffering by simply being good, experience salvation, go to heaven, and leave the earth behind. We must open into a deeper understanding of the cosmological process of creation—self-manifestation of the creative intelligence.
 
-Reincarnation* opened the door; his later work on birthmarks deepened it.
+Simeon Mihaylov: 
+Chris, I realize I’m taking quite a lot of your time. Before we finish, I want to ask: you discontinued your LSD sessions, and then, after about 20 years, you published your book. How has writing it and then speaking about your experiences changed your insight, and what is left for you to do in this lifetime?
 
-**CHRIS BACHE:** Second, therapeutic literature. Many pains don’t resolve until you trace them into
+Chris Bache: 
+Let me back up and describe what happened when I stopped, because that leads into the writing. I stopped my work in ’99 for several reasons, foremost because of the domain of Diamond Luminosity I had entered. In those last five years and 26 sessions, I entered this reality only four times. Between those entrances there were very intense purifications, healings, and catharses. But dissolving into the light made coming back too painful. I reached a point where I couldn’t bear returning to time-space. There was a sadness in coming back, and I knew I had to stop. I couldn’t take being separated from the universe—that deep intimacy—anymore. I also realized I was running enormous energy in my body; at a subtle level I was running too hot. I needed to let my system calm down and recalibrate. But the primary reason was heartache. I couldn’t take coming back anymore.
 
-former lives. Michael Newton’s *Journey of Souls* and *Destiny of Souls* mapped the inter-life,
+I had been given so many blessings and shown so many things that I thought I could simply stop and continue to be nourished by the treasures I’d been given. That did happen, but only half. Over the years, a deep sadness emerged. Underneath publishing, writing, caring for my children, and teaching, there was a longing. I was suffering from a loss of communion with the Divine, a loneliness with the Divine. I was basically just waiting to die—living my life, taking care of everybody, but in my heart waiting to return to my beloved. Years went on and it didn’t get better. It’s good to be fearless of death, but it’s not good to be waiting to die. Somewhere I must have made a mistake. My life was screaming “failure to integrate,” but because I had taken so much care to integrate each session, it wasn’t clear where the failure lay.
 
-including how souls review, heal, study, and choose their next incarnations. Choice quality likely
+In time, I came to understand an imbalance. I had plunged so deep into the transcendent Divine that I lost my foothold in the manifest Divine. Intellectually I knew the other truth, but I wasn’t able to live it fully: the physical universe and my being as part of it are the Divine—the physical world is the body of the Divine. When I saw that the problem was an imbalance between transcendence and immanence, I made a decisive move to embrace my physical existence more completely—to, by force of will and practice, live my life as it was, in its incompleteness, for my remaining days on Earth, and recommit to being here inside time and space. It took about ten years to become fully comfortable being inside time and space again—which is maybe one more reason why no one should do the kind of work I did. I hope people don’t have to go through what I went through. It may be better to work in smaller doses, more incrementally, and hold on to more of the progress you make.
 
-varies, but the process is intelligent and developmental.
+I also learned a second reason for my estrangement: what I call the sickness of silence. I’m a teacher. I love to learn and I love to share what I’ve learned. But because of the laws surrounding psychedelics and our psychedelic-phobic culture, I wasn’t allowed to talk about what I experienced. I couldn’t bring my psychedelic knowledge into the classroom or share it with colleagues. The very silence that allowed me to do this work at this time in history also prevented me from fully integrating it into my public life. I integrated privately as best I could, but I couldn’t integrate into my historical presence. I couldn’t be in the real world who I knew myself to be in the shamanic world.
 
-**CHRIS BACHE:** In my sessions I sometimes revisited shared past-life threads with present-life
+In this respect, writing Diamonds from Heaven has been deeply healing. I retired a little early to write it, and finally I could say what I did, what happened to me, and share my experience of the universe. Not that my experience is unique—I’m one among a psychedelic community having many such experiences—but to be completely honest and candid about who I am behind my academic persona has been healing. As I worked on the book and began talking about it, my psychedelic memories began to congeal and live in me differently than before. Being able to talk about these things has allowed me to be more whole. It’s as if the psychedelic half of my life and the physical half are coming together. Something is happening—there is a deepening of integration and a deepening of transparency to spiritual reality. I don’t know where it will go. Three years from now I could be in a very different place than I am now, and I’m in a different place now than before I wrote the book.
 
-people and saw healing. In one session—the “birth of the diamond soul”—filaments of light from many
+Pim van Lommel, the near-death researcher, says integration can’t really take place until experiencers can talk about their experiences and share them. I think that’s true of psychedelic experiences too. At some levels, we can’t fully integrate until we can share. Writing Diamonds from Heaven has been part of sharing my history—hopefully useful to others and supportive of their work as we enter this intense historical period. There’s been a birth of a new joy—of being who I really am: a flawed human being who has had some unusual experiences and loves to converse with other human beings who have also had unusual experiences, so together we can see what our experiences teach us about the universe we’re in.
 
-lives spiraled into a critical mass. They fused, and a blast of diamond light exploded from the
+Simeon Mihaylov: 
+Chris, your experiences and your words are truly diamonds from heaven. I’m sincerely grateful—for your courage to undertake these experiences and to share them, not just with me but with so many people. Your work touches people’s hearts and lives. It’s important work. Thank you on behalf of the greater collective. I don’t want to take too much of your day, but is there anything we didn’t touch that you’d like to talk about?
 
-heart. I found myself an individual, but not Chris. I was the larger being that includes Chris and
+Chris Bache: 
+Maybe just one piece, because there’s a lesson in it for me and maybe for others. In the 50th session—the second Diamond Luminosity session, the deepest I ever got—I was in extraordinary bliss and joy, dissolved into the boundary-less condition of pure, hyper-clear light. At this peak—50 sessions and all those years—my entire visual field suddenly rotated 90 degrees. A space opened up, and I saw reality far in the distance, filled with an even higher form of light. A beam of light came out of that reality and hit me. It absolutely shattered me. I realized that the journey into the Divine, into the universe, is infinite. There’s no end to it.
 
-many lives. I call this the diamond soul.
+Like many people, I had thought you take the journey to get to the end—to get home, back to Source, one with God, dissolved into the primal void. I had become one with the Divine and learned there are many levels of oneness. I had dissolved into the void and learned there are many levels of the void. This experience showed me that even with an extraordinarily powerful method, I would never be able to explore the universe in its totality. It’s too big, too vast, with so many layers. First it shook me to the core; then it relaxed me into a deep existential ease.
 
-**SIMEON:** How do you reconcile a reincarnating “soul” with non-self and non-duality? Are these in
+If I were doing this work over, I’d be gentler with myself. I’ve learned the goal is not to reach some destination, because no matter how hard I pushed, new doors kept opening. A better way to think about this work is to open ourselves and make ourselves porous to the totality of life—to let in as much knowledge, energy, and compassion as possible, hold it, bring it into our being, become more porous to it. It’s not a process of going out and exploring so much as intaking—bringing it in to the very roots of our being. Let it change not only our minds and convictions but our biology. I think it reaches into and changes us at very subtle physiological levels we’re only beginning to appreciate.
 
-conflict?
-
-**CHRIS BACHE:** Only if we hold an atomistic soul—static and sealed off. I favor a field model:
-
-porous, evolving, always in exchange, yet capable of coherent individuality. The Dalai Lama has
-
-written that Buddhism rejects a static, independent soul, not the emergence of individuality. With a
-
-field view, non-duality and a developing soul fit together.
-
-**SIMEON:** You’ve said private practice radiates into the collective. How does that work?
-
-**CHRIS BACHE:** Think leaf and tree. If you could only see leaves and not the trunk and branches,
-
-each leaf would feel separate—until one leaf traced its inner connection down into the tree. In
-
-deep practice, the leaf dissolves into tree-consciousness and returns changed, knowing that what it
-
-does to other leaves it does to itself.
-
-**CHRIS BACHE:** In psychedelic practice I often found myself engaged in healing beyond the personal,
-
-as if working a whole branch of leaves. Traditions recognize this. In Buddhism you cultivate
-
-bodhicitta at the start, dedicating practice to all beings, and at the end you give away the merit.
-
-It’s not for “me”—it’s for the field, which is what we are.
-
-**SIMEON:** I’ve pulled many passages from your book, but one in particular stands out. You write of
-
-an “exquisite tenderness” from the Creator, who experiences every pain with us and wastes no tear.
-
-That vision seemed to reframe suffering as meaningful. It reminded me of Dostoevsky’s *Brothers
-
-Karamazov*, where Ivan rejects a God who allows the suffering of innocent children. You also faced
-
-terrible vistas of suffering—“the killing of the children.” How do you answer Ivan’s challenge?
-
-**CHRIS BACHE:** It’s the hardest question. Ramakrishna said if you want to understand God, you must
-
-look suffering in the face. I’m sympathetic to atheism’s rejection of small theisms; many images of
-
-God are too tiny. But in deep states I dissolved into a creative intelligence unimaginably vast in
-
-time and space—billions of years, countless galaxies. From that vantage, the human story is early
-
-and incomplete.
-
-**CHRIS BACHE:** Suffering comes from multiple sources. Some reflects the inertia of nature; some
-
-reflects the consequences of our choices; some is simply the strain of incompleteness in an
-
-evolving world. If we freeze the process “as is,” the indictment seems justified. But if we can
-
-taste deep time, a longer arc appears. The universe is learning through us, and we are learning into
-
-the universe.
-
-**CHRIS BACHE:** In later sessions I was taken into what I call the Great Awakening. I experienced a
-
-species-scale crisis—ecological and systemic—that felt like a psychospiritual death. It looked like
-
-extinction, then the storm’s eye opened. Survivors arose with new capacities: direct experience of
-
-oneness, compassion extended to all life, and a clearer channel to cosmic intelligence. From that
-
-download, solutions came more easily. This was the birth of the “future human,” the diamond soul
-
-incarnate.
-
-**SIMEON:** Hearing that dissolves much of the anxiety around death and our future. It brings to
-
-mind Jung’s line: life is a short interval between two infinities—which may be one.
-
-**CHRIS BACHE:** Beautifully put. Dying is homecoming. I’m not trivializing grief or loss, but I
-
-wish I could give everyone freedom from fear of death. It changes how you live.
-
-**SIMEON:** Jung also said, “I’d rather be whole than good.” He had great respect for the psyche’s
-
-dark side. Does evil fall away as the ego falls away, or does it integrate into some larger order?
-
-**CHRIS BACHE:** I distinguish darkness from evil. Darkness is the inertia of existence—the
-
-resistance creation works through. Evil is life twisted in upon itself, cut off from source, a kind
-
-of cancer of the field. The path is radical inclusion: embrace every exiled part so nothing is left
-
-out of redemption. That integration yields a higher-order goodness—wise, not naive.
-
-**SIMEON:** After you concluded sessions in 1999, it took two decades to publish *Diamonds from
-
-Heaven*. How did writing and speaking change you? What remained to do in this life?
-
-**CHRIS BACHE:** I stopped for several reasons. Diamond luminosity made returning to time and space
-
-increasingly painful—coming back hurt. I was also running “too hot” energetically and needed to
-
-recalibrate. But the deeper issue emerged later: a sadness I called “waiting to die.” I’d plunged so
-
-deep into the transcendent that I lost my foothold in the immanent—this world as divine.
-
-**CHRIS BACHE:** The remedy was to recommit to embodiment and cultivate practices that honored the
-
-sacred in matter. That took nearly a decade. A second problem was the “sickness of silence.” Because
-
-of law and culture, I couldn’t speak openly in my academic life. I integrated privately, but not
-
-historically—I couldn’t be who I was in public. Writing the book and now speaking have healed that.
-
-Memories “congealed” differently; transparency increased.
-
-**SIMEON:** Is there anything we haven’t touched that feels essential?
-
-**CHRIS BACHE:** One more scene. In my 50th session, at the deepest clear light I’d known, my entire
-
-field rotated ninety degrees. Far off, reality opened into an even higher light. A beam struck me
-
-and shattered me. I realized then the journey is infinite. There is no final plateau, only deeper
-
-openness.
-
-**CHRIS BACHE:** That insight pivoted my method. The aim isn’t to “arrive,” but to become porous to
-
-the totality—letting more knowledge, energy, and compassion flow in and transform us all the way
-
-down to subtle physiology. We stand between two realities: daughter universe (time-space) within the
-
-mother universe (primordial). The art is to let the mother’s life infuse the daughter’s form.
-
-**CHRIS BACHE:** Given that, I now recommend a gentler path: alternate intensities, balance
-
-modalities, anchor in daily practice, and be patient with time. The universe is vast, and we are
-
-learning how to love it from the inside.
-
-*\[Music\]*
-
----
-
-## Key themes
-
-- Disciplined psychedelic method as philosophical inquiry, not just therapy.
-
-- Five-tier arc of death and rebirth: personal, collective, archetypal, causal oneness, diamond luminosity.
-
-- Psychedelics as amplifiers of consciousness, validated by integration and cross-tradition resonance.
-
-- Protocol craft: container, sitter, indigenous chant, and “edge of the well” writing method.
-
-- Pain–ecstasy reciprocity and collective catharsis (“ocean of suffering”) before breakthrough.
-
-- Reincarnation evidence and the “diamond soul” synthesis of many lives.
-
-- Reconciling non-self with a porous, evolving field-model of soul.
-
-- Individual practice radiating into the collective: leaf–tree metaphor and bodhicitta ethic.
-
-- Deep time, the Great Awakening, and the birth of the future human amid crisis.
-
-- Integration after stopping: balancing transcendence with immanence; healing the “sickness of silence.”
-
----
-
-## Revision history
-
-| date | editor | change |
-
-|------------|-------------------------|------------------------------------------|
-
-| 2025-08-19 | gpt5 model by OpenAI | Initial transcription and formatting. |
+Once you understand it’s not about getting to the end, but about becoming more conscious and skillful as we stand between two realities—time-space and the reality outside time and space, the daughter universe and the mother universe—you can integrate the constant inflow of life from the mother into the daughter in increasing measure. That brings an instantiated, incarnate joy—a richer presence inside time and space. We allow time and space to become increasingly transparent to that which created time and space. So I would encourage a gentler psychedelic process, a gentler entry into the great expanse. I’m more patient now with how long spiritual unfolding takes than I was when I was a young man.

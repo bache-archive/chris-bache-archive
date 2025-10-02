@@ -1,5 +1,4 @@
 ---
-
 archival_title: Scientific Evidence for Reincarnation
 
 channel: ECR – Existential Consciousness Research Institute
@@ -9,231 +8,69 @@ recorded: 2019-08-30
 published: 2019-08-30
 
 youtube_id: x_iGTmrzIpY
-
-speakers: \["CHRIS BACHE", "HOST"\]
-
 transcriber: gpt5 model by OpenAI
 
 transcription_date: 2025-08-15
 
 license: CC0 1.0 Universal
-
+speakers: ["Chris Bache"]
 ---
-
-This talk surveys empirical research on reincarnation and why it matters for how we live.
-
-CHRIS BACHE frames the core philosophical questions—do we survive death, and do we live more
-
-than once—arguing that “time as a teacher” changes the very purpose we ascribe to existence.
-
-He then “goes large” across the literature: Ian Stevenson’s child cases and birthmark studies,
-
-editorial recognitions in mainstream medical journals, and criticisms by philosopher Paul
-
-Edwards with a counter-analysis by Robert Almeder. BACHE highlights contemporary continuations
-
-(Tom Shroder, Jim Tucker) and contrasts spontaneous recall in children with evoked memories in
-
-therapeutic settings (Roger Woolger, Winifred Lucas, Carol Bowman). He gives special attention
-
-to Michael Newton’s work on life-between-lives decision-making and two accessible modern cases:
-
-detective Robert Snow and the Leininger family’s “Soul Survivor.” He closes by clarifying what
-
-we still don’t understand—the “physics” of rebirth—and a paradox: strong evidence liberates
-
-our thinking while also narrowing it if we mistake atypical cases for the norm.
-
-**CHRIS BACHE:** The good news—do I have a mic?—is that after me it’s lunch, so I’m the end of the unit.
-
-I’m a professor and I’ve been at this game a long time, so I know a tired audience when I see one.
-
-It’s been a long morning full of wonderful ideas. Let’s do something quick—everybody stand up and
-
-stretch your arms. Bring in some good energy. Okay… now please sit.
-
-**CHRIS BACHE:** The most important philosophical question one can ask is: Do we survive the death of the body?
-
-A close second is: Do we live once or many times? Both hinge on time—time as a teacher. If I give a quiz,
-
-I expect one kind of performance. If I give an hour exam, I expect more. A take-home paper? More still.
-
-More time changes what can be learned and demonstrated.
-
-**CHRIS BACHE:** If this magnificent universe has a purpose, we must measure that purpose against the time we have
-
-to fulfill it. If we live once, we infer one meaning. If we live a hundred, a thousand, ten thousand lives—if
-
-our participation is open-ended—our relationship to the universe changes, and so does the framework for purpose.
-
-**CHRIS BACHE:** Many religions of the last four millennia have undervalued physical existence: achieve realization,
-
-enlightenment, salvation—and then leave. Nirvana, escape samsara, attain moksha, exit. That leaves the question
-
-of the universe’s purpose unanswered. But if we return—if we come back many times—a different story unfolds.
-
-**CHRIS BACHE:** Our understanding of reincarnation is still incomplete. As our sense of the cosmos expands, so does our
-
-sense of how long and how deeply we “dance” with it. Then we can ask what the universe may be accomplishing in us,
-
-and what gift our compounded learning offers back to the universe.
-
-**CHRIS BACHE:** Today I want to review evidence for reincarnation. I’ve been at this a long time. My first academic book,
-
-*Life Cycles*, signals how important I think this topic is. What matters is that there is critical empirical
-
-evidence. Fifty years ago this wasn’t true. Theologians debated endlessly. Today the evidence has moved the
-
-discussion to psychologists, philosophers, and psychiatrists.
-
-**CHRIS BACHE:** When weighing evidence, you can go small or go large. The beauty—the joy—is in detailed cases, but in forty-five
-
-minutes I’ll go large. My goal is simple: inspire you to read one book on reincarnation you haven’t read.
-
-**CHRIS BACHE:** Ian Stevenson’s *Twenty Cases Suggestive of Reincarnation* changed my life. Finishing graduate school in 1978,
-
-I was an atheistically inclined agnostic. Stevenson convinced me there is evidence we live more than once. He was
-
-the Carlson Professor at the University of Virginia and wrote extensively: multi-volume case series, studies of
-
-xenoglossy, *Children Who Remember Previous Lives*, and his monumental two-volume work on birthmarks and birth defects
-
-corresponding to the death wounds of previous personalities.
-
-**CHRIS BACHE:** What are we looking at? Children around the world with detailed recall of a most recent life. They can navigate
-
-towns they’ve never visited. When brought to the previous personality’s home, they recognize people, recall shared
-
-histories, and display appropriate emotions—husbands to wives, parents to children. There are cases where a five-year-old
-
-boy carries the affect of a 35-year-old husband.
-
-**CHRIS BACHE:** One boy, reunited with the previous family, was shy around the former wife. After she left the room, he identified
-
-her and later said, “I’ve come, but you haven’t fixed the bindi,” and he criticized her white sari—widow’s attire—implying
-
-she should dress as a married woman again. In another case a child was asked, “If you’re my husband, where did you put the
-
-will?” He walked to the kitchen, lifted a floorboard, and produced it. Cases like these drive my philosophical colleagues
-
-up a wall. They don’t know what to do with them.
-
-**CHRIS BACHE:** Patterns emerge. Average time between death of the first personality and the birth of the second is about two and a
-
-half years. Average distance between life places is around fifty miles. Children tend to lose these memories by about eight
-
-years old, with most of the rest fading at puberty.
-
-**CHRIS BACHE:** Why do these children remember what most of us forget? We don’t know. Stevenson hypothesized that roughly sixty percent
-
-who died violently, and many who died suddenly or with acute unfinished business, may be drawn back faster and closer, with
-
-memories encoded more strongly.
-
-**CHRIS BACHE:** Mainstream journals took note. *JAMA* wrote that Stevenson had painstakingly collected cases in which the evidence for
-
-reincarnation is difficult to explain otherwise. The *Journal of Nervous and Mental Disease* devoted an issue to his work and,
-
-in an editorial, affirmed the legitimacy of his methods and reasoning.
-
-**CHRIS BACHE:** Of course there are critics. Philosopher Paul Edwards—editor-in-chief of the *Encyclopedia of Philosophy*—launched the
-
-harshest critique, accusing Stevenson of poor rigor and implying fraud. But deeper in his logic he says reincarnation would be
-
-a “crucifixion” of our secular understanding. He claims you must accept “collateral assumptions”: materialism is false, mind is
-
-not reducible to brain, identity exceeds personality, there’s a domain beyond spacetime, death is not final, and life may have
-
-a deeper logic. He deems these “fantastic,” and concludes a rational person must reject Stevenson’s facts or explain them away.
-
-**CHRIS BACHE:** Robert Almeder analyzed this debate and shows Edwards doesn’t refute Stevenson; he refuses to consider the evidence on its
-
-own terms, begging the question. If you can’t refute a commanding argument, refusing it is irrational.
-
-**CHRIS BACHE:** Tom Shroder, a Pulitzer-winning reporter and *Washington Post* editor, traveled with Stevenson. His *Old Souls* applies a
-
-reporter’s eye and finds the methods solid and the cases compelling. At UVA, Jim Tucker carries the work forward with accessible
-
-overviews and careful rebuttals of weaker hypotheses.
-
-**CHRIS BACHE:** So far, those are spontaneous memories. There’s also evoked memory—recall arising through methods like hypnotherapy, sometimes
-
-even bodywork. Representative works include Roger Woolger’s *Other Lives, Other Selves*—intellectually robust, case-rich—and
-
-Winifred Lucas’s two-volume *Regression Therapy: A Handbook for Professionals*, an early attempt to set standards in a rapidly
-
-growing field.
-
-**CHRIS BACHE:** Carol Bowman entered the field as a parent when her child’s nightmares pointed to unresolved trauma from a previous life.
-
-Her books guide families through such cases, including within-family reincarnation—messier for research but common in lived
-
-experience.
-
-**CHRIS BACHE:** I have a special partiality for Michael Newton’s work, *Journey of Souls* and *Destiny of Souls*. As a therapist he discovered
-
-that, in deep hypnosis, clients not only recall past lives but also describe the after-death state with striking consistency across
-
-worldviews—from fundamentalist to Marxist to reductionist. They describe an ordered, pedagogical spirit world where older learners
-
-teach younger, and where reincarnation is a deliberate choice made with guides and in coordination with future life partners.
-
-Before we were born—when we knew more than we now remember—we chose the lives we are living.
-
-**CHRIS BACHE:** Two accessible modern cases: Robert Snow, commander of homicide in Indianapolis, had an unexpected regression, then used
-
-detective skills to verify *Looking for Carroll Beckwith*. And the Leininger family’s *Soul Survivor*: a young boy’s spontaneous
-
-recall of a WWII pilot’s death led to verifications and, ultimately, the father’s reversal from adamant disbelief to acceptance.
-
-**CHRIS BACHE:** Let me close with two points. First, what we don’t know is substantial. Even if the evidence is compelling, we don’t yet
-
-understand the “physics” of rebirth. What is the soul? How does it interface with biology and genetics? How is learning encoded
-
-and later carried forward? Progress here requires moving beyond reducing mind to brain and adopting a multi-dimensional cosmology.
-
-**CHRIS BACHE:** Second, a paradox. Stevenson’s evidence liberates our thinking at one level, but can constrict it at another. His strongest
-
-cases are atypical—fast returns, close to home. Most souls, so to speak, spend far more “time” in the timeless, with broader
-
-experience. To fill in the larger canvas of dying, rebirth, and the cycles of contraction and expansion, we need multiple bodies
-
-of data—Newton’s work, and this afternoon I’ll add perspectives from psychedelic research.
-
-**CHRIS BACHE:** Thank you.
-
-**HOST:** Chris, thank you so much. This is the kind of knowledge that changes how we live and how we meet each moment.
-
-It’s at the core of our institute’s mission—real existential questions with a scientific basis. We need to bring
-
-this to society to help shift consciousness. I’m very much looking forward to your next talk.
-
+<!-- diarist_sha1:25d7416b59249b0b6d6db48a38337bfa89d53c88 -->
 ---
+Chris Bache: 
+The good news is that after me, it’s lunch, so I’m the end of your day. I’m a professor. I’ve been at this game a long time, and I know a tired audience when I see one. It’s been a long morning with a lot of wonderful ideas. So, real quick—everybody, stand up… Okay, okay—now sit down.
 
-## Key themes
+If the most important philosophical question one can ask is, “Do we survive the death of our body?”—which Dr. Van lohm is asking—I think the second most important is, “Do we live once, or do we live more than once?” It all hinges on time: the significance of time as a teacher. If I give a quiz, I expect a certain performance. If I give an hour exam, I expect more. If I assign a take-home paper, I expect still more because they have more time.
 
-- Time as a teacher: purpose scales with the span of learning across lives.
+If this magnificent universe has a purpose, then we have to measure that purpose proportionate to the time we have to fulfill it. If we live only once, we might estimate the purpose of existence in one way. But if we live a hundred times, a thousand times, ten thousand times—if our participation is open-ended—then our relationship with the universe changes, and we have reason to consider the purpose of existence within a completely different framework.
 
-- Empirical foundations: child memories, birthmarks, and verifications in the field.
+Religions of the last 4,000 years have often not valued physical existence. The storyline tends to be: you achieve realization or enlightenment and then you leave—escape samsara (moksha), achieve salvation, exit. But that leaves unanswered: What is the purpose of the universe? What is the purpose of my physical existence within it?
 
-- Scholarly debate: Stevenson’s methods vs. Edwards’s materialist critique; Almeder’s rebuttal.
+If we come back—many times—a different story unfolds. I think our understanding of reincarnation is incomplete, just as we have only begun to grasp the depth and breadth of the universe itself. As we recognize that we “dance” with this universe over extended time, we gain a deeper sense of what the universe might be trying to accomplish in us—and what our gift might be to the universe through the continual refinement and compounding of our talents over time.
 
-- Continuation at UVA: Shroder’s reportage and Tucker’s accessible syntheses.
+Today I want to talk about the evidence for reincarnation. I’ve been thinking about this for a long time. The first book I wrote as an academic was Life Cycles, which signals how important I think this topic is—and that there is critical, empirical evidence that allows us to decide it. If there weren’t, it would be a wasted exercise. Fifty years ago this evidence did not exist; theologians debated reincarnation endlessly. Today we have a different body of empirical evidence that has moved the topic from the theologians’ table to the psychologists’, philosophers’, and psychiatrists’ tables. I want to take you through some of it.
 
-- Spontaneous vs. evoked memories: clinical regression and standards in past-life therapy.
+When looking at the evidence, we can go small or go large. The real beauty is in the detailed cases, but in 45 minutes I’m going large. I’d like to encourage you to read one book on reincarnation you haven’t read yet, and I’ll point to patterns emerging in the literature.
 
-- Life between lives: Michael Newton’s structured after-death pedagogy and life-planning.
+Twenty Cases Suggestive of Reincarnation by Ian Stevenson is the book that changed my life. Like many people finishing graduate school—in my case in 1978—I was an atheistically inclined agnostic. My training in philosophy of religion basically made me an atheist. But encountering this book right after graduate school turned my life around. He convinced me there was evidence that we live more than once.
 
-- Contemporary case studies: Robert Snow and the Leininger “Soul Survivor” story.
+Stevenson was the Carlson Professor at the University of Virginia from 1967 to 2001 and wrote 11 books on reincarnation. Some of the most important include his typed case reports over a seven-year period (1973–1984), his work on unlearned languages by children—cases where a child can speak a language no one in their family or even town speaks, sometimes an ancient language—Children Who Remember Previous Lives, and his 1,000-page, two-volume study of 187 cases of children who not only have detailed memories of their immediately previous life but actually carry scars on their bodies corresponding to death wounds in the prior personality. That, of course, really upsets academics. Continuity of memory is bad enough; suggesting a death wound can be transferred into the physical body of a subsequent personality drives my colleagues up a wall. But 187 well-documented case histories make a magnificent book.
 
-- Open questions: the “physics” of rebirth, mind–brain relations, biological interface.
+What are we looking at with Stevenson? Cases of children around the world with detailed recall of their most recent life. They know their way around towns they’ve never been in. When brought to the family of the previous personality, they recognize people they’ve never met, know their personal history with them, and have the appropriate emotional responses—husband to wife, parent to child. There’s a case of a five-year-old boy showing all the feelings of the husband of a 35-year-old woman. In one case, a child named Parmed, when reunited with the former family, was shy around the previous personality’s wife. He wouldn’t identify her until she left the room. Later he took her aside and said two things: “I’ve come, but you’ve not fixed bindi”—the forehead mark indicating marriage—and he criticized her for wearing a white sari instead of colorful ones. In India, a widow traditionally wears white for the rest of her life. Essentially, this five-year-old was telling a 35-year-old woman, “I’ve come, but you’re acting like you’re not married.”
 
-- Interpretive caution: atypical fast-return cases vs. the broader arc of post-mortem experience.
+These children know the inner architecture of homes they’ve never been in. They know who owed them money when they died and where the will was hidden. In one case, a little boy brought to the former home was challenged by the previous personality’s wife: “If you’re my husband, where did you put the will? We couldn’t find it.” He walked to a kitchen floorboard, lifted it, and pulled out the will from a secret compartment only the husband knew. Cases like that drive my philosophical colleagues right up a wall. It’s hard to deny—but there it is.
 
-## Revision history
+Patterns in the data: the average interval between death of the first personality and birth of the second is about two and a half years; the average distance between the life-places is about 50 miles. These children tend to lose their memories around eight years old, as school and a more complex social world set in. So researchers have a small window—from about three to eight—to document their memories. About 90% forget by eight; of the remaining 10%, most forget at puberty.
 
-| date | editor | change |
+Stevenson asks why these children remember what most of us forget. His answer is: we don’t know; we need more research. His hypothesis notes about 60% of these children died violently in the previous life; the remaining 40% died early, suddenly, or with an acute sense of unfinished business—like a mother dying shortly after childbirth. Perhaps being wrenched from life violently, suddenly, or with strong unfinished business encodes consciousness in a way that draws them back faster and closer than usual. The two-and-a-half years and 50 miles are faster and closer than the population at large.
 
-|------------|--------|-----------------------|
+Reviewers noticed. The Journal of the American Medical Association wrote: “Stevenson has painstakingly and unemotionally collected a detailed series of cases in which the evidence for reincarnation is difficult to understand on other grounds.” Two years later, the Journal of Nervous and Mental Disease devoted an entire issue to Stevenson’s cases—so unusual they published an editorial to explain their rationale: “Our decision to publish this material recognizes the legitimacy of his research methods and the conformity of his reasoning to the usual canons of rational thought.” That’s how academics qualify an endorsement.
 
-| 2025-08-15 | GPT-5 | Initial transcript. |
+The philosophical guardians of orthodoxy were not going to let Stevenson get away with this without a fight. His most important critic is Paul Edwards. His book, Reincarnation: A Critical Examination, comes from a major American philosopher—editor-in-chief of the eight-volume Encyclopedia of Philosophy and a professor at the New School for Social Research. He wrote a four-part series in 1986–87 and later the book, and he is the harshest critic of Stevenson, accusing him of fraud, of insufficient rigor, and of failing to prove the two families had no prior contact.
+
+But there’s a deeper logic at work. He says reincarnation would represent a crucifixion of our understanding—by which he means secular humanism, the Newtonian-Cartesian philosophical-scientific tradition. If you believe in reincarnation, he says, you must accept six collateral assumptions: materialism is false; mind is not reducible to brain; our identity is more than our personality; there is a domain other than space-time; death is an illusion; there may be a deeper logic to our lives. He calls these assumptions “surely fantastic, if not indeed nonsense,” and argues that even absent specific flaws, a rational person will conclude either that Stevenson’s reports are defective or his alleged facts can be explained without reincarnation.
+
+I won’t review Edwards’ arguments at length because Robert almiter has done this for us. A major American philosopher and Professor Emeritus at Georgia State University, he has authored or co-authored 24 books. In one, he evaluates five categories of evidence for survival of death, focusing on the Stevenson–Edwards debate. He shows that Edwards does not refute Stevenson’s argument; he refuses to look at it seriously because he is convinced it must be false. His critique is a blatant bit of question-begging—assuming precisely what is in contention: Can consciousness exist without a brain? Because he believes science has proven it cannot, there must be something wrong with the evidence. He says that if you have a commanding argument you cannot refute, then not to accept it is to act irrationally.
+
+Stevenson’s tradition continues. Tom Schroeder’s Old Souls—despite, in my opinion, the worst cover in reincarnation research—comes from a Pulitzer Prize–winning reporter and Washington Post editor who asked whether Stevenson’s work could withstand a critical reporter’s eye. He accompanied Stevenson into the field and came away convinced: compelling evidence from children who remember past lives; the methods were solid, the data stood up.
+
+At the University of Virginia, Stevenson’s work continues with Jim Tucker, who inherited his chair. Tucker’s book is wonderful—very much in Stevenson’s tradition—looking in detail at cases and explaining why they cannot be attributed to weaker hypotheses like super psi. His writing is easier to read than Stevenson’s; Stevenson thought and wrote like a lawyer—very detailed, very dry—while Tucker brings more life to the subject.
+
+Everything so far has to do with spontaneous memories—children who recall previous lives without prompting. There’s another body of evidence: evoked memories, brought forth by different techniques. Even massage can evoke a former-life memory, though the most common is hypnosis. Representative titles from past-life therapy include my favorite by a single therapist who thought deeply about the work: Roger Wilber’s Other Lives, Other Selves. He started as a Jungian and ended up in past-life therapy. Carl Jung himself believed in reincarnation later in life, but kept it quiet. Wilber’s book is intellectually competent, full of detailed cases, and a discussion of their implications.
+
+Past-life therapy exploded in the ’70s and ’80s, and many therapists were concerned there was no graduate curriculum or agreed-upon standards for credentials. Winifred Lucas took on this task, producing a magnificent two-volume anthology—Regression Therapy: A Handbook for Professionals—collecting the best essays from practitioners of that time. If you want to read a single-author book, read Wilber; for a multi-author overview, read Lucas.
+
+Carol Bowman was a social worker uninterested in past-life therapy until her son began waking with disturbing nightmares. Conventional approaches didn’t work, so she did her homework, learned the field, and helped her child resolve trauma carried over from a previous life that was spontaneously surfacing. Other families found her, and she wrote a beautiful, specifically therapeutic book for parents whose children are struggling with traumatic memories. It was very successful and persuasive; she later wrote Return from Heaven, looking at cases of relatives reincarnated within their own families. As a philosopher, I consider that a weaker body of evidence because of contamination risk. As a parent, it’s compelling—and important, because reincarnation doesn’t just happen in ways convenient to researchers across great distances; it often happens inside families, so it deserves attention.
+
+Michael Newton wrote two wonderful books. If you read only one or two from this list, I hope you’ll read Newton. A hypnotherapist doing past-life therapy, he accidentally discovered that clients in deep hypnosis could remember not only previous lives but what happened after they died. He followed them—good therapist that he is—through death into the afterlife memories and asked careful questions, keeping detailed notes. Regardless of background—fundamentalist Baptist, Karl Marxist atheist, hard-core scientific reductionist—people described the same fundamental reality in the after-death state: a world with order, structure, and logic; a social structure where older learners teach younger learners; and a place where reincarnation is a conscious, careful choice. It’s like choosing college courses: once you sign up, you’re committed for the semester. Incarnating is an important choice made under the guidance of spiritual helpers and in cooperation with the people you’ll incarnate with. Before we were born—when we knew more than we know now—we chose the life we’re living. That fact alone bears deep meditation.
+
+Two last examples from “amateurs,” which is what makes them interesting. The first is Looking for Carl Beckwith by Robert Snow, commander of the homicide division of the Indianapolis Police Department. He investigates murders; his opinions must stand up in court. He’d be the last person you’d expect researching a former life. On a lark, he did a hypnotic session—not aimed at past lives—and was hit with a life that felt like his. It scared him; he ran out of the room. Curiosity prevailed, and he brought all his detective skills to bear to see if such a person existed. The story of his experience and investigation is told in this short book.
+
+Lastly, Sole Survivor by Bruce and Andrew leininga, about their son James. At two or three years old, James began having spontaneous memories and trauma—waking at night—apparently of dying as a World War II pilot off the coast of Japan. His father, a fundamentalist Baptist, was vehemently opposed to the idea of reincarnation. The mother was more open. They set out to help their son and, in the father’s case, to disprove reincarnation to protect his faith. In the end, they tracked down the pilot and story, reunited James at a military reunion with people who had served with that pilot, and James was able to identify individuals there. The father became convinced his son was the reincarnation of this pilot—and that reincarnation is true.
+
+Two quick observations, since lunch awaits. First, what we don’t know: the evidence for reincarnation may be compelling, but we don’t know how it takes place or the “physics” of rebirth. We can’t say what the soul is or what it’s made of, how it comes and goes from the body, interfaces with biology and genetics, encodes previous learning into the present body, or leaves with its learning intact after death. These are beyond our present grasp. We’ll make progress, but only when we stop reducing mind to brain and approach this research with a more multidimensional metaphysical cosmology.
+
+Second, a paradox in the evidence—back to Stevenson. His evidence is the most powerful for reincarnation and liberates our thinking at one level, but constricts it at another. The strongest evidence comes from lives with the tightest correlations, which can be so tight that, if you study only Stevenson, you end up with an anemic, underdeveloped vision of what happens when most of us die. Stevenson’s cases are not typical; these children come back very fast and very close to home. Most people spend much more “time” in the timeless condition of the spirit world and have a much wider breadth of experiences. Stevenson liberates us to think about soul and existence in a larger framework, but to fill in the canvas—to explore more deeply what happens when we die and the larger circle of life from expanded to contracted consciousness and back—we need other bodies of data. Michael Newton’s work gives a larger vision. And this afternoon, when I talk about psychedelic research, I’ll look at another body of data that can expand our vision of life in this universe. Thank you very much.
+
+Interviewer: 
+Chris, thank you so much. This was a real experience to listen to, and I so appreciate how you make clear that this is knowledge that truly changes how we live and approach every minute of our lives. Whether it’s true or not makes the real difference. All three speakers in this session fit together so well—it feels arranged—and it really speaks to the core of the Institute for Existential Consciousness, because these are the real existential questions. There is a scientific basis, and we have to bring it to society to make a shift in consciousness again. Thank you very much, and I’m very much looking forward to your next lecture.

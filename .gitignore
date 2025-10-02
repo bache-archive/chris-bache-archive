@@ -35,3 +35,12 @@ downloads/
 # Local environment files
 .env
 .env.local
+# Audacity project files (large, local only)
+downloads/audio/working/
+*.aup3
+
+# Build artifacts (not tracked in repo)
+build/
+
+# index backups
+index*.bak.json

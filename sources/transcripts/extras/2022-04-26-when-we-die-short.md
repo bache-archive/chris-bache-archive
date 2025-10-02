@@ -1,0 +1,9 @@
+---
+speakers: ["Chris Bache"]
+---
+<!-- diarist_sha1:7950b435d123a8a0379314cd54663754c2c9fae5 -->
+---
+---
+Chris Bache: I think when we die, everything we’ve learned—the good we’ve done and our mistakes, but basically our learning—goes with us, and at the same time it’s retained within the collective psyche of our species. All of our experiences are preserved by the individual consciousness that continues its learning once it leaves time and space. But because we are members of this species, and because this species has a mind that is integrating the conscious experiences of all its members, everything I’ve experienced and written about, and everything we’re talking about here, isn’t lost to humanity when I die; it is hard-wired into the collective psyche, the collective unconscious, right now.
+
+That means we have to think in a quantum fashion rather than an atomistic one when we consider what happens to these fields as physical bodies come and go. Souls endure. Species have a soul—there is a species soul. There’s an Akashic field Laszlo talks about; you could even describe it as an Akashic Soul of the Universe. There’s this tremendous network of consciousness constantly integrating the experiences of all its members. So I can imagine any number of variations of what happens to these fields after we are no longer on the scene.

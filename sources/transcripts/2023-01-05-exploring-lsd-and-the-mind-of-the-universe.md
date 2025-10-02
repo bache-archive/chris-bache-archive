@@ -1,5 +1,4 @@
 ---
-
 archival_title: "2023-01-05 – Exploring LSD and the Mind of the Universe"
 
 channel: "Luc Briede-Cooper"
@@ -9,411 +8,281 @@ recorded: "2023-01-05"
 published: "2023-01-05"
 
 youtube_id: "cvhWP8xzwiY"
-
-speakers: \["CHRIS BACHE", "LUKE"\]
-
 transcriber: "gpt5 model by OpenAI"
 
 transcription_date: "2025-08-19"
 
 license: CC0 1.0 Universal
-
+speakers: ["Chris Bache", "Luc Briede-Cooper"]
 ---
-
-**Abstract**
-
-In this conversation, CHRIS BACHE outlines his path of “cosmological exploration” using
-
-Grof-style high-dose LSD sessions to investigate the deep structure of consciousness. He
-
-contrasts spiritual awakening with cosmological inquiry, explains why longer windows of
-
-psychedelic action can enable deeper purification, and describes his protocol
-
-(eye-shades, curated music, full-day internalization, detailed next-day notes).
-
-Bache discusses guidance as a vast, formless intelligence, the appearance of deities as
-
-collective thought-forms, and his progression through perinatal, collective, archetypal,
-
-causal oneness, and “diamond luminosity” states. A pivotal vision shattered his belief in
-
-an endpoint, revealing an infinite ascent. He shares visions of a species-level crisis as an
-
-initiation toward a “future human,” reflects on meaning in a materialist culture, and
-
-suggests balancing careful psychedelic work with sustained contemplative practice. The
-
-dialogue closes with practical counsel on healing, service, and orienting attention toward
-
-the living universe as an act of devotion.
-
+<!-- diarist_sha1:4bf89c1823e639593ada51d5665d9f52ab77a67d -->
 ---
+Chris Bache: 
+And all of a sudden, my visual field pivoted 90 degrees, and I saw reality far, far in the distance. It looked kind of like galaxies. And out of that reality, a beam of light came and hit me, and it absolutely shattered me. It was a more powerful light than even the diamond luminosity that had become my ultimate reality, 50 high-dose sessions in, and in that one second, it completely changed my understanding of reality.
 
-**CHRIS BACHE:** And all of a sudden my visual field pivoted 90 degrees. I saw reality far in the distance,
+Luc Briede-Cooper: 
+Thank you, Chris, thank you for being willing to hop on with me.
 
-like galaxies. Out of that reality, a beam of light hit me and absolutely shattered me.
+Chris Bache: 
+Glad to be here today.
 
-It was more powerful than the diamond luminosity that had been my ultimate reality
+Luc Briede-Cooper: 
+This is Christopher M. Bache. He's a PhD and professor emeritus in the Department of Philosophy and Religious Studies at Youngstown State University, where he taught for 33 years—an award-winning teacher and international speaker. Chris's work explores the philosophical implications of non-ordinary states of consciousness, especially psychedelic states. Today we’ll be discussing ideas related to his book, LSD and the Mind of the Universe—his story of 20 years of journeying through 73 high-dose sessions of LSD. Welcome, Chris.
 
-50 high-dose sessions in. In one second it completely changed my understanding of reality.
+Chris Bache: 
+Thank you, it’s good to be here with you.
 
-**LUKE:** Thank you, Chris. Thank you for being willing to hop on with me.
+Luc Briede-Cooper: 
+I figured we’d start by tracing a path many people take with psychedelics. First encounters today might be for biohacking or productivity, say with microdosing. Then some discover the therapeutic power of psychedelics, and within that, their capacity for spiritual awakening. But there’s a level deeper than spiritual awakening—the path you took. Could you tell us about that?
 
-**CHRIS BACHE:** Glad to be here today, Luke.
+Chris Bache: 
+I call that path cosmological exploration. It overlaps with healing and spiritual awakening, but it’s different. Spiritual awakening invites us to cleanse our consciousness and our system so we can abide more comfortably and consistently in a transparent condition—transparent to what Buddhists would call one’s essential nature or Buddha nature, and what other traditions would call one’s divine nature. Cosmological exploration seeks to explore the deep structure of consciousness and the universe: to understand, at a deeper philosophical level, how reality works. Why are things the way they are? What are some of the deep structures of cosmic reality?
 
-**LUKE:** Cool. Everyone, this is CHRIS BACHE. He’s a PhD and professor emeritus in the Department
+Luc Briede-Cooper: 
+I’d love to ask more about reality and those layers, but first, could you share the protocol you followed and what the path looked like as it went along?
 
-of Philosophy and Religious Studies at Youngstown State University, where he taught for 33 years.
+Chris Bache: 
+I was just out of graduate school in 1978 when I read Stan Grof’s first book, Realms of the Human Unconscious, published in 1976. I immediately recognized the significance of Stan’s work for my discipline, philosophy of religion. I’m not a psychologist or therapist and was never particularly interested in therapeutic applications as Stan was; I was drawn to the philosophical implications.
 
-An award-winning teacher and international speaker, Chris explores the philosophical implications
+Recognizing a call, I began work that lasted 20 years—four years of very intense work, a six-year hiatus, then another 10 years of intense work. I chose high doses of LSD—500 to 600 micrograms. I don’t recommend this today, and if I were doing it over, I’d be gentler: lower doses and a wider spectrum of psychedelics. I chose LSD because it was the substance Stan had done most of his research on, and I trusted that research. This was 1978—pre-Ayahuasca, before the broader appreciation of organic psychedelics used in shamanic traditions.
 
-of non-ordinary states of consciousness, especially psychedelic states. Today we’ll focus on ideas
+I was still thinking within a model of personal transformation and spiritual awakening. The traditions teach that our karma is finite. If LSD psychotherapy was a process of cleaning one’s karma—unearthing problematic material from the personal unconscious and clearing it—I thought high doses would clear my karma in fewer sessions, taking a bigger bite out of the apple each time. That assumption was completely wrong. The idea that the process was primarily about personal transformation was a mistake. Collective dimensions of the psyche surfaced in my work quickly—after just a couple of years—and broader ramifications of entering into communion with the universe presented themselves soon thereafter.
 
-from his book *LSD and the Mind of the Universe*, the story of 20 years and 73 high-dose LSD sessions.
+My protocol followed Stan’s therapeutic regimen outlined in LSD Psychotherapy: total isolation with a sitter; lying down with eye shades and headphones; a carefully curated playlist; staying internalized all day—from early morning through evening—and making detailed records the day after. That was the protocol.
 
-Welcome, Chris.
+Luc Briede-Cooper: 
+I know you’ve since worked with psilocybin and ayahuasca. In your book you note LSD’s longer window can “buff the diamond” longer, so to speak. Some newer medicines vary widely—Ibogaine with 24–48 hours of activity versus 5-MeO-DMT at 15–20 minutes. Would Ibogaine be a better contender for spiritual awakening, if not for cosmological exploration? And what might a protocol look like with something like 5-MeO-DMT?
 
-**CHRIS BACHE:** Thank you, Luke. It’s good to be here with you.
+Chris Bache: 
+I’ve never used Ibogaine, so I’m not qualified to compare its function or value. Beyond the time window, each psychedelic has a distinct texture—the spectrum of consciousness it opens varies.
 
-**LUKE:** Awesome. I thought we’d trace a path many people follow with psychedelics. Often it starts
+On the window: reflecting on DMT research—Rick Strassman’s DMT: The Spirit Molecule—his clients often weren’t deeply changed by very significant DMT experiences. Comparing his data to mine, I think what happens is you’re using small mind to explore big mind. A long window gives the large field more time to interact with the small field and do the cleansing and purification needed for deep experiences of cosmic reality. With very short-acting psychedelics, there’s less time for the large consciousness to impact and be absorbed by the smaller consciousness, so there’s less transformative effect. That’s just the window—there are other psychopharmacological variables.
 
-with microdosing for productivity, then moves into therapy, then spiritual awakening. You took a step
+5-MeO-DMT is remarkable. In high doses it gives quick access to very deep realities, but the time there is short. I don’t have a lot of experience with 5-MeO and don’t work with it clinically. I know it has transformative value, but I’m not comfortable comparing its transformative potential to LSD’s beyond noting the relation between time window and opportunity for transformation.
 
-beyond awakening. Could you tell us about that?
+Luc Briede-Cooper: 
+One thing that stood out in the book was how non-exaggerative it is—maybe that’s your philosophical inclination. I really appreciate that.
 
-**CHRIS BACHE:** I call that step “cosmological exploration.” It overlaps with healing and awakening,
+Chris Bache: 
+Thank you. It’s a huge challenge to document 20 years of dramatic experiences. I chose to keep close to the phenomenology—to the experiences—because they were more valuable to me than anything I might say about them. The raw experiences themselves.
 
-but it’s different. Spiritual awakening cleans the system so we can abide more transparently in our
+Luc Briede-Cooper: 
+You don’t recommend others do what you did. Reading the book, I was initially inspired by your courage, but by the end I understood your caution. Still, psychedelic use for spiritual awakening seems inevitable for many people. For those not pursuing cosmological exploration but spiritual awakening, what protocol or structure would you recommend for a slower path, and how might that integrate with slow-burn traditions?
 
-essential nature—what Buddhists call Buddha-nature, others call divine nature. Cosmological exploration
+Chris Bache: 
+I’ll make a suggestion, but I’m not a clinician and made a conscious choice not to work with others—just a solitary explorer pushing my system hard and making a map of the dimensions I entered. That doesn’t give me much experience guiding others.
 
-seeks the deep structure of consciousness and the universe: how reality works, why things are the way
+For spiritual awakening, I’d recommend very low doses. Awakening is about dissolving the glue that holds the ego in place—dissolving structures that keep us fixed in repetitive patterns of thought and emotion. You’ve got to ferret out the ego where it lives in the world. I think this is done well with low doses of LSD combined with sustained meditative practice, occasionally doing more to challenge the boundaries of consciousness. But if the goal is awakening, low doses with steady practice would be the way to go.
 
-they are, and what the deep cosmic architectures are.
+Luc Briede-Cooper: 
+Many people report getting just the right experience at the right time. In your journeys you describe a sense of guidance. Could you speak to that?
 
-**LUKE:** I’d love to ask about those layers of reality, but first the path and protocol you followed.
+Chris Bache: 
+I always felt myself engaging—and being engaged by—a larger consciousness. It didn’t take concrete, personified form. Its core qualities changed as I went deeper. The way I think of it: the consciousness we enter into in psychedelic states is an infinite consciousness capable of generating any number of experiences. Our mind acts as a seed crystal that catalyzes certain experiences from this infinite field.
 
-**CHRIS BACHE:** In 1978, fresh out of graduate school, I read Stan Grof’s *Realms of the Human Unconscious*
+If you do this repeatedly, as you integrate experiences and undergo purifications, your consciousness changes. The consciousness you take into the next encounter catalyzes a deeper set of experiences from the infinite potential. What you experience as a guiding intelligence arises at the intersection of your individual mind and the universal mind; as you change, that intersection changes. The guiding consciousness felt constant to me but remained formless, seldom adopting concrete form—because forms would change as the experiences deepened.
 
-\(1976\) and immediately recognized its significance for philosophy of religion. I’m not a therapist; I’ve
+Going beyond the collective psyche—even beyond human history—you move beyond Jung’s archetypal categories. The images and concepts of our religious history fall away—thousands of years of religious forms just fall away—and you enter states beyond gods, deities, and angelic beings. Always guidance, always an intelligence engaging me—but formless.
 
-always been drawn to the philosophical implications. Answering that call, I began a 20-year project:
+Luc Briede-Cooper: 
+I’d like to ask about the forms that can appear. “Entity encounters” is something many people search for. You explore this in the book and speak about devotion and entities. For example, someone I met described encountering Ganesh, the elephant god of Hinduism. People often ask, “What is the meaning of what I experienced?” How do you reflect on encounters with deities or recognizable forms?
 
-four years of intense work, a six-year pause, then ten more years.
+Chris Bache: 
+I don’t consider my experiences normative. There are many medicines, many ways of using them, and many personalities engaging an infinite depth of consciousness—no single map fits all. I’m interested in others’ experiences in a nonjudgmental, supportive way.
 
-I chose high-dose LSD—typically 500–600 micrograms. I don’t recommend that approach today.
+When we tap qualities like infinite compassion, intelligence, or creativity—qualities historically associated with deities—it’s not surprising our minds associate the phenomenology with cultural forms we’ve been exposed to. Sometimes we encounter deities outside our lineage, even ones we didn’t know about, yet they appear in a culture’s form—Ganesh, Jesus, Mary, the Prophet Muhammad, and so on.
 
-If I were doing it over, I’d be gentler, use lower doses, and include a wider spectrum of medicines.
+My sense is that we may be engaging a collective thought form—or a spiritual principle wearing the clothes of a collective thought form. If millions of devotees pray and offer devotion to a deity over thousands of years, that devotional focus creates a structure in the collective psyche—a collective thought form. I don’t minimize these; they can be extraordinarily powerful, as can secular thought forms like greed, power, anger.
 
-Back then, this was pre-ayahuasca for most Westerners, and I trusted Grof’s LSD research.
+When we encounter a deity, we may be meeting a formless spiritual principle wearing a collective garment, or the garment itself. Either way, the collective psyche is implicated. It’s also possible to go beyond all collective thought forms and beyond human history; when one does, those forms tend to fade. There’s much discussion of entities, especially with DMT and derivatives. I’m not suggesting they aren’t real, but to me they reflect levels of reality. As you go deeper, the granular quality of many individual beings tends to yield to less granular levels—fewer individuated beings—and then opens into vast tracts of consciousness that are less entity-like. That’s been my experience.
 
-My early assumption was: if karma is finite, then bigger doses would clear more in fewer sessions.
+Luc Briede-Cooper: 
+You describe a transition—relatively quickly—where the journey shifts from being about the individual to being about the collective. Certain things became obvious to you, like the fact of reincarnation and past lives. What were the different levels you moved through, and how did your experience change as you went deeper?
 
-That turned out to be wrong. The work quickly opened into collective dimensions, and communion with
+Chris Bache: 
+Two people changed my life as I began my academic career: Stan Grof, whose work we’ve been discussing, and Ian Stevenson at the University of Virginia—the Charles Darwin of reincarnation. He tracked small children with spontaneous recall of former lives in sufficient detail to exclude normal explanations, publishing book after book. Stevenson convinced me reincarnation is a fact of life, even before I was deep into my psychedelic work. That understanding was later affirmed and deepened by my experiences.
 
-the universe at large presented itself.
+As for levels: working at very high doses, it took about 10 sessions to pass through what Stan calls the perinatal level—the interface between personal and transpersonal consciousness, the basement of the personal psyche and doorway to spiritual reality. One goes through many death experiences, sometimes reliving one’s birth, confronting existential anxiety about whether anything good exists beyond the physical. It culminates in ego death, after which you move into consciousness beyond anything explainable by personal history.
 
-Protocol-wise, I followed Grof’s *LSD Psychotherapy*: total isolation with a trusted sitter; lying down
+At that point, instead of easier access to spiritual reality, the Death-Rebirth cycle repeated at a different level. I began having massive collective experiences—collective rage and anguish—for another two years, maybe 10 to 12 sessions. At first I thought this was just a deepening of personal ego death, but the content was so inherently collective, and it went on so long, that I concluded the “patient” wasn’t me personally; it had become my human family. I was being drawn into collective COEX systems that hold the pain and suffering of human history. Just as an individual psyche gathers trauma in COEX systems, our species gathers its trauma in vast collective COEX systems—what I call meta-matrices.
 
-with eye-shades and headphones; carefully curated music; staying inward from morning through evening;
+It took a long time to accept, because it sounded arrogant—as if my sessions were impacting humanity’s psyche. But it wasn’t that; it was simply following the natural deepening of the Death-Rebirth cycle: it churns at the personal level, then at the collective level. It culminated in an orgy of pain and the ocean of suffering, and then it spun me into archetypal reality. The ocean of suffering never returned after that point. There were further intense purifications, but that collective ordeal stopped, and I entered another cycle. My book Dark Night, Early Dawn explores why these collective experiences were showing up in what I thought was individual therapy.
 
-then making detailed records the following day.
+Luc Briede-Cooper: 
+For those who don’t know, COEX—Stan Grof’s term—refers to systems of condensed experience: stacks of biographical traumas down to perinatal layers, and deeper into transpersonal material, all sharing a feeling tone.
 
-**LUKE:** You’ve since experienced psilocybin and ayahuasca. In the book you noted LSD’s long window lets
+Chris Bache: 
+Thank you. A system of condensed experience—an aggregate of memories, fantasies, and experiences around a theme in the individual. Meta-matrices suggest the same dynamic at the collective level.
 
-you “buff the diamond” more. Ibogaine runs 24–48 hours, while 5-MeO-DMT can be 15–20 minutes.
+Luc Briede-Cooper: 
+Do you relate that to ancestral healing, or is that different from family trauma?
 
-Would ibogaine’s long window be better for awakening? And what might a 5-MeO protocol look like?
+Chris Bache: 
+Variations on a theme. Both are trans-individual. Ancestral work is still within an individual’s lineage—some biographical line. I haven’t done much ancestral work, so I don’t want to overreach. For me, the work moved quickly into soul reality. The soul jumps historical lineages—the soul has been every race, every culture, every occupation across history. It broadened quickly into the human story. Others do work with ancestral trauma in a more linear way. There should be a relationship between the meta-matrices of human trauma I experienced and what others experience as ancestral trauma.
 
-**CHRIS BACHE:** I haven’t used ibogaine, so I can’t compare beyond the window. Each medicine amplifies mind
+Luc Briede-Cooper: 
+Maybe the difference is biological and socially transmitted trauma passed from parent to child versus the Soul—capital S—as the collection of awareness across multiple reincarnated lifetimes. Does that resonate?
 
-with its own texture and spectrum. Regarding window length, Rick Strassman’s *DMT: The Spirit Molecule*
+Chris Bache: 
+Potentially, yes. One day we’ll understand this much more. We’re at the edge—collecting phenomenology. Interpreting this complex new terrain will take time.
 
-showed that powerful DMT experiences didn’t necessarily produce deep lasting change. My take is that a longer
+Luc Briede-Cooper: 
+You mentioned species mind and entering the ocean of collective suffering. Where do animals fit into this?
 
-window gives big mind more time to interact with and purify small mind—allowing deeper transformation.
+Chris Bache: 
+Of course, many psychedelics open powerful experiences with animal species—the totems of various species, the planet filled with the minds of these beings—not just individual animals, but aggregates of mammalian mind and so on. That hasn’t been the thrust of my experience. Mine has really been working with human consciousness, but the nature of those experiences completely opens me to the reality of animal consciousness in many forms. I think the reason I’ve been focused on human consciousness—reasons not of my choosing, just being driven at a deeper level—is that humanity represents the greatest danger to life on this planet. We are the life destroyers. We are the driving force of the Sixth Extinction. If we can heal humanity, then all the other animals and life forms will be safe. That has been the focus of my work. Other people have been retrieving the consciousness story of other life forms—even rock, insect, bird, and fish life forms—absolutely essential work. It just hasn’t been my personal work.
 
-Short windows can grant rapid access to very deep states, but there’s less time for integration in situ.
+Luc Briede-Cooper: 
+It’s very interesting. I recently read Levels of Energy by David Hawkins. I don’t know if you’re familiar with it, but his basic point is that he uses a method to, in his framework, assign a number to the level of consciousness—or energy—of a being, object, mineral, whatever. Interestingly, a bacteria lands somewhere very low on his scale, a three or something like that. I don’t know what comes first: acknowledging the consciousness of animals and working our way “down,” or acknowledging consciousness above us. Either way, they seem to make each other more apparent.
 
-5-MeO-DMT is remarkable and can open very deep realities quickly, but I’m not comfortable rating its
+Chris Bache: 
+Let’s imagine there are as many levels of consciousness “below” us—simpler and simpler through the evolutionary tree—as there are above us. We’re not the top of the chain; we’re maybe somewhere in the midpoint.
 
-transformative potential against LSD beyond saying that window length matters. Many variables are at play.
+Luc Briede-Cooper: 
+An image comes to mind—I think you mention this at the end of the book—that our ascension in consciousness is like a pulling down of something from a higher level. I wondered how that works for our tissue cells: they’re reliant on us, we’re reliant on them—there’s this bottom-up, top-down relationship. Speaking about levels again, I think we touched on breaking through to what you called archetypal reality. You mentioned that at that jump, your sense of the realness of everyday life shifted. Did your sense of reality change continuously, in certain jumps, or maybe just that one jump? How did your sense of reality shift?
 
-**LUKE:** One thing I appreciated in the book is how close you stayed to the phenomenology, not over-interpreting.
+Chris Bache: 
+My sense of reality changed repeatedly at different levels. When everything was said and done—processing and organizing the experiences to share them—I differentiated five core levels of consciousness: personal mind, collective mind, archetypal mind, causal oneness (the causal mind), and Diamond Luminosity. They overlap, and it’s somewhat arbitrary where you draw the lines, but those are the divisions.
 
-**CHRIS BACHE:** That was intentional. Presenting 20 years of dramatic experiences is a challenge. I chose to stay
+The jump from personal consciousness into collective reality was significant. It was like seeing how reality is organized at a higher altitude. When that culminated and I was spun into what I called archetypal reality, it was a quantum step into a deeper modality. A striking feature over the next year and a half was repeatedly entering a reality that felt more real than time and space—dealing with phenomena more real than my personal existence or even time-space itself. This touches an ancient idea we trace back to Plato: arche-structures that create and inform time-space reality. He conceived them as eternal, unchanging ideas in the mind of an eternal deity. That’s not how I experienced them. I experienced them as living entities moving in time, but on a completely different scale.
 
-close to the raw experience because, for me, the phenomenology was more valuable than any interpretation.
+An analogy that came up: think of the earth spinning quickly, then spinning around the sun, and then the galaxy moving incredibly slowly yet vastly—always moving. Archetypal reality was like that. These archetypal beings—so far as I could experience them clearly—were vast living structures on a completely different order of causality and time. I could not wrap my mind around them. I experienced enormous living intelligences, and the best my mind could do was to represent them as galaxies. We’ve all seen Hubble’s images—billions of light-years across, billions of stars. That’s just how my mind framed it. I couldn’t penetrate beyond that; they were too big and foreign to give them coherent form.
 
-**LUKE:** You don’t recommend people do what you did. Yet many will still use psychedelics for awakening.
+At a lower level of archetypal reality—call it a Jungian level—I repeatedly experienced the human psyche and the human species as a single integrated organism, with physical and mental networks connecting it like neurology. I was shown how the individual is hardwired and soft-wired into this matrix, how the species mind informs our individual consciousness, and how our individual work reaches out to inform and structure future species consciousness. I saw that each of us carries a holographic, fractal piece of the diseases of our time—mental and physical—and as we heal ourselves, we contribute to healing the collective psyche. In that sense, you could say the collective psyche is more real than the individual psyche, though I’d put it differently: the individual is real; the collective is real. They operate on different scales and are mutually implicated. And both are transcended by Platonic, archetypal levels radically beyond our human collective psyche.
 
-What slower, safer structure would you suggest that also harmonizes with “slow-burn” traditions?
+From archetypal reality and beyond, everything was about entering deeper levels of what is real. We’re not used to thinking of physical reality as surface real, with deeper structures being more real—but quantum theory is comfortable with that, string theorists are comfortable with that. We should be comfortable with that in psychology.
 
-**CHRIS BACHE:** With the caveat that I don’t guide others clinically: for awakening, I’d emphasize low doses,
+Luc Briede-Cooper: 
+There’s something intuitive about that. People do have experiences of degrees of reality sometimes. Sticking with the reality point for a minute: there’s depersonalization/derealization disorder—rare as a disorder, but more than 50% of people experience at least a moment of derealization in their lifetime. There’s also schizophrenia, which has an interesting relationship to mystical visions that Jung noted, and psychedelics can induce or worsen schizophrenic symptoms. The visions in schizophrenia can overlap with psychedelic visions. I’m curious: did your sense of mental illness change after your journeys?
 
-because awakening dissolves the glue of egoic patterning. Pair low-dose work with sustained meditation,
+Chris Bache: 
+That’s a complicated topic and better answered by someone with psychedelic experience who is a clinical psychologist or psychiatrist—people with more training in pathology. It has changed some. Was it Huston Smith who said, “A mystic learns to swim in waters that the psychotic drowns in”?
 
-occasionally going deeper to challenge boundaries. The goal is steady unbinding, not fireworks.
+Luc Briede-Cooper: 
+I think that was Joseph Campbell.
 
-**LUKE:** Many people report “just the right experience at the right time,” as if guided. Did you feel guided?
+Chris Bache: 
+What we have in common is opening into a reality beyond private or personal reality—a larger expanse that can be very destructive if you’re not ready. It can be injurious, traumatic, tumultuous; it can churn things up just opening to collective dimensions. That’s why, like all psychedelic therapists, I emphasize accessing these dimensions in carefully controlled circumstances with therapeutic support. This work is not advisable for a wide range of people; it’s not universally safe. It depends on many variables. There are screening criteria to identify good candidates, and that’s just part of the regimen.
 
-**CHRIS BACHE:** Always. I engaged—and was engaged by—a larger intelligence. It never crystallized into a personified
+I’m less interested in refining my understanding of disease and pathology, except in broad terms—recognizing that people can have legitimate access to transpersonal reality in ways that fracture their ability to function in the ordinary world. I’m more interested in differentiating those lower-level confusions between individual experience and larger planes of reality from breakthroughs where we begin to enter larger horizons—but either because our original equipment is sufficiently strong or our methodology sufficiently rigorous, we don’t experience them as traumatic or confusing. We experience them as clarifying—not the clarifying of an illusion or delusion, but truly, metaphysically clarifying—great spiritual and philosophical initiations into the deeper fabric of reality. The felt sense of that is very different from the tumultuous confusion that can arise in a pathological context.
 
-form and changed quality as I went deeper. I think our mind acts as a seed-crystal that catalyzes certain
+Luc Briede-Cooper: 
+You mentioned the five levels—the personal, the collective, the archetypal, the causal oneness, and the Diamond Luminosity. Could you take us up through those? I know you’ve said elsewhere it’s a hard question to talk about, so I won’t press too hard.
 
-expressions from an infinite consciousness. As our mind transforms through repeated encounters and integration,
+Chris Bache: 
+We’ve gone into archetypal reality and the collective dimension. In my experience, after about a year and a half—11 or 12 sessions, not much time given how vast archetypal reality is—I moved through it fairly quickly, not its breadth but penetrating through, and then entered yet another death and rebirth. It was a dying out of the greater real into an even greater real—letting go of another layer of assumptions—and entering a year of tremendously powerful experiences that I grouped as causal oneness.
 
-the intersection changes, and so does what arises. The guidance was palpable yet formless.
+When we first enter transpersonal or spiritual levels, our experiences are highly conditioned by time-space. In time and space, we exist as separate individuals, so we tend to experience spiritual reality as composed of separate individuals—souls or entities without bodies, but still granular. If you go deeper—from the psychic to the subtle, using Stan Grof’s categories—the units of consciousness become larger. You’re still in levels that are dualistic—more than one present—but the entities become increasingly large: species consciousness, earth consciousness, angelic realms. You move from a level highly conditioned by time-space into a deeper level less conditioned by it.
 
-Beyond the collective psyche and even beyond human history, interpretive frameworks fall away.
+At the causal level, the distinctive quality is that the entire universe is experienced as a single organism. Oneness is a core truth and manifests at many levels; I don’t mean to over-differentiate or suggest it’s literally climbing a ladder. But my experience unfolded that way. When you experience the world as one, it’s not just intuiting oneness; you literally dissolve into the universe as it appears to experience itself. At that level, there are no separate objects. There are gradations and differentiations, but they arise within the tapestry—the matrix—of oneness. That’s what I mean by causal oneness: a reality beyond archetypal divisions in which the world is a single fabric of reality, and all other realities—star realities, galaxy realities, personal and collective psyches—appear as organs within that larger oneness.
 
-Images of gods, angels, and religious concepts dissolve. You enter terrains past Jung’s archetypes, where
+In that context I had deep experiences of what Buddhists call shunyata—emptiness, transparency. As the scriptures put it, the Buddha awoke and saw no-self in himself and no-self anywhere in the world. We usually experience the world as separate entities and ourselves as one of them. From the causal perspective, you don’t experience yourself as a separate self, and you don’t experience a separate self anywhere. What is the world then? A living, thriving singularity—a single organism. There were experiences of that, of cosmic love—the emotion of oneness—and of the primal void out of which the universe arises in the Big Bang. Part of this period was the birth of the diamond soul: learning where reincarnation is taking humanity, where this singular consciousness is taking our tiny species on this tiny planet in this tiny solar system. That’s causal reality: a deep encounter with the oneness of life.
 
-no historical category applies. Guidance remains, but without form.
+After about a year and a half at that level, I went through yet another death-rebirth. It’s not ego death again—not collective ego death—but a deeper dying and rebirth. I was brought into states I experienced as hyper, hyper crystal clear—clarity beyond imagination. Experiences of light—though I had known light many times before—yet this was an exceptionally clear form of light, just striking. My ordinary mind felt gauzy and shadowy compared to this; even collective and archetypal mind felt like shadows compared to this. Over the next four years I entered this state only four times in 26 sessions. In between were many episodes of cleansing, healing, purification—because to maintain clear cognition at deeper levels you must purify, acclimate your system to the levels of energy and reality you’re entering. Every time I entered a deeper level, I entered a higher level of energy, and had to purify; otherwise my experience wouldn’t be clear or memorable. You have to train yourself to maintain cognitive coherence at these depths; otherwise you get glancing insights, short touches, but you can’t stay there for hours.
 
-**LUKE:** On forms: entity encounters are a popular topic. Someone told me they met Ganesh. What’s the meaning
+I went into the Diamond Luminosity and deeper into it for two of those four sessions, and then things changed. I had a particular experience, and from that point on I wasn’t going deeper into Diamond Luminosity; the Diamond Luminosity was pressing more deeply into my physical, mental, psychological, and emotional body. Then I had one of the last big visions of the journey, and it wrapped up—two more sessions, and the universe kind of said, “Sayonara.”
 
-of encountering a particular deity?
+Luc Briede-Cooper: 
+Amazing. One of the striking takeaways for me was the shift in understanding ineffability—that difficulty finding language is about stabilizing and familiarity, not an inherent impossibility of understanding. Another was your section “Beyond the Diamond Luminosity and the humor of the failure of language”—going from “clarity beyond clarity” to “hyper clarity,” “the light beyond all light,” “absolute light.” It pointed to there being not just more, but potentially an infinite number of levels.
 
-**CHRIS BACHE:** I don’t consider my experiences normative; medicine, method, and personality all vary. Still,
+Chris Bache: 
+That was a major turning point for me. Setting the stage: I’m 15 years into the journey. I’ve gone through the ocean of suffering, ego death, archetypal reality, many experiences of causal reality. Then I’m dropped into this infinitely satisfying, clear Diamond Luminosity—what Buddhism calls Dharmakaya, the clear light of absolute reality. The second time I’m in that reality—the 50th session—I’m as deep into the universe as I’ve ever been. I couldn’t ask for anything more. Suddenly my visual field pivoted 90 degrees, and I saw a reality far, far in the distance—again, it looked like galaxies. Out of that reality, a beam of light came and hit me, and it absolutely shattered me. It was more powerful than even the Diamond Luminosity that had been my ultimate reality. In one second, it completely changed my understanding.
 
-when we touch infinite compassion, intelligence, or creativity, the mind may clothe those qualities in forms
+I had adopted the belief, from multiple sources, that there was an end point to this work—you become one with God, or dissolve into the primal void. I had become one with God in many variations and entered the primal void, but I still carried the sense of an end point, and I was pushing hard to get there. I don’t know what I expected, but I knew it would be good. That session showed me it’s an infinite universe. I’ll never get to the end of it. Fifty high-dose sessions in, and I was shown a glimpse of a reality far beyond anything I would reach in this lifetime. At that point I let go completely of reaching an end point. The work shifted to absorbing as deeply as I could the reality I was being opened into—bringing it into my personal being.
 
-we know—Jesus, Mary, Ganesh—or in forms from traditions we’ve never studied. I understand these as spiritual
+If I were doing this again, I would be gentler with myself. One reason I pushed so hard was adopting a false belief that there is an end point. I should be careful—there are homecomings, with tremendous ecstasy and joy. But even those, in my experience, are not ultimate. They’re markers on a longer journey. I’d hold a different orientation toward the purpose and value of these exercises.
 
-principles wearing the garments of collective thought-forms, built by millennia of devotion, imagery, ritual,
+Luc Briede-Cooper: 
+Following that thread—coming back down the mountain—after these experiences you had a vision of the future, of what may be coming. Could you tell us what that was like, what it looked like, and how it’s evolved for you since? I know that since you published the book, the COVID pandemic happened.
 
-and prayer. Those forms are powerful. Sometimes we meet the principle itself through that garment; other times
+Chris Bache: This was not so much coming down the mountain as still climbing it. It actually started when I was in the end stages of the Ocean of Suffering work. In the chapter The Initiation of the Universe, I began being given visionary initiations into the human story and the stages of human evolution. The story I was being initiated into was that humanity was coming to a turning point in its evolutionary development—a major transformative pivot that would change life on this planet. Over four years in the early to mid-1990s, I had a series of what I call the Visions of Awakening. They showed me a historical process trying to awaken not just individuals, but the entire species—a truly collective transformation. Not simply our psychological well-being or some layer of psychological truth, but the fundamental plate tectonics of the archetypal structure of the deep psyche undergoing a revision, a transition.
 
-we meet the garment directly.
+For four years these visions kept coming, which surprised me because I had thought my work was about personal transformation. Yet these visions were consistently about collective transformation. Nowhere was I shown how nature was going to pull this off—how the divine or whatever you take to be the driving force would bring about this profound transition. Then in 1995, in the middle of the Diamond Luminosity work—I had entered it twice and had done another year of purification—I expected to be taken back into the Diamond Luminosity. That’s not what happened. First, I dissolved radically into the species mind. I’d gone into that territory before and had learned how to go through it, so I ceased to function as Chris Bache and began to function, at some core level, as the human species. I was also taken deep into deep time—deeper than I had gone before.
 
-It’s also possible to go beyond all such forms. In my DMT-like encounters, entities appeared at certain strata,
+In that session, I experienced the death and rebirth of humanity. I experienced a global crisis we were coming into, as the species would experience it. It didn’t give me details—no when, where, how. It showed me the fact of the crisis, that we would make it through, and certain key insights into the mechanisms of transformation involved. Humanity was coming to a turning point in its history—a profound unraveling, a deconstruction of reality as we had known it, an undoing of our assumptions. It seemed as if this was a global systems crisis driven by a series of ecological crises. I should say this was 25 years ago. I knew next to nothing about global systems crises or ecological crises. I was naive. But what I experienced was humanity reaching a point where we lost control of our lives, were unable to control the reality of our lives, and were on an extinction trajectory. Just when it reached its peak, we crossed a threshold, the danger began to subside, and on the other side of these years—decades—of crises, we began to pick ourselves up.
 
-but as work deepened, granularity diminished. Populations of beings give way to vast, less-segmented fields
+As we reorganized, we found we had been profoundly, deeply, permanently changed at the core level of our collective psyche. The crisis opened our hearts to one another and our minds to the universe in a way that was collectively unprecedented. As we interacted in this post-crisis reality, there was a synergistic feeding of patterns and trends, circulating around new values, new perceptions of the good, new understandings of life, ourselves, the universe, and new capacities opening within the human heart and mind. Then in the 70th session—what I refer to as the last visionary experience—I was taken deeper into deep time and given one last coda on this trajectory. The net result was that I came to see we were in the process of giving birth to our next evolutionary form—the next higher form of being a human being.
 
-of consciousness.
+If you ask, What will the future human look like? I think the key is understanding reincarnation. I was shown experientially where reincarnation is taking humanity. This was different from the Eastern traditions I had assimilated in graduate school, where you grow, achieve a breakthrough to your individual essence—Atman is Brahman—achieve moksha, escape samsara, and enter parinirvana, leaving the physical universe behind. What was paramount in my sessions was not that. It was the vision that we grow and change—hopefully more compassionate, more understanding, more talented—and that there comes a time… Well, the way I understand reincarnation—
 
-**LUKE:** Early on you shifted from “about me” to “about the collective,” and reincarnation became obvious.
+We die, we expand into soul consciousness, we choose to incarnate, we contract into egoic consciousness. We expand into soul consciousness, come back into egoic consciousness. We’ve been doing this for tens of thousands, possibly hundreds of thousands of years. If we do that, sooner or later soul consciousness wakes up inside individual historical consciousness. At a critical point in one journey, all my former lives started to come back into me. I’d done past-life therapy and knew a dozen or so in detail, but this was different—all of them started to return. At a certain point they reached a critical mass, there was an explosion of energy, and that energy fused those individual lives into a single consciousness. I was catapulted into a form of individuality beyond anything I had understood.
 
-What levels did you move through, and how did experience change?
+I think that’s what’s happening to us on this planet. We have been gestating the future human for thousands of years, and we are about to give birth to that future human in history—in this century, I believe. Gestation is long; birth is very short and traumatic. I think we’re entering a traumatic, very painful, very difficult time—the way labor is difficult. Based only on my psychedelic experience, I believe we make it through, we are deeply changed in the process, and we grow up into our next evolutionary form. On those few occasions when I was allowed to experience the future human, they were profoundly ecstatic—totally humbling. A radically transformed humanity coming out of this process. The chapter “The Birth of the Future Human” is, I think, the most important chapter in the book because, if it’s true, it concerns your children, my children, our grandchildren. It concerns all of us at a very deep level.
 
-**CHRIS BACHE:** Two thinkers shaped me at the outset: Grof and Ian Stevenson. Stevenson’s careful cases of children
+It also helped me understand some historical currents in this context. Covid, to me, is a little shot across the bow—an overture, not the real symphony. A taste of how vulnerable we are to deep disruption and how quickly the structure of our society can pivot. That’s what we should be learning from Covid—our interdependence and how much we have to work together to rise to the challenge that’s coming. The challenges will be much deeper than Covid, longer lasting, more serious, and more life-threatening.
 
-with verifiable past-life memories convinced me of reincarnation before my psychedelic work, and my sessions
+Luc Briede-Cooper: Thank you. The vision is very powerful. I didn’t have the vision, so I can’t speak to it directly, but there are obvious signs—ecological signals, and a lot of literature on systems crisis and vulnerability. We see it financially too. When Covid happened, one of the things we saw here in Canada was toilet paper running out—everyone rushing for it. A little hint at how quickly things can happen. What comes to mind is a proverb—I think it’s Chinese, or maybe Einstein—that the world will be good when people are willing to plant trees whose shade they will never see. Something clicked when you spoke about souls fusing—about understanding that we will have reincarnations in the future, and so we’ll actually be on this planet when we die again. So something very intuitive.
 
-greatly deepened that understanding.
+Chris Bache: Change, isn’t it? American traditions of making decisions based on how they impact seven generations recognize that we will be those generations. The earth we leave is the earth we inherit. It broadens our sense of responsibility. Grant Ellison says we have to move from being a species stuck at the adolescent level to the mature adult level. As mature adults, we look at the broader impact across society and through history of the choices we’re making. We can no longer afford to run this planet based on egoic consciousness. The culture we have created, the history we have lived, has been created by the ego. I know the ego gets a bad rap in spiritual traditions, but to me it’s an exquisitely beautiful structure of consciousness. It’s fundamentally isolated, though. It doesn’t really experience the deeper fabric of our connective tissue. We can no longer afford to have this planet run by human beings operating only at an egoic level of consciousness, because that inevitably creates push–pull—wars, upper classes and lower classes, those who have and those who don’t, the privileged and the unprivileged. We need to grow up into our soul consciousness, knowing that our soul has experienced lives as all the races, nations, and classes on the planet—all alive within us—and make our choices from that level of consciousness.
 
-As for levels: working at high dose, it took roughly ten sessions to move through the perinatal layer—the
+Luc Briede-Cooper: I can only imagine what that would be like. I’ve got something for you—a gift. In the book you write, “I saw the future human standing up, and this seems significant. Against the background of many seated Buddhas, this being was standing upright.” You mentioned your art is writing. Others, like Carl Jung, used visual art to render their visions. One tool we have now is AI art, where you can put in prompts and receive images. I just emailed you an AI image I generated of that scene, as best as I could represent it.
 
-interface between personal and transpersonal consciousness. There you encounter death-rebirth, relive birth,
+Chris Bache: I see it. That’s beautiful. My sense is that in history we’ve hit the meditating Buddha. The meditating Buddha—or any meditating being in an awakened condition—gets quiet on the outside in order to still the mind so it can penetrate through the layers and touch the deeper sense of reality. A standing Buddha incorporates the clarity of that sitting posture but with the dynamism of standing, walking, and acting. I think that’s where we’re going. It’s not simply about waking up; it’s waking up and acting on that awakened consciousness and bringing it forward. Thank you for that image. It’s really beautiful.
 
-face existential dread, and undergo ego death. I expected easier access to spiritual reality afterward, but
+Luc Briede-Cooper: Awesome. It’s a very large-scale one, so feel free to do whatever you want with it. We’re shifting now. I’ve got some specific things I want to ask you. I’m glad we’ve covered this, because it contextualizes what follows. I’m interested in bringing those concepts and experiences back down to the here and now—operating at this level of consciousness. We contend with traditions handed down to us. We’re born into this life and see religions, paths to follow, deities to worship—many choices in how to navigate the world. That’s been a strong personal question for me: How do I want to walk in life? So, how has your understanding of God and religion changed through your journeys, and how might that relate to the lack of one ultimate level and meta-coexistence?
 
-the cycle repeated at a different altitude. Intense collective anguish rose for another year or two.
+Chris Bache: That’s a big question. I was a religious studies professor. My first vocation was wanting to be a Catholic priest. I was raised Roman Catholic and spent four years in the seminary. The Catholic tradition treated me well; no trauma. Then I did an undergraduate degree in theology at Notre Dame, a master’s in New Testament criticism at Cambridge, and philosophy of religion at Brown. By the time I finished graduate school, I had pretty much studied my way out of religion altogether. I recapitulated the transition from medieval Catholic theology to the scriptural revolution in Protestantism, to the scientific critique of religion in the modern mind. I finished a fairly sophisticated agnostic with very high standards for any conceptualization of something beyond time and space—something approximating God.
 
-At first I misread it as “deeper personal ego death,” but the content was irreducibly collective. The patient
+I let go of concepts of God. Having studied multiple religious traditions, I began to understand their common threads and their differences, and how religions came into existence. They say dogma is like sausage—you really don’t want to see it made. When you watch how dogma is created historically, it’s so filled with human errors and foibles you don’t want to eat that kind of stuff. I scrubbed my mind of theology and deities. That was the mind I brought to psychedelic work.
 
-wasn’t me; it was, in some fashion, the human family. Vast collective coex systems—what I called meta-matrices—
+The psychedelic work initiated me into the reality behind those concepts. It took me into the spiritual reality that had given birth to these approximations. On the one hand, it led me to affirm the reality of the deeper intelligence that lies behind physical existence. On the other, it did not lead me to affirm any individual lineage of deity or teachers—even collectively. The nature of my experience was to transcend the collective religious enterprise. It drew me into a reality of the divine so far beyond our historical attempts to conceptualize it that, truly, “spiritual, not religious” applies. I don’t relate devotionally to any of the religions on the planet, while I respect them and the polishing they can give human nature. My psychedelic experiences took me into a world beyond that world.
 
-held the species’ suffering. After a culminating “ocean of suffering,” that quality ceased, and I was spun into
+So I affirm a divine intelligence—though I don’t like the word divine—which is why I talk about the mind of the universe. I’d rather speak in those categories than in theological categories: an extraordinary infinite intelligence and infinite compassion that gives birth to existence and embodies itself—the physical universe as the body of this manifest being. There might be other universes; ours is not necessarily the only one. It’s a complex answer. It affirms spiritual reality and divine reality, but I don’t feel inclined to narrow my love of this intelligence to any historical religious form.
 
-archetypal reality. Another death-rebirth cycle followed from there.
+Luc Briede-Cooper: Got it. Tough topic. I see your clear sense of not wanting to start your own thing—no “Bache-ism” or psychedelic path as a religion. People speak about the meaning crisis in the West, where scientific materialism has wiped out higher realms from our sense of reality. As we face coming challenges—culminating in a global crisis as you describe, or otherwise—we need meaning, purpose, and self-understanding. Not everyone can walk the psychedelic path to realize these things directly. How do you see people preparing themselves or moving forward in light of this understanding of the Great Awakening?
 
-**LUKE:** For listeners: a coex system in Grof’s terms is a system of condensed experience.
+Chris Bache: You’re absolutely right: we’re living in a crisis of meaning, because the materialism of early science—not post-quantum science, but early science, which still tends to dominate the humanities and social sciences—stripped the world of meaning. In that view there is nothing beyond physical reality, which evolves by pure chance. Your life has no existential significance; your challenges have no meaning. Nature is blind and violent. I’ve worked all my life with university students, and that’s the philosophy they’re taught in their other courses: to be real, you have to face the meaninglessness of existence and push on from there.
 
-**CHRIS BACHE:** Yes—an aggregate of memories and affects around a theme. Meta-matrices are the same dynamic at the
+One of the great values of psychedelics is that they can pop that bubble. It doesn’t take long. Give me one weekend a month for one year and we can pretty much shatter it—at least enough to see there is a reality behind the physical universe, to experience the intelligence of design expressing itself in the creative manifestation of time and space. That’s a powerful breakthrough. Psychedelics can not only heal our trauma and wounds, but initiate us into an ancient and yet new worldview: the world is alive, saturated with intelligence, with layers upon layers of intelligence. We can commune with it, download from it, enter into it. Just to have the sense that there is a purpose to life, an intelligence expressing itself—that matters.
 
-collective level.
+That’s one reason I think reincarnation is important. We have hard data that reincarnation is true—verified memories of the deep past—which gives a deeper understanding of what might be driving what we undertake in our lifetime. There is a hidden purpose folded into the details of our life circumstances. This becomes very clear in past-life therapy. By expansion, we begin to see purpose not only in our individual lives, but in our collective evolution and behind biological evolution—the emergence of life and self-aware life. That gives us grounds to hope there is meaning behind the crisis we’re coming into. It’s going to be terrible—we won’t get through easily—but I believe we will survive, and we will not survive unchanged. We will be deeply changed.
 
-**LUKE:** Is that like ancestral healing?
+Having said that, the experience of meaningfulness doesn’t mean our first or second or third take on this intelligence is necessarily correct. Touching the enormous scale of creation is humbling; it leads you to hold your concepts lightly, because you know they’re approximations of something much larger than your mind can wrap itself around. But just experiencing that this power manifests in life encourages us to live with deep integrity and purpose, to actualize the purpose of our incarnation as deeply as we can. My understanding is that before we incarnate, we choose our incarnation, and there’s lots of research suggesting that. If everyone on the planet chose their current incarnation, then all we need to do is the best we can with the incarnation we are living, and let the rest take care of itself. I think that’s a healthy way to engage what’s coming: do the very best we can, and let the end results work themselves out.
 
-**CHRIS BACHE:** They rhyme. Ancestral work stays within a biographical lineage. My work broadened quickly into soul-level
+Luc Briede-Cooper: And of course that begs the question: What is the best we can do? There’s something immediate about that; we have things that call us in our environment. I hear you about holding concepts lightly, while holding practices more firmly as process—without attaching to imagined endpoints. One basic principle seems to be “where attention goes, energy flows.” You mentioned that when we worship or give praise to entities or collective principles, it can give rise to those as images in the collective unconscious. I understand worship as directing attention to the highest value, the highest good—an aim, whether nirvana, the Kingdom of God on Earth, or the Gnostic up-and-out image. Worship helps people realign values and actions on the path, maintaining a structure of reality where some things have more importance than others. How are we to worship in light of the Diamond Luminosity—pun intended?
 
-and species-level process. I haven’t focused on ancestors per se, but there’s clearly overlap.
+Chris Bache: I’ll tell you how I worship. I worship the universe—the diversity of life on this planet, the manifestation of galaxies, solar systems, star systems. I worship the manifest abundance and unfolding complexity of life itself, and I honor the hidden drivers of this reality. Science tells us that about 96% is dark energy and dark matter, which we’ve never seen and don’t really understand; only about 4% is visible in any realistic form. It’s not a stretch to think the universe is unfolding out of an extraordinarily complex and infinite reality. So I honor the universe as the manifest body of this intelligence, and I honor the intelligence that is manifesting as this body at the same time.
 
-**LUKE:** Where do animals fit in?
+The medieval cathedrals of Europe were created to lift your eye to a higher horizon. For me, spending time digesting the images from the Hubble telescope and its successor—those are spiritual experiences, profound meditations on the intelligence manifesting as our universe. I also reflect on my own experiences. I can’t manifest Diamond Luminosity inside my daily consciousness—I wish I could—but I can remember, meditate upon, and bring those experiences into mind, entering back into their edges as part of deepening my living process. And I’m deeply moved by other people’s experiences of this infinite intelligence. I enjoy reading others’ psychedelic reports because I don’t want to be trapped in my lens. Seeing this infinite mystery through many lenses enriches my sense of its complexity.
 
-**CHRIS BACHE:** Many people encounter species minds and totems. My focus was drawn to human consciousness—humanity is the
+Luc Briede-Cooper: Wow. I think I wrote “wow” like 50 times as I was going along. What comes back for me is scientific materialism. Maybe an immediate thing that could happen is a softening of our concept of scientific materialism, and hopefully psychedelics can play a part in that. I do want to mention an interesting coincidence—maybe not strong enough to be a synchronicity. Reading your book, when you mentioned Carl Jung a few times, I thought, Oh my God, no way. And then you specifically mentioned Jung’s Red Book, which I’m in the middle of right now. Just crazy. And then you mentioned Richard Tarnas a few times, and he specifically mapped out the history of the ideas of Western thought. Lo and behold, I’m in the middle of Tarnas’s The Passion of the Western Mind at the same time. Very interesting book, and you realize just how immature—well, recent—scientific materialism is: 300 years on the scale of tens of thousands. So that was a funny coincidence for me. If we can wrap it around—psychedelics are a tool, not necessarily for everyone—how could we best use psychedelics for spiritual awakening in light of the coming challenges we may face?
 
-greatest danger to life here. Heal humanity and the rest benefits. Others’ work with nonhuman intelligences is
+Chris Bache: I hope we use them for more than spiritual awakening. The whole movement in the psychedelic renaissance toward healing is really important. When I look at human beings, I don’t simply see human beings—I tend to see souls. When I look at children, I don’t see young beings; they could be very old beings in a young body. And when I see old people, I don’t necessarily see old beings; it could be a very young soul in an old body. I look at the qualities of soul present in an incarnation.
 
-essential; it just wasn’t my assignment.
+My sense is that at this time in history, people are incarnating with lots of former lives active in their current life, with lots of unfinished business at the soul level alive in their life. That means healing is a very important contribution, not only to individual well-being but to our collective well-being. We’re incarnating generations of pain and suffering in these generations, and by clearing this pain and suffering, we are clearing the whole system of the garbage leftover from our egoic consciousness through thousands of years of incarnations. We’re opening space for a deeper infusion of cosmic consciousness to enter our lives. Psychedelics can be a significant part of this healing.
 
-**LUKE:** You describe a jump into archetypal reality that made everyday life feel “less real.” Did your sense of
+If healing is allowed to deepen, then psychedelics become a tool of initiation into the intelligence of the universe—the intelligence at the core of our being. They can help us experience, even temporarily, the truth of our divine and inclusive nature. It really is like we are all leaves on a tree, and every leaf is truly part of my being. Only at the surface does it look like we are separate leaves; as the tree, we experience that we are all implicated in each other’s lives. Naturally, compassion, fairness, and justice arise out of that. Psychedelics can help us deepen and accelerate this process.
 
-reality change in jumps?
+A separate issue is balancing psychedelics with non-psychedelic spiritual practice. I don’t think psychedelics by themselves are a wise way to proceed. We need the support, grounding, and insights kept alive in our spiritual, meditative, and contemplative traditions. These work hand in hand.
 
-**CHRIS BACHE:** Repeatedly. Retrospectively, I sketched five overlapping cores: personal mind, collective mind,
+So, the most important contributions are accelerating healing and deepening our insight into our true nature and the nature of the universe. If we want to push farther, cosmological exploration takes it a step into conscious opening to layers of reality beyond the physical senses. You don’t have to push it as far as I did to do a little cosmological exploration, which can be healthy and supportive. I pushed it so far and so hard that it became a life-defining project; there’s no need for it to be that for many people. Psychedelics offer multiple layers of benefit: they can help heal us, help us come to our spiritual senses, and give us a sense of the deeper mystery we’re part of.
 
-archetypal mind, causal oneness, and diamond luminosity. Moving from personal to collective is a step up in
+Luc Briede-Cooper: Got it—beautiful. I’d like to bring us back to one little point I skipped over. Coming back to the understanding of there being infinite levels—higher and higher, or by Huston Smith’s law of inverse analogy, deeper and deeper. How do we align ourselves with the highest if there is no highest?
 
-organization. Archetypal reality was a quantum step: I often sensed I was in a domain more real than time and
+Chris Bache: Your question catches the paradox. Let me give you a metaphor. I often think the relationship of physical reality to spiritual reality can be modeled on an apple. Physical reality is the skin of the apple: the entire physical world and all its levels. If the apple grows—the universe expanding—the skin gets bigger. But the meat of the apple is spiritual reality.
 
-space. Plato’s archetypes are a useful pointer, but I experienced them as living intelligences moving on vast
+We tend to think of psychedelics as mind-expanding and feel that the reality we’re entering is “bigger” than physical reality, which suggests spiritual reality is bigger. But going deeper changes that sense of expansion. If you go underneath physical reality, you enter a layer of spiritual reality; deeper still, another layer. You start driving toward the center of the apple. As you move toward the center, forms fall away—forms are part of the emergence of physical reality—and the light gets brighter and brighter because at the center is light. That light eventually manifests as the green textures of the apple’s skin, but in the end, it’s light.
 
-timescales—too immense for full cognitive grasp. At a “lower” archetypal tier, I repeatedly experienced our
+How do we orient to the ultimate, knowing it’s beyond our intellectual grasp? Recognize that the essence of my life and your life is fundamentally the same essence. We all come from the light. We are fractal embodiments of the light—evolving expressions of this self-manifesting intelligence. At that very deep level, my essence is the same as the essence of mosquitoes and ants and leaves and everything on the planet. That’s why, when I drop into selflessness or shunyata, I experience the world as one. As the shamans shout: all my relations. All other levels of reality, all other beings, are my relations.
 
-species as a single organism, with networks linking us like neural and psychic connective tissue. We are
+We may not be able to adequately conceptualize this essence—the Atman, the Brahman—but we can tune to it. We can let it suffuse our being. We can let go of anything that keeps us smaller than it, and we can regularly cultivate the practice of tuning to it. That’s only partly intellectual; it’s more of a tuning exercise. We can do it without having an adequate understanding of the final goal. There’s a sense of peace and harmony, an infinite challenge, but a profound alignment that comes into our person and relationships the closer we draw to that reality. We can do all of that without solid answers about the nature of ultimate reality.
 
-hard- and soft-wired into species mind. Healing oneself contributes to collective healing.
+Luc Briede-Cooper: Got it. I mean, not really got it, but I’m glimpsing it. What comes to mind is the distinction between process-oriented spiritual practice or religion, and goal-oriented practice. Is that useful?
 
-From archetypal depths I moved into what I called causal oneness, where the universe is a single organism.
+Chris Bache: It can be. One way to put it: we can live in a world of nouns, or a world of verbs. Verbs are more accurate than nouns. We live in a world of process rather than objects. A human being is a process—beginning, living, dying; consciousness evolving, constantly changing. Neither you nor I are the same at the end of our conversation as we were at the beginning. We’ve been changed by this contact. It’s all verbs. It’s all process.
 
-There are differentiations, but no separate selves. Experiences of emptiness (śūnyatā), the void, cosmic love,
+Luc Briede-Cooper: Noting the time—maybe one more thing. This is what it comes back to for me. In certain scriptures—let’s pick Christianity—Jesus says, “Not one word will change in the scriptures until all is said and done.” In Islam: “Worship no other god but me,” and so on. This kind of exclusionary stance doesn’t seem like just a cultural interpretation; it’s right there in the core of the revelation. What do you make of that? In two minutes.
 
-and the birth of what I later called the “diamond soul” all unfolded there.
+Chris Bache: I understand it. Not long ago, religions existed basically on specific continents, even within valleys and landscapes. Before the steam engine, there weren’t mass migrations. Religion was tied to place. When you bumped up against people in another place, there was a conflict between how your people saw reality and how those people saw reality. Honoring the integrity of the vision was part of owning identity in contrast to other visions and identities.
 
-**LUKE:** Then came the diamond luminosity.
+All this changed with the steam engine, then travel, then the internet. Now everything is blending. Since the 19th century, scholars have been gathering the world’s wisdom into compendiums, trying to understand it all. We’re wrapping our minds around the entire planet. In that context, what was a virtue in the ancient past can become an encumbrance—a limitation. The greater wisdom now is understanding all these religious traditions simultaneously and recognizing that the whole is greater than any individual part. The pattern of spirituality for the planet as a whole is larger and more interesting than the pattern of any one tradition. So I honor the historical sentiment, but I don’t feel beholden to it. My challenge has been to understand the world’s diversity of religious and spiritual beliefs, and to take the exploration so deep that it radically eclipses our human experience in a larger landscape that emerges in deep spiritual experience.
 
-**CHRIS BACHE:** Yes—hyper-clear states of light, far beyond previous clarity. Over four years I entered that reality
+Luc Briede-Cooper: Wow. And just to wrap it up, I’ll add: the first thing I ever read that led me down this path was Joseph Campbell and his writing about exactly that—this global sense of all the world’s traditions. So thank you, Chris, so much. So much to meditate on.
 
-only four times; between them were demanding purification processes to sustain clear cognition in higher energy
+Chris Bache: Luc, it’s been a pleasure. Thank you for the conversation, for giving me a lot of room to work, and for your very thoughtful seeding of questions. I appreciate it.
 
-fields. After two deep entries, something changed: instead of going farther “out,” the diamond luminosity began
+Luc Briede-Cooper: Thank you, and I hope this and other interviews will help you in digesting your own journeys and having the community to share your experiences with. I feel part of the same community with you, and I’m excited to see what you put out in the future.
 
-pressing farther “in”—into body, mind, heart.
+Chris Bache: These conversations do help me. Sharing is good, and I hope they’re useful to other people, but they truly help me too, because they help me digest all these things.
 
-A pivotal moment came in my 50th session—only my second time in that light. My field pivoted 90 degrees and I
-
-saw a distant reality, galaxy-like. A beam from it shattered me. It was even more powerful than the diamond light
-
-I had taken as ultimate. In an instant I understood: there is no endpoint. I let go of the finish-line myth and
-
-focused on absorbing what I was being given as deeply as possible.
-
-**LUKE:** Later you saw a vision of humanity’s future. What happened?
-
-**CHRIS BACHE:** Beginning in the mid-1990s, I received a series of initiations into the human story—visions of an
-
-historical process trying to awaken the species, not just individuals. In 1995, after deep work in the diamond
-
-light, I dissolved into species mind and deep time. I experienced, as our species, a global systems crisis
-
-driven by cascading ecological failures. Details were not given—only the fact and feel of it. At the peak,
-
-we crossed a threshold. On the far side, picking ourselves up over years and decades, we were permanently changed.
-
-Our hearts opened to one another, our minds opened to the universe, and synergies around new values, insights,
-
-and capacities began compounding.
-
-In a later session I was shown a further arc: we are gestating the next evolutionary form of the human. Reincarnation
-
-is key. Across lifetimes we expand to soul, contract to ego, repeat. Eventually, soul consciousness ignites within
-
-historical identity. In one session, a critical mass of former lives fused, catapulting individuality into a new
-
-order. I believe humanity is nearing that collective threshold. Birth is short and often traumatic. I think we will
-
-make it through—and grow up.
-
-**LUKE:** That reframed meaning for me. In materialist culture we face a meaning crisis. Did your sense of mental
-
-illness and transpersonal access change?
-
-**CHRIS BACHE:** It’s a big question, and clinicians can speak more precisely. Joseph Campbell paraphrased: the mystic
-
-swims in waters in which the psychotic drowns. Opening to larger realities can injure if we’re unprepared.
-
-Hence the importance of carefully screened, well-supported settings. I’m less focused on pathology categories
-
-and more on differentiating destabilizing confusion from clarifying initiation. Done well, these are not delusions
-
-but profound educations in the fabric of reality.
-
-**LUKE:** Could you walk us up the five levels briefly?
-
-**CHRIS BACHE:** From personal to collective, archetypal, causal oneness, then diamond luminosity—each involves dying to
-
-assumptions and being reborn into a greater real. In causal oneness you dissolve into the universe as it experiences
-
-itself. In diamond luminosity, clarity surpasses imagination.
-
-**LUKE:** Your paragraph “Beyond the Diamond Luminosity” changed everything for me.
-
-**CHRIS BACHE:** For me too. Fifteen years in, I thought there was a goal—union with God, the primal void. I’d had many such
-
-unions. Then that beam shattered the endpoint myth. The universe is too vast. From then on, I released striving for
-
-“the end” and received what was given.
-
-**LUKE:** Coming down the mountain, you also described how to worship—how to orient attention. How has your view of
-
-God and religion changed?
-
-**CHRIS BACHE:** *\[Laughter\]* I need water for that one.
-
-I trained as a theologian and philosopher of religion and largely studied my way out of traditional theology.
-
-Psychedelic work then initiated me into the living realities behind doctrines. It affirmed an infinite intelligence
-
-and compassion manifesting as this universe, yet eclipsed any single tradition. I don’t feel devotionally bound to
-
-one lineage. I prefer “mind of the universe” to theological labels. I honor the cathedral of galaxies—Hubble and
-
-JWST images are profound meditations—and I honor the hidden drivers behind visible nature.
-
-**LUKE:** The West’s meaning crisis is acute. Not everyone will walk a psychedelic path. How can people prepare for
-
-what’s coming?
-
-**CHRIS BACHE:** Psychedelics can “pop” the bubble of flat materialism and reveal a living, meaningful cosmos. Reincarnation
-
-research helps people sense purpose woven through a life. But concepts must be held lightly—humility is essential.
-
-Live with integrity, serve the purpose of your incarnation, and let outcomes unfold. My understanding is that we
-
-choose our incarnations. If so, doing our best where we are is enough.
-
-**LUKE:** Practices: process-oriented versus goal-oriented?
-
-**CHRIS BACHE:** Think verbs over nouns—reality as process. Orient not to a fixed summit, but to continual deepening and
-
-alignment.
-
-**LUKE:** Scriptures can be exclusivist—“worship no other.” What do you make of that?
-
-**CHRIS BACHE:** Historically, religions were place-bound and identity-forming, often in contrast with neighbors.
-
-That made sense then. Steamships, planes, and now the internet changed the game. The wisdom now is planetary:
-
-seeing patterns across traditions and, at depth, moving beyond all of them into the larger landscape that deep
-
-experience reveals.
-
-**LUKE:** Thank you, Chris.
-
-**CHRIS BACHE:** Thank you, Luke. These conversations help me digest the work, and I hope they serve others too.
-
----
-
-*Key themes*
-
-- Cosmological exploration vs. spiritual awakening
-
-- Grof protocol and the importance of window length
-
-- Guidance as formless intelligence; deities as collective thought-forms
-
-- Progression: perinatal → collective → archetypal → causal oneness → diamond luminosity
-
-- Letting go of endpoint myths; infinite ascent
-
-- Species-level crisis as initiation toward the “future human”
-
-- Reincarnation as engine of evolution; birth of the diamond soul
-
-- Meaning crisis and living devotion to the universe
-
-- Balancing psychedelics with contemplative practice
-
-- Healing the individual to heal the collective
-
-**Revision history**
-
-date | editor | change
-
---- | --- | ---
-
-2025-08-19 | gpt5 model by OpenAI | Initial transcript, edit, and formatting to house style.
+Luc Briede-Cooper: Got it—awesome. Thank you, Chris.

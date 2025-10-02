@@ -1,5 +1,4 @@
 ---
-
 archival_title: "2024-11-07 – Reincarnation and the Web of Life (What Is Going OM)"
 
 channel: "Sandie Sedgbeer"
@@ -9,315 +8,189 @@ recorded: "2024-11-07"
 published: "2024-11-07"
 
 youtube_id: "-Tavh3KhQPE"
-
-speakers: \["SANDIE SEDGBEER", "CHRIS BACHE"\]
-
 transcriber: "gpt5 model by OpenAI"
 
 transcription_date: "2025-08-19"
 
 license: CC0 1.0 Universal
-
+speakers: ["Chris Bache", "Sandy Sedgbeer"]
 ---
+<!-- diarist_sha1:3b9b2a582d585238cfaeee98f1d232d447174e64 -->
+---
+Sandy Sedgbeer
+Hello and welcome. Today we're going to be talking about life after death, heaven and hell, and reincarnation. Christopher Bache is professor emeritus in the Department of Philosophy and Religious Studies at Youngstown State University, adjunct faculty at the California Institute of Integral Studies, an emeritus fellow at the Institute of Noetic Sciences, and on the Advisory Council of Grof Legacy Training. An award-winning teacher and international speaker, he is the author of four books, including one that I rate as one of my favorites of all time, LSD and the Mind of the Universe: Diamonds from Heaven, which chronicles his 20-year psychedelic journey exploring consciousness. The other book we’re discussing today is Life Cycles: Reincarnation and the Web of Life, which combines scientists’ testimonies about reincarnation with findings from consciousness research and near-death studies. Christopher Bache, welcome back to the show.
 
-**Abstract**
+Chris Bache
+Hi Sandy. It's a pleasure to be with you today.
 
-In this conversation, Sandie Sedgbeer and Chris Bache explore reincarnation through research, therapy, and
+Sandy Sedgbeer
+You too. So Life Cycles has been hailed as the first book to both describe the dynamics of rebirth and explore the ramifications of adopting a reincarnationist perspective. Now, this was published, what, about 35 years ago?
 
-first-person inquiry. Bache outlines how past-life therapy and Ian Stevenson’s work with children’s verified
+Chris Bache
+Thereabouts. I started my psychedelic work after my first year as an academic. I worked for four years, then stopped for six. During that six-year interval, I did three years of past-life therapy, uncovering and working with my own former lives, and I wrote Life Cycles. By then my psychedelic work had gone deep enough to give me personal insights into karma—the deeper cause-and-effect that underlies our lives. I hadn’t yet had former-life experiences in a psychedelic context, though I had in hypnotherapy. The real foundation for Life Cycles was studying Ian Stevenson and later other pioneers documenting children and adults with validated past-life memories.
 
-memories grounded his book *Life Cycles: Reincarnation and the Web of Life*. He distinguishes the soul of a
+Sandy Sedgbeer
+You shared a few of those stories I’ve read before—absolutely fascinating. One that really struck me was the case Dr. Helen Wambach described: a five-year-old girl who rejected human contact and withdrew into autism, yet somehow demonstrated mathematical and reading skills she hadn’t been taught. She wouldn’t communicate, but over time she showed Dr. Wambach how she felt—force-feeding her with a baby bottle because she herself felt treated like a helpless infant. When the doctor understood, the child began to come into herself—but she lost the reading and mathematics. Stories like that—what do you make of them?
 
-single lifetime from the capital-S Soul or “oversoul” that holds all incarnations, reframing identity beyond the
+Chris Bache
+That our individual lives are much longer and more continuous than we tend to think. They don’t simply begin and end; there are overlaps. Once you understand the larger life of the soul, continuity of qualities—knowledge, learning, attitudes, traumas, virtues—can blend from one life into the start of another. We don’t start as a tabula rasa. We start with a specific history, which becomes clear when we look at children with fresh eyes.
 
-current personality. Topics include why recall often centers on the most recent life, how traits and traumas can
+Sandy Sedgbeer
+Why does it always seem to be the last life they talk about?
 
-bridge lives, and the purpose of repeated incarnations as evolutionary learning that ultimately serves creation
+Chris Bache
+It isn’t always the last life. Stevenson’s research focuses on children who have active recall of their most immediate former life, but that’s a very unusual population—children with spontaneous memories who also tend to reincarnate very quickly, on average two and a half years, and often very near the circumstances of the previous life. Studies of broader populations who don’t have spontaneous recall indicate longer intervals between lifetimes and a much wider geographic radius.
 
-itself. They discuss the bardo, mediums and “front images,” heaven and hell as educative feedback rather than
+In therapy, people come because of pain. Sometimes that pain is rooted in the most recent past life, but not always; it can reach back several lives. I think of our former lives like a deck of cards. We may have had 52 lives, but only a handful are “active” this time. Those few cards can come from different centuries, and only certain elements of them weave into the composite that makes up the present life. It’s not a simple linear progression. We return to the soul, which holds all our former lives, and the soul decides which combination to incarnate as the next life.
 
-eternal fates, collective trauma, Christianity’s ambivalence toward reincarnation, interlife planning described by
+Sandy Sedgbeer
+You mention the word soul, but in the book you distinguish between soul and oversoul. What’s the difference?
 
-Michael Newton, and reports of non-Earth lives. Bache closes by affirming reincarnation as a richer frame that
+Chris Bache
+For Westerners used to thinking of the soul as the spiritual essence of this lifetime, we need a larger concept that includes all our lifetimes. I use “oversoul” for that, borrowing the term. By the end of the book I dissolve the distinction because it gets cumbersome. I tend to use Soul with a capital S to mean the oversoul—the consciousness that holds all our lifetimes—and soul with a small s for the consciousness integrating this incarnation.
 
-deepens responsibility, compassion, and meaning.
+Sandy Sedgbeer
+So the oversoul is what some people would call the higher self—the part that continues forever?
 
-*\[Music\]*
+Chris Bache
+Yes, I think so.
 
-**SANDIE SEDGBEER:** Welcome to *What Is Going OM*, where we explore new thought from the edge of mind and
+Sandy Sedgbeer
+I came across an article in Psychology Today by Dr. Alex Lickerman, a Buddhist who doesn’t believe in reincarnation. He said the real question at the heart of reincarnation isn’t evidence but identity.
 
-consciousness. I’m Sandie Sedgbeer.
+Chris Bache
+Good point. I haven’t read the article, but once you move into a reincarnational worldview, the concept of identity shifts and expands. I accept this body and personality as my current identity, and in deep mystical experiences I might accept a universal principle as my deeper identity. The soul is an intermediate position: individual—my soul and your soul reflect different histories—but if you ask about the essence of the soul, it returns to the same mystical insight: the essence of one is the essence of all—the essence of the Divine, the cosmic intelligence. Shifting to reincarnation doesn’t undermine the value of this identity; it recontextualizes it within the soul’s identity—the meta-consciousness that holds, say, 100,000 years of lifetimes.
 
-**SANDIE SEDGBEER:** Today we’re talking about life after death, heaven and hell, and reincarnation. My guest is
+Sandy Sedgbeer
+It’s hard to believe you have a different identity—that you’re not this self you’ve lived with for so many years. It’s even harder to think the oversoul is infinite—has lived forever and will live forever.
 
-CHRIS BACHE, professor emeritus of philosophy and religious studies at Youngstown State University, adjunct
+Chris Bache
+It’s hard at first, but it gets easier with practice—intellectual and, especially, experiential. You can be convinced by evidence that reincarnation operates, and life starts to make sense through that lens. But when you turn within and follow awareness deep enough to tap levels of self-awareness that predate your body, and you learn the stories that come from another life—experiences that feel distinctly “you” while also other than you—you know they are you. If you encounter several such lives and engage them, it causes a dilation not only in thinking but in the heart. It becomes easier to accept a transcendent, individuated dimension of identity. Eventually it becomes hard to think smaller than that—hard to take this as your only identity.
 
-faculty at CIIS, emeritus fellow at IONS, and on the advisory council of Grof Legacy Training. He is the author of
+Sandy Sedgbeer
+Let me ask some of the common questions that come up with this subject. First: why do we reincarnate?
 
-four books, including a personal favorite, *LSD and the Mind of the Universe (Diamonds from Heaven)*, and *Life
+Chris Bache
+To learn, grow, and become more. That touches the basic question of the purpose of existence. If we only live once, then any purpose must be realizable in a few decades. If we live an open-ended number of lives, we can expand our understanding of what the universe is doing in us and with us over vast stretches of time. It invites an open-ended developmental possibility. Enlightenment is a noble goal, but it’s also a stage in a progression that extends beyond enlightenment. Imagine what we could become with a million—or a billion—more years.
 
-Cycles: Reincarnation and the Web of Life*, which synthesizes testimonies, consciousness research, and
+Sandy Sedgbeer
+I have a problem with this. If we are sparks of God—if we know everything when we die and our awareness expands—why do we need to learn more? Aren’t we complete when we’re there? And then we regress when we come here. I don’t understand the point of that.
 
-near-death studies.
+Chris Bache
+It’s like asking why the Infinite would manifest the physical universe at all. We may expand vastly in knowledge when we die—perhaps to what seems like infinity—but maybe there’s more than what we think of as infinite knowledge. The deeper question is: if the Creative Principle were to ask, “Will you help me grow this universe?”—would you bring as much knowledge as you can into your person and help evolve a higher physical manifestation of our spiritual nature? Not just what happens after death, but participating in creation here.
 
-**SANDIE SEDGBEER:** Chris, welcome back to the show.
+Who would turn down the invitation to participate in a process that produces deeper forms of humanity in history—so that, truly, we eventually make heaven on earth? We won’t always be “imprisoned” and forgetful when we incarnate. We will be increasingly aware, even enlightened, in physical form. That’s the trajectory—becoming more and dancing with creation.
 
-**CHRIS BACHE:** Hi, Sandie. It’s a pleasure to be with you.
+Sandy Sedgbeer
+I can follow that some of the way. But to come here and forget everything—to feel like you’re starting over—what happens to all that knowledge and wisdom you’ve gathered?
 
-**SANDIE SEDGBEER:** *Life Cycles* has been called the first book to both describe rebirth dynamics and explore
+Chris Bache
+We don’t forget everything. We may lose conscious recall, but what we’ve known is built into our unconscious—a bit like those children who don’t remember how they acquired their mathematical skill, but it’s there. There’s a history behind everything we are. We bring a great deal into our being and express it in our life. By the time we finish, we have incarnated more of that knowledge than when we began.
 
-the ramifications of a reincarnational worldview. It was published about thirty-five years ago. Where were you in
+Sandy Sedgbeer
+So many of us have seen mediums bring through loved ones. If someone has died—whether in the bardo, reincarnated, or elsewhere—how is it they can reconnect with that identity to give a loved one a message?
 
-your LSD work then, and how did that journey inform the book?
+Chris Bache
+In brief: when we die, we return to the soul. After a transitional period of life review—what went right, what went wrong—we assimilate the learning and naturally exchange our small identity for our larger one: our 100-year identity for our 100,000-year identity. “Chris Bache” is restored to the total knowledge of my soul.
 
-**CHRIS BACHE:** I began psychedelic work after my first year as an academic. I worked four years, then stopped
+Let’s say my father died when I was 18. When I die and want to see my dad, his soul can come to me. Manifesting at the “front” of that soul would be the being I knew as my father. So I would meet my father—but soon it becomes soul-to-soul, a deeper conversation than just “Chris” and “Dad.”
 
-for six. During that interval I did three years of past-life therapy, uncovering former lives, and I wrote *Life
+Mediums can contact the discarnate, but we should be careful inferring that the form encountered is the form of their ongoing post-death state. Our compulsion to communicate in the familiar persona reflects a limited understanding of what happens after death. I’m less interested in speaking to my father as I knew him when so much more is possible between our souls.
 
-Cycles*. By then my sessions had given me personal insight into karma, but not past-life recall in a psychedelic
+Sandy Sedgbeer
+So, in a sense, the soul coming through is acting with compassion—stepping into that familiar presence?
 
-context—those came via hypnotherapy. The real foundation was studying Ian Stevenson and other pioneers who
+Chris Bache
+Yes—wearing the persona the loved one knew and communicating through it. But that persona isn’t necessarily who they truly are now.
 
-documented validated memories in children and adults.
+Sandy Sedgbeer
+Another common question: How can there be reincarnation when there are far more people on the planet now than a thousand years ago?
 
-**SANDIE SEDGBEER:** You share powerful cases. One that struck me, from Helen Wambach, involved a five-year-old
+Chris Bache
+Imagine a university with 6,000 students. You live on campus and notice the population growing each year. Where are the extra people coming from? From the town outside, which is far larger than the campus. Likewise, we have no reason to believe the number of souls available to incarnate is finite—or that all were present on Earth at some early point. There may be billions “in line,” waiting to enter the Earth school as positions open. The spiritual universe is many times larger than the physical. Robert Monroe emphasized that the physical universe is a small slice of reality; most of reality is spiritual.
 
-girl diagnosed with childhood autism who showed reading and math skills she’d never been taught. She wouldn’t
+Sandy Sedgbeer
+But wasn’t it Robert Monroe who also said some humans evolved from higher animals?
 
-communicate but “force-fed” her therapist with a baby bottle to convey how she felt. When understood, she came
+Chris Bache
+Yes—and that’s the common view in most reincarnation traditions. If you trace reincarnation back, it doesn’t begin with human consciousness; it begins earlier in our animal pedigree. Reincarnation seems correlated with the birth of individuality. Once individuated consciousness emerges in the animal kingdom, it explores, empowers, and expands itself—and that predates humans.
 
-into herself—but lost the reading and math. How do you read that?
+Sandy Sedgbeer
+We’re actually getting reports from Dr. Linda Brackman, trained with Michael Newton, who said a time would come when many people would access lives not lived on this planet. She says it’s happening; her books are full of stories of experiences connected to lives elsewhere entirely.
 
-**CHRIS BACHE:** Our lives are longer and more continuous than we assume. We don’t start as a blank slate. We
+Chris Bache
+On a theoretical level—why not? Look at the universe through the Hubble images—life is burgeoning. Why shouldn’t there be evolved life elsewhere? And if reincarnation is possible, why should it be restricted to one star system? There may be interplanetary crossovers. I don’t have personal experience of that, but she does, and that’s interesting.
 
-begin each life with history—knowledge, attitudes, traumas, virtues—blending into the new start. I’m simplifying,
+Sandy Sedgbeer
+Christopher Bache, I’m rather attached to this personality. The thought that it might disappear—like an actor shedding a role, taking off the costume, never to be seen or heard from again in that form—I don’t like that idea. I’d like to know I could connect with her sometime, maybe even bring her back and be that character again. Is any of that possible?
 
-but there’s real carryover we can see when we look at children with fresh eyes.
+Chris Bache
+The essence and system of our lives is preserved beautifully intact. When we die, we take with us not only all our memories, but a living, vivid version of our earthly experiences—in technicolor and stereo, as near-death experiencers describe. Life review relives events in far more detail than we remembered. All of that is taken forward into the soul. The soul can crystallize its larger consciousness in any of its forms, or actualize their integration into a single form. For me, giving up a mere 100 years isn’t a sacrifice—it’s trading up. Why ride a bicycle when you can have a spaceship?
 
-**SANDIE SEDGBEER:** Why do accounts so often focus on the last life?
+Sandy Sedgbeer
+Sometimes I think I’m not very elevated in my consciousness. If I’ve been alive for millennia, I’m not doing a very good job—after all that time, I’d be further on. I tend to look at beings like spirit guides, angels, ascended masters as once having been as human as me, and having reached such an elevated state. Is it conceivable that I could be one of them one day?
 
-**CHRIS BACHE:** Stevenson’s sample is unusual: children with spontaneous recall of the immediately prior life.
+Chris Bache
+Well, yes, of course it’s conceivable, because your essential nature already is one of those beings. But let me flip this a little. I’ve been teaching this for years and had generations of students come through my courses. One thing I’ve learned is you can’t read a book by its cover—you can’t judge a person’s soul development by what they’re dealing with. It’s like at a university: someone may have developed a great deal of expertise in music, then decide to start developing expertise in art. They let go of their expertise in music to start a whole new course regimen in art. If you looked only at what they do in art, you might think, “Oh, this person is a freshman,” when really they’re a very sophisticated senior with all these other skills. I think it’s that way for the soul too. Look at what you do: you’re an enormous influencer, hosting one spiritual dialog after another, touching thousands and thousands of people’s lives. If your soul were in the Bardo, in a pre-incarnate state, and you were given the opportunity to bring down some aspiration, some capacity and enthusiasm for exploring spiritual knowledge—not in a monastic context, but on a platform that reaches out into the world at a time when the world needs this knowledge—how could you not take it? My basic sense is: don’t sell yourself short. I think there are many more Bodhisattvas in the world than we think.
 
-They tend to reincarnate quickly—on average two and a half years—and nearby. Population studies of adults show
+Sandy Sedgbeer
+Okay, another question: several spiritual teachers are of the opinion that we should not go toward the white light, as we will be trapped in cycles of reincarnation. They say you can bypass that and go somewhere else. What do you think?
 
-longer intervals and wider geography. In therapy, pain may originate in the most recent life—or several lives back.
+Chris Bache
+It doesn’t make any sense to me. To me, at a simple level, when we separate from our body, the white light is our homing beacon, taking us back to our essential nature—our deeper spirit, our deeper divine nature. The classic idea is that people instinctively move toward the light and go as far as they feel comfortable. At some point along the way, for various reasons, people may feel less comfortable or it feels more natural to stop and drop off. They’re at the level of spiritual development where they feel most at home, among the thousands and thousands of levels of the Bardo. From that level, they eventually go through a process in which they make the choice to incarnate again. The admonition in most spiritual traditions is to do a kind of training that allows you to be comfortable with the light, so that you can follow it all the way home—through all the levels of the Bardo—to the most intense form of that light, which resides within what the Buddhists call an extra-samsara reality, a reality outside the entire reincarnating universe. Whether our journey into the light takes us back to our own natural level of peak spiritual realization, or all the way beyond the intermediate levels to the highest level, it makes most sense to follow the light as far as you can.
 
-I think of former lives as a deck of cards. We may have fifty-two lives, but only a handful are “active” in this one,
+Sandy Sedgbeer
+You’ve seen that, haven’t you?
 
-drawn from different centuries to form the present composite.
+Chris Bache
+I have, and it touched me in a way that has affected the rest of my life.
 
-**SANDIE SEDGBEER:** In the book you distinguish “soul” and “oversoul.”
+Sandy Sedgbeer
+So why was reincarnation taken out of Christianity? For the first 500 years, it was a vital commitment, and then Justinian removed it.
 
-**CHRIS BACHE:** For Western readers used to “soul” meaning the essence of this lifetime, we need a larger term
+Chris Bache
+That’s a complex story. I was first a historian of early Christianity—that was my first academic love—in the search for the historical Jesus. I did my master’s at Cambridge in that field. It’s a complex process, and I don’t think the definitive story has yet been written. Did Jesus teach reincarnation? It’s present in some of the Gnostic Gospels, but do those Gospels reflect the actual teaching of the historical Jesus? If he did teach reincarnation, then we have to explain why it was filtered out—or, if he did, why it isn’t more thoroughly saturating the earliest strata of the scriptural tradition. However we answer those, it’s clear there were multiple variations of Christianity in the early centuries. Some taught reincarnation, and they also taught the empowerment of women—that women should have clerical capacities and responsibilities. Both of those elements were filtered out of the tradition.
 
-to include all lives. I borrow “oversoul.” In practice I collapse the distinction and use capital-S Soul for the whole,
+Geddes McGregor, a Christian theologian who wrote numerous books on early Christian thought around reincarnation, was of the opinion that there is nothing inherently contradictory between belief in reincarnation and the essential teachings of Jesus. But it does give individuals too much autonomy for their spiritual welfare. In the historical context of the collapse of the Roman Empire and the emergence of a highly centralized Catholic authority, the Church saw this network of priests, bishops, cardinals, and the Pope as essential to the salvation of the Church and those it served. I’d give them the benefit of the doubt and say they thought they were doing a good thing by creating a system that made individuals contingent upon the clergy and the authority of the Church. From a reincarnation perspective, they didn’t do a good thing. It took us a long time to uncover this deeper teaching—that each of us is responsible for our relationship with the divine. The Church may help us, but in the end it is not essential to the maturing of our relationship to the divine.
 
-and small-s soul for the consciousness integrating one incarnation. Many call the oversoul the higher self.
+Sandy Sedgbeer
+You devoted a chapter to whether there’s room for reincarnation in Christian thought—35 years ago. I’d like to know in a minute if your view has changed, but before we do that, talk about the hidden phase of life—the time between lives—which you say is just as important to our development.
 
-**SANDIE SEDGBEER:** I found an article by Alex Lickerman arguing that the real question isn’t evidence but
+Chris Bache
+That’s actually why I named the book Life Cycles. I wish I had named it a little differently, because it became acutely significant to me that if you look at the cycle of life as taking place only between birth and death, you’re missing half the cycle—what happens between death and birth. You have to look at the whole cycle to understand the rhythm of the soul, the rhythm of human consciousness. Just as there are standardized gradations of what happens when a child is born, there’s a standardized process of what happens when we die.
 
-identity. Does reincarnation change what “I” am?
+I think Michael Newton’s work is some of the best I’ve seen explaining what happens in the minutes, hours, and years—speaking metaphorically about time in a non-time universe—after we die: the integration, introspection, and review of our most recent life, looking at it deeply from a spiritual perspective, examining our relationships and challenges, integrating our successes and failures, and internalizing them. We enter the civilization of spiritual beings—the community of fellow soul travelers—enjoy the recess, the return to a more complete spiritual awareness of existence, and then, in time, gradually focus on the next challenge we set for ourselves. It’s like a university: you finish a semester, take your exams, digest and rest, then choose what you’ll take next semester. Newton shows these choices are made under the guidance and tutelage of our guides—more senior spiritual beings. We have options and some insight into the lives we’re choosing, and we make a choice: this particular set of challenges suits my needs at this point in my development, or it gives me an opportunity to be of service in new ways. Then we engage the incarnational process and wake up kicking and screaming as a newborn child. If you understand the whole cycle, you gain the beginnings of a much deeper understanding of what makes life tick in the human psyche than if you only pay attention from birth to death.
 
-**CHRIS BACHE:** Yes. Identity expands. I accept this body-mind as my current identity, and in mystical openings I
+Sandy Sedgbeer
+I was looking at some rough statistics: over 57% of people in the world believe in life after death; between 12% and 44%, depending on the country, believe in reincarnation; and 75% believe in heaven and hell. Which makes me wonder—if only 57% believe in life after death, where do the others think heaven and hell are? What do you have to say about heaven and hell?
 
-accept a universal identity. The Soul is intermediate—still individuated because histories differ, yet its essence is
+Chris Bache
+And 25% of American Protestants—and about the same percentage of American Catholics—believe in reincarnation. That’s one of the statistics that really blows my mind. On heaven and hell: I think the Buddhists get closest with their basic vision that when we die, we enter a stage where what we are is mirrored back to us in our experience. If we’ve done good—been generous, kind, thoughtful—then that is mirrored back to us in the experience of heaven or heavenly beings. If we’ve done harm—selfish or stingy things that hurt people—then that is mirrored back to us, not as punishment but to educate us. This is the experience of hell. From this perspective, hell is the experience of our shortcomings; heaven is the experience of our joys. Newton’s cosmology seems to integrate that. But this could be mistakenly interpreted as a cosmological absolute, when really it’s simply a stage in our debriefing.
 
-the same divine ground. The Soul is the metaconsciousness holding, say, a hundred thousand years of experience.
+I think the deeper reality is that there is a heaven of heavens—a reality of infinite love, infinite knowledge, infinite bliss—within which the entire human evolutionary saga is just a small piece and should not be taken as defining the limits of the universe. Is there, similarly, a hell of hells—an eternal hell? I absolutely do not believe there is. That has not been so in my experience; it’s a theological mistake. There is accountability—we are responsible for our actions, and nobody gets out scot-free—but that accountability does not include the loathsome idea of eternal damnation. No mother or father would do that to their child for making mistakes, and likewise the supreme intelligence of the universe would not do that to human beings.
 
-**SANDIE SEDGBEER:** It’s hard to imagine that an infinite oversoul is “me.”
+Now, as you know from my book LSD and the Mind of the Universe, I spent many years entering hell realms—experiencing extreme torture that looks like a hell realm. My eventual understanding is this: just as my individual psyche retains all my memories, good and traumatic, there is a consciousness of the human species that retains all of its memories and processes them in a central meta-psychological condition—what Jung called the collective unconscious. That means all the terrible things human beings have done to each other—all the wars, horrors, injustices, rapes, pillaging—to the extent they have not been clarified or healed, become part of the collective torment, the collective shadow of humanity. You might say that within the human psyche there are clusters of memories with a hellish quality. But that doesn’t mean there is a cosmological state of eternal hell, because just as individuals can clear bad experiences from their system, the human species can clear terrible trauma from its system. I think that in the early Church, some who had contact with these collective hellish realms mistakenly interpreted them as a cosmological principle of eternal hell.
 
-**CHRIS BACHE:** It’s hard at first. It gets easier with practice—especially experiential access. When you open to
+Sandy Sedgbeer
+We’ve got less than four minutes left. Quickly, go back to whether there is room for reincarnation in Christian thought. You say it would only take a small—
 
-awareness predating this body and meet other lives with the uncanny quality of being you while other than you,
+Chris Bache
+Of course, traditional Christianity would say there’s no room whatsoever—one life, eternal hell. But Christianity has also committed itself that if anything can be demonstrated as a fact, then we’ll find out how it works and integrate it into theology. If reincarnation is demonstrated as a fact—which I think it has been and is being—then Christianity will find out how it works and make room for it. All we have to do to incorporate reincarnation within a Christian framework is expand the notion of the age of the soul. We can even give Jesus a unique role in salvation history if we want to—we may also see him as part of a brotherhood and sisterhood of awakened beings helping humanity. But even if we want to make Jesus the unique savior in Christianity, all we have to do is open up the notion that the journey of the soul is a maturation that takes place over many lifetimes; it’s not finished in one. Then the inadequacies foisted on Christianity by the short-sighted assumption of only one lifetime fall away. If you live six days and die, there’s a consequence to that; or if you do something bad in the first ten years of your life, you could go to hell for the rest of your life—these are terrible consequences. The kindness of the universe, the compassion of Jesus, has much more room to grow in a world that understands he’s talking to souls, not simply personalities.
 
-and you work with several such lives, your mind and heart dilate. Eventually it’s hard to think smaller again.
+Sandy Sedgbeer
+Last question, very quickly. You end the book by talking about the web of life—understanding life’s rhythms as an ongoing dialog, which you’ve kind of covered. Is there anything you want to add?
 
-**SANDIE SEDGBEER:** Why do we reincarnate?
+Chris Bache
+I’ve lived in the reincarnational worldview so long—teaching it, listening to people’s stories and processes—that it’s natural to me to understand the uniqueness of every soul and every incarnation, and the complex background web between lives and circumstances. To see life the old way, in a silo, is completely unnatural—intellectually and spiritually untenable, and spiritually unnourishing. Reincarnation doesn’t answer all our questions, but it opens deeper and deeper questions and answers, bringing a richness and deep satisfaction to the life process. It takes out this terrible horror of a good God—
 
-**CHRIS BACHE:** To learn, to grow, to become more. It reframes the purpose of existence. If we live one life,
+Sandy Sedgbeer
+I’m going to have to cut you there—we’ve gone over time. I’m so sorry, but what can I say? Talking to you is always fascinating. Thank you so much for joining us today.
 
-meaning must fit within decades. If we live many, development is open-ended. Imagine God saying, “Help me grow
+Chris Bache
+Thank you, Sandy.
 
-this universe.” Incarnation becomes direct participation in creation, moving toward heaven on earth—embodied,
+Sandy Sedgbeer
+Life Cycles: Reincarnation and the Web of Life is still available in paperback. For more information about LSD and the Mind of the Universe and Chris’s other books, articles, and events, visit his website, chrisbache.com. That’s it for this week. I’ll be back at the same time next week with another What Is Going OM. Till then, it’s goodbye from me, and thank you again to Chris Bache.
 
-luminous awareness. Enlightenment is a stage within a much longer arc.
-
-**SANDIE SEDGBEER:** But if we’re sparks of God and know everything when we die, why return and “forget”?
-
-**CHRIS BACHE:** We don’t forget everything. Conscious recall narrows, but what we’ve known is built into our
-
-unconscious and capacities—like gifted children who can’t explain where skills came from. We re-express that
-
-knowledge and expand it. By life’s end, we’ve incarnated more of what we carry.
-
-**SANDIE SEDGBEER:** How can mediums bring through loved ones if those souls are in the bardo—or already
-
-reincarnated?
-
-**CHRIS BACHE:** A simple model: after death we return to the Soul, review, assimilate, and exchange the small
-
-identity for the large. If I die and want to see my father, his Soul can meet me, presenting the “front image” I
-
-knew as my dad, then deepening into soul-to-soul exchange. Mediums may contact that persona for compassionate
-
-communication, but we shouldn’t assume that persona is the soul’s post-death state.
-
-**SANDIE SEDGBEER:** Another common question: with more people alive now, where do the extra souls come
-
-from?
-
-**CHRIS BACHE:** Think of a campus that grows though the town is much larger. We’ve no reason to think the
-
-number of souls is small or fixed. Perhaps billions wait to incarnate as openings arise. The spiritual universe dwarfs
-
-the physical. Robert Monroe emphasized that the physical is a slice; most reality is nonphysical.
-
-**SANDIE SEDGBEER:** Monroe also suggested some humans evolved from higher animals.
-
-**CHRIS BACHE:** Many reincarnation traditions hold that the process correlates with the birth of individualized
-
-consciousness in the animal kingdom and extends before the human.
-
-**SANDIE SEDGBEER:** Regressionist Linda Backman, trained by Michael Newton, says more people now access
-
-non-Earth lives.
-
-**CHRIS BACHE:** Theoretically, why not? If life is abundant and reincarnation trans-local, crossover is conceivable.
-
-I’ve no personal experience of that, but I respect those reports.
-
-*\[Mid-show break and sponsor messages\]*
-
-**SANDIE SEDGBEER:** I’m attached to this personality. I don’t like the idea that she disappears, like an actor
-
-shedding a role. Could I reconnect or even bring “her” back?
-
-**CHRIS BACHE:** Nothing essential is lost. We take not only memory but a vivid, living version of our earthly
-
-experience—“in technicolor and stereo,” as NDErs say. The Soul can crystallize any of its lives’ forms, or integrate
-
-them. To me it isn’t sacrifice; it’s trading up from a bicycle to a starship.
-
-**SANDIE SEDGBEER:** Sometimes I feel spiritually unimpressive for someone who’s lived millennia. Could I ever
-
-become like a guide or angel?
-
-**CHRIS BACHE:** Your essential nature already is that. Also, don’t judge a soul by appearances. Like a student
-
-switching majors, a seasoned soul can look like a beginner in a new curriculum. And look at your work—amplifying
-
-spiritual dialogue at a time the world needs it. I think there are more bodhisattvas than we recognize.
-
-**SANDIE SEDGBEER:** Some teachers warn not to go to the white light or you’ll be trapped in cycles. Your view?
-
-**CHRIS BACHE:** The light is a homing beacon. Follow it as far as you can. People naturally stop where they’re
-
-comfortable—one of many bardo levels—and later choose to reincarnate. Training increases comfort so you can go
-
-“all the way,” into what Buddhists call extra-samsaric reality. I’ve touched that, and it changed my life.
-
-**SANDIE SEDGBEER:** Why was reincarnation removed from Christianity? In the first centuries it appears; then
-
-under Justinian it’s gone.
-
-**CHRIS BACHE:** It’s complex. Did Jesus teach reincarnation? Some Gnostic texts say so; whether they reflect the
-
-historical Jesus is debated. Early Christianity had multiple streams; some affirmed reincarnation and women’s
-
-clerical leadership—both later filtered out. Geddes MacGregor argued reincarnation isn’t inherently at odds with
-
-core Christian teaching. Historically, the Church centralized authority amid imperial collapse. Mediation by clergy
-
-became the model of salvation. From a reincarnational view, that constrained individual spiritual autonomy.
-
-**SANDIE SEDGBEER:** You devote a chapter to the “hidden phase” between lives.
-
-**CHRIS BACHE:** That’s why I named the book *Life Cycles*. If you only study birth-to-death, you miss half the
-
-cycle. There’s a fairly patterned process after death. Michael Newton’s work maps it well: life review,
-
-assimilation, re-immersion in the community of souls, rest, then focusing on the next curriculum with guidance.
-
-We’re shown options and choose challenges suited to growth and service. Then—hello, newborn.
-
-**SANDIE SEDGBEER:** Rough stats say about 57% believe in life after death; 12–44% (varies by country) believe in
-
-reincarnation; about 75% believe in heaven—and hell. How do you see heaven and hell?
-
-**CHRIS BACHE:** The Buddhist framing helps. After death, what we are is mirrored back. Generosity returns as
-
-heavenly experience; harm returns as hellish experience—not punishment, but education. It’s a stage in debriefing.
-
-Beyond it there’s a “heaven of heavens”—infinite love, knowledge, and bliss—within which the human drama is a
-
-small part. I do not accept an eternal hell. There is accountability, but no cosmic parent condemns a child
-
-forever.
-
-**CHRIS BACHE:** I have spent long stretches in hell realms in my work—torturous, collective suffering. My take is
-
-that the human species retains its unprocessed trauma in the collective unconscious. Those clusters can feel like
-
-hell, but like personal trauma they can be metabolized. Some in the early Church may have misread encounters
-
-with collective shadow as a metaphysical doctrine of eternal damnation.
-
-**SANDIE SEDGBEER:** Is there room for reincarnation in Christian thought?
-
-**CHRIS BACHE:** If reincarnation is established as fact—and I think the case is strong—Christianity can integrate
-
-it by expanding the age of the soul. One can retain Jesus’s unique salvific role if desired, or situate him within a
-
-communion of awakened beings aiding humanity. Most importantly, maturation unfolds over many lives, not one.
-
-That dissolves cruel implications of a single lifetime determining eternity. Jesus speaks to souls, not just
-
-personalities.
-
-**SANDIE SEDGBEER:** You end with the “web of life,” an ongoing dialogue across lives and between lives.
-
-**CHRIS BACHE:** After living and teaching in this frame, the old siloed view feels unnatural and spiritually thin.
-
-Reincarnation doesn’t answer everything, but it opens deeper questions—and richer answers.
-
-**SANDIE SEDGBEER:** We’re out of time. Chris, thank you for a fascinating conversation.
-
-**CHRIS BACHE:** Thank you, Sandie.
-
-**SANDIE SEDGBEER:** *Life Cycles: Reincarnation and the Web of Life* is available in paperback. For more about
-
-*LSD and the Mind of the Universe* and Chris’s articles and events, visit chrisbache.com. See you next week on
-
-*What Is Going OM*. Thank you, Chris.
-
-*\[Music\]*
-
-# Key themes
-
-- Reframing identity: soul of one life vs. capital-S Soul/oversoul holding all incarnations
-
-- Evidence base: Stevenson’s child cases, therapy recall, and structured interlife reports
-
-- Purpose of reincarnation: evolutionary learning and participation in creation
-
-- Carryover across lives: traits, talents, virtues, and trauma blending into new incarnations
-
-- Bardo dynamics: following the light, levels of comfort, and extra-samsaric realization
-
-- Mediumship as compassionate “front images” rather than fixed post-death states
-
-- Heaven and hell as educative mirrors, not eternal destinations; collective trauma and healing
-
-- Christianity and reincarnation: historical filtering, theological compatibility, and updates
-
-- Interlife planning: review, assimilation, guidance, and choosing next curricula
-
-- Openness to non-Earth lives and a spiritual cosmos larger than the physical
-
-# Revision history
-
-date | editor | change
-
---- | --- | ---
-
-2025-08-19 | gpt5 model by OpenAI | Initial transcript formatted to house style; filler removed; ad break summarized.
+Chris Bache
+Thank you, Sandy.

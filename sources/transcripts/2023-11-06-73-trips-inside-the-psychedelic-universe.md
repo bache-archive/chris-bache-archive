@@ -1,5 +1,4 @@
 ---
-
 archival_title: 73 Trips: Inside the Psychedelic Universe
 
 channel: Regina Meredith
@@ -21,229 +20,156 @@ transcriber: gpt o3 model by openAI
 transcription_date: 2025-07-31
 
 license: CC0 1.0 Universal
-
+speakers: ["Chris Bache", "Regina Meredith"]
 ---
-
-Regina Meredith welcomes philosopher and religious-studies scholar **Christopher Bache** for an
-
-exploration of his twenty-year odyssey with 73 high-dose LSD sessions. Bache recounts the strict
-
-protocol he followed, the alternating agony and ecstasy of ego dissolution, and the vast
-
-transpersonal realms he encountered—from archetypal feminine identity to collective human
-
-suffering, cosmic architects, and visionary glimpses of humanity’s evolutionary future. He
-
-describes the “diamond soul” awaiting birth within the species, explains how karma operates across
-
-lifetimes, and reflects on the global crisis as a multi-decade rite of passage toward higher
-
-consciousness. Throughout, Bache emphasizes that psychedelics are merely amplifiers; it is
-
-consciousness itself that drives transformation. The conversation offers both cautionary notes on
-
-extreme psychedelic practice and an inspiring vision of humanity’s potential.
-
+<!-- diarist_sha1:1b305e34ea02e15a221dfeb35eb1ce675f0480e1 -->
 ---
+Regina Meredith: 
+Chris, hi everybody. We're going to have a phenomenal conversation with Christopher Bache, who I consider to be—and I know he'll be blushing if I say this—a hero of our times for being willing to take on a journey most of us could not withstand to explore the nature of consciousness, the mind of the universe. In his book, LSD the Mind of the Universe, he shares experiences from some 73 journeys he undertook with a very prescribed protocol and a sitter protecting him over decades, journeying sequentially farther into what the future of humanity might look like. So here we go. Meet Christopher Bache, if you don't already know him. Hello, Christopher, it's so good to see you. After reading your book—and hearing from others who’ve read it—the question that comes up about halfway through is, why in the world did you continue when you went through that much pain and suffering, sometimes taking months, even a year, to recover from a journey, and yet you would come back? You were relentless in your search. To set it up briefly for people: you’re a professor of theology and philosophy. What made you go on this journey starting way back when?
 
-**REGINA MEREDITH:** Hi, everybody. We’re about to have a phenomenal conversation with
+Chris Bache: 
+At first, I think it was a foolish strategy to push it as hard as I did, but I didn’t know any better at the time—or I was young and stupid. I was trained as a philosopher of religion with a passionate desire to understand the deep structure of the universe. I had studied some of the great minds in our Western and Eastern traditions. When I found the methodology that Stan made available, I decided to push it as long and as hard as I could. There was a great deal of suffering, episodically and periodically. But at the end of every episode of intense suffering, there would be a breakthrough into a phase of deep, ecstatic bliss and deep transpersonal encounter. The value of those insights and that ecstasy more than balanced out the transient episodes of suffering.
 
-**Christopher Bache**, whom I consider a hero for undertaking a journey most of us could not
+Regina Meredith: 
+In the beginning, when you first started, you titled that phase “the death of the ego.” It took you about 20 years after these experiences to finally write this book for the rest of us. While you were in the midst of it, you were saying, “What was I thinking?” We only have about 45 minutes, so people will have to read the book; we’re going to hopscotch through the phases. But let’s start with “What was I thinking?” What happens upon the dissolution of the ego?
 
-withstand—73 carefully structured LSD sessions to probe the nature of consciousness. Welcome,
+Chris Bache: 
+If you want to allow your consciousness to expand into deeper dimensions, you must surrender the narrow bandwidth of your individual body-mind-ego. This can happen slowly or fast, convulsively or smoothly, but the identity we hold has to be shattered, destroyed. When it’s destroyed, consciousness naturally expands into a deeper register, a wider spectrum. If your journey continues repeatedly, you go through many such death sequences, but it’s not a repetition of the original ego death. That first ego death is the initial transition from your time-space identity into a deeper spiritual experience of the universe.
 
-Christopher.
+Regina Meredith: 
+On the subject of death—as you say toward the end of the book—you relished the death process by the end. Death was something you looked forward to in each journey because it freed you from constraints of consciousness. We’ll build to that. One phase you went through: you became a woman. You started experiencing life, birthing, the elements of being a woman—when part of your identity was being male, an academic, and so forth. Briefly, what did that do to you when you suddenly connected with the female experience after being male?
 
-**CHRISTOPHER BACHE:** Hi, Regina. It’s good to see you.
+Chris Bache: 
+About two and a half years into my journey—around sessions 10 or 11—the universe put me into a situation where I could experience nothing except from within a feminine identity. It was a womanly form that was the exact opposite of my male, academic, intellectually oriented form. It was totally terrifying to experience being me but not being me within a framework I’d never known. It snapped me. When I let go and yielded, I became hundreds—potentially thousands—of women and was given a journey into the world of women under the arm of the Great Mother. It was ecstatic. When it opened, I thought, Why was I afraid of this? This is marvelous. The universe was teaching me that where I was going, gender does not exist. All gender, all roles based on gender, and any aspect of my historical personality had to be surrendered if I was going to experience more intimately what is there.
 
-**REGINA MEREDITH:** After reading your book *LSD and the Mind of the Universe*, everyone asks the
+Regina Meredith: 
+On behalf of the men and women watching this: what was the most terrifying or difficult part initially of being confronted with a woman’s reality?
 
-same thing halfway through: why did you keep going? You endured pain so intense it sometimes took
+Chris Bache: 
+The most terrifying part at the beginning was simply that it wasn’t my reality. It was a reality, but not mine, and I couldn’t get out of it. I was trapped within a feminine mode of experience that just wasn’t me. There was nothing inherently frightening about it. When I let go and flowed with it, it was like having half of the human race open to me that hadn’t been open before. I believe in reincarnation—we’ve been men and women many times—so there’s nothing foreign in that way. This was different. It opened almost into—not quite an archetypal dimension of womanhood—but certainly the collective life lived by women in history, in time. The joy was experiencing a whole different way of being alive than I had known as Chris Bache, as the—
 
-months to recover, yet you returned again and again. Why?
+Regina Meredith: 
+—as the academic, as the male engaging in academic conversation, and here you’re dealing with a very different kind of connection and flow between women. I thought that was fascinating. It’s an interesting part of your book.
 
-**CHRISTOPHER BACHE:** Looking back, it was probably foolish to push so hard, but I was young and
+Chris Bache: 
+I wish every man could have an experience like this. It truly changes things profoundly.
 
-driven. Trained as a philosopher of religion, I wanted to understand the deep structure of reality.
+Regina Meredith: 
+And the other way around—women should have the other, so we understand what each other is contending with in our bodies and this reality. Let’s move forward to session 11. It becomes about archetypal, deep mass suffering you had to go through, witness, and experience. Tell us what that body of collective memory felt like and looked like to you, because we’re still in it.
 
-When I discovered Stan Grof’s protocol, I decided to pursue it relentlessly. Each bout of
+Chris Bache: 
+My transition from an ego-death process, which is very personal, led into two years of excruciatingly difficult waves—vast landscapes of human suffering: war, violence, unimaginable anguish. That transition was marked by an experience I call “the killing of the children.” I was an old woman confronting soldiers who were killing thousands of children, smashing their heads on rocks—terrible. I think that experience prepared me for the ocean of suffering phase. It awakened a depth of compassion, embedded at a soul level, to take on the work my soul had chosen in this lifetime. I learned that just as individual trauma gets buried in our psyche and compromises our health, the trauma of history is buried in the collective psyche of humanity. Anything not resolved by the species accumulates in massive memory structures I call metacoic systems. Something guiding my sessions began to use them to confront, absorb, and transmute vast territories of collective anguish embedded in the collective psyche—meaning the patient stopped being Chris Bache and, in some way, became an aspect of the human species.
 
-suffering was followed by breakthroughs of ecstatic bliss and profound insight—rewards that far
+Regina Meredith: 
+With that, I want to ask about something current: the Middle East—Palestine and Israel—collective side-taking, anger, depression, anxiety, and the End Times narratives that circulate. Having been through what you’ve been through, how do you see these times laid into what you experienced?
 
-outweighed the pain.
+Chris Bache: 
+Jumping many years ahead, I summarized my experiences of our time in a chapter called “The Birth of the Future Human.” Over many years, I was given visions of humanity coming to a turning point, a spiritual breakthrough—an evolutionary shift in the plate tectonics of the collective psyche. In 1995, I dissolved into the species mind, into what I call deep time, taken into the future where I experienced a death-and-rebirth of the human family—not as individuals, but humanity as a whole. It was a global systems crisis precipitated by escalating ecological crises. I wasn’t given details, dates, nothing about artificial intelligence or a third world war—just the experience of a prolonged loss of control and a collapse of everything considered normal and necessary. Since then, I’ve lived with this awareness. For me, it’s not a projected fantasy; it’s an experience, so I don’t question its truth. I see this period as one of increasing destabilization: conflicts between races, religions, sexes, classes—tremendous things we’ve done to each other for thousands of years. We have to grow spiritually into the next form emerging in the human. I think this process will continue to deepen for decades. What’s unfolding now is the overture, bringing to the surface age-old hatreds that we must transform. I don’t offer political solutions; my perspective isn’t ground-level. It’s from far above the Earth, looking at the long evolutionary trajectory.
 
-**REGINA MEREDITH:** Your first phase was the “death of ego,” and you wondered, *What was I
+Regina Meredith: 
+Thank you for that incredibly thoughtful and articulate answer. Now, working our way back to session 15, where you learned about karma—because all of this has karma embedded in it. Tell us what you learned about the essence of karma at that time.
 
-thinking?* Describe that initial dissolution.
+Chris Bache: 
+As a professor of religious studies, I had an intellectual understanding of karma: cause and effect generated by choices. There are physical and psychological cause-effect processes. In karmic thought, every choice sets in motion events whose consequences we eventually receive. By receiving the effects, we learn and make new choices. Session 15 wasn’t theoretical; it was being shown the karma of my particular life. For a year—seven sessions—I experienced the entirety of my life, from beginning to end, as a complete totality. This was my first entry into what I call deep time. In that context, when I looked at relationships and professional issues, I saw how deeply embedded they were in karmic causal processes—that my position in history wasn’t accidental, the people around me weren’t accidental. It was a meaningful fabric. The question then became: how do you respond most effectively to the meaningful fabric your life is part of?
 
-**CHRISTOPHER BACHE:** To reach broader consciousness you must surrender the narrow bandwidth of
+Regina Meredith: 
+That brings me to something else. Two days ago a book was released by Dr. Robert Sapolsky about the science of living with no free will. He concludes there’s no such thing as free will—that we’re machines and can’t lay anything we do upon ourselves. I’d love your response.
 
-body-mind ego. Whether gradual or sudden, that identity must shatter. Once it does, awareness
+Chris Bache: 
+I haven’t read the book, but that position is familiar among philosophers. It derives from a 19th-century metaphysics that sees the universe as a deterministic machine: all parts determined by the whole, leaving no freedom. I think that vision is deeply outmoded. We’re looking at a quantum world that values indeterminacy—there’s more flexibility in the system than we thought. Ninety-six percent of reality is dark matter or dark energy, and we don’t know anything about it. If we step back, it’s clear much of our psychological life is highly conditioned. But within that conditioning, we make choices, and our choices can increase or reduce conditioning, increasing our freedom. Nobody exists in pure, absolute freedom—except perhaps the fully awakened. But we can increase freedom by skillful choices.
 
-expands into deeper registers. Over a long journey you die many deaths, but the first ego death is
+Regina Meredith: 
+I was disturbed because the media amplified that view. It essentially says we have no self-responsibility. Considering the quantum reality we’re becoming aware of—and your work on the soul—one line from your book stayed with me: energy started must simply complete itself; that’s the nature of karma. Then you define the soul as “a story of individual consciousness, ultimately sourced in the creative intelligence of the cosmos, systematically moving back and forth between the physical universe and a surrounding Metaverse in a long journey of self-development.” It’s one of the best definitions of soul I’ve seen. Anything you’d add so people understand the soul is here for expansion, experience, and choice—what it is and what it’s here to do?
 
-the gateway from time-space identity into spiritual reality.
+Chris Bache: 
+Just as we have a center of integration that holds together the experiences of this lifetime, the soul is a center of integration that holds all of our experiences from all lifetimes and the times in between. It’s a learning system, continuously growing, expanding, and deepening. Classic spiritual traditions say the essence of the individual soul is the essence of the totality—Atman is Brahman; the essence of the soul is the essence of the Divine. In my deepest experience, the form of the soul and of all reality is light—not light as in the physical world, but a much more profound light that is self-aware and learning over vast epochs of time. I think we’re entering a transformation in which we are giving birth to the soul inside time and space. Usually we die and expand to the soul, incarnate and contract to ego, then die and expand again. If we keep that up for hundreds of thousands of years, sooner or later the integrated consciousness we return to when we die wakes up inside the individual human being. That’s what I call the birth of the diamond soul—literally waking up inside physical existence. That, I think, is the challenge of this century. We no longer have the luxury of running this planet from the psychological structure of the individual ego. The ego is magnificent, but limited—cut off from each other and the larger universe. We need to grow up fast—awakening to the soul we already are but haven’t fully experienced inside time and space.
 
-**REGINA MEREDITH:** Later you became a woman—experiencing life, birth, and connection from a
+Regina Meredith: 
+Well, that’s an understatement—we do need to wake up fast. Now, there was a session after which you didn’t have another for six years. You quit for six years. Briefly, why did you stop, and what happened when you picked it back up? That’s the fascinating part to me.
 
-female perspective. How did that change you?
+Chris Bache: 
+I stopped because my wife—who was my sitter—asked me to. Too many novel and disruptive things were coming out of my sessions; she wanted it to slow down. So I did. I always knew I’d resume, and when I did six years later, I had her support and she continued as my sitter through the remainder. It was a husband–wife negotiation.
 
-**CHRISTOPHER BACHE:** About two-and-a-half years in, the universe forced me to perceive solely
+Regina Meredith: 
+The other part I found interesting is that when you picked it back up six years later, you were picked up at the exact same spot you left off.
 
-through a feminine identity—the opposite of my male academic self. At first it was terrifying; then
+Chris Bache: 
+That was striking. I was in the middle of the ocean of suffering—horrendous suffering. Six years later, different period of my life, different expectations, different astrological aspects—my sessions began exactly where they had stopped and deepened the ocean of suffering for another year. Meanwhile, the ecstatic portion had shifted. When I had stopped, I was experiencing the whole of my life from start to finish; when I resumed, I left that behind and was taken into subtle-structure reality, given a crash course in cosmology—how the universe works.
 
-an ecstatic world opened. I became hundreds of women under the Great Mother’s arm. Gender roles
+Regina Meredith: 
+Then we go to sessions 25 and 26. You were out in the cosmos and started encountering vast beings—almost like galaxies in themselves. Most of us have never seen or felt this. Give us a glimpse into what seemed to be the makeup of these beings. You said these beings live through humanity, experience through humanity, love through humanity.
 
-dissolved, preparing me for realms where gender doesn’t exist.
+Chris Bache: 
+I’ve had reservations about that particular line, but I kept it in because it’s in my original notes. When the ocean of suffering culminated, it exploded me into a deeper level of consciousness. The distinctive qualities were twofold: it was incredibly ancient—beyond anything I’d imagined—and more real than time and space. I eventually came to understand it as archetypal reality: a level that exists before time and space and contributes fundamental structures to them. The vision is that all reality emerges out of a primal One which starts as a void and manifests as the Big Bang. Between the One and even the Big Bang, there are many gradations—unfoldings of the Divine, though I hesitate to use that word because of its connotations. There are many layers, and lower levels are sourced in the actions of higher levels. I was encountering these—whether to call them beings or principles—vast entities others have experienced too. The best my mind could do to give them form was to see them as galaxies—images borrowed from Hubble and James Webb—though they weren’t galaxies, just that massive in scale. These beings were part of creation, creating time and space and some of the structures within it. Far down the line we have human beings. The insight was that all human existence—and, in fact, all existence—was an expression of the intentions of these deeper cosmological principles and beings. I’m not sure I got all the pieces lined up, but I do think all human experience, male and female, is an aspect of a species intelligence; that species intelligence is an aspect of a planetary intelligence, which is an aspect of a solar-system and galactic intelligence. These deeper intelligences manifest as our lives; they experience the world as we do, experiencing the adventures we are having.
 
-**REGINA MEREDITH:** Session 11 plunged you into archetypal mass suffering—war, violence, horror.
+Regina Meredith: 
+That brings us to the question: if we’re toward the end result of these vast systems of consciousness, intelligence, desire, and creativity, how much of what we’re expressing in the world is sovereign at all?
 
-What did that teach you?
+Chris Bache: 
+When I experienced this embeddedness in higher orders of creation, I never experienced it as manipulative, nor as compromising my individual agenda or freedom. I experienced a downward flow of causation as part of a gracious, compassionate, intelligent process giving us opportunities to grow and develop that we might not otherwise have. We live in a conditioned universe—levels upon levels—and at the same time a creative universe, constantly manifesting new levels, new things emerging out of our deep structure. I was seeing a complexity that had always been there but I hadn’t appreciated. Whatever is happening has always been happening this way—it’s just that we’re beginning to be aware of it.
 
-**CHRISTOPHER BACHE:** The pivotal vision was the *killing of the children*, awakening soul-level
+Regina Meredith: 
+Thank you—that’s something each of us could revisit over and over to get our minds around the vastness, and I appreciate that you felt it was filled with grace. Another theme is purification through reincarnation. We’re looking at groups, epochs, periods of history involved in reincarnation—purification through reincarnation as groups of people throughout history. What does that look like?
 
-compassion. I learned that historical trauma is buried in the collective psyche much as personal
+Chris Bache: 
+My focus wasn’t on groups but on all of humanity. When I moved into the archetypal domain, I first encountered cosmic archetypes, then was dropped into a more Jungian level. There I experienced all of humanity repeatedly as a single organism and was given many lessons over the next year: each of our minds is like a fractal spark within a species mind; each of our bodies a cell within an integrated body of humanity. There is a continuous feedback system—flow from the whole of humanity into each of us, and the choices we make flowing back into the collective—very similar to Rupert Sheldrake’s morphic fields theory.
 
-trauma lodges in the individual. My sessions shifted: I was no longer the patient; some aspect of
+Regina Meredith: 
+We tend to incarnate during different periods of history to purify a previous period of history. But we’re doing it together—as a species—and as soul and tribal, geographic groups.
 
-humanity was being healed through me.
+Regina Meredith: 
+We’re going to get to the Diamond Soul in just a moment. First, one big question, because it’s a common assumption: many believe that reaching oneness is the end of the journey. You once held that belief. What did you discover when you finally experienced oneness?
 
-**REGINA MEREDITH:** Today many see current conflicts as “end times.” From your vantage, how do you
+Chris Bache: 
+Oneness is a profound truth—absolutely foundational across the world’s spiritual traditions. It brings us in touch with our essential nature beneath the variability of our surface nature and generates deep compassion. When you’ve experienced oneness, you naturally become gentle with everyone around you, including yourself. It’s a profound step in our spiritual journey, but I don’t think it’s the final step. Sometimes the end is described as dissolving into the primal void that precedes even the physical universe, but in my experience, even that is not the end.
 
-interpret this era?
+Regina Meredith: 
+As you’ve said, it does not exhaust all cosmological truths.
 
-**CHRISTOPHER BACHE:** In 1995 I experienced humanity’s death-and-rebirth: a global systems crisis
+Chris Bache: 
+Oneness is a profound stage, but the universe has been evolving for 13.7 billion years and will continue for billions more. An individual—or a species—awakening to oneness is a turning point, but evolution and its challenges continue. It’s not that we achieve oneness, become realized, and then leave the planet for some off-world paradise. Oneness is a stage in our journey. I would start sounding like science fiction if I tried to share everything I’ve been shown about the magnificent being humanity is evolving into.
 
-triggered by escalating ecological breakdown. I wasn’t shown dates or specific events, only a long
+Regina Meredith: 
+Please go there. This audience is open to “science fiction.”
 
-period of destabilization that forces spiritual evolution. Current turmoil is just the overture of
+Chris Bache: 
+The future human—what I’ve called the birth of the Diamond Soul—is not simply a person with a healed, expanded heart holding the world in compassion, nor just an open mind in communion with the intelligence of the cosmos. It’s a transformation of our fundamental physiology and sensory experience. We tend to view sensation mechanistically—light enters the eyes, the brain processes, we touch, we taste. But in my sessions it wasn’t that simple. The more consciousness we consolidate—not just over a single lifetime, but over thousands of years—the more it heals the heart, opens the mind, and enlivens the senses. Our visual experience is in the process of becoming hundreds of times more sensitive than it is today. Taste, touch, sexuality—all the senses are being transformed. And if we ask, how far can this—
 
-decades of deepening challenge that will birth the future human.
+Regina Meredith: 
+—go? You had an experience where you didn’t understand what was happening at first. I think you were looking at your hands, correct?
 
-**REGINA MEREDITH:** Session 15 revealed karma in action. What did you see?
+Chris Bache: 
+It was my very last session—the 73rd—about five hours in, and I was given an experience I came to call diamond vision. Suddenly my sight was a thousand times sharper than I’d ever known. I could discriminate colors, shades, textures with extraordinary precision. Looking at my hands, I could see every pore at the base of every hair follicle. I could see dust floating in the air with great clarity. I could count leaves on a tree. After about ten minutes it disappeared, and I was back to perfectly normal vision. That’s when I understood I was seeing through the eyes of the future human—that the future human involves a transformation of our physical sensations. Our entire existence is being polished and brought forward into deeper forms of manifestation by the universe.
 
-**CHRISTOPHER BACHE:** Beyond theory, I witnessed my entire life—beginning to end—as a completed
+Regina Meredith: 
+Beautiful. And, as I recall, in sessions 71 through 73 you were shown that this vehicle—the human being—is designed for rapid transformation. Please expand on that before we close.
 
-whole, embedded in a karmic fabric with everyone around me. Choices ripple through time; our task
+Chris Bache: 
+In the 70th vision, I was given what I consider the last great vision of my journey; after that, it was wrapping up. I was taken into deep time and shown three core experiences. One was an insight into how humanity is designed for accelerated evolution. On the surface, we reincarnate: we learn, grow, change, make decisions, and return different. But beneath the incarnating self is a deeper structure that holds all our incarnational memories—a fundamental blueprint from which we act. Humanity grows and changes individually, while a very specific structure in the collective psyche accumulates and stores that information. Periodically, that deeper structure pivots—what I call a shift in the plate tectonics of the collective psyche. It’s the genius of creation: we learn individually, it collects at a deeper level, and when that deeper level shifts, all subsequent individual experience unfolds from that changed fundamental psyche. After the birth of the future human, all future incarnations of human beings will operate out of this transformed collective psyche—and the process continues. Individuals learn and grow; it’s collected at depth; that level learns and grows—like Rupert Sheldrake talks about morphogenic fields—an ongoing, continuously evolving process.
 
-is to respond skillfully within that meaningful weave.
+Regina Meredith: 
+Over the years I’ve also interviewed people who channel beings from other times and spaces, and a recurring theme aligns with what you’re saying: humanity is moving toward an expansive, refined being operating primarily through the heart center and ultimately modeling for other species across the universes. Is that how you saw it too, once embodied?
 
-**REGINA MEREDITH:** Neuroscientist Robert Sapolsky just claimed free will is an illusion. Your
+Chris Bache: 
+There was just one line across all the sessions that hinted at something like that. What I intuited was that Earth is a hothouse growing a form of consciousness that would, in time, be exported to other solar systems in our galaxy. I don’t think we’re the origin of all life—there’s highly developed evolution taking place elsewhere—but here we seem to be growing something destined for more than planet Earth.
 
-thoughts?
+Regina Meredith: 
+You have validation there from other sources. It may take a while to get there—we have to trip through these times. I can’t thank you enough for the courage it took. We didn’t talk about what you went through, but we’re talking about life-wrecking consequences of taking such high doses of LSD. You say now it was really insane to have done, but you didn’t know any better. You lived through it, thank God, because it really pushed you out there.
 
-**CHRISTOPHER BACHE:** That view rests on a 19th-century deterministic metaphysics. Quantum
+Chris Bache: 
+I do not recommend it. I’d be much gentler if I were doing it again, and I recommend a gentler protocol if you’re going to work with psychedelics.
 
-reality values indeterminacy. Yes, much of our psychology is conditioned, yet within conditioning
+Regina Meredith: 
+Yes, and you say that repeatedly in the book. I recommend people really dive in—we just touched a few places here. There’s so much more connective tissue to the story of the collective human being. Any final thoughts before we sign off?
 
-we choose—and those choices can increase or decrease conditioning.
+Chris Bache: 
+First, thank you for helping bring this work forward. Psychedelics are simply a protocol—a modern methodology for accessing deep states of consciousness. They’re not the signature of the work; they’re an amplifier. Consciousness does the work. Used skillfully, these sessions open us to these realities—but at the end of the day, I would de-emphasize the psychedelics and emphasize the consciousness they amplify.
 
-**REGINA MEREDITH:** You define the soul as “a story of individual consciousness ultimately sourced
+Regina Meredith: 
+And there are many ways to reach that. Christopher, thank you so much. I look forward to meeting you in the flesh at the Gaia Studios, where we’ll start filling in some of the pieces we couldn’t get to today.
 
-in cosmic intelligence, moving between physical universe and metaverse.” Can you expand?
+Chris Bache: 
+Thank you, Regina. I look forward to that too.
 
-**CHRISTOPHER BACHE:** The soul is a center of integration collecting experiences across all
-
-lifetimes. Its essence is the same light that is the essence of the totality. Our evolutionary
-
-challenge now is to awaken that soul *inside* time and space—what I call the birth of the diamond
-
-soul.
-
-**REGINA MEREDITH:** You paused for six years at your wife’s request, then resumed at the exact
-
-point you’d left off.
-
-**CHRISTOPHER BACHE:** Yes. The work restarted in the same ocean of suffering, then vaulted into a
-
-crash course in cosmology—encounters with vast pre-temporal beings whose actions shape time and
-
-space.
-
-**REGINA MEREDITH:** Tell us about those galaxy-sized beings.
-
-**CHRISTOPHER BACHE:** They were unimaginably ancient, more real than time-space—archetypal
-
-architects of creation. Human experience, even male–female polarity, expresses their intentions.
-
-Our minds are fractal sparks within a species mind, nested in planetary, solar, and galactic
-
-intelligence.
-
-**REGINA MEREDITH:** You saw reincarnation as collective purification.
-
-**CHRISTOPHER BACHE:** Exactly. Individual journeys are facets of a species-wide evolution. We
-
-incarnate in historical waves to heal unfinished business together.
-
-**REGINA MEREDITH:** Many assume oneness is the final goal. You discovered otherwise.
-
-**CHRISTOPHER BACHE:** Oneness is foundational—awakening compassion and revealing our true nature—
-
-but evolution continues. The universe has billions of years of creativity ahead. My final visions
-
-hinted at futures that sound like science fiction.
-
-**REGINA MEREDITH:** Please share.
-
-**CHRISTOPHER BACHE:** The future human—the diamond soul—embodies healed heart, expansive mind, and
-
-radically enhanced senses. In my 73rd session I experienced “diamond vision,” seeing with
-
-thousand-fold clarity. Humanity is a hothouse for consciousness that may ultimately seed other
-
-worlds.
-
-**REGINA MEREDITH:** Sessions 71–73 showed that the human vehicle is built for rapid
-
-transformation.
-
-**CHRISTOPHER BACHE:** Individual learning accumulates in a deeper collective structure. Periodic
-
-shifts in that “plate tectonics of the psyche” re-basement all future incarnations. We are entering
-
-one now.
-
-**REGINA MEREDITH:** Final thoughts?
-
-**CHRISTOPHER BACHE:** Psychedelics are just amplifiers. Consciousness does the work. Many
-
-pathways—meditation, prayer, service—lead to the same depths. Use whatever method safely opens your
-
-heart and mind.
-
-**REGINA MEREDITH:** Christopher, thank you. I look forward to continuing this in the studio.
-
-**CHRISTOPHER BACHE:** Thank you, Regina. I do too.
-
----
-
-### Key themes
-
-- Ego dissolution as gateway to transpersonal realms
-
-- Experiencing gender beyond binary identity
-
-- Collective trauma and the ocean of human suffering
-
-- Karma, free will, and the fabric of deep time
-
-- Archetypal architects and nested intelligences
-
-- Reincarnation as species-wide purification
-
-- The impending birth of the “diamond soul” future human
-
-- Enhanced sensory capacities and “diamond vision”
-
-- Global crisis as evolutionary rite of passage
-
-- Psychedelics as amplifiers, not ends in themselves
-
-### Revision history
-
-| Date | Editor | Change |
-
-|------------|-----------------------|-------------------------------|
-
-| 2025-07-31 | gpt o3 model by OpenAI| Initial transcript formatting |
+Regina Meredith: 
+Everybody, the title of the book is LSD and the Mind of the Universe by Christopher Bache, and I can’t recommend it highly enough. It will take you to places you never dreamed existed. Until next time, thank you for joining us here on ReginaMeredith.com. If you enjoyed this video, be sure to subscribe to my YouTube channel, and consider joining Patreon, which allows me to keep this content free and available to everyone. If you’re looking for like-minded souls, you might also enjoy my online community called Our Neighborhood. Links to join are in the description.

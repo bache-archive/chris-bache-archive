@@ -1,0 +1,15 @@
+---
+speakers: ["Chris Bache"]
+---
+<!-- diarist_sha1:df98a55e8155e1fde0d1043967ce99c4cd873c25 -->
+---
+---
+Chris Bache: 
+In all of my work, I felt myself engaging—and being engaged by—a larger consciousness. This consciousness did not take concrete or personified form, and its qualities changed the deeper I went. The way I think of it is that the consciousness we enter into communion with in psychedelic states is an infinite consciousness capable of generating any number of different types of experiences or types of awareness within us. Our mind acts as a seed catalyst, a seed crystal that catalyzes a certain set of experiences from this infinite consciousness.
+
+If you do this repeatedly—integrate, internalize, and go through the various purification processes—it changes your consciousness. Therefore, the consciousness that you take into the next encounter is a different consciousness that catalyzes a deeper set of experiences from the infinite potential of consciousness. What you experience as this guiding intelligence—this massive intelligence that you meet at different levels—is, in a way, a consciousness that arises at the intersection between your individual mind and this universal Mind. As you change, the intersection changes. From my experience, the consciousness that I felt was always guiding my sessions was always invisible to me, but always felt. It seldom adopted concrete form, because the form would change as the experiences deepen. That formless quality is, I think, something innate to the consciousness itself.
+
+In going beyond the collective level of consciousness—beyond the collective psyche and even beyond human history—when you’re pushing so deep, you’re going beyond Jung’s category of archetypal consciousness. You’re going beyond human history altogether. All the interpretive frameworks, all the images, all the concepts that we associate with our religious and spiritual history just fall away. Basically, several thousand years—five or ten thousand years—of religious history fall away, and you move into states of consciousness that go beyond any category of gods or deities or angelic beings. You’re in a completely different world. So, yes: always guidance, always an intelligence engaging me, but formless.
+
+Interviewer: 
+I have yet to get to that level in my journeys, but perhaps someday. I’d like to ask more specifically about the forms that can appear.

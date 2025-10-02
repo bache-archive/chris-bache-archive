@@ -3,80 +3,26 @@ archival_title: "Prof. Dr. Christopher Bache about his work and consciousness"
 channel: "ECR - Existential Consciousness Research Institute"
 published: 2020-01-10
 youtube_id: "QaBoLNV4FQI"
-speakers: ["CHRIS BACHE"]
 transcriber: "gpt5 model by OpenAI (edited from Otter.ai first-pass transcript)"
 transcription_date: 2025-09-30
 license: "CC0 1.0 Universal (Public Domain Dedication)"
+speakers: ["Chris Bache"]
 ---
-
-**Abstract**
-
-This transcript, originally captured by Otter.ai and edited into house style by gpt-5, features philosopher
-and transpersonal researcher Chris Bache reflecting on reincarnation, consciousness, and humanity’s evolutionary
-trajectory. Drawing on Ian Stevenson’s reincarnation studies and his own decades of psychedelic exploration,
-Bache explains reincarnation as an iterative growth process in which souls choose their circumstances, learn,
-die, and expand into spirit before returning. He emphasizes how this larger timescale—tens of thousands of years—
-changes our understanding of relationships, projects, and history. He describes entering non-ordinary states of
-consciousness, integration challenges, and his shift from silence to public sharing. Central lessons include
-banishing fear, cultivating compassion, and recognizing fundamental oneness. Bache concludes with a visionary
-outlook: humanity is entering a global crisis akin to a collective dark night, leading not to extinction but to
-the birth of the “diamond soul,” an awakened, compassionate, expanded human being.
-
+<!-- diarist_sha1:57b1335925ce98e4b966fca3200c0d4179820a50 -->
 ---
+Chris Bache: 
+I have an understanding of the life process from studying cases of small children who have spontaneous memories of their most immediate former life. We have hundreds of these cases documented by Dr. Ian Stevenson at the University of Virginia, and I’ve also studied the work of child psychotherapists who work with children and adult psychotherapists who work with adults, taking people back to the source of their pain, recovering early trauma, and seeing the healing this produces in their present life. Over time, we’ve accumulated enormous evidence that we reincarnate—many, many times. So then the question is: so what? What are the implications for how we live and understand our lives and relationships if reincarnation is a fact of life? My understanding is that when we die, we return to spirit and to soul, into a larger intelligence. Then we consciously choose the circumstances of our next incarnation. We get small and focused in experience, and then we die and expand into the larger arena again. We come back and we learn. It’s like college: you choose your courses, focus for the semester, and at the end you step back and say, “Ah, that’s over—how nice,” and then choose another round. Going back and forth, lifetime by lifetime—over hundreds, thousands, tens of thousands of years—we grow. We become more than we were before.
 
-**CHRIS BACHE:** I came to understand life by studying children with spontaneous memories of former lives. Hundreds of
-cases have been documented by Ian Stevenson at the University of Virginia. Therapists working with both children and adults
-also take people back to the source of trauma for healing. Together, this gives enormous evidence for reincarnation. We
-reincarnate many times. The question becomes: what are the implications for how we live?
+I think this makes an enormous difference. It places all the questions we have about life, all the projects we undertake, and all our relationships on a larger perspective. It lifts the constriction of time from our understanding of existence. If we in fact have tens of thousands of years to accomplish whatever the purpose of life is, it gives us a much larger landscape, a larger canvas on which to understand and then to create. We see that we’re not developing the life process for just years or decades, but for tens of thousands, hundreds of thousands of years. That naturally invites us to undertake projects we won’t fully accomplish in this lifetime, trusting we’ll see their fruition in lifetimes to come. It also expands our sense of connection to others. The relationships we have now probably didn’t begin in this lifetime; they have an older history. Likewise, how we treat people now will have consequences in a subsequent lifetime. The canvas on which we create expands enormously.
 
-When we die, we return to soul, to a larger intelligence, then choose our next circumstances. We focus narrowly for a
-lifetime, then die and expand again. It’s like choosing college courses each semester. Over thousands of years, this cycle
-grows us into more than we were. It changes how we view life, projects, and relationships. It removes the constriction of
-time. If we have tens of thousands of years to mature, we can begin projects we won’t finish in one lifetime, and
-relationships span across incarnations. How we treat others now will have consequences later.
+I truly think we don’t yet understand how entering extreme non-ordinary states of consciousness is impacting our incarnation in this lifetime. If we’re dealing with gentle non-ordinary or psychedelic states—staying close to the shoreline of time and space and unearthing some pain from this life or earlier in our life—we have medical models to understand that. If we go deeper to experience the continuity of life across time and the inherent presence of the Divine or cosmic intelligence in life, we still have spiritual models to draw on. But when we go very, very deep—beyond the limits of space and time, immersing ourselves profoundly in the crystalline body of the Divine—how those experiences are assimilated when we come back is something we’re still working out, at least I am. It has changed my understanding of my life, of history, and of the Divine. And when I say the Divine, I don’t mean it within our conventional, historical, culturally embedded concepts, because those get shattered along the way. It’s made me very calm. I look forward to dying, because I have no fear of what’s waiting for me; I’ve already been there multiple times.
 
-Entering non-ordinary states of consciousness also reshapes us. Gentle states help heal trauma. Deeper immersion reveals
-continuity across lives and the presence of cosmic intelligence. At the deepest levels—beyond space and time, into the
-crystalline body of the Divine—we are still learning how these experiences are integrated. They’ve changed my
-understanding of self, history, and the Divine beyond cultural categories. They leave me calm and unafraid of death. I’ve
-already been there. I look forward to dying.
+The most challenging aspect of going into these states and coming back is staying open so you can use these temporary experiences as seeds to catalyze a deepening of your life. Once you’re back, you can’t stay in those states; you can’t even recreate them here. But entering them gives us seeds of understanding and experience. We can nourish those seeds through traditional spiritual practices—meditation, acts of compassion, and so on. For me, how these experiences have impacted my life is still being worked out. I found that as long as I had to keep silent, as long as I couldn’t teach from them or share them, my integration was only partial. Now that I’ve begun to speak and to write and teach from these experiences, their integration into my being has deepened. But this is just beginning—after 20 years since I stopped these experiences, only now am I writing and speaking about them completely. We’ll see where that goes. I have a sense it’s going someplace, though I don’t know where yet.
 
-The challenge is integration. We can’t remain in those states, but they plant seeds of understanding that can be cultivated
-through meditation, compassion, and spiritual practice. For years, silence limited integration. Now that I write and teach
-openly, their meaning deepens. The core lessons are clear: banish fear, cultivate compassion, and live the truth of oneness.
-Fear comes from isolation. True individuality matures through compassion and service. What we do for others is our
-liberation, because we enact oneness. And we must adopt long horizons: maturation unfolds over millions of years.
+The messages I take away are: banish fear. The things we’re afraid of are not rooted in reality; there is a deeper reality that dissolves those fears. Cultivate love and compassion for all beings, because compassion is inherent in the nature of oneness. The world is ultimately one at its deepest roots; all individualized expressions of life emerge out of a fundamental oneness. The more we recognize and live in oneness, the more comfortable we are, the more we embody the values of oneness, the more we are synergistically coupled with the processes of life. Fear comes out of a sense of isolation and an atrophied individuality. A rich, robust individuality relates to the world in compassion and looks to the good of the whole. It’s said in some spiritual traditions: “Everything I do for myself is the source of my pain. Everything I do for others is the source of my freedom and my joy.” I think that’s true. What we do for others is our liberation because we are enacting the truth of oneness. Another teaching is to have a long-term time horizon. We are in a process of maturation that will not be concluded in a few decades or even a few centuries. Our maturational development takes place over tens of thousands, millions, billions of years. Our relationship with the universe is a dance that will continue long after this body falls away.
 
-In my work, I also had visionary experiences of humanity’s evolution. When the shell of individual mind shatters, one opens
-into species mind. Naturally, one sees the species’ trajectory. Again and again I was shown that humanity is entering a time
-of great awakening, but only through a deep purification—a dark night of the collective soul. We must confront the
-shortcomings of history to awaken to our greatness.
+Let me narrow the scope to where I think the human race is going, because in my work I was given many deep visionary experiences of human evolution. When your individual consciousness shatters—when the shell of your individual mind shatters and you open into the larger context of mind—you don’t simply shoot straight into oneness and become one with totality. One thing that happens is you open into your species mind, the mind of the species. In that state you naturally gain insights into the developmental trajectory of that species. Many of my experiences kept returning to this theme in a way that completely surprised me: where we are going, what’s happening. Over and over, the teaching was that humanity is coming to a time of great awakening—an explosive, exponential increase in its capacity.
 
-In one vision I experienced humanity’s near-death: collapse of structures, seeming extinction, but followed by resurgence
-and birth. The ecological and systemic crises now unfolding are synchronized with this inner developmental crisis. As the
-planet seeks oneness, so must each of us. Ultimately, the resolution will be the birth of the diamond soul: soul
-consciousness awakening in time and space, lifetimes fusing into a higher register of being. We have been in gestation for
-hundreds of thousands of years. Now we enter labor—short, intense, painful—but leading to a new humanity: awakened,
-expanded in compassion and open in mind.
+But for this tremendous remaking of the human spirit to take place, there must be a deep purification process—a literal dark night of our collective soul. It’s a purification and a confrontation with the shortcomings of everything in our history that has kept us small, a confrontation with our smallness in order to open to the new and emerging greatness of our being. I think in this century we’re entering a time of tremendous purification, a time of destructuring, of losing control and falling apart. In one experience I was taken forward in time and allowed to experience the death and rebirth of humanity at some point in the future—I don’t know when. It was an organic, long, historically embedded process in which I experienced the entire collapse of humanity, entering what you might call a near-death episode. It seemed we were going to the point of extinction, a complete breakdown of life and our structures at fundamental levels. But then there was a tremendous resurgence, a birth process.
 
----
-
-### Key themes
-
-- Evidence for reincarnation through children’s memories and therapeutic regressions
-- Life as iterative learning across thousands of years, like courses in school
-- Projects and relationships extending across lifetimes
-- Deep psychedelic states as seeds of transformation and integration
-- Lessons of banishing fear, cultivating compassion, living oneness
-- Long-term perspective on maturation over millions of years
-- Visionary insights into species mind and humanity’s evolution
-- Collective dark night as purification preceding awakening
-- Birth of the diamond soul as the next step in human evolution
-
----
-
-### Revision history
-
-| Date       | Editor | Change                                      |
-|------------|--------|---------------------------------------------|
-| 2025-09-30 | gpt-5  | Edited Otter.ai first-pass into house style |
+The historical crisis we are entering—the global systems crisis driven by a global ecological crisis, an external crisis of a world trying to become one and overcome its history of factions, individualism, nationalism, classism, gender conflict—is synchronistically coordinated with a developmental crisis taking place internally. As the planet tries to become one, I think we are individually trying to become one. The ultimate solution for the planet becoming an integrated whole in a healthy, productive way is dependent upon each of us becoming whole individually. I expect the resolution of the global systems crisis will be the birth of what I call the diamond soul: the birth of soul consciousness inside time and space. We will wake up. We will wake up and realize we are not just this body; we have a much larger history. All the experiences of all those lives come together and fuse—not just into a longer story, but in an explosion of energy that lifts the entire experience of being alive to a higher register. I basically think humanity is coming into labor. We have been in gestation for hundreds of thousands of years. Gestation is long; labor is fast. Labor is very intense and painful, but we are in the process of giving birth—not just to a new culture or a new economy, but to a new form of human being: an awakened human being, a being with a much expanded compassion and a much more open mind.

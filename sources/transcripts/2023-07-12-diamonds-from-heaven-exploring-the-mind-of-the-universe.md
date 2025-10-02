@@ -4,102 +4,64 @@ channel: Sounds True
 recorded: 
 published: 2023-07-12
 youtube_id: mG1uyBw0ucg
-speakers: [CHRIS BACHE, TAMMY SIMON]
 transcriber: gpt5 model by OpenAI
 transcription_date: 2025-09-09
 license: CC0 1.0 Universal
+speakers: ["Chris Bache", "Tami Simon"]
 ---
-
-In this conversation from *Sounds True: Insights at the Edge Live*, Tammy Simon interviews philosopher and 
-author **Chris Bache** about his book *LSD and the Mind of the Universe*. Bache recounts his extraordinary 
-journey through 73 high-dose LSD sessions over two decades, undertaken as a structured experiment in 
-spiritual awakening and cosmological exploration. He reflects on the repeated cycles of death and rebirth he 
-experienced, describing them not as endings but as deep processes of purification and transformation. 
-Bache explains his encounters with what he calls the "mind of the universe"—a vast, intelligent consciousness 
-guiding and shaping his experiences. The dialogue explores themes of suffering, surrender, purification, 
-and the dissolving of fear around death. Bache emphasizes that pain, when embraced, leads to profound 
-growth, and that death itself becomes understood as a passage into greater intimacy with the universe. 
-
+<!-- diarist_sha1:852aae524753ac575e0d57b235a96ad3ddc0ad46 -->
 ---
+Chris Bache 
+Eventually, I came to understand that the many deaths one endures in this process are a symptom of purification. The form that you are can die. The structures of your life can be shattered, but the inner essence of your being cannot die. I began to realize that what we experience as death is actually a deep form of purification—letting go of the small in order to welcome, and be welcomed by, that which is larger.
 
-**CHRIS BACHE:** Eventually I came to understand that the many deaths that one endures in this process are 
-actually symptoms of purification. The form that you are can die, the structures of your life can be shattered, 
-but the inner essence of your being cannot die. I began to realize that what we experience as death is actually 
-a deep form of purification—letting go of the small in order to welcome, and be welcomed by, that which is 
-larger.
+Tami Simon 
+Hello, friends. Welcome. I’m so happy you’re here with us for Insights at the Edge Live. In this episode, my guest is Christopher M. Bache, PhD. Let me tell you a little bit about Chris. He’s Professor Emeritus in the Department of Philosophy and Religious Studies at Youngstown State University, where he taught for 33 years. He’s also adjunct faculty at the California Institute of Integral Studies, an Emeritus Fellow at the Institute of Noetic Sciences, and he’s on the Advisory Council of Grof Legacy Training. He’s written several books, including Dark Night, Early Dawn; The Living Classroom; and a book that got my attention. Some friends said, “I’m reading this book, it’s called LSD and the Mind of the Universe—you’ve got to read it. It’s so engrossing. It’s a page-turner. It will actually introduce you to the mind of the universe.” What’s that? If there was ever a moment where it’s appropriate to say this conversation truly will be filled with insights at the edge, it’s this conversation with Chris Bache. Chris, welcome.
 
-*Music*
+Chris Bache 
+Hi, Tami. It’s a pleasure to be here with you this evening.
 
-**TAMMY SIMON:** Hello friends, welcome. I’m so happy that you’re here with us for *Insights at the Edge Live*. 
-In this episode, my guest is Christopher M. Bache, PhD. Let me tell you a little bit about Chris. He’s professor 
-emeritus in the department of philosophy and religious studies at Youngstown State University, where he taught 
-for 33 years. He’s also adjunct faculty at the California Institute of Integral Studies, emeritus fellow at the 
-Institute of Noetic Sciences, and he’s on the advisory council of Grof Legacy Training. 
+Tami Simon 
+Tell us, right at the beginning, what prompted you to engage—ready for this—over 20 years in 73 high-dose LSD sessions that were structured in a specific way for the purpose of deep spiritual awakening and exploring the nature of the cosmos. What inspired you to engage in what we’ll learn was really an arduous undertaking?
 
-He’s written several books including *Dark Night, Early Dawn*, *The Living Classroom*, and a book that got my 
-attention—friends of mine told me, “You’ve got to read this, it’s called *LSD and the Mind of the Universe*.” 
-They said it was engrossing, a page-turner, and that it would actually introduce me to the idea of the mind of 
-the universe. And if there was ever a moment where I think it’s appropriate to say this conversation will be filled 
-with insights at the edge, it’s this one. Chris, welcome.
+Chris Bache 
+Well, I had just finished graduate school. I got my PhD from Brown University in philosophy of religion. I had published my dissertation in a series of articles and was looking for where to take my work next. At that point in my life, I met the work of Ian Stevenson in reincarnation research at Virginia and, more importantly, of Stan Grof. As soon as I read Realms of the Human Unconscious, which had just been published—this was in ’78 when I started—I immediately saw the profound implications of Stan’s work for philosophy of religion, not just for psychology, and I knew I wanted to get involved in doing this work.
 
-**CHRIS BACHE:** Hi Tammy, it’s a pleasure to be here with you this evening.
+So even though LSD had been made illegal in 1970, I chose to conscientiously break the law and begin a series of rigorously structured sessions following Stan’s protocol. After three medium-dose sessions, I chose to work at high doses. This is a protocol I don’t recommend today. I would be much gentler on myself if I were doing it over again, but at the time this is what I was doing to accelerate my own spiritual development. Quickly it evolved into engaging the deep structures of human evolution and trying to support humanity’s spiritual development, and then exploring this marvelous universe that we are part of.
 
-**TAMMY SIMON:** Tell us a little bit right at the beginning. What prompted you to engage in—ready for this—
-over 20 years of 73 high-dose LSD sessions, structured in a specific way for the purpose of deep spiritual 
-awakening and exploring the nature of the cosmos? What inspired you to take on such an arduous undertaking?
+Tami Simon 
+You write toward the beginning of the book, “In the end, what’s important is not the method of exploration used, but what this method shows us about the extraordinary universe we live in.” That’s what I want to focus on—really the discoveries that you made. Let’s start with the title: LSD and the Mind of the Universe. I’m not sure everyone can track with you there—the universe has a mind? Tell us what you discovered.
 
-**CHRIS BACHE:** Well, I had just finished graduate school. I got my PhD from Brown University in philosophy of 
-religion. I had published my dissertation in a series of articles and was looking for where to take my work next. 
-At that point in my life I encountered the work of Ian Stevenson on reincarnation research at Virginia, and more 
-importantly the work of Stan Grof. As soon as I read *Realms of the Human Unconscious*, which had just been 
-published, I immediately saw the profound implications of Stan’s work for philosophy of religion, not just 
-psychology. I knew I wanted to get involved in doing this work. 
+Chris Bache 
+As I came to experience it, consciousness is like an infinite ocean. When we open ourselves in deep psychedelic states, it’s as if our mind is a seed-catalyst dropped into this ocean, and it crystallizes a set of experiences out of this infinite potential. By absorbing and internalizing what we’re being offered—what we’re being taught—we’re changed, purified, transformed inwardly. Then, when we drop that changed mind back into the infinite potential, it triggers an even deeper set of experiences from its infinity.
 
-Even though LSD had been made illegal in 1970, I chose to conscientiously break the law and begin a series of 
-rigorously structured LSD sessions, following Stan’s protocol. After three medium-dose sessions, I chose to 
-work at high doses. It’s not a protocol I would recommend today—I would be much gentler on myself if I were 
-doing it again—but at the time, this is what I was doing to accelerate my own spiritual development. It quickly 
-evolved into engaging the deep structures of human evolution, supporting humanity’s spiritual development, 
-and exploring this marvelous universe that we are part of.
+I experienced myself as engaging an intelligence—a consciousness—that was directing my sessions. I did not control what was unfolding. I was always yielding and following a lead that came from deeper levels of consciousness. As the journey continued, the levels of consciousness I was entering deepened multiple times.
 
-**TAMMY SIMON:** Right at the beginning of your book you write: *In the end what’s important is not the method 
-of exploration used, but what it shows us about the extraordinary universe we live in.* That’s what I want to 
-focus on—your discoveries. Let’s start with the title of the book: *LSD and the Mind of the Universe.* The 
-universe has a mind? Tell us what you discovered about this.
+What do we call this infinite consciousness? It’s been called many things in the world’s mystical traditions. I hesitate to call it God, though I do refer to it as the Divine, because “God” carries so many historical overlays I wouldn’t want to affirm. To approximate the vast scale and scope of this consciousness, I call it the mind of the universe. Just as the universe has a body, it has a mind. As our body is a product of the universe, so is our mind. When we sink deeply into our consciousness, we open into a vast consciousness you can think of as the Divine consciousness—or as the mind of the universe.
 
-**CHRIS BACHE:** As I came to experience it, I experienced consciousness as an infinite ocean. When we open 
-ourselves in deep psychedelic states, our mind is like a seed catalyst dropped into this ocean. It crystallizes a set 
-of experiences out of infinite potential. By absorbing these experiences, internalizing them, and learning what 
-we are being taught, we are changed, purified, transformed inwardly. Then, when we drop that changed mind 
-back into the infinite potential, it triggers an even deeper set of experiences. 
+Tami Simon 
+You use the word “purification,” and I referred to the 73 journeys you went on as arduous—at least it read that way to me, as you include many descriptions of what you went through. In the beginning you write about seizures, vomiting, convulsions. It sounded really rough. Why was that, in retrospect? Why was all that physical and energetic purification necessary?
 
-I always experienced myself as engaging an intelligence, a consciousness that was directing my sessions. I never 
-controlled what was unfolding. I always yielded to a lead coming from deeper levels of consciousness. As the 
-journey continued, the levels of consciousness I entered deepened multiple times. 
+Chris Bache 
+There are many levels of answers, but basically, if we want deeper intimacy with the consciousness of the universe, we’re moving into states that are vast and operate at a much higher frequency and energy level. Our egoic consciousness—the ordinary consciousness organized around our bodily existence—is too small. We have to let go of that consciousness. Some people find that easier or more difficult, but letting go at the egoic level and entering into spiritual reality is the first of many cycles of death and rebirth, because the universe has many levels and dimensions. To enter each successive deeper level, we have to go through a deeper surrender, and that often involves intense purification and confrontation.
 
-So what do we call this infinite consciousness? It’s been called many things in the world’s mystical traditions. I 
-hesitate to call it God, though I sometimes use the term Divine, because the word God carries so much historical 
-overlay. To approximate the vast scale and scope of this consciousness, I call it the mind of the universe. Just as 
-the universe has a body, it has a mind. Our mind, like our body, is a product of the universe. When we sink 
-deeply into consciousness, we come out into a vast consciousness you could call Divine, or the mind of the 
-universe.
+Every step deeper into the universe is a step into a higher bandwidth of energy. We have to literally become a being who can live at that level—be operational at that level—for hours at a time. That takes work. It takes a lot of work.
 
----
+Tami Simon 
+You write, “In the context of a psychedelic session, pain is something we learn to embrace. One learns to reverse one’s instinct to avoid suffering and to open to it instead, not because we like to suffer, but because of what lies on the other side of suffering.” I want to understand more about embracing pain. I ask because in the midst of our lives there’s so much pain we need to embrace and so much letting go we have to do, and I don’t think many of us are that good at it.
 
-### Key themes
-- LSD as a structured spiritual practice for exploring consciousness.
-- Cycles of death and rebirth as processes of purification.
-- Consciousness as an infinite ocean of potential.
-- Encountering the "mind of the universe" as guiding intelligence.
-- Suffering and pain as thresholds to deeper transformation.
-- Differences between spiritual awakening and cosmological exploration.
-- Dissolving the fear of death through repeated ego-death experiences.
-- The universe as both body and mind, with human consciousness as an extension.
+Chris Bache 
+I want to be careful not to overgeneralize insights from a psychedelic session to everyday circumstances—we’d have to make some adjustments. But in a session, when we hyper-amplify consciousness, consciousness begins to clean and transform itself. As it purifies, we first encounter unfinished business—things we’d rather not face, things that frighten us. Those are early layers. Eventually we’re sloughing off not only our personal identity, but our identity as a human being per se, and then our identity as a time-space being, as we move beyond linear time and three-dimensional space.
 
----
+Working at high doses intensifies and accelerates this purification. If you put an ice cube next to a candle—an analogy for a gentler spiritual practice—the candle melts the ice cube gently. Throw the same ice cube onto a hot skillet, and it jumps and snaps as the molecules explode. Psychedelic sessions are like the latter. You’re doing the same process you do in deep contemplative retreats, but faster, and therefore more convulsively and intensely. Essentially, it’s the same process traditional practitioners undergo in the dark night of the soul.
 
-### Revision history
-| Date       | Editor | Change |
-|------------|--------|--------|
-| 2025-09-09 | gpt5   | Initial transcript formatted to house style |
-```markdown
+Eventually, I came to understand that the many deaths one endures in this process are a symptom of purification. Once you’ve died several times and been reborn on the other side, you realize you can’t die. It’s impossible to die. The form that you are can die. The structures of your life can be shattered. But the inner essence of your being cannot die. Death itself begins to lose its function as a category. What we experience as death is a deep form of purification—letting go of the small in order to welcome, and be welcomed by, that which is larger.
+
+Tami Simon 
+Which brings me to wanting to carefully parse out what this means in the midst of our lives, not in psychedelic sessions. What did you learn about what it takes to die before we die? That’s what I want to understand.
+
+Chris Bache 
+I want to be careful, because I don’t want to frame my work strictly in terms of the dynamics of spiritual awakening. That phrasing—to die before we die so we do not die when we die—is oriented around spiritual awakening. In my work, even though I began with an awakening agenda, it became much more: an adventure of exploring the deep structure of the universe itself. Death changes as one pivots from spiritual awakening to cosmological exploration.
+
+If I were to summarize: I have no fear of death whatsoever. I have no fear of dying. I feel like I’ve died many times in that process. Before you die physically, a great relaxation settles in—an abiding communion with the universe, or with the Divine—which begins to saturate one’s physical existence. The boundary between here and there, between being physically alive and spiritually or cosmologically alive, gets very thin.
+
+I’ve learned to trust life more, to recognize that anything challenging is to be embraced head-on. Don’t back away. See everything to its root. That’s a major lesson in psychedelic work: if you run from the hard stuff, it only gets worse. If you embrace the challenges and let the universe take you where it wants to take you, eventually you’ll come to a breaking point. When you go through that eye of the needle, you open into a magnificent landscape—a different level of being.

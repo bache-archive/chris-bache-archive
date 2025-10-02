@@ -1,5 +1,4 @@
 ---
-
 archival_title: Contemplating Reincarnation — Part 3
 
 channel: Gene Keys
@@ -9,307 +8,107 @@ recorded: 2021-03-16
 published: 2021-03-27
 
 youtube_id: 5Lus4MLlzbA
-
-speakers: \["CHRIS BACHE", "RICHARD RUDD"\]
-
 transcriber: gpt5 model by OpenAI
 
 transcription_date: 2025-08-15
 
 license: CC0 1.0 Universal
-
+speakers: ["Chris Bache", "Richard Rudd"]
 ---
+<!-- diarist_sha1:79c16e8856bf40df7f92de34544b4061cf16a449 -->
+---
+Chris Bache: 
+Well, here we are again for our third discussion. We want to give this topic limitless time, because we now want to bridge into the deeper questions surrounding reincarnation: Where is reincarnation taking humanity? How is this constant learning and recycling creating new platforms in our incarnational experience? Where is it going? What might the deep future look like—and, most importantly, how might that understanding shift how we engage our life right here, right now?
 
-In the third installment of their dialogue, Chris Bache and Richard Rudd move beyond evidence for
+Richard Rudd: 
+Very deep questions. Where should we begin?
 
-reincarnation into its evolutionary implications. They explore how personal revelation and collective
+Chris Bache: 
+I think we should acknowledge that each of us has a deep experiential basis we’re bringing to this discussion. We’re not simply philosophizing and speculating; we have convictions born out of unusual experiences.
 
-experience converge in a planetary “birth canal,” where intensified crises catalyze a species-level
+Richard Rudd: 
+It’s true—that’s what’s brought us together to do these dialogues. I was just explaining the difference between knowledge and wisdom. Although we’ve explored streams of knowledge, wisdom is different. In a way it’s the opposite, because, for me, wisdom comes through revelation. It comes through listening—being passive and then receiving—whereas knowledge is something you go after, you chase, you hunt. You go towards it instead of allowing it to come towards you. The information you receive through revelation isn’t “information” in the same way; it’s cellular. My experience—what’s led to me being me and doing what I do—is a cellular knowing of what’s coming for humanity. It’s not easy to hold that, because not everyone has it. It puts me in a more relaxed state than most people at a fundamental level, because I have this knowing that everything’s going to be fine. I can’t explain why it was given to me, but I know many listening will resonate and have had breakthroughs or visions where that’s come to them. It’s good to acknowledge that we carry this other dimension. And you, through your work—tell us a little about that.
 
-transformation. Bache frames this transition through field dynamics and death–rebirth cycles in
+Chris Bache: 
+I completely share what you’re saying, because I do carry an unusual knowledge, as you do. At the beginning of our series we talked about the evidence for reincarnation—my professorial mode, intellectually digesting the data. Our second conversation blended that with the kind of wisdom that arises in my psychedelic work. Today, I feel I’m standing squarely within that other side of my life. I’m a psychedelic visionary. My understanding comes from carefully distilling conscientiously engaged non-ordinary states again and again, purifying and allowing the universe to take me deeper into what I experience as itself—into its intention, into time, literally into deep time. The experiences were never intended just for me; they’re planted in me to hold and pass on. Anyone who has these deep experiences knows they’re never just for us; we hold them for the larger collective. Like you, I have a feeling for what’s happening in history, where we’re going, and it gives me a calm and relaxation even as we enter very difficult times.
 
-non-ordinary states, suggesting a coming shift from egoic identity to soul awareness, with humanity
+Richard Rudd: 
+Yes. I think both of us have that sense that birth is an intense event, and we’re coming to a birth point—we’re in the canal and contractions are occurring. In the same way individual awakening often comes through contractions: before a transcendental experience there are shudders, openings and closings, condensing and intensification of shadow material, and then a kind of opening, and then another birth contraction. The contractions come closer together until there’s an epiphany—something that shakes your core and fires within your DNA, setting you alight and changing you forever. I think that’s what’s happening on a planetary level. It’s beginning to happen as a collective. Your writings, Chris—particularly your mind of the universe, Diamonds book—describe so beautifully this process of coming down the birth canal. What it doesn’t do, and what neither of us can do, is fill in the details; only time can. But we can offer backdrop and empathize with the intensity of the suffering that’s already here and is likely to ramp up. We want to empathize with that, and at the same time present this knowing that gives people hope—more than hope, actually—even as it also provides hope. There is a purpose to the events taking place on our planet right now, whenever “now” is for the listener, because one can only imagine more events occurring as this canal opens up.
 
-approaching a fusion point that alters the archetypal architecture of the collective unconscious. Rudd
+Chris Bache: 
+You’ve described the in-breaking of vision and being drawn into deep revelation. Deep insights cannot fit into small containers. When nature or the divine invites us into a deeper experience, it has to purify us. That contracting process burns up everything that keeps us small, to allow us to be taken and shattered. In my context, it’s the death–rebirth cycle—to die to everything that holds us where we are, and to be reborn into a larger world. That can happen again and again, taking us deeper into knowing. As with any spiritual path, there are no shortcuts. It’s exacting and demanding. But the fruit is both personal and collective; it expands around us in subtle, mysterious ways. We are part of a lineage—people who have asked for more, been given more, and paid the price for it.
 
-speaks to cellular knowing, endurance through shadow work, and an emergent epoch where fear dissolves
+My work began as personal healing and transformation, and that got shattered in the first few years. Everything kept opening into collective vistas—being drawn into the collective psyche, going through collective purifications, opening into insights about our collective development. I experienced reincarnation not simply as an individual soul journey but as a species journey—our entire species evolving through systematic reincarnation, generation after generation. I was given an understanding that this process, individually and collectively, is coming into a crescendo, a profound breakthrough. You’ve languaged it as a birth, and I think that’s right. Birth involves labor and a change from one state to another; for the child it’s from water-being to land-being. I think we’re growing from individual egoic awareness—where identity is body–mind–ego—into soul awareness, where our former lives come together in a tremendous fusion point. As our knowledge of the past deepens and we heal the traumas we carry, our past lives become more integrated. We integrate not only their pains but their virtues, assets, and capacities. Eventually our lives hit a fusion point; the soul becomes one. There’s an explosion of light and an explosion into a higher order of individuality with a different threshold, a different sense of communion with the intelligence of the universe and the Divine. If humanity is going through this—and my visions have shown me this again and again—it represents a new foundation for the human story, just as profound as the jump about 200,000 years ago to a brain 50 percent bigger than before, allowing us to think and do what we never could. This will change the fundamental archetypal architecture of the collective unconscious.
 
-as the veil of death thins. Both envision the “future human”: heart-healed, mind-open, sensorially
+Richard Rudd: 
+Beautifully said. Two things in response. First, many people watching this—if you’re drawn to this material—have likely said yes to receiving and transmuting more shadow material than one lifetime’s worth. I remember dark days when the level of shadow in my body seemed insurmountable and endless. Whenever I meditated I found weight, heaviness, oppression—so much it felt like a thick clot. How would I ever burn through it? Gradually, over the years, it lightened. I’ve seen the light at the end of the tunnel. I say this because many listening will know the experience of grappling with a weight inside the physical, emotional, and mental reality that far outweighs the wounding patterns of one life. We’ve taken on more because we’re capable of taking on more. If you feel that heaviness, it’s because you have the capacity—the love great enough—to burn through it. So continue your transformational path and don’t lose hope.
 
-refined, living from bliss and stewardship of Gaia. They urge full presence, compassionate action, and
+Second, with times like this—like birth—something completely new emerges. Looking at life today through the lens of history, we see continuity: cycles repeating, ups and downs, patterns across recorded history. The one thing you can’t see is beyond the break, because at some point there’s a break in continuity and something new is born. As you said, it’s assembled out of all the elements of the old, condensed into a symphony, and then it stands on the shoulders of all that’s great and all that’s suffered. Compressed like the beginning of the universe into a tiny space, then set—and then there’s an opening, an expansion of vast light. What’s coming has no similarity to what we have now. With our wildest imagination we can only begin to approach it. We humans assume things will continue as they have—robots, more tech, then we go to the stars—until a crux point comes and smashes everything. A whole new epoch begins, something completely new. Different technology—and we are the technology. It’s inside us. Our DNA has capacities—undreamed of capacities. It’s important people grasp that what’s coming bears no resemblance to what has been.
 
-trust in an intelligence driving us through metamorphosis toward a new civilizational platform.
+Chris Bache: 
+I agree. I also affirm what you said about the weight and burden many serious practitioners feel. Much of it is past-life karma they’re working and clearing now, but it’s also collective karma. I think there are many more hidden saints than we realize—people who have taken on responsibility for working on behalf of humanity as a whole, engaging darkness not just from their personal history but from our collective history. We have to move through this period quickly. As every mother knows, you don’t want the fetus stuck in the birth canal. We need to keep everything moving. Many souls incarnating now saw what they were getting into and chose this work because the work of birthing a new humanity is great work.
 
-**CHRIS BACHE:** Well, here we are again for our third discussion. We tentatively called this one “limitless
+In deep sessions, when you go into the pain, it looks like it will never end. You can’t imagine how it could reconcile. Then comes a breaking point—absolute surrender, the cost paid—and then a waking up in a new reality that is not an extension of the old. You can’t get to the new by merely refining and healing the old. You are catapulted into a fundamentally new genre of experience and capacities. When I’ve been taken into deep time and the deep future, I’ve experienced humanity’s course that way: we’re coming to a turning point. The pace of the past can’t be used to measure the pace of the future. There’s a before-and-after threshold. After this historical transition we will operate with a completely different psycho-spiritual structure and generate a different civilization because we will be different beings.
 
-time” because we want to bridge into the deeper questions around reincarnation. Where is this constant
+Our relationship with nature now—the damage we’ve done—was done by a species operating at the egoic level of consciousness. It’s brilliant, but fragmented—from each other and from the foundation of life itself. A being with a healed heart and mind—an open heart embracing the breadth of human experience and an open mind in deeper communion with higher orders of intelligence—lives differently. The soul lives in the world differently than the ego. The soul knows the world it leaves is the one it’s coming back to, so it takes better care of it. The soul knows relationships have depth and history; you don’t walk away, so you take more care of them. Life isn’t giving us any option except to go through this transition. There’s no going back. The Earth won’t allow it. We’ve done so much damage that it’s coming back to us now. We cannot continue living even in a simplified version of how we got here. We have to reach into something entirely new. This is happening outside—we’re called to a new relationship with the Earth—but we’re also carrying within our hearts the problems that got us here and the values and insights that can take us beyond. It’s all inside. You and I focus our work on the inner dance. Others focus on the outer dance—bringing changes in the outer world. All are needed.
 
-learning and recycling taking humanity? Where is it going? What might the deep future look like? And,
+Richard Rudd: 
+So true. Your description of inner transformation reminds me of Shakespeare’s comedies and tragicomedies. In some plays everything that can go wrong does. The wrong people fall in love with the wrong people, everything gets twisted. By Act IV—out of five—it’s still a complete mess. As the audience, you wonder how this will ever resolve. Then a strange attractor arrives—some force or event that suddenly triggers sub-events—and everyone ends up with the right person. Everything is healed—happily ever after—compressed into the last moments. Our time is similar. We’ve had a long, slow build-up to create this mess, and then a sudden cataclysmic energy resolves things in a way we couldn’t foresee.
 
-most importantly, how might that understanding shift how we engage our life right now? Where should we
+You’ve also spoken about speed. We see it in natural systems—like water boiling. Nothing seems to happen, then a few bubbles, then, at boiling point, it erupts into steam. Simple metaphor, but true throughout nature. Humanity is reaching that period. Scientists point to similar thresholds. The ocean, for example, has been capturing huge amounts of CO2—sinking it to the deep—but it’s slowly building up. At some point the ocean can no longer capture more; its ability weakens, and the CO2 we create suddenly explodes into the atmosphere. It looks like we’ve been in a hiatus, and we have, because there’s an illusion we’ve been okay—until everything speeds up much more quickly than most could conceive. Some scientists see it—especially those who work across multiple fields, systems theorists who understand interconnectivity. And mystics like us. Many are predicting very quick change that can be destabilizing for the planet.
 
-begin? I think we should acknowledge that each of us brings a deep experiential basis. We’re not simply
+We don’t say this to alarm but to prepare. As the inner birth takes place, something on the outside must decline. Structures have to fall away for the new to come through. It’s a universal law. We can’t repair the old system—though that doesn’t mean we shouldn’t try, because hearing this one could think, “I won’t do anything; I’ll just sit here.” That’s understandable, but not truly compassionate. Compassion involves passion. We need to stand up for what’s right and for justice. What else is the purpose of being here? We need to continue and use our passion wherever we’re called. That’s part of our responsibility and what it means to be awakening. At the same time, we can hold the knowing: “I will do what I can while this is collapsing. I will serve in the best way I can.” That’s how you’ll always be in the right place—safe in the sense of being aligned with the core of your soul and its destiny. That’s a safe place to be.
 
-speculating. We carry convictions born of unusual experiences. Why don’t you speak first?
+Chris Bache: That place of alignment. The way the speeding-up process worked itself out in my sessions had to do with understanding the field dynamics of consciousness. I have just enough understanding of chaos theory and non-equilibrium systems to grasp that when a system has more and more energy poured into it, it reaches a state far from equilibrium. In that condition—like water as you keep increasing the energy going into it, or a bathtub as you keep increasing the quantity of water and the ripples start to change—we come to a tipping point, a bifurcation point, where the system has too much energy to maintain its current structures. It flips into a different organizational pattern. It chooses a different future. When physical systems reach non-equilibrium points, they can do extraordinary things: produce new particles, create orders of coherence within themselves that would have been impossible at a lower energy state.
 
-**RICHARD RUDD:** It’s true—that’s what brought us together for these dialogues. I was just explaining the
+In my visionary experiences, I was given to see that all of humanity—we are all fractal nodes within unified fields, a field of consciousness. The human unconscious, the collective unconscious, is an energetic field reflecting all of our individual experiences. When enough individual experiences become untenable—so painful we reach out in desperation for a different solution—it’s not just we individually going through an ordeal of transformation; all of us collectively are. We’ve never had anything in history comparable to what’s coming, because natural disasters in the past affected one part of the world but not the other. The global systems crisis that seems imminent, driven by a global ecological crisis, is going to affect all continents, all people, all places. That’s going to push humanity into a different experiential field. The collective psyche will be energized by this disruption. It’s literally going to begin to boil underneath our individual minds.
 
-difference between knowledge and wisdom. Wisdom comes by revelation, by listening, by receiving; knowledge
+My understanding is that in evolution there are multiple levels—at least two. We, as individual egos, are born over and over again in roughly hundred-year cycles. Underneath those cycles there’s a learning taking place, a developmental process we usually refer to as the soul. The individual incarnates, but the soul is growing, becoming more, suffusing our lives. The same thing happens collectively: every generation, billions of people are born, but there’s a learning gathering underneath them, collecting in deep, archetypal structures. That’s what’s coming to a boil—not just our individual incarnation, but that underlying structure coming into a high-energy state.
 
-is chased and hunted. Revelation gives cellular knowing. My path has been guided by a cellular sense of
+I think the sheer energy of our suffering—our despair, our anxiety—is driving us through a breaking point where suddenly we’ll be flooded with a different kind of common sense, a different set of priorities and values, a different experience of each other. The only way we can go as far as we need to go, in the little time we have, is to understand the dynamics of the collective unconscious—the field dynamics of consciousness and how fields operate in non-equilibrium systems. At least this is what has come through my visionary experience over and over: we are coming to a point where a crisis builds in intensity until it looks like all is lost—so much disruption, loss of control, death, challenge at a deep level. But when it’s at its worst, it begins to pass. We pick ourselves up. We rise to the challenge—and in rising, we are changed. Profoundly. As we start to come out of this period of history, we find our nature is not just a different set of attitudes or beliefs, but a fundamentally new way of being conscious. A new organization of consciousness emerges. Things that were hard become easy. Possibilities emerge much faster than we would have predicted.
 
-what’s coming for humanity. It’s not always easy to hold, because not everyone feels it. Yet it leaves me
+That’s the type of transformation I think we’re looking at—truly a rebirth of humanity. In my work I call it the birth of the future human, a demarcation of a different kind of human being emerging now. Our history is creating this. Reincarnation is coming to a phase of fruition. We can get glimmers of the future by looking at the great beings of our past—the saints, prophets, incarnations, the Christs, the Buddhas—who have always called us to a higher order of existence. Those are prototypes, giving us an understanding of what we’re becoming collectively. I think we’re becoming a species of Christs, a species of Buddhas, a species of prophets—with that magnitude, that tremendous scale of heart.
 
-more relaxed at a fundamental level; I simply know everything is going to be fine. I can’t explain why I
+I don’t know how long the transition will take. The ecological crisis fermenting now will deepen for generations. It’ll be at least three or four generations before we hit the peak. But I think we will come through it—not in thousands of years, but within a few hundred. The 21st century is the key century of the unraveling, where we make choices that shape our future. Another thing about non-equilibrium systems: individual, small changes can catapult into massive outcomes. The butterfly wing in China sets off a hurricane across the planet. In intensifying conditions, the impact of individuals increases exponentially. So if we look at the past and say, “The individual can’t do anything; we’re overwhelmed by historical forces,” it’s just the opposite now. As things intensify, the individual becomes a more significant player. Beings who achieve wholeness within their person, a robust soul consciousness, have a tremendous catalyzing effect on people around them coming to their own version of that deep experience.
 
-was given that knowing, though many listening will recognize it from their own breakthroughs and visions.
+Richard Rudd: Thank you. I love listening when you go off on a transmission. I was thinking, if you asked yourself, “What one thing, if it happened on this planet, could change everything quickly, overnight?”—inside me, the answer is: to see through the veil of death. The moment one person truly sees through that veil, fear is no more. That’s where fear resides. The intensification of energy you’re talking about—the suffering, the love—pours toward this one point, and it’s the only force that can pierce that veil. What I would expect, and what I’ve seen through the Gene Keys and my teachings, is that as this boiling takes place, more and more people will experience their consciousness transcending birth and death, retaining memory between lives, and carrying it across. That’s pure awakening. When a being has that level of awakening and they’re simply being who they are, it’s electrifying. It’s contagious. The transmission of wisdom, love, awakening—most people know this—you go near one of these beings and you can feel it crackle in the air.
 
-We should acknowledge this other dimension we carry. You, through your work—tell us a little about that.
+As that occurs, the veil will gradually break down, and fear will start to leave the planet, person by person, generation by generation. I even believe children will begin to come through without the wound of humanity—born awake—and not have to go through this journey. Those children are us—our future vehicles—and they will be born through awakened ones. If two awakened ones come together to bring a child, you have a clear conduit, a vessel you might want to jump into. More and more of that—so you could perceive that awakened consciousness will colonize the human gene pool, like a virus of love. It spreads everywhere—non-denominational, in the weirdest places, tiny communities—it can’t be fixed on any chosen people. It’s going to wake up like a thief in the night. I contemplated that one line of Jesus for many years—“When I return, I will return like a thief in the night”—and one day I saw: it’s coming, you can’t stop it, it’s secret, it’s hidden, it’s everywhere. That’s the new human we’re talking about, already among us in potential.
 
-**CHRIS BACHE:** I completely share what you’re saying. At the beginning of our series, I spoke in a professorial
+One thing I loved most in your book, Chris, is your description of the future human. I was left with the image of all these Buddhas sitting in meditation, and then one human standing in the middle of them, standing on its own two feet. That was the future human—an enduring, iconic symbol of what’s coming. It’s no longer the journey of meditation and spiritual seeking through transforming the shadow. Suddenly that comes to an end. That being is standing. There’s no practice anymore other than living. Then a new humanity truly begins—no more awakening process, just layer upon layer of creative expansion, playfulness, new levels of engagement with the dimensions and fields we can explore in a new way.
 
-mode about evidence for reincarnation. Our second conversation blended that with the wisdom arising from my
+As the age of suffering comes to an end, we enter a new field: bliss. We’ve learned enough from suffering; now is our chance to learn from bliss—the other side of suffering, like the white hole to the black hole. You go through the black hole, come out the other side, and there’s this white hole with as much depth and juice as suffering. Bliss, like suffering, has layer upon layer and dimension upon dimension. There’s a whole epoch needed just to explore bliss. If you can hold that in your heart and mind as we move through difficult decades ahead—and perhaps a few centuries; I agree the 21st century seems to be the one, and the next century seems to be the one—remember that’s us. We’ll be there. Don’t miss it. People say, “This is my last incarnation.” Okay, but make sure you come back for that one. It’s really good to bear these things in mind as we move through intense periods.
 
-psychedelic work. Today I stand in that visionary side. I’m a psychedelic visionary. My understanding comes
+Chris Bache: Let’s allow ourselves to look deep into the future of this future human. Whatever transformation we’re going through—and we agree it’s acute, giving birth to a new order of human capacity—however long it takes, the human story isn’t stopping. The evolutionary drama isn’t ending. This is a new platform within which the story will continue to develop. We’ve been evolving by learning from suffering, our great teacher in much of the past, but we’re getting past that—just as we’re growing out of our fear of death. If there were one thing I wish I could give people from my sessions, it would be to lose the fear of death. If you’re afraid of death, your cosmology is upside down. You don’t understand what’s going on. Death is graduation. Death is the great respite, the great reward.
 
-from carefully distilled, conscientiously engaged non-ordinary states, returning again and again, purifying,
+We’re coming into a period of deep transformation—living out of bliss and joy, exploring out of bliss and joy. It’s going to take a long time to experience the levels of creativity that can come from that. The divine project has brought us to this crisis—the evolutionary, natural, the Tao, however you want to envision it—and is taking us through it. This is much larger than any of us. Nature is driving us through this metamorphosis. Nature has decided we’re ready. New platform, new beginning—but it’s not going to stop. We’re here for another million years, another billion years. We should understand we’re not only talking about a new humanity as we can imagine it now; we’re talking about a new humanity beyond our capacity to imagine, because it is so different.
 
-and allowing the universe to take me deeper—into itself and its intention—into time, into deep time. These
+In the last session I was given—what I call the diamond vision—I had a 10-minute experience of seeing a thousand times more clearly, precisely, exactly, with more discrimination than ever before. It wasn’t a hallucination. I realized I’d been accepting the dull experience of ordinary vision as real vision, and when it disappeared, I realized I had been given an experience of how the future human will see. This isn’t just a transformation of heart and mind; it’s a transformation of our senses. Touch, taste, vision, hearing—more refined, subtle, exquisite. The capacity of consciousness to heal the body, keep it on an even keel, transform it, infuse and lift it into ecstatic creativity—we’re just getting started actualizing higher potentials already built into the human form, activated by this evolutionary fire.
 
-experiences were never intended just for me; they’re planted to be held and passed on. So I carry a feeling
+What lies down the road? We can lose ourselves in projections and fantasies, but what’s important is to understand the high stakes. We’re not simply fixing or healing humanity; we are on the threshold of birthing a different order of human existence, which becomes the new platform for still higher orders. This is a hugely significant undertaking—not just rectifying a short-term past but cascading into a very different future. If our nature is truly infinite—as I think we agree; if Brahman is Atman, the essence of the individual is the essence of the Divine—then reincarnation gives us an infinite amount of time to unfold and activate our infinite nature. Carefully qualified, we are learning to be gods—learning how to create on a scale we’ve only envisioned in mythologies or science fiction.
 
-for where history is going, and that gives me calm even as we enter difficult times.
+Richard Rudd: So true. One of the things I’ve seen—my way of describing that mythology—is that different species or races evolve on our planet. We’ve been through these before. We’re part of a much deeper epochal story than we realize. We may have forgotten previous epochs because the break in continuity is so massive. Each time we go through one of these portals, we include and transcend more; we remember more of what came before. That’s also possible now as we move into what we’re becoming.
 
-**RICHARD RUDD:** I think both of us share the knowing that a birth is underway. We’re already in the canal and
+From my understanding, this is almost like the final cresting of humanity’s epoch. Looking far ahead, the culmination of this next species is our collective harmony with Gaia—coming into absolute harmony with the entirety of Gaia, taking our highest seat as Gaia’s consciousness, gardeners, stewards—inseparable from the tiniest ant. Every being has a place within us; there’s no separation. An incredible crystallization of harmony arises in the architecture of life on Gaia. My feeling is that the next phase is the weaving together of Gaia—all creatures and things understood and integrated. Each of us has a specific weaving role: to re-knit certain neurological pathways unique to us because our creativity wants to go there. Following our creativity weaves together some aspect of Gaia, and all of us together create a tapestry of wholeness.
 
-the contractions have begun. Individual awakening often arrives through contractions—shudders, intensifications
+Another aspect I’ve seen is the timeline, almost like a spiral. As we move toward perfection, time closes in on itself more and more. At the final crystallization point of perfection, time dissolves. My joke is: when you finally get to heaven, it stops. Everything finishes—no time to enjoy it—and yet there’s infinite time. That’s when humanity transcends humanity, and there’s another epoch shift. Our consciousness moves to another sphere; we’ve graduated from this chain of evolution. Gaia isn’t left alone; it’s a chain. The animals crystallize further; their evolution continues. Even rocks and minerals move up a layer. Everything is interconnected; consciousness is embedded in everything and awakens in layers and contractions. Then we move somewhere else—beyond the time-space continuum—and realize we’re nested in something far wider: galactic. Gaia was our playground, another birth. And so it goes on.
 
-of shadow, openings and closings—until an epiphany fires the DNA and changes you forever. I think that is
+The tapestries are vast and fractal—repeating down through all levels. Eternity in a grain of sand. Waves of wider awakening and creativity. That’s where we’re going and where we are—and we never leave the present moment. Even in crisis, we never leave the freedom of the present. For me, that’s the most important thing as the crisis comes: never leave the present moment, never forget where we’re going, that this is all for a purpose. When we have to swallow the pill of suffering, the other pill we take is the medicine that reminds us suffering has grace embedded in it.
 
-happening collectively. Your book, *LSD and the Mind of the Universe*, beautifully describes coming down the
+Chris Bache: I love hearing you go—you really go—and I feel deeply resonant with what you’re describing. This Earth, this solar system, is part of a galaxy, part of a supercluster of galaxies. Time-space is part of a universe, part of a meta-universe, part of another larger universe. Humanity is going through a tremendous transformation, and yet other species around the galaxy are going through their own transformations. We can affirm all of that while paying tremendous attention to what’s taking place here. How do we take full advantage of the growth opportunity this time in history is giving us?
 
-birth canal. We can’t fill in the details—time will—yet we can empathize with the suffering that is here and
+My understanding is we choose our incarnations, so everyone who listens to this video chose to be in history right here, right now. They chose to be part of this traumatic, ecstatic birth moment. They are exactly where they chose to be to have the greatest positive impact. It’s not a matter of searching for “What should I do?” Look under our feet. We are already planted. We have the talents and relationships around us. We are where we can do the most good if we’re willing to take responsibility and act—really do it. That’s what you’re talking about: being centered in our role and work. Even if we’re suffering, we know when we’re centered. There will be so many distractions—movies, this and that—and when things get hard, it’s inviting to be elsewhere. But if we are really here, putting all our endeavor into this moment, that’s the fastest way to move through the hard parts into joy, bliss, cooperation, collaborations, and opportunities for our individual work to meet fellow travelers and compound into larger projects. We won’t get there by being distracted. We get there by complete commitment to our circumstances as we are, where we are.
 
-likely to ramp up, while offering more than hope: a sense of purpose to present events.
+In that deep penetration of the present, we get glimpses and tingles of the whole structure of the meta-universe, which is also pouring its energy into the present. We meet Heaven only in the present. We meet the galactic superstructure in the present—in this grand collaboration with destiny.
 
-**CHRIS BACHE:** You described how revelation in-breaks: deep insights can’t fit in small containers, so we are
+We’ve wandered a long way from our early question about evidence for reincarnation. But communion with the universe is what drives both of us: the deepening of communion, letting go of all that gets in the way, going into a deep sharing of the Divine breath, a deep communion of the Divine joy, letting it in as deeply as we can in the years we have remaining—and then our next incarnation, and our next. Beautiful.
 
-purified—everything that keeps us small is burned up to allow the shattering, the death-rebirth cycle. We die to
+Richard Rudd: Chris, thank you. I don’t think I could add anything to that. I don’t think anything else needs to be said, does it?
 
-what holds us and are reborn into a larger world. There are no shortcuts; the road is exacting. Yet its fruit is
+Chris Bache: Maybe not here and now, but certainly in another time and another place. Wind it up again, and we’ll launch. I love our discussions. I love what happens when we get together. I love this with you.
 
-both personal and collective. My work began as personal healing, but that was shattered early. I was drawn into
+Richard Rudd: Me too. I think our various communities will hopefully come together and explore these things in new and creative ways. It's certainly my intention to continue this dialogue in all kinds of ways and to invite others into it—to explore, to create, to come up with proactive, creative routes forward in the world, depending on what is coming to us. There's a lot of great genius being drawn to these kinds of discussions and these communities, and when that genius comes together, it is capable of so much. I know that many, many hearts want to come together and be of service—as you said, to be of the greatest service. So I think there will be opportunities for lots of things in the times ahead. I want to personally thank you for being a great inspiration to me. It's really confirming many of my deeply held knowings and matching me along the journey, and sometimes just pushing me a little bit further as well. I really appreciate that.
 
-collective vistas—collective purifications and insights into our developmental process. Reincarnation is not only
+Chris Bache: And likewise. It works both ways. Much love and blessings in your work, and it's just a joy to spend time with you. It truly opens me up; it invites me forward. I receive much from our conversations.
 
-an individual soul-journey; it is a species-journey. Generation after generation we evolve, and now the process is
-
-coming to a crescendo—a profound breakthrough—a birth. We’re moving from egoic identity to soul awareness, where
-
-former lives integrate into a fusion point—traumas healed, virtues gathered—culminating in an explosion of light,
-
-a higher order of individuality, with a different communion with the intelligence of the universe. This will change
-
-the archetypal architecture of the collective unconscious as profoundly as the brain expansion 200,000 years ago.
-
-**RICHARD RUDD:** Many watching this have likely said yes to transmuting more shadow than one lifetime holds. I
-
-remember dark days when the weight in my body felt insurmountable—endless heaviness. Over the years it lightened,
-
-and I saw the tunnel’s end. If you feel that weight, it’s because you have the capacity and the love to burn
-
-through it. Don’t lose hope. Also, when birth comes there is a break in continuity. History looks continuous, but
-
-you can’t see beyond the break. Something completely new emerges, assembled out of all that came before but unlike
-
-what preceded it. We are the technology—our DNA carries undreamed-of capacities. What’s coming bears little
-
-resemblance to what has been.
-
-**CHRIS BACHE:** I agree. Many serious practitioners are processing past-life karma and collective karma. Hidden
-
-saints are working on behalf of humanity. We must move through this quickly—no one wants the fetus stuck in the
-
-birth canal. Many souls chose to incarnate now to do the work of birthing a new humanity. In sessions, the pattern
-
-is the same: deep descent into pain that seems endless, then a breaking point and surrender, followed by waking in
-
-a new reality—not an extension of the old but a different genre of experience and capacity. My visions since 1991
-
-show a turning point where the pace of the past can’t measure the future. After the transition we operate with a
-
-different psycho-spiritual structure and generate a different civilization because we are different beings. The
-
-egoic level, brilliant but fragmented, created our fractured relationship with nature. A soul-centered species with
-
-a healed heart and open mind lives differently: it cares for the world it will return to and for relationships it
-
-will meet again. Life gives us no option but transition—there’s no going back. The damage returns to us, demanding
-
-something radically new. Some work outside; we work inside. All are needed.
-
-**RICHARD RUDD:** Shakespeare’s comedies show everything snarled by Act IV before a strange attractor resolves the
-
-plot at the end. We’ve had a long build-up to this mess, and then a catalytic energy arrives, resolving things in
-
-unexpected ways. Boiling water is the simplest metaphor: nothing seems to happen, then the first bubbles, then an
-
-eruption at a tipping point. Systems thinkers and mystics anticipate rapid change that can be destabilizing. We
-
-don’t say this to alarm but to prepare. As inner birth unfolds, outer structures must decline to make way for the
-
-new. That doesn’t mean we stop repairing what we can. Compassion involves passion—standing for what’s right while
-
-serving as structures collapse. Safety means alignment with the soul’s destiny.
-
-**CHRIS BACHE:** In my sessions, field dynamics were central. When energy pours into a system it moves far from
-
-equilibrium. At bifurcation, it flips into a higher order. Humanity is a unified field of consciousness; each of us
-
-is a fractal node. A global ecological crisis energizes the collective psyche like a pot coming to boil. Beneath our
-
-individual 100-year cycles, the soul learns across lifetimes. Collectively, the species learns beneath generations
-
-through archetypal structures. That deeper layer is reaching high energy. The sheer intensity of suffering and
-
-anxiety pushes us to a breaking point, flooding us with a different common sense—new priorities, values, and
-
-experience of each other. To go as far and as fast as needed we must grasp field dynamics in non-equilibrium. Crisis
-
-builds until all seems lost; then it passes and we rise changed, with a fundamentally new organization of
-
-consciousness. Things once hard become easy; possibilities multiply. I call this the birth of the future human—a
-
-demarcation of a different kind of human being, seeded by reincarnation reaching fruition. The great beings of
-
-history are prototypes—Christs, Buddhas, prophets—hinting at our collective becoming. The ecological crisis will
-
-deepen for generations, but we will come through. In non-equilibrium, individual influence scales exponentially—the
-
-butterfly effect. Whole individuals catalyze wholeness in others.
-
-**RICHARD RUDD:** If one thing could change everything overnight, it would be seeing through the veil of death. When
-
-that happens, fear is no more. As the collective “boils,” more people will retain memory across life, death, and
-
-birth. That awakening is contagious—wisdom and love crackle in the air around such beings. As fear leaves person by
-
-person, children can be born without the wound—born awake—through clear conduits of awakened parents. Awakened
-
-consciousness will “colonize” the gene pool like a virus of love, non-denominational and everywhere. I’ve always
-
-loved Jesus’ line: “I will return like a thief in the night.” The new human arrives quietly, unstoppably. One of my
-
-favorite images from your book is the future human standing among seated Buddhas—no longer practicing to awaken,
-
-but living awakened. The age of suffering gives way to learning through bliss—the white hole beyond the black hole.
-
-Bliss has layers as deep as suffering. Keep that in heart and mind through difficult decades; we’ll be back to
-
-enjoy the fruit. Don’t miss it.
-
-**CHRIS BACHE:** Let’s look far into the future human. Our transformation is a new platform, not an endpoint. We’re
-
-growing beyond learning through suffering and beyond fear of death. If I could give people one thing from my
-
-sessions, it would be to lose that fear—death is graduation and respite. The divine project has brought us to this
-
-crisis and will take us through. Nature has decided we’re ready. We’re here for a very long arc—millions of years.
-
-At the end of my work I was given “diamond vision”—ten minutes of seeing a thousand times more clearly, with perfect
-
-discrimination. It wasn’t a hallucination; it was seeing as the future human will see. Transformation will refine
-
-heart, mind, and senses; touch, taste, vision, and hearing will grow exquisite. Consciousness will heal and uplift
-
-the body into ecstatic creativity. We’re just beginning to activate higher potentials. The stakes are immense: we’re
-
-not merely fixing humanity; we’re birthing a new order that becomes the platform for higher orders still. If our
-
-nature is truly infinite, reincarnation gives infinite time to unfold it. Carefully qualified, we are learning to
-
-create as gods—on scales we’ve only imagined in myth.
-
-**RICHARD RUDD:** I’ve seen that too through another mythology: successive races or epochs evolving on Earth. We may
-
-have forgotten earlier epochs because the breaks were so vast. Each portal includes and transcends what came before
-
-and remembers more. This next phase culminates in our collective harmony with Gaia—taking our highest seat as her
-
-consciousness and stewards, inseparable from the tiniest ant. We have not yet seen Gaia fully flowering. Each of us
-
-has a unique weaving role—following our creativity to stitch specific pathways of Gaia’s tapestry. As we approach
-
-perfection, time spirals tighter; at the final crystallization, time dissolves. My joke is: when you finally get to
-
-heaven, everything stops—and yet it’s infinite time. Humanity then transcends humanity and moves spheres. Gaia rises
-
-too; everything ratchets up because consciousness is embedded in all. Far ahead, the tapestries are vast and fractal
-
-from galaxy to grain of sand. Through crisis, never leave the present or forget where we’re going. Grace is embedded
-
-even in the bitter pill.
-
-**CHRIS BACHE:** I love hearing you go. This solar system is part of a galaxy, of a super-cluster, of a universe
-
-nested in meta-universes. Humanity’s transformation unfolds amid many species’ transformations around the galaxy.
-
-We can affirm that while paying close attention to how we take full advantage of this growth opportunity. We choose
-
-our incarnations. Everyone listening chose to be here now, planted exactly where they can have the greatest positive
-
-impact. Look under your feet—your talents and relationships are already in place. Be fully here. Distractions will
-
-multiply, but complete commitment to present circumstances is the fastest way through the hard part and into joy and
-
-collaboration. We meet heaven only in the present. We may have wandered far from evidence for reincarnation, but
-
-communion with the universe drives us both. Let go of what gets in the way and share the divine breath and joy as
-
-deeply as possible in the years remaining—and in the next life, and the next.
-
-**RICHARD RUDD:** Beautiful, Chris. I don’t think anything more needs to be said.
-
-**CHRIS BACHE:** Maybe not here and now, but in another time and place we’ll wind it up again. I love our
-
-discussions—what happens when we get together.
-
-**RICHARD RUDD:** Me too. May our communities come together to explore and create proactive routes forward. Great
-
-genius is being drawn to these conversations. When hearts join in service, much is possible.
-
-**CHRIS BACHE:** Likewise. Much love and blessings in your work. It’s a joy to spend time with you; I receive much
-
-from our conversations.
-
-**RICHARD RUDD:** Likewise. Absolutely.
-
-## Key themes
-
-- Reincarnation as species-level evolution culminating in a collective “birth.”
-
-- Field dynamics and non-equilibrium tipping points catalyzing rapid transformation.
-
-- Integration of past lives into a fusion point shifting archetypal structures.
-
-- Dissolution of death-fear and emergence of soul-centered identity.
-
-- The “future human”: refined senses, healed heart, open mind, creative bliss.
-
-- Stewardship and conscious harmony with Gaia as civilizational foundation.
-
-- Individual influence scaling in crisis; awakened presence as catalytic contagion.
-
-- Shadow transmutation as preparation for learning through bliss.
-
-- Choosing incarnation and aligning with purpose in the present moment.
-
-- Nested cosmology: local transformation within galactic and meta-universal contexts.
-
-## Revision history
-
-| date | editor | change |
-
-|------------|----------------|-----------------------|
-
-| 2025-08-15 | GPT-5 Thinking | Initial transcription |
+Richard Rudd: Likewise, absolutely.

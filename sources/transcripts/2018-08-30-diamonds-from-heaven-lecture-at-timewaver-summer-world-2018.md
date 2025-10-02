@@ -1,5 +1,4 @@
 ---
-
 archival_title: Diamonds from Heaven – Lecture at TimeWaver Summer World 2018
 
 channel: TimeWaver TV
@@ -19,213 +18,74 @@ transcriber: gpt o3 model by OpenAI
 transcription_date: 2025-08-01
 
 license: CC0 1.0 Universal
-
+speakers: ["Chris Bache"]
 ---
-
-**Abstract (140 words)**
-
-Philosopher Chris Bache recounts his twenty-year, seventy-three-session program of
-
-high-dose LSD research conducted under Stanislav Grof’s therapeutic paradigm.
-
-Speaking to the TimeWaver community, he explains how he kept his academic career
-
-at Youngstown State University separate from his clandestine inner quest,
-
-painstakingly recording each session and later analyzing the material
-
-phenomenologically. Bache traces his passage through perinatal death-rebirth,
-
-an “ocean of suffering” that he interprets as collective human trauma, and a
-
-series of transpersonal breakthroughs into psychic, subtle, causal, and finally
-
-“diamond luminosity” (dharmakaya). Along the way he receives sweeping visions
-
-of humanity’s evolutionary crisis and future “species-level rebirth” into a
-
-higher form of consciousness. Bache closes with reflections on integration,
-
-existential grief, and the need to balance transcendence with immanence while
-
-participating courageously in the troubled decades ahead.
-
+<!-- diarist_sha1:06be90d63cb44efa8bb70ff2460ec1635a9e8b44 -->
 ---
+Chris Bache: Marcus, I want to thank you very much for the opportunity to be here today and to address the Time Wafer community, which is such a progressive and wonderful group. Martin mentioned Stanislav Grof—he's one of the co-founders, with Abraham Maslow, of transpersonal psychology and the foremost authority on integrating LSD and other psychedelic substances into the therapeutic process. When I first read "Realms of the Human Unconscious," Stan's first book, in 1979, I was a brand-new, young junior faculty member at the university. As soon as I read that book, I realized psychedelics would represent a turning point, not just in psychology but also in philosophy. I was trained as a philosopher of religion, so I made the decision to begin a psychedelic voyage. I became convinced the most important work in the near future would be done by people writing from an experiential basis, not just an intellectual one, and so I began that journey.
 
-**CHRIS BACHE:**
+Now, I have to assume a certain familiarity with Stan Grof's work, so I won't try to describe in detail the methodology of working with psychedelics, but suffice it to say, it's an intense process—not about tripping at a concert, but rather working in very contemplative, isolated conditions, with eyeshades, going deeply within. I carried out this work over 20 years, across 73 high-dose LSD sessions using Stan Grof's paradigm. I worked for four years, stopped for six years, then worked very intensely for another ten years.
 
-Thank you for welcoming me to TimeWaver Summer World. Stanislav Grof, whom
+To do this work, I had to split my life in half. Outwardly, I was still a university professor; I gave lectures and did all the things professors do. In my inner life, though, I was on this very intense journey, and I kept these worlds separate—never bringing my psychedelic work into my classes, never sharing it with my students. It's only after I've retired from the university, and after the statute of limitations for this work has passed (I stopped in 1999), that I'm really able to bring forward the philosophical significance of these experiences, which is what I'd like to share with you tonight.
 
-Martin mentioned, co-founded transpersonal psychology with Abraham Maslow and
+I'm just finishing a book that I'm calling "Diamonds from Heaven." I don't know if that's what it will be called, as it's still with a publisher, but that's the working title in my mind. Irvin Laszlo has written the foreword, and what I'd like to do is take you through some highlights of this journey—little moments, glimpses along the way. I want to emphasize that I did this work as a philosopher, not as a therapist. I wasn't seeking healing primarily; I was seeking knowledge—how the universe works. I saw myself pushing a new philosophical method, a method pioneered by William James in "The Varieties of Religious Experience." This essentially involves three stages: First, to push the boundaries of experience in carefully structured psychedelic sessions. Second, to come back and make a phenomenologically complete and accurate record of these experiences within 24 hours after each session. Third, to analyze and critically compare your experiences with knowledge from other fields and with reports from other psychedelic explorers. That was my path.
 
-pioneered the clinical use of psychedelics. When I encountered *Realms of the
+This is only the third time I’ve tried to speak publicly about these things, so you’ll have to forgive me if I refer to my notes more closely than usual. A few comments on method, and then I'll get to the content. Many of you know the difference between low-dose psychedelic therapy and high-dose sessions. When I was doing this work, I saw myself as carrying out an extended series of high-dose experiences. The original protocol at Spring Grove Hospital allowed for a maximum of three sessions, aiming to trigger a near-death-type experience for people nearing their own physical death. My thought was, whatever could be done safely three times could probably be done more. What I learned, though, was that while my work always stayed within the bounds of safety, multiple high-dose sessions opened up opportunities and challenges not really considered in early stages of psychedelic therapy. Looking back, I realized I needed a different name for my process—so I call it "psychedelic exploration."
 
-Human Unconscious* in 1979, I was a new junior faculty member and immediately
+The method followed the model of psychedelic therapy: complete isolation, eyeshades, always a sitter, carefully calibrated music pacing the session. The big difference is the number of sessions—in my case, 73 over 20 years. I kept detailed records of all my sessions. I even tracked astrological variables, looking at correlations between transits and my session experiences. Across those years, I compiled about 400 pages of raw experiential data. The story I'm telling in "Diamonds from Heaven" is drawn from this archive. I use that title because, in a sense, I wanted to start at the end of the story—it took a long time before the “diamonds” arrived.
 
-sensed that psychedelics would pivot both psychology and philosophy. Trained
+It isn’t really a personal story, though of course it is in one sense. But it isn't primarily about me. I sketched out a diagram with sessions overlapping, to show how each session started where the last one ended. Personal healing and insights tended to occur at the beginning and the end of each session, when I was leaving or returning to time and space. But during the peak of these sessions, after the first dozen or so, I was operating in states of consciousness far beyond the personal—this is the story I'm trying to tell in "Diamonds from Heaven," and it is, I think, a story we all share. It's closer to a collective inheritance or a cosmological story.
 
-as a philosopher of religion, I decided to pursue experiential—rather than
+When you do this work, you go through many cycles of death and rebirth—not just ego death. The diagram I use starts below the “cross line,” representing ego, and marks the first death-rebirth cycle with astrological glyphs, out of respect for Rick Tarnas and Stan Grof’s insight into the correlations between astrological transits and non-ordinary experiences—insights my own sessions sometimes affirm, but not always entirely. That first death-rebirth happens at what Stan calls the perinatal level of consciousness. From there, one moves into deeper and deeper states, with death and rebirth recurring at each level and drawing you further and further into reality. Stan Grof, following Ken Wilber, describes these levels as psychic, subtle, and causal. I don't have a strong opinion on what exact scale to use; there are thousands of dimensions of consciousness. The important thing is just to recognize the vast range of transpersonal states, and that entry into each involves a cost—a surrender. At the outset, what’s asked is the surrender of your ego, but deeper surrenders occur as you continue the journey.
 
-solely intellectual—knowledge of how the universe works.
+To draw only one circle would be to oversimplify. There are cycles within cycles, each marking deeper entry into causal reality. The easiest way to give you a glimpse of what this looked like is simply to offer the book’s chapter titles, with a few comments on each. Here are the chapters of "Diamonds from Heaven": crossing the perinatal plane; the ocean of suffering; deep time in the soul; initiation into the universe; the greater real of archetypal reality; a benediction of Blessings; the birth of the future human; and diamond luminosity. There are a couple of missing chapters—a methodology chapter, and one introducing a typical session day—but these are the key sections carrying the content of the experiences.
 
-Over twenty years I completed seventy-three high-dose LSD sessions in Grof’s
+The first chapter—crossing the perinatal plane—is the easiest to summarize, probably because it’s the one most people know from Grof’s writing. You relive fetal experiences, your time in the womb, birth itself, and many variations of death and rebirth. For me, moving through this level took about two years and ten sessions. In my ninth and tenth sessions, the universe just snapped me like a twig in my experience of ego death. The ego, in the end, was not very difficult to dismantle. The universe shattered me by turning me into the opposite of everything I’d known myself to be. I entered the day as a white, middle-class, highly educated philosopher focused on questions of existence, and those aspects were all reversed. For hours, I experienced the lives of women—hundreds of women—from around the world, women of color, women who were poor or had no interest in philosophy. I became all of those beings. I was completely terrified; it was, for me as a male philosopher, the perfect hell. There’s nothing wrong with being a woman or being poor or being disinterested in philosophy; the core issue was my identification with being male, with being middle class. That’s what the universe needed to break in me. The message wasn’t just to recall past lives as women—I’ve known I had those—but rather that, where I was going, gender doesn’t exist. I had to let go.
 
-method: eyeshades, carefully chosen music, total isolation, and a trusted
+When I surrendered and let go of that identity, I entered into the most glorious experience of womanhood. I experienced hundreds and hundreds of women’s lives, all aspects of female experience: conceiving, giving birth, laughing at my husbands. I wish every man could experience such a deep immersion in women's lives. When I went into the next phase—the next two years of work—I entered a realm of extraordinary collective suffering. I was taken systematically deeper and deeper, plunged into an orgy of pain and suffering that seemed to encompass all the wars, droughts, famines, and violence of human history. It was a true ordeal.
 
-sitter. Outwardly I remained a university professor; inwardly I embarked on a
+At first, I thought this represented a further deepening of ego death, that perhaps bits of the ego had slipped through the first cycle and that the collective suffering was just a deeper personal purification. But as the ordeal dragged on, involving hundreds of thousands or millions of beings, I came to a different conclusion: that my sessions were being used not to heal my private life, but to help heal the collective psyche of humanity. All that historical trauma, all that violence, has lodged itself in the human collective psyche. In these expanded states of consciousness, the universe was, at least for a brief window, trying to draw some of that pain through awareness, to transform it, and bring it into light.
 
-hidden pilgrimage, recording every session within twenty-four hours and later
+Generally, each psychedelic session has two halves: a first half of cleansing or suffering, and then, after coming to a culmination, a second half that is ecstatic and transpersonal. My "ocean of suffering" lasted two years—though there was one year of work, then a six-year break, and then another ten years of work. When I resumed after six years, my journey picked up precisely where it had left off, which I think says a lot about the intentionality of the intelligence we engage in deep states of consciousness.
 
-analyzing the data against other fields of knowledge.
+When I made it through the ocean of suffering that first year, I entered what I call deep time in the soul. I had a series of experiences of my entire life from beginning to end: the distilled essence of everything I had become and was becoming. I returned to this space again and again, each time opening more layers. I began having insights into the people I was connected to—my wife, my family. The first time, I couldn’t remember any of it when I came out of it, despite it being profoundly meaningful. But revisiting that state two, three, four times, I started being able to retain more and more. This, I believe, is an important epistemological point: when you enter new, original states of consciousness, at first, you simply can’t hold onto them. That’s what people mean when they talk about ineffability. But if you return to the same state again and again, you can remember more. You teach yourself to stay conscious in these depths. It requires tremendous purification, but it can be learned.
 
-Most people know the difference between low-dose psycholytic therapy and
+Six years later, after the break, when I resumed my work and re-entered the ocean of suffering, something different happened. In the ecstatic phase, I found myself in what I call the initiation into the universe—a series of sessions that took me deeper and deeper and provided a carefully calibrated series of instructions, as if the universe itself was teaching me. I name my sessions to help remember them—a single word or phrase capturing the essence. In "initiation into the universe," I experienced things like "You and I creating," which returned me to the original point of creation, and “the cosmic tour.” You might recognize some of these names if you’ve read "Dark Night, Early Dawn." There was “The Council of Elders,” “Dying into Oneness”—a session of dying deeper and deeper into unity. “The Master Plan” was a series of visions in which I was shown the universe’s agenda for humanity. I know it may sound arrogant, as if it’s just ego run amok, but what I was shown was the evolutionary trajectory and agenda for the human species.
 
-high-dose psychedelic therapy. Early Spring Grove trials allowed a maximum of
+Eventually, the ocean of suffering came to a culmination in what I call “healing the collective wound”—a massive purification of collective pain. When that finished, I was spun into an entirely new reality—a level I call archetypal reality, or the greater real of archetypes.
 
-three LSD sessions for terminal patients. I reasoned that if three were safe,
+When I first entered archetypal reality, my identity as a human being itself began to fall away. There’s an identity we all share as humans that is deeper than that of any particular person. To enter archetypal reality, I literally had to leave behind not just my own history, but the history of the human race and its ordinary conditions of consciousness. The image that came to me was like being in a space station orbiting above the earth. I entered a state beyond the collective psyche and was gradually being taught how to experience how reality works at that level.
 
-more could be safe. Multiple sessions, however, opened challenges unimagined
+In my experience, there were two archetypal levels: a high subtle level and a low subtle level. At the high subtle level—what I think of as Platonic—I encountered living forms responsible for creating spacetime and its core structures. They were vast, enormous, like galaxies billions of light years across. They were archetypes, not static ideas in the mind of an unchanging god, but living forms evolving over vast tracts of time. At the lower subtle, more Jungian level, I entered into the living tissue of the collective psyche. I had experiences of the wholeness that the human psyche and even the human body represents—how we’re all fractal manifestations of a larger pattern, and how each of us, by healing our personal diseases, contributes to the collective, archetypal human body becoming stronger through history.
 
-in those early studies. Looking back, I call what I did **psychedelic
+I began to experience reincarnation as a collective process. I’d always pictured it as an individual soul’s journey, but these sessions revealed to me humanity as a single organism, incarnating creatively and intentionally, generation after generation. I entered “deep time,” feeling the pulse of our collective evolution through the incarnation of billions every century. It was both numinous and devastating, to experience all of humanity’s joys and suffering across the ages from the perspective of the unified intelligence that is evolving the species further and further along. The result was a radically expanded sense of the intelligence inherent in the universe.
 
-exploration**: the therapeutic protocol used in far greater number, with
+After spending 18 months exploring archetypal reality, which, in the grand scheme of things, is not long, I moved through it in large steps. My descriptions are very incomplete compared to the totality of that reality. After this period, I entered what I came to call a year of extraordinary blessings—a "benediction of blessings." It was one blessing after another for an entire year, each session unique. Even at such deep levels of consciousness, I noticed just how much cleansing is required. For example, session 28 was an extraordinarily positive experience—my first contact with causal reality. I touched this beautiful, ecstatic state of consciousness, but I was only there for about 30 minutes. The next three sessions spanned six months and involved grueling ordeals of detoxification and purification. I came to understand that each deeper state of consciousness is a higher level of energy, and to enter these states coherently, you have to acclimate to that heightened energy. Otherwise, the experience becomes fragmented and chaotic. That single touch of causal reality required three more sessions—hours of physical and psychological detoxification—before I could return and sustain cognitive coherence in that state.
 
-meticulous documentation—four hundred pages of raw notes, even astrological
+This pattern repeated itself as I went deeper and deeper into the universe. After each breakthrough into a new luminous state, the following sessions were inevitably difficult, akin to "taking out the garbage." Yet, after enduring these challenges, I could finally enter into the benediction of blessings. In the book, I present four sessions from this period, each distinct. One involved an experience of oneness—Shunyata, emptiness—where there was no self present in me or anywhere in the world, just an absolute transparency to the totality of life as a living singularity. It was a deep entry into causal reality, into what I describe as singing the universe away—an entry into the primal void, the Buddha womb, Satchitananda, the fertile void beneath all manifest existence.
 
-transits correlated with phenomenology.
+Another session, which I titled "Jesus' Blood," was an overwhelming experience of cosmic love. It's being drenched in a love so deep you realize you've never truly been loved until you've been loved like God loves—a force far deeper than anything I had encountered before. Another pivotal experience was the "birth of the diamond soul." Eleven years prior, I had an experience of my life as a completed whole, from start to finish, but in my fortieth session, I began to sense the integration of all my former lives. It was as if all my previous incarnations were winding together, like a string of white light around a kite spool. When this collective memory hit a critical mass, it exploded, fusing all those individual lives into one, and my consciousness soared beyond any sense of individual existence. I experienced what I call diamond luminosity—my heart ruptured, and my awareness expanded dramatically. This was my first taste of the state where I believe reincarnation is taking us.
 
----
+Reincarnation isn’t merely a process of adding a little growth lifetime by lifetime. Eventually, it seems all our past lives and accumulated history will fuse together, lifting us to the next step in human evolution—when the soul truly wakes up on earth. Typically, we die, our minds expand, and we are reborn into a contracted state. It's a cycle from soul to ego and back. But if we continue this for thousands of years, eventually the soul will awaken here, and when that happens, our entire relationship to life transforms. The soul experiences a depth of connection, knowing we've shared lives with others for centuries, and it understands that the earth we leave will be the one we inherit in another incarnation. The soul's relationship to issues like ecology becomes far more profound.
 
-### Crossing the perinatal plane
+Following that period, my sessions progressed into what I call the diamond luminosity work. But before I delve into that, I need to backtrack and discuss the birth of the future human. When I began this work, I never expected that it would lead to what I’m about to describe. Initially, I thought I was seeking personal healing, transformation, or enlightenment. But starting with session 23, and continuing in many subsequent sessions, I began to have powerful visions concerning our species and the fate of humanity.
 
-My first ten sessions, spanning two years, dismantled my ego. At the ninth and
+I realized that when the ego “dies,” one's consciousness can open not just to the oneness of God, but also to the life of the species. Just as we sense our individual age, you begin to perceive the age of the species. I was repeatedly shown that humanity is approaching a time of exponential growth in capability—a great awakening. In the book, I present six visions that I call the “visions of awakening,” weaving together insights from multiple sessions to tell the coherent story of this impending birth of a new humanity. For four years I glimpsed this story, but never saw how humanity would actually leap to this new consciousness.
 
-tenth the universe “snapped me like a twig,” reversing every identity I clung
+Then, in 1995, a week before Christmas, I was expecting to revisit the diamond luminosity state, but instead, the universe projected me far into the future—to the death and rebirth of our species at a collective level. This was not a personal experience; I became the human species, the psyche of the planet, dissolved into the collective. I underwent a near-death experience of the species—a period of losing control, deconstruction, and suffering—what I believe the 21st century will inaugurate as the dark night of our collective soul, the time of great undoing. We are facing a global systems crisis, unavoidable after repeatedly postponing critical decisions. But just as the crisis peaks, it eventually passes, like a hurricane over an island. Afterward comes an exponential surge—light, intelligence, creativity, entirely new social structures. This isn't simply a cultural or technological renewal; it's a shift at the core of the collective psyche. After this, everyone born will operate from a new foundation. I believe we are on the threshold of becoming a species of Buddhas, Christs, and prophets.
 
-to. I lived the lives of poor women of color across cultures. Gender, class,
+After the benediction of blessings, I felt completely fulfilled. The universe had asked something of me, and in offering it up, I was rewarded with more joy than I could have ever imagined—a philosopher’s dream come true. I had known God, the fertile void, and profound joy. Little did I know I still had five years to go in this journey. After one more cycle of death and rebirth, I entered an extraordinarily clear state of consciousness—which I came to call diamond luminosity. This is what Buddhists refer to as Dharmakaya, the absolute clear light of being. Though I had encountered light in many subtle dimensions before, diamond light is of a different order entirely—ultra-clear, super-luminous, beyond imagination.
 
-and academic pride dissolved. Only after surrendering did I discover the glory
+In the next four years and twenty-five sessions, I entered this diamond luminosity state only four times, each time separated by tremendous purification and healing. The 50th session was the deepest—an absorption into pure light, boundaries dissolved, happiness beyond description. In that state, something happened that altered my understanding of reality. My visual field pivoted, and in the distance, I perceived a reality as far beyond where I was as my current state was beyond Earth, time, and space. A ray of light from that further reality struck me and shattered me—I call it the Absolute Light. This made me realize that the journey is infinite; there is no final point, no end to God or the Divine. I learned there are depths within oneness, within the void—endless variations. I once believed you could ultimately reach an endpoint—a final destiny. But this experience showed me that the Divine is infinitely large, and the path is an endless progression.
 
-of womanhood—conceiving, birthing, laughing at bewildered husbands—and learned
+If I were to do this over again, I would approach it more gently rather than pushing myself so hard. Even twenty years is a relatively short span for such deep work. The true goal is not to reach some fixed state, but to open oneself to as much of the Divine as possible, allowing it to transform your life and everything you do with that awareness.
 
-that beyond personal history gender does not exist.
+In my final years of this work, I experienced what I call the "goodbye sessions"—the last two sessions chronicled in the book. I didn’t realize I was concluding this work; the consciousness that had always guided my sessions choreographed the ending before I was even aware of it. It presented me an overview of my life’s journey, showing me how all my work fit together. I used insights from that session to help organize the narrative in *Diamonds from Heaven*. Before parting, I received a final series of instructions. But just before this closure, there was another profound task: Session 70. In that session, I underwent one of the most demanding “strip-downs” of the journey—a deep, relentless process of dying and dissolving, more intense than I’d thought possible. After passing through this ordeal, I emerged into a state of extreme clarity. To summarize, that experience took me deeper into “deep time” than ever before—somewhere in the range of 100,000 to 200,000 years into the future. There, I experienced the culmination of the birth of the future human—the capstone to the overarching story. It was as if I was allowed to step into and try on the being that the universe is nurturing into existence on our planet—an extraordinary being. It's so important for us to hold onto this vision of where we are headed. As shadows gather in this century and the next, we risk losing ourselves in despair unless we recognize that we are in labor, giving birth to something unprecedented—not a slightly improved humanity, but an entirely new child of our species.
 
-### The ocean of suffering
+This final deep experience also revealed something missing from my previous insights about the birth of the future human: our species is built for speed. We often think of human nature as static, but if you view it from an expanded perspective—considering reincarnation and the gathering of knowledge over many lifetimes—when our archetypal center shifts, it results in an exponential leap. The whole dynamic of evolution and reincarnation suggests we are carrying our collective history in much lighter packs than we realize. Evolutionary acceleration is built into us, and we are living through a period of unprecedented acceleration. Before we chose this life, we knew what we were participating in—we chose to take part in this vital, challenging, and dynamic progression.
 
-For another year I was plunged into a vast collective agony—wars, famines,
+I stopped my sessions for two reasons. First, pain: my subtle energy system was overexcited, and despite taking care of myself through yoga and meditation, I was running too much energy. But the main reason was heartache. I reached a point where I could no longer bear the return from the Divine. Once you dissolve fully into light and experience joy at that magnitude, ordinary reality can feel withered. When I stopped the sessions, I entered a deep existential sadness. I had worked hard to integrate my experiences as I went, but this particular sadness ran deep, akin to what some near-death experiencers report—Carl Jung, for example, after his own hospital experiences. I knew I wasn’t alone, but I had immersed myself so deeply in the divine that my longing was profound. I reached a point where I felt as though I was simply waiting to die, fulfilling my responsibilities—lectures, family, daily life—but at my core, just waiting to return to my beloved.
 
-injustice. Initially I thought this was a deeper layer of ego death; later I
+Eventually, I realized this was not a healthy way to live, nor was it the intended outcome of this journey. I made a determined effort to return fully to life—to ground myself in time and space. I recognized that I had made a mistake: I lost the balance between transcendence and immanence. In reaching so deeply into transcendent divinity, I lost my footing in the immanent Divine—the presence of God in the world around us and in our physical being. It took nearly ten years to ground myself again, becoming comfortable in time and space once more.
 
-understood the sessions were siphoning trauma from the collective human psyche
-
-for transmutation.
-
-### Deep time in the soul
-
-Emerging from that ordeal I experienced my entire life—beginning to end—as a
-
-single, completed pattern. Returning repeatedly, I learned that states once
-
-ineffable can become cognitively coherent through diligence and purification.
-
-### Initiation into the universe
-
-Six years after a pause, the work resumed at the exact point it had stopped,
-
-demonstrating the precision of the guiding intelligence. I was taken into
-
-cosmic classrooms—“You and I Creating,” “The Cosmic Tour,” “The Council of
-
-Elders”—and shown humanity’s evolutionary trajectory.
-
-### Archetypal reality
-
-After an immense collective cleansing I entered high-subtle and low-subtle
-
-archetypal domains. At the Platonic apex I encountered vast living forms that
-
-shape space-time. At the Jungian layer I felt the species incarnating itself
-
-generation by generation, a numinous yet devastating vision of humanity as a
-
-single organism learning through billions of lives.
-
-### Benediction of blessings
-
-Eighteen months of archetypal work gave way to a year of overwhelming grace:
-
-Shunyata’s transparency, the fertile void, cosmic love, and the first eruption
-
-of “diamond luminosity” as prior lifetimes fused into a single white-hot
-
-presence—the *diamond soul*. I realized reincarnation is steering us toward an
-
-eventual awakening where the *soul* lives consciously on Earth.
-
-### Visions of the future human
-
-From session 23 onward I received “visions of awakening,” culminating in
-
-1995 with a panoramic near-death event for the species. I witnessed a global
-
-dark night—an ecological and cultural systems crisis—followed by an explosive
-
-flowering of intelligence, creativity, and solidarity. Humanity, I was told,
-
-is “built for speed” and poised to birth an unprecedented collective being.
-
-### Diamond luminosity
-
-In the final five years I entered the “diamond light” four times. Each entry
-
-was preceded by torturous purification and followed by deeper absorption. In
-
-session 50 my field pivoted ninety degrees; beyond the diamond light lay an
-
-even more transcendent “absolute light,” revealing that the divine journey is
-
-endless. The goal is not a finish line but an ever-expanding capacity to host
-
-the infinite.
-
-### Integration and caution
-
-I ended the work in 1999, partly due to physical overstimulation, partly due to
-
-heartache—an existential grief at leaving the divine realms. A decade of
-
-grounding taught me that excessive transcendence can eclipse the immanent
-
-divine manifest in the physical world. Our task is to balance heaven and
-
-earth, serving the labor of planetary rebirth already under way.
-
----
-
-## Key themes
-
-- Methodology of long-term, high-dose psychedelic exploration
-
-- Perinatal death-rebirth and collective trauma purification
-
-- Multilevel cosmology: psychic, subtle, causal, diamond luminosity
-
-- The archetypal body of humanity and evolutionary reincarnation
-
-- Visions of a species-wide dark night and future human emergence
-
-- Infinite progression of consciousness beyond ultimate states
-
-- Challenges of integration and the transcendence-immanence balance
-
-- Ethical call to participate in planetary labor with courage and hope
-
----
-
-## Revision history
-
-| Date | Editor | Change |
-
-|------------|------------------------|------------------------------------------|
-
-| 2025-08-01 | gpt o3 model by OpenAI | Initial transcript cleanup and formatting|
+In this sense, my experience is a cautionary tale—not just the hero’s journey, where one returns with enlightenment and good news. Transcendence is a complex, paradoxical thing. Some transcendence is healing and can help us understand who we are, but too much can disconnect us from another equally vital truth: the physical world is the manifest body of the Divine. Thank you very much for letting me share my story with you.
