@@ -1,77 +1,95 @@
 #!/usr/bin/env python3
-import json, pathlib, datetime, sys
+import json, pathlib, datetime, sys, re
 
-ROOT = pathlib.Path(__file__).resolve().parents[1]  # repo root
-index_json = ROOT / "index.json"
-index_md   = ROOT / "index.md"
+ROOT = pathlib.Path(__file__).resolve().parents[1]
+INDEX_JSON = ROOT / "index.json"
+INDEX_MD   = ROOT / "index.md"
 
 def blob_url(relpath: str) -> str:
-    relpath = relpath.lstrip("./")
+    relpath = (relpath or "").lstrip("./")
     if relpath.startswith("sources/"):
         return f"https://github.com/bache-archive/chris-bache-archive/blob/main/{relpath}"
-    return relpath  # if it's already a URL, keep as-is
+    return relpath
 
 def load_items():
-    with index_json.open("r", encoding="utf-8") as f:
-        return json.load(f)
+    with INDEX_JSON.open("r", encoding="utf-8") as f:
+        items = json.load(f)
+    def k(it):
+        d = (it.get("published") or "").strip()
+        try:
+            return datetime.date.fromisoformat(d)
+        except Exception:
+            return datetime.date.min
+    items.sort(key=k)  # oldest -> newest (chronological)
+    return items
 
-def sort_key(x):
-    d = (x.get("published") or "").strip()
-    try:
-        return (datetime.date.fromisoformat(d), x.get("archival_title",""))
-    except Exception:
-        # push undated to top with minimal date, still deterministic
-        return (datetime.date.min, x.get("archival_title",""))
+# ---- Markdown safety helpers --------------------------------------------
 
-def md_link(text, url):
+def _collapse_ws(s: str) -> str:
+    # collapse all internal whitespace to single spaces, strip edges
+    return re.sub(r"\s+", " ", s or "").strip()
+
+def md_escape_cell_text(s: str) -> str:
+    """Escape characters that break markdown tables and links, and remove newlines."""
+    s = _collapse_ws(str(s))
+    # Escape pipes so they don't split columns
+    s = s.replace("|", r"\|")
+    # Escape brackets in link text to avoid closing prematurely
+    s = s.replace("[", r"\[").replace("]", r"\]")
+    return s
+
+def md_link(text: str, url: str) -> str:
     if not url:
-        return text
-    return f"[{text}]({url})"
+        return md_escape_cell_text(text)
+    # text must be escaped for table safety; URL stays raw
+    t = md_escape_cell_text(text)
+    return f"[{t}]({url})"
 
-def main():
-    items = load_items()
-    items.sort(key=sort_key)
+# ---- Render --------------------------------------------------------------
 
+def render_table(items):
     lines = []
     lines.append("# Chris Bache Archive — Index\n")
     lines.append("> Readable transcripts with diarized speaker attributions. See the full project on GitHub and mirrors below.\n")
     lines.append("")
-    lines.append("**How to use this page**: Click a title to open the curated transcript. Use “Diarist” for raw speaker-attributed text. “YouTube” links open the original host video when available.\n")
+    lines.append("**How to use this page**: Click a title to open the curated transcript. Use “Diarist” for raw speaker-attributed text. “YouTube” opens the original host video when available.\n")
     lines.append("")
     lines.append("| Date | Title (Transcript) | Channel | Type | Diarist | YouTube |")
     lines.append("|---|---|---|---|---|---|")
 
     for it in items:
-        date    = (it.get("published") or "").strip() or "—"
+        date    = md_escape_cell_text(it.get("published") or "—")
         title   = (it.get("archival_title") or "").strip() or "(untitled)"
-        channel = (it.get("channel") or "").strip() or "—"
-        stype   = (it.get("source_type") or "").strip() or "—"
+        channel = md_escape_cell_text(it.get("channel") or "—")
+        stype   = md_escape_cell_text(it.get("source_type") or "—")
 
-        # Transcript link: prefer explicit blob/raw URLs if present, else build blob URL from path under sources/
+        # Transcript URL
         transcript_path = (it.get("transcript") or "").strip()
         transcript_url  = (it.get("blob_url") or "").strip() or (it.get("raw_url") or "").strip()
         if not transcript_url and transcript_path:
             transcript_url = blob_url(transcript_path)
 
-        # Diarist link (if present)
+        # Diarist URL
         diarist_path = (it.get("diarist") or "").strip()
         diarist_url  = blob_url(diarist_path) if diarist_path else ""
 
-        # Only include YouTube; ignore media.audio/media.video
+        # YouTube only (ignore media.audio/video)
         youtube_url = (it.get("youtube_url") or "").strip()
         youtube_cell = md_link("YouTube", youtube_url) if youtube_url else "—"
 
-        row = [
+        row = " | ".join([
             date,
-            md_link(title, transcript_url) if transcript_url else title,
+            md_link(title, transcript_url) if transcript_url else md_escape_cell_text(title),
             channel,
             stype,
             md_link("Diarist", diarist_url) if diarist_url else "—",
             youtube_cell,
-        ]
-        lines.append("| " + " | ".join(row) + " |")
+        ])
+        # Safety: ensure no accidental newlines leaked into the row
+        row = _collapse_ws(row)
+        lines.append(f"| {row} |")
 
-    # footer mirrors / licensing
+    # Footer
     lines.append("\n---\n")
     lines.append("**Mirrors & Citation**  \n"
                  "- Concept DOI (latest snapshot): https://doi.org/10.5281/zenodo.17100583  \n"
@@ -80,9 +98,16 @@ def main():
                  "- Audio collection (2014–2025): https://archive.org/details/chris-bache-archive-audio  \n"
                  "- Video collection (2014–2025): https://archive.org/details/chris-bache-archive-video  \n")
     lines.append("\n_All transcripts and metadata are dedicated to the public domain under CC0 1.0._\n")
+    return "\n".join(lines)
 
-    index_md.write_text("\n".join(lines), encoding="utf-8")
-    print(f"Wrote {index_md}")
+def main():
+    if not INDEX_JSON.exists():
+        print(f"Missing {INDEX_JSON}", file=sys.stderr)
+        sys.exit(2)
+    items = load_items()
+    out = render_table(items)
+    INDEX_MD.write_text(out, encoding="utf-8")
+    print(f"Wrote {INDEX_MD}")
 
 if __name__ == "__main__":
     try:
