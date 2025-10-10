@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://bache-archive.github.io/chris-bache-archive/sitemap.xml
