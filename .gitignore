@@ -1,2 +1,6 @@
 # gh-pages branch for GitHub Pages site
 .DS_Store
+
+sitemap.xml
+robots.txt
+
