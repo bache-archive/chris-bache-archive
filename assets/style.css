@@ -1,0 +1,227 @@
+/* assets/style.css
+   Modern, shadcn-inspired styles with light/dark support.
+   No external deps; works with the provided index.html structure. */
+
+/* ===== Root tokens ====================================================== */
+:root {
+  --bg: #0b0b0c;
+  --card: #121215;
+  --muted: #a1a1aa;
+  --text: #fafafa;
+  --border: #26262b;
+  --brand: #7c3aed;         /* violet-600 */
+  --brand-600: #6d28d9;     /* violet-700-ish */
+  --brand-700: #5b21b6;     /* violet-800-ish */
+  --ring: 0 0 0 3px rgba(124, 58, 237, .25);
+  --radius: 16px;
+  --shadow: 0 10px 18px rgba(0,0,0,.25), 0 2px 6px rgba(0,0,0,.18);
+  --focus: 0 0 0 3px rgba(99, 102, 241, 0.35);
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #fbfbfc;
+    --card: #ffffff;
+    --muted: #52525b;
+    --text: #0b0b0c;
+    --border: #e6e6eb;
+    --brand: #6d28d9;
+    --brand-600: #5b21b6;
+    --brand-700: #4c1d95;
+    --shadow: 0 8px 16px rgba(12, 12, 13, .08), 0 1px 3px rgba(12, 12, 13, .06);
+    --focus: 0 0 0 3px rgba(109, 40, 217, 0.28);
+  }
+}
+
+/* ===== Base reset-ish =================================================== */
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+html:focus-within { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  font: 16px/1.6 ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Inter, "Helvetica Neue", Arial, "Apple Color Emoji", "Segoe UI Emoji";
+  color: var(--text);
+  background:
+    radial-gradient(1200px 600px at 20% -10%, rgba(124,58,237,.08), transparent 60%),
+    radial-gradient(900px 600px at 120% 10%, rgba(99,102,241,.06), transparent 50%),
+    var(--bg);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Useful for keyboard navigation */
+:focus-visible {
+  outline: none;
+  box-shadow: var(--focus);
+  border-radius: 10px;
+}
+
+/* ===== Layout =========================================================== */
+.container {
+  max-width: 1000px;
+  margin: 48px auto;
+  padding: 0 20px 56px;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 22px;
+}
+
+.title {
+  font-size: clamp(28px, 4.5vw, 40px);
+  letter-spacing: -0.02em;
+  margin: 0;
+}
+
+.subtitle {
+  color: var(--muted);
+  margin: 0;
+}
+
+.grid {
+  display: grid;
+  gap: 18px;
+  grid-template-columns: 1fr;
+}
+@media (min-width: 860px) {
+  .grid { grid-template-columns: 1.1fr .9fr; }
+}
+
+/* ===== Cards ============================================================ */
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 20px;
+}
+
+/* Headings & text */
+h2, h3 {
+  margin: 0 0 12px 0;
+  letter-spacing: -0.01em;
+}
+h2 { font-size: 22px; }
+h3 { font-size: 18px; color: var(--muted); }
+p  { margin: 0 0 12px 0; }
+ul { margin: 0 0 8px 20px; }
+li { margin: 6px 0; }
+
+a { color: var(--brand); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* Utility */
+.hr      { height: 1px; background: var(--border); margin: 22px 0; border-radius: 999px; }
+.muted   { color: var(--muted); }
+.mono    { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+.section { margin-top: 18px; }
+.stack   { display: grid; gap: 12px; }
+
+.kbd {
+  display: inline-block;
+  padding: 1px 6px;
+  border: 1px solid var(--border);
+  border-bottom-width: 2px;
+  border-radius: 6px;
+  background: rgba(127,127,127,.06);
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: .9em;
+}
+
+/* Pills / badges */
+.pill {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  color: white;
+  background: var(--brand);
+  padding: 6px 10px;
+  border-radius: 999px;
+  border: 1px solid rgba(255,255,255,.15);
+  box-shadow: 0 1px 0 rgba(0,0,0,.18) inset;
+}
+
+/* ===== Buttons ========================================================== */
+.btnrow { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 12px; }
+
+.btn, .btn-outline {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 10px 14px;
+  border-radius: 12px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: transform .12s ease, box-shadow .12s ease, background .12s ease, border-color .12s ease, color .12s ease;
+  will-change: transform;
+}
+
+.btn {
+  color: white;
+  background: linear-gradient(180deg, var(--brand), var(--brand-600));
+  border: 1px solid rgba(255,255,255,.08);
+}
+.btn:hover { transform: translateY(-1px); box-shadow: var(--ring); background: linear-gradient(180deg, var(--brand-600), var(--brand-700)); }
+.btn:active { transform: translateY(0); }
+
+.btn-outline {
+  color: var(--text);
+  background: transparent;
+  border: 1px solid var(--border);
+}
+.btn-outline:hover { border-color: var(--brand); box-shadow: var(--ring); }
+.btn-outline:active { transform: translateY(0); }
+
+/* ===== Lists ============================================================ */
+.list-compact { padding-left: 18px; margin: 0; }
+.list-compact li { margin: 4px 0; }
+
+/* ===== Media embeds ===================================================== */
+.playlist-embed {
+  aspect-ratio: 16/9;
+  width: 100%;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  background: black;
+}
+
+/* ===== Footer =========================================================== */
+.footer {
+  color: var(--muted);
+  font-size: 14px;
+}
+
+/* ===== Print tweaks ===================================================== */
+@media print {
+  body { background: #fff; color: #000; }
+  .card { box-shadow: none; }
+  .playlist-embed { display: none; }
+  .btn, .btn-outline { border: 1px solid #ccc; color: #000 !important; background: transparent !important; box-shadow: none !important; }
+}
+
+/* ===== Small accessibility niceties ==================================== */
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .btn, .btn-outline { transition: none; }
+}
+
+/* Slightly larger tap targets on small screens */
+@media (max-width: 420px) {
+  .btn, .btn-outline { width: 100%; justify-content: center; }
+}
+
+/* ===== Optional: subtle link underline on hover for better affordance === */
+a {
+  text-underline-offset: 3px;
+}
+a:hover {
+  text-decoration-thickness: 2px;
+}
