@@ -2,125 +2,279 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Chris Bache Archive</title>
   <!-- Google Search Console verification -->
   <meta name="google-site-verification" content="iVM4M8NOpsQ2IN9VZyzoffWA9mYeNvHYXztL0EpCKFk" />
-  <meta name="description" content="Access readable transcripts, diarized transcripts, and original media for Christopher M. Bache’s public talks (2014–2025). Purpose-built for long-term preservation and study, mirrored on GitHub, Zenodo, and the Internet Archive." />
+  <meta name="description" content="Access readable, speaker-attributed transcripts and original media for Christopher M. Bache’s public talks (2014–2025). Purpose-built for long-term preservation and study, mirrored on GitHub, Zenodo, and the Internet Archive." />
+  <style>
+    /* ——— shadcn-inspired minimal design without external deps ——— */
+    :root {
+      --bg: #0b0b0c;
+      --card: #121215;
+      --muted: #a1a1aa;
+      --text: #fafafa;
+      --border: #26262b;
+      --brand: #7c3aed; /* violet-600-ish */
+      --brand-600: #6d28d9;
+      --brand-700: #5b21b6;
+      --ring: 0 0 0 3px rgba(124, 58, 237, .25);
+      --radius: 16px;
+      --shadow: 0 10px 18px rgba(0,0,0,.25), 0 2px 6px rgba(0,0,0,.18);
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --bg: #fbfbfc;
+        --card: #ffffff;
+        --muted: #52525b;
+        --text: #0b0b0c;
+        --border: #e6e6eb;
+        --brand: #6d28d9;
+        --brand-600: #5b21b6;
+        --brand-700: #4c1d95;
+        --shadow: 0 8px 16px rgba(12, 12, 13, .08), 0 1px 3px rgba(12, 12, 13, .06);
+      }
+    }
+    * { box-sizing: border-box; }
+    html, body { height: 100%; }
+    body {
+      margin: 0;
+      font: 16px/1.6 ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Inter, "Helvetica Neue", Arial, "Apple Color Emoji", "Segoe UI Emoji";
+      color: var(--text);
+      background: radial-gradient(1200px 600px at 20% -10%, rgba(124,58,237,.08), transparent 60%),
+                  radial-gradient(900px 600px at 120% 10%, rgba(99,102,241,.06), transparent 50%),
+                  var(--bg);
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+    .container {
+      max-width: 1000px;
+      margin: 48px auto;
+      padding: 0 20px 56px;
+    }
+    header {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-bottom: 22px;
+    }
+    .title {
+      font-size: clamp(28px, 4.5vw, 40px);
+      letter-spacing: -0.02em;
+      margin: 0;
+    }
+    .subtitle {
+      color: var(--muted);
+      margin: 0;
+    }
+    .grid {
+      display: grid;
+      gap: 18px;
+      grid-template-columns: 1fr;
+    }
+    @media (min-width: 860px) {
+      .grid { grid-template-columns: 1.1fr .9fr; }
+    }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 20px;
+    }
+    h2, h3 {
+      margin: 0 0 12px 0;
+      letter-spacing: -0.01em;
+    }
+    h2 { font-size: 22px; }
+    h3 { font-size: 18px; color: var(--muted); }
+    p { margin: 0 0 12px 0; }
+    ul { margin: 0 0 8px 20px; }
+    li { margin: 6px 0; }
+    .btnrow { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 12px; }
+    .btn, .btn-outline {
+      display: inline-flex; align-items: center; justify-content: center;
+      gap: 8px; padding: 10px 14px; border-radius: 12px; text-decoration: none; font-weight: 600;
+      transition: all .15s ease;
+    }
+    .btn {
+      color: white; background: linear-gradient(180deg, var(--brand), var(--brand-600));
+      border: 1px solid rgba(255,255,255,.08);
+    }
+    .btn:hover { transform: translateY(-1px); box-shadow: var(--ring); background: linear-gradient(180deg, var(--brand-600), var(--brand-700)); }
+    .btn-outline {
+      color: var(--text); background: transparent; border: 1px solid var(--border);
+    }
+    .btn-outline:hover { border-color: var(--brand); box-shadow: var(--ring); }
+    .kbd {
+      display: inline-block;
+      padding: 1px 6px; border: 1px solid var(--border); border-bottom-width: 2px;
+      border-radius: 6px; background: rgba(127,127,127,.06); font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: .9em;
+    }
+    .hr { height: 1px; background: var(--border); margin: 22px 0; border-radius: 999px; }
+    .muted { color: var(--muted); }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .section { margin-top: 18px; }
+    .stack { display: grid; gap: 12px; }
+    .pill {
+      display: inline-block; font-size: 12px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase;
+      color: white; background: var(--brand); padding: 6px 10px; border-radius: 999px; border: 1px solid rgba(255,255,255,.15);
+    }
+    .footer { color: var(--muted); font-size: 14px; }
+    .playlist-embed {
+      aspect-ratio: 16/9; width: 100%; border: 1px solid var(--border); border-radius: 14px; overflow: hidden;
+      box-shadow: var(--shadow); background: black;
+    }
+    .list-compact { padding-left: 18px; margin: 0; }
+    .list-compact li { margin: 4px 0; }
+    a { color: var(--brand); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
 </head>
 <body>
-  <h1>Chris Bache Archive</h1>
-  <p><em>A reverent, open archive of public talks, interviews, and reflections by philosopher-author Christopher M. Bache (2014–2025).</em></p>
+  <div class="container">
+    <header>
+      <span class="pill">Public Domain • CC0 1.0</span>
+      <h1 class="title">Chris Bache Archive</h1>
+      <p class="subtitle">A reverent, open archive of public talks, interviews, and reflections by philosopher-author Christopher M. Bache (2014–2025).</p>
+    </header>
 
-  <!-- Quick access / how to use -->
-  <h2>Start Here: Read the Transcripts</h2>
-  <p>
-    Transcripts are organized by date (<code>YYYY-MM-DD-title.md</code>) and edited for readability.  
-    For accurate speaker attribution, diarized (Otter.ai) text files are also provided.
-  </p>
-  <ul>
-    <li><strong>Curated Transcripts (Markdown):</strong> <a href="https://github.com/bache-archive/chris-bache-archive/tree/main/sources/transcripts">/sources/transcripts/</a></li>
-    <li><strong>Diarized Transcripts (speaker-attributed):</strong> <a href="https://github.com/bache-archive/chris-bache-archive/tree/main/sources/diarist">/sources/diarist/</a></li>
-    <li><strong>Archive Index (overview & quick links):</strong> <a href="https://github.com/bache-archive/chris-bache-archive/blob/main/index.md">index.md</a></li>
-  </ul>
+    <div class="grid">
+      <!-- Left column: Start Here + Purpose -->
+      <section class="card">
+        <h2>Start Here</h2>
+        <p>
+          Readable transcripts are organized by date (<span class="kbd">YYYY-MM-DD-title.md</span>) and
+          are <strong>built on diarized transcripts</strong>, so <em>speaker attribution flows into the curated versions</em>.
+        </p>
+        <div class="btnrow">
+          <a class="btn" href="https://github.com/bache-archive/chris-bache-archive/tree/main/sources/transcripts">Browse Curated Transcripts</a>
+          <a class="btn-outline" href="https://github.com/bache-archive/chris-bache-archive/blob/main/index.md">Open Index (All Entries)</a>
+          <a class="btn-outline" href="https://github.com/bache-archive/chris-bache-archive/tree/main/sources/diarist">Diarized (Speaker-Attributed)</a>
+        </div>
 
-  <!-- Purpose / ethos -->
-  <h2>The Importance of Preserving the Chris Bache Archive</h2>
-  <p>
-    Christopher M. Bache has given humanity one of the most courageous and sustained inquiries into the nature of consciousness ever undertaken.
-    Across twenty years and seventy-three high-dose LSD sessions—framed by decades of scholarship, teaching, and spiritual practice—he explored
-    the depths of the collective psyche and brought back a coherent, compassionate vision of humanity’s evolutionary potential. Through his books,
-    interviews, and lectures he offered a rare bridge between mystical revelation and academic rigor.
-  </p>
+        <div class="section">
+          <h3>YouTube Playlist — Main Set</h3>
+          <p class="muted">A chronological journey through public talks & interviews. Plays oldest → newest.</p>
+          <div class="btnrow">
+            <a class="btn" href="https://www.youtube.com/playlist?list=PLIuDc6SKtEHWjyTpCTJj6AVUrRYv3rbu1">Open Playlist on YouTube</a>
+            <a class="btn-outline" href="https://archive.org/details/chris-bache-archive-audio">Audio Collection (IA)</a>
+            <a class="btn-outline" href="https://archive.org/details/chris-bache-archive-video">Video Collection (IA)</a>
+          </div>
+          <!-- Optional embedded player -->
+          <div class="section">
+            <iframe
+              class="playlist-embed"
+              src="https://www.youtube.com/embed/videoseries?list=PLIuDc6SKtEHWjyTpCTJj6AVUrRYv3rbu1"
+              title="Chris Bache Archive — YouTube Playlist"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerpolicy="strict-origin-when-cross-origin"
+              allowfullscreen>
+            </iframe>
+          </div>
+        </div>
 
-  <h3>Why We Preserve</h3>
-  <p>
-    Digital platforms are fragile; videos disappear, links break, and voices are lost. This archive was created to safeguard the spoken record
-    of Chris Bache’s public talks so that future generations can continue to learn from the clarity, humility, and wonder with which he shared his discoveries.
-    Transcripts allow his ideas to remain searchable, citable, and trainable for future scholars and AI systems. They make it possible to study how his thought
-    developed over time and to hear, in his own words, how a human being can engage the infinite with courage and discipline.
-  </p>
+        <div class="hr"></div>
 
-  <h3>Our Hope for the Future</h3>
-  <p>
-    We believe Chris’s work will inspire seekers, scientists, philosophers, and educators who are trying to understand consciousness not as an abstraction
-    but as a living field of evolution. By preserving his lectures and interviews—faithfully, accurately, and accessibly—we hope to ensure that his insights
-    continue to guide conversations about spiritual awakening, planetary crisis, and the emergence of the Future Human he envisioned. Just as earlier generations
-    preserved the words of mystics and philosophers whose recordings we wish we had, this project keeps alive a modern voice of depth and authenticity.
-  </p>
+        <h2>The Importance of Preserving the Chris Bache Archive</h2>
+        <p>
+          Christopher M. Bache has given humanity one of the most courageous and sustained inquiries into the nature of consciousness ever undertaken.
+          Across twenty years and seventy-three high-dose LSD sessions—framed by decades of scholarship, teaching, and spiritual practice—he explored
+          the depths of the collective psyche and brought back a coherent, compassionate vision of humanity’s evolutionary potential. Through his books,
+          interviews, and lectures he offered a rare bridge between mystical revelation and academic rigor.
+        </p>
 
-  <h3>Independent but Complementary</h3>
-  <p>
-    This archive was independently created by admirers of Chris Bache’s work. It is non-commercial, offered under a CC0 1.0 Public Domain Dedication,
-    and meant to <strong>complement—not replace—</strong>his official website, books, and media channels. All source material originates from publicly
-    available recordings released online by Chris Bache or collaborating hosts. Where possible, full attribution and links to the original videos are provided
-    so that visitors can experience his talks in context.
-  </p>
+        <div class="section stack">
+          <div>
+            <h3>Why We Preserve</h3>
+            <p>
+              Digital platforms are fragile; videos disappear, links break, and voices are lost. This archive safeguards the spoken record of Bache’s public talks
+              so future generations can learn from the clarity, humility, and wonder with which he shared his discoveries. Transcripts keep his ideas searchable,
+              citable, and usable for future scholars and AI systems, making it possible to study how his thought evolved over time.
+            </p>
+          </div>
+          <div>
+            <h3>Our Hope for the Future</h3>
+            <p>
+              We believe Bache’s work will inspire seekers, scientists, philosophers, and educators who approach consciousness as a living field of evolution.
+              By preserving his lectures and interviews—faithfully, accurately, and accessibly—we aim to support conversations about spiritual awakening,
+              planetary crisis, and the emergence of the Future Human he envisioned.
+            </p>
+          </div>
+          <div>
+            <h3>Independent but Complementary</h3>
+            <p>
+              This archive was created independently by admirers of Chris Bache’s work. It is non-commercial, offered under a CC0 1.0 Public Domain Dedication,
+              and meant to <strong>complement—not replace—</strong>his official website, books, and media channels. Where possible, we link to original sources
+              so visitors can experience his talks in context.
+            </p>
+          </div>
+        </div>
+      </section>
 
-  <h3>A Living Legacy</h3>
-  <p>
-    In assembling and maintaining this collection—transcripts, metadata, audio, and video—we honor not only Chris Bache but also the universal human quest to
-    understand the divine within consciousness itself. May these preserved words continue to illuminate minds, open hearts, and encourage generations to come
-    to walk their own courageous paths of discovery.
-  </p>
+      <!-- Right column: Releases & Citations -->
+      <aside class="card">
+        <h2>Latest Release</h2>
+        <ul class="list-compact">
+          <li><strong>v2.4 — Rebuilt transcripts from diarists for improved speaker attribution</strong></li>
+          <li>Date: October 2, 2025</li>
+          <li>Browse transcript list: <a href="https://github.com/bache-archive/chris-bache-archive/blob/main/index.md">index.md</a></li>
+        </ul>
 
-  <hr/>
+        <div class="hr"></div>
 
-  <!-- Latest release focuses on helping people find transcripts first; deep links "below the fold" -->
-  <h2>Latest Release</h2>
-  <ul>
-    <li>
-      <strong>v2.4 — Rebuilt transcripts from diarists for improved speaker attribution</strong><br/>
-      Date: October 2, 2025<br/>
-      <span>Browse the transcript list:&nbsp;</span><a href="https://github.com/bache-archive/chris-bache-archive/blob/main/index.md">index.md</a>
-    </li>
-  </ul>
+        <h2>Releases & Citations</h2>
+        <p><strong>Concept DOI (always current):</strong><br />
+          <a class="mono" href="https://doi.org/10.5281/zenodo.17100583">10.5281/zenodo.17100583</a>
+        </p>
 
-  <!-- Collections for listening/watching -->
-  <h2>Listen &amp; Watch (Complete Collections)</h2>
-  <ul>
-    <li>🎧 <a href="https://archive.org/details/chris-bache-archive-audio">Chris Bache — Audio (2014–2025)</a></li>
-    <li>🎥 <a href="https://archive.org/details/chris-bache-archive-video">Chris Bache — Video (2014–2025)</a></li>
-  </ul>
+        <div class="section">
+          <h3>Current Snapshot</h3>
+          <ul class="list-compact">
+            <li>Zenodo DOI: <a class="mono" href="https://doi.org/10.5281/zenodo.17238386">10.5281/zenodo.17238386</a></li>
+            <li>Internet Archive: <a href="https://archive.org/details/chris-bache-archive-v2.4">Transcripts &amp; Metadata</a></li>
+          </ul>
+        </div>
 
-  <hr/>
+        <div class="section">
+          <h3>Previous Versions (Zenodo)</h3>
+          <ul class="list-compact">
+            <li>v2.3 — <a class="mono" href="https://doi.org/10.5281/zenodo.17238258">10.5281/zenodo.17238258</a></li>
+            <li>v2.2.1 — <a class="mono" href="https://doi.org/10.5281/zenodo.17230863">10.5281/zenodo.17230863</a></li>
+            <li>v2.2 — <a class="mono" href="https://doi.org/10.5281/zenodo.17230217">10.5281/zenodo.17230217</a></li>
+            <li>v2.1.1 — <a class="mono" href="https://doi.org/10.5281/zenodo.17229462">10.5281/zenodo.17229462</a>, <a class="mono" href="https://doi.org/10.5281/zenodo.17229457">10.5281/zenodo.17229457</a></li>
+            <li>v2.1 — <a class="mono" href="https://doi.org/10.5281/zenodo.17228650">10.5281/zenodo.17228650</a></li>
+          </ul>
+        </div>
 
-  <!-- Below the fold: persistent identifiers & versions for discovery and citation -->
-  <h2>Releases &amp; Citations</h2>
-  <p><strong>Concept DOI (always current):</strong> <a href="https://doi.org/10.5281/zenodo.17100583">10.5281/zenodo.17100583</a></p>
+        <div class="hr"></div>
 
-  <h3>Current Snapshot</h3>
-  <ul>
-    <li>
-      <strong>v2.4 — Rebuilt transcripts from diarists for improved speaker attribution</strong><br/>
-      Zenodo DOI: <a href="https://doi.org/10.5281/zenodo.17238386">10.5281/zenodo.17238386</a><br/>
-      Internet Archive: <a href="https://archive.org/details/chris-bache-archive-v2.4">Transcripts &amp; Metadata</a>
-    </li>
-  </ul>
+        <h2>Project Links</h2>
+        <ul class="list-compact">
+          <li>GitHub: <a href="https://github.com/bache-archive/chris-bache-archive">bache-archive/chris-bache-archive</a></li>
+          <li>Audio Collection (IA): <a href="https://archive.org/details/chris-bache-archive-audio">2014–2025</a></li>
+          <li>Video Collection (IA): <a href="https://archive.org/details/chris-bache-archive-video">2014–2025</a></li>
+        </ul>
 
-  <h3>Previous Versions (Zenodo)</h3>
-  <ul>
-    <li><strong>v2.3 — New recordings &amp; expanded diarist transcripts</strong> — <a href="https://doi.org/10.5281/zenodo.17238258">10.5281/zenodo.17238258</a></li>
-    <li><strong>v2.2.1 — Complete Otter.ai diarized transcripts</strong> — <a href="https://doi.org/10.5281/zenodo.17230863">10.5281/zenodo.17230863</a></li>
-    <li><strong>v2.2</strong> — <a href="https://doi.org/10.5281/zenodo.17230217">10.5281/zenodo.17230217</a></li>
-    <li><strong>v2.1.1 (Media bundle)</strong> — <a href="https://doi.org/10.5281/zenodo.17229462">10.5281/zenodo.17229462</a>, <a href="https://doi.org/10.5281/zenodo.17229457">10.5281/zenodo.17229457</a></li>
-    <li><strong>v2.1</strong> — <a href="https://doi.org/10.5281/zenodo.17228650">10.5281/zenodo.17228650</a></li>
-  </ul>
+        <div class="hr"></div>
 
-  <h2>Source Repository</h2>
-  <p>GitHub: <a href="https://github.com/bache-archive/chris-bache-archive">bache-archive/chris-bache-archive</a></p>
+        <h3>License & Use</h3>
+        <p class="muted">
+          All transcripts, metadata, and scripts are dedicated to the public domain under
+          <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a>.
+          You are free to read, share, quote, and build upon this work without restriction.
+        </p>
+      </aside>
+    </div>
 
-  <h2>License &amp; Use</h2>
-  <p>
-    All transcripts, metadata, and scripts are dedicated to the public domain under
-    <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a>. You are free to read, share, quote, and build upon this work without restriction.
-  </p>
-
-  <hr/>
-
-  <p><small>
-    Maintained by the Bache Archive Project. For corrections or additions, please open an issue on
-    <a href="https://github.com/bache-archive/chris-bache-archive">GitHub</a>.
-  </small></p>
+    <div class="section footer">
+      <div class="hr"></div>
+      <p><strong>Maintained by the Bache Archive Project.</strong><br />
+        For corrections or additions, please open an issue on
+        <a href="https://github.com/bache-archive/chris-bache-archive">GitHub</a>.
+      </p>
+    </div>
+  </div>
 </body>
 </html>
