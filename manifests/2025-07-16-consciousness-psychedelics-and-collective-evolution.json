@@ -1,0 +1,46 @@
+{
+  "id": "2025-07-16-consciousness-psychedelics-and-collective-evolution",
+  "files": [
+    {
+      "path": "downloads/audio/2025-07-16-consciousness-psychedelics-and-collective-evolution.mp3",
+      "sha256": "7e9d86952c34d0fe5b1227ce537cf2ae4670a714cc1bd3dc055392223c22dbba"
+    },
+    {
+      "path": "downloads/video/2025-07-16-consciousness-psychedelics-and-collective-evolution.mp4",
+      "sha256": "5b9d9a6d77f4baaa283d9310a784c65aa12b37669ca079c7ece6f63c15f96041"
+    },
+    {
+      "path": "sources/captions/2025-07-16-consciousness-psychedelics-and-collective-evolution.md",
+      "sha256": "7983653b3d02723162865b87223f0af88610d049680479ee7a0e9b990200426a"
+    },
+    {
+      "path": "sources/diarist/2025-07-16-consciousness-psychedelics-and-collective-evolution.txt",
+      "sha256": "823b27c0c44d222e62b1bc859567cd38bf40b93c8701c6d4421e0bfbe6ddbe5b"
+    },
+    {
+      "path": "sources/transcripts/2025-07-16-consciousness-psychedelics-and-collective-evolution.html",
+      "sha256": "162b7cab2962b1518d5e88b6462e04d89999cb34858cadbafa70b4925273d99f"
+    },
+    {
+      "path": "sources/transcripts/2025-07-16-consciousness-psychedelics-and-collective-evolution.md",
+      "sha256": "500f175ccf4666a50daf7588e0a7712500f31e07f362f3b31521cde554bbe4cf"
+    },
+    {
+      "path": "sources/transcripts/_archive/2025-07-16-consciousness-psychedelics-and-collective-evolution.html",
+      "sha256": "899579dd3defac77d5f7734acfc2f64f0c0e0cddba9d149e5b68cd3927a059e3"
+    },
+    {
+      "path": "sources/transcripts/_archive/2025-07-16-consciousness-psychedelics-and-collective-evolution.md",
+      "sha256": "6c56d0aa4241a74f61a6bb68aff569a6f10329f3310007637f4b3e64985c8a99"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2025-07-16",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

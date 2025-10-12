@@ -1,0 +1,46 @@
+{
+  "id": "2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview",
+  "files": [
+    {
+      "path": "downloads/audio/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.mp3",
+      "sha256": "148fe2e1265f1b43e4631dd5f879c12f91bad7b0015dea40d0bb7428b9498c1c"
+    },
+    {
+      "path": "downloads/video/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.mp4",
+      "sha256": "62380b07d3251f013d950adf54103ccf06f56adce54be7ae86e081ec173757ce"
+    },
+    {
+      "path": "sources/captions/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.md",
+      "sha256": "18600bd6066be5060491377ca32e85234ee50deeacca63889f2db56d5f8fd70f"
+    },
+    {
+      "path": "sources/diarist/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.txt",
+      "sha256": "f54979744331a06dbd0b1a2cbe872bfdd9c0900750b9e720bd8fa69d1a7fb696"
+    },
+    {
+      "path": "sources/transcripts/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.html",
+      "sha256": "2e5b66c918a83f2453e9212d7e18df64878eaeb9fb421b134c50265a10f826db"
+    },
+    {
+      "path": "sources/transcripts/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.md",
+      "sha256": "3b5bf15395ccecb5b0131b5b682bcdba976f5ea206063f68d01aa13e1d71a8a3"
+    },
+    {
+      "path": "sources/transcripts/_archive/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.html",
+      "sha256": "2cda0f61f7b09563532e4739b67367f51c232a9d0db0ee4d3aaa71e8c49693a6"
+    },
+    {
+      "path": "sources/transcripts/_archive/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.md",
+      "sha256": "37fdec199aad60404b79264f8dbe9bacd19a880bb071ab6641f3caeba6eaf88f"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2019-05-15",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

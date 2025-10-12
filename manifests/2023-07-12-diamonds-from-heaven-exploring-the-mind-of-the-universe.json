@@ -1,0 +1,46 @@
+{
+  "id": "2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe",
+  "files": [
+    {
+      "path": "downloads/audio/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.mp3",
+      "sha256": "377f5092da77092b5553b48924f02069f41194ff14f19a19054bddc18da58a33"
+    },
+    {
+      "path": "downloads/video/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.mp4",
+      "sha256": "0436efbb251c66038fa2ee1f90541588760c627167e8e693b168417392e7d702"
+    },
+    {
+      "path": "sources/captions/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.md",
+      "sha256": "cd9a13f6fd1cb46e955b792bec273fdb09799299a450c123b74e2991abf4ba7b"
+    },
+    {
+      "path": "sources/diarist/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.txt",
+      "sha256": "52a26dcc6f55f1b8920776d8c5d6cce52f7c5faa1671c2d0c96aa78e16276d90"
+    },
+    {
+      "path": "sources/transcripts/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.html",
+      "sha256": "9b3a3770a4c203b501e3a8283765c06396cb80e74c2c6ffc6fdfd942bad563e2"
+    },
+    {
+      "path": "sources/transcripts/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.md",
+      "sha256": "4e269116fd6f093c930051b7e3b060da5deb5f92181df098be740aaca6c258cf"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.html",
+      "sha256": "948cf91314a8b0b489649973717abef771bafc801c0de7cb08817b2d576b18f4"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.md",
+      "sha256": "dedecb83ae583d6ce3dc40c995853b95ea7b5be5534d07fba11a91159d743023"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2023-07-12",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

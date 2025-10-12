@@ -1,0 +1,46 @@
+{
+  "id": "2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om",
+  "files": [
+    {
+      "path": "downloads/audio/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.mp3",
+      "sha256": "88aa0b79f227b747f121860baa75fba269eeca24ec89c360ff313602fcb7b001"
+    },
+    {
+      "path": "downloads/video/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.mp4",
+      "sha256": "9b1b13b068d0ddebabb3489d4987656ef3b59e6f815074131d7e071dfab32722"
+    },
+    {
+      "path": "sources/captions/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.md",
+      "sha256": "4358847454b120a1f627d2d37533ced4f6b97cc318c1e70f578138cc051f4a5a"
+    },
+    {
+      "path": "sources/diarist/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.txt",
+      "sha256": "0836e7775476c4dd1092d7e4da4f41f4d437d2e0158852c14434b5696cd96e0c"
+    },
+    {
+      "path": "sources/transcripts/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.html",
+      "sha256": "83536ec5c4e53af85d698bcd3fe0e147c5600277ca6822315cb71ee3e1be94fc"
+    },
+    {
+      "path": "sources/transcripts/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.md",
+      "sha256": "c3e46d46c9a569933a05153c421a312931b6666ff89f2631e622d4e540ad6655"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.html",
+      "sha256": "2f6e6e29afeea16a2d2e0d560803eabf73cd146f4ef5d2018c45ca1e5dc3d832"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.md",
+      "sha256": "7016b8468a7ac725d78cdd6c3c37940109e962a987275f330f411fef7cc2e23b"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2023-08-17",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2023-01-30-wisdom-keepers-conversation-with-duane-elgin",
+  "files": [
+    {
+      "path": "downloads/audio/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.mp3",
+      "sha256": "642a8365c2fe4f06c64cb2d82fd6be6b9418f3ce50134e02fbcde519d54ab4e5"
+    },
+    {
+      "path": "downloads/video/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.mp4",
+      "sha256": "75bf1952df13240de39d38ed0e9d34b841c1c4aefde6697562ed2967d69001f5"
+    },
+    {
+      "path": "sources/captions/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.md",
+      "sha256": "07a580727f3a23193024c825dce5d11caebd93e4895cf4168d11d6fb5a958397"
+    },
+    {
+      "path": "sources/diarist/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.txt",
+      "sha256": "ef9051dd2f6b2403ad93dcfcde40f464d179535d2df25ac59cd5526a69225cbb"
+    },
+    {
+      "path": "sources/transcripts/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.html",
+      "sha256": "d88874bdf02bbaaa6c67a5d24d0b811f27e9a8e10a383833e31fd3d853749db8"
+    },
+    {
+      "path": "sources/transcripts/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.md",
+      "sha256": "64e8926a57450249c57e727864961ea223df8ab5c27522ca63f0011d5ae546c5"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.html",
+      "sha256": "0b875667129ee11d55d7cae2942eef72f0d78c0dbf89a8666b0437bfda5f8464"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.md",
+      "sha256": "df089faeb1e9cac078f0b10c762594e880fccf87461d3a9950daf3ce135af9b2"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2023-01-30",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

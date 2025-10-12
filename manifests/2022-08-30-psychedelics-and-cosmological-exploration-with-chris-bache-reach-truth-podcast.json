@@ -1,0 +1,46 @@
+{
+  "id": "2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast",
+  "files": [
+    {
+      "path": "downloads/audio/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.mp3",
+      "sha256": "d4016c8d6522f47bf76a05a0a0f3d126ed553aa89b9c4e672ac8e71685ad508f"
+    },
+    {
+      "path": "downloads/video/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.mp4",
+      "sha256": "d656a168980f7de921fa12933c151acd877d41d5fe7e72612289ae42c7757bb1"
+    },
+    {
+      "path": "sources/captions/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.md",
+      "sha256": "50b68d5cdeb868b3d979fcec14f39d5c691512860a0901fb8784de42a7c6c0c8"
+    },
+    {
+      "path": "sources/diarist/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.txt",
+      "sha256": "6dfcf8eecf49dfef25a4ec44d502095906e20d5c054a9476293583cea6eaf133"
+    },
+    {
+      "path": "sources/transcripts/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.html",
+      "sha256": "0cd0e4778006eff3365f2a932bb128870e29e9a45291cbabb6efbf9deb9ecd51"
+    },
+    {
+      "path": "sources/transcripts/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.md",
+      "sha256": "6ce7bca424ba9c6afcc0da6cf1271cb1fef6fdf0ec8ed41c7c9eeda280d02b74"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.html",
+      "sha256": "5410ec8b8823b1b211770aeec57bca99473d047131fa29edc060b7d01a3aa1f3"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.md",
+      "sha256": "25ffdaf8bcaf8eb1b2132f6ff443ae39ed2bb44a20498cfefef25a307104a60d"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2022-08-30",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

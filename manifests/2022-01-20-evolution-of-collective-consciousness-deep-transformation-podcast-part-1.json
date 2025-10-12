@@ -1,0 +1,46 @@
+{
+  "id": "2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1",
+  "files": [
+    {
+      "path": "downloads/audio/2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.mp3",
+      "sha256": "cdbfae20a168ffb7a6afb85d67c5b80a5dbfd0028008f5f1d5c57ddf60073b0f"
+    },
+    {
+      "path": "downloads/video/2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.mp4",
+      "sha256": "be424e69690eb154aeec28faa756dd002a131e5d215545443a1fd4ba789eb274"
+    },
+    {
+      "path": "sources/captions/2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.md",
+      "sha256": "790395f733412fdc1114e7d12f9551d6fbb40f453f2655912bf34d76a3fd1158"
+    },
+    {
+      "path": "sources/diarist/2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.txt",
+      "sha256": "34da93bb85aea2449df52ac85af173cf037f10f43f78049a8de3bcc66af2217d"
+    },
+    {
+      "path": "sources/transcripts/2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.html",
+      "sha256": "de42910b299b6a1b74e0e345ca9c0294314dbdbec627bec8aaf10be8bb9dde2a"
+    },
+    {
+      "path": "sources/transcripts/2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.md",
+      "sha256": "c0144de81420f5fa9a6914671d552213ac017eb1bcada19e970043bf99dad56e"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.html",
+      "sha256": "dbc3616316d15bd4fb33af06c66467bd64e6f2d0cc361ea41a46a2891ff8e374"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.md",
+      "sha256": "426c3036b21e589401bc1dc6c90ce83883cd292eb69e0952da0ea46d0f2494e0"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2022-01-20",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

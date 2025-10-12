@@ -1,0 +1,46 @@
+{
+  "id": "2021-04-02-reincarnation-qanda-live-with-richard-rudd",
+  "files": [
+    {
+      "path": "downloads/audio/2021-04-02-reincarnation-qanda-live-with-richard-rudd.mp3",
+      "sha256": "79b7027317bc389c410da8804df736add219222e37b35c1fb96047526deb6eac"
+    },
+    {
+      "path": "downloads/video/2021-04-02-reincarnation-qanda-live-with-richard-rudd.mp4",
+      "sha256": "d654aa6f1099d03c6a205a15f8da4d6da07d055b26535be0098a62114a0be1b1"
+    },
+    {
+      "path": "sources/captions/2021-04-02-reincarnation-qanda-live-with-richard-rudd.md",
+      "sha256": "0f42a6a3e8713e93e9890f2e206a9d9ce7005efba58d1e1574c2ce04314c28dd"
+    },
+    {
+      "path": "sources/diarist/2021-04-02-reincarnation-qanda-live-with-richard-rudd.txt",
+      "sha256": "1bb21c7d90eafaadd1b554ddb040b6060d12692d3592764270817df654f974b6"
+    },
+    {
+      "path": "sources/transcripts/2021-04-02-reincarnation-qanda-live-with-richard-rudd.html",
+      "sha256": "319f9f26bc3b9f3c3dd6e0a521930896a7cbd6e1eaf7f8a1855858515fa42020"
+    },
+    {
+      "path": "sources/transcripts/2021-04-02-reincarnation-qanda-live-with-richard-rudd.md",
+      "sha256": "69d573fa6f9242d319444c9d8489c0d0a87cb9132fbbf77edc04dc8ae9e6634c"
+    },
+    {
+      "path": "sources/transcripts/_archive/2021-04-02-reincarnation-qanda-live-with-richard-rudd.html",
+      "sha256": "ccc51ee8f4fcaabd8c5ddce3f0bb885ed4c3b2175be6b348236a363fd53c1157"
+    },
+    {
+      "path": "sources/transcripts/_archive/2021-04-02-reincarnation-qanda-live-with-richard-rudd.md",
+      "sha256": "343fc057bbf8dae6f7830688636d19f3247f055076329a27932839fdf8ac3b06"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2021-04-02",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy",
+  "files": [
+    {
+      "path": "downloads/audio/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.mp3",
+      "sha256": "6b250ecb34c8dc5d818dc883dff4f50ad45da015b7b8fb4c26e1367b09845e5c"
+    },
+    {
+      "path": "downloads/video/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.mp4",
+      "sha256": "dbb90b3703e904938001f7fceb1c5748b719012fd88077a4bccf19183d3df416"
+    },
+    {
+      "path": "sources/captions/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.md",
+      "sha256": "73eb839307521e58df64092e56e867650fc9c384e5d97359ffbe78bf5048442d"
+    },
+    {
+      "path": "sources/diarist/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.txt",
+      "sha256": "14b03abac24c74aa982f4339f29b11fd6d99f34d9224c657ace04b9750bfca30"
+    },
+    {
+      "path": "sources/transcripts/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.html",
+      "sha256": "e3a397368c72b7ee2e73dc11579ef7e8eb831bc6abf06f4637f08e2dfc710b38"
+    },
+    {
+      "path": "sources/transcripts/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.md",
+      "sha256": "50516f7fb4c0c163e0bcb514970bedd3f6378d9c1e6e53e6b3ce5a83290ccc5c"
+    },
+    {
+      "path": "sources/transcripts/_archive/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.html",
+      "sha256": "521848016c640ec4a99b6d15eac3104e90928ce56b5a8e03cc2e2fe7814c3d96"
+    },
+    {
+      "path": "sources/transcripts/_archive/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.md",
+      "sha256": "d5b76a819e4ee07c7e29b17d63a07ff1dd80ac6d1deff011a895711afd4d5f79"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2015-03-16",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

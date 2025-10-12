@@ -1,0 +1,46 @@
+{
+  "id": "2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19",
+  "files": [
+    {
+      "path": "downloads/audio/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.mp3",
+      "sha256": "91503e513e6be7f7e33fb794b7e0b264f2f4c354c34626c35ae599d8d80faf37"
+    },
+    {
+      "path": "downloads/video/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.mp4",
+      "sha256": "7e194072f04f2b3fa80fa5f3ea3f25534782f1c188845e3cf0592216a22790b5"
+    },
+    {
+      "path": "sources/captions/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.md",
+      "sha256": "a445f0542daee1834a2759d11c76d7f9dedb9d951286b11f3948eb2326f5e98d"
+    },
+    {
+      "path": "sources/diarist/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.txt",
+      "sha256": "7197065d2193af7eefb707e8688072ea2021d46ec7d7a74eec102a8afca13731"
+    },
+    {
+      "path": "sources/transcripts/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.html",
+      "sha256": "2b2bbeb833fe162df88955e75e5d359aa621cef9f8cb8e87d2b87276cc4b4f0e"
+    },
+    {
+      "path": "sources/transcripts/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.md",
+      "sha256": "97ccaeffa14868a5b78db0e90dbbd4f724dbf6bf051ccc59ae79bd17d6382933"
+    },
+    {
+      "path": "sources/transcripts/_archive/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.html",
+      "sha256": "1758bb67a4097be7e96a3adc6f5171e7411dcf213d3c6dfd8f296e7342139cff"
+    },
+    {
+      "path": "sources/transcripts/_archive/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.md",
+      "sha256": "0e60ee7eff08baf3f8be9e06dca53ba1f0c2baddef09831df56d4ee8dc29082e"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2025-04-26",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

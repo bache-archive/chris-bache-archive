@@ -1,0 +1,46 @@
+{
+  "id": "2019-09-26-mapping-of-transcendence",
+  "files": [
+    {
+      "path": "downloads/audio/2019-09-26-mapping-of-transcendence.mp3",
+      "sha256": "efec843f66803f14b33794512134b6515eaf50f11f5666833ad7c16873f7cdd5"
+    },
+    {
+      "path": "downloads/video/2019-09-26-mapping-of-transcendence.mp4",
+      "sha256": "4881182297d23ad4b5d3fdde4a23d7e92a9a29f3a261f16d4975eac96d3770c0"
+    },
+    {
+      "path": "sources/captions/2019-09-26-mapping-of-transcendence.md",
+      "sha256": "cc5fceea6ebed124de86e664947bfd17a65f1fc5ef1a7afebd4c60b184039e17"
+    },
+    {
+      "path": "sources/diarist/2019-09-26-mapping-of-transcendence.txt",
+      "sha256": "613998bcc52271938c44bdff56f83b8c0b4952fe4e13e0146b2a9ec9f0a0b83a"
+    },
+    {
+      "path": "sources/transcripts/2019-09-26-mapping-of-transcendence.html",
+      "sha256": "a276e95c6a97ba8dcf133a480cc51b1d6a2d9f83d8d6b7baebd69a80e17e6948"
+    },
+    {
+      "path": "sources/transcripts/2019-09-26-mapping-of-transcendence.md",
+      "sha256": "1c9e6dfaa3530d828fd2cd3fb8f039382b70a232e32c2074f21d7409fa797196"
+    },
+    {
+      "path": "sources/transcripts/_archive/2019-09-26-mapping-of-transcendence.html",
+      "sha256": "8821685004b007dd6812b54acfab0a8bd24b5f99d07b25672770d9be726fd753"
+    },
+    {
+      "path": "sources/transcripts/_archive/2019-09-26-mapping-of-transcendence.md",
+      "sha256": "f022e63b8d7bd07802118bf782af4efa6c963d4602916f1270b87ce069c72efb"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2019-09-26",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

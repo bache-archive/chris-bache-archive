@@ -1,0 +1,46 @@
+{
+  "id": "2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness",
+  "files": [
+    {
+      "path": "downloads/audio/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.mp3",
+      "sha256": "ebaef631a67774567920a0d633ea2d3e5ca381b3e70688e7c0cef1938d450b53"
+    },
+    {
+      "path": "downloads/video/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.mp4",
+      "sha256": "62d970b6ed8120ad68e575a3455b851a618e3bc851e8cdb9f84750f403802029"
+    },
+    {
+      "path": "sources/captions/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.md",
+      "sha256": "24364645003e669cb851f8fee97a3ec706e970204c83d2f0f58baf4d49f4a802"
+    },
+    {
+      "path": "sources/diarist/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.txt",
+      "sha256": "1846be171b7e2597aea8ea81757431e80de5cb6833fc8c25122789b2f6cb098c"
+    },
+    {
+      "path": "sources/transcripts/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.html",
+      "sha256": "9b2be21750a8277a0d08a31dd65af3a8dadbb6d624525489ae8b76a7dca38b2b"
+    },
+    {
+      "path": "sources/transcripts/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.md",
+      "sha256": "946f470c2fd45da9ba1314ebd9841eb6e7bd200a73c6eda107aaa2ccfaea71ae"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.html",
+      "sha256": "558590709555022cb6d4ae7a58c3f6fff46100e6a41dc9ad85c20f977446703d"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.md",
+      "sha256": "6caf8b5c4bcfa8a3e37beede7a3b8637ca1e82ec60cd2337f725b4197fdd7334"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2020-01-10",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

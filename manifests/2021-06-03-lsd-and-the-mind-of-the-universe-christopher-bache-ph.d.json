@@ -1,0 +1,46 @@
+{
+  "id": "2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d",
+  "files": [
+    {
+      "path": "downloads/audio/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.mp3",
+      "sha256": "f1816f6b8e728d46edb6b817348c6ebc20dc45b02e358f0d8d06d9d885031601"
+    },
+    {
+      "path": "downloads/video/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.mp4",
+      "sha256": "e15aa7b7d4163b65e65e50fdd4b99c4014e5ffaf2aa8929b12fef01743647876"
+    },
+    {
+      "path": "sources/captions/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.md",
+      "sha256": "8b029d946e60122b3e06c1117a18d97f913913b932bc5a54f40dfcffdcf7e559"
+    },
+    {
+      "path": "sources/diarist/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.txt",
+      "sha256": "f78978b2fdde8fafd8c934ba9a2deec84def0d08540bad57fc3b7b40086c568c"
+    },
+    {
+      "path": "sources/transcripts/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.html",
+      "sha256": "5ef97506ca16cf35f3bb7a4da78c3ffca3d3c9296b644533f3429c1f073fb1ea"
+    },
+    {
+      "path": "sources/transcripts/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.md",
+      "sha256": "e4b1adc53578c2699f7a7369ed31442de5a6d72ac9121914c8146db0c5c1373e"
+    },
+    {
+      "path": "sources/transcripts/_archive/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.html",
+      "sha256": "186238794d8f49d9358a04a55ae130f1ad1d426ea689147c5ec26082c5f273ba"
+    },
+    {
+      "path": "sources/transcripts/_archive/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.md",
+      "sha256": "337577b5be3ab819e17e618fd1ccfcb535ec4d49d6ac2bc1fe47131c81090b18"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2021-06-03",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

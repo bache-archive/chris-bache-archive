@@ -1,0 +1,46 @@
+{
+  "id": "2024-09-24-philosophical-implications-of-non-ordinary-states-live",
+  "files": [
+    {
+      "path": "downloads/audio/2024-09-24-philosophical-implications-of-non-ordinary-states-live.mp3",
+      "sha256": "24b1fa800ccb553456e83e8339af6ad7df78d83b7265ac41d97640815acdf916"
+    },
+    {
+      "path": "downloads/video/2024-09-24-philosophical-implications-of-non-ordinary-states-live.mp4",
+      "sha256": "2564343669df87898c50bb322aec77b02b40749f5745957dfc7361a409bc6bb6"
+    },
+    {
+      "path": "sources/captions/2024-09-24-philosophical-implications-of-non-ordinary-states-live.md",
+      "sha256": "92fcc9f3a569876c62dd80f87a529aaa67ada07e6dc159864ef343f2ba0d9d66"
+    },
+    {
+      "path": "sources/diarist/2024-09-24-philosophical-implications-of-non-ordinary-states-live.txt",
+      "sha256": "1f93dc65a7d9671d09fe68afe24e25415d65e2100522d6862d87d240888301ee"
+    },
+    {
+      "path": "sources/transcripts/2024-09-24-philosophical-implications-of-non-ordinary-states-live.html",
+      "sha256": "971a14c647b59ef002ef84765cb89492ebe9ee6c454ee0f4d049e1658f681015"
+    },
+    {
+      "path": "sources/transcripts/2024-09-24-philosophical-implications-of-non-ordinary-states-live.md",
+      "sha256": "42818aabb883277310321b7b67bd48efdc3d93d981dc16c8ef40c9a5bd04ec81"
+    },
+    {
+      "path": "sources/transcripts/_archive/2024-09-24-philosophical-implications-of-non-ordinary-states-live.html",
+      "sha256": "581b9b4dbc9392436891c26fc8b1eaed396ed1085048604a13bdbd1fa8e42722"
+    },
+    {
+      "path": "sources/transcripts/_archive/2024-09-24-philosophical-implications-of-non-ordinary-states-live.md",
+      "sha256": "b0172b2552f936d10da870d82fdbec610c88978f7bde0fee1b020bafa0fdbf82"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2024-09-24",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

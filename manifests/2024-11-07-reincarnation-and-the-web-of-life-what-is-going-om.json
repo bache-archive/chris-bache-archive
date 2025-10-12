@@ -1,0 +1,46 @@
+{
+  "id": "2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om",
+  "files": [
+    {
+      "path": "downloads/audio/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.mp3",
+      "sha256": "5a44baf13efa75735990cd00ffda7e5b18184a36eac09bc20e5b3f4354528008"
+    },
+    {
+      "path": "downloads/video/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.mp4",
+      "sha256": "37050a878625d0d923fbc561b66818c00e9dd7b0bf5a90a606aa53a0215f3641"
+    },
+    {
+      "path": "sources/captions/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.md",
+      "sha256": "f21b8d3450dafbc53a52fb087601cde002f77a3b971d7bbdafa6c0ed43bb7ff9"
+    },
+    {
+      "path": "sources/diarist/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.txt",
+      "sha256": "751526684c86813ac9a99d6cea61f443cd8c146911b7a36dc913f25471839aaa"
+    },
+    {
+      "path": "sources/transcripts/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.html",
+      "sha256": "adf63bd61f534c63eb2cd03deb6327df26df1826551e0abb97b46585fdfee9d6"
+    },
+    {
+      "path": "sources/transcripts/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.md",
+      "sha256": "cd7a18a45380d5a02a155ed62ab8cfea40da31c81716ab0b5d1cf1ef2d696912"
+    },
+    {
+      "path": "sources/transcripts/_archive/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.html",
+      "sha256": "418778c80aa499afa48bc1394942edf186c20c351ef3b24a917c800ed8db21cb"
+    },
+    {
+      "path": "sources/transcripts/_archive/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.md",
+      "sha256": "029ce0ef4fcc6dfee8342db008307d04aad04b8f045b045f8c6a834d0ad1a7c6"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2024-11-07",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

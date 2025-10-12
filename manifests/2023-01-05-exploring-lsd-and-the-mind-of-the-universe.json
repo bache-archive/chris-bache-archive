@@ -1,0 +1,46 @@
+{
+  "id": "2023-01-05-exploring-lsd-and-the-mind-of-the-universe",
+  "files": [
+    {
+      "path": "downloads/audio/2023-01-05-exploring-lsd-and-the-mind-of-the-universe.mp3",
+      "sha256": "5f35feedf4fa72ef04e52072c8ed887a240ac59327ae61ac0df2cd20467e1187"
+    },
+    {
+      "path": "downloads/video/2023-01-05-exploring-lsd-and-the-mind-of-the-universe.mp4",
+      "sha256": "4a7b8e723e64d6b59409203b14840495ce87b02d89ee202ad4a1a5a9dc314d66"
+    },
+    {
+      "path": "sources/captions/2023-01-05-exploring-lsd-and-the-mind-of-the-universe.md",
+      "sha256": "6336826f36a1d358638d4b695d4de4ff01c8e31e2c3919577a3665668d76c94f"
+    },
+    {
+      "path": "sources/diarist/2023-01-05-exploring-lsd-and-the-mind-of-the-universe.txt",
+      "sha256": "1b14cdb6e78763713d3800717a6438b473cf49da585a32703baeb6bd7966deed"
+    },
+    {
+      "path": "sources/transcripts/2023-01-05-exploring-lsd-and-the-mind-of-the-universe.html",
+      "sha256": "6beabb7dddd7b3eb6704598dc08ffd9b4fa3d0cc05820788af1f195f3b29a3fe"
+    },
+    {
+      "path": "sources/transcripts/2023-01-05-exploring-lsd-and-the-mind-of-the-universe.md",
+      "sha256": "b5ee8d6e0207a4f8f23022bd078e6a9e725532fedd66463f4c513338c146d005"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-01-05-exploring-lsd-and-the-mind-of-the-universe.html",
+      "sha256": "1c7adc9c36d5c2555fe003cf97b9e7cb693226ac55de42be456f094b3ad9207b"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-01-05-exploring-lsd-and-the-mind-of-the-universe.md",
+      "sha256": "6c76cb0502e3a6ba84bcba3e7a5406d193ddad22f0745e6ebce1f94d3659e046"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2023-01-05",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

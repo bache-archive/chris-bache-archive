@@ -1,0 +1,46 @@
+{
+  "id": "2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278",
+  "files": [
+    {
+      "path": "downloads/audio/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.mp3",
+      "sha256": "421de71e5cbd99b0d393d2194e2fcaa8b1217d81d25941f2ac4115dba529a1de"
+    },
+    {
+      "path": "downloads/video/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.mp4",
+      "sha256": "5ee951769813184cfb9072e52f704d93cda25ea3ea60f3252c42cb9e47b1c131"
+    },
+    {
+      "path": "sources/captions/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.md",
+      "sha256": "18cc107d91359408b691cca7cd7662af5d199d8e5f1d9ec0b744e2312dbdefc2"
+    },
+    {
+      "path": "sources/diarist/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.txt",
+      "sha256": "8028efb2d3e0e25fbdf76acbbaac5566719c9d4663c52062965de6635e546e31"
+    },
+    {
+      "path": "sources/transcripts/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.html",
+      "sha256": "1c3b6480d416d86c1ae14936e0a463b5ed8748009912efc08495a203a12d0f48"
+    },
+    {
+      "path": "sources/transcripts/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.md",
+      "sha256": "a62fab0829e0b97212a51d3c8fed0cdfdfb85b17f9ab102bdb540a31097d3e3c"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.html",
+      "sha256": "a059a7f0d61e4a74add08fc2c7ea71a0d1e1391dfd26adc6b69289c9985cfc55"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.md",
+      "sha256": "abd63ec128bf4fe82072f294f4ec9c7a45bf7205a3824d9801ab028099d8b3cc"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2023-10-29",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

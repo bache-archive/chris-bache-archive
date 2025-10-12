@@ -1,0 +1,46 @@
+{
+  "id": "2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019",
+  "files": [
+    {
+      "path": "downloads/audio/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.mp3",
+      "sha256": "b0805cb34689e56a18eb461c0699629e257c98c3eb2984464b588930bc02596f"
+    },
+    {
+      "path": "downloads/video/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.mp4",
+      "sha256": "0dbee914a8d375e46acf9dc0b3fd7368485fc05135513b09a61c8fc7e928b538"
+    },
+    {
+      "path": "sources/captions/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.md",
+      "sha256": "b813796526b94991be2c7138f2d5e4ac8580b551b4c58d189109b50d8a1e8152"
+    },
+    {
+      "path": "sources/diarist/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.txt",
+      "sha256": "37ce2c7b9ae3b4fd8d8fc1247f58146e0e3020c6e7325c947b5d186c174e56d5"
+    },
+    {
+      "path": "sources/transcripts/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.html",
+      "sha256": "d9cb2a697d4cb3947b7378466038161e99da8a63e3f71648832be354852b7223"
+    },
+    {
+      "path": "sources/transcripts/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.md",
+      "sha256": "aaf43bc8ebb437dea3356272ca1d8556abf13fcaab61796c7ccd0041572cef04"
+    },
+    {
+      "path": "sources/transcripts/_archive/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.html",
+      "sha256": "d5b245320a07e60c59a385359c245584a8b9bfcda49e57f27a574734b97892f8"
+    },
+    {
+      "path": "sources/transcripts/_archive/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.md",
+      "sha256": "7a462725e73d870df5c0c29ff7e0e0aae7ca56795816e3dea4bef882a760e4bb"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2021-03-29",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

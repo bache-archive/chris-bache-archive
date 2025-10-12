@@ -1,0 +1,18 @@
+{
+  "id": "downloads-checksums",
+  "files": [
+    {
+      "path": "downloads/checksums.sha256",
+      "sha256": "036e126a067591c0bf4dd34cb39a2d528e94cec4cfc369f58ff832415eb636b7"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

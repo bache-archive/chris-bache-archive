@@ -1,0 +1,46 @@
+{
+  "id": "2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human",
+  "files": [
+    {
+      "path": "downloads/audio/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.mp3",
+      "sha256": "a1b83d7eb3f741a3b55a52007584662c277a38f3663e004bb424d08b652746c3"
+    },
+    {
+      "path": "downloads/video/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.mp4",
+      "sha256": "c18af9a37a595130c8b9bbc653df3cf42424ac93963a7ecfc06ae09d3879970c"
+    },
+    {
+      "path": "sources/captions/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.md",
+      "sha256": "773bf613d093a8a043e5f16df54a567ed2ef6c78f1f8914dd512e261f2550c91"
+    },
+    {
+      "path": "sources/diarist/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.txt",
+      "sha256": "c95d2c69c543315f2bbdd30d3a77fdefe40120579edad3ea8b51932ff791871b"
+    },
+    {
+      "path": "sources/transcripts/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.html",
+      "sha256": "e50b47acc009372b87186ddc636b73d94f4863ff6f6568055d59722946da8835"
+    },
+    {
+      "path": "sources/transcripts/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.md",
+      "sha256": "db3d2407d62ab60dcf9d3b1bc14d8120ab1ce0351993340cf3960e907a927241"
+    },
+    {
+      "path": "sources/transcripts/_archive/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.html",
+      "sha256": "3d6dbcbb7671adeec1a206f53b2c090b2bc074d9c0a7eae2763e011726ef162b"
+    },
+    {
+      "path": "sources/transcripts/_archive/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.md",
+      "sha256": "2d18e5557ddc00fb6ae18b6833b9548f7910d409b55cfc28a748c492e61988a8"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2025-01-08",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

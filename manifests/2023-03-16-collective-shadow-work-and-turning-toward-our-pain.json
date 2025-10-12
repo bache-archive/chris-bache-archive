@@ -1,0 +1,46 @@
+{
+  "id": "2023-03-16-collective-shadow-work-and-turning-toward-our-pain",
+  "files": [
+    {
+      "path": "downloads/audio/2023-03-16-collective-shadow-work-and-turning-toward-our-pain.mp3",
+      "sha256": "266b50654909e96f0462dbf51eee28c4528d4b9495403416e72ecf02a6b81b26"
+    },
+    {
+      "path": "downloads/video/2023-03-16-collective-shadow-work-and-turning-toward-our-pain.mp4",
+      "sha256": "b0d3a67f647ab5f84eb08a90285dc0a069a30d67a947155b8f2514bb05b5ddb1"
+    },
+    {
+      "path": "sources/captions/2023-03-16-collective-shadow-work-and-turning-toward-our-pain.md",
+      "sha256": "bd1b354059a2630c0d7345703f84e5bcffccdabf4ccb690af8e4480c35949c92"
+    },
+    {
+      "path": "sources/diarist/2023-03-16-collective-shadow-work-and-turning-toward-our-pain.txt",
+      "sha256": "0c1803880f36872aa7e4a3e47d324e6937eede9610836892a04e16ae728cf7a2"
+    },
+    {
+      "path": "sources/transcripts/2023-03-16-collective-shadow-work-and-turning-toward-our-pain.html",
+      "sha256": "3713d0660d2fde7962856f237f5b86d721237e7893487b9b69aa465e9ad65f9a"
+    },
+    {
+      "path": "sources/transcripts/2023-03-16-collective-shadow-work-and-turning-toward-our-pain.md",
+      "sha256": "9b8ecba850a2f6e213e51ee4806bb684013cda938bd0fbaae3c14146398faa8b"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-03-16-collective-shadow-work-and-turning-toward-our-pain.html",
+      "sha256": "29b89df0f5fbae91463e5472b3927e846a88a0a659ad029abe7622cb626e8b25"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-03-16-collective-shadow-work-and-turning-toward-our-pain.md",
+      "sha256": "e84522f72ea5dd52904b9353f3a3fa2f9c9a23478e9053232850558ae8e113cf"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2023-03-16",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

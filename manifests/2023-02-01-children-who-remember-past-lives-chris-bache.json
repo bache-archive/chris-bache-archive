@@ -1,0 +1,46 @@
+{
+  "id": "2023-02-01-children-who-remember-past-lives-chris-bache",
+  "files": [
+    {
+      "path": "downloads/audio/2023-02-01-children-who-remember-past-lives-chris-bache.mp3",
+      "sha256": "4af755b17ab948ad5f4974238eee9998ac4d60f340a944e8fb3556acbe9ab218"
+    },
+    {
+      "path": "downloads/video/2023-02-01-children-who-remember-past-lives-chris-bache.mp4",
+      "sha256": "969f46b99e69a670257da1a1c88c3b42432ebaa337a0d917edfb36c6a70f3b41"
+    },
+    {
+      "path": "sources/captions/2023-02-01-children-who-remember-past-lives-chris-bache.md",
+      "sha256": "48afa5b1113f00f410ee88063ba1d59909ed8d301410372a426e29f8cc983737"
+    },
+    {
+      "path": "sources/diarist/2023-02-01-children-who-remember-past-lives-chris-bache.txt",
+      "sha256": "e5cec5445050b83a6437a8e427ff1f7209b6204218f5e48d95f140fc79cce204"
+    },
+    {
+      "path": "sources/transcripts/2023-02-01-children-who-remember-past-lives-chris-bache.html",
+      "sha256": "2f22968f8f02642fef94a0dd228b520091a6adf6a671e5492ec802d0c7998798"
+    },
+    {
+      "path": "sources/transcripts/2023-02-01-children-who-remember-past-lives-chris-bache.md",
+      "sha256": "8d56d1b53448bc3928935ae9de625922715ea515c7e8b1f81384d5102782ef83"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-02-01-children-who-remember-past-lives-chris-bache.html",
+      "sha256": "2d7952dc861c7e7d40d80f2fc4dc6d490ece941541b358fa6790d15983e62e27"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-02-01-children-who-remember-past-lives-chris-bache.md",
+      "sha256": "797c9d4d2e53cfc4aec3f7b76317d07f78a05a79aae88daa8d94c4894c31adf3"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2023-02-01",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

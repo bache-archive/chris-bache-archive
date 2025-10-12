@@ -1,0 +1,42 @@
+{
+  "id": "2023-06-30-learning-to-be-gods",
+  "files": [
+    {
+      "path": "downloads/audio/2023-06-30-learning-to-be-gods.mp3",
+      "sha256": "128e5dcc81208dd0fe2516230e401ff153af639cea4435fc3d1a320c6920ae85"
+    },
+    {
+      "path": "sources/captions/2023-06-30-learning-to-be-gods.md",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "sources/diarist/2023-06-30-learning-to-be-gods.txt",
+      "sha256": "655643bc2467b58c383b80abd590c6591c42c0092806e6116bcdb30740247d55"
+    },
+    {
+      "path": "sources/transcripts/2023-06-30-learning-to-be-gods.html",
+      "sha256": "cd012a7ce489a6d3f94b15788e7cbdcf691595838b4d06cc1581d1421a31ed62"
+    },
+    {
+      "path": "sources/transcripts/2023-06-30-learning-to-be-gods.md",
+      "sha256": "622455b0c92c1b93eb0761be7a1cd4fada4ef96573d234746f2b4814243e1f2a"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-06-30-learning-to-be-gods.html",
+      "sha256": "e9981e324b4f43c2ed5e05590ac99c9896f37494e940e1c19e55f9aaa551b415"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-06-30-learning-to-be-gods.md",
+      "sha256": "eedf188f5a20bf1ec4434a23b7084edad680c02b4306d6b7466608fc2c0c0e87"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2023-06-30",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven",
+  "files": [
+    {
+      "path": "downloads/audio/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.mp3",
+      "sha256": "a77f8f1a288baeffcdf04056f2923cf1ea4f64d29750327dc71a37631c586713"
+    },
+    {
+      "path": "downloads/video/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.mp4",
+      "sha256": "abdf4e7fcd5689afa86fdd316253d7329c0dd576987e5a5659203831d7c67964"
+    },
+    {
+      "path": "sources/captions/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md",
+      "sha256": "ae07246e1bd07f0d2a2c3586bbb6fb7f54a2adc60df7904c6b55c030a4a5dd58"
+    },
+    {
+      "path": "sources/diarist/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.txt",
+      "sha256": "2d65c4dbe5026351793251bd12d3f69b938684638383ff2784df0bd6021623a8"
+    },
+    {
+      "path": "sources/transcripts/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.html",
+      "sha256": "24f1d1e5507b30fe31a8018495e6ecb958901bc8f61ff489aa09f569edb8cc62"
+    },
+    {
+      "path": "sources/transcripts/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md",
+      "sha256": "239ff334989516af276a0ae9c704ad21f9ab7438a0dccfc45673e3985f3b77f7"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.html",
+      "sha256": "a54a30a24fe70c6aafd5856c2bf877dcfe0b790ae3308944261e4dcc1b3f20cb"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md",
+      "sha256": "91050548a4084fcdfe0fbb1b002ba50d46848ce766fd36565fdccce392c9f4b4"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2020-01-07",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

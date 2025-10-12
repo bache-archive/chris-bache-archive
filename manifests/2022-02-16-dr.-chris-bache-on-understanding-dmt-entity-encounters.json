@@ -1,0 +1,46 @@
+{
+  "id": "2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters",
+  "files": [
+    {
+      "path": "downloads/audio/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.mp3",
+      "sha256": "ddad82e89aea729dbaeae2c1fe3826e44d6c89d0494b5a44c62dffcc243abdd1"
+    },
+    {
+      "path": "downloads/video/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.mp4",
+      "sha256": "45819ebe8d1b7809bf595825e91d7c3fadf8097b947d6e73895d5363b5ff85bc"
+    },
+    {
+      "path": "sources/captions/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.md",
+      "sha256": "8e2cd6397087f47e79c71b9caf13814b087f6013cad97459219d5a5a172e071a"
+    },
+    {
+      "path": "sources/diarist/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.txt",
+      "sha256": "151af357e0bfda195d66ac580a4a3e3310a18c8fd36c09e7d250ca18c2ada807"
+    },
+    {
+      "path": "sources/transcripts/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.html",
+      "sha256": "43f87600e28073cd5fb854b3f54418c13f91d90ff774489988cccf3fde093bd7"
+    },
+    {
+      "path": "sources/transcripts/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.md",
+      "sha256": "57326b0d1ba39c8f371829f6169eccc175471fae257f02029e2fb56cdf28a274"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.html",
+      "sha256": "43f87600e28073cd5fb854b3f54418c13f91d90ff774489988cccf3fde093bd7"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.md",
+      "sha256": "57326b0d1ba39c8f371829f6169eccc175471fae257f02029e2fb56cdf28a274"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2022-02-16",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

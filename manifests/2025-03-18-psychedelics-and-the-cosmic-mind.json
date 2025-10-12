@@ -1,0 +1,46 @@
+{
+  "id": "2025-03-18-psychedelics-and-the-cosmic-mind",
+  "files": [
+    {
+      "path": "downloads/audio/2025-03-18-psychedelics-and-the-cosmic-mind.mp3",
+      "sha256": "4da2065306bc6a204ed475eeea0580958f561ed00682a61f367482d7ca403344"
+    },
+    {
+      "path": "downloads/video/2025-03-18-psychedelics-and-the-cosmic-mind.mp4",
+      "sha256": "d67308532018fd245837962b5bffac3a0e32cc710b5c9584961233691e367031"
+    },
+    {
+      "path": "sources/captions/2025-03-18-psychedelics-and-the-cosmic-mind.md",
+      "sha256": "05dd315ecec2d1ae918881a60b8897f49a213d1fa1abcc7e4265c9fc2d3aedcf"
+    },
+    {
+      "path": "sources/diarist/2025-03-18-psychedelics-and-the-cosmic-mind.txt",
+      "sha256": "be8b59443406b189a533e95b7752a7b6964c8f94009eb6e1fc3e93a68049b55e"
+    },
+    {
+      "path": "sources/transcripts/2025-03-18-psychedelics-and-the-cosmic-mind.html",
+      "sha256": "f10681974a5769ebba9e30f77f94f6e964d8a8aef5e6a5c111efbe39da9aa04d"
+    },
+    {
+      "path": "sources/transcripts/2025-03-18-psychedelics-and-the-cosmic-mind.md",
+      "sha256": "1c7d4696ab2d44f77f17c2d6ee9c8f5be0212fa239a065f4d65e61132e3e903f"
+    },
+    {
+      "path": "sources/transcripts/_archive/2025-03-18-psychedelics-and-the-cosmic-mind.html",
+      "sha256": "3a06b017df27460383c24dcf365eb9a705a6e8c3eee96b8a1772f8c0c64ddaae"
+    },
+    {
+      "path": "sources/transcripts/_archive/2025-03-18-psychedelics-and-the-cosmic-mind.md",
+      "sha256": "fbf8e92bbb0769c8cc52dfb726d41a55220ef15b677c0dc8d9cf8e70fe7fcb46"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2025-03-18",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

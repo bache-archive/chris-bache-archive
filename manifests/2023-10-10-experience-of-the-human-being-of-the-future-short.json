@@ -1,0 +1,46 @@
+{
+  "id": "2023-10-10-experience-of-the-human-being-of-the-future-short",
+  "files": [
+    {
+      "path": "downloads/audio/2023-10-10-experience-of-the-human-being-of-the-future-short.mp3",
+      "sha256": "38f290ec24339010e1cef459aa268603aef5530c6052f3b447327bf8901c14c6"
+    },
+    {
+      "path": "downloads/video/2023-10-10-experience-of-the-human-being-of-the-future-short.mp4",
+      "sha256": "dc6f67707ae2eb54b5b9f316540b3bea00cc3ef44bf72aca9dd477d305ddc954"
+    },
+    {
+      "path": "sources/captions/2023-10-10-experience-of-the-human-being-of-the-future-short.md",
+      "sha256": "8aa2a7deba0405ad1413321576858543752629b76ec47e97c46023edb855854e"
+    },
+    {
+      "path": "sources/diarist/2023-10-10-experience-of-the-human-being-of-the-future-short.txt",
+      "sha256": "dbceb84ba790f2d85e5ee36503c35fb9b2135125bb9faeb019a6032b567e2071"
+    },
+    {
+      "path": "sources/transcripts/2023-10-10-experience-of-the-human-being-of-the-future-short.html",
+      "sha256": "8581087cda44e0d1ed2bfe5fd036f1c105d6467166dc98e8d859874e6088d86f"
+    },
+    {
+      "path": "sources/transcripts/2023-10-10-experience-of-the-human-being-of-the-future-short.md",
+      "sha256": "e1e448c86dacf8d9d5d433a57f0b4079cc94fa40c5665a4db04bf211011af358"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-10-10-experience-of-the-human-being-of-the-future-short.html",
+      "sha256": "ea0f19b66efd6f9c43aac38fbda33c80a54b55c7052c129bbf55c046bb0e2691"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-10-10-experience-of-the-human-being-of-the-future-short.md",
+      "sha256": "5c4f7dac3b3a740d680e586f9bfe7f9a335cf4fff6bf65da2eac65162b6a9c9a"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2023-10-10",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

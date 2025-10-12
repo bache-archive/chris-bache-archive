@@ -1,0 +1,46 @@
+{
+  "id": "2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83",
+  "files": [
+    {
+      "path": "downloads/audio/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.mp3",
+      "sha256": "dcfe3bf47515ce77deb55fa76909f321e447b8736d324ceeec783504c86357b5"
+    },
+    {
+      "path": "downloads/video/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.mp4",
+      "sha256": "36faa086735d955c9273037d4a14eba49df02e0369d14ff014b83a6a9e963eb6"
+    },
+    {
+      "path": "sources/captions/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.md",
+      "sha256": "37ab30a784528e63722cad9b90b0a5b6a8bbecc1d550a82a36e6bc4b815efb54"
+    },
+    {
+      "path": "sources/diarist/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.txt",
+      "sha256": "7df17a563d3c83dcc79d5b8ac194851a42600fa50d39a7226552842f56a858c1"
+    },
+    {
+      "path": "sources/transcripts/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.html",
+      "sha256": "d257510a0693b0f45096b4ae2effd96fab551ca26a5125744e2fe227af192d52"
+    },
+    {
+      "path": "sources/transcripts/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.md",
+      "sha256": "206a086d58c50baea8007b6b7fc117c247c986e08ed0a24147a728e371be7a0c"
+    },
+    {
+      "path": "sources/transcripts/_archive/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.html",
+      "sha256": "7c75a22caf02b2bff0a8e30859ebb14d783b14cbc6aacf9333f31b4045b12775"
+    },
+    {
+      "path": "sources/transcripts/_archive/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.md",
+      "sha256": "49bddfa652e183d6eb38f72fdb43faa2096146594fc97e113612361bad4a520d"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2018-10-12",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "2022-02-17-what-it-s-like-meeting-god-on-psychedelics-short",
+  "files": [
+    {
+      "path": "sources/transcripts/extras/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-short.html",
+      "sha256": "7dd7874a93c9189748ae14bbaf4fedd84d5df270e96e1f70d8ab96a422839926"
+    },
+    {
+      "path": "sources/transcripts/extras/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-short.md",
+      "sha256": "31cb951bf9fdcddb4cc4b063a1fc39fa3dcf70da927ce8b96951408238a9cf9d"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2022-02-17",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

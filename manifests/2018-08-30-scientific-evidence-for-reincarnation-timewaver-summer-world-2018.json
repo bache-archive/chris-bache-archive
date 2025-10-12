@@ -1,0 +1,46 @@
+{
+  "id": "2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018",
+  "files": [
+    {
+      "path": "downloads/audio/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.mp3",
+      "sha256": "460d486543bc65b75aa6dfbdf127b533138d3d269046288fa9e58d8bbedca40a"
+    },
+    {
+      "path": "downloads/video/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.mp4",
+      "sha256": "4adf3377268e6f6a026a141c4643b4394a708c6f9d8a245c12a1a4f201be346d"
+    },
+    {
+      "path": "sources/captions/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.md",
+      "sha256": "cf9c9a33c7cb1de5f22e6185a61fa77083f39a6b4255f733763b5d41cfab3c08"
+    },
+    {
+      "path": "sources/diarist/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.txt",
+      "sha256": "194bba14b37eb1d03fe9b2794e5fe243b46feb7e92515cbb460149399135d4c5"
+    },
+    {
+      "path": "sources/transcripts/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.html",
+      "sha256": "7c62eb31785b39d1cd5e24b032845cc81990cb3f6eaf773c97dbb40bfb75e614"
+    },
+    {
+      "path": "sources/transcripts/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.md",
+      "sha256": "2922084143eeb8d77d805f1d3263c1da5b58b6d7f7b2fb9652afada648d75068"
+    },
+    {
+      "path": "sources/transcripts/_archive/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.html",
+      "sha256": "218db0fe4fa2387996dfb4d034a8d0fd646c674406aa80f20e878ed2d46ba2bb"
+    },
+    {
+      "path": "sources/transcripts/_archive/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.md",
+      "sha256": "7aad241f269a995d6867784a37a1b3d8b6abe0cbe6f1544068a130c55fa1e28c"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2018-08-30",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

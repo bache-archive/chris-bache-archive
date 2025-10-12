@@ -1,0 +1,46 @@
+{
+  "id": "2024-11-16-the-evidence-for-reincarnation",
+  "files": [
+    {
+      "path": "downloads/audio/2024-11-16-the-evidence-for-reincarnation.mp3",
+      "sha256": "7a8aa8d749ca0ca7138adbfebd5af01fa3d729d6f7187d8cae27eee05e6808ef"
+    },
+    {
+      "path": "downloads/video/2024-11-16-the-evidence-for-reincarnation.mp4",
+      "sha256": "bfc5e956af43c37996e4b032ca04db3ba3fa3f7dc72c734ce1a0bef98db1fb5d"
+    },
+    {
+      "path": "sources/captions/2024-11-16-the-evidence-for-reincarnation.md",
+      "sha256": "6377edf5dd6aa2accc7782827106e7e2db3768b87b455756f1e3c560aecd4123"
+    },
+    {
+      "path": "sources/diarist/2024-11-16-the-evidence-for-reincarnation.txt",
+      "sha256": "ecc66e70b138520ffa7c5832a5fda9abb536d96bcabe8d9284b0237a18f05606"
+    },
+    {
+      "path": "sources/transcripts/2024-11-16-the-evidence-for-reincarnation.html",
+      "sha256": "2657b8b2b243b41b1a46f8f13f36ac323eb34bde8dec056738548c4c1b7d4746"
+    },
+    {
+      "path": "sources/transcripts/2024-11-16-the-evidence-for-reincarnation.md",
+      "sha256": "5e5951ada1867a29f0a5077d81ce7ce207076d0999813bf0c4681a5a3e8c823e"
+    },
+    {
+      "path": "sources/transcripts/_archive/2024-11-16-the-evidence-for-reincarnation.html",
+      "sha256": "f86ab674f76093d492876cc1794210236c12a74355081e72935d719d2d7b15c3"
+    },
+    {
+      "path": "sources/transcripts/_archive/2024-11-16-the-evidence-for-reincarnation.md",
+      "sha256": "39218d23b8d13a2567382b7801797654cdcf1eee0724dc16eabfacfb2340bc6d"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2024-11-16",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

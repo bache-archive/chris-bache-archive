@@ -1,0 +1,46 @@
+{
+  "id": "2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray",
+  "files": [
+    {
+      "path": "downloads/audio/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.mp3",
+      "sha256": "bf13c356be3fb08635c950df06a3fac9838aedcdf41068b0ed7f55999579ea9c"
+    },
+    {
+      "path": "downloads/video/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.mp4",
+      "sha256": "09aa8591564412bd6500074f96b36b6482affc6ff84b55fac09faf30fa6282d9"
+    },
+    {
+      "path": "sources/captions/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.md",
+      "sha256": "f40a5e15f6a439a12cca02b3367caf8cd3df3cb0a498662a8c98c6485f8acbbc"
+    },
+    {
+      "path": "sources/diarist/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.txt",
+      "sha256": "16f7874fffc0daf77c532d659f0d7d29a04d076ef40834e5021690698d2fb3fc"
+    },
+    {
+      "path": "sources/transcripts/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.html",
+      "sha256": "697f96576e4f45e0855559c34e08cdf09294db5bbd8eda6e32a658b9e922e887"
+    },
+    {
+      "path": "sources/transcripts/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.md",
+      "sha256": "623aa346f5f159be1c33b58bc5c684c4f38536f2098ce48a32a2d670972120fd"
+    },
+    {
+      "path": "sources/transcripts/_archive/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.html",
+      "sha256": "5ee299490347ff1ab0f8f351d8ddfee445d9abe15ea715d20282b917ba39eee6"
+    },
+    {
+      "path": "sources/transcripts/_archive/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.md",
+      "sha256": "548d0a42f5e33a07392afb85ab9ce263fc9c5d56047f4975d6b3808d30f0aa43"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2021-05-03",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

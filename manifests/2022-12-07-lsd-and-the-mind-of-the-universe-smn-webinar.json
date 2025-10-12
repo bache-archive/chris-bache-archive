@@ -1,0 +1,46 @@
+{
+  "id": "2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar",
+  "files": [
+    {
+      "path": "downloads/audio/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.mp3",
+      "sha256": "16244a2d19259d414ef4e2782623f0b0c1cbc6cad5e84db27932c38af7148ebb"
+    },
+    {
+      "path": "downloads/video/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.mp4",
+      "sha256": "377c027a5cd37965d05e9e5839fa853f82f046c025be53cc5003b4c16049a73d"
+    },
+    {
+      "path": "sources/captions/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.md",
+      "sha256": "a3a905b0d577b563732d6b67f8aeaa919baca2ad9832eeaabedb37da829cef4c"
+    },
+    {
+      "path": "sources/diarist/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.txt",
+      "sha256": "d7e5fc8877229a56e7de745f0895756868f3ab18726b255ee7090e8c6c57ff32"
+    },
+    {
+      "path": "sources/transcripts/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.html",
+      "sha256": "190e45eca70b665b5e854728322be08b78942812e141c8d1504033b45e4ad8df"
+    },
+    {
+      "path": "sources/transcripts/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.md",
+      "sha256": "2ef2a21b86b93afd04c4e429ec458f4f1c44ebd505505e1ede6fba7ce75f7812"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.html",
+      "sha256": "d233cb901d84c433d59653e2e435a401393b671a1a82aa467ad07340e34f6ec0"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.md",
+      "sha256": "06578f861392c4d56511f10088c4282a4f7dbbf606429d560cf77dc36ebb9200"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2022-12-07",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

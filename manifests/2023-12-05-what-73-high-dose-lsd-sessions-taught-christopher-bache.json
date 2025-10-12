@@ -1,0 +1,46 @@
+{
+  "id": "2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache",
+  "files": [
+    {
+      "path": "downloads/audio/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.mp3",
+      "sha256": "e86bd3aae48a86006c30ec3dbd20738b8f22ed2d737fec801a60e9156ee9c0e1"
+    },
+    {
+      "path": "downloads/video/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.mp4",
+      "sha256": "c9516c3d8858794e1df5831b8f777088a0acb2494361a859b2dd473dcfeed7c0"
+    },
+    {
+      "path": "sources/captions/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.md",
+      "sha256": "571552d75308313b242fa14b5130e2a94f50a855da3dc03b87dab075247e144d"
+    },
+    {
+      "path": "sources/diarist/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.txt",
+      "sha256": "785866c8b9212047a4513e708ffc27ed8226ec71c6a40f9d3017a6a081c1d27f"
+    },
+    {
+      "path": "sources/transcripts/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.html",
+      "sha256": "7ecace71c89b583e49c5fa1ad1cc3f03bfbe302f539720c93fd29bdab68f6383"
+    },
+    {
+      "path": "sources/transcripts/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.md",
+      "sha256": "9b11e3526f598c6e644c19ee87ab25596fd7acbb0b3ff55b2ba25e25db54804e"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.html",
+      "sha256": "708e02f26799fcb284781ebc132572a0d0a963935fd7f721d15c7c95dde7c4f0"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.md",
+      "sha256": "470df8b9083992dca0a65b68ea572f455563b465f4827eb85f341b4b25f20da1"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2023-12-05",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

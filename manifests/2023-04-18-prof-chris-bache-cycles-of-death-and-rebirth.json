@@ -1,0 +1,46 @@
+{
+  "id": "2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth",
+  "files": [
+    {
+      "path": "downloads/audio/2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth.mp3",
+      "sha256": "38f6ac58e07d48db790bcb4fcc59c1b16c1324364a04c6c94d9d8aacbdb2b94f"
+    },
+    {
+      "path": "downloads/video/2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth.mp4",
+      "sha256": "078577f0c936eba7e6cebfeeca41af3c0c66362c4ede1e9a09053c2f12dac149"
+    },
+    {
+      "path": "sources/captions/2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth.md",
+      "sha256": "53fcfe208c525e551b173e75c90d48d8b3e018d5faec4ad9267f61ce1ce746c5"
+    },
+    {
+      "path": "sources/diarist/2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth.txt",
+      "sha256": "870ef3282f8dbfc71922305bf5a838c1ee5a2f404e12de00a80ac9a1f15b9669"
+    },
+    {
+      "path": "sources/transcripts/2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth.html",
+      "sha256": "6e2bf58314b5c0cbbd21c92ec4d767f4272f6505adcd62c8393165e0286d07b6"
+    },
+    {
+      "path": "sources/transcripts/2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth.md",
+      "sha256": "46542c8b69a925f2e82f3404d53318144f920728a9563d7730fd18910a4740a8"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth.html",
+      "sha256": "0714703028e7ad72b321f09dc81709a61b89ea4c28c649d5c77f50bdd6e458aa"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth.md",
+      "sha256": "36c2c98686dc07a94f93013f3ae69789c64e73cc5f3a0b7eb4bbb4668b401dae"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2023-04-18",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

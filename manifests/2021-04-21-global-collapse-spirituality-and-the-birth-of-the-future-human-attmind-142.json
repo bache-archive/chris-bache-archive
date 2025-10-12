@@ -1,0 +1,46 @@
+{
+  "id": "2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142",
+  "files": [
+    {
+      "path": "downloads/audio/2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142.mp3",
+      "sha256": "efa656df6fc110d2ff5c8526c6bc548466a7b729741d046b15378c9fc09fea00"
+    },
+    {
+      "path": "downloads/video/2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142.mp4",
+      "sha256": "7ea06969b84a3ede94f2a059c2fce4651e7af157a20b4b3f6d206a27e57567fd"
+    },
+    {
+      "path": "sources/captions/2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142.md",
+      "sha256": "8c94b1f3f5e85e37704d0c1e6ae36f41acaf8e7d068df83aa493dd471f0ae543"
+    },
+    {
+      "path": "sources/diarist/2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142.txt",
+      "sha256": "0a14a2e8b82f11b01c38ea86a6722fe6620bc71295d915c58d8002b57797fe4a"
+    },
+    {
+      "path": "sources/transcripts/2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142.html",
+      "sha256": "11cccf793b3474dafa5527e1138ca85db0aaba413552d52536f35e7e7608bdec"
+    },
+    {
+      "path": "sources/transcripts/2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142.md",
+      "sha256": "9d3f6fa1c00d970f2d521946eddaabffaff63b2c40d1d10c9b0fbe47c8814c05"
+    },
+    {
+      "path": "sources/transcripts/_archive/2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142.html",
+      "sha256": "eb1be1c72a96c10d7794a79ec9a6538be2ae68a2ee4fb1972a701782d7bf2ee1"
+    },
+    {
+      "path": "sources/transcripts/_archive/2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142.md",
+      "sha256": "dcbdee075ca6623611387e7485f8cf15738cce532e853a5818b7b3550709117f"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2021-04-21",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

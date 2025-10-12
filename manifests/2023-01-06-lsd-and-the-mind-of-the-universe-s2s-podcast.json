@@ -1,0 +1,46 @@
+{
+  "id": "2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast",
+  "files": [
+    {
+      "path": "downloads/audio/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.mp3",
+      "sha256": "f713362987bd2fd7b8c7a3447e7f2b133393a4fd5d07b6991459dba55cc672ec"
+    },
+    {
+      "path": "downloads/video/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.mp4",
+      "sha256": "a8bddc14e2d6407d8710b765b7f41195de340fa49910110fb51da53f0f802d50"
+    },
+    {
+      "path": "sources/captions/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.md",
+      "sha256": "d99dbe4c1a29688a65e1fc1e701c0b5ea85ae9961e2ba55a6a45a3aec0f6c115"
+    },
+    {
+      "path": "sources/diarist/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.txt",
+      "sha256": "9cdc8ec93f53ccbe5c2ab8520e445ae050aa229fe851d806ec220ef932e4d441"
+    },
+    {
+      "path": "sources/transcripts/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.html",
+      "sha256": "bfda217d266cc26fdfcf083aba5bda766b889d19ca23c3c5eb0fd070a9df5ba8"
+    },
+    {
+      "path": "sources/transcripts/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.md",
+      "sha256": "6d5e2a83328173c51b9473b1f0280ebfcf73d9abe822aaa6bc2fe725dbb846b1"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.html",
+      "sha256": "f1a23482b2eebc9a158d070bcc659c3b0a9765c8fdddaddb2ebfc940ea20c13b"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.md",
+      "sha256": "95963e787cc93adf28f6a20393114d92c7171f3b8ce8a447a31cf49511b5e463"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2023-01-06",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

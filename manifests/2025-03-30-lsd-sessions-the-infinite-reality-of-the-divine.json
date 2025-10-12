@@ -1,0 +1,46 @@
+{
+  "id": "2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine",
+  "files": [
+    {
+      "path": "downloads/audio/2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine.mp3",
+      "sha256": "188c6fe61f8ea9eb973f9006393937e26cd6264f5f2dde2f39e6071d3a0d93b7"
+    },
+    {
+      "path": "downloads/video/2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine.mp4",
+      "sha256": "c719f8d9c435656c84285833a7d62684a619df6358970eae0290dcc0ddf030b6"
+    },
+    {
+      "path": "sources/captions/2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine.md",
+      "sha256": "8df6aa2e2be05cc1b489c318cc2220257502979d0230a8e486c28bddb6bb65dd"
+    },
+    {
+      "path": "sources/diarist/2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine.txt",
+      "sha256": "b2e65544a3666d0630c9f0f0725a50c6a2d627c968829c49193a4e1266646368"
+    },
+    {
+      "path": "sources/transcripts/2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine.html",
+      "sha256": "5f313f2a961fe7ad49b1bbe957d73619167f301b83094c966f6d69b615061bb0"
+    },
+    {
+      "path": "sources/transcripts/2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine.md",
+      "sha256": "88be12fab4e8ee49d0476402fe2ee480fcce11c2dcddc8d0303fcf19d7fd2fcf"
+    },
+    {
+      "path": "sources/transcripts/_archive/2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine.html",
+      "sha256": "b2a5289c0a50d59fb7bfa60ddbf35e0a4d16d353b0856fc6230e7374eac3021e"
+    },
+    {
+      "path": "sources/transcripts/_archive/2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine.md",
+      "sha256": "f8673d4a4757616a81d3f775e48afd9e2b5e3a4d3195830909ee69de7a59b23a"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2025-03-30",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

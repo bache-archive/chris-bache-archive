@@ -1,0 +1,46 @@
+{
+  "id": "2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache",
+  "files": [
+    {
+      "path": "downloads/audio/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.mp3",
+      "sha256": "17c915b1bf7580cf91c237756514ec94cb5309a86904a9a280872f383e492118"
+    },
+    {
+      "path": "downloads/video/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.mp4",
+      "sha256": "9e98eb73eb494ae14fc6f7c9649f2019f334d383f35cfd0b135d347d252e60c8"
+    },
+    {
+      "path": "sources/captions/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.md",
+      "sha256": "c4c47ecdffce7efd9a9b12ecb09aaf095b9a86a30e03fe35880723ae2b3553a5"
+    },
+    {
+      "path": "sources/diarist/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.txt",
+      "sha256": "59b0feca21d7a57edf8564d28be8e980b4410f82960dee9d2de887e6e4567c05"
+    },
+    {
+      "path": "sources/transcripts/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.html",
+      "sha256": "5eed4ecab7df87d83b9d7b70fead61f2ed103815ef872d401d1a06b215c25036"
+    },
+    {
+      "path": "sources/transcripts/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.md",
+      "sha256": "2c533478dd9ad83daabad8c4765a8a8862a253f051f3fe717f99c4d9f9b1c4d2"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.html",
+      "sha256": "5eed4ecab7df87d83b9d7b70fead61f2ed103815ef872d401d1a06b215c25036"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.md",
+      "sha256": "2c533478dd9ad83daabad8c4765a8a8862a253f051f3fe717f99c4d9f9b1c4d2"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2022-02-17",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1",
+  "files": [
+    {
+      "path": "downloads/audio/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.mp3",
+      "sha256": "fd01d30c75c026ecf185078dd9e03d6ec0af9954f889bd8a0f4178accc3c0cda"
+    },
+    {
+      "path": "downloads/video/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.mp4",
+      "sha256": "a9f75b48a1c4807d12d2fbbf70d02c9af28e8a283f0e481e5d667d9712bec527"
+    },
+    {
+      "path": "sources/captions/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.md",
+      "sha256": "d8d5bf71f3044e453e4d123665b752d115bf66e496d4e8eed59b8daf82145e06"
+    },
+    {
+      "path": "sources/diarist/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.txt",
+      "sha256": "4f82323285f69d3fb4b284187222f7712e597a063ce8febbf9d1ea7d2364f3b9"
+    },
+    {
+      "path": "sources/transcripts/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.html",
+      "sha256": "8f526e3aba43ccd57791e4b1c4cefde53fe28dba9a8b306940ed06e8baef26fe"
+    },
+    {
+      "path": "sources/transcripts/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.md",
+      "sha256": "67a858b1245ff6df9ac0dccf8536bfb60a68091e4dd4f5fc3e994b28b705923f"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.html",
+      "sha256": "a6df33c0876a68856a71eafc4f485769a2863dc11a0cac762139beb73561b5c0"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.md",
+      "sha256": "7457d6e8aa166535fb86837de7df543ffad970cf5c4e3fbf110de6472156e49e"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2022-02-17",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

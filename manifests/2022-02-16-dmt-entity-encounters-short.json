@@ -1,0 +1,22 @@
+{
+  "id": "2022-02-16-dmt-entity-encounters-short",
+  "files": [
+    {
+      "path": "sources/transcripts/extras/2022-02-16-dmt-entity-encounters-short.html",
+      "sha256": "398c55d2cec309d87ebe7a4f8894a5ca2febb68574d25fddfad89aff7c80d245"
+    },
+    {
+      "path": "sources/transcripts/extras/2022-02-16-dmt-entity-encounters-short.md",
+      "sha256": "7b2e4ba49851c1415ee2542c763dbb1285222c91a3ef541b3049e493c1f90a03"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2022-02-16",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

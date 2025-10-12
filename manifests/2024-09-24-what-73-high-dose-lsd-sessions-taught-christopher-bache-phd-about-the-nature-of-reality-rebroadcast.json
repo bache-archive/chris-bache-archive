@@ -1,0 +1,46 @@
+{
+  "id": "2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast",
+  "files": [
+    {
+      "path": "downloads/audio/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.mp3",
+      "sha256": "7ef42a9b1de678d23dc1c42b924f504fb58adb93e7c28486431c6abbe2dd1972"
+    },
+    {
+      "path": "downloads/video/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.mp4",
+      "sha256": "567c760dee56b870e84baa47c4f9ab79c3652316054fddb8859ca2d994cd719c"
+    },
+    {
+      "path": "sources/captions/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.md",
+      "sha256": "965b6e5643158b569dc47c5a9243c0d643f9685445dc3c6d9485476d34578d1b"
+    },
+    {
+      "path": "sources/diarist/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.txt",
+      "sha256": "785866c8b9212047a4513e708ffc27ed8226ec71c6a40f9d3017a6a081c1d27f"
+    },
+    {
+      "path": "sources/transcripts/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.html",
+      "sha256": "233158c9f7e948acc2884da5bff67e812014e235ff35bb753b3e6bfbf2b1167b"
+    },
+    {
+      "path": "sources/transcripts/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.md",
+      "sha256": "58b1daab324aedb714969bd4664aa47eed21a845a5c24578011e87e44f73f846"
+    },
+    {
+      "path": "sources/transcripts/_archive/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.html",
+      "sha256": "2d10e589c8d1a75be8b7ec6c3a425b6d18f9fe61c49e08862f9300727e0cacd6"
+    },
+    {
+      "path": "sources/transcripts/_archive/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.md",
+      "sha256": "891e9180b40ff6ad2d30f54e9c900e4de71f23480ef9a678c2ae9e5b429af503"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2024-09-24",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human",
+  "files": [
+    {
+      "path": "downloads/audio/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.mp3",
+      "sha256": "a62c3742498a041493b92d4390e99d24fc8646482ae9408fe2dca8d5aceae7d8"
+    },
+    {
+      "path": "downloads/video/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.mp4",
+      "sha256": "f5b724840046ba96c748d8f1dba15bdac2e2a85a781b9e3af998928ecb51cada"
+    },
+    {
+      "path": "sources/captions/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.md",
+      "sha256": "b7215cfcbc10b5a3c9f821d27208972739be88e508d3df56ee1b50faed125736"
+    },
+    {
+      "path": "sources/diarist/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.txt",
+      "sha256": "9fc7eeb303fb781e727ab153a7d7a6f2f4a967ae3cdaad4ef5eef9b2272a8df6"
+    },
+    {
+      "path": "sources/transcripts/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.html",
+      "sha256": "cdc3a036147204521d313a7f73bc6b2c09aaff55ebb2ba8da1f389f89b0289a6"
+    },
+    {
+      "path": "sources/transcripts/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.md",
+      "sha256": "fe68da1d850cda8735e3b0aea386c2c1c1c7b458680f85e50ab30e13951893c2"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.html",
+      "sha256": "aa779bd2369957d89923e30afa4aa19569af1194c2d85a4cf3a831cefdb1f4fb"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.md",
+      "sha256": "a28da1e19fa7bb32c9f6e8add894a9e70c495bce8ff598f457224059b12a577a"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2020-10-04",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

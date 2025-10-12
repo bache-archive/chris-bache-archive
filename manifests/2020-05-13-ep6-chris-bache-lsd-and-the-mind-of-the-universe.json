@@ -1,0 +1,46 @@
+{
+  "id": "2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe",
+  "files": [
+    {
+      "path": "downloads/audio/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.mp3",
+      "sha256": "eeb2259abe41b270be44b98887ea05480d1b0c952a0512fb50800c2326661b69"
+    },
+    {
+      "path": "downloads/video/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.mp4",
+      "sha256": "50b8bc98f647f7d37750ae3b0caf97928c1864f87a37df062d3419a080db5123"
+    },
+    {
+      "path": "sources/captions/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.md",
+      "sha256": "00eded37f1d46390af06e51a5402d9bfa9ea6400b6c0f0500127498c71f7ec5d"
+    },
+    {
+      "path": "sources/diarist/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.txt",
+      "sha256": "0997d883b0a5d57b3a82233a5ffd1b20ab30e73599ee051679ab7b59b6f3ddb8"
+    },
+    {
+      "path": "sources/transcripts/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.html",
+      "sha256": "f650c765d016c6fcb677230bdd045400dbe5b6a76e1f77b8323666a9ff6d091d"
+    },
+    {
+      "path": "sources/transcripts/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.md",
+      "sha256": "a42bedd0e6eb765d254a4b1e51dcaf990a5c4a91ee4fdf698bcd0731f40f8bdb"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.html",
+      "sha256": "7225fb881a026f5070c9bd015bb508cbdfe093cef2b57a4833d9e2aa049391b0"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.md",
+      "sha256": "3b94fae784237478f471976d4098759798d47888eea164a8a48f68ae6e41b026"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2020-05-13",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

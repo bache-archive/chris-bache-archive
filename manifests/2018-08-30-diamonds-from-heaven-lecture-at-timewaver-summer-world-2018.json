@@ -1,0 +1,46 @@
+{
+  "id": "2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018",
+  "files": [
+    {
+      "path": "downloads/audio/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.mp3",
+      "sha256": "fa0369d6255c2097775824206727886acb6c9794bdc45cb7bdccf5c1d7a77b71"
+    },
+    {
+      "path": "downloads/video/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.mp4",
+      "sha256": "b5b920f4a1774f42c56a1d0991064ea3c34acd39c0b7c146a3bf523f5b13a3b6"
+    },
+    {
+      "path": "sources/captions/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.md",
+      "sha256": "3e06166485bdc0af4de4b938c99963b5761cb040684a2f6fa5a0bf38e3ba083f"
+    },
+    {
+      "path": "sources/diarist/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.txt",
+      "sha256": "011b9cc8f82f92d81f2886aaf11966f12e41029181c34e24fed877fdd2f99754"
+    },
+    {
+      "path": "sources/transcripts/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.html",
+      "sha256": "201d9de08634ac901ac7577351477ef54f743d426dd96d6607054cffece37fe9"
+    },
+    {
+      "path": "sources/transcripts/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.md",
+      "sha256": "200649a69d9487e72f056a7ee92a48e245a7d1c547311481a26a2733d6cd92df"
+    },
+    {
+      "path": "sources/transcripts/_archive/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.html",
+      "sha256": "37e26d949097613d042ae9e385b23820d64c189042a14624810d378c7380ef3b"
+    },
+    {
+      "path": "sources/transcripts/_archive/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.md",
+      "sha256": "c858b098db3a60da6474270ea51fd7dd95141b480bbd94e227f9078b9667c559"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2018-08-30",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

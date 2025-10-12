@@ -1,0 +1,46 @@
+{
+  "id": "2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd",
+  "files": [
+    {
+      "path": "downloads/audio/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.mp3",
+      "sha256": "f874e9bc283b3c4aa29922f5d43348443919d6d66e81c4f7cb769bbb43f15daf"
+    },
+    {
+      "path": "downloads/video/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.mp4",
+      "sha256": "fc18a1e4fac2c6d1fb536d1c291a3f1210a65208fe78b1adf9c795c46ca671ee"
+    },
+    {
+      "path": "sources/captions/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.md",
+      "sha256": "4f3f7e81c93b989cac6a2f15c408c2374c8e91238faa510d4f9abcb439e84c2e"
+    },
+    {
+      "path": "sources/diarist/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.txt",
+      "sha256": "11f4663218e966621acddd6bbc52e9e03ab60ca6d625ca805abce2b1b51d3934"
+    },
+    {
+      "path": "sources/transcripts/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.html",
+      "sha256": "878e6f26072c59523e6e718bba7499c1dd69f863113f089dd6131bc5cfde44dd"
+    },
+    {
+      "path": "sources/transcripts/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.md",
+      "sha256": "8ad6a0dbadddd60a9ff70bb62d9c18f3877a8670b6b74c0e15538282494f0bf5"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.html",
+      "sha256": "cc4947fc9e4a9b1f9f75f24d82b4ab1689fb1e273e782c2ae79211a0509ee0a8"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.md",
+      "sha256": "b30480a4c1ebef28e3d6d448081544d41475ebead7c3390d92fc06322a8294ca"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2023-03-16",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching",
+  "files": [
+    {
+      "path": "downloads/audio/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.mp3",
+      "sha256": "521148cc5141cc563963c96565f348b6e45435a37445d8c7aad7d23e9ea773ed"
+    },
+    {
+      "path": "downloads/video/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.mp4",
+      "sha256": "9c87ac5f2b7a9e8a5736b3c209bffde73571750bda4dc18f87aa30426ec87a85"
+    },
+    {
+      "path": "sources/captions/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.md",
+      "sha256": "8ed413aaadfdc4830ee9e8f4a1a20a8e0c54519a5acce57a5bb08210f63831e4"
+    },
+    {
+      "path": "sources/diarist/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.txt",
+      "sha256": "a0e337f86b615c5845256451608f42825b41820a1419a4ea90fa1f76c3c78910"
+    },
+    {
+      "path": "sources/transcripts/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.html",
+      "sha256": "d762a591b405dce1350cbb8a448f4495a9e649583cb97a75eb9d8f4660574c55"
+    },
+    {
+      "path": "sources/transcripts/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.md",
+      "sha256": "8fa83722e6c15be548f28c30126f19980f3ba44bb881eea7ec93663d940e1fb9"
+    },
+    {
+      "path": "sources/transcripts/_archive/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.html",
+      "sha256": "7dcc7eedad5b84909d5a495d6d7934ac6c3ded5872a39f9cfeb9237b5c4d6ea3"
+    },
+    {
+      "path": "sources/transcripts/_archive/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.md",
+      "sha256": "32d64f8a84de384089b300eb64b89cc9122b99804d2c6268305b8df1bbfccca3"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2014-11-10",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

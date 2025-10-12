@@ -1,0 +1,46 @@
+{
+  "id": "2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay",
+  "files": [
+    {
+      "path": "downloads/audio/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.mp3",
+      "sha256": "fbc6d30a727675dcda090c4bc0218c720a89c6a626ed73bf3ca927356ed75385"
+    },
+    {
+      "path": "downloads/video/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.mp4",
+      "sha256": "585daee4a1a287b6ba6cf45a1dcb486597584154be88586a5c02db5929d8aa8f"
+    },
+    {
+      "path": "sources/captions/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.md",
+      "sha256": "9f9ef2cfc1849702aab018475c7e96ebf3f059fb874021cd8320fa97ea99a327"
+    },
+    {
+      "path": "sources/diarist/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.txt",
+      "sha256": "74c7ea52103a33faed334b03361fae4312291d757e3eafa6832f7558847c179e"
+    },
+    {
+      "path": "sources/transcripts/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.html",
+      "sha256": "49f2ddcaf750744b29c03f157249b11892c682610cd263653868c3175d13d654"
+    },
+    {
+      "path": "sources/transcripts/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.md",
+      "sha256": "383464a8d583025f5e7655fc845d049221a296a75ab99cab8548e7433ba7850c"
+    },
+    {
+      "path": "sources/transcripts/_archive/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.html",
+      "sha256": "f51956daa7845f63a039dc9acc593589b0a575a9ac95baac51e79eae878b0adb"
+    },
+    {
+      "path": "sources/transcripts/_archive/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.md",
+      "sha256": "6a67ca5293e6fd7cf03508fcf34f3d3cc3cc76e368bc6180ba592f818efa2872"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2018-07-05",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

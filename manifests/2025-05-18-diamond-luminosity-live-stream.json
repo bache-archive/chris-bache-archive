@@ -1,0 +1,46 @@
+{
+  "id": "2025-05-18-diamond-luminosity-live-stream",
+  "files": [
+    {
+      "path": "downloads/audio/2025-05-18-diamond-luminosity-live-stream.mp3",
+      "sha256": "cfbf66d89d97390d4ccd3d28361aed1e19fd4aad0480ac771e6eb075fd008e10"
+    },
+    {
+      "path": "downloads/video/2025-05-18-diamond-luminosity-live-stream.mp4",
+      "sha256": "9af488ec3f8e4dc29dcff7995ae949444ca0fb084e0c431131f453f4f46df26e"
+    },
+    {
+      "path": "sources/captions/2025-05-18-diamond-luminosity-live-stream.md",
+      "sha256": "86a00401bf78152bb0cc26dddb3d32afe3e0af68bf609c6b3c4978b11374191c"
+    },
+    {
+      "path": "sources/diarist/2025-05-18-diamond-luminosity-live-stream.txt",
+      "sha256": "5169d95e78fedcbee0fd712a56ed83d5be22138b6d47505b4b37b6db499e7377"
+    },
+    {
+      "path": "sources/transcripts/2025-05-18-diamond-luminosity-live-stream.html",
+      "sha256": "26ecb89ae8ab38deabf0524ab0b5c4b9252aa23f8961d113114f664d33897841"
+    },
+    {
+      "path": "sources/transcripts/2025-05-18-diamond-luminosity-live-stream.md",
+      "sha256": "2546d3dc2d435fad167987a884898ce32463a6a1c91f349d5e9ab7c57a209758"
+    },
+    {
+      "path": "sources/transcripts/_archive/2025-05-18-diamond-luminosity-live-stream.html",
+      "sha256": "b7059fcae4c4d015b159464fbc9d70d0abd59172162d2db35dd8db7e23efadbc"
+    },
+    {
+      "path": "sources/transcripts/_archive/2025-05-18-diamond-luminosity-live-stream.md",
+      "sha256": "0f0e469b07d90eb25e3d2eee4376892506be4d4bc05bb3623b10f2edc92fb138"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2025-05-18",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

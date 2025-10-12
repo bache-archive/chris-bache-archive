@@ -1,0 +1,46 @@
+{
+  "id": "2020-12-21-great-conjunction-reflection-short",
+  "files": [
+    {
+      "path": "downloads/audio/2020-12-21-great-conjunction-reflection-short.mp3",
+      "sha256": "92ec87402b29fdf3d9011c8cb642fbd5a5133a5a424baaddff41735d715e12c5"
+    },
+    {
+      "path": "downloads/video/2020-12-21-great-conjunction-reflection-short.mp4",
+      "sha256": "9794ee2af0190e89aa17458ba74d6f7fa30c5f651f100aba72130139e3de5aea"
+    },
+    {
+      "path": "sources/captions/2020-12-21-great-conjunction-reflection-short.md",
+      "sha256": "ff036ec7a8b13d978e45d339df0633fe6072bcafa163af4cbe4f2980ee29e014"
+    },
+    {
+      "path": "sources/diarist/2020-12-21-great-conjunction-reflection-short.txt",
+      "sha256": "e7497f110e65d3a8841a14cb44cd4189275b2d72de92708c9fe2d7d26bd28cf7"
+    },
+    {
+      "path": "sources/transcripts/2020-12-21-great-conjunction-reflection-short.html",
+      "sha256": "3966fad62a949e225ba4bbb5d66a71ed37d768e4f3de3d88c67a41406eb465a9"
+    },
+    {
+      "path": "sources/transcripts/2020-12-21-great-conjunction-reflection-short.md",
+      "sha256": "6b840bbec50681d15ff2ad91dfe95e6d2c9e4c00769b56d2a731236b58e33de9"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-12-21-great-conjunction-reflection-short.html",
+      "sha256": "60292e1979ff133932f56ed9491609257fe6aedb321e4cdb5371045823717e2c"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-12-21-great-conjunction-reflection-short.md",
+      "sha256": "d2a16527949fcf4a7afe7cc228838d8d0e84a61b62dc6b43cc37625a3e790602"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2020-12-21",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

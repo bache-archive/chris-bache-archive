@@ -1,0 +1,46 @@
+{
+  "id": "2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache",
+  "files": [
+    {
+      "path": "downloads/audio/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.mp3",
+      "sha256": "7a080c4802aeb2303aff00c6ed13024e076060d37a761e0cf0a72b51d0a326ec"
+    },
+    {
+      "path": "downloads/video/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.mp4",
+      "sha256": "2579dee1e26dd1e20b59d9e147ff36b3e5fc23d0b28f5223e3405a8257d38102"
+    },
+    {
+      "path": "sources/captions/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.md",
+      "sha256": "b20ee7beaf56991b85d793f5cb3bfdbd1db7eea52c6cc9599724f175395ca5a8"
+    },
+    {
+      "path": "sources/diarist/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.txt",
+      "sha256": "6f1312abd029d7b68b738bcf310fdc053764cbf4057c79e10aacf5b01ab3a5ea"
+    },
+    {
+      "path": "sources/transcripts/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.html",
+      "sha256": "c344684ae6a60ec6f224dfef50f1b1f92e0176283171aa9e548efad42e7d1f01"
+    },
+    {
+      "path": "sources/transcripts/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.md",
+      "sha256": "7846995d00a1c72963561fb4a3abd7f0119265b8ec03ae51c7b0c5b89340f2ab"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.html",
+      "sha256": "862034ea33542bbea7e36257472ed2972328951e6e70dfc155ef530214d4bd26"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.md",
+      "sha256": "7885cf8aeb24d817f9b6c079101103d894f990350c1f3aea7774192fe792bb37"
+    }
+  ],
+  "captured_at": "2025-10-12",
+  "license": "CC0-1.0",
+  "recorded_date": "2022-02-19",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}
