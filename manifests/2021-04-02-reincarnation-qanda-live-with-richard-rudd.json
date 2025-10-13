@@ -19,7 +19,7 @@
     },
     {
       "path": "sources/transcripts/2021-04-02-reincarnation-qanda-live-with-richard-rudd.html",
-      "sha256": "319f9f26bc3b9f3c3dd6e0a521930896a7cbd6e1eaf7f8a1855858515fa42020"
+      "sha256": "d8f020a74ad707284d0c21148ccd7f3c104082a3bd2e8882ebc203bac9577f46"
     },
     {
       "path": "sources/transcripts/2021-04-02-reincarnation-qanda-live-with-richard-rudd.md",
@@ -34,7 +34,7 @@
       "sha256": "343fc057bbf8dae6f7830688636d19f3247f055076329a27932839fdf8ac3b06"
     }
   ],
-  "captured_at": "2025-10-12",
+  "captured_at": "2025-10-13",
   "license": "CC0-1.0",
   "recorded_date": "2021-04-02",
   "tools": [

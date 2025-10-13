@@ -19,7 +19,7 @@
     },
     {
       "path": "sources/transcripts/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.html",
-      "sha256": "d88874bdf02bbaaa6c67a5d24d0b811f27e9a8e10a383833e31fd3d853749db8"
+      "sha256": "1b03d568dbdaa01cc9a0cbf269998846906e4b39acf9a4e5d2e9ea7ab246659d"
     },
     {
       "path": "sources/transcripts/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.md",
@@ -34,7 +34,7 @@
       "sha256": "df089faeb1e9cac078f0b10c762594e880fccf87461d3a9950daf3ce135af9b2"
     }
   ],
-  "captured_at": "2025-10-12",
+  "captured_at": "2025-10-13",
   "license": "CC0-1.0",
   "recorded_date": "2023-01-30",
   "tools": [

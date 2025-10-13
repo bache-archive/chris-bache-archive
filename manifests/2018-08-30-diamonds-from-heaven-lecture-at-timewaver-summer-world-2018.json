@@ -19,7 +19,7 @@
     },
     {
       "path": "sources/transcripts/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.html",
-      "sha256": "201d9de08634ac901ac7577351477ef54f743d426dd96d6607054cffece37fe9"
+      "sha256": "8fd25f292f2beab560c899a6c474a2da8531af7dc6900a5c9ccfefacfbb16b60"
     },
     {
       "path": "sources/transcripts/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.md",
@@ -34,7 +34,7 @@
       "sha256": "c858b098db3a60da6474270ea51fd7dd95141b480bbd94e227f9078b9667c559"
     }
   ],
-  "captured_at": "2025-10-12",
+  "captured_at": "2025-10-13",
   "license": "CC0-1.0",
   "recorded_date": "2018-08-30",
   "tools": [

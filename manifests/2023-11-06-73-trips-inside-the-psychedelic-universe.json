@@ -19,7 +19,7 @@
     },
     {
       "path": "sources/transcripts/2023-11-06-73-trips-inside-the-psychedelic-universe.html",
-      "sha256": "8963113dbc33f6a80c0703f3499398fb92a23ed8a8631a0fe3b755df7ce954a5"
+      "sha256": "2b1089d42c124394e2496f3c1d678ef6ee649bb599c6e40bb22af75cbf6422e5"
     },
     {
       "path": "sources/transcripts/2023-11-06-73-trips-inside-the-psychedelic-universe.md",
@@ -34,7 +34,7 @@
       "sha256": "59bcea92c5b7baae25012fa278d2cc9e2136349d35598f01c35d505c87a61b6f"
     }
   ],
-  "captured_at": "2025-10-12",
+  "captured_at": "2025-10-13",
   "license": "CC0-1.0",
   "recorded_date": "2023-11-06",
   "tools": [

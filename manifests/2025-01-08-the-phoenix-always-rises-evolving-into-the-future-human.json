@@ -19,7 +19,7 @@
     },
     {
       "path": "sources/transcripts/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.html",
-      "sha256": "e50b47acc009372b87186ddc636b73d94f4863ff6f6568055d59722946da8835"
+      "sha256": "baf96b035e8d633a64395b4e55fed367aeeffb5d96978612c34126d081481e1d"
     },
     {
       "path": "sources/transcripts/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.md",
@@ -34,7 +34,7 @@
       "sha256": "2d18e5557ddc00fb6ae18b6833b9548f7910d409b55cfc28a748c492e61988a8"
     }
   ],
-  "captured_at": "2025-10-12",
+  "captured_at": "2025-10-13",
   "license": "CC0-1.0",
   "recorded_date": "2025-01-08",
   "tools": [

@@ -3,14 +3,14 @@
   "files": [
     {
       "path": "sources/transcripts/extras/2022-02-19-the-mind-of-the-universe-conversation-with-prof-short.html",
-      "sha256": "862034ea33542bbea7e36257472ed2972328951e6e70dfc155ef530214d4bd26"
+      "sha256": "3708898b8a388a5e7ea1fd060545a7052b93ce6dd36ad06fffb23bf65294c4c1"
     },
     {
       "path": "sources/transcripts/extras/2022-02-19-the-mind-of-the-universe-conversation-with-prof-short.md",
       "sha256": "7885cf8aeb24d817f9b6c079101103d894f990350c1f3aea7774192fe792bb37"
     }
   ],
-  "captured_at": "2025-10-12",
+  "captured_at": "2025-10-13",
   "license": "CC0-1.0",
   "recorded_date": "2022-02-19",
   "tools": [

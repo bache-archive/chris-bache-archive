@@ -19,7 +19,7 @@
     },
     {
       "path": "sources/transcripts/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.html",
-      "sha256": "5127581561871c845fef2aa1884c6578d348574363da7ea3876ab294bb29b0c5"
+      "sha256": "022c30f6bca956cc4bdec74fca9cf7f2ff9639a02e8d31a61b9b1d7540e81515"
     },
     {
       "path": "sources/transcripts/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md",
@@ -34,7 +34,7 @@
       "sha256": "4aa3096fa20aeff05ba36c886f150c95a337abf651c3e84324d418bf49bd2840"
     }
   ],
-  "captured_at": "2025-10-12",
+  "captured_at": "2025-10-13",
   "license": "CC0-1.0",
   "recorded_date": "2019-11-13",
   "tools": [

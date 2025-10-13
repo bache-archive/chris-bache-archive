@@ -19,7 +19,7 @@
     },
     {
       "path": "sources/transcripts/2020-04-19-bicycle-day-conversation-with-jef-baker.html",
-      "sha256": "6cbd4d9823d5f57ddc86a7d1d79396d993f5300f84954f454eb6838537167e9a"
+      "sha256": "8454e6cf1e85cb4578c50d96f620b625107916909a4f0920dafa54249ec0c7ad"
     },
     {
       "path": "sources/transcripts/2020-04-19-bicycle-day-conversation-with-jef-baker.md",
@@ -34,7 +34,7 @@
       "sha256": "fa5bb28b51eb36d7fa103363b35cf7a970cd6d84fa4d08071a63e18c6fd27312"
     }
   ],
-  "captured_at": "2025-10-12",
+  "captured_at": "2025-10-13",
   "license": "CC0-1.0",
   "recorded_date": "2020-04-19",
   "tools": [

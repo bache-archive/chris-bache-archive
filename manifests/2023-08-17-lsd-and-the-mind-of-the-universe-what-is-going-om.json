@@ -19,7 +19,7 @@
     },
     {
       "path": "sources/transcripts/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.html",
-      "sha256": "83536ec5c4e53af85d698bcd3fe0e147c5600277ca6822315cb71ee3e1be94fc"
+      "sha256": "df9e4b11fb1ac9db6da61e0113e362c58532dc2f96c09fce39975c36e2165321"
     },
     {
       "path": "sources/transcripts/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.md",
@@ -34,7 +34,7 @@
       "sha256": "7016b8468a7ac725d78cdd6c3c37940109e962a987275f330f411fef7cc2e23b"
     }
   ],
-  "captured_at": "2025-10-12",
+  "captured_at": "2025-10-13",
   "license": "CC0-1.0",
   "recorded_date": "2023-08-17",
   "tools": [

@@ -19,14 +19,14 @@
     },
     {
       "path": "sources/transcripts/2022-04-26-when-we-die-ions-living-classroom-excerpt.html",
-      "sha256": "e9c43a1208bdb40bb61e8881ccc76c41424362f2224573da658eb3d5dc17c3f7"
+      "sha256": "f94b8b9b85e16677ca8aec890caa6b12908e87f0aebf37281bb84bb90b5c6295"
     },
     {
       "path": "sources/transcripts/2022-04-26-when-we-die-ions-living-classroom-excerpt.md",
       "sha256": "93702a1e494f609c73a27ec238a4ab75a508d333255e29b4176ddcebfd948825"
     }
   ],
-  "captured_at": "2025-10-12",
+  "captured_at": "2025-10-13",
   "license": "CC0-1.0",
   "recorded_date": "2022-04-26",
   "tools": [

@@ -19,7 +19,7 @@
     },
     {
       "path": "sources/transcripts/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.html",
-      "sha256": "2b2bbeb833fe162df88955e75e5d359aa621cef9f8cb8e87d2b87276cc4b4f0e"
+      "sha256": "d80a4f8113a648aca21688c091d7b563b5c9b8463c66f622804b710d7f400dac"
     },
     {
       "path": "sources/transcripts/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.md",
@@ -34,7 +34,7 @@
       "sha256": "0e60ee7eff08baf3f8be9e06dca53ba1f0c2baddef09831df56d4ee8dc29082e"
     }
   ],
-  "captured_at": "2025-10-12",
+  "captured_at": "2025-10-13",
   "license": "CC0-1.0",
   "recorded_date": "2025-04-26",
   "tools": [

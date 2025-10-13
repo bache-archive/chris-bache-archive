@@ -19,7 +19,7 @@
     },
     {
       "path": "sources/transcripts/2020-12-21-great-conjunction-reflection-short.html",
-      "sha256": "3966fad62a949e225ba4bbb5d66a71ed37d768e4f3de3d88c67a41406eb465a9"
+      "sha256": "ffa86694c311d90e74b46be17319a50228d7a09c1bb6e2c906d98a3d3df82a97"
     },
     {
       "path": "sources/transcripts/2020-12-21-great-conjunction-reflection-short.md",
@@ -34,7 +34,7 @@
       "sha256": "d2a16527949fcf4a7afe7cc228838d8d0e84a61b62dc6b43cc37625a3e790602"
     }
   ],
-  "captured_at": "2025-10-12",
+  "captured_at": "2025-10-13",
   "license": "CC0-1.0",
   "recorded_date": "2020-12-21",
   "tools": [

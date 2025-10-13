@@ -19,7 +19,7 @@
     },
     {
       "path": "sources/transcripts/2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.html",
-      "sha256": "de42910b299b6a1b74e0e345ca9c0294314dbdbec627bec8aaf10be8bb9dde2a"
+      "sha256": "43921144b013f983dfd9d8e11b8805482580ead07dc475d0937ea9c437140830"
     },
     {
       "path": "sources/transcripts/2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.md",
@@ -34,7 +34,7 @@
       "sha256": "426c3036b21e589401bc1dc6c90ce83883cd292eb69e0952da0ea46d0f2494e0"
     }
   ],
-  "captured_at": "2025-10-12",
+  "captured_at": "2025-10-13",
   "license": "CC0-1.0",
   "recorded_date": "2022-01-20",
   "tools": [

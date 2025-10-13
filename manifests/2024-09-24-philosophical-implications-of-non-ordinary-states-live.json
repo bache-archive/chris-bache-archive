@@ -19,7 +19,7 @@
     },
     {
       "path": "sources/transcripts/2024-09-24-philosophical-implications-of-non-ordinary-states-live.html",
-      "sha256": "971a14c647b59ef002ef84765cb89492ebe9ee6c454ee0f4d049e1658f681015"
+      "sha256": "4d21b108a724318d903522999642726a0ae1f7d973379fd222537538e808898f"
     },
     {
       "path": "sources/transcripts/2024-09-24-philosophical-implications-of-non-ordinary-states-live.md",
@@ -34,7 +34,7 @@
       "sha256": "b0172b2552f936d10da870d82fdbec610c88978f7bde0fee1b020bafa0fdbf82"
     }
   ],
-  "captured_at": "2025-10-12",
+  "captured_at": "2025-10-13",
   "license": "CC0-1.0",
   "recorded_date": "2024-09-24",
   "tools": [

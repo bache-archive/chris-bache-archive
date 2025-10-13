@@ -19,7 +19,7 @@
     },
     {
       "path": "sources/transcripts/2025-05-18-diamond-luminosity-live-stream.html",
-      "sha256": "26ecb89ae8ab38deabf0524ab0b5c4b9252aa23f8961d113114f664d33897841"
+      "sha256": "e22c5ce83306d814eb02752196341db7dc16353c62bccd6bc452d74c9d7742c2"
     },
     {
       "path": "sources/transcripts/2025-05-18-diamond-luminosity-live-stream.md",
@@ -34,7 +34,7 @@
       "sha256": "0f0e469b07d90eb25e3d2eee4376892506be4d4bc05bb3623b10f2edc92fb138"
     }
   ],
-  "captured_at": "2025-10-12",
+  "captured_at": "2025-10-13",
   "license": "CC0-1.0",
   "recorded_date": "2025-05-18",
   "tools": [

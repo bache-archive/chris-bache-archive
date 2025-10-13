@@ -19,7 +19,7 @@
     },
     {
       "path": "sources/transcripts/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.html",
-      "sha256": "7c62eb31785b39d1cd5e24b032845cc81990cb3f6eaf773c97dbb40bfb75e614"
+      "sha256": "7bd6056169844533ec89b9dbb687adc1eb253b6d9e76dc4e79d56a1ab6c0b634"
     },
     {
       "path": "sources/transcripts/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.md",
@@ -34,7 +34,7 @@
       "sha256": "7aad241f269a995d6867784a37a1b3d8b6abe0cbe6f1544068a130c55fa1e28c"
     }
   ],
-  "captured_at": "2025-10-12",
+  "captured_at": "2025-10-13",
   "license": "CC0-1.0",
   "recorded_date": "2018-08-30",
   "tools": [
