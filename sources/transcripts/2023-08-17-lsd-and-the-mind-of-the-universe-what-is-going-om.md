@@ -15,7 +15,7 @@ speakers:
 
 - Christopher M. Bache
 
-transcriber: gpt o3 model by OpenAI
+Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
 
 transcription_date: 2025-07-31
 

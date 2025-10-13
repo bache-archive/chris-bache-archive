@@ -8,7 +8,7 @@ recorded: unknown
 published: 2018-10-12
 
 youtube_id: L3D_fSr75u8
-transcriber: gpt o3 model by OpenAI
+Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
 
 transcription_date: 2025-08-01
 

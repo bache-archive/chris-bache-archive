@@ -12,7 +12,7 @@ youtube_id: 04N9-eDIkyg
 
 speakers: \[Chris Bache\]
 
-transcriber: gpt o3 model by OpenAI
+Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
 
 transcription_date: 2025-08-01
 
@@ -74,4 +74,4 @@ So I can imagine many variations of what happens to these fields once we’re no
 
 |------------|-------------------------|------------------------------|
 
-| 2025-08-01 | gpt o3 model by OpenAI | First publication & cleanup |
+| 2025-08-01 | Otter.ai + GPT-5 normalization| First publication & cleanup |

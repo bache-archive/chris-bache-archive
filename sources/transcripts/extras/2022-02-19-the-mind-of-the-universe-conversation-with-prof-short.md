@@ -26,7 +26,7 @@ speakers:
 
 - TERESA
 
-transcriber: gpt o3 model by OpenAI
+Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
 
 transcription_date: 2025-08-01
 
@@ -204,4 +204,4 @@ deeper exploration. Thank you all for staying the course.
 
 |------------|-----------------|--------------------------------------------|
 
-| 2025-08-01 | GPT o3 model | Initial transcript, formatted to house style |
+| 2025-08-01 | Otter.ai + GPT-5 normalization| Initial transcript, formatted to house style |
