@@ -6,6 +6,20 @@ Each entry summarizes what changed, when, and why.
 
 ---
 
+## v2.6-dev — 2025-10-13
+**Book Segmentation Framework: LSD and the Mind of the Universe**
+
+- Added first **book-level work** to the archive:  
+  *LSD and the Mind of the Universe: Diamonds from Heaven* (2019).
+- Introduced canonical section registry (`sources/transcripts/lsdmu/lsdmu.section-registry.json`).
+- Added hardcover pagination alignment (`alignments/lsdmu/innertraditions-2019-hc.json`).
+- Added audiobook alignment (`alignments/lsdmu/audiobook-2019.json`) — 76 total entries, 59 mapped `seg_id`s, 17 auxiliary.
+- Added conversion tool `tools/convert_durations_to_alignment.py` for future audiobook imports.
+- Updated `index.json` and `README.md` to reference new work.
+- No transcript content changes; structural metadata extension only.
+
+---
+
 ## v2.5.2 — 2025-10-13
 **Metadata Consistency (Markdown)**
 

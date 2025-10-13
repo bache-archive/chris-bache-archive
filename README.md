@@ -25,6 +25,7 @@ The goal is to maintain an **open, structured, verifiable, and now publicly disc
 - **Documentation:** Added `POLICIES.md`, `EDITORIAL_NOTES.md`, `CHANGELOG.md`, and `ETHOS.md` for procedural, interpretive, temporal, and ethical transparency.  
 - **Archival mirrors:** Full transcript + metadata snapshots deposited to Zenodo (DOI) and Internet Archive.  
 - **Discoverability:** Each transcript now has an HTML version for web indexing; a valid sitemap and robots.txt make the archive fully crawlable by Google and Bing.  
+- **Books:** Added first book-level work (*LSD and the Mind of the Universe*, 2019) with canonical section registry and dual edition alignments (hardcover + audiobook).
 
 ---
 
@@ -101,6 +102,21 @@ chris-bache-archive/
 - transcript sources (diarist + captions + GPT-5 transcripts)  
 - metadata (`index.json`, `index.md`)  
 - manifests and checksums for fixity verification  
+
+---
+
+## Book-Level Segmentation (new in v2.6-dev)
+
+Beginning with *LSD and the Mind of the Universe* (2019), the archive now supports  
+**book segmentation and edition alignment**, enabling stable, cross-format citations.
+
+- Canonical registry: `sources/transcripts/lsdmu/lsdmu.section-registry.json`  
+- Hardcover pagination alignment: `alignments/lsdmu/innertraditions-2019-hc.json`  
+- Audiobook time alignment: `alignments/lsdmu/audiobook-2019.json`  
+- Conversion tool: `tools/convert_durations_to_alignment.py`  
+
+This framework extends the archive beyond recorded talks,  
+preserving major written works with verifiable structural metadata.
 
 ---
 
