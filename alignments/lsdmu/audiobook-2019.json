@@ -1,0 +1,556 @@
+{
+  "edition_id": "audiobook-2019",
+  "source": "Audiobook edition, 2019 (distributed via Audible and other platforms)",
+  "timecodes": [
+    {
+      "label": "Opening Credits",
+      "seg_id": null,
+      "start": "00:00:00",
+      "end": "00:00:17",
+      "duration": "00:00:17",
+      "auxiliary": true
+    },
+    {
+      "label": "Note to the Reader",
+      "seg_id": null,
+      "start": "00:00:17",
+      "end": "00:00:46",
+      "duration": "00:00:29",
+      "auxiliary": true
+    },
+    {
+      "label": "Dedication",
+      "seg_id": "lsdmu:fm:s02",
+      "start": "00:00:46",
+      "end": "00:01:04",
+      "duration": "00:00:18"
+    },
+    {
+      "label": "Epigraph",
+      "seg_id": "lsdmu:fm:s03",
+      "start": "00:01:04",
+      "end": "00:01:52",
+      "duration": "00:00:48"
+    },
+    {
+      "label": "Acknowledgments",
+      "seg_id": null,
+      "start": "00:01:52",
+      "end": "00:03:48",
+      "duration": "00:01:56",
+      "auxiliary": true
+    },
+    {
+      "label": "Foreword by Ervin Laszlo",
+      "seg_id": null,
+      "start": "00:03:48",
+      "end": "00:10:06",
+      "duration": "00:06:18",
+      "auxiliary": true
+    },
+    {
+      "label": "Introduction: 73 Days",
+      "seg_id": "lsdmu:fm:s05",
+      "start": "00:10:06",
+      "end": "00:27:04",
+      "duration": "00:16:58"
+    },
+    {
+      "label": "Chapter One: The Path of Temporary Immersion",
+      "seg_id": null,
+      "start": "00:27:04",
+      "end": "00:28:59",
+      "duration": "00:01:55",
+      "auxiliary": true
+    },
+    {
+      "label": "The Therapeutic Protocol",
+      "seg_id": "lsdmu:c01:s01",
+      "start": "00:28:59",
+      "end": "00:35:38",
+      "duration": "00:06:39"
+    },
+    {
+      "label": "In a Philosopher’s Hands",
+      "seg_id": "lsdmu:c01:s02",
+      "start": "00:35:38",
+      "end": "00:38:37",
+      "duration": "00:02:59"
+    },
+    {
+      "label": "LSD Sessions as a Path of Spiritual Awakening",
+      "seg_id": "lsdmu:c01:s03",
+      "start": "00:38:37",
+      "end": "00:46:34",
+      "duration": "00:07:57"
+    },
+    {
+      "label": "Low-Dose vs. High-Dose Sessions",
+      "seg_id": "lsdmu:c01:s04",
+      "start": "00:46:34",
+      "end": "00:59:33",
+      "duration": "00:12:59"
+    },
+    {
+      "label": "LSD Sessions as a Journey of Cosmic Exploration",
+      "seg_id": "lsdmu:c01:s05",
+      "start": "00:59:33",
+      "end": "01:08:36",
+      "duration": "00:09:03"
+    },
+    {
+      "label": "Two Phases of a Session",
+      "seg_id": "lsdmu:c01:s06",
+      "start": "01:08:36",
+      "end": "01:12:29",
+      "duration": "00:03:53"
+    },
+    {
+      "label": "The Craft of Remembering",
+      "seg_id": "lsdmu:c01:s07",
+      "start": "01:12:29",
+      "end": "01:20:57",
+      "duration": "00:08:28"
+    },
+    {
+      "label": "Defining the Conversation",
+      "seg_id": "lsdmu:c01:s08",
+      "start": "01:20:57",
+      "end": "01:28:20",
+      "duration": "00:07:23"
+    },
+    {
+      "label": "The Participatory Dynamics of Disclosure",
+      "seg_id": "lsdmu:c01:s09",
+      "start": "01:28:20",
+      "end": "01:32:15",
+      "duration": "00:03:55"
+    },
+    {
+      "label": "Platforms of Experience",
+      "seg_id": "lsdmu:c01:s10",
+      "start": "01:32:15",
+      "end": "01:42:27",
+      "duration": "00:10:12"
+    },
+    {
+      "label": "Calling Down Heaven",
+      "seg_id": "lsdmu:c01:s11",
+      "start": "01:42:27",
+      "end": "01:47:08",
+      "duration": "00:04:41"
+    },
+    {
+      "label": "The Suffering of Death and Rebirth",
+      "seg_id": "lsdmu:c01:s12",
+      "start": "01:47:08",
+      "end": "01:58:09",
+      "duration": "00:11:01"
+    },
+    {
+      "label": "Chapter Two: Crossing the Boundary of Birth and Death",
+      "seg_id": null,
+      "start": "01:58:09",
+      "end": "02:04:14",
+      "duration": "00:06:05",
+      "auxiliary": true
+    },
+    {
+      "label": "The Welcoming",
+      "seg_id": "lsdmu:c02:s01",
+      "start": "02:04:14",
+      "end": "02:14:09",
+      "duration": "00:09:55"
+    },
+    {
+      "label": "The Perinatal Domain",
+      "seg_id": "lsdmu:c02:s02",
+      "start": "02:14:09",
+      "end": "02:27:53",
+      "duration": "00:13:44"
+    },
+    {
+      "label": "Ego-Death",
+      "seg_id": "lsdmu:c02:s03",
+      "start": "02:27:53",
+      "end": "02:42:32",
+      "duration": "00:14:39"
+    },
+    {
+      "label": "Addendum: The Perinatal Level of Consciousness",
+      "seg_id": "lsdmu:c02:s04",
+      "start": "02:42:32",
+      "end": "02:53:29",
+      "duration": "00:10:57"
+    },
+    {
+      "label": "Chapter Three: A Session Day",
+      "seg_id": "lsdmu:c03:s00",
+      "start": "02:53:29",
+      "end": "03:16:16",
+      "duration": "00:22:47"
+    },
+    {
+      "label": "Chapter Four: The Ocean of Suffering",
+      "seg_id": null,
+      "start": "03:16:16",
+      "end": "03:22:14",
+      "duration": "00:05:58",
+      "auxiliary": true
+    },
+    {
+      "label": "The Ocean of Suffering",
+      "seg_id": "lsdmu:c04:s01",
+      "start": "03:22:14",
+      "end": "03:31:55",
+      "duration": "00:09:41"
+    },
+    {
+      "label": "The Riddle of the Ocean of Suffering",
+      "seg_id": "lsdmu:c04:s02",
+      "start": "03:31:55",
+      "end": "03:38:46",
+      "duration": "00:06:51"
+    },
+    {
+      "label": "On the Eve of Stopping",
+      "seg_id": "lsdmu:c04:s03",
+      "start": "03:38:46",
+      "end": "03:44:41",
+      "duration": "00:05:55"
+    },
+    {
+      "label": "Chapter Five: Deep Time and the Soul",
+      "seg_id": null,
+      "start": "03:44:41",
+      "end": "03:52:59",
+      "duration": "00:08:18",
+      "auxiliary": true
+    },
+    {
+      "label": "My Life as a Completed Whole",
+      "seg_id": "lsdmu:c05:s01",
+      "start": "03:52:59",
+      "end": "03:59:28",
+      "duration": "00:06:29"
+    },
+    {
+      "label": "The Great Oak and the Hillside of Karma",
+      "seg_id": "lsdmu:c05:s02",
+      "start": "03:59:28",
+      "end": "04:05:08",
+      "duration": "00:05:40"
+    },
+    {
+      "label": "Rooted in Time",
+      "seg_id": "lsdmu:c05:s03",
+      "start": "04:05:08",
+      "end": "04:09:28",
+      "duration": "00:04:20"
+    },
+    {
+      "label": "Reincarnation and the Soul",
+      "seg_id": "lsdmu:c05:s04",
+      "start": "04:09:28",
+      "end": "04:19:12",
+      "duration": "00:09:44"
+    },
+    {
+      "label": "Stepping-Stones",
+      "seg_id": "lsdmu:c05:s05",
+      "start": "04:19:12",
+      "end": "04:27:08",
+      "duration": "00:07:56"
+    },
+    {
+      "label": "Stopping My Sessions",
+      "seg_id": "lsdmu:c05:s06",
+      "start": "04:27:08",
+      "end": "04:29:41",
+      "duration": "00:02:33"
+    },
+    {
+      "label": "Addendum: Other Instances of Future-Seeing",
+      "seg_id": "lsdmu:c05:s07",
+      "start": "04:29:41",
+      "end": "04:45:36",
+      "duration": "00:15:55"
+    },
+    {
+      "label": "Chapter Six: Initiation into the Universe",
+      "seg_id": null,
+      "start": "04:45:36",
+      "end": "06:12:04",
+      "duration": "01:26:28",
+      "auxiliary": true
+    },
+    {
+      "label": "Expanding the Narrative—Who Is the Patient?",
+      "seg_id": "lsdmu:c06:s01",
+      "start": "06:12:04",
+      "end": "06:29:20",
+      "duration": "00:17:16"
+    },
+    {
+      "label": "Why Did the Suffering End?",
+      "seg_id": "lsdmu:c06:s02",
+      "start": "06:29:20",
+      "end": "06:31:39",
+      "duration": "00:02:19"
+    },
+    {
+      "label": "Chapter Seven: The Greater Real of Archetypal Reality",
+      "seg_id": null,
+      "start": "06:31:39",
+      "end": "06:39:24",
+      "duration": "00:07:45",
+      "auxiliary": true
+    },
+    {
+      "label": "Entering Archetypal Reality",
+      "seg_id": "lsdmu:c07:s01",
+      "start": "06:39:24",
+      "end": "06:47:18",
+      "duration": "00:07:54"
+    },
+    {
+      "label": "The Living Forces of Archetypal Reality",
+      "seg_id": "lsdmu:c07:s02",
+      "start": "06:47:18",
+      "end": "06:53:43",
+      "duration": "00:06:25"
+    },
+    {
+      "label": "The Tissue of Our Collective Being",
+      "seg_id": "lsdmu:c07:s03",
+      "start": "06:53:43",
+      "end": "07:01:10",
+      "duration": "00:07:27"
+    },
+    {
+      "label": "A Note on the “Gods” of the Subtle Level",
+      "seg_id": "lsdmu:c07:s04",
+      "start": "07:01:10",
+      "end": "07:05:08",
+      "duration": "00:03:58"
+    },
+    {
+      "label": "Session 28",
+      "seg_id": "lsdmu:c07:s05",
+      "start": "07:05:08",
+      "end": "07:18:39",
+      "duration": "00:13:31"
+    },
+    {
+      "label": "The Cycle of Purification",
+      "seg_id": "lsdmu:c07:s06",
+      "start": "07:18:39",
+      "end": "07:30:15",
+      "duration": "00:11:36"
+    },
+    {
+      "label": "Reincarnation and Collective Purification",
+      "seg_id": "lsdmu:c07:s07",
+      "start": "07:30:15",
+      "end": "07:39:50",
+      "duration": "00:09:35"
+    },
+    {
+      "label": "A Note on Learning How to Learn in Psychedelic States",
+      "seg_id": "lsdmu:c07:s08",
+      "start": "07:39:50",
+      "end": "07:44:11",
+      "duration": "00:04:21"
+    },
+    {
+      "label": "A Flash of “God”",
+      "seg_id": "lsdmu:c07:s09",
+      "start": "07:44:11",
+      "end": "07:50:15",
+      "duration": "00:06:04"
+    },
+    {
+      "label": "Addendum: Plato, Jung, and Archetypes",
+      "seg_id": null,
+      "start": "07:50:15",
+      "end": "07:55:49",
+      "duration": "00:05:34",
+      "auxiliary": true
+    },
+    {
+      "label": "Chapter Eight: A Benediction of Blessings",
+      "seg_id": null,
+      "start": "07:55:49",
+      "end": "08:54:00",
+      "duration": "00:58:11",
+      "auxiliary": true
+    },
+    {
+      "label": "Reflections",
+      "seg_id": "lsdmu:c08:s01",
+      "start": "08:54:00",
+      "end": "09:38:51",
+      "duration": "00:44:51"
+    },
+    {
+      "label": "Chapter Nine: The Birth of the Future Human",
+      "seg_id": null,
+      "start": "09:38:51",
+      "end": "09:51:11",
+      "duration": "00:12:20",
+      "auxiliary": true
+    },
+    {
+      "label": "The Visions of Awakening",
+      "seg_id": "lsdmu:c09:s01",
+      "start": "09:51:11",
+      "end": "10:14:20",
+      "duration": "00:23:09"
+    },
+    {
+      "label": "The Great Awakening",
+      "seg_id": "lsdmu:c09:s02",
+      "start": "10:14:20",
+      "end": "10:33:36",
+      "duration": "00:19:16"
+    },
+    {
+      "label": "The Nonlinear Dynamics of Awakening",
+      "seg_id": "lsdmu:c09:s03",
+      "start": "10:33:36",
+      "end": "10:44:18",
+      "duration": "00:10:42"
+    },
+    {
+      "label": "What Form Will the Future Human Take?",
+      "seg_id": "lsdmu:c09:s04",
+      "start": "10:44:18",
+      "end": "10:54:56",
+      "duration": "00:10:38"
+    },
+    {
+      "label": "Another Voice: Bede Griffiths",
+      "seg_id": "lsdmu:c09:s05",
+      "start": "10:54:56",
+      "end": "10:59:41",
+      "duration": "00:04:45"
+    },
+    {
+      "label": "Chapter Ten: Diamond Luminosity",
+      "seg_id": null,
+      "start": "10:59:41",
+      "end": "11:28:03",
+      "duration": "00:28:22",
+      "auxiliary": true
+    },
+    {
+      "label": "The Hunger to Return",
+      "seg_id": "lsdmu:c10:s01",
+      "start": "11:28:03",
+      "end": "11:32:15",
+      "duration": "00:04:12"
+    },
+    {
+      "label": "New Insights into the Psychedelic Process",
+      "seg_id": "lsdmu:c10:s02",
+      "start": "11:32:15",
+      "end": "11:59:30",
+      "duration": "00:27:15"
+    },
+    {
+      "label": "Vajrayana Buddhist Practice",
+      "seg_id": "lsdmu:c10:s03",
+      "start": "11:59:30",
+      "end": "12:13:47",
+      "duration": "00:14:17"
+    },
+    {
+      "label": "The Pivot",
+      "seg_id": "lsdmu:c10:s04",
+      "start": "12:13:47",
+      "end": "12:33:42",
+      "duration": "00:19:55"
+    },
+    {
+      "label": "The Transparency of Embodied Presence",
+      "seg_id": "lsdmu:c10:s05",
+      "start": "12:33:42",
+      "end": "12:49:44",
+      "duration": "00:16:02"
+    },
+    {
+      "label": "Chapter Eleven: Final Vision",
+      "seg_id": null,
+      "start": "12:49:44",
+      "end": "13:17:05",
+      "duration": "00:27:21",
+      "auxiliary": true
+    },
+    {
+      "label": "The Good-Bye Sessions",
+      "seg_id": "lsdmu:c11:s01",
+      "start": "13:17:05",
+      "end": "13:41:59",
+      "duration": "00:24:54"
+    },
+    {
+      "label": "Why I Stopped My Sessions",
+      "seg_id": "lsdmu:c11:s02",
+      "start": "13:41:59",
+      "end": "13:48:23",
+      "duration": "00:06:24"
+    },
+    {
+      "label": "Chapter Twelve: Coming off the Mountain",
+      "seg_id": null,
+      "start": "13:48:23",
+      "end": "13:59:23",
+      "duration": "00:11:00",
+      "auxiliary": true
+    },
+    {
+      "label": "The Deep Sadness",
+      "seg_id": "lsdmu:c12:s01",
+      "start": "13:59:23",
+      "end": "14:15:08",
+      "duration": "00:15:45"
+    },
+    {
+      "label": "The Sickness of Silence",
+      "seg_id": "lsdmu:c12:s02",
+      "start": "14:15:08",
+      "end": "14:28:44",
+      "duration": "00:13:36"
+    },
+    {
+      "label": "Entering the Sweet Valley",
+      "seg_id": "lsdmu:c12:s03",
+      "start": "14:28:44",
+      "end": "14:35:21",
+      "duration": "00:06:37"
+    },
+    {
+      "label": "Appendix I: What Dies and Is Reborn?",
+      "seg_id": "lsdmu:apx01:s01",
+      "start": "14:35:21",
+      "end": "14:57:23",
+      "duration": "00:22:02"
+    },
+    {
+      "label": "Appendix II: Pushing the Limits of Astrological Correspondence",
+      "seg_id": "lsdmu:apx02:s01",
+      "start": "14:57:23",
+      "end": "14:59:49",
+      "duration": "00:02:26"
+    },
+    {
+      "label": "End Credits",
+      "seg_id": null,
+      "start": "14:59:49",
+      "end": "15:00:33",
+      "duration": "00:00:44",
+      "auxiliary": true
+    }
+  ],
+  "notes": "Start/end computed from ordered durations supplied by user. Items marked auxiliary=True are audiobook-only (credits, chapter headers, foreword, acknowledgments, addendum, etc.) and do not have canonical print seg_ids."
+}

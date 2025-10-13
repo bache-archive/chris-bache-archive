@@ -1110,5 +1110,26 @@
     "blob_url": "https://github.com/bache-archive/chris-bache-archive/blob/main/sources/transcripts/2025-07-16-consciousness-psychedelics-and-collective-evolution.md",
     "raw_url": "https://raw.githubusercontent.com/bache-archive/chris-bache-archive/main/sources/transcripts/2025-07-16-consciousness-psychedelics-and-collective-evolution.md",
     "published": "2025-07-16"
+  },
+  {
+    "work_id": "lsdmu",
+    "archival_title": "LSD and the Mind of the Universe: Diamonds from Heaven",
+    "author": "Christopher M. Bache",
+    "source_type": "book",
+    "registry_path": "sources/transcripts/lsdmu/lsdmu.section-registry.json",
+    "alignment_paths": [
+      "alignments/lsdmu/innertraditions-2019-hc.json",
+      "alignments/lsdmu/audiobook-2019.json"
+    ],
+    "media": {},
+    "transcript": null,
+    "diarist": null,
+    "youtube_id": null,
+    "youtube_url": null,
+    "web_url": "https://www.innertraditions.com/books/lsd-and-the-mind-of-the-universe",
+    "duration_hms": null,
+    "published": "2019-11-26",
+    "license": "CC0-1.0 (registry + metadata only)",
+    "notes": "Canonical segmentation with verified hardcover pagination and placeholder audiobook alignment; no transcript or captions exist for this work."
   }
 ]
