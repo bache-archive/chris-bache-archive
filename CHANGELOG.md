@@ -6,6 +6,24 @@ Each entry summarizes what changed, when, and why.
 
 ---
 
+## [v2.5] — 2025-10 (In Progress)
+**Web Publication & Indexing Layer**
+
+### Added
+- Generated `.html` renderings for all transcripts using `tools/generate_html.py`.
+- Published GitHub Pages site with valid `sitemap.xml` and `robots.txt`.
+- Submitted sitemap to Google Search Console and Bing Webmaster Tools.
+- Verified HTTP 200 and correct MIME types for `.html` and diarist `.txt` endpoints.
+
+### Documentation
+- Updated `README.md` with “Web Publication & Indexing (new in v2.5)” section.
+- Added “Web Publication Policy” to `POLICIES.md`.
+
+### Known / Planned
+- Correct transcript front-matter `model:` from `gpt-o3` → `gpt-5`.
+
+---
+
 ## [v2.4] — 2025-10-12  
 **Fixity & Provenance Layer — “Trust the Object”**
 

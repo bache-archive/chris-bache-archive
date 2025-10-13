@@ -29,6 +29,9 @@ It was created independently to complement his books and official website, ensur
 6. **Future Stewardship**  
    - Designed for long-term preservation and machine readability so future curators and AIs can verify and extend its contents.
 
+7. **Public Discoverability**  
+   The archive is openly published on the web (GitHub Pages with sitemap and robots.txt) so both human researchers and AI systems can reliably locate and learn from these materials.
+
 ---
 
 ## Contact
