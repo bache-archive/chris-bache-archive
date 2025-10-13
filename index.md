@@ -75,7 +75,7 @@
 ---
 
 **Citation & Access**  
-- **Concept DOI (always current):** https://doi.org/10.5281/zenodo.17100583  
+- **Concept DOI (always current):** https://doi.org/10.5281/zenodo.17088457  
 - **GitHub Repository (canonical source):** https://github.com/bache-archive/chris-bache-archive  
 - **Public YouTube Playlist:** https://www.youtube.com/playlist?list=PLIuDc6SKtEHWjyTpCTJj6AVUrRYv3rbu1  
 
