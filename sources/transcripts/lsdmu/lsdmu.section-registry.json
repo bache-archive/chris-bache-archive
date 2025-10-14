@@ -1,85 +1,422 @@
 [
-  {"seg_id":"lsdmu:fm:s01","chapter":0,"section":1,"title":"Title Page"},
-  {"seg_id":"lsdmu:fm:s02","chapter":0,"section":2,"title":"Dedication"},
-  {"seg_id":"lsdmu:fm:s03","chapter":0,"section":3,"title":"Epigraph"},
-  {"seg_id":"lsdmu:fm:s04","chapter":0,"section":4,"title":"Preface"},
-  {"seg_id":"lsdmu:fm:s05","chapter":0,"section":5,"title":"Introduction: 73 Days"},
-
-  {"seg_id":"lsdmu:c01:s01","chapter":1,"section":1,"title":"The Therapeutic Protocol"},
-  {"seg_id":"lsdmu:c01:s02","chapter":1,"section":2,"title":"In a Philosopher’s Hands"},
-  {"seg_id":"lsdmu:c01:s03","chapter":1,"section":3,"title":"LSD Sessions as a Path of Spiritual Awakening"},
-  {"seg_id":"lsdmu:c01:s04","chapter":1,"section":4,"title":"Low-Dose vs. High-Dose Sessions"},
-  {"seg_id":"lsdmu:c01:s05","chapter":1,"section":5,"title":"LSD Sessions as a Journey of Cosmic Exploration"},
-  {"seg_id":"lsdmu:c01:s06","chapter":1,"section":6,"title":"Two Phases of a Session"},
-  {"seg_id":"lsdmu:c01:s07","chapter":1,"section":7,"title":"The Craft of Remembering"},
-  {"seg_id":"lsdmu:c01:s08","chapter":1,"section":8,"title":"Defining the Conversation"},
-  {"seg_id":"lsdmu:c01:s09","chapter":1,"section":9,"title":"The Participatory Dynamics of Disclosure"},
-  {"seg_id":"lsdmu:c01:s10","chapter":1,"section":10,"title":"Platforms of Experience"},
-  {"seg_id":"lsdmu:c01:s11","chapter":1,"section":11,"title":"Calling Down Heaven"},
-  {"seg_id":"lsdmu:c01:s12","chapter":1,"section":12,"title":"The Suffering of Death and Rebirth"},
-
-  {"seg_id":"lsdmu:c02:s01","chapter":2,"section":1,"title":"The Welcoming"},
-  {"seg_id":"lsdmu:c02:s02","chapter":2,"section":2,"title":"The Perinatal Domain"},
-  {"seg_id":"lsdmu:c02:s03","chapter":2,"section":3,"title":"Ego-Death"},
-  {"seg_id":"lsdmu:c02:s04","chapter":2,"section":4,"title":"Addendum: The Perinatal Level of Consciousness"},
-
-  {"seg_id":"lsdmu:c03:s00","chapter":3,"section":0,"title":"A Session Day (continuous)"},
-
-  {"seg_id":"lsdmu:c04:s01","chapter":4,"section":1,"title":"The Ocean of Suffering"},
-  {"seg_id":"lsdmu:c04:s02","chapter":4,"section":2,"title":"The Riddle of the Ocean of Suffering"},
-  {"seg_id":"lsdmu:c04:s03","chapter":4,"section":3,"title":"On the Eve of Stopping"},
-
-  {"seg_id":"lsdmu:c05:s01","chapter":5,"section":1,"title":"My Life as a Completed Whole"},
-  {"seg_id":"lsdmu:c05:s02","chapter":5,"section":2,"title":"The Great Oak and the Hillside of Karma"},
-  {"seg_id":"lsdmu:c05:s03","chapter":5,"section":3,"title":"Rooted in Time"},
-  {"seg_id":"lsdmu:c05:s04","chapter":5,"section":4,"title":"Reincarnation and the Soul"},
-  {"seg_id":"lsdmu:c05:s05","chapter":5,"section":5,"title":"Stepping-Stones"},
-  {"seg_id":"lsdmu:c05:s06","chapter":5,"section":6,"title":"Stopping My Sessions"},
-  {"seg_id":"lsdmu:c05:s07","chapter":5,"section":7,"title":"Addendum: Other Instances of Future-Seeing"},
-  {"seg_id":"lsdmu:c05:s08","chapter":5,"section":8,"title":"Six-Year Interval"},
-
-  {"seg_id":"lsdmu:c06:s01","chapter":6,"section":1,"title":"Expanding the Narrative — Who Is the Patient?"},
-  {"seg_id":"lsdmu:c06:s02","chapter":6,"section":2,"title":"Why Did the Suffering End?"},
-
-  {"seg_id":"lsdmu:c07:s01","chapter":7,"section":1,"title":"Entering Archetypal Reality"},
-  {"seg_id":"lsdmu:c07:s02","chapter":7,"section":2,"title":"The Living Forces of Archetypal Reality"},
-  {"seg_id":"lsdmu:c07:s03","chapter":7,"section":3,"title":"The Tissue of Our Collective Being"},
-  {"seg_id":"lsdmu:c07:s04","chapter":7,"section":4,"title":"A Note on the “Gods” of the Subtle Level"},
-  {"seg_id":"lsdmu:c07:s05","chapter":7,"section":5,"title":"Session 28"},
-  {"seg_id":"lsdmu:c07:s06","chapter":7,"section":6,"title":"The Cycle of Purification"},
-  {"seg_id":"lsdmu:c07:s07","chapter":7,"section":7,"title":"Reincarnation and Collective Purification"},
-  {"seg_id":"lsdmu:c07:s08","chapter":7,"section":8,"title":"A Note on Learning How to Learn in Psychedelic States"},
-  {"seg_id":"lsdmu:c07:s09","chapter":7,"section":9,"title":"A Flash of “God”"},
-
-  {"seg_id":"lsdmu:c08:s01","chapter":8,"section":1,"title":"Reflections"},
-
-  {"seg_id":"lsdmu:c09:s01","chapter":9,"section":1,"title":"The Visions of Awakening"},
-  {"seg_id":"lsdmu:c09:s02","chapter":9,"section":2,"title":"The Great Awakening"},
-  {"seg_id":"lsdmu:c09:s03","chapter":9,"section":3,"title":"The Nonlinear Dynamics of Awakening"},
-  {"seg_id":"lsdmu:c09:s04","chapter":9,"section":4,"title":"What Form Will the Future Human Take?"},
-  {"seg_id":"lsdmu:c09:s05","chapter":9,"section":5,"title":"Another Voice: Bede Griffiths"},
-
-  {"seg_id":"lsdmu:c10:s01","chapter":10,"section":1,"title":"The Hunger to Return"},
-  {"seg_id":"lsdmu:c10:s02","chapter":10,"section":2,"title":"New Insights into the Psychedelic Process"},
-  {"seg_id":"lsdmu:c10:s03","chapter":10,"section":3,"title":"Vajrayana Buddhist Practice"},
-  {"seg_id":"lsdmu:c10:s04","chapter":10,"section":4,"title":"The Pivot"},
-  {"seg_id":"lsdmu:c10:s05","chapter":10,"section":5,"title":"The Transparency of Embodied Presence"},
-
-  {"seg_id":"lsdmu:c11:s01","chapter":11,"section":1,"title":"The Good-Bye Sessions"},
-  {"seg_id":"lsdmu:c11:s02","chapter":11,"section":2,"title":"Why I Stopped My Sessions"},
-
-  {"seg_id":"lsdmu:c12:s01","chapter":12,"section":1,"title":"The Deep Sadness"},
-  {"seg_id":"lsdmu:c12:s02","chapter":12,"section":2,"title":"The Sickness of Silence"},
-  {"seg_id":"lsdmu:c12:s03","chapter":12,"section":3,"title":"Entering the Sweet Valley"},
-
-  {"seg_id":"lsdmu:apx01:s01","chapter":101,"section":1,"title":"Appendix I: What Dies and Is Reborn?"},
-  {"seg_id":"lsdmu:apx02:s01","chapter":102,"section":1,"title":"Appendix II: Pushing the Limits of Astrological Correspondence"},
-
-  {"seg_id":"lsdmu:bm:s01","chapter":200,"section":1,"title":"Reference List"},
-  {"seg_id":"lsdmu:bm:s02","chapter":200,"section":2,"title":"Footnotes"},
-  {"seg_id":"lsdmu:bm:s03","chapter":200,"section":3,"title":"About the Author"},
-  {"seg_id":"lsdmu:bm:s04","chapter":200,"section":4,"title":"About Inner Traditions • Bear & Company"},
-  {"seg_id":"lsdmu:bm:s05","chapter":200,"section":5,"title":"Books of Related Interest"},
-  {"seg_id":"lsdmu:bm:s06","chapter":200,"section":6,"title":"Copyright & Permissions"},
-  {"seg_id":"lsdmu:bm:s07","chapter":200,"section":7,"title":"Index"}
+  {
+    "seg_id": "lsdmu:fm:s01",
+    "chapter": 0,
+    "section": 1,
+    "title": "Title Page"
+  },
+  {
+    "seg_id": "lsdmu:fm:s02",
+    "chapter": 0,
+    "section": 2,
+    "title": "Dedication"
+  },
+  {
+    "seg_id": "lsdmu:fm:s03",
+    "chapter": 0,
+    "section": 3,
+    "title": "Epigraph"
+  },
+  {
+    "seg_id": "lsdmu:fm:s04",
+    "chapter": 0,
+    "section": 4,
+    "title": "Preface"
+  },
+  {
+    "seg_id": "lsdmu:fm:s05",
+    "chapter": 0,
+    "section": 5,
+    "title": "Introduction: 73 Days"
+  },
+  {
+    "seg_id": "lsdmu:c01:s01",
+    "chapter": 1,
+    "section": 1,
+    "title": "The Therapeutic Protocol"
+  },
+  {
+    "seg_id": "lsdmu:c01:s02",
+    "chapter": 1,
+    "section": 2,
+    "title": "In a Philosopher’s Hands"
+  },
+  {
+    "seg_id": "lsdmu:c01:s03",
+    "chapter": 1,
+    "section": 3,
+    "title": "LSD Sessions as a Path of Spiritual Awakening"
+  },
+  {
+    "seg_id": "lsdmu:c01:s04",
+    "chapter": 1,
+    "section": 4,
+    "title": "Low-Dose vs. High-Dose Sessions"
+  },
+  {
+    "seg_id": "lsdmu:c01:s05",
+    "chapter": 1,
+    "section": 5,
+    "title": "LSD Sessions as a Journey of Cosmic Exploration"
+  },
+  {
+    "seg_id": "lsdmu:c01:s06",
+    "chapter": 1,
+    "section": 6,
+    "title": "Two Phases of a Session"
+  },
+  {
+    "seg_id": "lsdmu:c01:s07",
+    "chapter": 1,
+    "section": 7,
+    "title": "The Craft of Remembering"
+  },
+  {
+    "seg_id": "lsdmu:c01:s08",
+    "chapter": 1,
+    "section": 8,
+    "title": "Defining the Conversation"
+  },
+  {
+    "seg_id": "lsdmu:c01:s09",
+    "chapter": 1,
+    "section": 9,
+    "title": "The Participatory Dynamics of Disclosure"
+  },
+  {
+    "seg_id": "lsdmu:c01:s10",
+    "chapter": 1,
+    "section": 10,
+    "title": "Platforms of Experience"
+  },
+  {
+    "seg_id": "lsdmu:c01:s11",
+    "chapter": 1,
+    "section": 11,
+    "title": "Calling Down Heaven"
+  },
+  {
+    "seg_id": "lsdmu:c01:s12",
+    "chapter": 1,
+    "section": 12,
+    "title": "The Suffering of Death and Rebirth"
+  },
+  {
+    "seg_id": "lsdmu:c02:s01",
+    "chapter": 2,
+    "section": 1,
+    "title": "The Welcoming"
+  },
+  {
+    "seg_id": "lsdmu:c02:s02",
+    "chapter": 2,
+    "section": 2,
+    "title": "The Perinatal Domain"
+  },
+  {
+    "seg_id": "lsdmu:c02:s03",
+    "chapter": 2,
+    "section": 3,
+    "title": "Ego-Death"
+  },
+  {
+    "seg_id": "lsdmu:c02:s04",
+    "chapter": 2,
+    "section": 4,
+    "title": "Addendum: The Perinatal Level of Consciousness"
+  },
+  {
+    "seg_id": "lsdmu:c03:s00",
+    "chapter": 3,
+    "section": 0,
+    "title": "A Session Day (continuous)"
+  },
+  {
+    "seg_id": "lsdmu:c04:s01",
+    "chapter": 4,
+    "section": 1,
+    "title": "The Ocean of Suffering"
+  },
+  {
+    "seg_id": "lsdmu:c04:s02",
+    "chapter": 4,
+    "section": 2,
+    "title": "The Riddle of the Ocean of Suffering"
+  },
+  {
+    "seg_id": "lsdmu:c04:s03",
+    "chapter": 4,
+    "section": 3,
+    "title": "On the Eve of Stopping"
+  },
+  {
+    "seg_id": "lsdmu:c05:s01",
+    "chapter": 5,
+    "section": 1,
+    "title": "My Life as a Completed Whole"
+  },
+  {
+    "seg_id": "lsdmu:c05:s02",
+    "chapter": 5,
+    "section": 2,
+    "title": "The Great Oak and the Hillside of Karma"
+  },
+  {
+    "seg_id": "lsdmu:c05:s03",
+    "chapter": 5,
+    "section": 3,
+    "title": "Rooted in Time"
+  },
+  {
+    "seg_id": "lsdmu:c05:s04",
+    "chapter": 5,
+    "section": 4,
+    "title": "Reincarnation and the Soul"
+  },
+  {
+    "seg_id": "lsdmu:c05:s05",
+    "chapter": 5,
+    "section": 5,
+    "title": "Stepping Stones"
+  },
+  {
+    "seg_id": "lsdmu:c05:s06",
+    "chapter": 5,
+    "section": 6,
+    "title": "Stopping My Sessions"
+  },
+  {
+    "seg_id": "lsdmu:c05:s07",
+    "chapter": 5,
+    "section": 7,
+    "title": "Addendum: Other Instances of Future-Seeing"
+  },
+  {
+    "seg_id": "lsdmu:c05:s08",
+    "chapter": 5,
+    "section": 8,
+    "title": "Six-Year Interval"
+  },
+  {
+    "seg_id": "lsdmu:c06:s01",
+    "chapter": 6,
+    "section": 1,
+    "title": "Expanding the Narrative — Who Is the Patient?"
+  },
+  {
+    "seg_id": "lsdmu:c06:s02",
+    "chapter": 6,
+    "section": 2,
+    "title": "Why Did the Suffering End?"
+  },
+  {
+    "seg_id": "lsdmu:c07:s01",
+    "chapter": 7,
+    "section": 1,
+    "title": "Entering Archetypal Reality"
+  },
+  {
+    "seg_id": "lsdmu:c07:s02",
+    "chapter": 7,
+    "section": 2,
+    "title": "The Living Forces of Archetypal Reality"
+  },
+  {
+    "seg_id": "lsdmu:c07:s03",
+    "chapter": 7,
+    "section": 3,
+    "title": "The Tissue of Our Collective Being"
+  },
+  {
+    "seg_id": "lsdmu:c07:s04",
+    "chapter": 7,
+    "section": 4,
+    "title": "A Note on the “Gods” of the Subtle Level"
+  },
+  {
+    "seg_id": "lsdmu:c07:s05",
+    "chapter": 7,
+    "section": 5,
+    "title": "Session 28"
+  },
+  {
+    "seg_id": "lsdmu:c07:s06",
+    "chapter": 7,
+    "section": 6,
+    "title": "The Cycle of Purification"
+  },
+  {
+    "seg_id": "lsdmu:c07:s07",
+    "chapter": 7,
+    "section": 7,
+    "title": "Reincarnation and Collective Purification"
+  },
+  {
+    "seg_id": "lsdmu:c07:s08",
+    "chapter": 7,
+    "section": 8,
+    "title": "A Note on Learning How to Learn in Psychedelic States"
+  },
+  {
+    "seg_id": "lsdmu:c07:s09",
+    "chapter": 7,
+    "section": 9,
+    "title": "A Flash of “God”"
+  },
+  {
+    "seg_id": "lsdmu:c07:s10",
+    "chapter": 7,
+    "section": 10,
+    "title": "Addendum: Plato, Jung, and Archetypes"
+  },
+  {
+    "seg_id": "lsdmu:c08:s01",
+    "chapter": 8,
+    "section": 1,
+    "title": "Reflections"
+  },
+  {
+    "seg_id": "lsdmu:c09:s01",
+    "chapter": 9,
+    "section": 1,
+    "title": "The Visions of Awakening"
+  },
+  {
+    "seg_id": "lsdmu:c09:s02",
+    "chapter": 9,
+    "section": 2,
+    "title": "The Great Awakening"
+  },
+  {
+    "seg_id": "lsdmu:c09:s03",
+    "chapter": 9,
+    "section": 3,
+    "title": "The Nonlinear Dynamics of Awakening"
+  },
+  {
+    "seg_id": "lsdmu:c09:s04",
+    "chapter": 9,
+    "section": 4,
+    "title": "What Form Will the Future Human Take?"
+  },
+  {
+    "seg_id": "lsdmu:c09:s05",
+    "chapter": 9,
+    "section": 5,
+    "title": "Another Voice: Bede Griffiths"
+  },
+  {
+    "seg_id": "lsdmu:c10:s01",
+    "chapter": 10,
+    "section": 1,
+    "title": "The Hunger to Return"
+  },
+  {
+    "seg_id": "lsdmu:c10:s02",
+    "chapter": 10,
+    "section": 2,
+    "title": "New Insights into the Psychedelic Process"
+  },
+  {
+    "seg_id": "lsdmu:c10:s03",
+    "chapter": 10,
+    "section": 3,
+    "title": "Vajrayana Buddhist Practice"
+  },
+  {
+    "seg_id": "lsdmu:c10:s04",
+    "chapter": 10,
+    "section": 4,
+    "title": "The Pivot"
+  },
+  {
+    "seg_id": "lsdmu:c10:s05",
+    "chapter": 10,
+    "section": 5,
+    "title": "The Transparency of Embodied Presence"
+  },
+  {
+    "seg_id": "lsdmu:c11:s01",
+    "chapter": 11,
+    "section": 1,
+    "title": "The Good-Bye Sessions"
+  },
+  {
+    "seg_id": "lsdmu:c11:s02",
+    "chapter": 11,
+    "section": 2,
+    "title": "Why I Stopped My Sessions"
+  },
+  {
+    "seg_id": "lsdmu:c12:s01",
+    "chapter": 12,
+    "section": 1,
+    "title": "The Deep Sadness"
+  },
+  {
+    "seg_id": "lsdmu:c12:s02",
+    "chapter": 12,
+    "section": 2,
+    "title": "The Sickness of Silence"
+  },
+  {
+    "seg_id": "lsdmu:c12:s03",
+    "chapter": 12,
+    "section": 3,
+    "title": "Entering the Sweet Valley"
+  },
+  {
+    "seg_id": "lsdmu:apx01:s01",
+    "chapter": 101,
+    "section": 1,
+    "title": "Appendix I: What Dies and Is Reborn?"
+  },
+  {
+    "seg_id": "lsdmu:apx02:s01",
+    "chapter": 102,
+    "section": 1,
+    "title": "Appendix II: Pushing the Limits of Astrological Correspondence"
+  },
+  {
+    "seg_id": "lsdmu:bm:s01",
+    "chapter": 200,
+    "section": 1,
+    "title": "Reference List"
+  },
+  {
+    "seg_id": "lsdmu:bm:s02",
+    "chapter": 200,
+    "section": 2,
+    "title": "Footnotes"
+  },
+  {
+    "seg_id": "lsdmu:bm:s03",
+    "chapter": 200,
+    "section": 3,
+    "title": "About the Author"
+  },
+  {
+    "seg_id": "lsdmu:bm:s04",
+    "chapter": 200,
+    "section": 4,
+    "title": "About Inner Traditions • Bear & Company"
+  },
+  {
+    "seg_id": "lsdmu:bm:s05",
+    "chapter": 200,
+    "section": 5,
+    "title": "Books of Related Interest"
+  },
+  {
+    "seg_id": "lsdmu:bm:s06",
+    "chapter": 200,
+    "section": 6,
+    "title": "Copyright & Permissions"
+  },
+  {
+    "seg_id": "lsdmu:bm:s07",
+    "chapter": 200,
+    "section": 7,
+    "title": "Index"
+  }
 ]

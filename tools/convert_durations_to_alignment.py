@@ -206,8 +206,8 @@ LABEL_TO_SEGID = {
     "Reincarnation and Collective Purification": "lsdmu:c07:s07",
     "A Note on Learning How to Learn in Psychedelic States": "lsdmu:c07:s08",
     "A Flash of “God”": "lsdmu:c07:s09",
-    # Audiobook-only: "Addendum: Plato, Jung, and Archetypes" (not in print registry)
-
+    "Addendum: Plato, Jung, and Archetypes": "lsdmu:c07:s10",
+    
     # Chapter 8
     "Reflections": "lsdmu:c08:s01",
 

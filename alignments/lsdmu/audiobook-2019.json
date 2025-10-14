@@ -371,11 +371,10 @@
     },
     {
       "label": "Addendum: Plato, Jung, and Archetypes",
-      "seg_id": null,
+      "seg_id": "lsdmu:c07:s10",
       "start": "07:50:15",
       "end": "07:55:49",
-      "duration": "00:05:34",
-      "auxiliary": true
+      "duration": "00:05:34"
     },
     {
       "label": "Chapter Eight: A Benediction of Blessings",
