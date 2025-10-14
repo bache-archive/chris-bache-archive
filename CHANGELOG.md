@@ -6,6 +6,28 @@ Each entry summarizes what changed, when, and why.
 
 ---
 
+## v3.0-alpha — 2025-10-14
+**RAG Pipeline Foundation · Chunking · Embeddings · Retrieval**
+
+This milestone marks the beginning of the **Bache Talks RAG (Retrieval-Augmented Generation)** system — transforming the archive from a static corpus into an interactive, searchable knowledge base.
+
+**New components**
+- **Chunking:** Added `tools/chunk_transcripts.py` to segment 63 verified transcripts into ~2,800 text chunks (1,200-char target, 100-char overlap).
+- **Embeddings:** Added `tools/embed_and_faiss.py` to compute `text-embedding-3-large` vectors and build both **Parquet** and **FAISS** indexes.
+- **Retrieval:** Added `rag/retrieve.py` (semantic search) and `rag/answer.py` (citation-grounded synthesis).
+- **CLI Demo:** Added `demo/cli.py` for terminal-based query testing and verification.
+- **Artifacts:** Created `CONFIG.md` (RAG params) and `.gitignore` entries for build outputs (`build/`, `vectors/`, `reports/`, `.env`).
+
+**Verification**
+- 2,817 chunks embedded successfully → 3,072-dim vectors indexed in FAISS.
+- Queries for *“Diamond Luminosity”*, *“Future Human”*, and *“death and rebirth”* return precise, multi-talk results with correct citations.
+
+**Significance**
+- Establishes **v3.x** line as “functional archive” — preserving provenance **and** enabling live semantic access.
+- Lays groundwork for forthcoming web demo (`app.py`) and scholarly RAG interface.
+
+---
+
 ## v2.6-dev — 2025-10-13
 **Book Segmentation Framework: LSD and the Mind of the Universe**
 
