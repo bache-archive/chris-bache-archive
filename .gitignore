@@ -48,3 +48,8 @@ index*.bak.json
 # OAuth secrets (keep local only)
 tools/client_secret.json
 tools/token.json
+# RAG build artifacts
+build/
+vectors/
+reports/
+.env
