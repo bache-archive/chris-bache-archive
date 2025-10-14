@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://bache-archive.github.io/chris-bache-archive/sitemap.xml
+Sitemap: https://bache-archive.github.io/chris-bache-archive/sitemap-test.xml
+Sitemap: https://bache-archive.github.io/chris-bache-archive/sitemap-index.xml
