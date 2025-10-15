@@ -6,6 +6,47 @@ Each entry summarizes what changed, when, and why.
 
 ---
 
+## v3.0-alpha.1 — 2025-10-14  
+**Live RAG Deployment · API Integration · Evaluation**
+
+This release advances the Bache Talks RAG from a local proof-of-concept to a **live, citation-grounded semantic service** hosted on Render, complete with Custom GPT integration and verified evaluation.
+
+**New components**
+- **API Backend:**  
+  Added standalone repo [`bache-rag-api`](https://github.com/bache-archive/bache-rag-api) implementing a FastAPI service with `/search`, `/answer`, `/openapi.json`, `/_debug`, and `/_rag_status` endpoints.
+- **Hosting:**  
+  Deployed successfully on Render (free tier) — confirmed 2,817 vectors × 3,072 dimensions loaded, metadata verified, OpenAI key active.
+- **Custom GPT Integration:**  
+  Created *Bache Talks Librarian* using the live OpenAPI schema; fully functional and limited to RAG-only retrieval.
+- **Documentation:**  
+  Added `README_RAG.md`, `CONFIG.md`, and updated `CHANGELOG.md` to reflect live deployment.  
+  Evaluation log committed at `reports/2025-10-15_gpt-eval_bache-talks.md`.
+
+**Verification**
+- `/search` and `/answer` endpoints respond under 1.5 s with correct multi-talk citations.  
+- Evaluation score: ★★★★☆ (4.5 / 5) — verified cross-year synthesis and factual grounding.  
+- Confirmed configuration:  
+
+EMBED_MODEL=text-embedding-3-large
+EMBED_DIM=3072
+MAX_PER_TALK=2
+FAISS_INDEX_PATH=vectors/bache-talks.index.faiss
+METADATA_PATH=vectors/bache-talks.embeddings.parquet
+
+- Retrieval capped at ≤2 chunks per talk for citation diversity.
+
+**Significance**
+- Establishes the first **live, verifiable semantic interface** for the Bache Talks corpus.  
+- Completes transition from static archive → dynamic knowledge system.  
+- Forms the operational base for v3.x longitudinal evaluation and stylistic refinement.
+
+**Next**
+- Implement citation-range compression (e.g., “chunks 12–15”).  
+- Add stylistic polish pass and evaluation automation.
+- Prepare v3.1 release with improved synthesis formatting and dashboard metrics.
+
+---
+
 ## v3.0-alpha — 2025-10-14
 **RAG Pipeline Foundation · Chunking · Embeddings · Retrieval**
 
