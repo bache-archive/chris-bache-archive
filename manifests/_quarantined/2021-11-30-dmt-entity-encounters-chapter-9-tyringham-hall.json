@@ -1,27 +1,6 @@
 {
   "id": "2021-11-30-dmt-entity-encounters-chapter-9-tyringham-hall",
-  "files": [
-    {
-      "path": "downloads/audio/2021-11-30-dmt-entity-encounters-chapter-9-tyringham-hall.mp3",
-      "sha256": "02a8910b12e2a89b3c58729d9284480189394d42692d9a31fa3d1339bedaefb7"
-    },
-    {
-      "path": "downloads/audio/working/2021-11-30-dmt-entity-encounters-chapter-9-tyringham-hall.aup3",
-      "sha256": "2bc34c8b757f89448f2f8e28045efe1483c4fdc3bc7ea57a0f8b00daec136254"
-    },
-    {
-      "path": "sources/diarist/2021-11-30-dmt-entity-encounters-chapter-9-tyringham-hall.txt",
-      "sha256": "4065530b27eb4b848e0507aa8648c273496d6b09ec6e6978c524d0ade7f48e69"
-    },
-    {
-      "path": "sources/transcripts/2021-11-30-dmt-entity-encounters-chapter-9-tyringham-hall.html",
-      "sha256": "e8e4c881a4446f5eafd3806c6481ad94a4475f1d1771a84b3e97a2b6b28ae9da"
-    },
-    {
-      "path": "sources/transcripts/2021-11-30-dmt-entity-encounters-chapter-9-tyringham-hall.md",
-      "sha256": "ab2b87113048ef51504b639f89a85690d59ba850f828667cfa504480b32f0ebb"
-    }
-  ],
+  "files": [],
   "captured_at": "2025-10-13",
   "license": "CC0-1.0",
   "recorded_date": "2021-11-30",
@@ -30,5 +9,8 @@
     "ffmpeg 6.1",
     "otter_ai 2025-09 pipeline",
     "llm_cleanup GPT-5 (2025-09)"
-  ]
+  ],
+  "note": "Content removed 2025-10-15; metadata retained. Audio stored locally outside repo.",
+  "action": "content_removed",
+  "paths": []
 }

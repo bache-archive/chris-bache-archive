@@ -15,7 +15,7 @@ Key features
 Usage examples
 --------------
 # Rebuild one transcript
-python tools/rebuild_transcripts_v2.py --root . --only 2021-11-30-dmt-entity-encounters-chapter-9-tyringham-hall --normalize-labels --sync-speakers-yaml --verbose
+python tools/rebuild_transcripts_v2.py --root . --only <slug> --normalize-labels --sync-speakers-yaml --verbose
 
 # Rebuild all listed in index.json
 python tools/rebuild_transcripts_v2.py --root . --normalize-labels --sync-speakers-yaml --verbose
