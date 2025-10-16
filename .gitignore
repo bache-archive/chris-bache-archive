@@ -53,3 +53,6 @@ build/
 vectors/
 reports/
 private_backups/
+
+__pycache__/
+*.pyc
