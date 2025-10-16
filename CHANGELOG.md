@@ -6,6 +6,42 @@ Each entry summarizes what changed, when, and why.
 
 ---
 
+## v3.1 — 2025-10-15
+**Citation & URL Enrichment**
+
+This release enhances the **Bache Talks RAG** system with human-readable citations and canonical URLs, improving both interpretability and scholarly referencing.
+
+**Changes**
+- Added `rag/citation_labels.json` (maps transcript paths → readable “Bache · date · venue · title” strings).  
+- Extended `tools/embed_and_faiss.py` to:
+  - Load citation labels and enrich all chunk metadata.  
+  - Backfill canonical URLs from `index.json` (`web_url`, `youtube_url`, `media.*`).  
+  - Embed enriched rows and rebuild FAISS index with stable numeric IDs.  
+  - Emit extended QC report (`reports/embedding_qc.json`) showing sample enriched rows.
+- Updated retriever and answer pipelines to display these human-readable citations in results.
+
+**Verification**
+- 2,561 chunks re-embedded → 3,072-dim vectors.
+- Parquet and FAISS counts matched (`len(df) == idx.ntotal`).
+- Retriever functional: citation strings and URLs returned as expected.
+
+**Significance**
+- Greatly improves user-facing output of both `/search` and `/answer` endpoints.  
+- Establishes a consistent metadata bridge between the RAG layer and the archive index for future timecode mapping and web integration.
+
+---
+
+## v3.0.1 — 2025-10-15
+**Maintenance · Provenance Alignment · Clean Public Tree**
+
+- Pruned one legacy item from public sources (transcript, diarist, HTML) and rebuilt site assets (`sitemap.xml` + HTML).
+- Quarantined the related manifest for internal provenance (`manifests/_quarantined/...json`).
+- Regenerated sitemaps; verified no public references remain.
+- Updated `checksums/FIXITY_LOG.md` with a v3.0.1 baseline entry.
+- No new features; routine archival housekeeping and metadata alignment.
+
+---
+
 ## v3.0-alpha.1 — 2025-10-14  
 **Live RAG Deployment · API Integration · Evaluation**
 

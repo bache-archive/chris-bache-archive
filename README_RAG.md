@@ -1,6 +1,6 @@
 # 📚 Bache Talks — Retrieval-Augmented Generation (RAG) System
 
-**Version:** v3.0-alpha · **Date:** 2025-10-15  
+**Version:** v3.1 · **Date:** 2025-10-15  
 **Status:** ✅ Live on Render — [https://bache-rag-api.onrender.com](https://bache-rag-api.onrender.com)
 
 ---
@@ -18,24 +18,28 @@ All source material is CC0-licensed and excludes copyrighted book text.
 
 | Layer | Description |
 |-------|--------------|
-| **Corpus** | 63 verified Markdown transcripts (≈ 1 M characters) stored under `sources/transcripts/`. |
+| **Corpus** | 63 verified Markdown transcripts (~1 M characters) stored under `sources/transcripts/`. |
 | **Chunking** | ~2 800 overlapping paragraph-level chunks (1 000–1 500 chars, 80–120 char overlap). |
 | **Embeddings** | `text-embedding-3-large` → 3 072-dim vectors (cosine-normalized). |
-| **Indexing** | FAISS `IndexFlatIP` + Parquet metadata (talk_id, title, date, chunk_index, sha256). |
+| **Indexing** | FAISS `IndexFlatIP` + Parquet metadata (talk ID, title, date, chunk index, sha256). |
 | **Retrieval** | Top-k = 8 (≤ 2 per talk), filtered by similarity and source diversity. |
 | **Synthesis** | Deterministic multi-talk compositor producing 2–6 sentence citation-grounded answers. |
-| **Serving** | FastAPI backend (`bache-rag-api/`) exposing `/search`, `/answer`, `/openapi.json`, `/_debug`, and `/_rag_status`. |
+| **Metadata v3.1** | Each chunk now includes a human-readable `citation` and canonical `url` (backfilled from `index.json`). |
+| **Serving** | FastAPI backend (`bache-rag-api/`) exposing `/search`, `/answer`, `/_debug`, and `/_rag_status`. |
 
 ---
 
 ## ⚙️ Reproducibility Pipeline
 
 1. **ETL + Chunking**  
-   `tools/build_index.ipynb` or `01_build_index.ipynb`  
-   → splits transcripts → `vectors/chunks.parquet`
+   `tools/chunk_transcripts.py`  
+   → splits transcripts → `vectors/chunks.jsonl`
 
-2. **Embedding**  
-   Calls OpenAI `text-embedding-3-large`  
+2. **Embedding (v3.1)**  
+   `tools/embed_and_faiss.py`  
+   - Calls OpenAI `text-embedding-3-large`  
+   - Attaches human-readable citations (from `rag/citation_labels.json`)  
+   - Backfills canonical URLs (from `index.json`)  
    → writes `vectors/bache-talks.embeddings.parquet`
 
 3. **FAISS Index**  
@@ -58,7 +62,7 @@ All source material is CC0-licensed and excludes copyrighted book text.
 
 | Endpoint | Method | Function |
 |-----------|---------|-----------|
-| `/search` | POST | Semantic nearest-neighbor search. |
+| `/search` | POST | Semantic nearest-neighbor search (with citation & URL metadata). |
 | `/answer` | POST | Citation-grounded synthesis from retrieved chunks. |
 | `/_rag_status` | GET | Confirms FAISS + metadata + OpenAI key load status. |
 
@@ -79,27 +83,28 @@ Schema URL: https://bache-rag-api.onrender.com/openapi.json
 Auth: Authorization: Bearer <API_KEY>
 
 GPT logic:
-    1.    Call /search (top_k = 8).
-    2.    Compose a 2–6 sentence answer using only retrieved context.
-    3.    Include citations in the format (YYYY-MM-DD, Title, chunk N).
-    4.    If no results, reply that none were found and suggest refinements.
+	1.	Call /search (top_k = 8).
+	2.	Compose a 2–6 sentence answer using only retrieved context.
+	3.	Include citations using the new human-readable form plus URL.
+	4.	If no results, reply that none were found and suggest refinements.
 
 ⸻
 
 🧪 Evaluation
 
 Report: reports/2025-10-15_gpt-eval_bache-talks.md
-Result: ★★★★☆ (4.5 / 5) — Early-production quality
+Result: ★★★★☆ (4.6 / 5) — Improved metadata fidelity
 
 Strengths
-    •    Cross-temporal synthesis from multiple talks
-    •    Consistent, human-readable citations
-    •    Fast response (< 1.5 s)
+	•	Cross-temporal synthesis from multiple talks
+	•	Readable citations + live URLs for source verification
+	•	Fast retrieval (< 1.5 s)
+	•	Consistent chunk-level alignment with archive index
 
 Next steps
-    •    Enforce MAX_PER_TALK = 2
-    •    Compress contiguous chunk ranges in citations
-    •    Add optional stylistic polish pass
+	•	Add optional timecode anchors from caption files
+	•	Integrate multi-format retrieval (book sections, interviews)
+	•	Support hybrid keyword + semantic search
 
 ⸻
 
@@ -107,10 +112,11 @@ Next steps
 
 chris-bache-archive/
 ├─ sources/transcripts/      # 63 verified Markdown transcripts
-├─ vectors/                  # FAISS + Parquet index
+├─ vectors/                  # FAISS + Parquet index (v3.1 enriched)
+├─ rag/                      # Citation labels + retriever modules
 ├─ manifests/, checksums/    # Provenance & fixity layers
 ├─ tools/                    # ETL + build scripts
-├─ reports/                  # Evaluation logs
+├─ reports/                  # Evaluation + QC logs
 ├─ README_RAG.md             # (this file)
 ├─ CONFIG.md                 # Model + parameter config
 └─ CHANGELOG.md              # Version history
@@ -120,24 +126,25 @@ chris-bache-archive/
 
 ✅ Acceptance Criteria
 
-Metric    Target    Status
-Transcript coverage    ≥ 98 %    ✅ Complete
-Factual grounding    ≥ 90 %    ✅ Verified
-Citations per answer    ≥ 2    ✅ Met
-Query latency    < 1.5 s    ✅ Achieved
-FAISS + Metadata + Key    All True    ✅ Confirmed
-Evaluation Score    ≥ 4 / 5    ✅ 4.5 / 5
+Metric	Target	Status
+Transcript coverage	≥ 98 %	✅ Complete
+Factual grounding	≥ 90 %	✅ Verified
+Readable citations + URLs	100 %	✅ Enriched
+Query latency	< 1.5 s	✅ Achieved
+FAISS + Metadata + Key	All True	✅ Confirmed
+Evaluation Score	≥ 4 / 5	✅ 4.6 / 5
 
 
 ⸻
 
 📜 Licensing & Citation
-    •    Corpus: CC0 1.0 Universal (Public Domain Dedication)
-    •    Code: MIT License © 2025 Bache Archive
+	•	Corpus: CC0 1.0 Universal (Public Domain Dedication)
+	•	Code: MIT License © 2025 Bache Archive
 
 Citation format:
 
-Christopher M. Bache — Public Talks (2014 – 2025), date + chunk number.
+Christopher M. Bache — Public Talks (2014 – 2025), Bache · YYYY-MM-DD · Venue · Title, chunk N.
+[YouTube URL]
 
 ⸻
 
@@ -146,4 +153,4 @@ Christopher M. Bache — Public Talks (2014 – 2025), date + chunk number.
 Preserve the living voice of Christopher M. Bache’s public teachings through a clean, verifiable semantic interface for researchers, seekers, and future AIs.
 Together, the CC0 data repo (chris-bache-archive/) and the MIT-licensed backend (bache-rag-api/) form a trustworthy bridge between historical archive and living dialogue.
 
-“A luminous record of the awakening of the species—faithfully preserved for the Future Human.”
+“A luminous record of the awakening of the species — faithfully preserved for the Future Human.”
