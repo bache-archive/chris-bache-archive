@@ -8,7 +8,7 @@
 ## 🧭 Purpose
 
 This system transforms the *Chris Bache Public Talks Archive (2014 – 2025)* into a **verifiable, citable semantic knowledge base**.  
-It implements a full **Retrieval-Augmented Generation (RAG)** pipeline that converts 63 public talks into searchable paragraph-level vectors, enabling precise citation-grounded answers through a public API and the **Bache Talks Librarian** Custom GPT.
+It implements a full **Retrieval-Augmented Generation (RAG)** pipeline that converts 62 public talks into searchable paragraph-level vectors, enabling precise citation-grounded answers through a public API and the **Bache Talks Librarian** Custom GPT.
 
 All source material is CC0-licensed and excludes copyrighted book text.
 

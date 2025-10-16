@@ -16,7 +16,7 @@ The goal is to maintain an **open, structured, verifiable, and publicly discover
 
 ## Current Status (v3.1 — October 2025)
 
-- **Transcripts:** 63 machine-normalized GPT-5 transcripts in `sources/transcripts/`.  
+- **Transcripts:** 62 machine-normalized GPT-5 transcripts in `sources/transcripts/`.  
 - **Captions:** 61 matching raw caption files in `sources/captions/`.  
 - **Diarist:** Otter.ai `.txt` files in `sources/diarist/`.  
 - **Index:** `index.json` maps all entries with metadata; `index.md` provides a human-readable table.  
