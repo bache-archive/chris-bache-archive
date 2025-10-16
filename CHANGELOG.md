@@ -6,6 +6,20 @@ Each entry summarizes what changed, when, and why.
 
 ---
 
+## v3.1.4 — 2025-10-17
+**Automated Session Registry**
+
+Introduces a machine-readable + human-readable session framework for *LSD and the Mind of the Universe*.
+
+- Added `tools/generate_sessions_html.py` → builds `SESSIONS.html` from JSON registries.
+- Added rendered `sources/transcripts/lsdmu/SESSIONS.html`.
+- Rebuilt `sitemap.xml` for inclusion.
+- Validated cross-chapter (9) session references.
+
+Ensures each of the 73 LSD sessions is represented as a structured, permanent object within the archive.
+
+---
+
 ## v3.1.2 — 2025-10-16  
 **Book Segmentation Framework**
 
