@@ -1,33 +1,86 @@
 #!/usr/bin/env python3
 from typing import List, Dict
 
-def _cite(row: Dict) -> str:
-    # chunk number is 1-based in your JSON
-    title = row.get("archival_title", "").strip()
-    date  = row.get("published", "").strip()
-    idx   = row.get("chunk_index", 0)
-    return f"[({date}, {title}, chunk {idx})]"
+# -------- helpers --------
 
-def answer_from_chunks(query: str, hits: List[Dict], max_sentences: int = 6) -> str:
+def _trim(s: str, limit: int = 500) -> str:
+    s = (s or "").strip().replace("\n", " ")
+    if len(s) <= limit:
+        return s
+    cut = s[:limit]
+    # try to cut on a word boundary
+    if " " in cut:
+        cut = cut.rsplit(" ", 1)[0]
+    return cut.rstrip(" ,;—") + "…"
+
+def _inline_cite(row: Dict) -> str:
+    """
+    Prefer human-readable 'citation' from embeddings metadata.
+    Fallback to (date, title) if needed. Always show chunk index.
+    """
+    label = (row.get("citation") or "").strip()
+    if not label:
+        title = (row.get("archival_title") or "").strip()
+        date  = (row.get("published") or row.get("recorded_date") or "").strip()
+        label = f"{date}, {title}".strip(", ")
+    idx = int(row.get("chunk_index", 0))
+    return f"({label}, chunk {idx})"
+
+def format_sources(hits: List[Dict], max_sources: int = 6) -> str:
+    """
+    Render a readable 'Sources' block with human-friendly labels and URLs.
+    De-duplicates by (talk_id, chunk_index) while preserving order.
+    """
+    seen = set()
+    lines = []
+    for h in hits:
+        key = (h.get("talk_id"), int(h.get("chunk_index", 0)))
+        if key in seen:
+            continue
+        seen.add(key)
+
+        label = (h.get("citation") or "").strip()
+        if not label:
+            title = (h.get("archival_title") or "").strip()
+            date  = (h.get("published") or h.get("recorded_date") or "").strip()
+            label = f"{date}, {title}".strip(", ")
+
+        idx = int(h.get("chunk_index", 0))
+        url = (h.get("url") or "").strip()
+
+        line = f"— {label} · chunk {idx}"
+        if url:
+            line += f" · {url}"
+        lines.append(line)
+
+        if len(lines) >= max_sources:
+            break
+
+    return "\n".join(lines)
+
+# -------- main composer --------
+
+def answer_from_chunks(query: str, hits: List[Dict], max_snippets: int = 3) -> str:
     """
     Ultra-simple extractive composer:
-      - picks 2–3 strongest chunks
-      - returns a concise synthesis + inline citations
+      - picks up to `max_snippets` strongest chunks
+      - returns a concise synthesis with an appended Sources block
+      - uses human-readable citation labels
     """
     if not hits:
         return "I don’t have sufficient context to answer. Try adding a date, venue, or specific term."
 
-    # Take top 2–3 chunks
-    top = hits[:3]
+    # Take top N chunks as supporting snippets
+    top = hits[:max_snippets]
     snippets = []
     for h in top:
-        txt = (h["text"].strip().replace("\n", " "))
-        # keep each snippet reasonably short
-        if len(txt) > 500: 
-            txt = txt[:500].rsplit(" ", 1)[0] + "…"
-        snippets.append(f"{txt} { _cite(h) }")
+        txt = _trim(h.get("text", ""), limit=500)
+        snippets.append(f"{txt} {_inline_cite(h)}")
 
-    # Compose: one or two sentences of synthesis + snippets
     synthesis = "Based on the archived talks, here are the most relevant passages:"
     body = " ".join(snippets)
-    return f"{synthesis} {body}"
+
+    # Sources block
+    sources_block = format_sources(hits)
+
+    return f"{synthesis} {body}\n\nSources:\n{sources_block}"
