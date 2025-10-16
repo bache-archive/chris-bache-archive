@@ -6,6 +6,47 @@ Each entry summarizes what changed, when, and why.
 
 ---
 
+## v3.1.2 — 2025-10-16  
+**Book Segmentation Framework**
+
+This update adds the full structural registry for *LSD and the Mind of the Universe* (2019), launching the archive’s **Book Segmentation Layer**.
+
+**Changes**
+- Added `sources/transcripts/lsdmu/TOC.md` and `toc.json` — human- and machine-readable tables of contents.  
+- Updated `lsdmu.section-registry.json` — verified all chapters and sections.  
+- Regenerated HTML and rebuilt `sitemap.xml` (133 URLs).  
+- Verified sitemap accessibility (`HTTP 200` for Googlebot & Bingbot).  
+
+**Significance**
+- Establishes a permanent book-level scaffold for future paragraph segmentation and edition alignment.  
+- Confirms full crawler visibility and citation stability for v3.1.2.
+
+---
+
+## v3.1.1 — 2025-10-17  
+**Roadmap Addition**
+
+This maintenance release introduces a clear, future-oriented roadmap to guide the continued growth and stewardship of the **Chris Bache Archive**.
+
+**Changes**
+- Added `ROADMAP.md` — defines post-v3.1 development priorities, ranked by impact-to-effort.  
+- Outlines four tiers of focus:  
+  - 🥇 Book metadata & taxonomy  
+  - 🥈 Enhanced RAG experience  
+  - 🥉 Oral history & licensing opportunities  
+  - 💡 Creative visualizations  
+- Establishes regular maintenance cadence for fixity checks, metadata sweeps, and policy reviews.
+
+**Significance**
+- Provides a structured vision for future contributors while keeping scope realistic and mission-aligned.  
+- Marks the close of the **v3.1** development cycle and the transition toward preservation, citation accuracy, and long-term governance.  
+
+**Verification**
+- All Markdown lint checks passed (UTF-8, no broken links).  
+- Repository fixity intact (`git status` clean, `HEAD == origin/main`).  
+
+---
+
 ## v3.1 — 2025-10-15
 **Citation & URL Enrichment**
 
