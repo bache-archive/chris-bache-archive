@@ -56,3 +56,7 @@ private_backups/
 
 __pycache__/
 *.pyc
+
+# Temporary build artifacts
+.tmp_doc_md_files*
+checksums/_archive/
