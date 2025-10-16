@@ -1,0 +1,29 @@
+<!doctype html><html><head><link rel="stylesheet" href="../../assets/style.css"><meta charset='utf-8'></head><body><h1>LSDMU Segmentation Registry</h1>
+<p><strong>Work ID:</strong> <code>lsdmu</code> — <em>LSD and the Mind of the Universe: Diamonds from Heaven</em><br />
+<strong>Author:</strong> Christopher M. Bache<br />
+<strong>Source Type:</strong> Book (Inner Traditions, 2019)</p>
+<hr />
+<h2>Canonical ID Grammar</h2>
+<p><code>lsdmu:(fm|cNN|apxNN|bm):sNN[:pNNN]</code></p>
+<ul>
+<li><code>fm</code> = front matter, <code>cNN</code> = chapter 01–12, <code>apxNN</code> = appendices, <code>bm</code> = back matter  </li>
+<li><code>sNN</code> = section number (<code>s00</code> marks a continuous chapter)  </li>
+<li><code>pNNN</code> (optional) = paragraph ID for future fine-grained citation  </li>
+</ul>
+<p>Example:<br />
+- Section: <code>lsdmu:c07:s05</code><br />
+- Paragraph: <code>lsdmu:c07:s05:p012</code></p>
+<hr />
+<h2>Registry vs Alignment</h2>
+<ul>
+<li><strong>Registry</strong> → edition-neutral, permanent (<code>lsdmu.section-registry.json</code>)  </li>
+<li><strong>Alignments</strong> → edition-specific, flexible (<code>/alignments/lsdmu/*.json</code>)  </li>
+</ul>
+<p>Never embed page numbers or timecodes in the registry IDs.</p>
+<hr />
+<h2>Citing</h2>
+<p>Canonical: <code>lsdmu:c07:s05</code><br />
+With edition cue: <code>lsdmu:c07:s05 (Inner Traditions 2019 HC, pp. 153–156)</code></p>
+<hr />
+<h2>Copyright</h2>
+<p>This registry and its alignments include only structural metadata, no copyrighted text.</p></body></html>

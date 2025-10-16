@@ -52,4 +52,4 @@ tools/token.json
 build/
 vectors/
 reports/
-.env
+private_backups/
