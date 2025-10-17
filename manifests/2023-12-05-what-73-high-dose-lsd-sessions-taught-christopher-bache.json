@@ -19,7 +19,7 @@
     },
     {
       "path": "sources/transcripts/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.html",
-      "sha256": "7ecace71c89b583e49c5fa1ad1cc3f03bfbe302f539720c93fd29bdab68f6383"
+      "sha256": "08ac58b0bad9ca2f3b2105cf8b774e6369429ff185c982490d823f37890b28a7"
     },
     {
       "path": "sources/transcripts/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.md",
@@ -34,7 +34,7 @@
       "sha256": "470df8b9083992dca0a65b68ea572f455563b465f4827eb85f341b4b25f20da1"
     }
   ],
-  "captured_at": "2025-10-13",
+  "captured_at": "2025-10-17",
   "license": "CC0-1.0",
   "recorded_date": "2023-12-05",
   "tools": [

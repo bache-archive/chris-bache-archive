@@ -19,7 +19,7 @@
     },
     {
       "path": "sources/transcripts/2023-03-16-collective-shadow-work-and-turning-toward-our-pain.html",
-      "sha256": "3713d0660d2fde7962856f237f5b86d721237e7893487b9b69aa465e9ad65f9a"
+      "sha256": "35af5d4a387d6a30a004656299a4846cb1e6d1598450be9d9a452b28cccc6946"
     },
     {
       "path": "sources/transcripts/2023-03-16-collective-shadow-work-and-turning-toward-our-pain.md",
@@ -34,7 +34,7 @@
       "sha256": "e84522f72ea5dd52904b9353f3a3fa2f9c9a23478e9053232850558ae8e113cf"
     }
   ],
-  "captured_at": "2025-10-13",
+  "captured_at": "2025-10-17",
   "license": "CC0-1.0",
   "recorded_date": "2023-03-16",
   "tools": [

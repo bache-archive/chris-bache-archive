@@ -19,7 +19,7 @@
     },
     {
       "path": "sources/transcripts/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.html",
-      "sha256": "b265afefeaf5609dda6fa98bc9154f2d3e4c9663772c73169de8624b9ddcf097"
+      "sha256": "1ebbb85540b1debf24e1023686f8e984c3f76fa5224ee04efd1940e4cb82e2cd"
     },
     {
       "path": "sources/transcripts/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.md",
@@ -34,7 +34,7 @@
       "sha256": "c5e722a6e5bc9639df9105170e5bd0eb8c16bfed87526919cd3be7801fa62a16"
     }
   ],
-  "captured_at": "2025-10-13",
+  "captured_at": "2025-10-17",
   "license": "CC0-1.0",
   "recorded_date": "2023-01-27",
   "tools": [

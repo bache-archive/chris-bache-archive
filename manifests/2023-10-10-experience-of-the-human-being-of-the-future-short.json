@@ -19,7 +19,7 @@
     },
     {
       "path": "sources/transcripts/2023-10-10-experience-of-the-human-being-of-the-future-short.html",
-      "sha256": "8581087cda44e0d1ed2bfe5fd036f1c105d6467166dc98e8d859874e6088d86f"
+      "sha256": "8c2ff01bc6dd258b657b1d2fa3a8735baaeb1abcc8320d47e68fd7f44e005378"
     },
     {
       "path": "sources/transcripts/2023-10-10-experience-of-the-human-being-of-the-future-short.md",
@@ -34,7 +34,7 @@
       "sha256": "5c4f7dac3b3a740d680e586f9bfe7f9a335cf4fff6bf65da2eac65162b6a9c9a"
     }
   ],
-  "captured_at": "2025-10-13",
+  "captured_at": "2025-10-17",
   "license": "CC0-1.0",
   "recorded_date": "2023-10-10",
   "tools": [

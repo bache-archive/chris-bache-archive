@@ -1,81 +1,605 @@
 [
-  { "session": 1,  "id": "lsdmu:session:s001", "title": "What Am I?",                         "chapters": [2] },
-  { "session": 2,  "id": "lsdmu:session:s002", "title": "Infant Bliss",                       "chapters": [2] },
-  { "session": 3,  "id": "lsdmu:session:s003", "title": "Confession to the Universe",         "chapters": [2] },
-  { "session": 4,  "id": "lsdmu:session:s004", "title": "Cosmic Attunement",                  "chapters": [2] },
-  { "session": 5,  "id": "lsdmu:session:s005", "title": "Overload",                           "chapters": [2] },
-  { "session": 6,  "id": "lsdmu:session:s006", "title": "Distillation of My Life",            "chapters": [2] },
-  { "session": 7,  "id": "lsdmu:session:s007", "title": "Seamless Fabric",                    "chapters": [2] },
-  { "session": 8,  "id": "lsdmu:session:s008", "title": "Extreme Convulsions",                "chapters": [2] },
-  { "session": 9,  "id": "lsdmu:session:s009", "title": "The Girls of the Neighborhood",      "chapters": [2] },
-  { "session": 10, "id": "lsdmu:session:s010", "title": "The Killing of the Children",        "chapters": [2] },
-
-  { "session": 11, "id": "lsdmu:session:s011", "title": "The Great Oak #1",                   "chapters": [4, 5] },
-  { "session": 12, "id": "lsdmu:session:s012", "title": "The Great Oak #2",                   "chapters": [4, 5] },
-  { "session": 13, "id": "lsdmu:session:s013", "title": "Hillside of Karma #1",               "chapters": [4, 5] },
-  { "session": 14, "id": "lsdmu:session:s014", "title": "Hillside of Karma #2",               "chapters": [4, 5] },
-  { "session": 15, "id": "lsdmu:session:s015", "title": "Descent into Hell",                  "chapters": [4, 5] },
-  { "session": 16, "id": "lsdmu:session:s016", "title": "Carol and I",                        "chapters": [4, 5] },
-  { "session": 17, "id": "lsdmu:session:s017", "title": "The Commitment of Yes",              "chapters": [4, 5] },
-
-  { "session": 18, "id": "lsdmu:session:s018", "title": "You and I Creating",                 "chapters": [6] },
-  { "session": 19, "id": "lsdmu:session:s019", "title": "The Cosmic Tour",                    "chapters": [6] },
-  { "session": 20, "id": "lsdmu:session:s020", "title": "The Council of Elders",              "chapters": [6] },
-  { "session": 21, "id": "lsdmu:session:s021", "title": "Dying into Oneness",                 "chapters": [6] },
-  { "session": 22, "id": "lsdmu:session:s022", "title": "The Master Plan #1",                 "chapters": [6, 9] },
-  { "session": 23, "id": "lsdmu:session:s023", "title": "The Master Plan #2",                 "chapters": [6, 9] },
-  { "session": 24, "id": "lsdmu:session:s024", "title": "Healing the Collective Wound",       "chapters": [6, 9] },
-
-  { "session": 25, "id": "lsdmu:session:s025", "title": "Grinding the Bones",                 "chapters": [7] },
-  { "session": 26, "id": "lsdmu:session:s026", "title": "Archetypal Reality #2",              "chapters": [7] },
-  { "session": 27, "id": "lsdmu:session:s027", "title": "Archetypal Reality #3",              "chapters": [7] },
-  { "session": 28, "id": "lsdmu:session:s028", "title": "Archetypal Meltdown",                "chapters": [7, 9] },
-  { "session": 29, "id": "lsdmu:session:s029", "title": "Cleansing #1",                       "chapters": [7, 9] },
-  { "session": 30, "id": "lsdmu:session:s030", "title": "Cleansing #2",                       "chapters": [7] },
-  { "session": 31, "id": "lsdmu:session:s031", "title": "Cleansing #3",                       "chapters": [7, 9] },
-  { "session": 32, "id": "lsdmu:session:s032", "title": "Release",                            "chapters": [7] },
-  { "session": 33, "id": "lsdmu:session:s033", "title": "A Flash of “God”",                   "chapters": [7] },
-  { "session": 34, "id": "lsdmu:session:s034", "title": null,                                  "chapters": [7] },
-  { "session": 35, "id": "lsdmu:session:s035", "title": null,                                  "chapters": [7] },
-
-  { "session": 36, "id": "lsdmu:session:s036", "title": "The Forest",                         "chapters": [8] },
-  { "session": 37, "id": "lsdmu:session:s037", "title": null,                                  "chapters": [8] },
-  { "session": 38, "id": "lsdmu:session:s038", "title": "The Birth of the Diamond Soul",      "chapters": [8] },
-  { "session": 39, "id": "lsdmu:session:s039", "title": "Future of Humanity",                 "chapters": [8, 9] },
-  { "session": 40, "id": "lsdmu:session:s040", "title": "Singing the Universe Away",          "chapters": [8] },
-  { "session": 41, "id": "lsdmu:session:s041", "title": null,                                  "chapters": [8] },
-  { "session": 42, "id": "lsdmu:session:s042", "title": "Jesus’ Blood",                       "chapters": [8, 9] },
-  { "session": 43, "id": "lsdmu:session:s043", "title": "Expansions and Elaborations",        "chapters": [8, 9] },
-
-  { "session": 44, "id": "lsdmu:session:s044", "title": null,                                  "chapters": [10] },
-  { "session": 45, "id": "lsdmu:session:s045", "title": "The Death State",                    "chapters": [10] },
-  { "session": 46, "id": "lsdmu:session:s046", "title": null,                                  "chapters": [10] },
-  { "session": 47, "id": "lsdmu:session:s047", "title": "Chopped into Light",                 "chapters": [10, 9] },
-  { "session": 48, "id": "lsdmu:session:s048", "title": null,                                  "chapters": [10] },
-  { "session": 49, "id": "lsdmu:session:s049", "title": null,                                  "chapters": [10] },
-  { "session": 50, "id": "lsdmu:session:s050", "title": "Diamond Luminosity",                 "chapters": [10] },
-  { "session": 51, "id": "lsdmu:session:s051", "title": null,                                  "chapters": [10] },
-  { "session": 52, "id": "lsdmu:session:s052", "title": null,                                  "chapters": [10] },
-  { "session": 53, "id": "lsdmu:session:s053", "title": null,                                  "chapters": [10, 9] },
-  { "session": 54, "id": "lsdmu:session:s054", "title": null,                                  "chapters": [10] },
-  { "session": 55, "id": "lsdmu:session:s055", "title": null,                                  "chapters": [10, 9] },
-  { "session": 56, "id": "lsdmu:session:s056", "title": null,                                  "chapters": [10] },
-  { "session": 57, "id": "lsdmu:session:s057", "title": null,                                  "chapters": [10] },
-  { "session": 58, "id": "lsdmu:session:s058", "title": null,                                  "chapters": [10] },
-  { "session": 59, "id": "lsdmu:session:s059", "title": null,                                  "chapters": [10] },
-  { "session": 60, "id": "lsdmu:session:s060", "title": "Universal Field of Light",           "chapters": [10] },
-  { "session": 61, "id": "lsdmu:session:s061", "title": null,                                  "chapters": [10] },
-  { "session": 62, "id": "lsdmu:session:s062", "title": null,                                  "chapters": [10] },
-  { "session": 63, "id": "lsdmu:session:s063", "title": null,                                  "chapters": [10] },
-  { "session": 64, "id": "lsdmu:session:s064", "title": null,                                  "chapters": [10] },
-  { "session": 65, "id": "lsdmu:session:s065", "title": null,                                  "chapters": [10] },
-  { "session": 66, "id": "lsdmu:session:s066", "title": "Nature of Mind",                     "chapters": [10] },
-  { "session": 67, "id": "lsdmu:session:s067", "title": null,                                  "chapters": [10] },
-  { "session": 68, "id": "lsdmu:session:s068", "title": null,                                  "chapters": [10] },
-  { "session": 69, "id": "lsdmu:session:s069", "title": null,                                  "chapters": [10] },
-
-  { "session": 70, "id": "lsdmu:session:s070", "title": "The Final Vision",                   "chapters": [11] },
-  { "session": 71, "id": "lsdmu:session:s071", "title": null,                                  "chapters": [11] },
-  { "session": 72, "id": "lsdmu:session:s072", "title": "The Fruits of My Labors",            "chapters": [11] },
-  { "session": 73, "id": "lsdmu:session:s073", "title": "Diamond Vision",                     "chapters": [11] }
+  {
+    "session": 1,
+    "id": "lsdmu:session:s001",
+    "title": "What Am I?",
+    "chapters": [
+      2
+    ]
+  },
+  {
+    "session": 2,
+    "id": "lsdmu:session:s002",
+    "title": "Infant Bliss",
+    "chapters": [
+      2
+    ]
+  },
+  {
+    "session": 3,
+    "id": "lsdmu:session:s003",
+    "title": "Confession to the Universe",
+    "chapters": [
+      2
+    ]
+  },
+  {
+    "session": 4,
+    "id": "lsdmu:session:s004",
+    "title": "Cosmic Attunement",
+    "chapters": [
+      2
+    ]
+  },
+  {
+    "session": 5,
+    "id": "lsdmu:session:s005",
+    "title": "Overload",
+    "chapters": [
+      2
+    ]
+  },
+  {
+    "session": 6,
+    "id": "lsdmu:session:s006",
+    "title": "Distillation of My Life",
+    "chapters": [
+      2
+    ]
+  },
+  {
+    "session": 7,
+    "id": "lsdmu:session:s007",
+    "title": "Seamless Fabric",
+    "chapters": [
+      2
+    ]
+  },
+  {
+    "session": 8,
+    "id": "lsdmu:session:s008",
+    "title": "Extreme Convulsions",
+    "chapters": [
+      2
+    ]
+  },
+  {
+    "session": 9,
+    "id": "lsdmu:session:s009",
+    "title": "The Girls of the Neighborhood",
+    "chapters": [
+      2
+    ]
+  },
+  {
+    "session": 10,
+    "id": "lsdmu:session:s010",
+    "title": "The Killing of the Children",
+    "chapters": [
+      2
+    ]
+  },
+  {
+    "session": 11,
+    "id": "lsdmu:session:s011",
+    "title": "The Great Oak #1",
+    "chapters": [
+      4,
+      5
+    ]
+  },
+  {
+    "session": 12,
+    "id": "lsdmu:session:s012",
+    "title": "The Great Oak #2",
+    "chapters": [
+      4,
+      5
+    ]
+  },
+  {
+    "session": 13,
+    "id": "lsdmu:session:s013",
+    "title": "Hillside of Karma #1",
+    "chapters": [
+      4,
+      5
+    ]
+  },
+  {
+    "session": 14,
+    "id": "lsdmu:session:s014",
+    "title": "Hillside of Karma #2",
+    "chapters": [
+      4,
+      5
+    ]
+  },
+  {
+    "session": 15,
+    "id": "lsdmu:session:s015",
+    "title": "Descent into Hell",
+    "chapters": [
+      4,
+      5
+    ]
+  },
+  {
+    "session": 16,
+    "id": "lsdmu:session:s016",
+    "title": "Carol and I",
+    "chapters": [
+      4,
+      5
+    ]
+  },
+  {
+    "session": 17,
+    "id": "lsdmu:session:s017",
+    "title": "The Commitment of Yes",
+    "chapters": [
+      4,
+      5
+    ]
+  },
+  {
+    "session": 18,
+    "id": "lsdmu:session:s018",
+    "title": "You and I Creating",
+    "chapters": [
+      6
+    ]
+  },
+  {
+    "session": 19,
+    "id": "lsdmu:session:s019",
+    "title": "The Cosmic Tour",
+    "chapters": [
+      6
+    ]
+  },
+  {
+    "session": 20,
+    "id": "lsdmu:session:s020",
+    "title": "The Council of Elders",
+    "chapters": [
+      6
+    ]
+  },
+  {
+    "session": 21,
+    "id": "lsdmu:session:s021",
+    "title": "Dying into Oneness",
+    "chapters": [
+      6
+    ]
+  },
+  {
+    "session": 22,
+    "id": "lsdmu:session:s022",
+    "title": "The Master Plan #1",
+    "chapters": [
+      6,
+      9
+    ]
+  },
+  {
+    "session": 23,
+    "id": "lsdmu:session:s023",
+    "title": "The Master Plan #2",
+    "chapters": [
+      6,
+      9
+    ]
+  },
+  {
+    "session": 24,
+    "id": "lsdmu:session:s024",
+    "title": "Healing the Collective Wound",
+    "chapters": [
+      6,
+      9
+    ]
+  },
+  {
+    "session": 25,
+    "id": "lsdmu:session:s025",
+    "title": "Grinding the Bones",
+    "chapters": [
+      7
+    ]
+  },
+  {
+    "session": 26,
+    "id": "lsdmu:session:s026",
+    "title": "Archetypal Reality #2",
+    "chapters": [
+      7
+    ]
+  },
+  {
+    "session": 27,
+    "id": "lsdmu:session:s027",
+    "title": "Archetypal Reality #3",
+    "chapters": [
+      7
+    ]
+  },
+  {
+    "session": 28,
+    "id": "lsdmu:session:s028",
+    "title": "Archetypal Meltdown",
+    "chapters": [
+      7,
+      9
+    ]
+  },
+  {
+    "session": 29,
+    "id": "lsdmu:session:s029",
+    "title": "Cleansing #1",
+    "chapters": [
+      7,
+      9
+    ]
+  },
+  {
+    "session": 30,
+    "id": "lsdmu:session:s030",
+    "title": "Cleansing #2",
+    "chapters": [
+      7
+    ]
+  },
+  {
+    "session": 31,
+    "id": "lsdmu:session:s031",
+    "title": "Cleansing #3",
+    "chapters": [
+      7,
+      9
+    ]
+  },
+  {
+    "session": 32,
+    "id": "lsdmu:session:s032",
+    "title": "Release",
+    "chapters": [
+      7
+    ]
+  },
+  {
+    "session": 33,
+    "id": "lsdmu:session:s033",
+    "title": "A Flash of “God”",
+    "chapters": [
+      7
+    ]
+  },
+  {
+    "session": 34,
+    "id": "lsdmu:session:s034",
+    "title": null,
+    "chapters": [
+      7
+    ]
+  },
+  {
+    "session": 35,
+    "id": "lsdmu:session:s035",
+    "title": null,
+    "chapters": [
+      7
+    ]
+  },
+  {
+    "session": 36,
+    "id": "lsdmu:session:s036",
+    "title": "The Forest",
+    "chapters": [
+      8
+    ]
+  },
+  {
+    "session": 37,
+    "id": "lsdmu:session:s037",
+    "title": null,
+    "chapters": [
+      8
+    ]
+  },
+  {
+    "session": 38,
+    "id": "lsdmu:session:s038",
+    "title": "The Birth of the Diamond Soul",
+    "chapters": [
+      8
+    ]
+  },
+  {
+    "session": 39,
+    "id": "lsdmu:session:s039",
+    "title": "Future of Humanity",
+    "chapters": [
+      8,
+      9
+    ]
+  },
+  {
+    "session": 40,
+    "id": "lsdmu:session:s040",
+    "title": "Singing the Universe Away",
+    "chapters": [
+      8
+    ]
+  },
+  {
+    "session": 41,
+    "id": "lsdmu:session:s041",
+    "title": null,
+    "chapters": [
+      8
+    ]
+  },
+  {
+    "session": 42,
+    "id": "lsdmu:session:s042",
+    "title": "Jesus’ Blood",
+    "chapters": [
+      8,
+      9
+    ]
+  },
+  {
+    "session": 43,
+    "id": "lsdmu:session:s043",
+    "title": "Expansions and Elaborations",
+    "chapters": [
+      8,
+      9
+    ]
+  },
+  {
+    "session": 44,
+    "id": "lsdmu:session:s044",
+    "title": "The Crystal of Death",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "session": 45,
+    "id": "lsdmu:session:s045",
+    "title": "The Death State",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "session": 46,
+    "id": "lsdmu:session:s046",
+    "title": null,
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "session": 47,
+    "id": "lsdmu:session:s047",
+    "title": "Chopped into Light",
+    "chapters": [
+      10,
+      9
+    ]
+  },
+  {
+    "session": 48,
+    "id": "lsdmu:session:s048",
+    "title": null,
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "session": 49,
+    "id": "lsdmu:session:s049",
+    "title": null,
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "session": 50,
+    "id": "lsdmu:session:s050",
+    "title": "Diamond Luminosity",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "session": 51,
+    "id": "lsdmu:session:s051",
+    "title": null,
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "session": 52,
+    "id": "lsdmu:session:s052",
+    "title": null,
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "session": 53,
+    "id": "lsdmu:session:s053",
+    "title": null,
+    "chapters": [
+      10,
+      9
+    ]
+  },
+  {
+    "session": 54,
+    "id": "lsdmu:session:s054",
+    "title": null,
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "session": 55,
+    "id": "lsdmu:session:s055",
+    "title": null,
+    "chapters": [
+      10,
+      9
+    ]
+  },
+  {
+    "session": 56,
+    "id": "lsdmu:session:s056",
+    "title": null,
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "session": 57,
+    "id": "lsdmu:session:s057",
+    "title": "Heaven and Hell",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "session": 58,
+    "id": "lsdmu:session:s058",
+    "title": null,
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "session": 59,
+    "id": "lsdmu:session:s059",
+    "title": null,
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "session": 60,
+    "id": "lsdmu:session:s060",
+    "title": "Universal Field of Light",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "session": 61,
+    "id": "lsdmu:session:s061",
+    "title": null,
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "session": 62,
+    "id": "lsdmu:session:s062",
+    "title": null,
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "session": 63,
+    "id": "lsdmu:session:s063",
+    "title": "Teaching without Selves Present",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "session": 64,
+    "id": "lsdmu:session:s064",
+    "title": null,
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "session": 65,
+    "id": "lsdmu:session:s065",
+    "title": null,
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "session": 66,
+    "id": "lsdmu:session:s066",
+    "title": "Nature of Mind",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "session": 67,
+    "id": "lsdmu:session:s067",
+    "title": null,
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "session": 68,
+    "id": "lsdmu:session:s068",
+    "title": null,
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "session": 69,
+    "id": "lsdmu:session:s069",
+    "title": null,
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "session": 70,
+    "id": "lsdmu:session:s070",
+    "title": "The Final Vision",
+    "chapters": [
+      11
+    ]
+  },
+  {
+    "session": 71,
+    "id": "lsdmu:session:s071",
+    "title": null,
+    "chapters": [
+      11
+    ]
+  },
+  {
+    "session": 72,
+    "id": "lsdmu:session:s072",
+    "title": "The Fruits of My Labors",
+    "chapters": [
+      11
+    ]
+  },
+  {
+    "session": 73,
+    "id": "lsdmu:session:s073",
+    "title": "Diamond Vision",
+    "chapters": [
+      11
+    ]
+  }
 ]

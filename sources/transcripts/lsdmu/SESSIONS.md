@@ -80,7 +80,7 @@ If a title is not yet confirmed in the session-title list, it is left blank (to 
 ---
 
 ## Chapter 10 — Diamond Luminosity (Sessions 44–69)
-44. — 1994-01-15  
+44. The Crystal of Death — 1994-01-15
 45. The Death State — 1994-02-18  
 46. — 1994-06-10  
 47. Chopped into Light — 1994-07-15  
@@ -93,13 +93,13 @@ If a title is not yet confirmed in the session-title list, it is left blank (to 
 54. — 1995-11-03  
 55. — 1995-12-15  
 56. — 1996-01-26  
-57. — 1996-02-09  
+57. Heaven and Hell — 1996-02-09
 58. — 1996-03-06  
 59. — 1996-03-20  
 60. Universal Field of Light — 1996-04-21  
 61. — 1996-06-15  
 62. — 1996-09-06  
-63. — 1996-10-25  
+63. Teaching without Selves Present — 1996-10-25
 64. — 1997-01-12  
 65. — 1997-05-15  
 66. Nature of Mind — 1997-06-20  

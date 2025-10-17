@@ -19,7 +19,7 @@
     },
     {
       "path": "sources/transcripts/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.html",
-      "sha256": "190e45eca70b665b5e854728322be08b78942812e141c8d1504033b45e4ad8df"
+      "sha256": "859739977782eb53cfb1efad1f5e6d737ea4e711b008cd1ba119ee978ce8d36d"
     },
     {
       "path": "sources/transcripts/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.md",
@@ -34,7 +34,7 @@
       "sha256": "06578f861392c4d56511f10088c4282a4f7dbbf606429d560cf77dc36ebb9200"
     }
   ],
-  "captured_at": "2025-10-13",
+  "captured_at": "2025-10-17",
   "license": "CC0-1.0",
   "recorded_date": "2022-12-07",
   "tools": [

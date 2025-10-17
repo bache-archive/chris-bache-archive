@@ -19,7 +19,7 @@
     },
     {
       "path": "sources/transcripts/2025-03-18-psychedelics-and-the-cosmic-mind.html",
-      "sha256": "f10681974a5769ebba9e30f77f94f6e964d8a8aef5e6a5c111efbe39da9aa04d"
+      "sha256": "daf9cd7e6105b482188c667c6c459251c16ea01e4304d335ad3d1e179ece10e4"
     },
     {
       "path": "sources/transcripts/2025-03-18-psychedelics-and-the-cosmic-mind.md",
@@ -34,7 +34,7 @@
       "sha256": "fbf8e92bbb0769c8cc52dfb726d41a55220ef15b677c0dc8d9cf8e70fe7fcb46"
     }
   ],
-  "captured_at": "2025-10-13",
+  "captured_at": "2025-10-17",
   "license": "CC0-1.0",
   "recorded_date": "2025-03-18",
   "tools": [

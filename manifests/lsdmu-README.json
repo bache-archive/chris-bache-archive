@@ -1,0 +1,22 @@
+{
+  "id": "lsdmu-README",
+  "files": [
+    {
+      "path": "sources/transcripts/lsdmu/README.html",
+      "sha256": "e38de8cb3859227790dec2841cc55a9f1376e69c772c13e7ce61dbe622ea3f9b"
+    },
+    {
+      "path": "sources/transcripts/lsdmu/README.md",
+      "sha256": "93aa27a4bea4dfdd04ed55d03089242d010bc02b5c310cb3af0d5cdd3fdf5158"
+    }
+  ],
+  "captured_at": "2025-10-17",
+  "license": "CC0-1.0",
+  "recorded_date": "",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

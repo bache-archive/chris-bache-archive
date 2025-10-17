@@ -19,7 +19,7 @@
     },
     {
       "path": "sources/transcripts/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.html",
-      "sha256": "49f2ddcaf750744b29c03f157249b11892c682610cd263653868c3175d13d654"
+      "sha256": "3cd58b439643fc107c1a7aa43f7203b1d3c522d80bbd0a8ccda7b5e6b20eb5a3"
     },
     {
       "path": "sources/transcripts/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.md",
@@ -34,7 +34,7 @@
       "sha256": "6a67ca5293e6fd7cf03508fcf34f3d3cc3cc76e368bc6180ba592f818efa2872"
     }
   ],
-  "captured_at": "2025-10-13",
+  "captured_at": "2025-10-17",
   "license": "CC0-1.0",
   "recorded_date": "2018-07-05",
   "tools": [

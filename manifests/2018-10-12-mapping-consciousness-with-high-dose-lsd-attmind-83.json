@@ -19,7 +19,7 @@
     },
     {
       "path": "sources/transcripts/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.html",
-      "sha256": "d257510a0693b0f45096b4ae2effd96fab551ca26a5125744e2fe227af192d52"
+      "sha256": "4e11b65338b177722314a539d6edd5fe17b0cbe52ff4b71f99f8d75a1f2fabd5"
     },
     {
       "path": "sources/transcripts/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.md",
@@ -34,7 +34,7 @@
       "sha256": "49bddfa652e183d6eb38f72fdb43faa2096146594fc97e113612361bad4a520d"
     }
   ],
-  "captured_at": "2025-10-13",
+  "captured_at": "2025-10-17",
   "license": "CC0-1.0",
   "recorded_date": "2018-10-12",
   "tools": [

@@ -19,7 +19,7 @@
     },
     {
       "path": "sources/transcripts/2025-07-16-consciousness-psychedelics-and-collective-evolution.html",
-      "sha256": "162b7cab2962b1518d5e88b6462e04d89999cb34858cadbafa70b4925273d99f"
+      "sha256": "7645992570d0c98383307df820a1ee00b4e6601bc325ff1bcb0073785a96e1d0"
     },
     {
       "path": "sources/transcripts/2025-07-16-consciousness-psychedelics-and-collective-evolution.md",
@@ -34,7 +34,7 @@
       "sha256": "6c56d0aa4241a74f61a6bb68aff569a6f10329f3310007637f4b3e64985c8a99"
     }
   ],
-  "captured_at": "2025-10-13",
+  "captured_at": "2025-10-17",
   "license": "CC0-1.0",
   "recorded_date": "2025-07-16",
   "tools": [

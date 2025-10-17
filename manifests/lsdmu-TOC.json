@@ -1,9 +1,9 @@
 {
-  "id": "downloads-checksums",
+  "id": "lsdmu-toc",
   "files": [
     {
-      "path": "downloads/checksums.sha256",
-      "sha256": "036e126a067591c0bf4dd34cb39a2d528e94cec4cfc369f58ff832415eb636b7"
+      "path": "sources/transcripts/lsdmu/toc.json",
+      "sha256": "ba814cf317531a671c99730d394cf6dbaf02fb2231919981955699832614fb31"
     }
   ],
   "captured_at": "2025-10-17",

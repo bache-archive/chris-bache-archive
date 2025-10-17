@@ -1,9 +1,9 @@
 {
-  "id": "downloads-checksums",
+  "id": "lsdmu-lsdmu.session-registry",
   "files": [
     {
-      "path": "downloads/checksums.sha256",
-      "sha256": "036e126a067591c0bf4dd34cb39a2d528e94cec4cfc369f58ff832415eb636b7"
+      "path": "sources/transcripts/lsdmu/lsdmu.session-registry.json",
+      "sha256": "f4da2ba0e412fd1f645b2d4f4e8a5311e10107270fd396d17d45bb443a10f761"
     }
   ],
   "captured_at": "2025-10-17",

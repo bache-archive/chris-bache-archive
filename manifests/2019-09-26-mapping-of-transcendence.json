@@ -19,7 +19,7 @@
     },
     {
       "path": "sources/transcripts/2019-09-26-mapping-of-transcendence.html",
-      "sha256": "a276e95c6a97ba8dcf133a480cc51b1d6a2d9f83d8d6b7baebd69a80e17e6948"
+      "sha256": "81aa504f492169225a094297715a37978717339618c770617f55ff4706304d35"
     },
     {
       "path": "sources/transcripts/2019-09-26-mapping-of-transcendence.md",
@@ -34,7 +34,7 @@
       "sha256": "f022e63b8d7bd07802118bf782af4efa6c963d4602916f1270b87ce069c72efb"
     }
   ],
-  "captured_at": "2025-10-13",
+  "captured_at": "2025-10-17",
   "license": "CC0-1.0",
   "recorded_date": "2019-09-26",
   "tools": [
