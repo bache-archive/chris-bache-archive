@@ -53,7 +53,6 @@ source_of_outline: Kindle + Audible (reconciled)
 - Stepping Stones
 - Stopping My Sessions
 - Addendum: Other Instances of Future-Seeing
-- Six-Year Interval
 
 ## 6. Initiation into the Universe
 - Expanding the Narrative — Who Is the Patient?

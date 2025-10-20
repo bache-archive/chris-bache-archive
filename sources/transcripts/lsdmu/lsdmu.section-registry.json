@@ -102,6 +102,12 @@
     "title": "The Suffering of Death and Rebirth"
   },
   {
+    "seg_id": "lsdmu:c02:s00",
+    "chapter": 2,
+    "section": 0,
+    "title": "Crossing the Boundary of Birth and Death"
+  },
+  {
     "seg_id": "lsdmu:c02:s01",
     "chapter": 2,
     "section": 1,
@@ -132,6 +138,12 @@
     "title": "A Session Day"
   },
   {
+    "seg_id": "lsdmu:c04:s00",
+    "chapter": 4,
+    "section": 0,
+    "title": "The Ocean of Suffering"
+  },
+  {
     "seg_id": "lsdmu:c04:s01",
     "chapter": 4,
     "section": 1,
@@ -148,6 +160,12 @@
     "chapter": 4,
     "section": 3,
     "title": "On the Eve of Stopping"
+  },
+  {
+    "seg_id": "lsdmu:c05:s00",
+    "chapter": 5,
+    "section": 0,
+    "title": "Deep Time and the Soul"
   },
   {
     "seg_id": "lsdmu:c05:s01",
@@ -192,6 +210,12 @@
     "title": "Addendum: Other Instances of Future-Seeing"
   },
   {
+    "seg_id": "lsdmu:c06:s00",
+    "chapter": 6,
+    "section": 0,
+    "title": "Initiation into the Universe"
+  },
+  {
     "seg_id": "lsdmu:c06:s01",
     "chapter": 6,
     "section": 1,
@@ -202,6 +226,12 @@
     "chapter": 6,
     "section": 2,
     "title": "Why Did the Suffering End?"
+  },
+  {
+    "seg_id": "lsdmu:c07:s00",
+    "chapter": 7,
+    "section": 0,
+    "title": "The Greater Real of Archetypal Reality"
   },
   {
     "seg_id": "lsdmu:c07:s01",
@@ -264,10 +294,22 @@
     "title": "Addendum: Plato, Jung, and Archetypes"
   },
   {
+    "seg_id": "lsdmu:c08:s00",
+    "chapter": 8,
+    "section": 0,
+    "title": "A Benediction of Blessings"
+  },
+  {
     "seg_id": "lsdmu:c08:s01",
     "chapter": 8,
     "section": 1,
     "title": "Reflections"
+  },
+  {
+    "seg_id": "lsdmu:c09:s00",
+    "chapter": 9,
+    "section": 0,
+    "title": "The Birth of the Future Human"
   },
   {
     "seg_id": "lsdmu:c09:s01",
@@ -300,6 +342,12 @@
     "title": "Another Voice: Bede Griffiths"
   },
   {
+    "seg_id": "lsdmu:c10:s00",
+    "chapter": 10,
+    "section": 0,
+    "title": "Diamond Luminosity"
+  },
+  {
     "seg_id": "lsdmu:c10:s01",
     "chapter": 10,
     "section": 1,
@@ -330,6 +378,12 @@
     "title": "The Transparency of Embodied Presence"
   },
   {
+    "seg_id": "lsdmu:c11:s00",
+    "chapter": 11,
+    "section": 0,
+    "title": "Final Vision"
+  },
+  {
     "seg_id": "lsdmu:c11:s01",
     "chapter": 11,
     "section": 1,
@@ -340,6 +394,12 @@
     "chapter": 11,
     "section": 2,
     "title": "Why I Stopped My Sessions"
+  },
+  {
+    "seg_id": "lsdmu:c12:s00",
+    "chapter": 12,
+    "section": 0,
+    "title": "Coming off the Mountain"
   },
   {
     "seg_id": "lsdmu:c12:s01",
