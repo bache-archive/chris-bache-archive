@@ -6,6 +6,30 @@ Each entry summarizes what changed, when, and why.
 
 ---
 
+## v3.2 — 2025-10-21  
+**Full Caption Corpus & Timecode Alignment**
+
+This release adds complete **YouTube .vtt caption coverage (2014–2025)** and integrates precise **timecode metadata** into the Parquet layer—enabling timestamped retrieval across all 63 talks.  
+Synchronizes with **bache-rag-api v1.2-rc1**, which now returns `[hh:mm:ss]`-linked citations.
+
+### Key Changes
+- Added `sources/captions/` (all verified .vtt files + `_captions_manifest.csv`).
+- Introduced new tools:
+  - `grab_all_captions.py` — batch downloader (yt-dlp)
+  - `align_chunks.py` — merges captions into transcript chunks
+  - `timeline_from_captions.py` / `timeline_from_diarist.py` — build alignment timelines
+- Updated `requirements.txt` (added `yt-dlp`, `webvtt-py`).
+- Parquet metadata extended with:
+  - `start_sec`, `end_sec`, `start_hhmmss`, `end_hhmmss`, `ts_url`
+- Rebuilt FAISS + Parquet vectors to include caption-derived timestamps.
+- Appended new release entry to `checksums/FIXITY_LOG.md`.
+
+### Summary
+Establishes the first **time-aligned archival dataset** for the Bache Talks corpus.  
+Every segment in the RAG pipeline now maps to its corresponding moment in video time.
+
+---
+
 ## v3.1.5 — 2025-10-21
 **Rights-Clean, Normalized, and Re-Embedded Corpus**
 
