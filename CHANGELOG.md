@@ -6,6 +6,36 @@ Each entry summarizes what changed, when, and why.
 
 ---
 
+## v3.1.5 — 2025-10-21
+**Rights-Clean, Normalized, and Re-Embedded Corpus**
+
+This release finalizes the v3.1.x series with a verified, rights-compliant corpus and refreshed retrieval layer.
+
+### Textual & Rights Updates
+- Removed *Tyringham Hall* transcript references from `index.json` and `index.md` to maintain rights compliance.
+- Corrected all misspellings of **“Chud” → “Chöd”** in readable transcripts.
+- Rebuilt affected transcript HTML files (`sources/transcripts/...`), including LSDMU `TOC.html` and `SESSIONS.html`.
+- Verified that provenance layers (`captions/`, `diarist/`) remain unchanged.
+
+### Data & Retrieval Pipeline
+- Re-chunked all transcripts (`build/chunks/bache-talks.chunks.jsonl`) using updated `tools/chunk_transcripts.py`.
+- Re-embedded the full corpus with **text-embedding-3-large**, producing:
+  - `vectors/bache-talks.embeddings.parquet`
+  - `vectors/bache-talks.index.faiss`
+- Updated `reports/embedding_qc.json` (model, dims, checksums, sample enriched rows).
+- Synced rebuilt vectors to the **bache-rag-api** service for production retrieval.
+
+### Environment & Integrity
+- Recreated `.venv` using **Python 3.12**, rebuilt dependencies with explicit `requirements.txt`, and added `pyarrow`.
+- Generated new global checksum ledger: `checksums/RELEASE-v3.1.5.sha256`.
+- Appended release entry to `checksums/FIXITY_LOG.md`.
+- Verified fixity of all tracked files via `tools/verify_fixity.py`.
+
+### Summary
+A stable, fully normalized, and checksum-verified release—rights-clean, Chöd-corrected, and RAG-aligned.
+
+---
+
 ## v3.1.4 — 2025-10-17
 **Automated Session Registry**
 
