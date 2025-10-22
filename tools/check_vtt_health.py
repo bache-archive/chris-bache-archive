@@ -1,0 +1,45 @@
+#!/usr/bin/env python3
+from pathlib import Path
+import re, sys
+
+CAPS = Path("sources/captions")
+TALKS = [
+"2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview",
+"2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1",
+"2023-01-30-wisdom-keepers-conversation-with-duane-elgin",
+"2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1",
+"2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast",
+"2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2",
+"2023-01-05-exploring-lsd-and-the-mind-of-the-universe",
+"2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching",
+"2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142",
+"2025-07-16-consciousness-psychedelics-and-collective-evolution",
+]
+
+TS = re.compile(r"(\d{1,2}):(\d{2}):(\d{2})\.\d+\s*-->\s*(\d{1,2}):(\d{2}):(\d{2})\.\d+")
+def parse_vtt(p: Path):
+    if not p.exists():
+        return {"ok": False, "reason": "missing"}
+    lines = p.read_text(encoding="utf-8", errors="ignore").splitlines()
+    segs, bad, last_start = 0, 0, -1
+    for ln in lines:
+        m = TS.search(ln)
+        if not m: continue
+        h, m1, s = int(m.group(1)), int(m.group(2)), int(m.group(3))
+        start = h*3600 + m1*60 + s
+        if start < last_start: bad += 1
+        last_start = start
+        segs += 1
+    return {"ok": segs > 0 and bad == 0, "segs": segs, "bad": bad, "reason": None if segs>0 else "no segments"}
+
+def pick(tid: str):
+    for suf in ("-human.vtt", ".human.vtt", ".vtt"):
+        p = CAPS / f"{tid}{suf}"
+        if p.exists(): return p
+    return CAPS / f"{tid}.vtt"
+
+for tid in TALKS:
+    p = pick(tid)
+    r = parse_vtt(p)
+    status = "OK" if r["ok"] else f"BAD ({r['reason']})"
+    print(f"{tid:90}  -> {p.name:60}  {status}  segs={r.get('segs',0)} bad_ts={r.get('bad',0)}")
