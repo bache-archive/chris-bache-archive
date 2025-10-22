@@ -6,6 +6,46 @@ Each entry summarizes what changed, when, and why.
 
 ---
 
+## v3.4 — 2025-10-22  
+**Manual Reconstruction of Quote Packs & Page Rebuilds**
+
+This patch captures a full day of hands-on recovery and validation work across multiple educational topics.  
+Automated quote extraction and page generation failed intermittently, requiring both script-level debugging and direct manual editing of Markdown and HTML outputs.
+
+### Overview
+During the rebuild of `reports/quote_packs/2025-10-22`, the script responsible for assembling transcript quotations produced incomplete results — often rendering blank “Supporting transcript quotes (verbatim)” sections even when the Markdown sources contained valid text. Several iterations of `tools/build_site.py` were tested to restore expected output, with partial success.
+
+### Actions Taken
+- 🧠 **Script-level fixes**
+  - Updated `tools/build_site.py` to improve section detection for `## Supporting transcript quotes (verbatim)`.
+  - Added normalization for heading text, Unicode punctuation, and whitespace matching.
+  - Implemented fallback extraction logic for Markdown sections missed by the HTML parser.
+
+- ✏️ **Manual quote restoration**
+  - When the script still failed to populate transcript blocks, quotes were **manually reviewed and reinserted** into both Markdown and HTML pages.
+  - This process was completed for six key topics:
+    - `diamond-luminosity`
+    - `grof-coex`
+    - `dose-retrospective`
+    - `evolution-of-the-species-mind`
+    - `future-human`
+    - `great-death-and-rebirth`
+
+- 🧱 **Page rebuilds**
+  - Regenerated `index.html` and `index.md` for each affected topic after manual corrections.
+  - Verified that *Primary citations* and *Supporting transcript quotes* now render correctly.
+  - **Great Death and Rebirth** required a full manual HTML fix because transcripts were not being captured by the parser at all.
+
+- 🧼 **Validation**
+  - Checked all educational pages locally and on GitHub Pages for parity.
+  - Ensured provenance and fair use blocks render consistently across all rebuilt topics.
+
+### Outcome
+All affected educational documents are now restored and functional.  
+The build script is improved but will require further refinement to fully automate transcript extraction in the next release.
+
+---
+
 ## v3.3.6 — 2025-10-22  
 **Unified Styling & Educational Doc Framing**
 
