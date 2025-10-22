@@ -7,113 +7,9 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is a scholar and author known for his explorations of consciousness, reincarnation, and the transformative potential of psychedelic experiences. His work integrates insights from various disciplines, including psychology, spirituality, and neuroscience, to examine the cycles of death and rebirth in both personal and collective contexts. Bache's research emphasizes the significance of these experiences in understanding the nature of existence and the evolution of human consciousness.
+> Christopher M. Bache is a scholar known for his exploration of consciousness, particularly through the lens of psychedelic experiences and their implications for understanding death and rebirth. His work examines the multidimensional dynamics of these processes, emphasizing their significance in both personal transformation and collective awakening. Bache's insights contribute to a broader discourse on the intersection of spirituality, psychology, and cosmology.
 
 ## Primary citations (book — verbatim excerpts)
-
-**Bache · 2021-04-21 · Adventures Through the Mind · Global Collapse, Spirituality & The Birth of the Future Human (ATTMind #142)**
-
-> y fear—fear of dying, fear of loss. If you lose that fear of dying, you live from a different place.
-> LSD and the Mind of the Universe is a psychedelic memoir—a whole life’s work. I like the title Diamonds from Heaven better because it’s a story of a journey of deepening intimacy. After sessions, even a grocery store can feel like Disneyland—strange and surreal. That’s our work: go into deeper intimacy with whatever drives the universe, then come back and live our lives as best we can. Reincarnation does this—pulling us out into spiritual reality, plunging us back in, over and over. A psychedelic session reenacts that on a smaller orbit: it shatters the earthly life, opens us to what it’s like to die into the great surrounding world, then we come back into time and space. Do that enough times—incarnate enough times—and you cease to relate to the world as before.
-
-**Bache · 2022-12-07 · Scientific & Medical Network · LSD & the Mind of the Universe (SMN webinar)**
-
-> g—is different in each, and it’s important not to judge one project by criteria relevant to another.
-> At very high doses of LSD, one goes through a series of death-rebirth experiences. The first takes place at the interface of our time-space consciousness and the beginnings of spiritual consciousness—usually referred to as ego death, the complete destruction of our personal time-space identity and the opening into spiritual reality. If we continue and press deeper, we go through more deaths at the psychic, subtle, and causal levels of consciousness, to use Stan’s terms.
-
-**Bache · 2021-06-03 · Portland Psychedelic Society · LSD and the Mind of the Universe – Christopher Bache, Ph.D.**
-
-> ing deeper requires yet another cycle of complete surrender to enter the initiation available there.
-> Working with high doses of LSD has been compared to a nuclear bomb. The bomb and LSD were both created in the same decade. A long, sustained series of psychedelic experiences, focused therapeutically, triggers a sustained “nuclear explosion”—not only de‑structuring reality as you’ve known it, but exposing deeper levels that were always there but invisible until this explosion brought them into awareness. We’re not talking about bombs, of course; we’re talking about this beautiful universe: 100 billion galaxies, billions of stars in the Milky Way. I’ll use that as backdrop to touch on turning points in my journey and levels of reality I entered.
-> 
-> Looking back, I identified five core levels or cycles of death and rebirth: personal mind; collective mind (species mind); archetypal mind; causal oneness (the One); and Diamond Luminosity. That’s the structure I used to tell the travelogue in the book.
-
-**Bache · 2025-03-18 · New Thinking Allowed · Psychedelics and the Cosmic Mind**
-
-> ly bad—it can be part of the process, provided one has prepared and knows what they’re getting into.
-> Jeffrey Mishlove: Psychedelics amplify consciousness. Some people take them looking for a good afternoon: a little more openness to life and love. They keep the fundamental parameters of their personality, just softer and more expansive, which is perfectly fine. But if you want a deep dive—exploring the deep structure of existence, transcending space and time, moving into the deep future—that requires a carefully laid-out strategy. I’m not suggesting my way is the only beneficial way. As a philosopher, I was looking for depth of immersion and understanding, and that takes serious work.
-> 
-> Emmy Vadnais: While we’re on death and rebirth—surrender and purification—what is it that dies and is reborn? I know you outline a few areas in your book.
-> 
-> Jeffrey Mishlove: This became a real intellectual issue for me. When you experience dying and being reborn through multiple levels of reality, it raises the question: what is actually dying? You can have deep experiences of dying years after ego-death, and it’s not simply the ego dying over and over. It’s a different kind of death.
-
-**Bache · 2015-03-16 · Archetypal View · Exploring the Boundaries of Death and Rebirth in LSD Psychotherapy**
-
-> h and rebirth on higher levels of the transpersonal spectrum, with no relation to biological birth.”
-> Let’s move to the next question: Why does dying repeat itself so many times in psychedelic therapy? Returning to my personal story, when this long phase of collective dying and rebirth had ended, it was followed by a series of five overwhelmingly positive sessions that seemed to constitute a megarebirth. I felt overwhelmed by grace, filled with blessings, with a deep sense that I’d accomplished the primary purpose of my incarnation. At that point, after all those years, I hoped that the ordeal of dying would stop eventually; I thought the transition to transpersonal reality would become easier—and I think it would have, if I had stayed within the boundaries of transpersonal experience I had thus far initiated. But for better or worse, the method of exploration I’d chosen was so powerful it kept pushing me beyond my experiential limits. I was working with five to six hundred micrograms of LSD in totally internalized sessions.
-
-**Bache · 2022-08-30 · Tasshin Fogleman · Psychedelics and Cosmological Exploration with Chris Bache – Reach Truth Podcast**
-
-> springs. So: personal mind, collective mind, archetypal mind, the One Mind, and Diamond Luminosity.
-> Tasshin Fogleman:
-> I'd like to return to that. One of the themes in your work is giving a really persuasive case for reincarnation. I already sort of believed in reincarnation from my own explorations, but you make a really solid case for it. You wrote a book, Life Cycles, about it, and then later on, in your most recent book, LSD and the Mind of the Universe, you said there were things you didn’t quite get to in that book. Could you describe your current understanding of reincarnation?
-> 
-> Chris Bache:
-> As a philosopher, I think reincarnation is a fundamental concept to examine, because philosophical traditions diverge: if you believe there is no reincarnation versus if you believe there is, you end up with two different understandings of reality. Early in my academic career, I looked seriously at whether there is empirical evidence for reincarnation. Fifty years ago, this evidence did not exist, but today it does. I think we have ample empirical evidence that reincarnation is a simple fact of life.
-
-**Bache · 2022-01-20 · Deep Transformation Podcast · Evolution of Collective Consciousness (Part 1)**
-
-> s, but first a specific question: you’ve referred to very high doses of LSD. What doses did you use?
-> Chris Bache:
-> I aimed to be working at 600 micrograms. Because I wasn’t using a pharmaceutical-identified dose, I’d say 500–600 micrograms to be safe, but not less than 500.
-> 
-> Roger Walsh:
-> That’s a lot of LSD, to put it mildly. I want to tease out your description of death-rebirth. It’s recognized across the world’s spiritual traditions as a profound psycho-spiritual birth experience and deliberately sought in traditions such as shamanism. You describe it in a radically expanded way—as a repetitive process of dying to one identity and limitation after another, reconstituting a new, more porous, expanded identity, and then having to offer that into the whole.
-
-**Bache · 2015-03-16 · Archetypal View · Exploring the Boundaries of Death and Rebirth in LSD Psychotherapy**
-
-> eriences on that journey. My life has never been the same. How do you thank someone for such a gift?
-> The experience of dying and being reborn is central to holotropic and psychedelic work, yet it remains deeply puzzling. This morning, I’d like to share my attempts to address three basic questions about the death-rebirth dynamic. First: Why does death become as large as it sometimes does in psychedelic therapy? Second: Why does death repeat itself so many times in this long process? And third, and perhaps most difficultly: What is actually dying in the death-rebirth process? Along the way, I’d also like to revise the discussion of death-rebirth that I presented in Dark Night, Early Dawn, which I now find incomplete.
-> 
-> I’ll just be giving you bullet points this morning from an article that discusses this at greater length; you’ll find a more complete discussion in a wonderful two-volume book edited by Harold Abram Evans. Many of the speakers presenting here today are included in this work.
-
-**Bache · 2023-01-06 · S2S Podcast · LSD and the Mind of the Universe – S2S Podcast**
-
-> death and about life and about our future as individuals and as a species. It’s a beautiful vision.
-> Chris Bache:
-> Every time we die, at the deepest level all spiritual traditions tell us no one dies—we transition into a different level of reality. I’m not making light of death or trivializing it, only affirming this deeper insight: everything we are survives the death of the body. At the end of every lifetime, we return to where we came from as a resting place. We are restored and refreshed, and then we return to the challenges of history. We don’t have to live through all the evolutionary future to know freedom from the fear of death. If there were one thing from my psychedelic experiences I wish I could give the world, it would be eliminating the fear of death. I am not only unafraid of dying—I’m looking forward to it, because death is homecoming. Always, death is homecoming.
-> 
-> Simeon Mihaylov:
-> Different spiritual traditions have said that in different ways. Carl Jung says at one point that life is a short period between two infinities—which, in the end, might just be one. I think that’s a beautiful way of putting it.
-
-**Bache · 2020-10-04 · Cambridge Consciousness Forum · A Visionary Experience of the Birth of the Future Human**
-
-> k of all my sessions, noting dates, and making a detailed record within 24 hours after each session.
-> When you work in a sustained fashion with powerful psychedelics at high doses of LSD, you don’t go through one death and rebirth; you go through a series of deaths and rebirths. Our time-space identity—our ego—dies, and one enters spiritual reality. Repeating this surrender leads to deeper encounters with the structures of existence. I follow Stan in adopting his vocabulary to describe these states as the psychic level of transpersonal experience, the subtle level, and the causal level. LSD is sometimes likened to a nuclear bomb of the psyche—developed in the same decade as the nuclear bomb. A sustained, very intense psychotherapeutic process sets in motion a catalytic energy sustained over years. Sessions get deeper and deeper in a sustained fashion. It’s not unlike a nuclear explosion revealing deeper levels of the atmosphere: they were always there, but previously invisible, and now the force brings them into awareness. This is just an analogy, but in sustained psychedelic work, you don’t simply start over at the beginning of every session; one session starts where the previous left off. You go deeper and eventually enter discrete levels of consciousness with their own rules. You acclimate and learn to become consciously aware at these depths. We’re not talking about nuclear bombs—we’re talking about entering the mind of the universe, the great expanse of consciousness. Some would call it God or the Divine; I prefer the mind of the universe, the mind of the cosmos. In my journey into this vast consciousness that holds all existence, I went through multiple layers, experiencing deaths and rebirths along the way.
-
-**Bache · 2023-04-18 · Scientific & Medical Network · Prof Chris Bache – Cycles of Death & Rebirth**
-
-> ---
-> archivaltitle: Prof Chris Bache - Cycles of Death & Rebirth
-> 
-> channel: "Scientific & Medical Network"
-> 
-> recorded: 2023-04-18
-> 
-> published: 2023-04-18
-> 
-> youtubeid: bQw4ypKrJb8
-> transcriber: gpt5 model by OpenAI
-> 
-> transcriptiondate: 2025-08-19
-> 
-> license: CC0 1.0 Universal
-> speakers: ["Chris Bache"]
-> ---
-> 
-> ---
-> Chris Bache: When one works with very high doses of LSD, one goes through a series of Death-Rebirth experiences. In this image, the drop at the center underneath the line represents our egoic, private consciousness. Everything above the line represents spiritual reality. In transpersonal consciousness, the first Death-Rebirth experience takes place at the interface of our time-space consciousness and the beginnings of spiritual consciousness, and it's usually referred to as ego death. It is the complete destruction of our personal time-space identity and the beginning of an opening into spiritual reality.
-
-**Bache · 2019-09-26 · ECR – Existential Consciousness Research Inst. · Mapping of Transcendence**
-
-> ous psychedelic experiences—must be surrendered if a truly new and novel dimension is going to open.
-> I asked myself: How many fundamental, core death-rebirth transitions did I go through? There are levels within levels, with iterations that go deeper and deeper. But I identified five core cycles. First, the death of self: the complete shattering of your time-space identity—ego death. Second, entering the collective mind, the collective psyche. Third, entering archetypal mind—the domain described by Jung and Plato, though different than either portray it. Fourth, entering causal oneness. Oneness appears much earlier in the journey, but causal oneness is distinctive: there is no outer boundary. It is the totality of existence; you cannot step outside it to get a perspective on it. Fifth, the domain of Diamond Luminosity, which occupied me for the last five years of my journey.
-> 
-> In the book, these stages map to chapters: crossing the boundary of birth and death; exploring collective mind—the ocean of suffering, deep time in the soul, initiation into the universe; archetypal mind—the greater real of archetypal reality; causal oneness—a benediction of blessings.
-
-**LSD and the Mind of the Universe**
-
-> LSD and the Mind of the Universe is the memoir of a psychedelic explorer. It is the story of one person’s journey into the mind of the cosmos. I’ve tried to tell this story as concisely as I can, focusing on the journey itself and keeping theoretical discussion to a minimum. I will rely on other authors to give the reader the history and science of psychedelics, their psychopharmacology, and their clinical applications. I share my psychedelic experiences here not because I think they are special or unique, for they are not, but because, all things considered, they are the most valuable gift I have to offer the psychedelic conversation.
 
 **LSD and the Mind of the Universe Appendix I §1 ¶20 (1)**
 
@@ -130,10 +26,6 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 **LSD and the Mind of the Universe ch.6 §1 ¶15 (6 · 1)**
 
 > The proposal that death and rebirth take place at multiple levels of consciousness falls within the broad framework of Grof’s body of work, where he points to the numerous forms that death can take at transpersonal levels. In *The Ultimate Journey*, for example, he writes:
-
-**LSD and the Mind of the Universe**
-
-> And last, this book has two titles, what Tibetans would call an outer title and an inner title. LSD and the Mind of the Universe is its outer title, describing what the book is about—exploring the mind of the universe through carefully conducted LSD sessions. Diamonds from Heaven is its inner title, describing its innermost essence, for at the center of the mind of the universe, one enters the infinite clear light of Diamond Luminosity.
 
 **LSD and the Mind of the Universe ch.1 §8 ¶7 (1 · 8)**
 
@@ -158,14 +50,6 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 **LSD and the Mind of the Universe ch.2 §0 ¶5 (2 · 0)**
 
 > LSD unleashes such dramatically different states of awareness from anything we experience in our everyday life that we have to learn how to work with it. Like an athlete undertaking a strenuous sport, we have to train for the event. Not only do our minds have to adjust to the expanded capacities LSD awakens, so do our bodies. Our subtle energy system has to be conditioned and strengthened to sustain the enormous flows of energy evoked by the LSD state. As I look back on these early sessions, they seem to have functioned as an intensive training camp, preparing me physically and psychologically for the long journey that was beginning. They also broke me down existentially, taking me into my first death and rebirth.
-
-**LSD and the Mind of the Universe**
-
-> LSD and the Mind of the Universe is the memoir of a psychedelic explorer. It is the story of one person’s journey into the mind of the cosmos. I’ve tried to tell this story as concisely as I can, focusing on the journey itself and keeping theoretical discussion to a minimum. I will rely on other authors to give the reader the history and science of psychedelics, their psychopharmacology, and their clinical applications. I share my psychedelic experiences here not because I think they are special or unique, for they are not, but because, all things considered, they are the most valuable gift I have to offer the psychedelic conversation.
-
-**LSD and the Mind of the Universe**
-
-> And last, this book has two titles, what Tibetans would call an outer title and an inner title. LSD and the Mind of the Universe is its outer title, describing what the book is about—exploring the mind of the universe through carefully conducted LSD sessions. Diamonds from Heaven is its inner title, describing its innermost essence, for at the center of the mind of the universe, one enters the infinite clear light of Diamond Luminosity.
 
 **LSD and the Mind of the Universe ch.12 §3 ¶5 (12 · 3)**
 

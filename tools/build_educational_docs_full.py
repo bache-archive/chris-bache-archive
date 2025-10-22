@@ -8,8 +8,7 @@ Guarantees:
 - Book quotes render FIRST, talk quotes SECOND (never mixed).
 - Book quotes always show a citation label; if missing, one is synthesized.
 - Talk quotes prefer explicit start_hhmmss and otherwise derive [hh:mm:ss] from ts_url.
-- Labels like "LSDMU ..." are normalized to
-  "LSD and the Mind of the Universe ...".
+- Labels like "LSDMU ..." are normalized to "LSD and the Mind of the Universe ...".
 - Appends a Fair Use notice to every page.
 
 Usage:
@@ -21,6 +20,7 @@ Usage:
 from __future__ import annotations
 import os, sys, json, argparse, datetime, re, urllib.parse
 from pathlib import Path
+from typing import List, Dict, Any
 
 # optional env loader
 try:
@@ -73,7 +73,6 @@ def _seconds_to_hhmmss(total: int) -> str:
     return f"{h:02d}:{m:02d}:{s:02d}"
 
 def _parse_hms_token(token: str) -> int | None:
-    """Accepts '1h2m3s' or '75s' or '12m' etc."""
     m = _time_hms_re.search(token.strip())
     if not m: return None
     h = int(m.group(1) or 0)
@@ -119,17 +118,12 @@ def best_timecode(chunk: dict) -> str | None:
 _LSDMU_RE = re.compile(r'^\s*LSDMU\b', re.I)
 
 def normalize_citation_label(label: str | None) -> str:
-    """
-    Expand leading 'LSDMU' to the full book title, preserving any chapter/section pointers.
-    Examples:
-      'LSDMU ch.10 §3 ¶14' -> 'LSD and the Mind of the Universe ch.10 §3 ¶14'
-      'LSDMU Appendix I §1 ¶21' -> 'LSD and the Mind of the Universe Appendix I §1 ¶21'
-    """
+    """Expand leading 'LSDMU' to the full book title."""
     if not label:
         return ""
     return _LSDMU_RE.sub("LSD and the Mind of the Universe", label).strip()
 
-def synth_citation_from_ptr(citation: str, ch: str | None, sec: str | None) -> str:
+def synth_citation_from_ptr(citation: str | None, ch: str | None, sec: str | None) -> str:
     """Ensure we always have a readable book label."""
     label = (citation or "").strip()
     if not label:
@@ -202,9 +196,8 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 
     preface_block = f"\n\n> {preface}\n" if preface else ""
 
-    # ==== BOOK — verbatim, all book chunks only (talk-like fields are ignored defensively) ====
+    # BOOK — verbatim, all; ensure no talk-like contamination
     book_lines = ["## Primary citations (book — verbatim excerpts)"]
-    # Defensive filter: forbid talk-like entries sneaking into book section
     def is_talkish(c: dict) -> bool:
         return bool((c.get("ts_url") or c.get("url") or "").strip() or (c.get("recorded_date") or "").strip())
 
@@ -221,7 +214,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
             book_lines.append("> " + esc(c.get("text","")).replace("\n", "\n> ").rstrip())
     book_block = "\n".join(book_lines)
 
-    # ==== TALKS — verbatim, all talk chunks; timecoded first, then by score ====
+    # TALKS — verbatim, all; timecoded first then by score
     def sort_key(c):
         tc = 1 if best_timecode(c) else 0
         score = c.get("_score") or 0.0
@@ -269,6 +262,57 @@ All quotations remain the intellectual property of their respective copyright ho
 
     return "\n".join([fm, preface_block, book_block, talk_block, "", provenance, "", fair_use]) + "\n"
 
+# ---------- validation ----------
+
+def _has_talkish_keys(d: Dict[str, Any]) -> bool:
+    return any((d.get(k) or "").strip() for k in ("ts_url","start_hhmmss","recorded_date","url","date","hhmmss","time_hhmmss"))
+
+def _talk_has_anchor(d: Dict[str, Any]) -> bool:
+    return any((d.get(k) or "").strip() for k in ("ts_url","recorded_date","start_hhmmss","hhmmss","time_hhmmss","url","date"))
+
+def validate_sources(qid: str, data: Dict[str, Any]) -> tuple[bool, str]:
+    """Ensure book/talk sections are not mingled and have minimal required fields."""
+    book = (data.get("book") or {})
+    talks = (data.get("talks") or {})
+    bchs: List[Dict[str, Any]] = (book.get("chunks") or []) or []
+    tchs: List[Dict[str, Any]] = (talks.get("chunks") or []) or []
+
+    b_talkish = sum(1 for c in bchs if _has_talkish_keys(c))
+    b_missing_cit = sum(1 for c in bchs if not (c.get("citation") or c.get("label") or "").strip())
+    t_no_anchor = sum(1 for c in tchs if not _talk_has_anchor(c))
+    t_bookish = sum(1 for c in tchs if (c.get("citation") or c.get("label") or "").strip().upper().startswith("LSDMU"))
+
+    ok = (b_talkish == 0 and b_missing_cit == 0 and t_no_anchor == 0 and t_bookish == 0)
+    note = (f"{qid}: book={len(bchs)} talks={len(tchs)} | "
+            f"book:talkish={b_talkish} book:no_cit={b_missing_cit} | "
+            f"talks:no_anchor={t_no_anchor} talks:bookish_cit={t_bookish}")
+    return ok, note
+
+def validate_render_counts(qid: str, md: str, data: Dict[str, Any]) -> tuple[bool, str]:
+    """Rough check that rendered counts align with sources counts."""
+    # slice sections
+    book_start = md.find("## Primary citations (book")
+    talk_start = md.find("## Supporting transcript quotes")
+    if book_start == -1 or talk_start == -1:
+        return False, f"{qid}: missing section headers"
+
+    book_section = md[book_start:talk_start]
+    # book entries are rendered as lines beginning with **label**
+    book_rendered = len(re.findall(r"\n\*\*.+?\*\*\n", book_section))
+
+    next_header = md.find("\n## ", talk_start + 4)
+    talk_section = md[talk_start: (next_header if next_header != -1 else len(md))]
+    # talk entries are rendered as blockquotes lines '> ' followed by a header on next line
+    talk_rendered = len(re.findall(r"\n> [^\n]+", talk_section))
+
+    src_book = len(((data.get("book") or {}).get("chunks") or []))
+    src_talk = len(((data.get("talks") or {}).get("chunks") or []))
+
+    # allow small mismatches (e.g., empty texts filtered)
+    ok = (abs(book_rendered - src_book) <= 2) and (abs(talk_rendered - src_talk) <= 2)
+    note = (f"{qid}: rendered book={book_rendered}/{src_book}, talks={talk_rendered}/{src_talk}")
+    return ok, note
+
 # ---------- main ----------
 
 def main():
@@ -284,11 +328,12 @@ def main():
 
     qids = list_qids(args.qid)
     wrote = 0
+    all_ok = True
+    notes: List[str] = []
 
     for qid in qids:
         src = DOCS / qid / "sources.json"
         data = json.loads(src.read_text(encoding="utf-8"))
-        # Strictly read from separated sections
         book_chunks  = (data.get("book",{}) or {}).get("chunks",[]) or []
         talk_chunks  = (data.get("talks",{}) or {}).get("chunks",[]) or []
         meta_date    = (data.get("meta",{}) or {}).get("date","")
@@ -305,8 +350,24 @@ def main():
             wrote += 1
             print(f"[ok] wrote {out}")
 
+        # validations
+        ok1, note1 = validate_sources(qid, data)
+        ok2, note2 = validate_render_counts(qid, md, data)
+        all_ok = all_ok and ok1 and ok2
+        notes.append(f"[sources] {note1}")
+        notes.append(f"[render ] {note2}")
+
+    # summary
     if not args.dry_run:
         print(f"\nDone. Wrote {wrote} document(s).")
+
+    print("\nValidation summary:")
+    for n in notes:
+        print(" - " + n)
+    print(f"\nOverall: {'OK' if all_ok else 'FAILED'}")
+
+    if not all_ok:
+        sys.exit(2)
 
 if __name__ == "__main__":
     main()

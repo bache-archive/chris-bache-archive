@@ -7,89 +7,9 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is a scholar and author known for his exploration of consciousness, suffering, and the transformative potential of psychedelic experiences. His work delves into the complexities of human suffering and its role in personal and collective growth, drawing from extensive research and personal experiences. Bache's contributions to the field encourage a deeper understanding of the interplay between suffering, healing, and the broader cosmic context of existence.
+> Christopher M. Bache is an academic and author known for his explorations of consciousness and psychedelic experiences. His work often delves into the intersection of personal and collective suffering, examining how these experiences contribute to a deeper understanding of reality. Bache's insights challenge conventional perceptions of time, reality, and the nature of existence, positioning his narratives within a broader cosmological framework. This page provides an overview of his contributions to the field of consciousness studies.
 
 ## Primary citations (book — verbatim excerpts)
-
-**Bache · 2024-09-24 · Numinus Network · What 73 high dose LSD sessions taught Christopher Bache PhD about the nature of reality (Rebroadcast)**
-
-> stantiation of the universe—every life, the ones that suffer and the ones that don't suffer as much.
-> Chris Bache
-> And I address this in Lifecycles: human suffering brings us to our knees, and I don’t think we have an adequate understanding or explanation of it. In my experience, when I’ve been drawn into a larger overview and encountered the intelligence behind this process, I find myself trusting beyond what I can understand. I trust because of the quality of the being I encounter behind these circumstances. I can’t understand all the pain behind all this. I can come up with any number of partial and incomplete theories for how it works, but in the end we’re brought to our knees trying to grasp it intellectually. If you experience the love and wisdom of the universe, it gives confidence that there truly is a logic to it. And I want to say: the universe is a hard taskmaster. Look at images of Kali the destroyer—she brings death and destruction in one hand and enlightenment in the other. These things go together. There is nothing easy or gentle about the love of the universe or the love of the Divine. It is a fierce place we are part of, a very demanding world. But the question is: does the universe, in a deeper sense, pay attention to our pain? Is there a way in which, by engaging our pain as conscientiously as we can, it leads to our development in the long term? Is the universe listening to us in our pain? I think it is. I think it is an intentional process, even though I can’t answer your question satisfactorily.
-
-**Bache · 2024-09-24 · Spirit Plant Medicine · Philosophical Implications of Non-Ordinary States (live)**
-
-> incredible LSD and the Mind of the Universe: Diamonds from Heaven, which many people have read now.
-> Just to add a little more about how I understand what happened in that 20-year journey—mind you, it would take all day to do it justice—the very short version is: in each one of those 73 journeys, the first two hours were, as you described in the book, sometimes exquisitely painful as you went through the difficult process of ego dissolution and beyond—letting go of any kind of identity, even as a human. And then what happened, as I recall, is that you broke out into what you have called the vast intelligences of the universe. Believe me, folks, this is no exaggeration—the kind of material that Chris brought back is absolutely stunning and absolutely relevant to what’s going on on the planet.
-
-**Bache · 2019-11-13 · Trust Psyche · LSD & the Mind of the Universe: Diamonds from Heaven**
-
-> ory loss; but by returning over and over, cognition, perception, understanding, and recall improved.
-> The ocean of suffering lasted two years and 14 sessions, divided into one year of work, then a six-year break, then a resumption. After the break, the ocean of suffering picked up exactly where it had left off—six years later, with completely different life circumstances and astrological conditions. Nevertheless, my sessions began exactly where they had stopped, an indication of the intentionality of the intelligence guiding our work. After the break, the ecstatic portions began at a completely different place: what I came to call initiation into the universe. I was taken systematically by an intelligence that never adopted any form, but was intent on teaching me how the universe functions. It was cosmology 101.
-
-**Bache · 2021-04-21 · Adventures Through the Mind · Global Collapse, Spirituality & The Birth of the Future Human (ATTMind #142)**
-
-> y fear—fear of dying, fear of loss. If you lose that fear of dying, you live from a different place.
-> LSD and the Mind of the Universe is a psychedelic memoir—a whole life’s work. I like the title Diamonds from Heaven better because it’s a story of a journey of deepening intimacy. After sessions, even a grocery store can feel like Disneyland—strange and surreal. That’s our work: go into deeper intimacy with whatever drives the universe, then come back and live our lives as best we can. Reincarnation does this—pulling us out into spiritual reality, plunging us back in, over and over. A psychedelic session reenacts that on a smaller orbit: it shatters the earthly life, opens us to what it’s like to die into the great surrounding world, then we come back into time and space. Do that enough times—incarnate enough times—and you cease to relate to the world as before.
-
-**Bache · 2021-07-08 · Rebel Spirit Radio · MIND-BLOWING LSD Secrets Revealed – Rebel Spirit Radio**
-
-> s address suffering, often aiming to end it, but you write that we need to be open to our suffering.
-> Chris Bache
-> Let’s set the context. In a therapeutic modality with psychedelics, your system becomes hyperconscious for a time. When that happens, it spontaneously begins to cleanse itself. It brings forward the parts of your past you’ve struggled with—pain, fear, unfinished business. By confronting those fears and pains heroically, you can bring to resolution things that started in the past but never completed—ugly deaths, problematic relationships, and so on. Embracing the suffering that presents itself—letting it into awareness—allows it to move to a better outcome. The system relaxes, and you’re free to move into deeper levels of reality.
-> 
-> Early on, as consciousness expands beyond time-space, you may face ego death—the shattering of the identity formed in time-space. It’s painful, an inversion of everything you’ve known yourself to be, but in surrender, consciousness is liberated into deeper textures of mind. If you continue, you cycle through further purifications and deeper deaths, each followed by entry into deeper dimensions of reality, always working a particular edge.
-
-**Bache · 2018-10-12 · Adventures Through the Mind · Mapping Consciousness with High-Dose LSD (ATTMind #83)**
-
-> ive us an outline—what was happening in there, after 70-something sessions of 500 micrograms of LSD?
-> Chris Bache:
-> That is the question, and it's hard to summarize—it's taken me about 300 pages just to tell the story. There were so many layers. Basically, my experience has been that the universe—or the mind of the universe, or the mind of the divine—is an infinite ocean of potential. When we drop our individual mind into that ocean, it catalyzes experiences out of that infinite potential. As we are changed, influenced, healed, and purified by that exchange, the seed crystal of our mind changes. When we later drop that same, now-transformed mind into the ocean, it catalyzes a deeper set of experiences.
-
-**Bache · 2019-11-13 · Trust Psyche · LSD & the Mind of the Universe: Diamonds from Heaven**
-
-> a journey. The publisher wanted a more marketable title, and that’s LSD in the Mind of the Universe.
-> The beginning of this book goes back over 40 years. In 1978, when I began graduate school, I encountered Stanislav Grof’s work. His book Realms of the Human Unconscious turned my life around, followed quickly by LSD Psychotherapy. He gave me the method and the confidence to explore my consciousness and, through that exploration, to come to know the deep psyche—the deep universe—better. I want to emphasize I did this work as a philosopher. I was not a therapist. I wasn’t primarily seeking healing—though healing did come—but seeking to understand our universe as deeply as I could by exploring my consciousness as deeply as I could.
-
-**Bache · 2022-12-07 · Scientific & Medical Network · LSD & the Mind of the Universe (SMN webinar)**
-
-> eally look forward to sharing the experiences I report in my book, LSD and the Mind of the Universe.
-> David has framed our conversation as the question of whether we can all access the cosmic mind using psychedelics. I believe that we all can, but whether we all should is another matter entirely. In contrast to the early idea that psychedelics represent a shortcut to mystical experience, my concern is that the psychedelic journey into the cosmic mind is extremely demanding and must be approached with great care and caution.
-> 
-> In LSD and the Mind of the Universe, I describe experiences that opened in 73 high-dose LSD sessions conducted over 20 years when I was a young man between 30 and 50 years old, from 1979 to 1999. I then spent another 20 years thinking about these experiences, digesting them, mapping them, and pondering their implications. I hope the visions I brought back will be useful not only to other psychonauts but also to those who would never take a psychedelic themselves. What’s important is the vision of the cosmos they contain, and a vision of where humanity is in its long evolutionary journey and the turning point we’re coming to.
-
-**Bache · 2023-07-12 · Sounds True · Diamonds from Heaven: Exploring the Mind of the Universe**
-
-> osophy of religion, not just for psychology, and I knew I wanted to get involved in doing this work.
-> So even though LSD had been made illegal in 1970, I chose to conscientiously break the law and begin a series of rigorously structured sessions following Stan’s protocol. After three medium-dose sessions, I chose to work at high doses. This is a protocol I don’t recommend today. I would be much gentler on myself if I were doing it over again, but at the time this is what I was doing to accelerate my own spiritual development. Quickly it evolved into engaging the deep structures of human evolution and trying to support humanity’s spiritual development, and then exploring this marvelous universe that we are part of.
-> 
-> Tami Simon
-> You write toward the beginning of the book, “In the end, what’s important is not the method of exploration used, but what this method shows us about the extraordinary universe we live in.” That’s what I want to focus on—really the discoveries that you made. Let’s start with the title: LSD and the Mind of the Universe. I’m not sure everyone can track with you there—the universe has a mind? Tell us what you discovered.
-
-**Bache · 2021-03-29 · Spirit Plant Medicine · Chris Bache – LSD and the Mind of the Universe – SPMC 2019**
-
-> the LSD work—but LSD and the Mind of the Universe focuses on what happened in the high-dose journey.
-> The circumstances were unusually stable, concentrated, and focused: the same sitter for years, same set and setting, intention, location (Northeast Ohio), substance, dose level, and the same recording process—always recording each session as completely as possible within 24 hours. When you stabilize your work—eliminate variables, use the same methodology consistently—it stabilizes the conversation between you and the creative intelligence of the universe. It stabilizes the communion so that one session leads to the next in a coherent, intelligent manner. You may not understand the continuity as it unfolds, but over time you see patterns and feel you’re engaging a single creative intelligence. I say that carefully—there are many layers and forms of intelligence—but across sessions the continuity is unmistakable.
-
-**Bache · 2021-06-03 · Portland Psychedelic Society · LSD and the Mind of the Universe – Christopher Bache, Ph.D.**
-
-> ing deeper requires yet another cycle of complete surrender to enter the initiation available there.
-> Working with high doses of LSD has been compared to a nuclear bomb. The bomb and LSD were both created in the same decade. A long, sustained series of psychedelic experiences, focused therapeutically, triggers a sustained “nuclear explosion”—not only de‑structuring reality as you’ve known it, but exposing deeper levels that were always there but invisible until this explosion brought them into awareness. We’re not talking about bombs, of course; we’re talking about this beautiful universe: 100 billion galaxies, billions of stars in the Milky Way. I’ll use that as backdrop to touch on turning points in my journey and levels of reality I entered.
-> 
-> Looking back, I identified five core levels or cycles of death and rebirth: personal mind; collective mind (species mind); archetypal mind; causal oneness (the One); and Diamond Luminosity. That’s the structure I used to tell the travelogue in the book.
-
-**Bache · 2024-11-07 · Sandie Sedgbeer · Reincarnation and the Web of Life (What Is Going OM)**
-
-> g mistakes, and likewise the supreme intelligence of the universe would not do that to human beings.
-> Now, as you know from my book LSD and the Mind of the Universe, I spent many years entering hell realms—experiencing extreme torture that looks like a hell realm. My eventual understanding is this: just as my individual psyche retains all my memories, good and traumatic, there is a consciousness of the human species that retains all of its memories and processes them in a central meta-psychological condition—what Jung called the collective unconscious. That means all the terrible things human beings have done to each other—all the wars, horrors, injustices, rapes, pillaging—to the extent they have not been clarified or healed, become part of the collective torment, the collective shadow of humanity. You might say that within the human psyche there are clusters of memories with a hellish quality. But that doesn’t mean there is a cosmological state of eternal hell, because just as individuals can clear bad experiences from their system, the human species can clear terrible trauma from its system. I think that in the early Church, some who had contact with these collective hellish realms mistakenly interpreted them as a cosmological principle of eternal hell.
-
-**LSD and the Mind of the Universe**
-
-> LSD and the Mind of the Universe is the memoir of a psychedelic explorer. It is the story of one person’s journey into the mind of the cosmos. I’ve tried to tell this story as concisely as I can, focusing on the journey itself and keeping theoretical discussion to a minimum. I will rely on other authors to give the reader the history and science of psychedelics, their psychopharmacology, and their clinical applications. I share my psychedelic experiences here not because I think they are special or unique, for they are not, but because, all things considered, they are the most valuable gift I have to offer the psychedelic conversation.
-
-**LSD and the Mind of the Universe**
-
-> And last, this book has two titles, what Tibetans would call an outer title and an inner title. LSD and the Mind of the Universe is its outer title, describing what the book is about—exploring the mind of the universe through carefully conducted LSD sessions. Diamonds from Heaven is its inner title, describing its innermost essence, for at the center of the mind of the universe, one enters the infinite clear light of Diamond Luminosity.
 
 **LSD and the Mind of the Universe ch.1 §8 ¶7 (1 · 8)**
 
@@ -130,14 +50,6 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 **LSD and the Mind of the Universe ch.6 §0 ¶34 (6 · 0)**
 
 > My consciousness was expanding and opening to more and more suffering. Eventually, I had the sense that my being stretched from horizon to horizon as I experienced a suffering that involved tens of thousands of people. Because I had gone into this state more slowly this time, it was not as confusing as before. Then I caught a glimpse of something behind the field of suffering, something enormous and familiar from the previous session. I reached more deeply into the suffering and eventually broke through to this larger dimension.
-
-**LSD and the Mind of the Universe**
-
-> LSD and the Mind of the Universe is the memoir of a psychedelic explorer. It is the story of one person’s journey into the mind of the cosmos. I’ve tried to tell this story as concisely as I can, focusing on the journey itself and keeping theoretical discussion to a minimum. I will rely on other authors to give the reader the history and science of psychedelics, their psychopharmacology, and their clinical applications. I share my psychedelic experiences here not because I think they are special or unique, for they are not, but because, all things considered, they are the most valuable gift I have to offer the psychedelic conversation.
-
-**LSD and the Mind of the Universe**
-
-> And last, this book has two titles, what Tibetans would call an outer title and an inner title. LSD and the Mind of the Universe is its outer title, describing what the book is about—exploring the mind of the universe through carefully conducted LSD sessions. Diamonds from Heaven is its inner title, describing its innermost essence, for at the center of the mind of the universe, one enters the infinite clear light of Diamond Luminosity.
 
 **LSD and the Mind of the Universe ch.8 §0 ¶18 (8 · 0)**
 
