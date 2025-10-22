@@ -85,17 +85,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 
 ## Supporting transcript quotes (verbatim)
 
-> ---
-
-
-
-
-transcriber: gpt5 model by OpenAI
-
-
-license: CC0 1.0 Universal
----
-
+> 
 ---
 Chris Bache: When one works with very high doses of LSD, one goes through a series of Death-Rebirth experiences. In this image, the drop at the center underneath the line represents our egoic, private consciousness. Everything above the line represents spiritual reality. In transpersonal consciousness, the first Death-Rebirth experience takes place at the interface of our time-space consciousness and the beginnings of spiritual consciousness, and it's usually referred to as ego death. It is the complete destruction of our personal time-space identity and the beginning of an opening into spiritual reality.
 
