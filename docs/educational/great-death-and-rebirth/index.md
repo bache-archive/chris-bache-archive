@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is a scholar known for his exploration of consciousness, particularly through the lens of psychedelic experiences and their implications for understanding death and rebirth. His work examines the multidimensional dynamics of these processes, emphasizing their significance in both personal transformation and collective awakening. Bache's insights contribute to a broader discourse on the intersection of spirituality, psychology, and cosmology.
+> Christopher M. Bache is a scholar known for his exploration of consciousness, particularly through the lens of psychedelic experiences and their implications for understanding death and rebirth. His work delves into the multidimensional dynamics of these processes, emphasizing their significance in both personal transformation and collective awakening. Bache's insights contribute to a broader discourse on the intersection of spirituality, psychology, and cosmology.
 
 ## Primary citations (book — verbatim excerpts)
 
@@ -86,21 +86,14 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ## Supporting transcript quotes (verbatim)
 
 > ---
-archivaltitle: Prof Chris Bache - Cycles of Death & Rebirth
 
-channel: "Scientific & Medical Network"
 
-recorded: 2023-04-18
 
-published: 2023-04-18
 
-youtubeid: bQw4ypKrJb8
 transcriber: gpt5 model by OpenAI
 
-transcriptiondate: 2025-08-19
 
 license: CC0 1.0 Universal
-speakers: ["Chris Bache"]
 ---
 
 ---
@@ -185,24 +178,6 @@ Chris Bache
 It took me a long time to understand the patterns of my sessions. In some ways they started as I expected, drawing upon Stan’s map of consciousness, but after a few years they seemed to diverge and enter new territory. One thing I’ve come to understand is that consciousness has many levels—operational tiers. Each time you enter a new level, there is required a surrender of everything you had known and assumed before, in order to enter a level that operates by completely different rules.
 
 [00:17:36](https://youtu.be/Dw7D7ih8vy0?t=1056)  — *EP.6 - Chris Bache | LSD AND THE MIND OF THE UNIVERSE* (2020-05-13) • 00:17:36
-
-> ---
-archivaltitle: Diamonds from Heaven: Exploring the Mind of the Universe
-channel: Sounds True
-recorded:
-published: 2023-07-12
-youtubeid: mG1uyBw0ucg
-transcriber: gpt5 model by OpenAI
-transcriptiondate: 2025-09-09
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Tami Simon"]
----
-
----
-Chris Bache
-Eventually, I came to understand that the many deaths one endures in this process are a symptom of purification. The form that you are can die. The structures of your life can be shattered, but the inner essence of your being cannot die. I began to realize that what we experience as death is actually a deep form of purification—letting go of the small in order to welcome, and be welcomed by, that which is larger.
-
-[00:00:00](https://youtu.be/mG1uyBw0ucg?t=0)  — *Diamonds from Heaven: Exploring the Mind of the Universe* (2023-07-12) • 00:00:00
 
 > he role of fear and integration versus disintegration, and your ability to contain this information?
 Chris Bache

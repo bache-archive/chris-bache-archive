@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is an academic and researcher known for his exploration of consciousness and transformative experiences. His work delves into the concept of "Diamond Luminosity," a state of heightened awareness characterized by intense clarity and brilliance. This phenomenon is examined within the context of various spiritual and psychological frameworks, offering insights into the nature of reality and human experience. Bache's contributions invite a deeper understanding of consciousness and its potential beyond conventional boundaries.
+> This educational page explores the concept of "Diamond Luminosity," a term used to describe a profound state of consciousness characterized by intense clarity and brilliance. The concept is rooted in both personal experiential accounts and broader philosophical frameworks, particularly within Buddhist thought. It highlights the transformative potential of this state, suggesting a deeper understanding of reality beyond conventional perceptions. The exploration of Diamond Luminosity invites inquiry into the nature of consciousness and the dimensions of existence.
 
 ## Primary citations (book — verbatim excerpts)
 
@@ -142,30 +142,6 @@ Diamond Luminosity is discussed in Chapter 10, the largest in the book—26 sess
 
 [00:21:30](https://youtu.be/70TRNG1-ZEg?t=1290)  — *Mapping of Transcendence* (2019-09-26) • 00:21:30
 
-> ---
-archivaltitle: Diamonds from Heaven – Lecture at TimeWaver Summer World 2018
-
-channel: TimeWaver TV
-
-recorded: 2018-08-30
-
-published: 2018-08-30
-
-youtubeid: O4ui6I1Wo9c
-
-speakers:
-Chris Bache
-
-Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
-
-transcriptiondate: 2025-08-01
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache"]
----
-
-[00:50:02](https://youtu.be/O4ui6I1Wo9c?t=3002)  — *Diamonds from Heaven – Lecture at TimeWaver Summer World 2018* (2018-08-30) • 00:50:02
-
 > ore, diamond light is of a different order entirely—ultra-clear, super-luminous, beyond imagination.
 In the next four years and twenty-five sessions, I entered this diamond luminosity state only four times, each time separated by tremendous purification and healing. The 50th session was the deepest—an absorption into pure light, boundaries dissolved, happiness beyond description. In that state, something happened that altered my understanding of reality. My visual field pivoted, and in the distance, I perceived a reality as far beyond where I was as my current state was beyond Earth, time, and space. A ray of light from that further reality struck me and shattered me—I call it the Absolute Light. This made me realize that the journey is infinite; there is no final point, no end to God or the Divine. I learned there are depths within oneness, within the void—endless variations. I once believed you could ultimately reach an endpoint—a final destiny. But this experience showed me that the Divine is infinitely large, and the path is an endless progression.
 
@@ -209,19 +185,13 @@ In the 50th session, a particular experience in diamond luminosity radically cha
 [00:50:03](https://youtu.be/Ucgt6vNpCDI?t=3003)  — *LSD and the Mind of the Universe: Diamonds from Heaven (SDI Meeting)* (2024-02-10) • 00:50:03
 
 > ---
-archivaltitle: "Diamonds From Heaven — The Mind of the Universe (Chris Bache)"
 
-channel: "Sacred Reconnections"
 
-published: 2023-11-05
 
-youtubeid: pvZDcQfGzpM
 transcriber: gpt5 model by OpenAI
 
-transcriptiondate: 2025-08-19
 
 license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Colin Campbell", "Rachel Fleming"]
 ---
 
 ---

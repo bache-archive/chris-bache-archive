@@ -150,14 +150,8 @@ Lauren Taus: An award-winning teacher and international speaker, Chris’s work 
 [00:01:30](https://www.inbodiedlife.com/blog/chris-bache)  — *Learning to be Gods: Conversations about LSD and the Mind of the Universe with Chris Bache* (2023-06-30) • 00:01:30
 
 > ---
-archivaltitle: "Prof. Dr. Christopher Bache about his work and consciousness"
-channel: "ECR - Existential Consciousness Research Institute"
-published: 2020-01-10
-youtubeid: "QaBoLNV4FQI"
 transcriber: "gpt5 model by OpenAI (edited from Otter.ai first-pass transcript)"
-transcriptiondate: 2025-09-30
 license: "CC0 1.0 Universal (Public Domain Dedication)"
-speakers: ["Chris Bache"]
 ---
 
 [00:00:20](https://youtu.be/QaBoLNV4FQI?t=20)  — *Prof. Dr. Christopher Bache about his work and consciousness* (2020-01-10) • 00:00:20
@@ -208,7 +202,6 @@ This is an exciting time and territory. I became convinced early on that psyched
 > criptiondate: 2025-08-19
 
 license: CC0 1.0 Universal
-speakers: ["Andrew Holecek", "Chris Bache"]
 ---
 ---
 Andrew Holecek
@@ -236,29 +229,18 @@ Chris Bache: Hi, Sandy. It's a pleasure to be here with you today.
 [00:01:07](https://youtu.be/2Trb-vC8zc0?t=67)  — *LSD & the Mind of the Universe (What Is Going OM)* (2023-08-17) • 00:01:07
 
 > ---
-archivaltitle: "EP.6 - Chris Bache | LSD AND THE MIND OF THE UNIVERSE"
-channel: "Ryan & Mo - Life In Rural Thailand"
-published: 2020-05-13
-youtubeid: "Dw7D7ih8vy0"
 transcriber: "Otter.ai (first pass), gpt-5 model by OpenAI (edited)"
-transcriptiondate: 2025-09-30
 license: "CC0 1.0 Universal (Public Domain Dedication)"
-speakers: ["Chris Bache", "Ryan Kemp"]
 ---
 
 [00:00:03](https://youtu.be/Dw7D7ih8vy0?t=3)  — *EP.6 - Chris Bache | LSD AND THE MIND OF THE UNIVERSE* (2020-05-13) • 00:00:03
 
 > ---
 
-archivaltitle: "What It's Like Meeting God on Psychedelics (feat. Christopher Bache)"
 
-channel: "Consciousness Clips"
 
-published: "2022-02-17"
 
-youtubeid: "58dPxDtf-r0"
 
-speakers: \["CHRIS BACHE", "HOST"\]
 
 transcriber: "gpt5 model by OpenAI"
 

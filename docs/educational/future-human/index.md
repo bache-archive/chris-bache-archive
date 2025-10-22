@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is a scholar and author known for his exploration of consciousness and the potential evolution of humanity. His work delves into the intersection of spirituality, cosmology, and personal transformation, particularly through the lens of psychedelic experiences. Bache's insights aim to illuminate the emerging concept of the "Future Human," reflecting on the deep intentionality and complexity inherent in the universe's unfolding narrative. This page provides an overview of his contributions and the themes central to his research.
+> Christopher M. Bache is a scholar and author known for his explorations of consciousness and the potential evolution of humanity. His work often intersects themes of spirituality, cosmology, and the future of human consciousness, drawing on both personal experiences and broader philosophical inquiries. Bache's insights aim to illuminate the transformative possibilities inherent in human existence and the collective journey toward a more evolved state of being.
 
 ## Primary citations (book — verbatim excerpts)
 
@@ -106,32 +106,6 @@ Chris Bache:
 There’s a chapter in the book called “The Birth of the Future Human.” I think it may be the most important chapter, and it completely surprised me. I thought my work was a personal journey—healing, awakening. Then it broadened into an individual’s insight into the deep structure of our lives. But starting around 1990 through 1995, I began receiving a series of internally consistent visions about humanity’s evolutionary destiny: where we were in our journey, that we were coming to a turning point, a crescendo that would catalyze a tremendous transformation inside humanity—a true before-and-after moment in time. A profound spiritual transformation was coming to a head. This kept repeating itself in my work in different ways, but I didn’t know how the universe was going to pull it off.
 
 [01:19:52](https://youtu.be/FMgixG6Z0sk?t=4792)  — *Psychedelics and the Cosmic Mind* (2025-03-18) • 01:19:52
-
-> ---
-archivaltitle: 2023-10-10 – Experience of the Human Being of the Future (short)
-
-channel: Buddha at the Gas Pump
-
-recorded: 2023-10-10
-
-published: 2023-10-10
-
-youtubeid: 3tVAlUzqz7M
-Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
-
-transcriptiondate: 2025-07-31
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache"]
----
-
----
-Chris Bache:
-One of the last great visions the universe gave me in one of my sessions took me deep into deep time—into the future—and gave me my last experience of the future human. It was as if it allowed me to try on, for size, the fundamental blueprint of the human psyche at that point in the future. This was the most extraordinary being. I can't quickly describe to you what an extraordinary being this is.
-
-Picture the highest, finest qualities we've imagined—the highest spiritual capacities we can imagine: a mind completely open to the universe, a heart completely open to each other; an extraordinarily magnificent being. That's what's at stake here. That's what we're trying to become.
-
-[00:00:00](https://youtu.be/3tVAlUzqz7M?t=0)  — *Experience of the Human Being of the Future (short)* (2023-10-10) • 00:00:00
 
 > ng to become one being internally, integrating all our former lives as we try to transcend our past.
 Chris Bache: We're trying to unify engineering, ecological, industrial practices; taking responsibility for planetary health geopolitically and geophysically. That effort is mirrored by the intrapsychic process where we strive to grow up and come to terms with who and what we are. This is what I call the birth of the future human. The crisis we are entering, which will likely dominate the 21st and extend into the 22nd century, is not simply economic or industrial—it's a crisis of consciousness, an evolutionary crisis giving birth to a future human.

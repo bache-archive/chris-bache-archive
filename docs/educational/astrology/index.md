@@ -163,14 +163,8 @@ Before I ask Chris to say anything, a short bio with a couple of comments. Chris
 [00:01:02](https://youtu.be/zXt-LkmINyc?t=62)  — *LSD and the Mind of the Universe – Interview with Stephen Gray* (2021-05-03) • 00:01:02
 
 > ---
-archivaltitle: "Prof. Dr. Christopher Bache about his work and consciousness"
-channel: "ECR - Existential Consciousness Research Institute"
-published: 2020-01-10
-youtubeid: "QaBoLNV4FQI"
 transcriber: "gpt5 model by OpenAI (edited from Otter.ai first-pass transcript)"
-transcriptiondate: 2025-09-30
 license: "CC0 1.0 Universal (Public Domain Dedication)"
-speakers: ["Chris Bache"]
 ---
 
 [00:00:20](https://youtu.be/QaBoLNV4FQI?t=20)  — *Prof. Dr. Christopher Bache about his work and consciousness* (2020-01-10) • 00:00:20
