@@ -7,88 +7,88 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> This educational page explores the concept of the shamanic persona, a unique synthesis of experiences that emerges through psychedelic practices and spiritual journeys. It examines the characteristics and evolution of this persona, highlighting its role in integrating transpersonal experiences and facilitating deeper connections with consciousness. The discussion also addresses the implications of these experiences for personal identity and the broader human psyche.
+> This educational page explores the concept of the shamanic persona, a unique synthesis of experiences that emerges through psychedelic practices. It examines the evolution of this persona as individuals navigate various levels of consciousness, integrating knowledge and experiences from their journeys. The discussion highlights the role of the shamanic persona in facilitating deeper connections with the cosmos and the implications for personal and collective transformation.
 
 ## Primary citations (book — verbatim excerpts)
 
-**LSDMU Appendix I §1 ¶10**
+**LSD and the Mind of the Universe Appendix I §1 ¶10**
 
 > Because the shamanic persona is a synthesis of a specific set of experiences, it is a specific entity with a specific identity. It is not an archetype. It is the living memory of our unique psychedelic history, and as such it has built into it the character and limitations of that history. A shamanic persona that embodies stabilized psychic level experience, for example, is a very different entity than a shamanic persona that embodies stabilized subtle level experience or causal level experience. By “stabilized experience,” I mean that we have entered a certain level of consciousness often enough that we have acclimated to the territory and learned the terrain. Our psycho-physical system has undergone the necessary purifications and adaptations for us to maintain coherent awareness and good recall at this level.
 
-**LSDMU ch.6 §0 ¶2**
+**LSD and the Mind of the Universe ch.6 §0 ¶2**
 
 > More than any other of the human types concerned with the sacred, the shamanic personality journeys into the far regions of the cosmic mystery and brings back the vision and the power needed by the human community at the most elementary level. Not only is the shamanic personality emerging in our society, but also the shamanic dimension of the psyche itself.
 > —Thomas Berry, *The Dream of the Earth*
 
-**LSDMU Appendix I §1 ¶12**
+**LSD and the Mind of the Universe Appendix I §1 ¶12**
 
 > In a sustained psychedelic regimen, our shamanic persona may die and be reborn multiple times as new levels of reality continue to open. After ego-death, a shamanic persona emerges as the living integration of our early transpersonal experiences. As our experience continues to deepen in subsequent sessions, that first shamanic persona will eventually have to surrender and die, giving birth to a second shamanic persona that will integrate our new transpersonal experiences. This second persona will retain the memories and knowledge of the first persona and add to it the new knowledge and capacities gained at this second level. If we continue to push the boundaries of experience, sooner or later this second shamanic persona will also have to surrender in order for a still deeper dimension of consciousness to open and become fully operational.
 
-**LSDMU ch.10 §3 ¶7**
+**LSD and the Mind of the Universe ch.10 §3 ¶7**
 
 > So it was that during the last five years of my psychedelic journey, when the work was entering its most intense phase, I integrated Vajrayana practice into my psychedelic practice. I had always been a meditator, but this represented a more formal commitment to a specific lineage of dharma transmission. I was comfortable with most of Buddhist thought—not the patriarchy—and many of its teachings had been confirmed in my sessions. Vajrayana Buddhism is sometimes described as a synthesis of the sage tradition of Indian Buddhism and the shamanic Bon tradition indigenous to Tibet. Shamanism, therefore, is built into its very fabric. Perhaps this is why combining Vajrayana practice with my psychedelic practice always felt natural to me.
 
-**LSDMU ch.1 §3 ¶3**
+**LSD and the Mind of the Universe ch.1 §3 ¶3**
 
 > In my university courses, I often called the sacred medicine path the *path of temporary immersion* and contrasted it with the *path of meditation*. Where meditation is a path of self-clarification that allows the layers of the mind to open gradually, the sacred medicine path cultivates intense but temporary surges of awareness. By amplifying our present awareness, the medicine path opens us more quickly to a deeper communion with the universe. This is a good thing, a healing thing, but it can also bea tricky thing because it’s easy to overestimate the staying power of these dramatic exercises. To use Abraham Maslow’s vocabulary, we can overestimate the value of our *peak experiences* and underestimate the challenge of achieving more stable *plateau experiences*. Or as Ken Wilber reminds us, *states* of consciousness are not *stages* of spiritual development.
 
-**LSDMU ch.6 §0 ¶116**
+**LSD and the Mind of the Universe ch.6 §0 ¶116**
 
 > What “I” was at this point is difficult to describe. The hours of painful cleansing had already shattered my egoic reality and left me in an extremely porous transpersonal state. As we approached the arena, the procession was stopped at regular intervals and interrogated. In order to be allowed to continue, one had to demonstrate one’s knowledge of the workings of the universe. My work and my person were being scrutinized. I was surprised to find that I appeared to possess the required knowledge, as I was always passed along. This was a deeply moving experience. It felt like I was being initiated into a shamanic fellowship, that my entire life had been planned toward this end.
 
-**LSDMU ch.1 §10 ¶6**
+**LSD and the Mind of the Universe ch.1 §10 ¶6**
 
 > At the *psychic level* of transpersonal experience, consciousness expands beyond physical reality into nonphysical or spiritual reality, but our experience of this reality still tends to be constrained by conditioning that carries over from our spacetime experience. Inside space-time, for example, we experience life to be composed of separate beings, and psychic level transpersonal experience tends to mirror this assumption. At this level of consciousness, we often experience ourselves as distinct spiritual beings in the company of other distinct beings. There is an “atomistic” quality to the experience, a “soul-centric” quality, and the soul we experience at this level tends to be the spiritual self of our present life, our “discarnate self,” as it is sometimes called.
 
-**LSDMU ch.9 §0 ¶9**
+**LSD and the Mind of the Universe ch.9 §0 ¶9**
 
 > I know it sounds arrogant to speak on such a scale, but I must if lam to describe the visions that repeatedly came through my sessions. Ego-death destroys the existential isolation and constant self-referencing that organizes our ordinary experience of the world. When the partitions of personal consciousness are surrendered, our experience spontaneously opens to the larger rhythms of life that we are part of. One portion of these rhythms is the collective psyche of our species. At the subtle level of consciousness, we can dissolve into the human species-mind so deeply that the beginnings and endings of our personal life become insignificant. When the “small-self” opens to the “species-self” this completely, it is only natural that insights into humanity’s larger developmental trajectory sometimes emerge in our awareness. We would be surprised if this did not happen.
 
-**LSDMU ch.7 §10 ¶5**
+**LSD and the Mind of the Universe ch.7 §10 ¶5**
 
 > In these respects, my view of the collective unconscious has been influenced by Rupert Sheldrake and his work on morphic fields and formative causation, which I have found to be deeply congruent with my psychedelic experience. From Sheldrake’s perspective, the collective psyche, or species-mind, influences its individual members, as Jung suggests. But Sheldrake goes further than Jung in proposing that the collective psyche also receives and integrates the learning of its members. Sheldrake envisions a complex feedback loop operating between the species-mind and individuals that allows the species-mind to learn as its members learn. Collective learning progresses more slowly than individual learning, but when the species-mind eventually grasps a truth, the resulting shift ripples through the entire species resulting in faster learning curves.
 
-**LSDMU ch.6 §1 ¶4**
+**LSD and the Mind of the Universe ch.6 §1 ¶4**
 
 > I wrote *Dark Night, Early Dawn* in part to answer the question: Why did death become as large as it did in my psychedelic journey? What is driving the healing process when it opens to such collective tracts? In that book, I abandoned the person-centered narrative I had been assuming and adopted an expanded narrative. By integrating Rupert Sheldrake’s concept of morphic fields into Grof’s paradigm, the way opened to viewing these collective ordeals as part of a larger transformational process aimed at healing wounds still carried in the collective psyche. I argued that in highly energized psychedelic states, the collective unconscious is sometimes activated to such a degree or in such a manner that it triggers a *collective* healing process. Through some fractal flip or quantum entanglement I had not anticipated or even thought possible at the time, the “patient” in my sessions had shifted from being me to being some portion of humanity itself.
 
-**LSDMU ch.7 §1 ¶1**
+**LSD and the Mind of the Universe ch.7 §1 ¶1**
 
 > When I first entered archetypal reality, my identity as ahuman being began to fall away from me. I found that we have a sense of being human that is more basic than our sense of being a specific human. It is a felt sense of species identity that we share with all human beings beneath the details of our individual identity. In following the flow of existence back into archetypal reality, I had to cease to exist not only as a specific person but as a human being per se. This required a deeper surrender than ego-death. At first I struggled to hold on to my humanity for it had been the context for every experience I had ever had, but I could not stop what was happening. The pull was too strong. Eventually, I could no longer fit myself back into the form of Homo sapiens.
 
-**LSDMU ch.8 §1 ¶24**
+**LSD and the Mind of the Universe ch.8 §1 ¶24**
 
 > While these kinds of responses might be expected in certain types of courses, such as a counseling course, this was not the case for the kinds of courses I was teaching, which were Introduction to World Religions, Religion and the Earth, Psychology of Religion, Transpersonal Studies, and Buddhism. It was not the content of the course that seemed to be driving these effects but something deeper. What was triggering these effects was not what I was doing but what I had become through my psychedelic practice. Because of this work, my core energy was changing. A field of energy moving through me or around me was growing stronger, causing a spontaneous *energetic resonance* to spring up between me and my students underneath the exchange of ideas in the classroom.
 
-**LSDMU ch.7 §3 ¶1**
+**LSD and the Mind of the Universe ch.7 §3 ¶1**
 
 > My encounter with the Living Forces of archetypal reality at the high subtle level seemed to awaken in me a capacity to experience the sinews of humanity’s collective being at a lower subtle level. Or perhaps this is simply where I was directed next. I think that the most important insights I received in these eleven sessions came from this more Jungian level. More significant than my brief contact with the largely inscrutable powers of high archetypal reality, being immersed in the tissue of humanity’s collective being showed me organic processes operating beneath the surface of our individual lives and weaving humanity into a larger whole. It was as though I was being taught to recognize the living tissue of our species. My experiences affirmed Jung’s core insight of the existence of a collective unconscious, but I did not experience the archetypes that he discusses, such as the mother, father, child, wise old man, trickster, or hero. I’m not suggesting these are not part of the collective psyche, just that they were not part of my experience of it.
 
-**LSDMU ch.6 §1 ¶8**
+**LSD and the Mind of the Universe ch.6 §1 ¶8**
 
 > Moving to a model of collective transformation represented an enormous transition for me because with this pivot we are no longer speaking of an individual “having transpersonal experiences.” Here the individual dissolves into preexisting fields of collective consciousness. *At this point, it is these collective fields that become the “working unit” of experience in these sessions.* This requires a new way of thinking about what is taking place in our sessions and a new therapeutic calculus. In letting go of the person-centered narrative, I was surrendering to a universe whose workings were stranger and more complex than I had previously imagined.
 
-**LSDMU ch.1 §8 ¶10**
+**LSD and the Mind of the Universe ch.1 §8 ¶10**
 
 > Let me step back and say this more carefully. There is an important set of insights that emerges from gathering and analyzing the psychedelic experiences of large numbers of people, and this does require lifting experiences out of their original context. This has been one of Stan Grof’s invaluable contributions. By phenomenologically mapping the psychedelic experiences of hundreds if not thousands of people, Stan has established the ontological validity of the transpersonal territory. A different set of insights emerges when we follow one person through this territory. Without this collective database, the individual’s journey could be written off as being merely a private fantasy. Against the background of this collective database, however, tracking one person through this terrain brings out certain features of the psychedelic process more sharply: the multiple stages of initiation, the deepening spiral of death and rebirth, and the participatory dynamics of psychedelic disclosure. It is this work for which context is vital. Each of these perspectives complements and strengthens the other.
 
-**LSDMU ch.10 §0 ¶29**
+**LSD and the Mind of the Universe ch.10 §0 ¶29**
 
 > From one perspective, I was melting a collective META-COEX of fear in the species-mind. From another perspective, I was engaged in shamanic combat with demons of fear, but what strange combat this was. Here one “conquers” by surrendering, by making oneself vulnerable to what surrounds you. I kept holding still and opening, taking into myself whatever presented itself in my experience, opening to wave after wave of fear, always searching for some sign of its origin but finding none.
 
-**LSDMU ch.7 §4 ¶1**
+**LSD and the Mind of the Universe ch.7 §4 ¶1**
 
 > While I experienced subtle level reality as being more real than space-time reality, I want to add that just because something manifests at the subtle level of consciousness does not mean that it is real in the deepest sense of the term. For example, when someone experiences a particular deity in their sessions exactly as it is described in a culture’s scriptural tradition—holding traditional ritual objects or wearing traditional regalia—I believe they are experiencing one of two things: either a collective thoughtform or a spiritual presence wearing the clothes of a collective thoughtform. Either way, both reflect the strong influence of the collective psyche, and this places the experience at the subtle level of consciousness.
 
-**LSDMU ch.7 §7 ¶3**
+**LSD and the Mind of the Universe ch.7 §7 ¶3**
 
 > To think of reincarnation exclusively in terms of the individual soul is to be caught in a kind of atomistic thinking characteristic of *psychic level* discourse, where one experiences the spiritual world as being composed of separate spiritual beings. It is not that this reality is false, but when consciousness opens to the subtle level of reality, the connective tissue of life begins to stand out more. At this deeper level, individual souls can sometimes be experienced as cells in a larger *species soul*. These are not alternative truths but simultaneous truths reflecting different layers of the complex fabric of existence.
 
-**LSDMU ch.10 §0 ¶6**
+**LSD and the Mind of the Universe ch.10 §0 ¶6**
 
 > Like Pahnke, many journeyers have reported being flooded with a supernatural radiance after going through ego-death. As one moves into still deeper levels of transpersonal experience, one encounters fields nested within fields of light. Each step beyond matter, beyond the soul, beyond the collective psyche, and beyond archetypal reality takes us deeper into a living ecology of light. Eventually, one discovers that the entire universe floats in an Ocean of Radiance.
 
-**LSDMU ch.4 §2 ¶8**
+**LSD and the Mind of the Universe ch.4 §2 ¶8**
 
 > My working assumption became that these collective ordeals represented a deepening of my personal ego-death, that they were a challenging phase of my *individual* spiritual journey, which I simply had to weather in order to be completely liberated. This assumption was reinforced by the fact that in-between my sessions, my ego, though softened, was still intact, with many of its failings and idiosyncrasies in place. If ego-death had already completed itself inside my sessions, I reasoned, shouldn't I be more liberated outside my sessions? The fact that I was not completely liberated in my day-to-day life suggested that there were still fragments of ego alive within me, potentially driving these ordeals. I assumed that when my ego-death process was complete, these collective ordeals would stop because there would no longer be a core of unfinished ego-death for them to attach to.
 

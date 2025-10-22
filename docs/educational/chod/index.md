@@ -7,35 +7,35 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is a scholar and practitioner known for his exploration of the intersections between consciousness, spirituality, and transformative practices. His work often integrates insights from Vajrayana Buddhism, particularly the Chöd practice, which is aimed at overcoming obstacles and ego. Bache's research delves into the implications of altered states of consciousness, particularly in relation to psychedelic experiences and their integration into spiritual development. This page provides an overview of his contributions and perspectives within these fields.
+> Christopher M. Bache is a scholar and practitioner known for his exploration of consciousness, spirituality, and the integration of psychedelic experiences with Vajrayana Buddhist practices. His work often emphasizes the significance of traditional practices, such as Chöd, in navigating the complexities of altered states of awareness. Bache's research contributes to a deeper understanding of the interplay between spiritual traditions and contemporary experiences of consciousness.
 
 ## Primary citations (book — verbatim excerpts)
 
-**LSDMU ch.10 §3 ¶5**
+**LSD and the Mind of the Universe ch.10 §3 ¶5**
 
 > This change was so palpable that immediately after the session I decided to learn Chöd myself. Two months later, I received the practice from Lama Tsultrim, and it became a regular part of my spiritual practice. Since that day, I have never done a psychedelic session without doing Chöd first.
 
-**LSDMU ch.10 §3 ¶2**
+**LSD and the Mind of the Universe ch.10 §3 ¶2**
 
 > On the morning of my first entry into the Diamond Luminosity, Carol offered to do a Tibetan practice for me that she had recently learned called Chöd. Chöd means “cutting.” It is a Vajrayana Buddhist practice for removing obstacles and cutting through ego. Its lineage traces back to Machig Labdrön, a revered female practitioner from eleventh-century Tibet. Carol had received the practice from her teacher, Lama Tsultrim Allione, who had received it from her teacher, Chögyal Namkhai Norbu Rinpoche. I quickly accepted her invitation because it felt timely. The previous session had finished well, and today felt like it would be a good day. So on this particular morning, we started the day with Carol doing Chöd over me for forty minutes, and then we began the session.
 
-**LSDMU ch.10 §5 ¶16**
+**LSD and the Mind of the Universe ch.10 §5 ¶16**
 
 > After many cycles of cleansing and struggle, my teacher, Chögyal Namkhai Norbu Rinpoche, suddenly appeared. I saw his face and felt his presence strongly. Then without anything being said, he introduced me to the Nature of Mind. Instantly and without transition of any kind, my mind opened into pure, boundless clarity. Absolutely without content, it was both the context and the content of all thoughts and sensations.
 
-**LSDMU ch.2 §2 ¶12**
+**LSD and the Mind of the Universe ch.2 §2 ¶12**
 
 > Purification is one of those “pay me now or pay me later” things. In Tibetan Buddhism, monks must do Ngöndro before they are allowed to receive the higher initiations that engender realization. Ngöndro are the foundational practices that prepare the body and mind to receive the advanced teachings. Part of Ngöndro involves doing one hundred thousand full-body prostrations while reciting prayers and mantras. These exercises strengthen and purify the body and its subtle energy system. On the other hand, if one moves into higher states of awareness quickly, as one tends to doin an LSD session, the body is spontaneously thrown into a purification process by the sheer power of the state one is entering. Pay me now or pay me later. Either way, entering deeper states of awareness requires purifying one’s psycho-physical system.
 
-**LSDMU ch.11 §2 ¶2**
+**LSD and the Mind of the Universe ch.11 §2 ¶2**
 
 > I stopped my sessions, first, because I was experiencing a chronic pain in my subtle energy system. There was so much energy moving through me in the weeks and months following each session that I was always uncomfortable. The Vajrayana practices had helped, but even they could not keep up with the increased flow of energy entering me in these last years. Despite all the precautions I had taken, despite all the yoga and meditation, and despite the purifications that had taken place inside the sessions themselves, this problem wasn’t going away. It was getting worse.
 
-**LSDMU ch.6 §0 ¶57**
+**LSD and the Mind of the Universe ch.6 §0 ¶57**
 
 > back and forth between the pain and transpersonal horizons several times before finally settling into a clear, spacious state. As I did, an interactive arena of dialogue with a Council of Elders opened around me. The music was the deep guttural chanting of the Tibetan monks of the Gyuto monastery. The head monk's powerful bass voice grabbed me and held me fast, completely stopping my thought process. A voice said, “Stop everything and pay attention! Pay attention and learn!” Class had resumed.
 
-**LSDMU ch.8 §0 ¶2**
+**LSD and the Mind of the Universe ch.8 §0 ¶2**
 
 > This was Saccidananda,
 > Being–Consciousness–Bliss,
@@ -45,62 +45,62 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 > 
 > —Session 40
 
-**LSDMU ch.8 §0 ¶17**
+**LSD and the Mind of the Universe ch.8 §0 ¶17**
 
 > Buddhism teaches that there are no separate things in existence, that all conditioned reality is characterized by *śūnyatā*, “emptiness” or “transparency.” As the Dalai Lama explains in *The Universe in a Single Atom*, “Things and events are ‘empty’ in that they can never possess any immutable essence, intrinsic reality or absolute ‘being’ that affords independence” (2005). Nothing holds its existence by itself but is always transparent to the underlying matrix of cause and effect. When one experiences emptiness, one experiences the complete absence of an independent self, not only in one’s own person but in all reality. In this session, I experienced emptiness and Oneness as two sides of the same coin. When we experience the universe as One, it is clear that independent, separate things do not exist. Conversely, when the separate self dissolves completely, the Oneness of life spontaneously rises in our awareness.
 
-**LSDMU ch.10 §5 ¶3**
+**LSD and the Mind of the Universe ch.10 §5 ¶3**
 
 > The sessions are getting harder to describe not because of their exotic qualities but because of their very mundaneness. In striking contrast to my earlier sessions, the frame of reference for my present experience is my immediate life. My personal life is being turned inside out and refashioned. Pieces of my past are being systematically brought forward and emptied, like taking bottles down from a shelf and pouring them out. Now, however, when each bottle is drained, I do not dissolve into the otherworldly diamond radiance of dharmakaya but into the mundane world of my historical existence rendered transparent in sunyata [emptiness]. The ecstasy of transcending space-time appears to be yielding to the transparency of embodied Presence inside space-time. Where is this process leading? (Session 65)
 
-**LSDMU ch.11 §1 ¶15**
+**LSD and the Mind of the Universe ch.11 §1 ¶15**
 
 > There is a space that is always open in the middle of every moment, every action. Here it was. Unmistakable. Complete freedom in the midst of action. How does one move into it? There is a posture of inner attention that brings freedom and bliss. In which the world moves effortlessly as One. If dropped for an instant, the world falls into its familiar pieces and samsara resumes. A taste. Another lesson to use in daily training.
 
-**LSDMU ch.11 §1 ¶2**
+**LSD and the Mind of the Universe ch.11 §1 ¶2**
 
 > I started the session with a memory of the Diamond Light of Pure Clarity. I felt how true it is that spending seconds in that pristine
 >  state undoes countless centuries of wandering lost in samsara. It felt as though all my psychedelic sessions had been one long Ngondro
 >  preparing me for entry into this reality. I recalled the many rigidities and fixations in me that had been broken down on this journey and
 >  knew that there was no shortcutting the lengthy purification required for awakening.
 
-**LSDMU ch.4 §3 ¶1**
+**LSD and the Mind of the Universe ch.4 §3 ¶1**
 
 > I entered the last two sessions of this series knowing that I was about to stop my work for an unknown period of time. In the sixteenth session, something unexpected happened. When everything disintegrated into its chaotic flow, the pain escalated into a frenzy so extreme that it morphed into an orgy of *bhaktian* rapture. Just as the suffering reached a fevered pitch, the thought of the Divine flashed in my mind and I surrendered completely. Caught in surging elemental forces, I became a devotee singing to the Divine in ecstatic trance. He was vast, and he played me like a trumpet. My consciousness was the instrument and my life the melody.
 
-**LSDMU ch.11 §0 ¶23**
+**LSD and the Mind of the Universe ch.11 §0 ¶23**
 
 > Light manifesting as Matter,
 > Dharmakaya manifesting as Nirmanakaya,
 > Heaven giving birth to Earth continuously.
 
-**LSDMU ch.8 §1 ¶4**
+**LSD and the Mind of the Universe ch.8 §1 ¶4**
 
 > 1. Dying and Causal Oneness
 > 2. The Living Classroom
 > 3. The Birth of the Diamond Soul
 
-**LSDMU ch.7 §1 ¶4**
+**LSD and the Mind of the Universe ch.7 §1 ¶4**
 
 > I went through many cycles of pain and resolution and then became caught in an acoustic ritual that was restructuring me at the core. The Tibetan chanting in the music blended seamlessly with scenes of primal Africa. I saw visions of a circle of elders surrounded by a large gathering of African dancers moving in rhythmic cadence. I was inside the circle, sometimes alone and sometimes with other initiates. The chanting was a kind of shamanic initiation, a ritual of purification and transformation. There was a violent quality to what was happening, as though I had volunteered for something that had gotten out of control. Nevertheless, I felt safe in the hands of these ancient ones even as they broke me down.
 
-**LSDMU ch.8 §1 ¶25**
+**LSD and the Mind of the Universe ch.8 §1 ¶25**
 
 > Some of my students also started having unusually deep experiences of some of the concepts I was presenting in class. As I was simply going about my work describing the perennial truths of the world’s religions, some students began to have powerful spiritual openings around these truths, such as impermanence, interdependence, oneness, no-self, and the divine within. Insights long dormant in their unconscious suddenly sprang to life. Symptoms of chakra opening and kundalini arousal began to manifest in the room. Students felt their energy spontaneously shifting to higher centers of awareness, though they often did not have the vocabulary to describe it this way. It was as though they were being activated by more than just the verbal presentation of ideas, as though they were being touched by the actual *experience* of these realities that now lived in me to some degree because of my psychedelic practice.
 
-**LSDMU ch.10 §0 ¶11**
+**LSD and the Mind of the Universe ch.10 §0 ¶11**
 
 > The Diamond Light that exploded from my chest in session 38 was the forerunner of what emerged in full splendor now. After going through yet one more intense cycle of death and rebirth, I was taken into a brilliantly clear, supremely luminous radiance. Buddhism calls this radiance *dharmakaya*—the Clear Light of Absolute Reality. I call it the domain of Diamond Luminosity. This Luminosity captivated me so completely that it extinguished any interest in continuing to explore the other levels of existence that had previously fascinated me. This was a different order of reality altogether. Its clarity was so overwhelming, its energy so pure that returning to it became my sole focus in future sessions.
 
-**LSDMU ch.9 §1 ¶13**
+**LSD and the Mind of the Universe ch.9 §1 ¶13**
 
 > **The Visions of Awakening**
 
-**LSDMU ch.4 §3 ¶2**
+**LSD and the Mind of the Universe ch.4 §3 ¶2**
 
 > This eruption of *bhaktian* devotion caught me by surprise because it was completely different from my usual approach to spirituality, which has always been more mental in character. Of the four spiritual paths in Hinduism—*jnana* (knowledge), *karma* (service), *raja* (meditation), and *bhakti* (devotion)—*bhakti* is the path I have least identified with, and yet here it was.
 
-**LSDMU ch.10 §0 ¶13**
+**LSD and the Mind of the Universe ch.10 §0 ¶13**
 
 > Session 45 The Death State
 > Session 50 Diamond Luminosity

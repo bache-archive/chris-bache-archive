@@ -7,89 +7,89 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is a prominent figure in the exploration of the intersections between consciousness, spirituality, and astrology. His work often examines the influence of cosmic rhythms on human experiences, particularly in altered states of consciousness. Bache's research integrates insights from various disciplines, including psychology and metaphysics, to investigate the potential correlations between astrological phenomena and personal development. This page provides an overview of his contributions and perspectives within these fields.
+> Christopher M. Bache is a prominent figure in the exploration of the intersections between consciousness, spirituality, and astrology. His work often examines the influence of cosmic patterns on human experiences, particularly in the context of psychedelic sessions and personal transformation. Bache's contributions invite a deeper understanding of how astrological frameworks may inform psychological and spiritual journeys. This page provides an overview of his ideas and methodologies, highlighting their relevance in contemporary discussions on consciousness and the cosmos.
 
 ## Primary citations (book — verbatim excerpts)
 
-**LSDMU ch.1 §6 ¶3**
+**LSD and the Mind of the Universe ch.1 §6 ¶3**
 
 > There may be another factor that influences what emerges in our sessions. Because our solar system is constantly moving, the variable of planetary setting changes in subtle ways from day to day and month to month. In a collaboration of many years, Stan Grof and Richard Tarnas have proposed the bold hypothesis that people’s experiences in deep nonordinary states move in synchrony with the rhythms of our solar system. Using case histories, Grof has argued that natal and transit astrology can illumine and even predict the tenor of one’s psychedelic session on any given day. This is too large a topic for me to take up here, but in the interest of encouraging this discussion, I will give my birth information and the dates of all my sessions in appendix II at the end of the book.
 
-**LSDMU ch.5 §7 ¶14**
+**LSD and the Mind of the Universe ch.5 §7 ¶14**
 
 > In the world that Newton is describing, life is a long spiral of learning. Each lifetime on Earth is balanced in the interlife with periods of rest and replenishing. When the time is right, the Soul begins the process of choosing its next incarnation, and this brings me to my reason for introducing Newton’s work here. Newton’s clients report that choosing an incarnation is something that is done with great care. Acting with the assistance of our spiritual mentors and in concert with the Souls with whom we will share this incarnation, we consciously choose our next life on Earth. For this to be an informed choice, we must be able to see what these future lives will consist of, and this future-seeing takes place at what Newton calls the Ring of Destiny.
 
-**LSDMU ch.7 §2 ¶6**
+**LSD and the Mind of the Universe ch.7 §2 ¶6**
 
 > Ancient. Huge. Panoramic in scope. Celestial but facing Earth. Creating through humanity. Living through humanity. Satisfying themselves through humanity. I saw deeply into the fact that events in space-time echoed the intention of the Forces and Beings of this dimension. It was they who were living and working through the collective patterns of history. It was they who were loving through the embrace of thousands of Romeos and Juliets across the planet.
 
-**LSDMU ch.12 §1 ¶16**
+**LSD and the Mind of the Universe ch.12 §1 ¶16**
 
 > I don’t know whether I would have made it completely off the mountain were it not for Christina’s love. A journeyer herself, she understood the challenge I was facing. She held me in the years of sadness, believed in me when I doubted myself, and soothed me when wholeness seemed so far away. I owe her more than I can repay. A lover of the Earth and daughter of the stars, she never tires of mapping the variety the Infinite pours into each of our lives, uncovering the potent destinies hidden in our astrological charts.
 
-**LSDMU ch.5 §2 ¶6**
+**LSD and the Mind of the Universe ch.5 §2 ¶6**
 
 > Through all these experiences, there flowed a deep sense that the circumstances of our lives were being shaped by forces beyond our immediate awareness. Our lives were “etched in the universe.” There were many messages about rootedness, bonding, and age.
 
-**LSDMU ch.7 §0 ¶2**
+**LSD and the Mind of the Universe ch.7 §0 ¶2**
 
 > Archetypes thus can be understood and described in many ways, and much of the history of Western thought has evolved and revolved around this very issue.
 > —Richard Tarnas, *Cosmos and Psyche*
 
-**LSDMU ch.9 §1 ¶36**
+**LSD and the Mind of the Universe ch.9 §1 ¶36**
 
 > planet seemed destined to eventually extend beyond our solar system. Earth seemed to be a hothouse, growing a capacity for conscious creation that would in time be exported to other systems in the galaxy.
 
-**LSDMU ch.5 §7 ¶16**
+**LSD and the Mind of the Universe ch.5 §7 ¶16**
 
 > The choices we make at the Ring of Destiny will become our earthly destiny—not a fixed destiny with a predetermined outcome but a destiny of structured possibilities. In choosing a life, we are choosing a life script, a set of circumstances and conditions that are defined but open-ended. Once we have made our choice, the knowledge we have acquired about our next incarnation is taken away from us through the imposition of a deliberate amnesia, because too much foreknowledge would undermine the learning exercise. What we retain is a felt sense of direction and purpose, an inner instinct that tells us when we are on or off course in our lives. In addition, markers are planted in our unconscious to help us recognize significant people and events when we encounter them on Earth. The bottom line is this: when we knew more than we know now, when future probabilities were clearer to us than they are now, we chose the life we are currently living.
 
-**LSDMU ch.5 §3 ¶4**
+**LSD and the Mind of the Universe ch.5 §3 ¶4**
 
 > In a series of visions, I saw that the conflicts my wife and I had been having were rooted in a difference in our “soul age.” Soul age is simply a metaphor for spiritual development rooted in a reincar-national worldview. “Older souls” are seen as being more spiritually developed than “younger souls,” presumably from having lived more lifetimes on Earth. In my sessions, I saw that Carol was spiritually older than I was, with a heightened spiritual sensitivity and more developed capacity for contemplative practice. I saw myself as being younger, as coming more recently from lifetimes of middle age and only now moving into early wisdom. Carol already knew of things that I was just learning about.
 
-**LSDMU ch.5 §2 ¶8**
+**LSD and the Mind of the Universe ch.5 §2 ¶8**
 
 > Our intertwined destinies were part of a larger unfolding, and there was power in this unfolding. On a personal level, the message was, “Follow the natural slope of your life. Struggle is not necessary.” The circumstances of my life were being shaped by processes deeper than my conscious ego could track. My well-being lay in trusting these circumstances and responding to them as deeply as I could.
 
-**LSDMU ch.5 §4 ¶2**
+**LSD and the Mind of the Universe ch.5 §4 ¶2**
 
 > My notes from these sessions are filled with references to a “deeper intentionality,” to “causal forces arching through time” and “the given of our lives.” My understanding of life was being expanded and deepened. I was being given a new mythos for how life works. As a professor of religious studies, I recognized that this new mythos was actually an old mythos, though not one I knew much about at the time. It was the mythos of reincarnation and the soul. In the years that followed, the theme of reincarnation wove itself in and out of my sessions many times, both as a general principle and as personal memories of some of my former lives. Because of its recurring presence in my sessions, let me step to the side for a moment and say something about reincarnation here.
 
-**LSDMU ch.11 §1 ¶26**
+**LSD and the Mind of the Universe ch.11 §1 ¶26**
 
 > I experienced myself as being me, surrounded by the people and activities of my familiar world, and yet I had become completely hollow, emptied of all personal content, and in the end transparent to a fluid, golden Intelligence that permeated all reality and was flowing through me into whoever or whatever was in front of me. The image that stood out in my mind to frame this was the Sun-Neptune square in my natal chart. It was as if my individuality (Sun) had yielded completely to the Divine (Neptune) and had become transparent to its vast energies.
 
-**LSDMU ch.4 §3 ¶2**
+**LSD and the Mind of the Universe ch.4 §3 ¶2**
 
 > This eruption of *bhaktian* devotion caught me by surprise because it was completely different from my usual approach to spirituality, which has always been more mental in character. Of the four spiritual paths in Hinduism—*jnana* (knowledge), *karma* (service), *raja* (meditation), and *bhakti* (devotion)—*bhakti* is the path I have least identified with, and yet here it was.
 
-**LSDMU ch.2 §4 ¶14**
+**LSD and the Mind of the Universe ch.2 §4 ¶14**
 
 > **Death and Rebirth**
 
-**LSDMU ch.5 §4 ¶1**
+**LSD and the Mind of the Universe ch.5 §4 ¶1**
 
 > I am being given a new mythos in which to understand my life, replacing the mythos of family history psychodynamically construed. With this new mythos comes a deeper understanding of karma and a deeper sense of responsibility. (Session 12)
 
-**LSDMU ch.1 §11 ¶2**
+**LSD and the Mind of the Universe ch.1 §11 ¶2**
 
 > I think that Sri Aurobindo was correct when he said that these cosmologies reflect an incomplete understanding of existence. They reflect the deepening of humanity’s contact with the spiritual universe that took place about three to four thousand years ago. Once we began to gain *experiential* access to the bliss of this mother universe through meditation, yoga, and psychedelic substances, how could we not but conclude that we “belonged” there more than here, that Earth was not our “true home,” and that we had “fallen” from paradise through some kind of cosmic blunder? Our enthusiasm for these theologies of return is understandable given their historical context, but in the context of the dramatically expanded understanding of the universe emerging in science combined with our deepening psychedelic experience, we are beginning to see that these theologies reflect an incomplete model of the cosmos.
 
-**LSDMU ch.8 §1 ¶41**
+**LSD and the Mind of the Universe ch.8 §1 ¶41**
 
 > As we begin to grasp the true scale of nature’s intent, we must revise many of our previous assumptions about reincarnation. In the classic up-and-out model of rebirth, for example, it is often said that it is a “law” of reincarnation that we are not allowed to remember our former lives when we are born. This amnesia is essential because if we were able to remember our former lives, it would overwhelm our earthly identity. Our present life would become unmanageable if we remembered everything we had ever been and done in our previous lifetimes. Numerous Hollywood movies have played with this theme. But this way of thinking is too small and fails to grasp the fact that reincarnation is an *evolutionary driver* whose effects accumulate not only in spiritual reality but inside space-time as well.
 
-**LSDMU ch.1 §0 ¶1**
+**LSD and the Mind of the Universe ch.1 §0 ¶1**
 
 > The passionate longing of the human heart has always been to press beyond the boundaries of the known, to break through the limitations of our understanding, to extend the horizon of awareness. This is perhaps our most fundamental and essential freedom.
 > —Anne Baring, *The Dream of the Cosmos*
 
-**LSDMU Appendix I §1 ¶21**
+**LSD and the Mind of the Universe Appendix I §1 ¶21**
 
 > Let me draw upon Sri Aurobindo’s involutionary/evolutionary cosmology here because it resonates strongly with the cosmology that emerges in psychedelic work, as Stan Grof has demonstrated in his beautiful book *The Cosmic Game*. According to Sri Aurobindo, in the cascading involution of the Divine, many levels of existence are manifested. While these levels may be porous from “above,” they are less porous from “below.” Like looking through a series of one-way mirrors, the Divine looking “down” sees everything It has become, but looking “up” from lower levels, the Divine sees less. When we who are below manage either by hard labor or by grace to access some of these higher levels, a special magic sometimes takes place.
 
-**LSDMU ch.8 §1 ¶24**
+**LSD and the Mind of the Universe ch.8 §1 ¶24**
 
 > While these kinds of responses might be expected in certain types of courses, such as a counseling course, this was not the case for the kinds of courses I was teaching, which were Introduction to World Religions, Religion and the Earth, Psychology of Religion, Transpersonal Studies, and Buddhism. It was not the content of the course that seemed to be driving these effects but something deeper. What was triggering these effects was not what I was doing but what I had become through my psychedelic practice. Because of this work, my core energy was changing. A field of energy moving through me or around me was growing stronger, causing a spontaneous *energetic resonance* to spring up between me and my students underneath the exchange of ideas in the classroom.
 
