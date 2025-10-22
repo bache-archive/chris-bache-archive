@@ -51,21 +51,54 @@ def ensure_target_blank(html_txt: str) -> str:
         return tag
     return re.sub(r'<a\s+[^>]*href="https?://[^"]+"[^>]*>', repl, html_txt, flags=re.I)
 
-def extract_section(body_html: str, heading_text: str) -> str:
-    # Find inner body, then slice content between <h2> blocks by title text
-    mbody = re.search(r'<body[^>]*>(.*)</body>', body_html, re.S|re.I)
-    inner = mbody.group(1) if mbody else body_html
-    h2s = list(re.finditer(r'<h2[^>]*>(.*?)</h2>', inner, re.S|re.I))
-    target = None
+# -------- Robust section extraction (HTML first, Markdown fallback) --------
+
+def _normalize_heading_txt(s: str) -> str:
+    import unicodedata
+    s = unicodedata.normalize("NFKC", s)
+    s = re.sub(r"\s+", " ", s).strip().lower()
+    return s
+
+def extract_section(body_html: str, heading_text: str, *, original_md: str | None = None) -> str:
+    """
+    1) Primary: slice HTML between <h2>target</h2> and the next <h2>.
+    2) Fallback: slice Markdown between '## target' and next '## ' if HTML match fails.
+    """
+    target_norm = _normalize_heading_txt(heading_text)
+
+    # --- HTML path ---
+    inner = body_html
+    mbody = re.search(r'<body[^>]*>(.*)</body>', body_html, re.S | re.I)
+    if mbody:
+        inner = mbody.group(1)
+
+    h2s = list(re.finditer(r'<h2[^>]*>(.*?)</h2>', inner, re.S | re.I))
+    target_idx = None
     for i, h in enumerate(h2s):
-        txt = re.sub(r'<.*?>','', h.group(1)).strip().lower()
-        if txt == heading_text.strip().lower():
-            target = i; break
-    if target is None:
-        return ""
-    start = h2s[target].end()
-    end = h2s[target+1].start() if target+1 < len(h2s) else len(inner)
-    return inner[start:end].strip()
+        txt = re.sub(r'<.*?>', '', h.group(1))
+        if _normalize_heading_txt(txt) == target_norm:
+            target_idx = i
+            break
+
+    if target_idx is not None:
+        start = h2s[target_idx].end()
+        end = h2s[target_idx + 1].start() if (target_idx + 1) < len(h2s) else len(inner)
+        return inner[start:end].strip()
+
+    # --- Markdown fallback ---
+    if original_md:
+        # be generous about spaces and punctuation in the heading
+        esc = re.escape(heading_text)
+        md_re = re.compile(rf'(?im)^\#\#\s*{esc}\s*\n(.*?)(?=^\#\#\s|\Z)', re.S)
+        m = md_re.search(original_md)
+        if m:
+            segment_md = m.group(1).strip()
+            try:
+                seg_html = markdown.markdown(segment_md, extensions=["tables", "fenced_code"])
+                return seg_html.strip()
+            except Exception:
+                return segment_md
+    return ""
 
 def wrap_shell(page_title: str, style_href: str, body_inner: str, canonical: str | None = None) -> str:
     canonical_link = f'\n  <link rel="canonical" href="{canonical}" />' if canonical else ""
@@ -129,11 +162,11 @@ def process_educational(md_path: Path, site_base: str, stylesheet: str):
     meta, body_md = parse_front_matter(raw)
     body_html = md_to_html(body_md)
 
-    # Extract the sections our builder created
-    book_html  = extract_section(body_html, "Primary citations (book — verbatim excerpts)")
-    talks_html = extract_section(body_html, "Supporting transcript quotes (verbatim)")
-    prov_html  = extract_section(body_html, "Provenance")
-    fair_html  = extract_section(body_html, "Fair Use Notice")
+    # Extract the sections our builder created (now with MD fallback)
+    book_html  = extract_section(body_html, "Primary citations (book — verbatim excerpts)", original_md=body_md)
+    talks_html = extract_section(body_html, "Supporting transcript quotes (verbatim)", original_md=body_md)
+    prov_html  = extract_section(body_html, "Provenance", original_md=body_md)
+    fair_html  = extract_section(body_html, "Fair Use Notice", original_md=body_md)
 
     # Harden external links
     book_html  = ensure_target_blank(book_html)
