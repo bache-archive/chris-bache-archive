@@ -1,14 +1,18 @@
-.venv
+# === Python / Virtual Environment ===
+.venv/
+__pycache__/
+*.pyc
 
-# OS cruft
+# === OS cruft ===
 .DS_Store
 Thumbs.db
 ._*
 
-# Temp working directory
+# === Temp working directories ===
 tmp/
+.tmp_doc_md_files*
 
-# Downloaded media (keep out of Git)
+# === Downloaded media (never track in Git) ===
 downloads/
 *.mp4
 *.mp3
@@ -23,47 +27,42 @@ downloads/
 *.aria2
 *.info.json
 
-# Logs
+# === Logs ===
 *.log
 
-# Archive bundles (Zenodo/IA release zips)
+# === Archives / release bundles ===
 *.zip
 
-# Images and thumbnails
+# === Images / thumbnails ===
 *.jpg
 *.jpeg
 *.png
 
-# Local environment files
+# === Local environment & secrets ===
 .env
 .env.local
-# Audacity project files (large, local only)
+tools/client_secret.json
+tools/token.json
+
+# === Audacity project files (large, local only) ===
 downloads/audio/working/
 *.aup3
 
-# Build artifacts (not tracked in repo)
+# === Build artifacts (skip local builds, keep public docs) ===
 build/
-
-# index backups
 index*.bak.json
 
-# OAuth secrets (keep local only)
-tools/client_secret.json
-tools/token.json
-# RAG build artifacts
-build/
-vectors/
-reports/
+# === Private backups & reports ===
 private_backups/
+reports/
 
-__pycache__/
-*.pyc
-
-# Temporary build artifacts
-.tmp_doc_md_files*
+# === Fixity and checksum archives ===
 checksums/_archive/
 
-# --- allow specific RAG artifacts ---
+# === Allowlist: keep these large but necessary RAG assets tracked ===
 !vectors/
 !vectors/bache-talks.embeddings.parquet
 !vectors/bache-talks.index.faiss
+
+# Ignore everything else under vectors by default
+vectors/*
