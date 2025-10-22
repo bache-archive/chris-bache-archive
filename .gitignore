@@ -60,3 +60,8 @@ __pycache__/
 # Temporary build artifacts
 .tmp_doc_md_files*
 checksums/_archive/
+
+# --- allow specific RAG artifacts ---
+!vectors/
+!vectors/bache-talks.embeddings.parquet
+!vectors/bache-talks.index.faiss
