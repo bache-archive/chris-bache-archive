@@ -206,7 +206,6 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 
     # TALKS — verbatim, all chunks; timecoded first, then the rest
     def sort_key(c):
-        # timecoded first, then higher score if present
         tc = 1 if best_timecode(c) else 0
         score = c.get("_score") or 0.0
         return (-tc, -(score or 0.0))
@@ -242,7 +241,14 @@ Built from `sources.json` (harvested {meta_date}).
 Cite as: _Christopher M. Bache — Public Talks (2014–2025), retrieved via Bache Talks RAG v1.2-rc1._
 """.rstrip()
 
-    return "\n".join([fm, preface_block, book_block, talk_block, "", provenance]) + "\n"
+    fair_use = """
+## Fair Use Notice
+Excerpts from *LSD and the Mind of the Universe* are reproduced here under the fair use doctrine for **educational and scholarly purposes**. 
+They are provided to support study, research, and public understanding of Christopher M. Bache’s work on consciousness and spiritual evolution. 
+All quotations remain the intellectual property of their respective copyright holders.
+""".rstrip()
+
+    return "\n".join([fm, preface_block, book_block, talk_block, "", provenance, "", fair_use]) + "\n"
 
 # ---------- main ----------
 
