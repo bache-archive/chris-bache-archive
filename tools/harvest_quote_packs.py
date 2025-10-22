@@ -68,6 +68,21 @@ ENV_WTC   = os.getenv("WITH_TIMECODES", "").strip().lower() in ("1","true","yes"
 def _norm(s):
     return (s or "").strip()
 
+# Strip leaked metadata lines that sometimes creep into chunk text
+# (e.g., "archivaltitle: ...", "transcriptiondate: ...", or lone "Abstract")
+_META_LINE = re.compile(
+    r'^\s*(archivaltitle|channel|recorded|published|youtubeid|speakers|transcriber|Transcriber|'
+    r'transcription[_ ]?date|license|criptiondate)\s*:\s*.*$', re.I | re.M
+)
+
+def _strip_meta_lines(txt: str) -> str:
+    if not txt:
+        return ""
+    txt = re.sub(r'(?m)^\s*Abstract\s*$', '', txt)
+    txt = _META_LINE.sub('', txt)
+    txt = re.sub(r'\n{3,}', '\n\n', txt).strip()
+    return txt
+
 def query_rag(endpoint: str, query: str, top_k: int = 12, **extra) -> dict:
     """Send a search query to a RAG endpoint. Extra fields are passed through."""
     payload = {"query": query, "top_k": top_k}
@@ -90,7 +105,7 @@ def _ensure_book_shape(res: dict) -> tuple[dict,int,int]:
     chunks = res.get("chunks", []) or []
     good, bad_no_cite, bad_talkish = [], 0, 0
     for c in chunks:
-        txt = _norm(c.get("text"))
+        txt = _strip_meta_lines(_norm(c.get("text")))
         if not txt:
             continue
         cit = _norm(c.get("citation") or c.get("label"))
@@ -101,6 +116,8 @@ def _ensure_book_shape(res: dict) -> tuple[dict,int,int]:
         if not cit:
             bad_no_cite += 1
             continue
+        c = dict(c)
+        c["text"] = txt
         good.append(c)
     return ({"chunks": good}, bad_no_cite, bad_talkish)
 
@@ -114,21 +131,23 @@ def _ensure_talk_shape(res: dict) -> tuple[dict,int]:
     chunks = res.get("chunks", []) or []
     good, dropped = [], 0
     for c in chunks:
-        txt = _norm(c.get("text"))
+        txt = _strip_meta_lines(_norm(c.get("text")))
         if not txt:
             continue
         anchor = any(_norm(c.get(k)) for k in ("ts_url","recorded_date","start_hhmmss","hhmmss","time_hhmmss","url","date"))
         if not anchor:
             dropped += 1
             continue
+        c = dict(c)
+        c["text"] = txt
         good.append(c)
     return ({"chunks": good}, dropped)
 
 def _validate_files(out_dir: Path, book_only: bool=False) -> bool:
     """
     Validate the just-written files:
-      - book.search.json: all chunks have citation; none have talk-ish keys
-      - talks.search.json: all chunks have a talk anchor; none have book-like 'LSDMU' citations
+      - book.search.json: all chunks have citation; none have talk-ish keys; no leaked metadata lines
+      - talks.search.json: all chunks have a talk anchor; none have book-like 'LSDMU' citations; no leaked metadata
     Prints a per-topic validation summary.
     Returns True if all checks pass (or talks skipped), else False.
     """
@@ -136,15 +155,20 @@ def _validate_files(out_dir: Path, book_only: bool=False) -> bool:
     bf = out_dir / "book.search.json"
     tf = out_dir / "talks.search.json"
 
+    # helper
+    def _has_meta_lines(txt: str) -> bool:
+        return bool(_META_LINE.search(txt) or re.search(r'(?m)^\s*Abstract\s*$', txt))
+
     # BOOK
     if bf.exists():
         b = json.loads(bf.read_text(encoding="utf-8"))
         bchs = b.get("chunks", []) or []
         no_cit = sum(1 for c in bchs if not _norm(c.get("citation") or c.get("label")))
         talkish = sum(1 for c in bchs if any(_norm(c.get(k)) for k in ("ts_url","start_hhmmss","recorded_date","url","date","hhmmss","time_hhmmss")))
-        if no_cit or talkish:
+        leaked = sum(1 for c in bchs if _has_meta_lines(_norm(c.get("text"))))
+        if no_cit or talkish or leaked:
             ok = False
-        print(f"[check] {bf}  chunks={len(bchs)}  no_citation={no_cit}  talk_like={talkish}")
+        print(f"[check] {bf}  chunks={len(bchs)}  no_citation={no_cit}  talk_like={talkish}  meta_leaks={leaked}")
     else:
         print(f"[warn] missing {bf}")
         ok = False
@@ -156,9 +180,10 @@ def _validate_files(out_dir: Path, book_only: bool=False) -> bool:
             tchs = t.get("chunks", []) or []
             no_anchor = sum(1 for c in tchs if not any(_norm(c.get(k)) for k in ("ts_url","recorded_date","start_hhmmss","hhmmss","time_hhmmss","url","date")))
             bookish = sum(1 for c in tchs if _norm(c.get("citation") or c.get("label")).startswith("LSDMU"))
-            if no_anchor or bookish:
+            leaked = sum(1 for c in tchs if _has_meta_lines(_norm(c.get("text"))))
+            if no_anchor or bookish or leaked:
                 ok = False
-            print(f"[check] {tf}  chunks={len(tchs)}  no_anchor={no_anchor}  book_like_citation={bookish}")
+            print(f"[check] {tf}  chunks={len(tchs)}  no_anchor={no_anchor}  book_like_citation={bookish}  meta_leaks={leaked}")
         else:
             print(f"[warn] missing {tf}")
             ok = False
@@ -213,6 +238,7 @@ def main():
     print(f"[info] top_k={args.top_k}  min_score={passthrough.get('min_score')}  max_chunks={passthrough.get('max_chunks')}  with_timecodes={passthrough.get('with_timecodes', False)}")
 
     # --- 1) Book search (book-only corpus/API) ---
+    # We ask specifically about the *book* here.
     book_q = f"What does LSD and the Mind of the Universe say about {human_topic}?"
     book_count = 0
     try:
@@ -234,6 +260,7 @@ def main():
         print(f"[warn] book search failed: {e}")
 
     # --- 2) Talks search (if not skipped) ---
+    # For talks we phrase it as “What does Chris Bache say about …”
     talk_count = 0
     if not args.book_only:
         talk_q = f"What does Chris Bache say about {human_topic}?"
@@ -246,7 +273,7 @@ def main():
                 **passthrough
             )
             talk_res, dropped = _ensure_talk_shape(talk_res)
-            (out_dir / "talks.search.json").write_text(json.dumps(talk_res, indent=2, ensure_ascii=False), encoding="utf-8")
+            (out_dir / "talks.search.json").write_text(json.dumps(talk_res, indent=2, ensure_ascii=False), encoding="utf-8"))
             talk_count = len(talk_res.get("chunks", []))
             if dropped:
                 print(f"[warn] talks.search.json: filtered {dropped} without timestamps/links")
