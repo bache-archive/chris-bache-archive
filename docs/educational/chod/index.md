@@ -1,13 +1,13 @@
 ---
 title: "Chod"
 id: "chod"
-date: "2025-10-21"
+date: "2025-10-22"
 version: "v1"
 source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is a scholar and practitioner known for his exploration of the intersections between consciousness studies, spirituality, and transformative practices. His work often incorporates elements of Vajrayana Buddhism, particularly the Chöd practice, which is aimed at overcoming obstacles and ego. Bache's research delves into the effects of psychedelic experiences on spiritual development and the integration of advanced meditative techniques. This page provides an overview of his contributions to the fields of consciousness and spirituality.
+> Christopher M. Bache is a notable figure in the exploration of consciousness, particularly through the lens of Vajrayana Buddhism and psychedelic experiences. His work integrates traditional spiritual practices, such as Chöd, with contemporary understandings of consciousness and energy systems. Bache's insights contribute to the dialogue on the intersection of spirituality, psychology, and transformative experiences. This page provides an overview of his contributions and the significance of his practices within the broader context of spiritual development.
 
 ## Primary citations (book — verbatim excerpts)
 
@@ -109,26 +109,84 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 
 ## Supporting transcript quotes (verbatim)
 
+> never go into psychedelic space without doing ChÃ¶d, which means cutting—it's a cleansing practice.
+Working at very high energetic levels sometimes set in motion processes difficult to integrate in my subtle energy system. If you know Alex Grey’s depictions of powerful energies triggered in deep psychedelic work, you’ll recognize how, after a session, your system can feel achy and stretched. Vajrayana practices—Guru Yoga or deity yoga—gave that energy a place to run when I was back in ordinary consciousness and body. So for clarifying cognitive content, practicing teachings given in sessions, and managing the energetic consequences, a daily spiritual practice is really important.
+
+[00:46:55](https://youtu.be/FlHqinHyt9I?t=2815)  — *Diamond Luminosity (live stream)* (2025-05-18) • 00:46:55
+
+> s clarification in the consciousness of people to whom they have karmic connection. Simple, natural.
+So I asked: what would it be like to teach consciously in a transpersonal or integral pedagogy—one that recognizes the innate interconnectivity of consciousness? Not abandoning individual strategies that work, but incorporating focused intentionality and conscious engagement that goes beyond classical teaching. For example, ChÃ¶d is a Vajrayana purification practice. I learned ChÃ¶d for my own spiritual work. Before a class began, when I received the roster, I started incorporating those students into my ChÃ¶d practice. I would literally pray for them throughout the course—for their well-being. Not presuming I know what’s right for them, just praying for their well-being.
+
+[02:12:34](https://youtu.be/eV86_iSTEbU?t=7954)  — *Exploring LSD as a Practice (Edge of Mind Podcast – Part 1)* (2022-02-17) • 02:12:34
+
 > essions I was given many practices—told, “Do this, do that”—and I took those into my daily practice.
 In the last five years of my work, as I discuss in the Diamond Luminosity chapter, I entered Vajrayana Buddhism. I’d always been a meditator, but I began a more formal relationship with Vajrayana teachers and practice. This helped where I was working—very pure, intense states of awareness, Diamond Luminosity. It was increasingly difficult for my subtle energy system to sustain encounters with the enormous flows of pure energy in this diamond consciousness. When I began doing ancient practices—ChÃ¶d and various deity practices—I found my physical, psychological, and subtle energy systems could breathe more freely. Vajrayana gave me a space midway between physical consciousness and psychedelic consciousness. By entering those states, I could channel the energy that came in my psychedelic sessions; it moved more freely. It gave me a way of dialoguing with the universe that allowed my body and mind to breathe more comfortably. It was very helpful.
 
-[00:54:17](https://youtu.be/Kh5aqAuDBIM?t=3256)  — *LSD and the Mind of the Universe – S2S Podcast* (2023-01-06) • 00:54:17
+[00:53:13](https://youtu.be/Kh5aqAuDBIM?t=3193)  — *LSD and the Mind of the Universe – S2S Podcast* (2023-01-06) • 00:53:13
+
+> ferently, where causal-level reality is a different physics, a different landscape of consciousness.
+When you open to these depths and then return to ordinary consciousness, it’s really important to have a daily practice to anchor you, to keep your feet on the ground. The skills cultivated in Vipassana or zazen—observation and non-attachment—are precisely the skills you use in a psychedelic session, so they reinforce each other. Meditation also gives you an environment to assess the cognitive content of your sessions and to process the energy ignited in them.
+
+In the chapter on Diamond Luminosity, I talk about integrating Vajrayana practice with my psychedelic practice. I didn’t begin Vajrayana until about the time I was entering Diamond Luminosity. Carol brought me into the Vajrayana tradition by doing a ChÃ¶d practice for me before one of my sessions. The window that opened—this was my 45th session, so I had a lot of history—was wider, deeper, and stayed open longer than earlier sessions. I immediately learned that practice and began doing it before any session. I would never go into psychedelic space without doing ChÃ¶d, which means cutting—it's a cleansing practice.
+
+[00:44:48](https://youtu.be/FlHqinHyt9I?t=2688)  — *Diamond Luminosity (live stream)* (2025-05-18) • 00:44:48
+
+> vehicle than beautiful tankas that attempt to depict sublime perfection. So I modify it in that way.
+I also have a sense—because I’ve “died” so many times and gone where I will go when I die physically—that I feel very comfortable with that domain. We’re told over and over that we practice to prepare for the moment of death because it has great potential for accelerating our evolution. I agree. My psychedelic practice has been done in a way to prepare me for the moment of death. The result is that I feel comfortable with death and with navigating what comes after, because I feel I’ve already encountered it in many ways.
+
+Tasshin Fogleman:
+What do you think it was about Vajrayana Buddhism that attracted you and felt like a home?
+
+[00:53:21](https://youtu.be/FEQ8ony19sk?t=3201)  — *Psychedelics and Cosmological Exploration with Chris Bache – Reach Truth Podcast* (2022-08-30) • 00:53:21
+
+> developed forms of Vajrayana practice by integrating those memories into the realization protocols.
+For example, in classic Vajrayana we distinguish between the Samaya Safa and the Jnana sattva. The Samaya Sava is the being of construct we formulate through mantras, visualizations, tankas—an approximation of pure goodness and pure insight—which then attracts the Jnana reality, the cosmic reality. We make our visualization pure to open a channel so the cosmic reality can pour its blessings into us. In a way, I use my psychedelic memories as part of constructing my Samaya Safa. The living memory of the diamond luminosity is, for me, a more effective spiritual vehicle than beautiful tankas that attempt to depict sublime perfection. So I modify it in that way.
+
+[00:52:24](https://youtu.be/FEQ8ony19sk?t=3144)  — *Psychedelics and Cosmological Exploration with Chris Bache – Reach Truth Podcast* (2022-08-30) • 00:52:24
 
 > meditation and Vajrayana in augmenting, supporting, enhancing, stabilizing what you’ve gone through?
 Chris Bache
 One gift of my psychedelic experiences was a deepened appreciation for the power and effectiveness of classic contemplative practices, including Vajrayana. By becoming temporarily more aware, I could feel more precisely how these practices affect body and mind. They also helped me manage challenges. I didn’t end up doing this work for the purpose of spiritual awakening—though that was always in the background—but as a philosopher hungry to explore the nature of reality. Vajrayana helped me manage the excess energy flowing through my body by giving it an intermediate place to live and breathe—between my physical existence and my psychedelic existence. It taught me these practices are much more powerful than I’d appreciated working from ordinary time-space consciousness.
 
-[01:58:42](https://youtu.be/eV86_iSTEbU?t=7122)  — *Exploring LSD as a Practice (Edge of Mind Podcast – Part 1)* (2022-02-17) • 01:58:42
+[01:57:54](https://youtu.be/eV86_iSTEbU?t=7074)  — *Exploring LSD as a Practice (Edge of Mind Podcast – Part 1)* (2022-02-17) • 01:57:54
+
+> u’ve used Dharmakaya. Are there other Tibetan or Buddhist terms that relate to what you experienced?
+Chris Bache:
+Yes. Clear light mind, to me, is closer to the nature of mind in this context. I’m still digesting the differences between Diamond Luminosity as an extra-samsaric reality and Diamond Luminosity as the foundation of nirmanakaya existence. There are many correlations, and all honor to the great beings who have explored these dimensions more deeply than I’ve been able to—always a humble student of the great teachers. I put names as best I can to clarify, but it’s tricky—naming can shrink-wrap and stop the mystery, letting the mind back in where it doesn’t belong. So let me step into a little different framework.
+
+[02:20:39](https://youtu.be/-vebDk9FRYU?t=8439)  — *Part II of his Remarkable Twenty-Year Journey into the World of Psychedelics (Edge of Mind Podcast – Part 2)* (2022-06-03) • 02:20:39
+
+> ve transformation. I think there are more bodhisattvas on this planet than we might initially think.
+Chris Bache:
+In my experience, working at high doses, every session breaks down into two phases: a purification phase and an ecstatic phase. There’s the dark, hard, death-and-dying kind of phase, and then the ecstatic phase. In reference to this work, James’ excellent talk this morning about shadow work was on point. Working as I did in a non-therapeutic modality, one of the great gifts I learned from Stan Grof is to completely, absolutely surrender to whatever is taking place in your sessions and let it take you as far as it wants to take you.
+
+[00:34:16](https://youtu.be/DBddIrMryJc?t=2056)  — *Chris Bache – LSD and the Mind of the Universe – SPMC 2019* (2021-03-29) • 00:34:16
+
+> sitely clear, beyond imagination. Buddhism calls it Dharmakaya, the absolute reality of clear light.
+Over five years and 26 sessions, I was taken into this reality only four times. In between, there was tremendous purification. In these states, you dissolve into light, take on the qualities and boundlessness of light—you dissolve in the crystalline nature of the Divine. I don’t mean divine in any conventional or theistic sense, but I have no other vocabulary for it. In each of those four adventures going deeper, the divine began to come deeper into my body. I was handled carefully and broken down, and then this consciousness brought me to the end of my work, gave me an overview of all my sessions, showed me the whole pattern, and gave me my final instructions. I didn’t know it was over until it called it. I knew then I had to stop.
+
+[00:41:51](https://youtu.be/yewNM9smrqo?t=2511)  — *Diamonds from Heaven – Interview with Iain McNay* (2018-07-05) • 00:41:51
+
+> rough cycles of death and rebirth, their significance, and how they facilitate collective awakening.
+Chris Bache:
+First, what I’m going to describe is my variation on an ancient Buddhist teaching. When one sits to meditate or do spiritual practice, the first step is cultivating bodhicitta—the wish to save all sentient beings. You do the practice not for personal benefit but to nourish the uplift of the whole of creation. The last step is distributing the merit—you give away the blessings you’ve acquired. In mature spiritual practice, everything is for the benefit of the whole.
+
+[00:55:09](https://youtu.be/ec0elBHJXAc?t=3309)  — *The Mind of the Universe: Diamonds from Heaven* (2023-01-27) • 00:55:09
 
 > ventually there was no going and coming—just a session-long abiding in this transcendent luminosity.
 You could call it ecstasy, and it was, but different from earlier ecstasies. Its most striking characteristic was clarity—clarity, clarity, clarity. It was the context within which all thinking and feeling took place; in itself it was hyper-clear, breathtakingly clear. I understood the teachings that even touching something like this for one second dissolves thousands of years of wandering in the shadows of samsara. I came to understand it as extra-samsaric reality, and a particularly intense version of it. At first I thought of it in terms of sambhagaya because of the extreme bliss, but as I went back to the sources and studied more carefully, I associated it with Dharmakaya—the clear light of absolute reality.
 
-[00:57:57](https://youtu.be/-vebDk9FRYU?t=3477)  — *Part II of his Remarkable Twenty-Year Journey into the World of Psychedelics (Edge of Mind Podcast – Part 2)* (2022-06-03) • 00:57:57
+[00:56:44](https://youtu.be/-vebDk9FRYU?t=3404)  — *Part II of his Remarkable Twenty-Year Journey into the World of Psychedelics (Edge of Mind Podcast – Part 2)* (2022-06-03) • 00:56:44
+
+> ime, which I recall you relating to bhakti—loving devotion, alleviating the suffering of all beings?
+Chris Bache: Yin and yang is an attempt by a particular culture to articulate some of the deep structure of the universe and to point to this primal duality, which then divides into the 10,000 things—the complexity of the evolving of life. But I think we have to be careful not to hang too much on the primary polarity—good/bad, male/female, things like this. Bhakti is a different issue, and this was a surprise to me. In Hinduism there are four systems of spiritual work—four yogas: jnana yoga, the yoga of meditation; karma yoga, the yoga of action; and bhakti, the yoga of emotion. It’s loving God—it’s becoming awakened through love. I had always been attracted to the mental forms of spiritual practice. Of all the yogas in Hinduism, I was least attracted to bhakti—the cultivation of an emotional relationship with the divine—yet I found in the psychedelic work that bhakti was activated, very powerfully activated. I had not only a mental relationship with the universe and a cognitive experience of the universe, but an overwhelmingly powerful emotional connection and experience so that it became a love relationship. Everybody has to develop their own vocabulary for ultimate reality, but my vocabulary for ultimate reality—I call the Absolute “my Beloved,” “the Beloved,” because that’s the bhakti quality.
+
+[01:13:24](https://youtu.be/B0BhUOEP1Mg?t=4404)  — *Bicycle Day Conversation with Jef Baker* (2020-04-19) • 01:13:24
 
 > lly the Diamond Luminosity sessions—immersions into Dharmakaya, the clear light of absolute reality.
 But in the five or six years after stopping, I entered what I call the deep sadness—a withdrawal into loneliness from not being able to return to ecstatic experiences of being dissolved into light. I knew I needed to stop; I had to spend years absorbing what I had. But there was such an unfulfilled longing to return that I reached a point where I realized I was just waiting to die. I was taking care of my children and my students. I wasn’t suicidal; I was living a balanced life. But in my heart, I was waiting to die. Eventually I realized something’s wrong. This is not how this work is supposed to end. I must have made a mistake. I even wondered, Is it possible to have too much God? But I knew the entire physical universe is God; the Divine is everything that exists. So it wasn’t too much God—it was too much transcendence.
 
-[01:43:09](https://youtu.be/-2NMOMvRkYE?t=6188)  — *Evolution of Collective Consciousness (Deep Transformation Podcast – Part 1)* (2022-01-20) • 01:43:09
+[01:42:32](https://youtu.be/-2NMOMvRkYE?t=6152)  — *Evolution of Collective Consciousness (Deep Transformation Podcast – Part 1)* (2022-01-20) • 01:42:32
 
 > ou shared through my lens of a non-psychedelic but cutting-edge spiritual and developmental journey.
 Chris Bache:
@@ -140,65 +198,7 @@ You either need to pay on the front end, during, or after.
 Chris Bache:
 Pay now or pay me later, but you have to pay.
 
-[01:10:41](https://youtu.be/ec0elBHJXAc?t=4240)  — *The Mind of the Universe: Diamonds from Heaven* (2023-01-27) • 01:10:41
-
-> never go into psychedelic space without doing ChÃ¶d, which means cutting—it's a cleansing practice.
-Working at very high energetic levels sometimes set in motion processes difficult to integrate in my subtle energy system. If you know Alex Grey’s depictions of powerful energies triggered in deep psychedelic work, you’ll recognize how, after a session, your system can feel achy and stretched. Vajrayana practices—Guru Yoga or deity yoga—gave that energy a place to run when I was back in ordinary consciousness and body. So for clarifying cognitive content, practicing teachings given in sessions, and managing the energetic consequences, a daily spiritual practice is really important.
-
-[link](https://youtu.be/FlHqinHyt9I)  — *Diamond Luminosity (live stream)* (2025-05-18) • no timecode
-
-> s clarification in the consciousness of people to whom they have karmic connection. Simple, natural.
-So I asked: what would it be like to teach consciously in a transpersonal or integral pedagogy—one that recognizes the innate interconnectivity of consciousness? Not abandoning individual strategies that work, but incorporating focused intentionality and conscious engagement that goes beyond classical teaching. For example, ChÃ¶d is a Vajrayana purification practice. I learned ChÃ¶d for my own spiritual work. Before a class began, when I received the roster, I started incorporating those students into my ChÃ¶d practice. I would literally pray for them throughout the course—for their well-being. Not presuming I know what’s right for them, just praying for their well-being.
-
-[link](https://youtu.be/eV86_iSTEbU)  — *Exploring LSD as a Practice (Edge of Mind Podcast – Part 1)* (2022-02-17) • no timecode
-
-> ferently, where causal-level reality is a different physics, a different landscape of consciousness.
-When you open to these depths and then return to ordinary consciousness, it’s really important to have a daily practice to anchor you, to keep your feet on the ground. The skills cultivated in Vipassana or zazen—observation and non-attachment—are precisely the skills you use in a psychedelic session, so they reinforce each other. Meditation also gives you an environment to assess the cognitive content of your sessions and to process the energy ignited in them.
-
-In the chapter on Diamond Luminosity, I talk about integrating Vajrayana practice with my psychedelic practice. I didn’t begin Vajrayana until about the time I was entering Diamond Luminosity. Carol brought me into the Vajrayana tradition by doing a ChÃ¶d practice for me before one of my sessions. The window that opened—this was my 45th session, so I had a lot of history—was wider, deeper, and stayed open longer than earlier sessions. I immediately learned that practice and began doing it before any session. I would never go into psychedelic space without doing ChÃ¶d, which means cutting—it's a cleansing practice.
-
-[link](https://youtu.be/FlHqinHyt9I)  — *Diamond Luminosity (live stream)* (2025-05-18) • no timecode
-
-> vehicle than beautiful tankas that attempt to depict sublime perfection. So I modify it in that way.
-I also have a sense—because I’ve “died” so many times and gone where I will go when I die physically—that I feel very comfortable with that domain. We’re told over and over that we practice to prepare for the moment of death because it has great potential for accelerating our evolution. I agree. My psychedelic practice has been done in a way to prepare me for the moment of death. The result is that I feel comfortable with death and with navigating what comes after, because I feel I’ve already encountered it in many ways.
-
-Tasshin Fogleman:
-What do you think it was about Vajrayana Buddhism that attracted you and felt like a home?
-
-[link](https://youtu.be/FEQ8ony19sk)  — *Psychedelics and Cosmological Exploration with Chris Bache – Reach Truth Podcast* (2022-08-30) • no timecode
-
-> developed forms of Vajrayana practice by integrating those memories into the realization protocols.
-For example, in classic Vajrayana we distinguish between the Samaya Safa and the Jnana sattva. The Samaya Sava is the being of construct we formulate through mantras, visualizations, tankas—an approximation of pure goodness and pure insight—which then attracts the Jnana reality, the cosmic reality. We make our visualization pure to open a channel so the cosmic reality can pour its blessings into us. In a way, I use my psychedelic memories as part of constructing my Samaya Safa. The living memory of the diamond luminosity is, for me, a more effective spiritual vehicle than beautiful tankas that attempt to depict sublime perfection. So I modify it in that way.
-
-[link](https://youtu.be/FEQ8ony19sk)  — *Psychedelics and Cosmological Exploration with Chris Bache – Reach Truth Podcast* (2022-08-30) • no timecode
-
-> u’ve used Dharmakaya. Are there other Tibetan or Buddhist terms that relate to what you experienced?
-Chris Bache:
-Yes. Clear light mind, to me, is closer to the nature of mind in this context. I’m still digesting the differences between Diamond Luminosity as an extra-samsaric reality and Diamond Luminosity as the foundation of nirmanakaya existence. There are many correlations, and all honor to the great beings who have explored these dimensions more deeply than I’ve been able to—always a humble student of the great teachers. I put names as best I can to clarify, but it’s tricky—naming can shrink-wrap and stop the mystery, letting the mind back in where it doesn’t belong. So let me step into a little different framework.
-
-[link](https://youtu.be/-vebDk9FRYU)  — *Part II of his Remarkable Twenty-Year Journey into the World of Psychedelics (Edge of Mind Podcast – Part 2)* (2022-06-03) • no timecode
-
-> ve transformation. I think there are more bodhisattvas on this planet than we might initially think.
-Chris Bache:
-In my experience, working at high doses, every session breaks down into two phases: a purification phase and an ecstatic phase. There’s the dark, hard, death-and-dying kind of phase, and then the ecstatic phase. In reference to this work, James’ excellent talk this morning about shadow work was on point. Working as I did in a non-therapeutic modality, one of the great gifts I learned from Stan Grof is to completely, absolutely surrender to whatever is taking place in your sessions and let it take you as far as it wants to take you.
-
-[link](https://youtu.be/DBddIrMryJc)  — *Chris Bache – LSD and the Mind of the Universe – SPMC 2019* (2021-03-29) • no timecode
-
-> sitely clear, beyond imagination. Buddhism calls it Dharmakaya, the absolute reality of clear light.
-Over five years and 26 sessions, I was taken into this reality only four times. In between, there was tremendous purification. In these states, you dissolve into light, take on the qualities and boundlessness of light—you dissolve in the crystalline nature of the Divine. I don’t mean divine in any conventional or theistic sense, but I have no other vocabulary for it. In each of those four adventures going deeper, the divine began to come deeper into my body. I was handled carefully and broken down, and then this consciousness brought me to the end of my work, gave me an overview of all my sessions, showed me the whole pattern, and gave me my final instructions. I didn’t know it was over until it called it. I knew then I had to stop.
-
-[link](https://youtu.be/yewNM9smrqo)  — *Diamonds from Heaven – Interview with Iain McNay* (2018-07-05) • no timecode
-
-> rough cycles of death and rebirth, their significance, and how they facilitate collective awakening.
-Chris Bache:
-First, what I’m going to describe is my variation on an ancient Buddhist teaching. When one sits to meditate or do spiritual practice, the first step is cultivating bodhicitta—the wish to save all sentient beings. You do the practice not for personal benefit but to nourish the uplift of the whole of creation. The last step is distributing the merit—you give away the blessings you’ve acquired. In mature spiritual practice, everything is for the benefit of the whole.
-
-[link](https://youtu.be/ec0elBHJXAc)  — *The Mind of the Universe: Diamonds from Heaven* (2023-01-27) • no timecode
-
-> ime, which I recall you relating to bhakti—loving devotion, alleviating the suffering of all beings?
-Chris Bache: Yin and yang is an attempt by a particular culture to articulate some of the deep structure of the universe and to point to this primal duality, which then divides into the 10,000 things—the complexity of the evolving of life. But I think we have to be careful not to hang too much on the primary polarity—good/bad, male/female, things like this. Bhakti is a different issue, and this was a surprise to me. In Hinduism there are four systems of spiritual work—four yogas: jnana yoga, the yoga of meditation; karma yoga, the yoga of action; and bhakti, the yoga of emotion. It’s loving God—it’s becoming awakened through love. I had always been attracted to the mental forms of spiritual practice. Of all the yogas in Hinduism, I was least attracted to bhakti—the cultivation of an emotional relationship with the divine—yet I found in the psychedelic work that bhakti was activated, very powerfully activated. I had not only a mental relationship with the universe and a cognitive experience of the universe, but an overwhelmingly powerful emotional connection and experience so that it became a love relationship. Everybody has to develop their own vocabulary for ultimate reality, but my vocabulary for ultimate reality—I call the Absolute “my Beloved,” “the Beloved,” because that’s the bhakti quality.
-
-[link](https://youtu.be/B0BhUOEP1Mg)  — *Bicycle Day Conversation with Jef Baker* (2020-04-19) • no timecode
+[01:08:45](https://youtu.be/ec0elBHJXAc?t=4125)  — *The Mind of the Universe: Diamonds from Heaven* (2023-01-27) • 01:08:45
 
 > and reality. It was too compelling to pass up, so I made the choice to break the law and go for it.
 I always had a sitter—my first wife, Carol, a clinical psychologist. She wasn’t fond of what I was doing, but she knew I was committed and agreed to help so I could do it safely. She didn’t take notes; we set up a video camera once, but it’s basically boring to watch—just someone lying down. It’s all internal. I’m not in touch with Carol except through the music in the room and, occasionally, a word or two. I’m so far outside time-space that I barely relate to what’s happening around me, but she was always there taking care of me.
@@ -207,29 +207,29 @@ Was she influenced by my sessions? Yes and no. Carol never did psychedelics. She
 
 Tom Habib: I really appreciated your emphasis on “coming off the mountain”—bringing the ineffable into life here and now. On a specific note: why the word “diamond” for those realms?
 
-[link](https://youtu.be/Ucgt6vNpCDI)  — *LSD and the Mind of the Universe: Diamonds from Heaven (SDI Meeting)* (2024-02-10) • no timecode
+[01:18:15](https://youtu.be/Ucgt6vNpCDI?t=4695)  — *LSD and the Mind of the Universe: Diamonds from Heaven (SDI Meeting)* (2024-02-10) • 01:18:15
 
 > sociated with the concept of Dharmakaya—the fundamental reality that is the source of all existence.
 Let me back up: light entered my experiences in many forms and levels—many gradations. I'd experienced light many times in earlier death-rebirth processes. When I talk about the diamond light, it isn't just a metaphor: I'm describing an exceptionally clear and intense awareness, a crystalline light that eventually becomes transparent to itself. In those last five years—the last 26 sessions, about a third of all my work—I entered that reality four times, about once a year. Each time involved more detoxification, and about a year later, I'd re-enter that reality. That’s the kind of larger overview.
 
-[link](https://youtu.be/L3D_fSr75u8)  — *Mapping Consciousness with High-Dose LSD (ATTMind #83)* (2018-10-12) • no timecode
+[00:21:08](https://youtu.be/L3D_fSr75u8?t=1268)  — *Mapping Consciousness with High-Dose LSD (ATTMind #83)* (2018-10-12) • 00:21:08
 
 > love—the sharing of existence, the gestation of conditions that make infinite progression possible.
 I see death and rebirth, reincarnation, the bardo—a graded series of levels that reflect our limits and capacities after death. I used to think of the bardo as an opposition, a cloud getting in the way. Now I see it as a compassionate blanket that keeps us safe as we enter deeper communion with the true power. Call it the divine, though our concepts of God are childish compared to the reality. To touch that power before we are fully formed and strong enough would shatter us. We have to be very congealed as individuals to touch that reality and stay conscious and coherent within it. And that’s just the level outside the bardo of this piece of time and space. I don’t know what lies beyond the Dharmakaya or the absolute dimension.
 
-[link](https://youtu.be/-2NMOMvRkYE)  — *Evolution of Collective Consciousness (Deep Transformation Podcast – Part 1)* (2022-01-20) • no timecode
+[02:19:08](https://youtu.be/-2NMOMvRkYE?t=8348)  — *Evolution of Collective Consciousness (Deep Transformation Podcast – Part 1)* (2022-01-20) • 02:19:08
 
 > undation. I believe we are on the threshold of becoming a species of Buddhas, Christs, and prophets.
 After the benediction of blessings, I felt completely fulfilled. The universe had asked something of me, and in offering it up, I was rewarded with more joy than I could have ever imagined—a philosopher’s dream come true. I had known God, the fertile void, and profound joy. Little did I know I still had five years to go in this journey. After one more cycle of death and rebirth, I entered an extraordinarily clear state of consciousness—which I came to call diamond luminosity. This is what Buddhists refer to as Dharmakaya, the absolute clear light of being. Though I had encountered light in many subtle dimensions before, diamond light is of a different order entirely—ultra-clear, super-luminous, beyond imagination.
 
-[link](https://youtu.be/O4ui6I1Wo9c)  — *Diamonds from Heaven – Lecture at TimeWaver Summer World 2018* (2018-08-30) • no timecode
+[00:35:34](https://youtu.be/O4ui6I1Wo9c?t=2134)  — *Diamonds from Heaven – Lecture at TimeWaver Summer World 2018* (2018-08-30) • 00:35:34
 
 > to the primal void, the Buddha womb, Satchitananda, the fertile void beneath all manifest existence.
 Another session, which I titled "Jesus' Blood," was an overwhelming experience of cosmic love. It's being drenched in a love so deep you realize you've never truly been loved until you've been loved like God loves—a force far deeper than anything I had encountered before. Another pivotal experience was the "birth of the diamond soul." Eleven years prior, I had an experience of my life as a completed whole, from start to finish, but in my fortieth session, I began to sense the integration of all my former lives. It was as if all my previous incarnations were winding together, like a string of white light around a kite spool. When this collective memory hit a critical mass, it exploded, fusing all those individual lives into one, and my consciousness soared beyond any sense of individual existence. I experienced what I call diamond luminosity—my heart ruptured, and my awareness expanded dramatically. This was my first taste of the state where I believe reincarnation is taking us.
 
-[link](https://youtu.be/O4ui6I1Wo9c)  — *Diamonds from Heaven – Lecture at TimeWaver Summer World 2018* (2018-08-30) • no timecode
+[00:28:04](https://youtu.be/O4ui6I1Wo9c?t=1684)  — *Diamonds from Heaven – Lecture at TimeWaver Summer World 2018* (2018-08-30) • 00:28:04
 
 
 ## Provenance
-Built from `sources.json` (harvested 2025-10-21).
+Built from `sources.json` (harvested 2025-10-22).
 Cite as: _Christopher M. Bache — Public Talks (2014–2025), retrieved via Bache Talks RAG v1.2-rc1._

@@ -1,13 +1,13 @@
 ---
 title: "Dose Retrospective"
 id: "dose-retrospective"
-date: "2025-10-21"
+date: "2025-10-22"
 version: "v1"
 source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is a prominent figure in the field of psychedelic therapy, particularly known for his extensive work with high-dose LSD sessions. His research explores the profound effects of these high doses on consciousness, ego dissolution, and spiritual experiences. Bache's approach contrasts with traditional low-dose methodologies, emphasizing the potential for deeper and broader psychological and spiritual insights. This page provides an overview of his contributions and insights into the therapeutic use of psychedelics.
+> Christopher M. Bache is a notable figure in the field of psychedelic therapy, particularly known for his exploration of high-dose LSD sessions. His work delves into the distinctions between low-dose and high-dose therapeutic modalities, emphasizing the profound psychological and spiritual experiences that can arise from such practices. Bache's extensive journey with psychedelics raises important questions about the nature of consciousness and the potential for transformative healing.
 
 ## Primary citations (book — verbatim excerpts)
 
@@ -97,7 +97,16 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 Chris Bache:
 After the first three sessions, which were medium-dose, I worked at 500 to 600 micrograms—right at the body’s maximum capacity to absorb. Taking more doesn’t necessarily take you deeper. I was working at very high levels that can shatter the structures of consciousness and take you temporarily beyond your traditional ways of knowing yourself and the world. Again, I would be much gentler in the early days.
 
-[00:24:42](https://youtu.be/FlHqinHyt9I?t=1481)  — *Diamond Luminosity (live stream)* (2025-05-18) • 00:24:42
+[00:24:07](https://youtu.be/FlHqinHyt9I?t=1447)  — *Diamond Luminosity (live stream)* (2025-05-18) • 00:24:07
+
+> igh doses because it took me where I wanted to go, and then beyond anything I ever dreamed possible.
+James Jesso:
+Just to clarify for listeners—what would you consider a "high dose" of LSD? What was the metric?
+
+Chris Bache:
+The metric was 500 to 600 micrograms, which is a very high dose. Stan Grof differentiates between low-dose therapy (about 200 micrograms up to 300), psychedelic therapy (high dose, between 300 to 500 micrograms), but in the early work at Spring Grove Hospital, the dose was deliberately limited to a maximum of three sessions, with the idea of triggering an experience of transcendence to help people come to terms with impending death. I thought that if you could do this safely three times, you could do it more frequently. So, I saw myself as just doing an extended course of high-dose therapy.
+
+[00:09:25](https://youtu.be/L3D_fSr75u8?t=565)  — *Mapping Consciousness with High-Dose LSD (ATTMind #83)* (2018-10-12) • 00:09:25
 
 > ork.
 
@@ -108,13 +117,50 @@ Lauren Taus: What inspired you to double the dose and continue in the way that y
 
 [00:06:28](https://www.inbodiedlife.com/blog/chris-bache)  — *Learning to be Gods: Conversations about LSD and the Mind of the Universe with Chris Bache* (2023-06-30) • 00:06:28
 
+> all its levels, triggering a near-death-type experience and hopefully reducing anxiety around dying.
+After a few low dose sessions, I opted for a very intense regimen with LSD. Over twenty years, I completed 73 high-dose, fully internalized, therapeutically focused psychedelic sessions, always following the same protocol, with my first wife Carol—herself a clinical psychologist—as my sitter in every session. I worked for four years, stopped for six, then worked another ten aggressive years.
+
+I don’t recommend this protocol to others, especially such high doses. No current federal research recommends doses this high. But I wanted to push the limits, thinking that if high-dose psychedelic work could be done safely three times in the Spring Grove project, perhaps it could be done more often. I found it could, but it’s extremely demanding and brings both opportunities and challenges earlier protocols didn’t envision.
+
+[01:01:37](https://youtu.be/SIjZypJKSFM?t=3697)  — *Michael Pollan and Chris Bache – Buddha at the Gas Pump Interview* (2019-05-15) • 01:01:37
+
+> ing at the edge of my ability, consolidating what I experienced as an important part of the process.
+Looping back to why I wouldn’t do it the same way again: over the long haul, working at doses this high—responsibly and conscientiously, supplemented by other spiritual practice, yoga, meditation—is very demanding. It’s taxing. If I were doing it over, I’d be gentler with myself: balance high-dose sessions with low-dose; balance LSD, which tends to be a high-level, cosmic psychedelic, with psilocybin or ayahuasca—more body-grounded medicines—to facilitate ongoing integration of peak experiences. Hammering the high levels did open great cosmic vistas, but I was harder on myself than needed, maybe harder than was wise. It took a long time to internalize and, in some ways, recuperate from the journey.
+
+[00:20:29](https://youtu.be/zXt-LkmINyc?t=1229)  — *LSD and the Mind of the Universe – Interview with Stephen Gray* (2021-05-03) • 00:20:29
+
+> tocol, the key question is: What made you decide to do such large doses, given that in his protocol—
+Chris Bache:
+In Stan’s early work, he differentiates between psycholytic or low-dose therapy and psychedelic high-dose therapy. At Spring Grove Hospital, they developed a protocol for psychedelic therapy aiming to trigger a near-death experience in terminally ill patients, and it was limited to three sessions. I thought, if you could go into high-dose space three times safely, you could do it more times safely.
+
+In the beginning I did high-dose work partly because it was hard to find time in a dual-career marriage—and soon there were children. To get a day we could give to this work, I still thought in terms of a personal therapeutic model. The Eastern sources I taught as a professor of religious studies said your karma is ultimately finite, even over many lifetimes. I thought I could work through mine faster by working with high doses. I knew the sessions would be hard, but if I stayed grounded and confronted the shadow, I thought I could move faster. Eventually that model shattered when I realized the sessions went far beyond my personal psyche and karma.
+
+[00:07:07](https://youtu.be/B0BhUOEP1Mg?t=427)  — *Bicycle Day Conversation with Jef Baker* (2020-04-19) • 00:07:07
+
+> d. I went underground as part of the transitional underground generation and started high-dose work.
+At first, it was a matter of efficiency. I still thought in a personal-therapy model: higher doses would turn up more of my psyche, I’d clean up my stuff faster, and get to enlightenment faster. Turns out my assumptions were wrong. At high doses you activate a larger piece of the fabric of existence. What may begin as an individual transformational process becomes part of humanity’s larger collective process.
+
+Three or four years in, when I began to understand some of this, I also discovered I had a constitution wired for high-dose work. I could get very large and spacious—and, importantly, I could contract safely at the end. Not everyone should work with psychedelics at all, and many should not work with high doses of a powerful psychedelic like LSD. Even if you have aptitude and strong support, I would be much gentler. I’d take a gentler way in, work more with lower doses, balance occasional high doses with integrating lower doses. I’d also balance LSD with psilocybin or ayahuasca—the vegetative psychedelics. There’s a lot I would do differently.
+
+[00:44:47](https://youtu.be/9jsKPUwwqfQ?t=2687)  — *Philosophical Implications of Non-Ordinary States (live)* (2024-09-24) • 00:44:47
+
+> gal reasons and partly because it took a long time to map and understand the dynamics that unfolded.
+I want to say at the outset this is not a methodology I would recommend today. If I were doing it over, I’d be gentler on myself. I’d take a slower process, balancing high-dose work with low-dose sessions. I’d also balance LSD with psilocybin and ayahuasca—more body-grounded psychedelics—for a variety of reasons I discuss in the book.
+
+[00:09:35](https://youtu.be/uHn8lzYNXyE?t=575)  — *LSD & the Mind of the Universe: Diamonds from Heaven* (2019-11-13) • 00:09:35
+
 > er a session. It’s one very intense day, with several days of preparation and integration around it.
 After several medium-dose sessions, I chose to work at very high levels using psychedelic therapy—not low-dose psycholytic therapy. This is a protocol I don’t recommend today. It’s not that I’m against occasional high doses of LSD, but consistently exploding consciousness so aggressively is not something I encourage now. I worked at 500 to 600 micrograms for 73 sessions over 20 years—on average about five sessions a year. I worked for four years, took a six-year hiatus, then worked in a very aggressive 10 years. It averaged about five sessions a year.
 
 Tasshin Fogleman:
 Can you explain the difference between psychedelic and psycholytic protocols?
 
-[00:09:55](https://youtu.be/FEQ8ony19sk?t=595)  — *Psychedelics and Cosmological Exploration with Chris Bache – Reach Truth Podcast* (2022-08-30) • 00:09:55
+[00:08:38](https://youtu.be/FEQ8ony19sk?t=518)  — *Psychedelics and Cosmological Exploration with Chris Bache – Reach Truth Podcast* (2022-08-30) • 00:08:38
+
+> e medicines. LSD strikes me as cleaner in that respect; it doesn’t have the same programmed quality.
+I don’t know what it would have been like working with low-dose LSD. I’m sure that would have been more personal and psychodynamically oriented. But at the very high doses I worked with, after the first 15 sessions or so, during the peak hours I wasn’t working in relation to my personal psyche at all. In the book, I downplay the personal story because it mostly showed up at the beginning and end of sessions—meaningful and healing for my life, but the peaks were far beyond the personal psyche.
+
+[00:41:41](https://youtu.be/CbgJkCoee3w?t=2501)  — *LSD and the Mind of the Universe: Diamonds from Heaven* (2020-01-07) • 00:41:41
 
 > how to stay conscious at levels that previously you couldn’t. That pattern repeats as you go deeper.
 Joe Moore
@@ -129,19 +175,34 @@ He is a very strong proponent of these high-level doses. I struggle with his arg
 Kyle Buller:
 I'm not a proponent of high doses myself. I did this work and came through it. In the early years, the high-dose work done at Spring Grove Hospital with terminally ill patients was limited to three sessions. Low-dose psychedelic work was open-ended; high-dose work was capped at three. Going in, I thought if you could do it safely three times, you could do it safely more times. But by doing it as systematically as I did and pushing the edge as hard as I did, issues and challenges arose that hadn’t been discussed in the early literature. Opportunities for insight and understanding emerged, but so did challenges in navigating increasingly intense, vast levels of consciousness—what it does to your body and mind as you enter these realities, and how it affects people around you.
 
-[00:32:02](https://youtu.be/CbgJkCoee3w?t=1922)  — *LSD and the Mind of the Universe: Diamonds from Heaven* (2020-01-07) • 00:32:02
+[00:30:28](https://youtu.be/CbgJkCoee3w?t=1828)  — *LSD and the Mind of the Universe: Diamonds from Heaven* (2020-01-07) • 00:30:28
 
 > th psilocybin and ayahuasca. I still would have taken the journey, but not as aggressively as I did.
 Sandy Sedgbeer: You experienced 73 higher-dose LSD sessions following protocols established by Stanislav Grof, with the intention of engaging hyper-intensive states in a way that would allow the initial chaos at each new level to clear and also allow your biophysical and psychological systems to adapt. How did you know the precise dosage to accomplish that in the way you wanted to?
 
 Chris Bache: Stan was very clear in his early books, and in LSD Psychotherapy published in 1980, about the differences between psycholytic (low-dose) therapy and psychedelic (high-dose) therapy. Psycholytic work typically runs in the 50–150 microgram range, while high-dose psychedelic therapy is in the several-hundred-microgram range. At that time, high-dose therapy was being used at Spring Grove Hospital in Baltimore with terminal patients to trigger something approximating a near-death experience to give them a glimpse of where they were going.
 
-[00:04:47](https://youtu.be/2Trb-vC8zc0?t=286)  — *LSD & the Mind of the Universe (What Is Going OM)* (2023-08-17) • 00:04:47
+[00:03:31](https://youtu.be/2Trb-vC8zc0?t=211)  — *LSD & the Mind of the Universe (What Is Going OM)* (2023-08-17) • 00:03:31
+
+> ger something approximating a near-death experience to give them a glimpse of where they were going.
+I thought, if you can do this work three times safely, you can do it more than three times safely. I chose high doses for a couple of reasons. One, I had a false model of what the project was. I thought it was about personal transformation—my healing, my spiritual awakening—and that by working with high doses I’d be biting off my karma in larger pieces and clearing it faster. That turned out to be profoundly incomplete. Personal transformation was too small to describe it. Also, I wanted to be efficient. I was in a dual-career marriage; getting time for sessions was complicated, and I wanted to get as much done in every session as I could.
+
+What I learned along the way is that because consciousness is unified at its source, when you hyper-stimulate consciousness you're not just hyper-stimulating your personal field—you’re engaging some portion of the unified field. The dynamics that get activated—healing, purification, illumination—are much larger than personal dynamics.
+
+[00:04:52](https://youtu.be/2Trb-vC8zc0?t=292)  — *LSD & the Mind of the Universe (What Is Going OM)* (2023-08-17) • 00:04:52
+
+> ssing some of the healing work or lower-dose work? How might you use different dose ranges as tools?
+Chris Bache
+Any work with psychedelics—especially higher doses in a therapeutic protocol—can be challenging, and calls for good psychological screening to make sure your psyche is ready for these depths. Some people should never go near psychedelics. Some should work only very gently, if at all. I happen to have a constitution that can flow into expansive states readily and recongeal smoothly at the end. Not everybody is wired like that. All the clinical cautions apply.
+
+Can you bypass? You can chase a level of experience and bypass others, but that didn’t happen to me. I spent the first 10 sessions—two and a half years—in very grueling work at what Stan calls the perinatal level, the interface between the personal unconscious and the collective or transpersonal. You’re reliving your birth, dealing with existential crises—really grinding things deeply at that level.
+
+[00:11:38](https://youtu.be/I1n2E46S-4E?t=698)  — *What 73 high dose LSD sessions taught Christopher Bache PhD about the nature of reality (Rebroadcast)* (2024-09-24) • 00:11:38
 
 > y things are unfolding a certain way, but it always comes out well in the end. That was my approach.
 As for not recommending this work: I wouldn't work at such high doses so frequently. Not that high doses shouldn't ever be used, but I wouldn't recommend "blowing consciousness apart" so aggressively for so many sessions over so many years. Even though I was responsible—about five sessions a year, lots of time to recuperate, taking care of my body, doing spiritual practice, keeping detailed notes within 24 hours, studying those notes as methodically as possible—it was still intense. By the end of my journey, I had major breakthroughs and insights, but I realized an assumption I had held was wrong: that there is a particular goal or endpoint, whether it's oneness with God, the meta-cosmic void, or the super-cosmic void.
 
-[01:27:47](https://youtu.be/SIjZypJKSFM?t=5266)  — *Michael Pollan and Chris Bache – Buddha at the Gas Pump Interview* (2019-05-15) • 01:27:47
+[01:26:42](https://youtu.be/SIjZypJKSFM?t=5202)  — *Michael Pollan and Chris Bache – Buddha at the Gas Pump Interview* (2019-05-15) • 01:26:42
 
 > a more gentle fashion. We can do a great deal of very good work without taking psychedelics at all.
 In fact, many people who have written me have never taken psychedelics—or took them once or twice early in life—but have been meditators for 40 or 50 years. They compare the cosmology that emerges in my story to the cosmology that has emerged for them in meditation and find strong parallels. At the deepest level, the issue is not psychedelics; the issue is consciousness—its boundaries and functions. Some people should stay away from these powerful amplifiers.
@@ -149,48 +210,22 @@ In fact, many people who have written me have never taken psychedelics—or took
 Emmy Vadnais:
 How many micrograms—what was the dose you were usually working at? After we did that interview, some people asked about those levels. And, as you said, you would go lower if you were to do it over again.
 
-[00:24:07](https://youtu.be/FlHqinHyt9I?t=1446)  — *Diamond Luminosity (live stream)* (2025-05-18) • 00:24:07
+[00:23:14](https://youtu.be/FlHqinHyt9I?t=1394)  — *Diamond Luminosity (live stream)* (2025-05-18) • 00:23:14
 
 > to understand our universe as deeply as I could by exploring my consciousness as deeply as I could.
 A few observations on method. Many are aware of the distinction between low-dose psychedelic therapy and high-dose psychedelic therapy that Stan developed. Low-dose therapy peels the mind gradually, layer by layer, in very intense therapeutic encounters. High-dose therapy is a different protocol. In the early days, it was used to try to trigger a near-death experience for people with terminal cancer—not to heal them, but to open them to the world they were about to enter.
 
-[00:07:15](https://youtu.be/uHn8lzYNXyE?t=434)  — *LSD & the Mind of the Universe: Diamonds from Heaven* (2019-11-13) • 00:07:15
+[00:06:47](https://youtu.be/uHn8lzYNXyE?t=407)  — *LSD & the Mind of the Universe: Diamonds from Heaven* (2019-11-13) • 00:06:47
 
-> igh doses because it took me where I wanted to go, and then beyond anything I ever dreamed possible.
-James Jesso:
-Just to clarify for listeners—what would you consider a "high dose" of LSD? What was the metric?
+> terminally ill patients facing death. At Spring Grove Hospital, they limited this to three sessions.
+I came along and thought, if it can be done safely three times, it can be done safely more than three times. It can, but it’s much more demanding than I anticipated, and it took all my resources to manage what unfolded. This is not a therapeutic journey; it’s cosmological exploration. It requires an explorer’s constitution and preparation, and a position in life that allows pushing this far beyond the maps most people use. When I finished and looked back, I realized I had to give it a different name. I call it psychedelic exploration. The method uses the protocol of psychedelic therapy—total isolation, always a sitter, carefully selected music, and so on—but the difference is the number of sessions. I did 73. Three sessions at the psychodynamic level—about 200 micrograms—and after that, all at 500–600 micrograms. This is not a protocol I recommend. I wouldn’t do it this way again. I would balance plant medicines with synthetics and only push periodically with high doses rather than so relentlessly. I have worked with psilocybin, ayahuasca, and salvia divinorum—mostly after I stopped the LSD work—but LSD and the Mind of the Universe focuses on what happened in the high-dose journey.
 
-Chris Bache:
-The metric was 500 to 600 micrograms, which is a very high dose. Stan Grof differentiates between low-dose therapy (about 200 micrograms up to 300), psychedelic therapy (high dose, between 300 to 500 micrograms), but in the early work at Spring Grove Hospital, the dose was deliberately limited to a maximum of three sessions, with the idea of triggering an experience of transcendence to help people come to terms with impending death. I thought that if you could do this safely three times, you could do it more frequently. So, I saw myself as just doing an extended course of high-dose therapy.
+[00:08:25](https://youtu.be/DBddIrMryJc?t=505)  — *Chris Bache – LSD and the Mind of the Universe – SPMC 2019* (2021-03-29) • 00:08:25
 
-[link](https://youtu.be/L3D_fSr75u8)  — *Mapping Consciousness with High-Dose LSD (ATTMind #83)* (2018-10-12) • no timecode
+> could do it more frequently. So, I saw myself as just doing an extended course of high-dose therapy.
+But when I got to the end of this journey and looked back, I realized what unfolded was more radical and challenging than what had emerged in early psychedelic therapy work, so I had to coin a new phrase: psychedelic exploration. The method was psychedelic therapy—totally internalized sessions, strong evocative music, working with a sitter, always in a protected, isolated environment, classic set and setting. The difference was the number of sessions: for me, it turned out to be 73.
 
-> all its levels, triggering a near-death-type experience and hopefully reducing anxiety around dying.
-After a few low dose sessions, I opted for a very intense regimen with LSD. Over twenty years, I completed 73 high-dose, fully internalized, therapeutically focused psychedelic sessions, always following the same protocol, with my first wife Carol—herself a clinical psychologist—as my sitter in every session. I worked for four years, stopped for six, then worked another ten aggressive years.
-
-I don’t recommend this protocol to others, especially such high doses. No current federal research recommends doses this high. But I wanted to push the limits, thinking that if high-dose psychedelic work could be done safely three times in the Spring Grove project, perhaps it could be done more often. I found it could, but it’s extremely demanding and brings both opportunities and challenges earlier protocols didn’t envision.
-
-[link](https://youtu.be/SIjZypJKSFM)  — *Michael Pollan and Chris Bache – Buddha at the Gas Pump Interview* (2019-05-15) • no timecode
-
-> ing at the edge of my ability, consolidating what I experienced as an important part of the process.
-Looping back to why I wouldn’t do it the same way again: over the long haul, working at doses this high—responsibly and conscientiously, supplemented by other spiritual practice, yoga, meditation—is very demanding. It’s taxing. If I were doing it over, I’d be gentler with myself: balance high-dose sessions with low-dose; balance LSD, which tends to be a high-level, cosmic psychedelic, with psilocybin or ayahuasca—more body-grounded medicines—to facilitate ongoing integration of peak experiences. Hammering the high levels did open great cosmic vistas, but I was harder on myself than needed, maybe harder than was wise. It took a long time to internalize and, in some ways, recuperate from the journey.
-
-[link](https://youtu.be/zXt-LkmINyc)  — *LSD and the Mind of the Universe – Interview with Stephen Gray* (2021-05-03) • no timecode
-
-> tocol, the key question is: What made you decide to do such large doses, given that in his protocol—
-Chris Bache:
-In Stan’s early work, he differentiates between psycholytic or low-dose therapy and psychedelic high-dose therapy. At Spring Grove Hospital, they developed a protocol for psychedelic therapy aiming to trigger a near-death experience in terminally ill patients, and it was limited to three sessions. I thought, if you could go into high-dose space three times safely, you could do it more times safely.
-
-In the beginning I did high-dose work partly because it was hard to find time in a dual-career marriage—and soon there were children. To get a day we could give to this work, I still thought in terms of a personal therapeutic model. The Eastern sources I taught as a professor of religious studies said your karma is ultimately finite, even over many lifetimes. I thought I could work through mine faster by working with high doses. I knew the sessions would be hard, but if I stayed grounded and confronted the shadow, I thought I could move faster. Eventually that model shattered when I realized the sessions went far beyond my personal psyche and karma.
-
-[link](https://youtu.be/B0BhUOEP1Mg)  — *Bicycle Day Conversation with Jef Baker* (2020-04-19) • no timecode
-
-> d. I went underground as part of the transitional underground generation and started high-dose work.
-At first, it was a matter of efficiency. I still thought in a personal-therapy model: higher doses would turn up more of my psyche, I’d clean up my stuff faster, and get to enlightenment faster. Turns out my assumptions were wrong. At high doses you activate a larger piece of the fabric of existence. What may begin as an individual transformational process becomes part of humanity’s larger collective process.
-
-Three or four years in, when I began to understand some of this, I also discovered I had a constitution wired for high-dose work. I could get very large and spacious—and, importantly, I could contract safely at the end. Not everyone should work with psychedelics at all, and many should not work with high doses of a powerful psychedelic like LSD. Even if you have aptitude and strong support, I would be much gentler. I’d take a gentler way in, work more with lower doses, balance occasional high doses with integrating lower doses. I’d also balance LSD with psilocybin or ayahuasca—the vegetative psychedelics. There’s a lot I would do differently.
-
-[link](https://youtu.be/9jsKPUwwqfQ)  — *Philosophical Implications of Non-Ordinary States (live)* (2024-09-24) • no timecode
+[00:10:17](https://youtu.be/L3D_fSr75u8?t=617)  — *Mapping Consciousness with High-Dose LSD (ATTMind #83)* (2018-10-12) • 00:10:17
 
 > micrograms.
 
@@ -201,42 +236,7 @@ Lauren Taus: For the sake of listeners who might not have as much knowledge as w
 
 [link](https://www.inbodiedlife.com/blog/chris-bache)  — *Learning to be Gods: Conversations about LSD and the Mind of the Universe with Chris Bache* (2023-06-30) • no timecode
 
-> gal reasons and partly because it took a long time to map and understand the dynamics that unfolded.
-I want to say at the outset this is not a methodology I would recommend today. If I were doing it over, I’d be gentler on myself. I’d take a slower process, balancing high-dose work with low-dose sessions. I’d also balance LSD with psilocybin and ayahuasca—more body-grounded psychedelics—for a variety of reasons I discuss in the book.
-
-[link](https://youtu.be/uHn8lzYNXyE)  — *LSD & the Mind of the Universe: Diamonds from Heaven* (2019-11-13) • no timecode
-
-> e medicines. LSD strikes me as cleaner in that respect; it doesn’t have the same programmed quality.
-I don’t know what it would have been like working with low-dose LSD. I’m sure that would have been more personal and psychodynamically oriented. But at the very high doses I worked with, after the first 15 sessions or so, during the peak hours I wasn’t working in relation to my personal psyche at all. In the book, I downplay the personal story because it mostly showed up at the beginning and end of sessions—meaningful and healing for my life, but the peaks were far beyond the personal psyche.
-
-[link](https://youtu.be/CbgJkCoee3w)  — *LSD and the Mind of the Universe: Diamonds from Heaven* (2020-01-07) • no timecode
-
-> ger something approximating a near-death experience to give them a glimpse of where they were going.
-I thought, if you can do this work three times safely, you can do it more than three times safely. I chose high doses for a couple of reasons. One, I had a false model of what the project was. I thought it was about personal transformation—my healing, my spiritual awakening—and that by working with high doses I’d be biting off my karma in larger pieces and clearing it faster. That turned out to be profoundly incomplete. Personal transformation was too small to describe it. Also, I wanted to be efficient. I was in a dual-career marriage; getting time for sessions was complicated, and I wanted to get as much done in every session as I could.
-
-What I learned along the way is that because consciousness is unified at its source, when you hyper-stimulate consciousness you're not just hyper-stimulating your personal field—you’re engaging some portion of the unified field. The dynamics that get activated—healing, purification, illumination—are much larger than personal dynamics.
-
-[link](https://youtu.be/2Trb-vC8zc0)  — *LSD & the Mind of the Universe (What Is Going OM)* (2023-08-17) • no timecode
-
-> ssing some of the healing work or lower-dose work? How might you use different dose ranges as tools?
-Chris Bache
-Any work with psychedelics—especially higher doses in a therapeutic protocol—can be challenging, and calls for good psychological screening to make sure your psyche is ready for these depths. Some people should never go near psychedelics. Some should work only very gently, if at all. I happen to have a constitution that can flow into expansive states readily and recongeal smoothly at the end. Not everybody is wired like that. All the clinical cautions apply.
-
-Can you bypass? You can chase a level of experience and bypass others, but that didn’t happen to me. I spent the first 10 sessions—two and a half years—in very grueling work at what Stan calls the perinatal level, the interface between the personal unconscious and the collective or transpersonal. You’re reliving your birth, dealing with existential crises—really grinding things deeply at that level.
-
-[link](https://youtu.be/I1n2E46S-4E)  — *What 73 high dose LSD sessions taught Christopher Bache PhD about the nature of reality (Rebroadcast)* (2024-09-24) • no timecode
-
-> terminally ill patients facing death. At Spring Grove Hospital, they limited this to three sessions.
-I came along and thought, if it can be done safely three times, it can be done safely more than three times. It can, but it’s much more demanding than I anticipated, and it took all my resources to manage what unfolded. This is not a therapeutic journey; it’s cosmological exploration. It requires an explorer’s constitution and preparation, and a position in life that allows pushing this far beyond the maps most people use. When I finished and looked back, I realized I had to give it a different name. I call it psychedelic exploration. The method uses the protocol of psychedelic therapy—total isolation, always a sitter, carefully selected music, and so on—but the difference is the number of sessions. I did 73. Three sessions at the psychodynamic level—about 200 micrograms—and after that, all at 500–600 micrograms. This is not a protocol I recommend. I wouldn’t do it this way again. I would balance plant medicines with synthetics and only push periodically with high doses rather than so relentlessly. I have worked with psilocybin, ayahuasca, and salvia divinorum—mostly after I stopped the LSD work—but LSD and the Mind of the Universe focuses on what happened in the high-dose journey.
-
-[link](https://youtu.be/DBddIrMryJc)  — *Chris Bache – LSD and the Mind of the Universe – SPMC 2019* (2021-03-29) • no timecode
-
-> could do it more frequently. So, I saw myself as just doing an extended course of high-dose therapy.
-But when I got to the end of this journey and looked back, I realized what unfolded was more radical and challenging than what had emerged in early psychedelic therapy work, so I had to coin a new phrase: psychedelic exploration. The method was psychedelic therapy—totally internalized sessions, strong evocative music, working with a sitter, always in a protected, isolated environment, classic set and setting. The difference was the number of sessions: for me, it turned out to be 73.
-
-[link](https://youtu.be/L3D_fSr75u8)  — *Mapping Consciousness with High-Dose LSD (ATTMind #83)* (2018-10-12) • no timecode
-
 
 ## Provenance
-Built from `sources.json` (harvested 2025-10-21).
+Built from `sources.json` (harvested 2025-10-22).
 Cite as: _Christopher M. Bache — Public Talks (2014–2025), retrieved via Bache Talks RAG v1.2-rc1._

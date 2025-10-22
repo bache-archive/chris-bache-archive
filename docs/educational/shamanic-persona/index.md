@@ -1,13 +1,13 @@
 ---
 title: "Shamanic Persona"
 id: "shamanic-persona"
-date: "2025-10-21"
+date: "2025-10-22"
 version: "v1"
 source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> This educational page explores the concept of the shamanic persona, a unique synthesis of experiences that emerges through psychedelic practices. It examines the evolution of this persona as individuals navigate various levels of consciousness, highlighting its role in integrating transpersonal experiences. The discussion also considers the implications of shamanic practices within contemporary contexts and their potential for personal and collective transformation.
+> This educational page explores the concept of the shamanic persona, a unique synthesis of experiences shaped by individual psychedelic journeys. It examines how this persona evolves through various levels of consciousness, integrating past experiences while adapting to new insights. The discussion highlights the role of the shamanic persona in navigating transpersonal realities and its significance in both personal and collective contexts.
 
 ## Primary citations (book — verbatim excerpts)
 
@@ -94,17 +94,32 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 
 ## Supporting transcript quotes (verbatim)
 
+> ity, but generally, the better run the session, the more coherent the shamanic persona that emerges.
+When one begins to open to deeper levels of transpersonal reality, our earlier psychedelic history must yield to the new territory. Our previous psychedelic knowledge and the identity based on it must surrender control before a deeper mode of knowing can emerge and stabilize. What’s dying in these sessions, then, is sometimes the shamanic persona; its death may feel personal, but it’s not the ego—rather, a deeper individual identity birthed through previous sessions. One shamanic persona may die and be reborn multiple times; after the transition, the new persona retains the memories of the former and adds to them from this new, deeper level. When an even deeper level opens, the current persona must die and yield again.
+
+[00:25:34](https://youtu.be/cEsoN2IaGc4?t=1534)  — *Exploring the Boundaries of Death and Rebirth in LSD Psychotherapy* (2015-03-16) • 00:25:34
+
+> n help illuminate how our psyche manages the extreme fluctuations that occur in psychedelic therapy.
+Specifically, I want to suggest that, through repeatedly opening and closing awareness in psychedelic sessions, a semi-autonomous, state-specific consciousness is formed, retaining and integrating the knowledge and capacities developed. I call this the shamanic persona—a psychedelically generated, state-specific alter ego. There are many variables influencing its integrity, but generally, the better run the session, the more coherent the shamanic persona that emerges.
+
+[00:24:42](https://youtu.be/cEsoN2IaGc4?t=1482)  — *Exploring the Boundaries of Death and Rebirth in LSD Psychotherapy* (2015-03-16) • 00:24:42
+
 > nate to my individual egoic identity, and it can be stable if my experiences have been well managed.
 So when I enter a psychedelic space and transition away from time and space, I enter into a familiar sense of self at a certain level of spiritual reality. I acclimate there; I learn the ropes. But if I keep pushing the edge—if the chemical is strong enough and the intent is focused enough—eventually you come to a ceiling, and at that ceiling a cost is exacted. Another round of death takes place. What’s dying is not the ego, but that shamanic persona, that second identity, because it’s a holder of a certain level of transpersonal experience. If you want to go deeper—you don’t have to, but if you do—you have to die at that lower shamanic level. The shamanic identity dies, and you transition into yet another level of reality in which the whole working of the universe is different—different rules, different phenomena, different bandwidth, so to speak. And you must acclimate to that level of reality.
 
-[00:43:45](https://youtu.be/-2NMOMvRkYE?t=2624)  — *Evolution of Collective Consciousness (Deep Transformation Podcast – Part 1)* (2022-01-20) • 00:43:45
+[00:42:18](https://youtu.be/-2NMOMvRkYE?t=2538)  — *Evolution of Collective Consciousness (Deep Transformation Podcast – Part 1)* (2022-01-20) • 00:42:18
 
 > both sides of the street. In shamanic cultures, practitioners manage dark forces as well as healing.
 But Carl Jung is right that nature tilts toward growth—toward us becoming larger, wiser, more intelligent. If nature is trying to bring about this pivot toward a higher form of consciousness, then despite the upheaval at political, social, and cultural levels, the deeper movement is toward truer, clearer, better, more good. Individuals who have made the transition in their own being that humanity is trying to make collectively can become seed catalysts. Their very presence helps catalyze what’s trying to emerge beneath our feet at the collective level.
 
 Individuals have tremendous power to influence—not just physically, but subtly. Traditions have long recognized the radiance around deep practitioners. Chinese traditions valued contemplatives outside town; Christian monasteries and convents understood their practice benefits surrounding communities. I think that subtle influence will be increasing as we move forward. Beautiful.
 
-[01:07:48](https://youtu.be/9jsKPUwwqfQ?t=4068)  — *Philosophical Implications of Non-Ordinary States (live)* (2024-09-24) • 01:07:48
+[01:06:43](https://youtu.be/9jsKPUwwqfQ?t=4003)  — *Philosophical Implications of Non-Ordinary States (live)* (2024-09-24) • 01:06:43
+
+> rs after ego-death, and it’s not simply the ego dying over and over. It’s a different kind of death.
+In the appendix of LSD and the Mind of the Universe, I suggest four levels to begin addressing that question. First, our personal ego can die. Second, some aspect of the collective ego—the collective psyche—can die. Third, what I call the shamanic persona can die. That’s a complicated concept. When you’ve been on the journey a long time, each time you move into psychedelic space, you resume your shamanic persona—the living integration of all your psychedelic experiences to that point. Let’s say, after 20 sessions working at the level of the collective psyche, what I called the ocean of suffering, you stabilize a psychedelic identity that integrates your transpersonal experiences beyond physical consciousness. If you are going into a still deeper level of consciousness than you’ve ever lived before, that shamanic persona has to die—surrender—to allow a new category of experience, and a deeper shamanic persona, to emerge. So in advanced sessions, it’s not the egoic self dying; it’s the psychedelic self.
+
+[00:40:46](https://youtu.be/FMgixG6Z0sk?t=2446)  — *Psychedelics and the Cosmic Mind* (2025-03-18) • 00:40:46
 
 > being able to manifest those levels of consciousness inside my physical consciousness, comfortably.
 Manda Scott:
@@ -112,46 +127,12 @@ I think we've got the health warnings fairly clear on here. If you're going to w
 
 So take great care. Find and test your people out before you decide to do something that is irreversible. Do the work beforehand, do the work during, and do the work after to integrate, integrate, integrate—and do it because you're doing it in service to life, not because you're trying to make your ego feel happy. Have I missed anything out on the—
 
-[01:11:55](https://youtu.be/q-caGhIlKS8?t=4314)  — *The Phoenix Always Rises: Evolving into the Future Human* (2025-01-08) • 01:11:55
+[01:11:17](https://youtu.be/q-caGhIlKS8?t=4277)  — *The Phoenix Always Rises: Evolving into the Future Human* (2025-01-08) • 01:11:17
 
 > ou can open to your species identity, to the collective psyche. I’ve had that experience many times.
 Well, I'm always hesitant to jump into this, because my experiences are based upon shamanic, rigorous use of LSD. When people hear LSD, they think the ’60s, hallucinations—this is very far from that. This is within a therapeutic tradition, within Stan Grof’s tradition: the systematic use of these very hyper-intense states of awareness. When you engage these states, there are cycles of tremendous purification—tremendous death and rebirth, death and rebirth. If you go through it often enough, deeply enough, there is a progressive initiation into deeper and deeper levels of reality, and eventually you come out with a certain understanding, at least, of the larger structure of the nature of reality. It's not easy to summarize, but I’ve tried to do it in this book I’m just finishing, Diamonds from Heaven, to describe the progression.
 
-[00:02:03](https://youtu.be/wp5V5_Y5rJ8?t=123)  — *LSD and the Mind of the Universe – Full Interview (In Reality)* (2024-06-30) • 00:02:03
-
-> ine, 5-MeO-DMT, and DMT all have ranges. LSD has a range too, and of course doses affect that range.
-I tend to experience psilocybin as very body-grounded, tuned to my emotional body. It opens a range, but it stays, in a sense, within parameters. It stretches but does not shatter as aggressively as LSD the parameters of individual identity—though it can dissolve and soften them, and open things up. In my work with high doses of LSD, all of these things happen, but because of the particular intensity of the substance and its lack of anthropological history—therefore lacking the fields associated with psilocybin and mescaline/peyote—it tends to shatter our time-space identity and throw us into a level of experience beyond that reality, into a spiritual reality. If we go back to that place again and again, our experience there begins to congeal, and we develop an alternative identity persona. I call it the shamanic persona—an identity comprised of all my experiences at that level of transpersonal reality. It’s superordinate to my individual egoic identity, and it can be stable if my experiences have been well managed.
-
-[00:42:05](https://youtu.be/-2NMOMvRkYE?t=2524)  — *Evolution of Collective Consciousness (Deep Transformation Podcast – Part 1)* (2022-01-20) • 00:42:05
-
-> the systematic application of non-ordinary states of consciousness through the use of psychedelics.
-Manda Scott
-Can I interrupt you? This is already opening doors, and I'd like to go down a few of them. We're talking about integrating with other systems, and in the book you were becoming quite deeply involved in some Buddhist practices—were they Buddhist, I think? Within the shamanic world, we see a lot of people who want to go off and do ayahuasca or mushrooms, and it seems to me they're short-cutting—not universally; I’ve spoken to people who are absolutely prepared to go and spend six months in the forest alone with the plants and integrate it—but there are an equal number who think they can go from point A to point Z without actually doing the steps in between.
-
-[00:08:59](https://youtu.be/q-caGhIlKS8?t=539)  — *The Phoenix Always Rises: Evolving into the Future Human* (2025-01-08) • 00:08:59
-
-> eed to listen more to Indigenous peoples with animistic, shamanistic worldviews and learn from them.
-The cork is out of the genie’s bottle. The academy is exploring psychedelics seriously again. We can’t deny the scale of transpersonal and parapsychological experiences people report, and we should investigate them openly, at face value, rather than just trying to explain them away.
-
-Daniel Pinchbeck:
-My understanding is that psychic and paranormal effects are extremely difficult to study under traditional methods. I’ve heard that even when an effect seems demonstrated at first, with repeat experiments the correlation goes down—as if there’s a secret that protects itself, that doesn’t want to be known.
-
-[00:37:52](https://youtu.be/tzscyUU1rXI?t=2271)  — *Consciousness, Psychedelics & Collective Evolution* (2025-07-16) • 00:37:52
-
-> ity, but generally, the better run the session, the more coherent the shamanic persona that emerges.
-When one begins to open to deeper levels of transpersonal reality, our earlier psychedelic history must yield to the new territory. Our previous psychedelic knowledge and the identity based on it must surrender control before a deeper mode of knowing can emerge and stabilize. What’s dying in these sessions, then, is sometimes the shamanic persona; its death may feel personal, but it’s not the ego—rather, a deeper individual identity birthed through previous sessions. One shamanic persona may die and be reborn multiple times; after the transition, the new persona retains the memories of the former and adds to them from this new, deeper level. When an even deeper level opens, the current persona must die and yield again.
-
-[link](https://youtu.be/cEsoN2IaGc4)  — *Exploring the Boundaries of Death and Rebirth in LSD Psychotherapy* (2015-03-16) • no timecode
-
-> n help illuminate how our psyche manages the extreme fluctuations that occur in psychedelic therapy.
-Specifically, I want to suggest that, through repeatedly opening and closing awareness in psychedelic sessions, a semi-autonomous, state-specific consciousness is formed, retaining and integrating the knowledge and capacities developed. I call this the shamanic persona—a psychedelically generated, state-specific alter ego. There are many variables influencing its integrity, but generally, the better run the session, the more coherent the shamanic persona that emerges.
-
-[link](https://youtu.be/cEsoN2IaGc4)  — *Exploring the Boundaries of Death and Rebirth in LSD Psychotherapy* (2015-03-16) • no timecode
-
-> rs after ego-death, and it’s not simply the ego dying over and over. It’s a different kind of death.
-In the appendix of LSD and the Mind of the Universe, I suggest four levels to begin addressing that question. First, our personal ego can die. Second, some aspect of the collective ego—the collective psyche—can die. Third, what I call the shamanic persona can die. That’s a complicated concept. When you’ve been on the journey a long time, each time you move into psychedelic space, you resume your shamanic persona—the living integration of all your psychedelic experiences to that point. Let’s say, after 20 sessions working at the level of the collective psyche, what I called the ocean of suffering, you stabilize a psychedelic identity that integrates your transpersonal experiences beyond physical consciousness. If you are going into a still deeper level of consciousness than you’ve ever lived before, that shamanic persona has to die—surrender—to allow a new category of experience, and a deeper shamanic persona, to emerge. So in advanced sessions, it’s not the egoic self dying; it’s the psychedelic self.
-
-[link](https://youtu.be/FMgixG6Z0sk)  — *Psychedelics and the Cosmic Mind* (2025-03-18) • no timecode
+[00:00:58](https://youtu.be/wp5V5_Y5rJ8?t=58)  — *LSD and the Mind of the Universe – Full Interview (In Reality)* (2024-06-30) • 00:00:58
 
 > the collective psyche. He further proposes that deeper journeys often move beyond entity-populated,
 granular realms into vaster, less individuated fields of consciousness. Alongside sacred forms, powerful secular
@@ -162,14 +143,19 @@ HOST: At an integration circle, someone told me he encountered Ganesh, the eleph
 
 CHRIS BACHE: When we experience realities beyond our ordinary consciousness and tap qualities like infinite compassion, infinite intelligence, and infinite creativity—qualities long associated with deities—it is not surprising that our psyche matches the phenomenology of the experience with the qualities of deities we know. Sometimes, however, we meet deities that are not part of our lineage and perhaps not even in our awareness. They can appear completely out of left field, yet take the recognizable cultural form of a deity—Ganesh, Jesus, Mary, the Prophet Muhammad, and others.
 
-[link](https://youtu.be/jUFO4p4kA-k)  — *Dr. Chris Bache on Understanding DMT Entity Encounters* (2022-02-16) • no timecode
+[00:00:00](https://youtu.be/jUFO4p4kA-k?t=0)  — *Dr. Chris Bache on Understanding DMT Entity Encounters* (2022-02-16) • 00:00:00
+
+> ine, 5-MeO-DMT, and DMT all have ranges. LSD has a range too, and of course doses affect that range.
+I tend to experience psilocybin as very body-grounded, tuned to my emotional body. It opens a range, but it stays, in a sense, within parameters. It stretches but does not shatter as aggressively as LSD the parameters of individual identity—though it can dissolve and soften them, and open things up. In my work with high doses of LSD, all of these things happen, but because of the particular intensity of the substance and its lack of anthropological history—therefore lacking the fields associated with psilocybin and mescaline/peyote—it tends to shatter our time-space identity and throw us into a level of experience beyond that reality, into a spiritual reality. If we go back to that place again and again, our experience there begins to congeal, and we develop an alternative identity persona. I call it the shamanic persona—an identity comprised of all my experiences at that level of transpersonal reality. It’s superordinate to my individual egoic identity, and it can be stable if my experiences have been well managed.
+
+[00:40:24](https://youtu.be/-2NMOMvRkYE?t=2424)  — *Evolution of Collective Consciousness (Deep Transformation Podcast – Part 1)* (2022-01-20) • 00:40:24
 
 > he shamans shout: all my relations. All other levels of reality, all other beings, are my relations.
 We may not be able to adequately conceptualize this essence—the Atman, the Brahman—but we can tune to it. We can let it suffuse our being. We can let go of anything that keeps us smaller than it, and we can regularly cultivate the practice of tuning to it. That’s only partly intellectual; it’s more of a tuning exercise. We can do it without having an adequate understanding of the final goal. There’s a sense of peace and harmony, an infinite challenge, but a profound alignment that comes into our person and relationships the closer we draw to that reality. We can do all of that without solid answers about the nature of ultimate reality.
 
 Luc Briede-Cooper: Got it. I mean, not really got it, but I’m glimpsing it. What comes to mind is the distinction between process-oriented spiritual practice or religion, and goal-oriented practice. Is that useful?
 
-[link](https://youtu.be/cvhWP8xzwiY)  — *Exploring LSD and the Mind of the Universe* (2023-01-05) • no timecode
+[01:52:19](https://youtu.be/cvhWP8xzwiY?t=6739)  — *Exploring LSD and the Mind of the Universe* (2023-01-05) • 01:52:19
 
 > consciousness that are less individual and less entity-like. At least, that has been my experience.
 HOST: That resonates. It feels like a matter of levels, and seeing where you go makes it clear that at some point the entity dissolves and becomes something different.
@@ -190,47 +176,61 @@ Revision history
 
 | 2025-08-15 | assistant | Initial transcript formatting. |
 
-[link](https://youtu.be/jUFO4p4kA-k)  — *Dr. Chris Bache on Understanding DMT Entity Encounters* (2022-02-16) • no timecode
+[00:04:50](https://youtu.be/jUFO4p4kA-k?t=290)  — *Dr. Chris Bache on Understanding DMT Entity Encounters* (2022-02-16) • 00:04:50
+
+> the systematic application of non-ordinary states of consciousness through the use of psychedelics.
+Manda Scott
+Can I interrupt you? This is already opening doors, and I'd like to go down a few of them. We're talking about integrating with other systems, and in the book you were becoming quite deeply involved in some Buddhist practices—were they Buddhist, I think? Within the shamanic world, we see a lot of people who want to go off and do ayahuasca or mushrooms, and it seems to me they're short-cutting—not universally; I’ve spoken to people who are absolutely prepared to go and spend six months in the forest alone with the plants and integrate it—but there are an equal number who think they can go from point A to point Z without actually doing the steps in between.
+
+[00:09:11](https://youtu.be/q-caGhIlKS8?t=551)  — *The Phoenix Always Rises: Evolving into the Future Human* (2025-01-08) • 00:09:11
 
 > a therapeutic story, personal details are very important. In a cosmological story, they’re less so.
 In this regimen one undergoes many deaths and many rebirths. Everything below the line in the image I used is time-space reality; the drop at the end represents our individual time-space identity, our egoic identity. The first transition is the death-rebirth that takes place when we move into spiritual reality—ego death. It gets a lot of attention in the literature, but less attention is given to deeper deaths at deeper levels. Stan Grof uses the vocabulary of psychic-level transpersonal experience, subtle-level transpersonal experience, causal-level experience, because the universe reveals itself in layers. Every time one goes into a deeper level of consciousness, everything known up to that time—including what you know to be true from previous psychedelic experiences—must be surrendered if a truly new and novel dimension is going to open.
 
-[link](https://youtu.be/70TRNG1-ZEg)  — *Mapping of Transcendence* (2019-09-26) • no timecode
+[00:16:38](https://youtu.be/70TRNG1-ZEg?t=998)  — *Mapping of Transcendence* (2019-09-26) • 00:16:38
 
 > lective psyche, into archetypal reality—each requires a different pattern of dying and being reborn.
 I use Stan Grof’s categories—psychic (high/low), subtle (high/low), causal. They’re convenient but necessarily rough; how can six categories capture the full spectrum of divine experience? They’re useful to mark transitions on this journey. These cycles are like tori: you break through, expand into a new level, gather in, blow through to another level, stabilize competencies in that state, gather again, and then, if you follow the process, another death-rebirth into a deeper level.
 
 One way I image this is with a nuclear explosion—not to dwell on the horror it represents, but to make a point: deep death-rebirth shatters everything you’ve known and drops you deeper into the universe, revealing levels previously outside awareness. In an explosion, deeper atmospheric layers become visible; likewise, deep psychedelic work brings levels into awareness that were always there. Dissolve the dualism in that image: you’re not separate from the strata you enter; you dissolve into that field. We’re not talking about bombs; we’re talking about the cosmos exploring itself.
 
-[link](https://youtu.be/DBddIrMryJc)  — *Chris Bache – LSD and the Mind of the Universe – SPMC 2019* (2021-03-29) • no timecode
+[00:00:04](https://youtu.be/DBddIrMryJc?t=4)  — *Chris Bache – LSD and the Mind of the Universe – SPMC 2019* (2021-03-29) • 00:00:04
 
 > ersonal transformation or healing. It was about trying to heal some aspect of the collective psyche.
 There is an organizational structure—a species consciousness—and the unresolved wounds of history remain not only at an individual soul level but at the species level. All the wars, the terrible things we’ve done to each other—the trauma, to the extent it’s not healed, resides as unfinished business in the collective psyche. Every spiritual practitioner who goes deeply enough, whatever their method, is often given an invitation, if they choose, to lift some of that suffering—not just from their personal life but from the collective psyche. For reasons I think are soul-choice, that became a large part of my work. There’s nothing special here. Any mother who sees a child suffering will try to alleviate it. Any father worth his salt will try to help a suffering child. If we’re given the opportunity, we try to help others in pain. That’s the normal working of life.
 
-[link](https://youtu.be/eV86_iSTEbU)  — *Exploring LSD as a Practice (Edge of Mind Podcast – Part 1)* (2022-02-17) • no timecode
+[00:52:38](https://youtu.be/eV86_iSTEbU?t=3158)  — *Exploring LSD as a Practice (Edge of Mind Podcast – Part 1)* (2022-02-17) • 00:52:38
 
 > arrative. The personal details matter in a therapeutic narrative, not so much in a cosmological one.
 In this work, what unfolded was a multiple series of deaths and rebirths. The line represents the border of time-space; the drop below the line is egoic reality—our individual time-space consciousness. The first death and rebirth, the one most discussed in the literature, is ego death when we transition from ordinary consciousness into early transpersonal consciousness. But if you keep pressing the limits, there are other deaths at other levels of consciousness. I follow Stan Grof in using the vocabulary of psychic, subtle, and causal reality to describe some of these deeper levels. I don’t have a vested interest in how many levels there are or how many times the circle turns. What’s important is the principle: if one pushes deeper and does this work systematically, a series of deaths and rebirths opens.
 
-[link](https://youtu.be/uHn8lzYNXyE)  — *LSD & the Mind of the Universe: Diamonds from Heaven* (2019-11-13) • no timecode
+[00:13:06](https://youtu.be/uHn8lzYNXyE?t=786)  — *LSD & the Mind of the Universe: Diamonds from Heaven* (2019-11-13) • 00:13:06
+
+> eed to listen more to Indigenous peoples with animistic, shamanistic worldviews and learn from them.
+The cork is out of the genie’s bottle. The academy is exploring psychedelics seriously again. We can’t deny the scale of transpersonal and parapsychological experiences people report, and we should investigate them openly, at face value, rather than just trying to explain them away.
+
+Daniel Pinchbeck:
+My understanding is that psychic and paranormal effects are extremely difficult to study under traditional methods. I’ve heard that even when an effect seems demonstrated at first, with repeat experiments the correlation goes down—as if there’s a secret that protects itself, that doesn’t want to be known.
+
+[00:37:30](https://youtu.be/tzscyUU1rXI?t=2250)  — *Consciousness, Psychedelics & Collective Evolution* (2025-07-16) • 00:37:30
 
 > is, I think, a story we all share. It's closer to a collective inheritance or a cosmological story.
 When you do this work, you go through many cycles of death and rebirth—not just ego death. The diagram I use starts below the “cross line,” representing ego, and marks the first death-rebirth cycle with astrological glyphs, out of respect for Rick Tarnas and Stan Grof’s insight into the correlations between astrological transits and non-ordinary experiences—insights my own sessions sometimes affirm, but not always entirely. That first death-rebirth happens at what Stan calls the perinatal level of consciousness. From there, one moves into deeper and deeper states, with death and rebirth recurring at each level and drawing you further and further into reality. Stan Grof, following Ken Wilber, describes these levels as psychic, subtle, and causal. I don't have a strong opinion on what exact scale to use; there are thousands of dimensions of consciousness. The important thing is just to recognize the vast range of transpersonal states, and that entry into each involves a cost—a surrender. At the outset, what’s asked is the surrender of your ego, but deeper surrenders occur as you continue the journey.
 
-[link](https://youtu.be/O4ui6I1Wo9c)  — *Diamonds from Heaven – Lecture at TimeWaver Summer World 2018* (2018-08-30) • no timecode
+[00:08:15](https://youtu.be/O4ui6I1Wo9c?t=495)  — *Diamonds from Heaven – Lecture at TimeWaver Summer World 2018* (2018-08-30) • 00:08:15
 
 > amed it. I couldn’t penetrate beyond that; they were too big and foreign to give them coherent form.
 At a lower level of archetypal reality—call it a Jungian level—I repeatedly experienced the human psyche and the human species as a single integrated organism, with physical and mental networks connecting it like neurology. I was shown how the individual is hardwired and soft-wired into this matrix, how the species mind informs our individual consciousness, and how our individual work reaches out to inform and structure future species consciousness. I saw that each of us carries a holographic, fractal piece of the diseases of our time—mental and physical—and as we heal ourselves, we contribute to healing the collective psyche. In that sense, you could say the collective psyche is more real than the individual psyche, though I’d put it differently: the individual is real; the collective is real. They operate on different scales and are mutually implicated. And both are transcended by Platonic, archetypal levels radically beyond our human collective psyche.
 
-[link](https://youtu.be/cvhWP8xzwiY)  — *Exploring LSD and the Mind of the Universe* (2023-01-05) • no timecode
+[00:42:39](https://youtu.be/cvhWP8xzwiY?t=2559)  — *Exploring LSD and the Mind of the Universe* (2023-01-05) • 00:42:39
 
 > transcendence—not two separate realities but coexistent in our lives. That is embodied spirituality.
 Aviv Shahar:
 One way to describe this is that we’re engaged in the project of spiritualizing this world. We don’t need to go to another world to gain the spiritual experience; we’re in physical form to help spiritualize this one. Part of your report from these journeys is the validation that we’ve entered a time when you don’t need to be a high lama or special priest—this is an invitation for humanity at large, each in our own way, to participate in the fellowship of learning and become involved in the evolutionary project. I’d like you to describe the relationship between personal awakening and collective awakening—how you went through cycles of death and rebirth, their significance, and how they facilitate collective awakening.
 
-[link](https://youtu.be/ec0elBHJXAc)  — *The Mind of the Universe: Diamonds from Heaven* (2023-01-27) • no timecode
+[00:53:31](https://youtu.be/ec0elBHJXAc?t=3211)  — *The Mind of the Universe: Diamonds from Heaven* (2023-01-27) • 00:53:31
 
 
 ## Provenance
-Built from `sources.json` (harvested 2025-10-21).
+Built from `sources.json` (harvested 2025-10-22).
 Cite as: _Christopher M. Bache — Public Talks (2014–2025), retrieved via Bache Talks RAG v1.2-rc1._

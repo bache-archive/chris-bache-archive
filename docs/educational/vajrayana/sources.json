@@ -18,14 +18,14 @@
         "transcript_path": "sources/transcripts/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.md",
         "_score": 0.4788883626461029,
         "youtube_id": "FEQ8ony19sk",
-        "start_sec": null,
+        "start_sec": 3144.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "00:52:24",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/FEQ8ony19sk"
+        "ts_url": "https://youtu.be/FEQ8ony19sk?t=3144"
       },
       {
         "id": 1710,
@@ -44,14 +44,14 @@
         "transcript_path": "sources/transcripts/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.md",
         "_score": 0.4515829086303711,
         "youtube_id": "Kh5aqAuDBIM",
-        "start_sec": 3256.531,
+        "start_sec": 3193.0,
         "end_sec": 3284.271,
-        "start_hhmmss": "00:54:17",
+        "start_hhmmss": "00:53:13",
         "end_hhmmss": "00:54:44",
         "source_used": "diarist",
         "method": "fuzzy",
         "confidence": 0.7597,
-        "ts_url": "https://youtu.be/Kh5aqAuDBIM?t=3256"
+        "ts_url": "https://youtu.be/Kh5aqAuDBIM?t=3193"
       },
       {
         "id": 1295,
@@ -70,14 +70,14 @@
         "transcript_path": "sources/transcripts/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.md",
         "_score": 0.3964582085609436,
         "youtube_id": "eV86_iSTEbU",
-        "start_sec": 7122.077,
+        "start_sec": 7074.0,
         "end_sec": 7152.706,
-        "start_hhmmss": "01:58:42",
+        "start_hhmmss": "01:57:54",
         "end_hhmmss": "01:59:13",
         "source_used": "diarist",
         "method": "fuzzy",
         "confidence": 0.649,
-        "ts_url": "https://youtu.be/eV86_iSTEbU?t=7122"
+        "ts_url": "https://youtu.be/eV86_iSTEbU?t=7074"
       },
       {
         "id": 1505,
@@ -96,14 +96,14 @@
         "transcript_path": "sources/transcripts/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.md",
         "_score": 0.3896024227142334,
         "youtube_id": "FEQ8ony19sk",
-        "start_sec": null,
+        "start_sec": 3201.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "00:53:21",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/FEQ8ony19sk"
+        "ts_url": "https://youtu.be/FEQ8ony19sk?t=3201"
       },
       {
         "id": 1294,
@@ -122,14 +122,14 @@
         "transcript_path": "sources/transcripts/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.md",
         "_score": 0.37723976373672485,
         "youtube_id": "eV86_iSTEbU",
-        "start_sec": null,
+        "start_sec": 6977.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "01:56:17",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/eV86_iSTEbU"
+        "ts_url": "https://youtu.be/eV86_iSTEbU?t=6977"
       },
       {
         "id": 2673,
@@ -148,14 +148,14 @@
         "transcript_path": "sources/transcripts/2025-05-18-diamond-luminosity-live-stream.md",
         "_score": 0.3615055978298187,
         "youtube_id": "FlHqinHyt9I",
-        "start_sec": null,
+        "start_sec": 2688.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "00:44:48",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/FlHqinHyt9I"
+        "ts_url": "https://youtu.be/FlHqinHyt9I?t=2688"
       },
       {
         "id": 2674,
@@ -174,14 +174,14 @@
         "transcript_path": "sources/transcripts/2025-05-18-diamond-luminosity-live-stream.md",
         "_score": 0.3583131432533264,
         "youtube_id": "FlHqinHyt9I",
-        "start_sec": null,
+        "start_sec": 2815.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "00:46:55",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/FlHqinHyt9I"
+        "ts_url": "https://youtu.be/FlHqinHyt9I?t=2815"
       },
       {
         "id": 1418,
@@ -200,14 +200,14 @@
         "transcript_path": "sources/transcripts/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.md",
         "_score": 0.3469659090042114,
         "youtube_id": "-vebDk9FRYU",
-        "start_sec": null,
+        "start_sec": 8439.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "02:20:39",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/-vebDk9FRYU"
+        "ts_url": "https://youtu.be/-vebDk9FRYU?t=8439"
       },
       {
         "id": 572,
@@ -226,14 +226,14 @@
         "transcript_path": "sources/transcripts/2020-04-19-bicycle-day-conversation-with-jef-baker.md",
         "_score": 0.345551997423172,
         "youtube_id": "B0BhUOEP1Mg",
-        "start_sec": null,
+        "start_sec": 4404.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "01:13:24",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/B0BhUOEP1Mg"
+        "ts_url": "https://youtu.be/B0BhUOEP1Mg?t=4404"
       },
       {
         "id": 1453,
@@ -252,14 +252,14 @@
         "transcript_path": "sources/transcripts/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.md",
         "_score": 0.33693841099739075,
         "youtube_id": "-vebDk9FRYU",
-        "start_sec": null,
+        "start_sec": 7114.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "01:58:34",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/-vebDk9FRYU"
+        "ts_url": "https://youtu.be/-vebDk9FRYU?t=7114"
       },
       {
         "id": 186,
@@ -278,14 +278,14 @@
         "transcript_path": "sources/transcripts/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.md",
         "_score": 0.33210596442222595,
         "youtube_id": "O4ui6I1Wo9c",
-        "start_sec": null,
+        "start_sec": 2134.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "00:35:34",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/O4ui6I1Wo9c"
+        "ts_url": "https://youtu.be/O4ui6I1Wo9c?t=2134"
       },
       {
         "id": 212,
@@ -304,14 +304,14 @@
         "transcript_path": "sources/transcripts/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.md",
         "_score": 0.3210979700088501,
         "youtube_id": "L3D_fSr75u8",
-        "start_sec": null,
+        "start_sec": 1268.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "00:21:08",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/L3D_fSr75u8"
+        "ts_url": "https://youtu.be/L3D_fSr75u8?t=1268"
       },
       {
         "id": 2236,
@@ -330,14 +330,14 @@
         "transcript_path": "sources/transcripts/2024-02-10-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-sdi-meeting.md",
         "_score": 0.31841734051704407,
         "youtube_id": "Ucgt6vNpCDI",
-        "start_sec": null,
+        "start_sec": 2866.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "00:47:46",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/Ucgt6vNpCDI"
+        "ts_url": "https://youtu.be/Ucgt6vNpCDI?t=2866"
       },
       {
         "id": 623,
@@ -356,14 +356,14 @@
         "transcript_path": "sources/transcripts/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.md",
         "_score": 0.3154764771461487,
         "youtube_id": "Dw7D7ih8vy0",
-        "start_sec": null,
+        "start_sec": 3387.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "00:56:27",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/Dw7D7ih8vy0"
+        "ts_url": "https://youtu.be/Dw7D7ih8vy0?t=3387"
       },
       {
         "id": 181,
@@ -382,14 +382,14 @@
         "transcript_path": "sources/transcripts/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.md",
         "_score": 0.3146490454673767,
         "youtube_id": "O4ui6I1Wo9c",
-        "start_sec": null,
+        "start_sec": 1684.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "00:28:04",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/O4ui6I1Wo9c"
+        "ts_url": "https://youtu.be/O4ui6I1Wo9c?t=1684"
       },
       {
         "id": 1199,
@@ -408,14 +408,14 @@
         "transcript_path": "sources/transcripts/2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.md",
         "_score": 0.3141595125198364,
         "youtube_id": "-2NMOMvRkYE",
-        "start_sec": null,
+        "start_sec": 7656.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "02:07:36",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/-2NMOMvRkYE"
+        "ts_url": "https://youtu.be/-2NMOMvRkYE?t=7656"
       },
       {
         "id": 429,
@@ -434,14 +434,14 @@
         "transcript_path": "sources/transcripts/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md",
         "_score": 0.31244534254074097,
         "youtube_id": "uHn8lzYNXyE",
-        "start_sec": 1015.998,
+        "start_sec": 993.0,
         "end_sec": 1044.678,
-        "start_hhmmss": "00:16:56",
+        "start_hhmmss": "00:16:33",
         "end_hhmmss": "00:17:25",
         "source_used": "diarist",
         "method": "fuzzy",
         "confidence": 0.8958,
-        "ts_url": "https://youtu.be/uHn8lzYNXyE?t=1015"
+        "ts_url": "https://youtu.be/uHn8lzYNXyE?t=993"
       },
       {
         "id": 791,
@@ -460,14 +460,14 @@
         "transcript_path": "sources/transcripts/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.md",
         "_score": 0.3123749792575836,
         "youtube_id": "DBddIrMryJc",
-        "start_sec": null,
+        "start_sec": 2056.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "00:34:16",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/DBddIrMryJc"
+        "ts_url": "https://youtu.be/DBddIrMryJc?t=2056"
       },
       {
         "id": 688,
@@ -486,14 +486,14 @@
         "transcript_path": "sources/transcripts/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.md",
         "_score": 0.3119221329689026,
         "youtube_id": "-xbx5HnOFmA",
-        "start_sec": 3658.228,
+        "start_sec": 3584.0,
         "end_sec": 3684.06,
-        "start_hhmmss": "01:00:58",
+        "start_hhmmss": "00:59:44",
         "end_hhmmss": "01:01:24",
         "source_used": "diarist",
         "method": "fuzzy",
         "confidence": 0.7004,
-        "ts_url": "https://youtu.be/-xbx5HnOFmA?t=3658"
+        "ts_url": "https://youtu.be/-xbx5HnOFmA?t=3584"
       },
       {
         "id": 126,
@@ -512,14 +512,14 @@
         "transcript_path": "sources/transcripts/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.md",
         "_score": 0.309938907623291,
         "youtube_id": "yewNM9smrqo",
-        "start_sec": null,
+        "start_sec": 2511.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "00:41:51",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/yewNM9smrqo"
+        "ts_url": "https://youtu.be/yewNM9smrqo?t=2511"
       }
     ]
   },
@@ -948,7 +948,7 @@
     ]
   },
   "meta": {
-    "date": "2025-10-21",
+    "date": "2025-10-22",
     "top_k": 20,
     "qid": "vajrayana",
     "queries": {

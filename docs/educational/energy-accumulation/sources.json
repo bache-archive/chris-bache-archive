@@ -18,14 +18,14 @@
         "transcript_path": "sources/transcripts/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.md",
         "_score": 0.3789103925228119,
         "youtube_id": "Dw7D7ih8vy0",
-        "start_sec": null,
+        "start_sec": 6046.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "01:40:46",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/Dw7D7ih8vy0"
+        "ts_url": "https://youtu.be/Dw7D7ih8vy0?t=6046"
       },
       {
         "id": 749,
@@ -70,14 +70,14 @@
         "transcript_path": "sources/transcripts/2021-04-02-reincarnation-qanda-live-with-richard-rudd.md",
         "_score": 0.33982354402542114,
         "youtube_id": "wLg1uqI7b9c",
-        "start_sec": 2829.274,
+        "start_sec": 2751.0,
         "end_sec": 2853.96,
-        "start_hhmmss": "00:47:09",
+        "start_hhmmss": "00:45:51",
         "end_hhmmss": "00:47:34",
         "source_used": "diarist",
         "method": "fuzzy",
         "confidence": 0.5502,
-        "ts_url": "https://youtu.be/wLg1uqI7b9c?t=2829"
+        "ts_url": "https://youtu.be/wLg1uqI7b9c?t=2751"
       },
       {
         "id": 753,
@@ -96,14 +96,14 @@
         "transcript_path": "sources/transcripts/2021-03-16-contemplating-reincarnation-part-3.md",
         "_score": 0.32398152351379395,
         "youtube_id": "5Lus4MLlzbA",
-        "start_sec": null,
+        "start_sec": 1969.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "00:32:49",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/5Lus4MLlzbA"
+        "ts_url": "https://youtu.be/5Lus4MLlzbA?t=1969"
       },
       {
         "id": 856,
@@ -122,14 +122,14 @@
         "transcript_path": "sources/transcripts/2021-04-01-contemplating-reincarnation-part-1.md",
         "_score": 0.30550047755241394,
         "youtube_id": "jVDndxA6aZo",
-        "start_sec": null,
+        "start_sec": 3888.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "01:04:48",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/jVDndxA6aZo"
+        "ts_url": "https://youtu.be/jVDndxA6aZo?t=3888"
       },
       {
         "id": 2511,
@@ -148,14 +148,14 @@
         "transcript_path": "sources/transcripts/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.md",
         "_score": 0.2965776324272156,
         "youtube_id": "q-caGhIlKS8",
-        "start_sec": null,
+        "start_sec": 2341.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "00:39:01",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/q-caGhIlKS8"
+        "ts_url": "https://youtu.be/q-caGhIlKS8?t=2341"
       },
       {
         "id": 45,
@@ -174,14 +174,14 @@
         "transcript_path": "sources/transcripts/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.md",
         "_score": 0.29545170068740845,
         "youtube_id": "OJipHXvczW0",
-        "start_sec": 4800.128,
+        "start_sec": 4736.0,
         "end_sec": 4830.55,
-        "start_hhmmss": "01:20:00",
+        "start_hhmmss": "01:18:56",
         "end_hhmmss": "01:20:31",
         "source_used": "diarist",
         "method": "fuzzy",
         "confidence": 0.6667,
-        "ts_url": "https://youtu.be/OJipHXvczW0?t=4800"
+        "ts_url": "https://youtu.be/OJipHXvczW0?t=4736"
       },
       {
         "id": 403,
@@ -200,14 +200,14 @@
         "transcript_path": "sources/transcripts/2019-09-26-mapping-of-transcendence.md",
         "_score": 0.2950819432735443,
         "youtube_id": "70TRNG1-ZEg",
-        "start_sec": 2256.833,
+        "start_sec": 2209.0,
         "end_sec": 2286.175,
-        "start_hhmmss": "00:37:37",
+        "start_hhmmss": "00:36:49",
         "end_hhmmss": "00:38:06",
         "source_used": "diarist",
         "method": "fuzzy",
         "confidence": 0.8531,
-        "ts_url": "https://youtu.be/70TRNG1-ZEg?t=2256"
+        "ts_url": "https://youtu.be/70TRNG1-ZEg?t=2209"
       },
       {
         "id": 35,
@@ -226,14 +226,14 @@
         "transcript_path": "sources/transcripts/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.md",
         "_score": 0.28518059849739075,
         "youtube_id": "OJipHXvczW0",
-        "start_sec": null,
+        "start_sec": 3829.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "01:03:49",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/OJipHXvczW0"
+        "ts_url": "https://youtu.be/OJipHXvczW0?t=3829"
       },
       {
         "id": 308,
@@ -252,14 +252,14 @@
         "transcript_path": "sources/transcripts/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.md",
         "_score": 0.2812201976776123,
         "youtube_id": "SIjZypJKSFM",
-        "start_sec": null,
+        "start_sec": 3906.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "01:05:06",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/SIjZypJKSFM"
+        "ts_url": "https://youtu.be/SIjZypJKSFM?t=3906"
       },
       {
         "id": 1460,
@@ -278,14 +278,14 @@
         "transcript_path": "sources/transcripts/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.md",
         "_score": 0.28004205226898193,
         "youtube_id": "-vebDk9FRYU",
-        "start_sec": null,
+        "start_sec": 7797.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "02:09:57",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/-vebDk9FRYU"
+        "ts_url": "https://youtu.be/-vebDk9FRYU?t=7797"
       },
       {
         "id": 493,
@@ -304,14 +304,14 @@
         "transcript_path": "sources/transcripts/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md",
         "_score": 0.2773122191429138,
         "youtube_id": "CbgJkCoee3w",
-        "start_sec": null,
+        "start_sec": 2163.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "00:36:03",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/CbgJkCoee3w"
+        "ts_url": "https://youtu.be/CbgJkCoee3w?t=2163"
       },
       {
         "id": 1782,
@@ -330,14 +330,14 @@
         "transcript_path": "sources/transcripts/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.md",
         "_score": 0.2749442160129547,
         "youtube_id": "ec0elBHJXAc",
-        "start_sec": 1698.803,
+        "start_sec": 1655.0,
         "end_sec": 1725.709,
-        "start_hhmmss": "00:28:19",
+        "start_hhmmss": "00:27:35",
         "end_hhmmss": "00:28:46",
         "source_used": "diarist",
         "method": "fuzzy",
         "confidence": 0.8506,
-        "ts_url": "https://youtu.be/ec0elBHJXAc?t=1698"
+        "ts_url": "https://youtu.be/ec0elBHJXAc?t=1655"
       },
       {
         "id": 2531,
@@ -356,14 +356,14 @@
         "transcript_path": "sources/transcripts/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.md",
         "_score": 0.27403688430786133,
         "youtube_id": "q-caGhIlKS8",
-        "start_sec": 4051.176,
+        "start_sec": 4033.0,
         "end_sec": 4078.929,
-        "start_hhmmss": "01:07:31",
+        "start_hhmmss": "01:07:13",
         "end_hhmmss": "01:07:59",
         "source_used": "diarist",
         "method": "fuzzy",
         "confidence": 0.8865,
-        "ts_url": "https://youtu.be/q-caGhIlKS8?t=4051"
+        "ts_url": "https://youtu.be/q-caGhIlKS8?t=4033"
       },
       {
         "id": 546,
@@ -382,14 +382,14 @@
         "transcript_path": "sources/transcripts/2020-04-19-bicycle-day-conversation-with-jef-baker.md",
         "_score": 0.27238166332244873,
         "youtube_id": "B0BhUOEP1Mg",
-        "start_sec": null,
+        "start_sec": 1517.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "00:25:17",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/B0BhUOEP1Mg"
+        "ts_url": "https://youtu.be/B0BhUOEP1Mg?t=1517"
       },
       {
         "id": 1304,
@@ -408,14 +408,14 @@
         "transcript_path": "sources/transcripts/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.md",
         "_score": 0.2715393900871277,
         "youtube_id": "eV86_iSTEbU",
-        "start_sec": null,
+        "start_sec": 8040.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "02:14:00",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/eV86_iSTEbU"
+        "ts_url": "https://youtu.be/eV86_iSTEbU?t=8040"
       },
       {
         "id": 1146,
@@ -434,14 +434,14 @@
         "transcript_path": "sources/transcripts/2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.md",
         "_score": 0.2714717984199524,
         "youtube_id": "-2NMOMvRkYE",
-        "start_sec": 2661.233,
+        "start_sec": 2620.0,
         "end_sec": 2692.76,
-        "start_hhmmss": "00:44:21",
+        "start_hhmmss": "00:43:40",
         "end_hhmmss": "00:44:53",
         "source_used": "diarist",
         "method": "fuzzy",
         "confidence": 0.7106,
-        "ts_url": "https://youtu.be/-2NMOMvRkYE?t=2661"
+        "ts_url": "https://youtu.be/-2NMOMvRkYE?t=2620"
       },
       {
         "id": 1067,
@@ -460,14 +460,14 @@
         "transcript_path": "sources/transcripts/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.md",
         "_score": 0.2653341591358185,
         "youtube_id": "icBasHgjzsY",
-        "start_sec": 5027.981,
+        "start_sec": 4945.0,
         "end_sec": 5052.7,
-        "start_hhmmss": "01:23:48",
+        "start_hhmmss": "01:22:25",
         "end_hhmmss": "01:24:13",
         "source_used": "diarist",
         "method": "fuzzy",
         "confidence": 0.7575,
-        "ts_url": "https://youtu.be/icBasHgjzsY?t=5027"
+        "ts_url": "https://youtu.be/icBasHgjzsY?t=4945"
       },
       {
         "id": 1848,
@@ -486,14 +486,14 @@
         "transcript_path": "sources/transcripts/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.md",
         "_score": 0.26377326250076294,
         "youtube_id": "TeifW7GZ9xI",
-        "start_sec": null,
+        "start_sec": 2624.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "00:43:44",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/TeifW7GZ9xI"
+        "ts_url": "https://youtu.be/TeifW7GZ9xI?t=2624"
       },
       {
         "id": 2053,
@@ -512,14 +512,14 @@
         "transcript_path": "sources/transcripts/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.md",
         "_score": 0.263335645198822,
         "youtube_id": "pYw8ZqCqx18",
-        "start_sec": null,
+        "start_sec": 2022.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "00:33:42",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/pYw8ZqCqx18"
+        "ts_url": "https://youtu.be/pYw8ZqCqx18?t=2022"
       }
     ]
   },
@@ -948,7 +948,7 @@
     ]
   },
   "meta": {
-    "date": "2025-10-21",
+    "date": "2025-10-22",
     "top_k": 20,
     "qid": "energy-accumulation",
     "queries": {

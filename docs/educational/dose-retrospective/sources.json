@@ -18,14 +18,14 @@
         "transcript_path": "sources/transcripts/2025-05-18-diamond-luminosity-live-stream.md",
         "_score": 0.44247734546661377,
         "youtube_id": "FlHqinHyt9I",
-        "start_sec": 1481.948,
+        "start_sec": 1447.0,
         "end_sec": 1508.689,
-        "start_hhmmss": "00:24:42",
+        "start_hhmmss": "00:24:07",
         "end_hhmmss": "00:25:09",
         "source_used": "diarist",
         "method": "fuzzy",
         "confidence": 0.6376,
-        "ts_url": "https://youtu.be/FlHqinHyt9I?t=1481"
+        "ts_url": "https://youtu.be/FlHqinHyt9I?t=1447"
       },
       {
         "id": 202,
@@ -44,14 +44,14 @@
         "transcript_path": "sources/transcripts/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.md",
         "_score": 0.43237850069999695,
         "youtube_id": "L3D_fSr75u8",
-        "start_sec": null,
+        "start_sec": 565.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "00:09:25",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/L3D_fSr75u8"
+        "ts_url": "https://youtu.be/L3D_fSr75u8?t=565"
       },
       {
         "id": 1940,
@@ -96,14 +96,14 @@
         "transcript_path": "sources/transcripts/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.md",
         "_score": 0.4245019555091858,
         "youtube_id": "SIjZypJKSFM",
-        "start_sec": null,
+        "start_sec": 3697.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "01:01:37",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/SIjZypJKSFM"
+        "ts_url": "https://youtu.be/SIjZypJKSFM?t=3697"
       },
       {
         "id": 985,
@@ -122,14 +122,14 @@
         "transcript_path": "sources/transcripts/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.md",
         "_score": 0.4151759445667267,
         "youtube_id": "zXt-LkmINyc",
-        "start_sec": null,
+        "start_sec": 1229.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "00:20:29",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/zXt-LkmINyc"
+        "ts_url": "https://youtu.be/zXt-LkmINyc?t=1229"
       },
       {
         "id": 536,
@@ -148,14 +148,14 @@
         "transcript_path": "sources/transcripts/2020-04-19-bicycle-day-conversation-with-jef-baker.md",
         "_score": 0.40962862968444824,
         "youtube_id": "B0BhUOEP1Mg",
-        "start_sec": null,
+        "start_sec": 427.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "00:07:07",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/B0BhUOEP1Mg"
+        "ts_url": "https://youtu.be/B0BhUOEP1Mg?t=427"
       },
       {
         "id": 2308,
@@ -174,14 +174,14 @@
         "transcript_path": "sources/transcripts/2024-09-24-philosophical-implications-of-non-ordinary-states-live.md",
         "_score": 0.4029981791973114,
         "youtube_id": "9jsKPUwwqfQ",
-        "start_sec": null,
+        "start_sec": 2687.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "00:44:47",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/9jsKPUwwqfQ"
+        "ts_url": "https://youtu.be/9jsKPUwwqfQ?t=2687"
       },
       {
         "id": 1941,
@@ -226,14 +226,14 @@
         "transcript_path": "sources/transcripts/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md",
         "_score": 0.39662274718284607,
         "youtube_id": "uHn8lzYNXyE",
-        "start_sec": null,
+        "start_sec": 575.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "00:09:35",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/uHn8lzYNXyE"
+        "ts_url": "https://youtu.be/uHn8lzYNXyE?t=575"
       },
       {
         "id": 1475,
@@ -252,14 +252,14 @@
         "transcript_path": "sources/transcripts/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.md",
         "_score": 0.39273419976234436,
         "youtube_id": "FEQ8ony19sk",
-        "start_sec": 595.439,
+        "start_sec": 518.0,
         "end_sec": 605.652,
-        "start_hhmmss": "00:09:55",
+        "start_hhmmss": "00:08:38",
         "end_hhmmss": "00:10:06",
         "source_used": "captions",
         "method": "fuzzy",
         "confidence": 0.5,
-        "ts_url": "https://youtu.be/FEQ8ony19sk?t=595"
+        "ts_url": "https://youtu.be/FEQ8ony19sk?t=518"
       },
       {
         "id": 496,
@@ -278,14 +278,14 @@
         "transcript_path": "sources/transcripts/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md",
         "_score": 0.3856016993522644,
         "youtube_id": "CbgJkCoee3w",
-        "start_sec": null,
+        "start_sec": 2501.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "00:41:41",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/CbgJkCoee3w"
+        "ts_url": "https://youtu.be/CbgJkCoee3w?t=2501"
       },
       {
         "id": 489,
@@ -304,14 +304,14 @@
         "transcript_path": "sources/transcripts/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md",
         "_score": 0.38558536767959595,
         "youtube_id": "CbgJkCoee3w",
-        "start_sec": 1922.127,
+        "start_sec": 1828.0,
         "end_sec": 1947.615,
-        "start_hhmmss": "00:32:02",
+        "start_hhmmss": "00:30:28",
         "end_hhmmss": "00:32:28",
         "source_used": "diarist",
         "method": "fuzzy",
         "confidence": 0.6977,
-        "ts_url": "https://youtu.be/CbgJkCoee3w?t=1922"
+        "ts_url": "https://youtu.be/CbgJkCoee3w?t=1828"
       },
       {
         "id": 1996,
@@ -330,14 +330,14 @@
         "transcript_path": "sources/transcripts/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.md",
         "_score": 0.384275883436203,
         "youtube_id": "2Trb-vC8zc0",
-        "start_sec": 286.784,
+        "start_sec": 211.0,
         "end_sec": 314.706,
-        "start_hhmmss": "00:04:47",
+        "start_hhmmss": "00:03:31",
         "end_hhmmss": "00:05:15",
         "source_used": "diarist",
         "method": "fuzzy",
         "confidence": 0.572,
-        "ts_url": "https://youtu.be/2Trb-vC8zc0?t=286"
+        "ts_url": "https://youtu.be/2Trb-vC8zc0?t=211"
       },
       {
         "id": 1997,
@@ -356,14 +356,14 @@
         "transcript_path": "sources/transcripts/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.md",
         "_score": 0.38318198919296265,
         "youtube_id": "2Trb-vC8zc0",
-        "start_sec": null,
+        "start_sec": 292.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "00:04:52",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/2Trb-vC8zc0"
+        "ts_url": "https://youtu.be/2Trb-vC8zc0?t=292"
       },
       {
         "id": 2341,
@@ -382,14 +382,14 @@
         "transcript_path": "sources/transcripts/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.md",
         "_score": 0.38024455308914185,
         "youtube_id": "I1n2E46S-4E",
-        "start_sec": null,
+        "start_sec": 698.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "00:11:38",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/I1n2E46S-4E"
+        "ts_url": "https://youtu.be/I1n2E46S-4E?t=698"
       },
       {
         "id": 322,
@@ -408,14 +408,14 @@
         "transcript_path": "sources/transcripts/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.md",
         "_score": 0.37864652276039124,
         "youtube_id": "SIjZypJKSFM",
-        "start_sec": 5266.523,
+        "start_sec": 5202.0,
         "end_sec": 5292.509,
-        "start_hhmmss": "01:27:47",
+        "start_hhmmss": "01:26:42",
         "end_hhmmss": "01:28:13",
         "source_used": "diarist",
         "method": "fuzzy",
         "confidence": 0.4883,
-        "ts_url": "https://youtu.be/SIjZypJKSFM?t=5266"
+        "ts_url": "https://youtu.be/SIjZypJKSFM?t=5202"
       },
       {
         "id": 2656,
@@ -434,14 +434,14 @@
         "transcript_path": "sources/transcripts/2025-05-18-diamond-luminosity-live-stream.md",
         "_score": 0.37366193532943726,
         "youtube_id": "FlHqinHyt9I",
-        "start_sec": 1446.66,
+        "start_sec": 1394.0,
         "end_sec": 1470.805,
-        "start_hhmmss": "00:24:07",
+        "start_hhmmss": "00:23:14",
         "end_hhmmss": "00:24:31",
         "source_used": "diarist",
         "method": "fuzzy",
         "confidence": 0.5588,
-        "ts_url": "https://youtu.be/FlHqinHyt9I?t=1446"
+        "ts_url": "https://youtu.be/FlHqinHyt9I?t=1394"
       },
       {
         "id": 422,
@@ -460,14 +460,14 @@
         "transcript_path": "sources/transcripts/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md",
         "_score": 0.36903896927833557,
         "youtube_id": "uHn8lzYNXyE",
-        "start_sec": 434.567,
+        "start_sec": 407.0,
         "end_sec": 459.756,
-        "start_hhmmss": "00:07:15",
+        "start_hhmmss": "00:06:47",
         "end_hhmmss": "00:07:40",
         "source_used": "diarist",
         "method": "fuzzy",
         "confidence": 0.7266,
-        "ts_url": "https://youtu.be/uHn8lzYNXyE?t=434"
+        "ts_url": "https://youtu.be/uHn8lzYNXyE?t=407"
       },
       {
         "id": 779,
@@ -486,14 +486,14 @@
         "transcript_path": "sources/transcripts/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.md",
         "_score": 0.3677619993686676,
         "youtube_id": "DBddIrMryJc",
-        "start_sec": null,
+        "start_sec": 505.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "00:08:25",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/DBddIrMryJc"
+        "ts_url": "https://youtu.be/DBddIrMryJc?t=505"
       },
       {
         "id": 203,
@@ -512,14 +512,14 @@
         "transcript_path": "sources/transcripts/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.md",
         "_score": 0.36672303080558777,
         "youtube_id": "L3D_fSr75u8",
-        "start_sec": null,
+        "start_sec": 617.0,
         "end_sec": null,
-        "start_hhmmss": null,
+        "start_hhmmss": "00:10:17",
         "end_hhmmss": null,
         "source_used": null,
         "method": null,
         "confidence": null,
-        "ts_url": "https://youtu.be/L3D_fSr75u8"
+        "ts_url": "https://youtu.be/L3D_fSr75u8?t=617"
       }
     ]
   },
@@ -544,7 +544,7 @@
         "section": 4,
         "paragraph": 1,
         "sentence": null,
-        "_score": 0.4401068687438965
+        "_score": 0.4400988519191742
       },
       {
         "id": "lsdmu.c01.s04.p05",
@@ -565,7 +565,7 @@
         "section": 4,
         "paragraph": 5,
         "sentence": null,
-        "_score": 0.4142798185348511
+        "_score": 0.41426634788513184
       },
       {
         "id": "lsdmu.c01.s05.p02",
@@ -586,7 +586,7 @@
         "section": 5,
         "paragraph": 2,
         "sentence": null,
-        "_score": 0.3941003680229187
+        "_score": 0.39409178495407104
       },
       {
         "id": "lsdmu.c01.s05.p01",
@@ -607,7 +607,7 @@
         "section": 5,
         "paragraph": 1,
         "sentence": null,
-        "_score": 0.3795396089553833
+        "_score": 0.37953341007232666
       },
       {
         "id": "lsdmu.c02.s01.p12",
@@ -628,7 +628,7 @@
         "section": 1,
         "paragraph": 12,
         "sentence": null,
-        "_score": 0.3621034622192383
+        "_score": 0.3621199131011963
       },
       {
         "id": "lsdmu.c08.s01.p45",
@@ -649,7 +649,7 @@
         "section": 1,
         "paragraph": 45,
         "sentence": null,
-        "_score": 0.3119553029537201
+        "_score": 0.31197965145111084
       },
       {
         "id": "lsdmu.c02.s00.p06",
@@ -670,7 +670,7 @@
         "section": 0,
         "paragraph": 6,
         "sentence": null,
-        "_score": 0.31117483973503113
+        "_score": 0.3111560642719269
       },
       {
         "id": "lsdmu.c01.s08.p02",
@@ -691,7 +691,7 @@
         "section": 8,
         "paragraph": 2,
         "sentence": null,
-        "_score": 0.3095494508743286
+        "_score": 0.3095649182796478
       },
       {
         "id": "lsdmu.c10.s00.p16",
@@ -712,7 +712,7 @@
         "section": 0,
         "paragraph": 16,
         "sentence": null,
-        "_score": 0.29446542263031006
+        "_score": 0.29449206590652466
       },
       {
         "id": "lsdmu.c11.s00.p03",
@@ -733,7 +733,7 @@
         "section": 0,
         "paragraph": 3,
         "sentence": null,
-        "_score": 0.29105639457702637
+        "_score": 0.29108208417892456
       },
       {
         "id": "lsdmu.c11.s02.p01",
@@ -754,7 +754,7 @@
         "section": 2,
         "paragraph": 1,
         "sentence": null,
-        "_score": 0.29021334648132324
+        "_score": 0.290230929851532
       },
       {
         "id": "lsdmu.c02.s02.p01",
@@ -775,7 +775,7 @@
         "section": 2,
         "paragraph": 1,
         "sentence": null,
-        "_score": 0.2834486663341522
+        "_score": 0.2834412753582001
       },
       {
         "id": "lsdmu.c01.s12.p13",
@@ -796,7 +796,7 @@
         "section": 12,
         "paragraph": 13,
         "sentence": null,
-        "_score": 0.27541035413742065
+        "_score": 0.27545687556266785
       },
       {
         "id": "lsdmu.c02.s02.p10",
@@ -817,7 +817,7 @@
         "section": 2,
         "paragraph": 10,
         "sentence": null,
-        "_score": 0.2751566767692566
+        "_score": 0.27516570687294006
       },
       {
         "id": "lsdmu.c06.s00.p108",
@@ -838,7 +838,7 @@
         "section": 0,
         "paragraph": 108,
         "sentence": null,
-        "_score": 0.2742476463317871
+        "_score": 0.2742435932159424
       },
       {
         "id": "lsdmu.c12.s01.p14",
@@ -859,7 +859,7 @@
         "section": 1,
         "paragraph": 14,
         "sentence": null,
-        "_score": 0.27372562885284424
+        "_score": 0.2737357020378113
       },
       {
         "id": "lsdmu.c06.s00.p69",
@@ -880,7 +880,7 @@
         "section": 0,
         "paragraph": 69,
         "sentence": null,
-        "_score": 0.26858267188072205
+        "_score": 0.2686013877391815
       },
       {
         "id": "lsdmu.c03.s00.p17",
@@ -901,7 +901,7 @@
         "section": 0,
         "paragraph": 17,
         "sentence": null,
-        "_score": 0.2612460255622864
+        "_score": 0.261252224445343
       },
       {
         "id": "lsdmu.c11.s02.p04",
@@ -922,7 +922,7 @@
         "section": 2,
         "paragraph": 4,
         "sentence": null,
-        "_score": 0.2610722780227661
+        "_score": 0.26107102632522583
       },
       {
         "id": "lsdmu.c04.s00.p07",
@@ -943,12 +943,12 @@
         "section": 0,
         "paragraph": 7,
         "sentence": null,
-        "_score": 0.26023539900779724
+        "_score": 0.2602870762348175
       }
     ]
   },
   "meta": {
-    "date": "2025-10-21",
+    "date": "2025-10-22",
     "top_k": 20,
     "qid": "dose-retrospective",
     "queries": {

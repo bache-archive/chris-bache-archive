@@ -1,13 +1,13 @@
 ---
 title: "Grof Coex"
 id: "grof-coex"
-date: "2025-10-21"
+date: "2025-10-22"
 version: "v1"
 source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> This educational page explores the concepts of COEX systems and Basic Perinatal Matrix as introduced by Stanislav Grof. COEX systems, or "systems of condensed experience," represent clusters of memories and emotions that share common themes across an individual's life. The discussion extends to the collective unconscious, suggesting parallels between personal and collective memory organization, and the implications of unresolved historical trauma on both individual and societal levels.
+> This educational page explores the concepts of COEX systems and meta-COEX systems as introduced by Stanislav Grof. These frameworks describe how both personal and collective experiences are organized within the psyche, highlighting the thematic clusters of memories that share common emotional charges. The implications of these concepts extend to understanding the interplay between individual psychological processes and broader collective historical traumas.
 
 ## Primary citations (book — verbatim excerpts)
 
@@ -93,17 +93,74 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 
 ## Supporting transcript quotes (verbatim)
 
+> X systems, our species gathers its trauma in vast collective COEX systems—what I call meta-matrices.
+It took a long time to accept, because it sounded arrogant—as if my sessions were impacting humanity’s psyche. But it wasn’t that; it was simply following the natural deepening of the Death-Rebirth cycle: it churns at the personal level, then at the collective level. It culminated in an orgy of pain and the ocean of suffering, and then it spun me into archetypal reality. The ocean of suffering never returned after that point. There were further intense purifications, but that collective ordeal stopped, and I entered another cycle. My book Dark Night, Early Dawn explores why these collective experiences were showing up in what I thought was individual therapy.
+
+Luc Briede-Cooper:
+For those who don’t know, COEX—Stan Grof’s term—refers to systems of condensed experience: stacks of biographical traumas down to perinatal layers, and deeper into transpersonal material, all sharing a feeling tone.
+
+[00:30:04](https://youtu.be/cvhWP8xzwiY?t=1804)  — *Exploring LSD and the Mind of the Universe* (2023-01-05) • 00:30:04
+
 > , but so many beings have had this intuition and bring different names to describe the future human.
 Tasshin Fogleman:
 There’s a term you borrow from Grof—COEX systems—and then you describe meta-COEX systems. A lot of what you’re talking about seems related. Could you verbally describe what those are and explain them a little?
 
-[01:25:02](https://youtu.be/FEQ8ony19sk?t=5102)  — *Psychedelics and Cosmological Exploration with Chris Bache – Reach Truth Podcast* (2022-08-30) • 01:25:02
+[01:25:00](https://youtu.be/FEQ8ony19sk?t=5100)  — *Psychedelics and Cosmological Exploration with Chris Bache – Reach Truth Podcast* (2022-08-30) • 01:25:00
+
+> may date from this lifetime, from birth, or from a former lifetime, and we dissolve the COEX system.
+My experience is that the same is true for the collective psyche—that the mind of the universe and the mind of our species store history in massive thematic clusters. All the trauma associated with war; with drought and dying on the plains; male–female violence; patterns of violence, pain, suffering, fear of death—these don’t exist as free-floating private memories within the Bardo of our individual souls. The collective psyche aggregates its history into massive collective structures I call meta-COEX systems. So you have COEX systems within the personal psyche and meta-COEX systems within the collective psyche. I think when I was moved into the ocean of suffering, my system was engaging meta-COEX systems within the collective psyche and making some small contribution to removing those clusters—not all of them, certainly not any one all the way down. This is the work of generations, and all spiritual traditions—saints, sages, contemplatives—tap into levels of suffering that are not personal. That’s why bodhichitta—the will to save all sentient beings—is the only appropriate motivation for spiritual practice. You quickly realize this is not a private game. We’re in this together. It’s a collective evolutionary process.
+
+[01:27:10](https://youtu.be/FEQ8ony19sk?t=5230)  — *Psychedelics and Cosmological Exploration with Chris Bache – Reach Truth Podcast* (2022-08-30) • 01:27:10
+
+> ego death, after which you move into consciousness beyond anything explainable by personal history.
+At that point, instead of easier access to spiritual reality, the Death-Rebirth cycle repeated at a different level. I began having massive collective experiences—collective rage and anguish—for another two years, maybe 10 to 12 sessions. At first I thought this was just a deepening of personal ego death, but the content was so inherently collective, and it went on so long, that I concluded the “patient” wasn’t me personally; it had become my human family. I was being drawn into collective COEX systems that hold the pain and suffering of human history. Just as an individual psyche gathers trauma in COEX systems, our species gathers its trauma in vast collective COEX systems—what I call meta-matrices.
+
+[00:27:57](https://youtu.be/cvhWP8xzwiY?t=1677)  — *Exploring LSD and the Mind of the Universe* (2023-01-05) • 00:27:57
+
+> ibal conflicts were implicitly present in what I was working with, but it wasn't explicitly present.
+Stan has this concept of a COEX system, a system of condensed experience. I think the collective psyche also has these massive aggregates—these balls of collective experience—I call them the meta-matrices. They are the meta-COEX systems of the collective psyche that fuse multiple historical periods, cultures, and peoples' experience. Late in the series it became very clear to me that what I was engaging was memory—the living memory of trauma embedded in the collective psyche.
+
+[01:18:10](https://youtu.be/uHn8lzYNXyE?t=4690)  — *LSD & the Mind of the Universe: Diamonds from Heaven* (2019-11-13) • 01:18:10
+
+> rom Stan Grof: totally internalized sessions, lying down, eye shades, earphones, a sitter—the drill.
+Unwisely, after three sessions I chose a protocol of very high doses of LSD because I was in a hurry. I thought this would get me where I wanted to go faster—that it was about personal awakening, personal enlightenment. I thought, it’ll be harder, but I’ll burn off my karma faster. Let’s put the pedal to the metal. That turned out to be wrong on many points. The goal was not personal enlightenment. If you work with very high doses in a carefully controlled setting and start shattering boundaries, within a few years you can find, as I did, that what’s driving your sessions is not your personal development or healing but a larger historical drama of our collective development. So much of the healing in my sessions was not about healing Chris Bache or even my soul; it was engaging and healing aspects of the human family—pains stored within the collective unconscious from all the wars, unhealed traumas, abuses, droughts, men-versus-women violence, race-versus-race violence, and so on. All that unresolved trauma accumulates in the human psyche.
+
+[01:08:30](https://youtu.be/TeifW7GZ9xI?t=4110)  — *Wisdom Keepers conversation with Duane Elgin* (2023-01-30) • 01:08:30
+
+> smology—which resonates deeply with the psychedelic cosmology Stan has described in The Cosmic Game.
+Aurobindo’s vision is of a cascading involution of the Divine, generating multiple levels of reality—all divine, but within those levels, a descending scale of self-awareness of divinity, like a series of one-way mirrors: the divine looking down sees all; the divine looking up sees less. At the end of Dark Night, Early Dawn, I noted that, in a multilevel cosmology, a death-rebirth event can function as both liberation from below to above, and infusion from above to below. At the threshold, one can feel energy moving in both directions—death-rebirth as ascent and descent.
+
+[00:28:11](https://youtu.be/cEsoN2IaGc4?t=1691)  — *Exploring the Boundaries of Death and Rebirth in LSD Psychotherapy* (2015-03-16) • 00:28:11
+
+> and deeper into consciousness, that’s what I’m talking about. That’s what Stan Grof’s work explores.
+First, a few words about the protocol I used, and then where this journey—told in LSD and the Mind of the Universe—went. Most of you who know Stan Grof’s work know the fundamental distinction in his methodology: low-dose psycholytic therapy and high-dose psychedelic therapy. Psycholytic therapy works with lower doses, perhaps 40 to 100 sessions, peeling the unconscious layer by layer, stripping down trauma, angst, pain bit by bit. At Spring Grove Hospital in Baltimore, they developed a different form: high-dose psychedelic therapy. The strategy was to take an overwhelming dose—about 500 micrograms—and blow through all levels of consciousness to try to trigger a near-death experience. They worked with terminally ill cancer patients, hoping to provoke a confrontation with the universe that would give a glimpse of where they were going and reduce death anxiety—and they succeeded.
+
+[00:06:53](https://youtu.be/70TRNG1-ZEg?t=413)  — *Mapping of Transcendence* (2019-09-26) • 00:06:53
+
+> ciousness I entered in these transformational exercises expanded with the power of the state itself.
+I worked in standard Grofian protocol: totally isolated from the world with a sitter—a trained clinical psychologist—at home in a controlled environment, completely internally focused, no contact with the outside world, amplifying the states with carefully selected music designed to empower the state of consciousness. At these levels, you basically shatter your mind; it dissolves into subtler and subtler aspects of reality. It became a systematic exploration of what I think of as the mind of the universe. I hesitate to call it “the divine,” though sometimes I do, because “divine” carries so much cultural baggage. I kept very careful records for 20 years, then digested the experiences for another 20, because these are not immediately transparent. They’re complex, interwoven, involving many levels of reality orchestrated in tidal surges of state.
+
+[00:02:54](https://youtu.be/pvZDcQfGzpM?t=174)  — *Diamonds From Heaven – The Mind of the Universe (Chris Bache)* (2023-11-05) • 00:02:54
+
+> tenment. These two categories—the therapeutic and the spiritual awakening—dominate discussion today.
+My work is different. I was trained as a philosopher of religion. I’m not a therapist or psychologist. I was interested in the philosophical potential of psychedelics. So my work falls into a third category: cosmological exploration—not healing, not primarily aiming at awakening, but using deep non-ordinary states to explore the deep structure of reality.
+
+My work derives from Stan Grof. Just out of graduate school, I encountered Stan’s Realms of the Human Unconscious and his manual LSD Psychotherapy, followed by a dozen or more important books. In those early works, Stan differentiates between low-dose psycholytic therapy and high-dose psychedelic therapy—very different regimens. Psycholytic heals the unconscious layer by layer; psychedelic aims for a breakthrough. At Spring Grove Hospital they worked with terminally ill patients, trying to trigger something approximating a near-death experience to give them a glimpse of where they were going when they died. But psychedelic therapy was limited to three sessions.
+
+[00:12:25](https://youtu.be/Ucgt6vNpCDI?t=745)  — *LSD and the Mind of the Universe: Diamonds from Heaven (SDI Meeting)* (2024-02-10) • 00:12:25
+
+> lective psyche, into archetypal reality—each requires a different pattern of dying and being reborn.
+I use Stan Grof’s categories—psychic (high/low), subtle (high/low), causal. They’re convenient but necessarily rough; how can six categories capture the full spectrum of divine experience? They’re useful to mark transitions on this journey. These cycles are like tori: you break through, expand into a new level, gather in, blow through to another level, stabilize competencies in that state, gather again, and then, if you follow the process, another death-rebirth into a deeper level.
+
+One way I image this is with a nuclear explosion—not to dwell on the horror it represents, but to make a point: deep death-rebirth shatters everything you’ve known and drops you deeper into the universe, revealing levels previously outside awareness. In an explosion, deeper atmospheric layers become visible; likewise, deep psychedelic work brings levels into awareness that were always there. Dissolve the dualism in that image: you’re not separate from the strata you enter; you dissolve into that field. We’re not talking about bombs; we’re talking about the cosmos exploring itself.
+
+[00:00:04](https://youtu.be/DBddIrMryJc?t=4)  — *Chris Bache – LSD and the Mind of the Universe – SPMC 2019* (2021-03-29) • 00:00:04
 
 > with you as well, and I think you looked to Stanislav Grof for how to go about that, is that right?
 Chris Bache:
 Stan’s work is so formidable, and his intellectual synthesis of so many traditions is so important, that he became my foundation for doing this work. Remember, I was doing this in Ohio, far from San Francisco. I wasn’t part of a psychedelic community or an ayahuasca group going to Peru to work with indigenous shamans. I was really working alone, and I adopted the protocol Stan outlined in his book LSD Psychotherapy (1980) very early on.
 
-[00:34:13](https://youtu.be/FlHqinHyt9I?t=2052)  — *Diamond Luminosity (live stream)* (2025-05-18) • 00:34:13
+[00:34:14](https://youtu.be/FlHqinHyt9I?t=2054)  — *Diamond Luminosity (live stream)* (2025-05-18) • 00:34:14
 
 > stand why it hurts so much, because you’re going beyond the edge of the maps of the personal psyche.
 If you focus with that intent, something exciting opens up. You not only have the opportunity to heal the knots locked in your heart from however many incarnations you’ve had, but as those knots are healed and unlocked, your receptivity to larger fields of consciousness—which are always there—increases. That, I think, is worth a lot of concerts.
@@ -111,74 +168,12 @@ If you focus with that intent, something exciting opens up. You not only have th
 Emmy Vadnais:
 Chris, can you expand on what your session structures were like? Somebody commented after our conversation asking, “Why didn’t he just go out and hang in the mountains and nature?” You had somebody there with you as well, and I think you looked to Stanislav Grof for how to go about that, is that right?
 
-[00:34:06](https://youtu.be/FlHqinHyt9I?t=2046)  — *Diamond Luminosity (live stream)* (2025-05-18) • 00:34:06
-
-> ducing a typical session day—but these are the key sections carrying the content of the experiences.
-The first chapter—crossing the perinatal plane—is the easiest to summarize, probably because it’s the one most people know from Grof’s writing. You relive fetal experiences, your time in the womb, birth itself, and many variations of death and rebirth. For me, moving through this level took about two years and ten sessions. In my ninth and tenth sessions, the universe just snapped me like a twig in my experience of ego death. The ego, in the end, was not very difficult to dismantle. The universe shattered me by turning me into the opposite of everything I’d known myself to be. I entered the day as a white, middle-class, highly educated philosopher focused on questions of existence, and those aspects were all reversed. For hours, I experienced the lives of women—hundreds of women—from around the world, women of color, women who were poor or had no interest in philosophy. I became all of those beings. I was completely terrified; it was, for me as a male philosopher, the perfect hell. There’s nothing wrong with being a woman or being poor or being disinterested in philosophy; the core issue was my identification with being male, with being middle class. That’s what the universe needed to break in me. The message wasn’t just to recall past lives as women—I’ve known I had those—but rather that, where I was going, gender doesn’t exist. I had to let go.
-
-[00:12:24](https://youtu.be/O4ui6I1Wo9c?t=744)  — *Diamonds from Heaven – Lecture at TimeWaver Summer World 2018* (2018-08-30) • 00:12:24
-
-> X systems, our species gathers its trauma in vast collective COEX systems—what I call meta-matrices.
-It took a long time to accept, because it sounded arrogant—as if my sessions were impacting humanity’s psyche. But it wasn’t that; it was simply following the natural deepening of the Death-Rebirth cycle: it churns at the personal level, then at the collective level. It culminated in an orgy of pain and the ocean of suffering, and then it spun me into archetypal reality. The ocean of suffering never returned after that point. There were further intense purifications, but that collective ordeal stopped, and I entered another cycle. My book Dark Night, Early Dawn explores why these collective experiences were showing up in what I thought was individual therapy.
-
-Luc Briede-Cooper:
-For those who don’t know, COEX—Stan Grof’s term—refers to systems of condensed experience: stacks of biographical traumas down to perinatal layers, and deeper into transpersonal material, all sharing a feeling tone.
-
-[link](https://youtu.be/cvhWP8xzwiY)  — *Exploring LSD and the Mind of the Universe* (2023-01-05) • no timecode
-
-> may date from this lifetime, from birth, or from a former lifetime, and we dissolve the COEX system.
-My experience is that the same is true for the collective psyche—that the mind of the universe and the mind of our species store history in massive thematic clusters. All the trauma associated with war; with drought and dying on the plains; male–female violence; patterns of violence, pain, suffering, fear of death—these don’t exist as free-floating private memories within the Bardo of our individual souls. The collective psyche aggregates its history into massive collective structures I call meta-COEX systems. So you have COEX systems within the personal psyche and meta-COEX systems within the collective psyche. I think when I was moved into the ocean of suffering, my system was engaging meta-COEX systems within the collective psyche and making some small contribution to removing those clusters—not all of them, certainly not any one all the way down. This is the work of generations, and all spiritual traditions—saints, sages, contemplatives—tap into levels of suffering that are not personal. That’s why bodhichitta—the will to save all sentient beings—is the only appropriate motivation for spiritual practice. You quickly realize this is not a private game. We’re in this together. It’s a collective evolutionary process.
-
-[link](https://youtu.be/FEQ8ony19sk)  — *Psychedelics and Cosmological Exploration with Chris Bache – Reach Truth Podcast* (2022-08-30) • no timecode
-
-> ego death, after which you move into consciousness beyond anything explainable by personal history.
-At that point, instead of easier access to spiritual reality, the Death-Rebirth cycle repeated at a different level. I began having massive collective experiences—collective rage and anguish—for another two years, maybe 10 to 12 sessions. At first I thought this was just a deepening of personal ego death, but the content was so inherently collective, and it went on so long, that I concluded the “patient” wasn’t me personally; it had become my human family. I was being drawn into collective COEX systems that hold the pain and suffering of human history. Just as an individual psyche gathers trauma in COEX systems, our species gathers its trauma in vast collective COEX systems—what I call meta-matrices.
-
-[link](https://youtu.be/cvhWP8xzwiY)  — *Exploring LSD and the Mind of the Universe* (2023-01-05) • no timecode
-
-> ibal conflicts were implicitly present in what I was working with, but it wasn't explicitly present.
-Stan has this concept of a COEX system, a system of condensed experience. I think the collective psyche also has these massive aggregates—these balls of collective experience—I call them the meta-matrices. They are the meta-COEX systems of the collective psyche that fuse multiple historical periods, cultures, and peoples' experience. Late in the series it became very clear to me that what I was engaging was memory—the living memory of trauma embedded in the collective psyche.
-
-[link](https://youtu.be/uHn8lzYNXyE)  — *LSD & the Mind of the Universe: Diamonds from Heaven* (2019-11-13) • no timecode
-
-> rom Stan Grof: totally internalized sessions, lying down, eye shades, earphones, a sitter—the drill.
-Unwisely, after three sessions I chose a protocol of very high doses of LSD because I was in a hurry. I thought this would get me where I wanted to go faster—that it was about personal awakening, personal enlightenment. I thought, it’ll be harder, but I’ll burn off my karma faster. Let’s put the pedal to the metal. That turned out to be wrong on many points. The goal was not personal enlightenment. If you work with very high doses in a carefully controlled setting and start shattering boundaries, within a few years you can find, as I did, that what’s driving your sessions is not your personal development or healing but a larger historical drama of our collective development. So much of the healing in my sessions was not about healing Chris Bache or even my soul; it was engaging and healing aspects of the human family—pains stored within the collective unconscious from all the wars, unhealed traumas, abuses, droughts, men-versus-women violence, race-versus-race violence, and so on. All that unresolved trauma accumulates in the human psyche.
-
-[link](https://youtu.be/TeifW7GZ9xI)  — *Wisdom Keepers conversation with Duane Elgin* (2023-01-30) • no timecode
-
-> smology—which resonates deeply with the psychedelic cosmology Stan has described in The Cosmic Game.
-Aurobindo’s vision is of a cascading involution of the Divine, generating multiple levels of reality—all divine, but within those levels, a descending scale of self-awareness of divinity, like a series of one-way mirrors: the divine looking down sees all; the divine looking up sees less. At the end of Dark Night, Early Dawn, I noted that, in a multilevel cosmology, a death-rebirth event can function as both liberation from below to above, and infusion from above to below. At the threshold, one can feel energy moving in both directions—death-rebirth as ascent and descent.
-
-[link](https://youtu.be/cEsoN2IaGc4)  — *Exploring the Boundaries of Death and Rebirth in LSD Psychotherapy* (2015-03-16) • no timecode
-
-> and deeper into consciousness, that’s what I’m talking about. That’s what Stan Grof’s work explores.
-First, a few words about the protocol I used, and then where this journey—told in LSD and the Mind of the Universe—went. Most of you who know Stan Grof’s work know the fundamental distinction in his methodology: low-dose psycholytic therapy and high-dose psychedelic therapy. Psycholytic therapy works with lower doses, perhaps 40 to 100 sessions, peeling the unconscious layer by layer, stripping down trauma, angst, pain bit by bit. At Spring Grove Hospital in Baltimore, they developed a different form: high-dose psychedelic therapy. The strategy was to take an overwhelming dose—about 500 micrograms—and blow through all levels of consciousness to try to trigger a near-death experience. They worked with terminally ill cancer patients, hoping to provoke a confrontation with the universe that would give a glimpse of where they were going and reduce death anxiety—and they succeeded.
-
-[link](https://youtu.be/70TRNG1-ZEg)  — *Mapping of Transcendence* (2019-09-26) • no timecode
-
-> ciousness I entered in these transformational exercises expanded with the power of the state itself.
-I worked in standard Grofian protocol: totally isolated from the world with a sitter—a trained clinical psychologist—at home in a controlled environment, completely internally focused, no contact with the outside world, amplifying the states with carefully selected music designed to empower the state of consciousness. At these levels, you basically shatter your mind; it dissolves into subtler and subtler aspects of reality. It became a systematic exploration of what I think of as the mind of the universe. I hesitate to call it “the divine,” though sometimes I do, because “divine” carries so much cultural baggage. I kept very careful records for 20 years, then digested the experiences for another 20, because these are not immediately transparent. They’re complex, interwoven, involving many levels of reality orchestrated in tidal surges of state.
-
-[link](https://youtu.be/pvZDcQfGzpM)  — *Diamonds From Heaven – The Mind of the Universe (Chris Bache)* (2023-11-05) • no timecode
-
-> tenment. These two categories—the therapeutic and the spiritual awakening—dominate discussion today.
-My work is different. I was trained as a philosopher of religion. I’m not a therapist or psychologist. I was interested in the philosophical potential of psychedelics. So my work falls into a third category: cosmological exploration—not healing, not primarily aiming at awakening, but using deep non-ordinary states to explore the deep structure of reality.
-
-My work derives from Stan Grof. Just out of graduate school, I encountered Stan’s Realms of the Human Unconscious and his manual LSD Psychotherapy, followed by a dozen or more important books. In those early works, Stan differentiates between low-dose psycholytic therapy and high-dose psychedelic therapy—very different regimens. Psycholytic heals the unconscious layer by layer; psychedelic aims for a breakthrough. At Spring Grove Hospital they worked with terminally ill patients, trying to trigger something approximating a near-death experience to give them a glimpse of where they were going when they died. But psychedelic therapy was limited to three sessions.
-
-[link](https://youtu.be/Ucgt6vNpCDI)  — *LSD and the Mind of the Universe: Diamonds from Heaven (SDI Meeting)* (2024-02-10) • no timecode
-
-> lective psyche, into archetypal reality—each requires a different pattern of dying and being reborn.
-I use Stan Grof’s categories—psychic (high/low), subtle (high/low), causal. They’re convenient but necessarily rough; how can six categories capture the full spectrum of divine experience? They’re useful to mark transitions on this journey. These cycles are like tori: you break through, expand into a new level, gather in, blow through to another level, stabilize competencies in that state, gather again, and then, if you follow the process, another death-rebirth into a deeper level.
-
-One way I image this is with a nuclear explosion—not to dwell on the horror it represents, but to make a point: deep death-rebirth shatters everything you’ve known and drops you deeper into the universe, revealing levels previously outside awareness. In an explosion, deeper atmospheric layers become visible; likewise, deep psychedelic work brings levels into awareness that were always there. Dissolve the dualism in that image: you’re not separate from the strata you enter; you dissolve into that field. We’re not talking about bombs; we’re talking about the cosmos exploring itself.
-
-[link](https://youtu.be/DBddIrMryJc)  — *Chris Bache – LSD and the Mind of the Universe – SPMC 2019* (2021-03-29) • no timecode
+[00:33:00](https://youtu.be/FlHqinHyt9I?t=1980)  — *Diamond Luminosity (live stream)* (2025-05-18) • 00:33:00
 
 > ences were. It was a deep excursion in cosmology 101: how the universe works at a fundamental level.
 When the ocean of suffering culminated in the 24th session—healing the collective wound—there was an orgy of feeding on the pain that reached a culmination, and I was spun into a level of reality I came to understand as archetypal reality. I discuss this in the chapter The Greater Real of Archetypal Reality. It lasted about 11 sessions over one and a half years. Every time I entered, I encountered something more real than space-time—ancient beyond imagination, with time working at a completely different scale. I felt like Plato’s prisoner climbing out of the cave into a more real level of reality.
 
-[link](https://youtu.be/Ucgt6vNpCDI)  — *LSD and the Mind of the Universe: Diamonds from Heaven (SDI Meeting)* (2024-02-10) • no timecode
+[00:32:14](https://youtu.be/Ucgt6vNpCDI?t=1934)  — *LSD and the Mind of the Universe: Diamonds from Heaven (SDI Meeting)* (2024-02-10) • 00:32:14
 
 > ce and you only miss two or three words. Enjoy. I find him very mind-blowing—but see what you think.
 Chris Bache:
@@ -186,12 +181,12 @@ Chris Bache:
 
 I was just out of graduate school in 1978, finishing in philosophy of religion, when I met the work of Stanislav Grof—one of the foremost thinkers in transpersonal psychology and the psychedelic community. I read his book Realms of the Human Unconscious, and my life pivoted. I immediately saw that his research was relevant not only to clinical psychology but also to philosophy. He was offering a method to safely and systematically explore the deepest levels of consciousness where the answers to the philosophical questions I was carrying lay, coming out of training in religious studies.
 
-[link](https://youtu.be/3QxDjWvqKzA)  — *The Mind of the Universe – Conversation with Prof. Chris Bache* (2022-02-19) • no timecode
+[00:12:02](https://youtu.be/3QxDjWvqKzA?t=722)  — *The Mind of the Universe – Conversation with Prof. Chris Bache* (2022-02-19) • 00:12:02
 
 > meone used a similar method, they would reach the unfolding you did? Or is that not possible to say?
 Chris Bache: I think it is possible to say—Stan Grof’s work allows us to say it. He’s integrating the experiences of thousands of people; I’m integrating my own. My experiences fit within the larger matrix his work has explored. It’s a complicated answer, because on one hand I want to say yes, and on the other I must qualify it. These substances amplify consciousness; they don’t give you an experience or take you to a particular place. They amplify your mind. Because each of us has a different life story, the amplified mind is different, and when an amplified mind engages the deeper mind of the universe, what comes forward initially will be somewhat unique and reflect our individual history. That’s why these substances are helpful for healing: they evoke our unconscious and therefore our problems—an individual experience.
 
-[link](https://youtu.be/pvZDcQfGzpM)  — *Diamonds From Heaven – The Mind of the Universe (Chris Bache)* (2023-11-05) • no timecode
+[00:05:57](https://youtu.be/pvZDcQfGzpM?t=357)  — *Diamonds From Heaven – The Mind of the Universe (Chris Bache)* (2023-11-05) • 00:05:57
 
 > edelics is about.
 
@@ -203,19 +198,24 @@ The collective unconscious is a stratum of consciousness below the personal unco
 Ryan Kemp
 So, as in Jung and in many spiritual and religious texts, we have our personal, individual mind, but the universe itself is a mind, a oneness of its own. Is that correct?
 
-[link](https://youtu.be/Dw7D7ih8vy0)  — *EP.6 - Chris Bache | LSD AND THE MIND OF THE UNIVERSE* (2020-05-13) • no timecode
+[00:08:18](https://youtu.be/Dw7D7ih8vy0?t=498)  — *EP.6 - Chris Bache | LSD AND THE MIND OF THE UNIVERSE* (2020-05-13) • 00:08:18
 
 > ut a decade, and I’m planning to do my PhD at CIS—good to see Christopher here with the PCC program.
 Gebser presents a phenomenology of consciousness—an archaeology of meaning-making—through works of art, literature, the evolution of language and etymology. Even in our language there’s a processual movement from what he calls sidereal, nighttime dimensions of consciousness into the waking. He carefully describes how human consciousness moved from magical and mythical forms or structures into the waking Apollonian, discerning, ratio-oriented, secular age. There are gains and losses. A nuanced, nonlinear approach that encourages us to explore these modes in ourselves helps make them concrete rather than abstract—to live the magic and the mythic again in some capacity, not merely acknowledge them.
 
-[link](https://youtu.be/tzscyUU1rXI)  — *Consciousness, Psychedelics & Collective Evolution* (2025-07-16) • no timecode
+[01:10:27](https://youtu.be/tzscyUU1rXI?t=4227)  — *Consciousness, Psychedelics & Collective Evolution* (2025-07-16) • 01:10:27
+
+> ducing a typical session day—but these are the key sections carrying the content of the experiences.
+The first chapter—crossing the perinatal plane—is the easiest to summarize, probably because it’s the one most people know from Grof’s writing. You relive fetal experiences, your time in the womb, birth itself, and many variations of death and rebirth. For me, moving through this level took about two years and ten sessions. In my ninth and tenth sessions, the universe just snapped me like a twig in my experience of ego death. The ego, in the end, was not very difficult to dismantle. The universe shattered me by turning me into the opposite of everything I’d known myself to be. I entered the day as a white, middle-class, highly educated philosopher focused on questions of existence, and those aspects were all reversed. For hours, I experienced the lives of women—hundreds of women—from around the world, women of color, women who were poor or had no interest in philosophy. I became all of those beings. I was completely terrified; it was, for me as a male philosopher, the perfect hell. There’s nothing wrong with being a woman or being poor or being disinterested in philosophy; the core issue was my identification with being male, with being middle class. That’s what the universe needed to break in me. The message wasn’t just to recall past lives as women—I’ve known I had those—but rather that, where I was going, gender doesn’t exist. I had to let go.
+
+[00:11:16](https://youtu.be/O4ui6I1Wo9c?t=676)  — *Diamonds from Heaven – Lecture at TimeWaver Summer World 2018* (2018-08-30) • 00:11:16
 
 > aling the soul—but of becoming more aware of what our lives are about and what life itself is about.
 Personally: I was a brand-new professor, fresh out of graduate school, when I read Stan Grof’s work. I immediately felt I saw my life’s vocation. I had to do this work. It had been made illegal in 1970. This was 1978. I loved teaching and didn’t want to lose my job, so I developed a sideline to my career. I was an academic—teaching at the university, sitting on committees, writing papers—but in my nighttime job I began a systematic course using a psychedelic protocol I inherited from Stan Grof: totally internalized sessions, lying down, eye shades, earphones, a sitter—the drill.
 
-[link](https://youtu.be/TeifW7GZ9xI)  — *Wisdom Keepers conversation with Duane Elgin* (2023-01-30) • no timecode
+[01:07:12](https://youtu.be/TeifW7GZ9xI?t=4032)  — *Wisdom Keepers conversation with Duane Elgin* (2023-01-30) • 01:07:12
 
 
 ## Provenance
-Built from `sources.json` (harvested 2025-10-21).
+Built from `sources.json` (harvested 2025-10-22).
 Cite as: _Christopher M. Bache — Public Talks (2014–2025), retrieved via Bache Talks RAG v1.2-rc1._

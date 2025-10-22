@@ -1,0 +1,7128 @@
+1
+00:00:00,000 --> 00:00:02,520
+Jeffrey Mishlove: Allowed is
+presented by the California
+
+2
+00:00:02,520 --> 00:00:06,060
+Institute for Human science,
+okay? And then I'll shut that
+
+3
+00:00:06,060 --> 00:00:08,820
+Emmy Vadnais: and then I'm going
+to go ahead and share my screen.
+
+4
+00:00:11,700 --> 00:00:12,240
+Minimizing.
+
+5
+00:00:12,239 --> 00:00:16,439
+Jeffrey Mishlove: There we go.
+And so as of this moment,
+
+6
+00:00:16,859 --> 00:00:23,539
+announcements are being sent out
+to one of our followers, and
+
+7
+00:00:23,539 --> 00:00:26,419
+they'll be logging in, and so
+they'll be able to hear
+
+8
+00:00:26,419 --> 00:00:30,079
+everything we say, and their
+screen will sort of look like
+
+9
+00:00:30,079 --> 00:00:33,919
+this. They'll see little
+thumbnails of our images. So in
+
+10
+00:00:33,919 --> 00:00:34,339
+just
+
+11
+00:00:37,340 --> 00:00:39,920
+Emmy Vadnais: a minute, I'll
+start the countdown clock timer,
+
+12
+00:00:39,920 --> 00:00:43,420
+and then for those listening and
+joining, welcome and thank you
+
+13
+00:00:43,420 --> 00:00:45,940
+for being with us. If you want
+to chat in where you're joining
+
+14
+00:00:45,940 --> 00:00:49,660
+from in the world, from your
+neck of the word, neck of the
+
+15
+00:00:49,660 --> 00:00:52,120
+woods. In the world, we'd love
+to hear where you're from. And
+
+16
+00:00:52,120 --> 00:00:54,220
+then in just a minute, I'll
+start the timer.
+
+17
+00:00:56,320 --> 00:01:00,340
+Jeffrey Mishlove: I might
+mention for people who are
+
+18
+00:01:00,580 --> 00:01:04,200
+watching the archival video, and
+they're wondering, why do they
+
+19
+00:01:04,200 --> 00:01:09,300
+have to sit through 10 minutes
+of our conversation beforehand,
+
+20
+00:01:10,200 --> 00:01:14,940
+before we begin the program? And
+it's because, once we start the
+
+21
+00:01:14,940 --> 00:01:19,620
+timer and go live, YouTube
+automatically makes it this
+
+22
+00:01:19,620 --> 00:01:27,380
+archival recording, which
+YouTube then takes public. So I
+
+23
+00:01:27,380 --> 00:01:36,980
+suppose the option would be for
+us to capture a recording on on
+
+24
+00:01:36,980 --> 00:01:41,380
+our hard drive and then edit it
+before we let it go public. So
+
+25
+00:01:41,740 --> 00:01:45,940
+in theory, we could edit out the
+first 10 minutes because I I got
+
+26
+00:01:45,940 --> 00:01:51,580
+a complaint from a viewer who
+was unhappy that they had to
+
+27
+00:01:52,120 --> 00:01:55,240
+least they didn't understand.
+They could fast forward, I
+
+28
+00:01:55,240 --> 00:02:00,900
+suppose, to the beginning of the
+video. So for viewers who who
+
+29
+00:02:00,900 --> 00:02:04,860
+don't want to sit through our
+preliminary conversation? Fast
+
+30
+00:02:04,860 --> 00:02:06,420
+forward at 10 minutes,
+
+31
+00:02:06,720 --> 00:02:09,060
+Emmy Vadnais: right? That's why
+there's a timer. It says nine
+
+32
+00:02:09,060 --> 00:02:14,340
+minutes until livestream, but
+this is yeah, to give a
+
+33
+00:02:14,340 --> 00:02:17,700
+notification so that our
+subscribers will be notified
+
+34
+00:02:17,700 --> 00:02:22,220
+that we're going live in a few
+minutes and if we were to take
+
+35
+00:02:22,220 --> 00:02:24,860
+it down and re upload it, the
+only thing is, is that we've
+
+36
+00:02:24,860 --> 00:02:28,400
+already shared this particular
+URL all over the internet, so
+
+37
+00:02:28,400 --> 00:02:30,620
+then we would lose this
+particular
+
+38
+00:02:30,620 --> 00:02:34,040
+Jeffrey Mishlove: Yeah, would
+have to have a new URL. I kind
+
+39
+00:02:34,040 --> 00:02:38,540
+of like keeping things the way
+they are, because I if I were to
+
+40
+00:02:38,600 --> 00:02:43,780
+start downloading the and we're
+on Zoom. It's a Zoom video,
+
+41
+00:02:43,780 --> 00:02:47,680
+which is not the highest quality
+from the Zoom recorder, to be
+
+42
+00:02:47,800 --> 00:02:51,940
+honest. And then I would want
+to, anytime you mention another
+
+43
+00:02:51,940 --> 00:02:55,720
+person, I would want to insert a
+book cover or something the way
+
+44
+00:02:55,720 --> 00:03:00,100
+we normally do for our
+interviews, which would create
+
+45
+00:03:00,220 --> 00:03:04,980
+additional delays, but this way,
+the archival video goes up as
+
+46
+00:03:04,980 --> 00:03:06,600
+soon as we finish talking,
+
+47
+00:03:07,200 --> 00:03:11,820
+Emmy Vadnais: yeah, it's pretty
+easy just to fast forward a
+
+48
+00:03:11,820 --> 00:03:14,580
+YouTube video to when it
+actually begins, and
+
+49
+00:03:14,580 --> 00:03:17,820
+Jeffrey Mishlove: typically by
+the time the day is over, there
+
+50
+00:03:17,820 --> 00:03:22,160
+are three or four times as many
+people who watch the archival
+
+51
+00:03:22,160 --> 00:03:24,500
+video is who were with us live.
+
+52
+00:03:25,760 --> 00:03:28,340
+Chris Bache: How many years have
+you been doing this? Jeffrey,
+
+53
+00:03:29,000 --> 00:03:33,440
+Jeffrey Mishlove: I started in
+1972 doing interviews, but a
+
+54
+00:03:33,500 --> 00:03:39,680
+YouTube channel. This is our
+10th year on YouTube. Okay? I
+
+55
+00:03:39,680 --> 00:03:46,780
+began KPFA radio, Pacifica
+radio, nonprofit station in
+
+56
+00:03:46,780 --> 00:03:48,160
+Berkeley back in 1972
+
+57
+00:03:50,260 --> 00:03:53,320
+Chris Bache: that's a lot of
+good information streamed out to
+
+58
+00:03:53,320 --> 00:03:54,460
+a lot of people.
+
+59
+00:03:56,200 --> 00:04:02,700
+Jeffrey Mishlove: Yeah, really,
+and I was guided to do it by a
+
+60
+00:04:02,700 --> 00:04:09,540
+dream, really, yes, yeah, at a
+time in my life when I didn't
+
+61
+00:04:09,540 --> 00:04:15,600
+own a radio or a television and
+I was a long haired Berkeley
+
+62
+00:04:15,600 --> 00:04:19,380
+hippie. I didn't believe in
+radio or television. I thought
+
+63
+00:04:19,380 --> 00:04:24,920
+they were all phony baloney, but
+I had this dream, and I acted on
+
+64
+00:04:24,920 --> 00:04:31,580
+it and changed my mind, and for
+most of the last half century,
+
+65
+00:04:31,580 --> 00:04:33,560
+I've been doing interviews.
+
+66
+00:04:33,740 --> 00:04:37,880
+Chris Bache: Wow, that's
+fascinating. Another example of
+
+67
+00:04:37,880 --> 00:04:41,440
+the wisdom of the deep
+consciousness of the world,
+
+68
+00:04:41,740 --> 00:04:46,360
+communicating and giving us
+directions in our private lives,
+
+69
+00:04:47,140 --> 00:04:49,000
+our so called Private Lives.
+Yeah,
+
+70
+00:04:53,260 --> 00:04:56,320
+Jeffrey Mishlove: and I'm very
+interested in people who have
+
+71
+00:04:56,320 --> 00:05:02,100
+had what I would call life
+changing dreams. Yes, because
+
+72
+00:05:02,100 --> 00:05:06,960
+that, that dream that I had, was
+a life changer. I mean, here I
+
+73
+00:05:06,960 --> 00:05:12,480
+am, half a century later, still
+acting on that information.
+
+74
+00:05:12,720 --> 00:05:21,740
+Emmy Vadnais: Yeah, yeah. And
+live streams have been on
+
+75
+00:05:21,740 --> 00:05:25,220
+YouTube. Have been, what, three,
+four years, Jeff, you've been
+
+76
+00:05:25,220 --> 00:05:26,060
+doing these,
+
+77
+00:05:27,740 --> 00:05:31,940
+Jeffrey Mishlove: yeah, maybe
+even,
+
+78
+00:05:32,659 --> 00:05:34,999
+Emmy Vadnais: I think maybe five
+years.
+
+79
+00:05:35,120 --> 00:05:37,760
+Jeffrey Mishlove: Yeah. In fact,
+yes, five years.
+
+80
+00:05:37,820 --> 00:05:41,380
+Emmy Vadnais: Emmy, like,
+usually every two to three
+
+81
+00:05:41,380 --> 00:05:44,440
+weeks, we have fabulous guests
+on like you, Chris
+
+82
+00:05:45,880 --> 00:05:49,420
+Chris Bache: and how did you get
+into this particular role? Emmy,
+
+83
+00:05:49,540 --> 00:05:50,800
+what drew you here?
+
+84
+00:05:55,420 --> 00:05:58,120
+Emmy Vadnais: Well, Jeff was a
+guest on my podcast back in 2018
+
+85
+00:06:00,400 --> 00:06:05,100
+and I originally learned about
+him and thinking aloud on public
+
+86
+00:06:05,100 --> 00:06:12,780
+television back in 1987 when I
+was probably 13 years old, and
+
+87
+00:06:12,780 --> 00:06:16,980
+he was, yeah, interviewing
+wonderful people. But even even
+
+88
+00:06:16,980 --> 00:06:21,620
+then, on public television from
+1986 to 2002 although my
+
+89
+00:06:21,620 --> 00:06:26,180
+understanding was is that it was
+sent out to on the satellite in
+
+90
+00:06:26,180 --> 00:06:30,140
+1987 so I began watching it, and
+was just fascinated and very
+
+91
+00:06:30,140 --> 00:06:33,140
+intrigued with the information.
+I didn't understand all of it at
+
+92
+00:06:33,140 --> 00:06:36,500
+the time because I was 13, but I
+understood enough that I wanted
+
+93
+00:06:36,500 --> 00:06:40,160
+to learn more. And in
+retrospect, I think it really
+
+94
+00:06:40,160 --> 00:06:45,040
+did help set the tone for my
+career in understanding more
+
+95
+00:06:45,040 --> 00:06:48,940
+about holistic health,
+intuition, spirituality,
+
+96
+00:06:48,940 --> 00:06:52,840
+consciousness, and even back
+then, Jeff you, were talking
+
+97
+00:06:52,840 --> 00:06:56,740
+about UFOs and interviewing
+people like Jacques valet and
+
+98
+00:06:56,740 --> 00:07:00,600
+John Mack and and I thought,
+well, this man is really
+
+99
+00:07:00,600 --> 00:07:03,660
+intelligent. There must be
+something to all of this. And
+
+100
+00:07:03,660 --> 00:07:08,640
+then I was researching for a
+book I wrote and about
+
+101
+00:07:08,640 --> 00:07:12,060
+intuition, and Jeff's name kept
+coming up. And then I realized,
+
+102
+00:07:12,660 --> 00:07:15,600
+oh, Jeffrey Mishlove, he was the
+host of that program. And then I
+
+103
+00:07:15,600 --> 00:07:19,680
+realized he had a doctorate in
+parapsychology, which was very
+
+104
+00:07:19,680 --> 00:07:23,840
+downplayed on that original
+program and and then I thought,
+
+105
+00:07:23,840 --> 00:07:27,020
+well, I'd love to talk to him,
+and I'll invite him on my
+
+106
+00:07:27,020 --> 00:07:34,580
+podcast. And he said, Yes. And
+then in 2020 Jeff, you put out a
+
+107
+00:07:34,580 --> 00:07:38,480
+call for volunteers, and then I
+started volunteering with you.
+
+108
+00:07:38,480 --> 00:07:43,480
+And then he won the Bigelow
+essay competition for the best
+
+109
+00:07:43,480 --> 00:07:46,540
+evidence for the continuation of
+consciousness in the afterlife
+
+110
+00:07:46,540 --> 00:07:52,240
+in 2021 so he invited me to be a
+guest host, and then shortly
+
+111
+00:07:52,240 --> 00:07:55,180
+thereafter, I became the co
+host. And then now he's invited
+
+112
+00:07:55,180 --> 00:07:58,480
+other guest hosts, and yeah, I'm
+just grateful to be here and
+
+113
+00:07:58,480 --> 00:08:03,480
+help share this information and
+learn from one of the best, best
+
+114
+00:08:03,480 --> 00:08:04,980
+people in the field, doing this
+
+115
+00:08:06,840 --> 00:08:09,840
+Chris Bache: in such in such a
+way, our lives are all
+
+116
+00:08:09,900 --> 00:08:12,000
+intertwined around each other,
+aren't they?
+
+117
+00:08:12,479 --> 00:08:17,459
+Emmy Vadnais: Yeah, yeah. Very
+true. And Chris, I know we're
+
+118
+00:08:17,459 --> 00:08:21,139
+going to learn more about you in
+a few minutes. When did you
+
+119
+00:08:21,139 --> 00:08:23,959
+start? I know you bet you were a
+professor for many, many years.
+
+120
+00:08:23,959 --> 00:08:27,979
+When did you start public
+speaking or getting interested
+
+121
+00:08:28,039 --> 00:08:29,599
+in these kind of topics?
+
+122
+00:08:30,320 --> 00:08:33,560
+Chris Bache: Well, you know,
+when I started the LSD work in
+
+123
+00:08:33,560 --> 00:08:37,880
+79 I had to keep it pretty under
+tight wraps. I mean, I just
+
+124
+00:08:37,880 --> 00:08:41,860
+couldn't bring it out publicly
+at all. And it wasn't until I
+
+125
+00:08:41,860 --> 00:08:45,040
+wrote dark night, early dawn,
+which was my first book on
+
+126
+00:08:45,040 --> 00:08:51,280
+psychedelic work, which which
+came out in 2000 that I began
+
+127
+00:08:51,280 --> 00:08:56,200
+going to conferences and began
+to teach at CIS in that area.
+
+128
+00:08:56,740 --> 00:09:00,480
+But I really didn't go public
+until I retired from the
+
+129
+00:09:00,480 --> 00:09:09,360
+University in 2013 and then I,
+you know, I was working on LSD
+
+130
+00:09:09,360 --> 00:09:12,360
+in the mind of the universe for
+five years during that period.
+
+131
+00:09:13,020 --> 00:09:17,460
+And when it finally came out in
+2019 I became, I was more
+
+132
+00:09:17,460 --> 00:09:20,960
+public, just increasingly
+public. So I was out of the
+
+133
+00:09:20,960 --> 00:09:25,100
+psychedelic closet, formally,
+kind of when that book came out.
+
+134
+00:09:26,240 --> 00:09:32,900
+Emmy Vadnais: Yeah, and it's a
+wonderful book, LSD and the mind
+
+135
+00:09:32,900 --> 00:09:36,560
+of the universe. I really
+enjoyed reading it. And I like
+
+136
+00:09:36,560 --> 00:09:39,860
+how you also put many of your
+session notes in there, which
+
+137
+00:09:39,860 --> 00:09:44,620
+was you bring the reader. I felt
+like I was sometimes along on
+
+138
+00:09:44,620 --> 00:09:45,580
+the trip with you.
+
+139
+00:09:45,820 --> 00:09:49,180
+Chris Bache: Yeah, that's what I
+wanted to do. My sense was that
+
+140
+00:09:49,360 --> 00:09:53,500
+in order to have the
+philosophical conversation about
+
+141
+00:09:53,620 --> 00:09:57,880
+the potential of psychedelics,
+first people have to understand
+
+142
+00:09:57,880 --> 00:10:01,440
+what happens in deep sessions.
+So the first task was
+
+143
+00:10:01,440 --> 00:10:05,340
+descriptive, and then later the
+second or third round would be
+
+144
+00:10:05,400 --> 00:10:09,900
+more evaluative and analytic. So
+I really tried to bring the
+
+145
+00:10:09,900 --> 00:10:13,140
+reader along with me into those
+sessions. So I had to learn a
+
+146
+00:10:13,140 --> 00:10:18,600
+whole new way of writing. I had
+to lose my academic voice and
+
+147
+00:10:18,600 --> 00:10:20,040
+develop a different voice.
+
+148
+00:10:21,000 --> 00:10:23,360
+Emmy Vadnais: Well, you did it
+beautifully, I would say, you
+
+149
+00:10:23,360 --> 00:10:23,960
+nailed it.
+
+150
+00:10:24,260 --> 00:10:25,760
+Unknown: Thank you. Yeah, so
+
+151
+00:10:27,140 --> 00:10:29,540
+Emmy Vadnais: we just got about
+a minute before we officially
+
+152
+00:10:29,540 --> 00:10:30,920
+begin the program.
+
+153
+00:10:36,740 --> 00:10:44,860
+Jeffrey Mishlove: In retrospect
+that the the impulse that I had
+
+154
+00:10:44,860 --> 00:10:49,960
+to act on that dream and to be
+alert to it and so on, I was
+
+155
+00:10:49,960 --> 00:10:55,960
+primed for that from having had
+LSD a number of times prior.
+
+156
+00:10:59,380 --> 00:11:03,720
+Chris Bache: Yeah, and with the
+depth of our interweaving
+
+157
+00:11:03,720 --> 00:11:05,640
+continues to go, Yeah,
+
+158
+00:11:27,380 --> 00:11:30,020
+Jeffrey Mishlove: all right,
+welcome everybody. I'm Jeffrey
+
+159
+00:11:30,020 --> 00:11:35,000
+Mishlove. I'm with my co host
+Emmy Vadnais and our honored
+
+160
+00:11:35,000 --> 00:11:39,020
+guest Chris Bache and Emmy. Will
+you introduce Chris?
+
+161
+00:11:39,260 --> 00:11:42,100
+Emmy Vadnais: Yes, hello and
+welcome everybody. We're so
+
+162
+00:11:42,160 --> 00:11:46,720
+grateful to have Chris Bache
+with us today, who is professor
+
+163
+00:11:46,720 --> 00:11:49,960
+emeritus in the department of
+philosophy and religious study
+
+164
+00:11:50,380 --> 00:11:53,800
+studies at Youngstown State
+University in Ohio, where he
+
+165
+00:11:53,800 --> 00:11:58,060
+taught for 33 years. He is also
+adjunct faculty at the
+
+166
+00:11:58,060 --> 00:12:01,860
+California Institute of integral
+studies, Emeritus, excuse me,
+
+167
+00:12:01,860 --> 00:12:04,980
+Emeritus fellow at the Institute
+of Noetic Sciences and on the
+
+168
+00:12:04,980 --> 00:12:09,840
+Advisory Council of Grof legacy
+training. Chris is author of
+
+169
+00:12:09,840 --> 00:12:13,800
+life cycles, reincarnation in
+the web of life, dark night,
+
+170
+00:12:13,800 --> 00:12:16,740
+early dawn, the living
+classroom, teaching and
+
+171
+00:12:16,740 --> 00:12:21,500
+collective consciousness and LSD
+and the mind of the universe,
+
+172
+00:12:21,500 --> 00:12:26,240
+diamonds from heaven, and his
+website is Chris bache.com with
+
+173
+00:12:26,240 --> 00:12:31,340
+an E at the end. Welcome Chris.
+We're so happy to have you here
+
+174
+00:12:31,340 --> 00:12:35,480
+today to get us started. Do you
+want to just go ahead and share
+
+175
+00:12:35,480 --> 00:12:39,020
+a little bit about your
+background, and we also want to
+
+176
+00:12:39,020 --> 00:12:42,700
+let people know that Chris has
+been a guest on new thinking,
+
+177
+00:12:42,700 --> 00:12:45,520
+allowed with a recorded
+interview talking about
+
+178
+00:12:45,520 --> 00:12:48,220
+psychedelics and the Cosmic
+Mind.
+
+179
+00:12:50,260 --> 00:12:53,560
+Chris Bache: Well, I'm actually
+the last person you would have
+
+180
+00:12:53,560 --> 00:12:58,240
+thought from the beginning of my
+life to end up writing a book on
+
+181
+00:12:58,420 --> 00:13:02,340
+describing what happens on the
+long series of high dose LSD
+
+182
+00:13:02,340 --> 00:13:06,540
+sessions. I was raised in the
+Deep South, in Mississippi. I
+
+183
+00:13:06,540 --> 00:13:10,020
+was a seminarian in the early
+days. I was studying to be a
+
+184
+00:13:10,020 --> 00:13:15,960
+Catholic priest, but eventually
+I left that because celibacy and
+
+185
+00:13:15,960 --> 00:13:20,960
+I didn't get along very well.
+Got degrees in theology and New
+
+186
+00:13:20,960 --> 00:13:24,140
+Testament criticism and
+eventually philosophy of
+
+187
+00:13:24,140 --> 00:13:27,920
+religion from Brown University.
+So I had a very classical, very
+
+188
+00:13:27,920 --> 00:13:32,840
+traditional upbringing. The
+psychedelic 60s passed me by
+
+189
+00:13:32,840 --> 00:13:37,160
+entirely, and it wasn't until I
+got to graduate school. I mean,
+
+190
+00:13:37,160 --> 00:13:42,340
+I got to teaching in 1978 and I
+was looking around for where to
+
+191
+00:13:42,340 --> 00:13:45,100
+take my research that I
+encountered the work of
+
+192
+00:13:45,100 --> 00:13:49,360
+Stanislav Grof and his book,
+realms of the human unconscious
+
+193
+00:13:49,360 --> 00:13:53,020
+was a life changer for me,
+because I saw immediately the
+
+194
+00:13:53,020 --> 00:13:56,320
+philosophical significance of
+his work. If what he was saying
+
+195
+00:13:56,320 --> 00:14:00,420
+was true, it had profound
+implications for how we could do
+
+196
+00:14:00,420 --> 00:14:04,020
+philosophy in the future, not
+just healing, but actually
+
+197
+00:14:04,020 --> 00:14:07,380
+explore the metaphysical
+structure underlying structure
+
+198
+00:14:07,380 --> 00:14:13,080
+of reality. So uncomfortable, I
+made the decision to knew I
+
+199
+00:14:13,080 --> 00:14:16,140
+needed to do this work. I knew I
+had to begin my own psychedelic
+
+200
+00:14:16,140 --> 00:14:19,860
+work, and I was uncomfortable
+breaking the law, but I chose to
+
+201
+00:14:19,860 --> 00:14:24,440
+begin very private,
+circumscribed work in this
+
+202
+00:14:24,440 --> 00:14:29,180
+modality using Stan Grof
+protocol. So I divided my life
+
+203
+00:14:29,180 --> 00:14:33,380
+into two parts. During my day
+job, I was a traditional member
+
+204
+00:14:33,380 --> 00:14:36,140
+of the Department of Philosophy
+and Religious Studies at young
+
+205
+00:14:36,140 --> 00:14:40,960
+sound state and kind of my night
+job was doing working with
+
+206
+00:14:40,960 --> 00:14:45,280
+psychedelics, exploring the I
+was healing my own psyche,
+
+207
+00:14:45,580 --> 00:14:48,760
+working and exploring the deep
+structure of the collective
+
+208
+00:14:48,760 --> 00:14:51,760
+psyche, and then what lies
+beyond the collective psyche.
+
+209
+00:14:52,360 --> 00:14:55,600
+And I worked for four years. I
+stopped for six years for
+
+210
+00:14:55,600 --> 00:14:59,020
+reasons that I give in the book,
+and then I resume for another 10
+
+211
+00:14:59,020 --> 00:15:02,700
+years. So basically. Basically
+between the time when I was 30
+
+212
+00:15:02,820 --> 00:15:08,520
+and 50 years old, I did 73 high
+dose LSD sessions using a tight
+
+213
+00:15:08,580 --> 00:15:14,100
+therapeutic protocol, and then I
+took another 20 years to digest
+
+214
+00:15:14,100 --> 00:15:17,940
+and assimilate those experiences
+and to kind of connect the dots
+
+215
+00:15:17,940 --> 00:15:22,520
+in those experiences before
+publishing LSD in the mind of
+
+216
+00:15:22,520 --> 00:15:27,320
+the universe in 2019 so
+actually, it was after I
+
+217
+00:15:27,320 --> 00:15:31,040
+finished my sessions in one of
+my meditations, I heard this
+
+218
+00:15:31,040 --> 00:15:36,620
+voice say, 20 years in 20 years
+out, which I took to mean that
+
+219
+00:15:36,620 --> 00:15:40,220
+it would take me at least 20
+years to integrate and digest
+
+220
+00:15:40,220 --> 00:15:44,140
+all the experiences I had
+collected in those 20 years.
+
+221
+00:15:44,620 --> 00:15:48,220
+Now, I think that might have
+been an overly optimistic
+
+222
+00:15:48,220 --> 00:15:51,400
+assessment, because I don't
+think I have nearly integrated
+
+223
+00:15:51,880 --> 00:15:54,880
+all the experiences that I had
+collected in those first 20
+
+224
+00:15:54,880 --> 00:15:58,180
+years. Wow.
+
+225
+00:15:58,180 --> 00:16:01,020
+Emmy Vadnais: So you feel like
+you're still integrating the
+
+226
+00:16:01,020 --> 00:16:02,460
+experiences Very
+
+227
+00:16:02,459 --> 00:16:05,939
+Chris Bache: much so. In fact,
+it raises, it has raised
+
+228
+00:16:05,939 --> 00:16:12,419
+substantial kind of intellectual
+questions, how do you possibly
+
+229
+00:16:12,419 --> 00:16:16,739
+integrate experiences which so
+radically transcend the
+
+230
+00:16:16,739 --> 00:16:21,139
+conditions of time and space and
+our consciousness inside time
+
+231
+00:16:21,139 --> 00:16:25,399
+and space. If you have temporary
+experiences which go radically
+
+232
+00:16:25,399 --> 00:16:29,479
+beyond spatial consciousness,
+radically on temporal
+
+233
+00:16:29,479 --> 00:16:33,199
+consciousness and linear time,
+how do you what does it mean
+
+234
+00:16:33,259 --> 00:16:36,139
+even to integrate those
+experiences? I mean, it really
+
+235
+00:16:36,139 --> 00:16:40,039
+comes down. The things I'm
+thinking about these days is,
+
+236
+00:16:40,039 --> 00:16:43,719
+what does integration even look
+like? What does it mean when
+
+237
+00:16:43,719 --> 00:16:48,459
+you're dealing with such radical
+experiences, if you're dealing
+
+238
+00:16:48,459 --> 00:16:52,299
+with lower dose work or gentler
+psychedelics, where the
+
+239
+00:16:52,299 --> 00:16:57,699
+experiences come closer to your
+world inside time and space,
+
+240
+00:16:58,059 --> 00:17:02,699
+integration is less demanding,
+but if you really open up to the
+
+241
+00:17:02,699 --> 00:17:07,139
+very deep waters of the deep
+psyche, integration becomes a
+
+242
+00:17:07,139 --> 00:17:08,519
+more substantive issue.
+
+243
+00:17:09,000 --> 00:17:13,680
+Emmy Vadnais: All right? Well,
+we're getting lots of questions
+
+244
+00:17:13,680 --> 00:17:18,180
+coming in, and I think this
+question from Robert Bushman
+
+245
+00:17:18,180 --> 00:17:21,440
+might be a good place to start,
+perhaps, is, what is
+
+246
+00:17:21,440 --> 00:17:24,860
+consciousness? Is there an
+ultimate reality, or is it
+
+247
+00:17:24,860 --> 00:17:28,460
+infinitely fractal? I guess
+there's a few questions in here.
+
+248
+00:17:28,520 --> 00:17:31,220
+How can an individual's
+conscious awareness expand
+
+249
+00:17:31,220 --> 00:17:34,760
+without psychedelics? How can
+one remember past lives, which
+
+250
+00:17:34,760 --> 00:17:37,760
+actually is a maybe a separate
+question, but maybe starting out
+
+251
+00:17:37,760 --> 00:17:39,380
+with, what is consciousness?
+
+252
+00:17:39,379 --> 00:17:44,079
+Chris Bache: Yeah, well, you
+know, I'm happy to let the
+
+253
+00:17:44,079 --> 00:17:47,739
+psychologists and philosophers
+tear their hair out on that one.
+
+254
+00:17:48,219 --> 00:17:51,459
+I'm willing to sort of go with
+whatever definition they come up
+
+255
+00:17:51,459 --> 00:17:53,799
+with, as long as it's
+sufficiently broad to
+
+256
+00:17:53,799 --> 00:17:57,219
+incorporate the total
+phenomenology of consciousness.
+
+257
+00:17:57,639 --> 00:18:01,319
+I mean, sort of simply,
+consciousness comes from calm
+
+258
+00:18:01,319 --> 00:18:05,099
+shield to know. With
+consciousness is that with which
+
+259
+00:18:05,099 --> 00:18:09,359
+we know? So it is the knowing
+function. It is the awareness of
+
+260
+00:18:09,359 --> 00:18:14,399
+our cognitive capacity through
+which we know anything else. And
+
+261
+00:18:14,399 --> 00:18:19,019
+so again, then we ask the
+question, well, how big is
+
+262
+00:18:19,019 --> 00:18:21,139
+consciousness? We have a
+tendency to think that
+
+263
+00:18:21,139 --> 00:18:24,799
+consciousness kind of fits
+inside our skull, but now
+
+264
+00:18:24,799 --> 00:18:28,159
+increasingly, we realize that's
+not an adequate understanding
+
+265
+00:18:28,159 --> 00:18:30,799
+because of all sorts of
+empirical, para psychological,
+
+266
+00:18:30,919 --> 00:18:34,639
+parapsychological research. So I
+think of it more as
+
+267
+00:18:35,119 --> 00:18:40,599
+consciousness is a field that
+our brain allows us to
+
+268
+00:18:40,599 --> 00:18:45,819
+consolidate and structure inside
+our physical existence. But
+
+269
+00:18:45,819 --> 00:18:50,019
+consciousness in its own right,
+is an field. And being a field,
+
+270
+00:18:50,019 --> 00:18:53,859
+it's open ended, and it's then,
+if you ask, how big is that
+
+271
+00:18:53,859 --> 00:18:59,319
+field? Then we get into the real
+cosmological adventure, because
+
+272
+00:19:00,459 --> 00:19:05,219
+we find, at least, I found that
+in if you really go deep into
+
+273
+00:19:05,219 --> 00:19:09,299
+your psyche, you drop first into
+the personal unconscious, into
+
+274
+00:19:09,299 --> 00:19:12,899
+your personal psyche. If you
+keep pushing deeper, you drop
+
+275
+00:19:12,899 --> 00:19:17,579
+into the collective psyche, the
+territory Jung described. But
+
+276
+00:19:17,579 --> 00:19:21,979
+you can go deeper than that and
+drop below the entire psyche of
+
+277
+00:19:21,979 --> 00:19:25,219
+the human species. You can
+transcend the species psyche,
+
+278
+00:19:25,459 --> 00:19:29,419
+and then you're in a you're in
+dimensions of consciousness that
+
+279
+00:19:29,419 --> 00:19:35,899
+truly, I think of it as the
+either the mind of God or I
+
+280
+00:19:35,899 --> 00:19:38,959
+prefer to think of it as the
+mind of the universe, that as
+
+281
+00:19:38,959 --> 00:19:42,099
+vast as the universe is, you
+know, and we know who have a
+
+282
+00:19:42,159 --> 00:19:46,059
+rough approximation of how many
+billions of galaxies are in the
+
+283
+00:19:46,059 --> 00:19:50,259
+universe, and how huge it is,
+how old it is, that
+
+284
+00:19:50,259 --> 00:19:54,339
+consciousness, that this
+universe has a mind, and the
+
+285
+00:19:54,339 --> 00:19:59,319
+mind is as deep and broad and
+old as the universe's body is
+
+286
+00:19:59,499 --> 00:20:04,259
+so. So that my individual
+experience of consciousness is a
+
+287
+00:20:04,259 --> 00:20:09,419
+simple drop, a fractal aspect of
+the totality of consciousness
+
+288
+00:20:09,419 --> 00:20:13,619
+that flows. And that's why I
+gave the book the title LSD in
+
+289
+00:20:13,619 --> 00:20:17,159
+the mind of the universe.
+Because when you go very deep
+
+290
+00:20:17,159 --> 00:20:21,439
+using a very powerful and
+circumscribed protocol, you drop
+
+291
+00:20:21,439 --> 00:20:25,159
+into deeper and deeper layers,
+and you're given the opportunity
+
+292
+00:20:25,159 --> 00:20:31,699
+to explore the very nature of of
+physical reality
+
+293
+00:20:31,700 --> 00:20:34,820
+Emmy Vadnais: itself. I think we
+just lost your video. Chris, I
+
+294
+00:20:34,820 --> 00:20:36,740
+Chris Bache: lost the video
+here. Let's see what's the
+
+295
+00:20:36,920 --> 00:20:40,480
+audio. Okay, let me see if I can
+
+296
+00:20:40,480 --> 00:20:43,120
+Jeffrey Mishlove: guess if the
+camera is pointing somewhere
+
+297
+00:20:43,120 --> 00:20:43,600
+else.
+
+298
+00:20:43,660 --> 00:20:46,840
+Chris Bache: Yeah, let me see if
+I don't know why it dropped, but
+
+299
+00:20:46,840 --> 00:20:48,100
+I can shift to a different
+
+300
+00:20:48,100 --> 00:20:50,620
+Emmy Vadnais: There we go. Okay,
+there's we've got you. We've got
+
+301
+00:20:50,620 --> 00:20:54,700
+a view of you now here. So,
+Okay, wonderful. Okay, good.
+
+302
+00:20:54,880 --> 00:20:57,640
+Jeffrey Mishlove: You are back.
+Well, I think it's important to
+
+303
+00:20:57,640 --> 00:21:02,220
+emphasize early on in our
+discussion, or to repeat what
+
+304
+00:21:02,220 --> 00:21:06,480
+you said in your earlier
+interview with Emmy, that you
+
+305
+00:21:06,480 --> 00:21:10,860
+are not recommending that other
+people do what you did, take
+
+306
+00:21:10,980 --> 00:21:17,820
+many high doses of LSD that way,
+and I know one of our Viewers
+
+307
+00:21:17,820 --> 00:21:23,480
+has raised the question about
+what kind of people, or what
+
+308
+00:21:23,480 --> 00:21:27,620
+populations of people should not
+use psychedelics
+
+309
+00:21:28,640 --> 00:21:31,520
+Chris Bache: first, I absolutely
+agree. I mean, I really do not
+
+310
+00:21:31,520 --> 00:21:35,360
+recommend that people adopt the
+protocol that I adopted, knowing
+
+311
+00:21:35,360 --> 00:21:38,900
+what I know at the end of this
+journey. I if I were starting it
+
+312
+00:21:38,900 --> 00:21:42,880
+from scratch, I would be much
+gentler on myself. I would work
+
+313
+00:21:42,880 --> 00:21:48,100
+with much lower doses. I would
+balance the organic psychedelics
+
+314
+00:21:48,100 --> 00:21:51,640
+with the synthetic psychedelics.
+I just would take a much gentler
+
+315
+00:21:51,640 --> 00:21:57,700
+approach in but I was young when
+I did this work. I had a number
+
+316
+00:21:57,700 --> 00:22:00,300
+of assumptions that I was making
+that turned out not to be
+
+317
+00:22:00,360 --> 00:22:05,940
+accurate, and I would just be
+much gentler and much more
+
+318
+00:22:05,940 --> 00:22:09,900
+circumscribed in the project.
+And there are many, many people,
+
+319
+00:22:09,900 --> 00:22:12,960
+types of people, who shouldn't
+be working with psychedelics
+
+320
+00:22:13,800 --> 00:22:19,020
+there for either physiological
+reasons or psychological reasons
+
+321
+00:22:19,200 --> 00:22:22,400
+to work with the amplifying
+quality means psychedelics are
+
+322
+00:22:22,400 --> 00:22:26,660
+amplifiers of consciousness.
+They take what is far away and
+
+323
+00:22:26,660 --> 00:22:29,840
+make it available to you, and
+they take what is low volume and
+
+324
+00:22:29,840 --> 00:22:35,720
+make it higher volume. So it's a
+tremendous kind of inversion, an
+
+325
+00:22:35,720 --> 00:22:40,900
+explosion of awareness. And if
+you are prepared for it, if you
+
+326
+00:22:40,900 --> 00:22:43,600
+have the discipline for it, and
+if you have the training to
+
+327
+00:22:43,600 --> 00:22:46,660
+navigate those transitions, and
+if you're working with
+
+328
+00:22:46,660 --> 00:22:52,600
+professionals who can help you
+navigate okay, but there are a
+
+329
+00:22:52,600 --> 00:22:56,560
+lot of people, I think, our best
+base, and probably the majority
+
+330
+00:22:56,560 --> 00:23:01,620
+of people, are Best kind of
+working in gentler techniques,
+
+331
+00:23:01,620 --> 00:23:05,760
+yoga and meditation or trans
+dancing, a number of things
+
+332
+00:23:05,760 --> 00:23:09,900
+which have the same amplifying
+effect in a more gentle fashion,
+
+333
+00:23:10,500 --> 00:23:14,220
+which do in which we can do a
+great deal of very good work
+
+334
+00:23:14,400 --> 00:23:18,660
+without taking psychedelics at
+all. In fact, in the mail that
+
+335
+00:23:18,660 --> 00:23:23,120
+I've gotten from my writing on
+psychedelics. Many of the people
+
+336
+00:23:23,120 --> 00:23:26,300
+who have written me have never
+taken psychedelics, or they've
+
+337
+00:23:26,300 --> 00:23:29,840
+taken psychedelics once or twice
+early in their life, but they've
+
+338
+00:23:29,840 --> 00:23:35,120
+been a meditator for 50 or 50
+years, and they are engaging the
+
+339
+00:23:35,120 --> 00:23:40,240
+cosmology that emerges in my
+story and comparing it to the
+
+340
+00:23:40,240 --> 00:23:43,480
+cosmology that has emerged for
+them in their meditative
+
+341
+00:23:43,480 --> 00:23:48,820
+experience and finding strong
+parallels. And so the deepest
+
+342
+00:23:48,820 --> 00:23:52,180
+level, the issue is not
+psychedelics. The issue is
+
+343
+00:23:52,180 --> 00:23:54,640
+consciousness, the boundaries
+and the functions of
+
+344
+00:23:54,640 --> 00:23:59,680
+consciousness itself. So but
+some people should kind of stay
+
+345
+00:23:59,680 --> 00:24:01,800
+away from these powerful
+amplifiers.
+
+346
+00:24:01,980 --> 00:24:07,200
+Emmy Vadnais: Yeah, and how many
+micrograms? What was the dose
+
+347
+00:24:07,200 --> 00:24:09,780
+that you were usually working
+at? Because I know after we did
+
+348
+00:24:09,780 --> 00:24:12,900
+that interview, people were some
+people were chatting in and
+
+349
+00:24:12,900 --> 00:24:18,180
+asking what those levels were.
+And I think you, like you said,
+
+350
+00:24:18,180 --> 00:24:20,720
+you would go lower if you were
+to do it over again.
+
+351
+00:24:21,020 --> 00:24:23,900
+Chris Bache: After the first
+three sessions, which are medium
+
+352
+00:24:23,900 --> 00:24:28,100
+dose sessions, I worked at 500
+to 600 micrograms, which is
+
+353
+00:24:28,100 --> 00:24:33,080
+right at the body's maximum
+capacity to absorb. Meaning, if
+
+354
+00:24:33,080 --> 00:24:36,080
+you took more, you don't
+necessarily go deeper more or
+
+355
+00:24:36,080 --> 00:24:41,260
+less. So I was working at very
+high levels that basically have
+
+356
+00:24:41,260 --> 00:24:46,480
+the potential to just shatter,
+you know, the structures of
+
+357
+00:24:46,480 --> 00:24:49,420
+consciousness and take you
+temporarily beyond your
+
+358
+00:24:49,420 --> 00:24:53,860
+traditional ways of knowing
+yourself and knowing the world
+
+359
+00:24:54,160 --> 00:24:59,320
+and again, I would be much
+gentler in the early days.
+
+360
+00:24:59,380 --> 00:25:02,880
+Stanislav. Differentiates
+between those psychedelic B
+
+361
+00:25:03,000 --> 00:25:07,620
+really launched later, over up
+to maybe reasons. But at Spring
+
+362
+00:25:07,620 --> 00:25:12,480
+Grove, they experimented with
+working with the population of
+
+363
+00:25:12,480 --> 00:25:15,300
+clients who were dying of
+cancer. They were they were
+
+364
+00:25:15,300 --> 00:25:19,500
+terminal patients, and they were
+trying to address death anxiety,
+
+365
+00:25:19,740 --> 00:25:23,360
+and they worked with high dose
+LSD sessions, essentially trying
+
+366
+00:25:23,360 --> 00:25:26,480
+to trigger a Near-Death
+Experience, so these people
+
+367
+00:25:26,480 --> 00:25:29,720
+could have an insight into where
+they were going, and therefore
+
+368
+00:25:29,720 --> 00:25:33,680
+relieve the anxiety of death.
+And it was quite successful. But
+
+369
+00:25:33,680 --> 00:25:39,140
+the protocol limited high dose
+work to three sessions. And I
+
+370
+00:25:39,140 --> 00:25:43,060
+came along after years later,
+and I thought, well, if you
+
+371
+00:25:43,060 --> 00:25:47,800
+could work successfully three
+times, you could do it more than
+
+372
+00:25:47,800 --> 00:25:52,720
+three times. And so I adopted
+that protocol. I eventually, in
+
+373
+00:25:52,720 --> 00:25:57,580
+time, I learned I had a capacity
+in an aptitude for working at
+
+374
+00:25:57,580 --> 00:26:03,240
+those levels. I could, I could
+let go and expand into the deep
+
+375
+00:26:03,240 --> 00:26:07,080
+psyche comfortably enough. And I
+also did not have problems
+
+376
+00:26:07,080 --> 00:26:10,440
+consolidating. I tended to
+consolidate comfortably and
+
+377
+00:26:10,440 --> 00:26:16,860
+strongly. And it's just, it's,
+it is an unusual, an unusually
+
+378
+00:26:16,860 --> 00:26:20,040
+intense protocol. I wouldn't do
+it again. I'd do it differently.
+
+379
+00:26:20,220 --> 00:26:24,920
+Emmy Vadnais: Yeah, in fact, you
+have shared, I believe in your
+
+380
+00:26:24,920 --> 00:26:28,460
+book, and when we had our
+previous conversation that near
+
+381
+00:26:28,460 --> 00:26:34,220
+death experiencers are the group
+of people you often relate to
+
+382
+00:26:34,340 --> 00:26:35,840
+with your own experiences with
+
+383
+00:26:35,840 --> 00:26:38,720
+Chris Bache: LSD, is that right?
+Yeah, I feel the closest, in
+
+384
+00:26:38,720 --> 00:26:41,680
+some ways, to people who have
+near death experiences of any
+
+385
+00:26:41,680 --> 00:26:46,300
+population, because by when
+their body almost dies, they are
+
+386
+00:26:46,300 --> 00:26:50,140
+catapulted into very deep states
+of consciousness. They get
+
+387
+00:26:50,140 --> 00:26:54,700
+glimpses of the world. They
+engage the world. And I think
+
+388
+00:26:55,600 --> 00:26:59,560
+there's a strong overlap between
+what happens in a deep
+
+389
+00:26:59,560 --> 00:27:03,600
+Near-Death Experience and what
+happens in a deep psychedelic,
+
+390
+00:27:03,600 --> 00:27:07,080
+therapeutically structured
+experience. The difference is
+
+391
+00:27:07,080 --> 00:27:11,880
+that primarily near death,
+people get only one take on that
+
+392
+00:27:11,880 --> 00:27:17,520
+reality. And if you work with
+psychedelics like I have, you
+
+393
+00:27:17,520 --> 00:27:21,440
+get multiple immersions,
+multiple initiations into that
+
+394
+00:27:21,440 --> 00:27:26,420
+reality so that what becomes a
+flashing one time exposure
+
+395
+00:27:26,660 --> 00:27:31,820
+becomes a journey and becomes a
+communion that is repeated and
+
+396
+00:27:31,820 --> 00:27:33,260
+deepened over time.
+
+397
+00:27:33,500 --> 00:27:39,800
+Jeffrey Mishlove: Yeah. Okay. We
+have a question from a viewer
+
+398
+00:27:39,800 --> 00:27:44,560
+whose YouTube name is greasy,
+slick, who would like to know if
+
+399
+00:27:44,560 --> 00:27:48,640
+you've ever experimented with
+DMT, which is considered, I
+
+400
+00:27:48,640 --> 00:27:51,760
+believe, the most powerful
+psychedelic
+
+401
+00:27:53,020 --> 00:27:55,600
+Chris Bache: I have experience
+with other psychedelics other
+
+402
+00:27:55,600 --> 00:28:01,140
+than LSD, though I consider my
+LSD work to be my primary body
+
+403
+00:28:01,140 --> 00:28:06,360
+of work, I have had some
+experiences with DMT, Wilson, of
+
+404
+00:28:06,360 --> 00:28:13,500
+course, and MDMA and salvia,
+Durham and San Pedro. I've had
+
+405
+00:28:13,500 --> 00:28:17,940
+experiences with five Meo, DMT,
+which is an extremely powerful
+
+406
+00:28:18,180 --> 00:28:22,460
+short acting psychedelic. I
+don't have a lot of experiences
+
+407
+00:28:22,520 --> 00:28:27,560
+with five Meo DMT, I feel like
+I'm just beginning to nibble on
+
+408
+00:28:27,560 --> 00:28:31,520
+that after a long period of not
+working with psychedelics,
+
+409
+00:28:31,520 --> 00:28:36,620
+because I stopped my work
+primarily in 1999 and much of my
+
+410
+00:28:36,620 --> 00:28:40,760
+work with these other
+psychedelics came after 1999
+
+411
+00:28:41,540 --> 00:28:45,400
+when I wasn't so much concerned
+with pushing new boundaries, I
+
+412
+00:28:45,400 --> 00:28:49,060
+was concerned with helping me
+integrate the work that I had
+
+413
+00:28:49,060 --> 00:28:54,400
+already done. But yeah, five Meo
+DMT is an extraordinarily
+
+414
+00:28:55,300 --> 00:28:59,740
+powerful and provocative
+psychedelic, and I've had
+
+415
+00:28:59,740 --> 00:29:02,640
+limited experience with
+ketamine, the high dose ketamine
+
+416
+00:29:02,640 --> 00:29:03,360
+sessions.
+
+417
+00:29:04,860 --> 00:29:07,440
+Jeffrey Mishlove: Are you able
+to draw any meaningful
+
+418
+00:29:07,440 --> 00:29:12,480
+comparisons between those
+entheogens and LSD?
+
+419
+00:29:13,740 --> 00:29:15,660
+Chris Bache: Well, that's a
+conversation we'd have to go
+
+420
+00:29:15,660 --> 00:29:21,500
+into very carefully, and I don't
+think I have enough experience
+
+421
+00:29:21,500 --> 00:29:25,520
+to really and I don't have
+enough knowledge of other
+
+422
+00:29:25,520 --> 00:29:29,960
+people's experiences to be able
+to make a fair comparison at
+
+423
+00:29:29,960 --> 00:29:36,500
+this time. I do think that there
+is a certain advantage to
+
+424
+00:29:37,400 --> 00:29:41,500
+psychedelics that open a long
+window, a window that stays open
+
+425
+00:29:41,500 --> 00:29:44,920
+for a long period of time, like
+LSD, or maybe a little less
+
+426
+00:29:44,920 --> 00:29:49,240
+Psilocybin, where, if you're
+dealing with something like five
+
+427
+00:29:49,240 --> 00:29:53,800
+Meo DMT, it's a very, very
+intense immersion, but it's a
+
+428
+00:29:53,800 --> 00:29:58,060
+very short acting, a very short
+window, and you don't have as
+
+429
+00:29:58,060 --> 00:30:02,220
+much time for. The infinite
+consciousness that you're
+
+430
+00:30:02,280 --> 00:30:07,380
+accessing or entering into
+communion with to impact you and
+
+431
+00:30:07,380 --> 00:30:11,340
+to clean you and to transform
+your life. And I think this is
+
+432
+00:30:11,340 --> 00:30:15,480
+what Rick Strassman found in his
+book on DMT, the spirit
+
+433
+00:30:15,480 --> 00:30:19,620
+molecule, where he took people
+with DMT into very intense
+
+434
+00:30:19,620 --> 00:30:23,420
+experiences, and some of them
+had very deep experiences, but
+
+435
+00:30:23,420 --> 00:30:27,080
+in the end, he found that they
+did not change their lives very
+
+436
+00:30:27,080 --> 00:30:31,280
+much. These experiences were not
+deeply transformative. And I
+
+437
+00:30:31,400 --> 00:30:34,760
+personally think that part of
+the reason is because it is so
+
+438
+00:30:34,760 --> 00:30:40,360
+short acting versus a long
+acting large window. But then
+
+439
+00:30:40,360 --> 00:30:47,500
+again, even a psychedelic like
+LSD, relatively speaking, is
+
+440
+00:30:47,500 --> 00:30:51,820
+relatively short acting in terms
+of compared to other
+
+441
+00:30:51,880 --> 00:30:55,600
+meditational practices, for
+example, where the window is
+
+442
+00:30:55,600 --> 00:30:59,800
+open for a much longer period of
+time. So if we combine
+
+443
+00:31:00,820 --> 00:31:04,800
+meditation and contemplative and
+yogic disciplines, with the
+
+444
+00:31:05,160 --> 00:31:09,660
+psychedelic practices which give
+you a window to experience, then
+
+445
+00:31:09,660 --> 00:31:14,700
+you have, I think maybe the
+optimal conditions for balancing
+
+446
+00:31:14,760 --> 00:31:18,600
+the virtues of one and the
+virtues of the other and
+
+447
+00:31:18,600 --> 00:31:20,960
+amplifying the transformative
+effect.
+
+448
+00:31:23,780 --> 00:31:27,320
+Jeffrey Mishlove: Wonder off
+hand. How many people who do
+
+449
+00:31:27,380 --> 00:31:32,240
+take LSD, and it's been widely
+used in our culture, how many of
+
+450
+00:31:32,240 --> 00:31:38,840
+those people really have had
+their lives transformed the way
+
+451
+00:31:38,840 --> 00:31:42,280
+you have, and I think I have to
+say the way I have, but I'm
+
+452
+00:31:42,280 --> 00:31:46,480
+under the impression that many,
+many people of our generation
+
+453
+00:31:46,720 --> 00:31:50,980
+took LSD and they weren't even
+trying to transform their lives.
+
+454
+00:31:51,460 --> 00:31:54,280
+It was more a question of
+partying.
+
+455
+00:31:54,520 --> 00:31:58,240
+Chris Bache: Yeah, I think
+that's the case. And nothing
+
+456
+00:31:58,240 --> 00:32:02,280
+wrong with that. You know, I
+have no criticism of that, but
+
+457
+00:32:02,340 --> 00:32:06,900
+it is, to me, a kind of a wasted
+opportunity. It so much. Ha,
+
+458
+00:32:07,080 --> 00:32:10,260
+hinges the to me, the
+productivity of these really,
+
+459
+00:32:10,260 --> 00:32:15,300
+for philosophical exploration or
+therapeutic applications,
+
+460
+00:32:15,540 --> 00:32:19,500
+depends on how you handle these
+stories of band aware, if you
+
+461
+00:32:19,500 --> 00:32:22,640
+kind of stay in touch with the
+world, and you're having a time,
+
+462
+00:32:22,640 --> 00:32:24,920
+you're at a concert, or you're
+in nature, or you're with some
+
+463
+00:32:24,920 --> 00:32:29,960
+friends, then that lends itself
+to a certain kind of milieu, a
+
+464
+00:32:29,960 --> 00:32:34,820
+certain level of encounter. But
+if you isolate yourself, if you
+
+465
+00:32:34,940 --> 00:32:39,080
+adopt kind of a zazen
+atmosphere, if you create a Kiva
+
+466
+00:32:39,080 --> 00:32:42,160
+of practice where you're
+isolated from the world. You're
+
+467
+00:32:42,160 --> 00:32:44,620
+wearing eyeshades. So you know
+that whatever you're
+
+468
+00:32:44,620 --> 00:32:48,460
+experiencing is coming only from
+within yourself, and if you
+
+469
+00:32:48,460 --> 00:32:52,300
+engage that with you know
+conscious intention, singular
+
+470
+00:32:52,300 --> 00:32:56,680
+intent, and allow it to take you
+where it wants to take you,
+
+471
+00:32:56,800 --> 00:33:00,240
+which is often not where you
+would like to go. It takes you
+
+472
+00:33:00,240 --> 00:33:03,840
+into the places that you hurt
+the most, and then it takes you
+
+473
+00:33:03,840 --> 00:33:08,280
+into places that you don't even
+understand why it hurts so much
+
+474
+00:33:08,280 --> 00:33:10,920
+when you're going into it,
+because you're going beyond the
+
+475
+00:33:10,980 --> 00:33:14,880
+edge of the maps of the personal
+psyche. But if you focus it with
+
+476
+00:33:14,880 --> 00:33:20,420
+that intent, then something very
+exciting opens up as a
+
+477
+00:33:20,420 --> 00:33:24,800
+possibility, because you not
+only have the opportunity to
+
+478
+00:33:24,800 --> 00:33:28,760
+heal all these knots that are
+kind of locked in your heart
+
+479
+00:33:28,760 --> 00:33:33,620
+from however many incarnations
+you've had, but you also, as
+
+480
+00:33:33,620 --> 00:33:39,380
+these kind of are healed and are
+unlocked your receptivity To the
+
+481
+00:33:39,380 --> 00:33:43,900
+larger fields of consciousness,
+which are always there, always
+
+482
+00:33:44,080 --> 00:33:50,260
+bringing their energy to us,
+increases and that really, that
+
+483
+00:33:50,380 --> 00:33:52,960
+I think is worth a hell of a lot
+of concerts.
+
+484
+00:33:55,540 --> 00:33:58,000
+Emmy Vadnais: Yeah, Chris, can
+you expand a little bit more
+
+485
+00:33:58,000 --> 00:34:01,260
+about what your session
+structures were like, because
+
+486
+00:34:02,520 --> 00:34:05,640
+somebody commented in the
+conversation that we had, they
+
+487
+00:34:05,640 --> 00:34:09,720
+asked, Why didn't he just go out
+and hang out in the mountains
+
+488
+00:34:09,720 --> 00:34:14,580
+and nature and and how you had
+somebody there with you as well.
+
+489
+00:34:14,700 --> 00:34:20,600
+And I think you look to
+Stanislav Grof for how to go
+
+490
+00:34:20,600 --> 00:34:21,800
+about that, is that, right?
+
+491
+00:34:21,860 --> 00:34:25,640
+Chris Bache: Yeah, I, you know,
+I was Stan's work is so
+
+492
+00:34:25,640 --> 00:34:30,380
+formidable, and his intellectual
+synthesis of so many traditions
+
+493
+00:34:30,380 --> 00:34:35,480
+is so important that he became
+my kind of foundation for doing
+
+494
+00:34:35,480 --> 00:34:38,420
+this work. And again, remember,
+I was, I was doing this work in
+
+495
+00:34:38,420 --> 00:34:42,340
+Ohio. I was a long way from San
+Francisco. I was not part of a
+
+496
+00:34:42,340 --> 00:34:46,300
+psychedelic community. I was not
+part of an Ayahuasca group that
+
+497
+00:34:46,300 --> 00:34:50,860
+going down to Peru regularly to
+work with indigenous shamans
+
+498
+00:34:50,860 --> 00:34:54,160
+there. I was really working
+alone, and I adopted the
+
+499
+00:34:54,160 --> 00:34:59,440
+protocol that Stan had outlined
+in his book LSD psychotherapy,
+
+500
+00:34:59,440 --> 00:35:03,660
+published. 1980 right in the
+very early years of my work. And
+
+501
+00:35:03,660 --> 00:35:08,520
+so my protocol, and first, I
+think it's it's wonderful to go
+
+502
+00:35:08,520 --> 00:35:12,600
+sit in nature and do a lower,
+moderate dose of psychedelics
+
+503
+00:35:12,600 --> 00:35:16,200
+and enter into that kind of
+communion that can open. It's
+
+504
+00:35:16,200 --> 00:35:21,440
+just not what I did. So my days
+would always start early in the
+
+505
+00:35:21,440 --> 00:35:26,600
+morning. I would have everything
+set up. I would be either at a
+
+506
+00:35:26,600 --> 00:35:30,680
+third floor of our home or later
+when we started having children.
+
+507
+00:35:30,680 --> 00:35:34,100
+I worked in my wife's office.
+Carol was a clinical
+
+508
+00:35:34,100 --> 00:35:37,940
+psychologist, and she was my
+sitter for all of my sessions.
+
+509
+00:35:38,360 --> 00:35:42,340
+So we would start in the early
+morning, I would do meditation,
+
+510
+00:35:42,340 --> 00:35:46,120
+yoga, body stretching and
+whatnot, and then we would begin
+
+511
+00:35:46,120 --> 00:35:51,100
+the session. They were all
+guided with very carefully
+
+512
+00:35:51,100 --> 00:35:55,600
+selected music. So that Carol
+had a library of music available
+
+513
+00:35:55,600 --> 00:36:00,280
+to her, because you want to pace
+the rhythm of the shopping the
+
+514
+00:36:00,280 --> 00:36:03,780
+full peak and the decline of the
+section. Different types of
+
+515
+00:36:03,780 --> 00:36:06,720
+music are appropriate for
+different stages of that
+
+516
+00:36:06,720 --> 00:36:10,200
+process. And you can get lots of
+examples of this music from
+
+517
+00:36:10,200 --> 00:36:14,220
+Holotropic Breathwork sites,
+which often catalog extensive
+
+518
+00:36:14,220 --> 00:36:18,420
+libraries for this type of work.
+So basically, I would spend all
+
+519
+00:36:18,420 --> 00:36:22,820
+day lying down with eyeshades,
+and the only way my sitter
+
+520
+00:36:23,060 --> 00:36:27,560
+primarily related to me was
+through the music. One time I
+
+521
+00:36:27,560 --> 00:36:31,220
+took, we took a movie camera and
+set it up to see if it would be
+
+522
+00:36:31,220 --> 00:36:34,520
+interesting. But actually, it
+was frightfully boring, because
+
+523
+00:36:35,360 --> 00:36:38,480
+it's all the action is taking
+place inside. It doesn't show
+
+524
+00:36:38,480 --> 00:36:41,860
+much on the outside, except
+periodically throwing up, which
+
+525
+00:36:41,860 --> 00:36:46,600
+is, you know, not that great to
+watch, but sorry, all day, and
+
+526
+00:36:46,600 --> 00:36:52,780
+then usually by mid late
+afternoon sessions wrapping up.
+
+527
+00:36:53,080 --> 00:36:56,860
+But even after the session, the
+formal session wraps up, the
+
+528
+00:36:56,860 --> 00:37:00,420
+tail is still very long, and I
+learned that you have to give a
+
+529
+00:37:00,420 --> 00:37:06,000
+lot of space, a lot of time,
+because that you're it's the
+
+530
+00:37:06,120 --> 00:37:10,920
+long tail is a good opportunity
+to reflect upon and to integrate
+
+531
+00:37:11,220 --> 00:37:13,920
+the insights that's emerged.
+Because these insights can come
+
+532
+00:37:13,920 --> 00:37:17,760
+and they can be very powerful,
+but like a dream, you can lose
+
+533
+00:37:17,760 --> 00:37:22,820
+them, and it's important to hold
+on to them as well as you can.
+
+534
+00:37:23,180 --> 00:37:28,880
+And so my custom was the day
+after session, the next morning,
+
+535
+00:37:28,880 --> 00:37:33,560
+I would spend that morning as
+long as it took to write out an
+
+536
+00:37:33,560 --> 00:37:37,820
+complete as thorough and account
+of each session. And I found
+
+537
+00:37:37,820 --> 00:37:43,900
+that I had to develop a strategy
+for sort of maximizing recall. I
+
+538
+00:37:43,900 --> 00:37:48,340
+began I would take the playlist
+that was used in the session in
+
+539
+00:37:48,340 --> 00:37:51,460
+exactly the order in which the
+music was played, because my
+
+540
+00:37:51,460 --> 00:37:55,000
+sitter had kept a record, and
+then I would play the music
+
+541
+00:37:55,000 --> 00:37:58,240
+while I was writing, and I would
+play each piece of music over
+
+542
+00:37:58,240 --> 00:38:02,220
+and over till I felt I had
+captured as best I could what
+
+543
+00:38:02,220 --> 00:38:05,700
+happened during that part of the
+Muse session. And then I went on
+
+544
+00:38:05,700 --> 00:38:08,880
+to the next base of music and
+the next piece of music, so that
+
+545
+00:38:08,880 --> 00:38:14,220
+by the time I was finished, I
+had as reliable an account as I
+
+546
+00:38:14,220 --> 00:38:19,080
+could create of the session. And
+once it's in, like that, once
+
+547
+00:38:19,080 --> 00:38:24,020
+it's locked in, I don't change
+it, it's it's locked. And I
+
+548
+00:38:24,020 --> 00:38:27,260
+found that if I attempted to
+make improvements on the text
+
+549
+00:38:27,680 --> 00:38:32,000
+later, my improvements often
+diluted aspects or they took the
+
+550
+00:38:32,360 --> 00:38:37,940
+sharp edge off of the focus. So
+I basically respected the text,
+
+551
+00:38:38,300 --> 00:38:42,220
+the sessions, as my primary
+text, and that's why, in my
+
+552
+00:38:42,220 --> 00:38:47,860
+book, all the sessions are
+produced in a italic text to
+
+553
+00:38:47,860 --> 00:38:51,880
+separate them from the
+commentation. Commentator that
+
+554
+00:38:51,880 --> 00:38:56,680
+commentator that I put after the
+session.
+
+555
+00:38:57,340 --> 00:39:00,120
+Emmy Vadnais: Yeah, well, that's
+fascinating. I believe in
+
+556
+00:39:00,120 --> 00:39:03,360
+psychological terms. It's called
+state dependent memory, where
+
+557
+00:39:03,360 --> 00:39:06,060
+you so you were using your music
+that you were listening to
+
+558
+00:39:06,180 --> 00:39:08,100
+during the session to help reach
+
+559
+00:39:08,700 --> 00:39:10,680
+Chris Bache: because day after
+and you're still sort of one
+
+560
+00:39:10,680 --> 00:39:14,880
+foot in, one foot out, you know,
+you're and it's what I call kind
+
+561
+00:39:14,880 --> 00:39:18,240
+of standing at the edge of the
+well, you're you're one foot in
+
+562
+00:39:18,240 --> 00:39:21,740
+and one foot out. And by playing
+the music while you have your
+
+563
+00:39:21,740 --> 00:39:27,140
+cognitive capacities back, you
+can let your mind go back into
+
+564
+00:39:27,140 --> 00:39:29,720
+that territory and capture it.
+
+565
+00:39:33,680 --> 00:39:36,680
+Jeffrey Mishlove: Question here
+a couple of people have raised
+
+566
+00:39:36,680 --> 00:39:40,960
+it in different ways, and it has
+to do with the way we titled
+
+567
+00:39:40,960 --> 00:39:45,760
+this program using your phrase
+diamond Luminosity. So one of
+
+568
+00:39:45,760 --> 00:39:50,680
+our viewers, Celia funk, who is
+also one of our volunteers and
+
+569
+00:39:50,680 --> 00:39:56,080
+just had a baby recently,
+congratulations. She says, this
+
+570
+00:39:56,080 --> 00:39:59,320
+may be a silly question, but
+does the title diamond
+
+571
+00:39:59,320 --> 00:40:04,020
+Luminosity. Luminosity refer to
+actual diamonds. And then a
+
+572
+00:40:04,020 --> 00:40:09,300
+different viewer asked, Well, is
+it related to the Diamond Sutra?
+
+573
+00:40:10,260 --> 00:40:15,900
+Chris Bache: Yeah, that's not a
+silly question at all. Maybe a
+
+574
+00:40:15,900 --> 00:40:20,480
+little bit of background, the
+phrase diamond Luminosity points
+
+575
+00:40:20,480 --> 00:40:24,920
+to states of consciousness that
+I entered in the last five years
+
+576
+00:40:24,920 --> 00:40:29,480
+of my work. So I had already
+gone through kind of what Stan
+
+577
+00:40:29,480 --> 00:40:32,600
+Grof calls the perinatal
+process, and gone through a
+
+578
+00:40:32,600 --> 00:40:38,120
+really solid ego death. I'd gone
+into what I came to call, later
+
+579
+00:40:38,120 --> 00:40:41,260
+the ocean of suffering, working
+at the collective psyche level.
+
+580
+00:40:41,500 --> 00:40:45,040
+Had gone into archetypal
+reality. I'd gone into causal
+
+581
+00:40:45,040 --> 00:40:50,020
+level reality, many adventures
+in that process, and I was
+
+582
+00:40:50,020 --> 00:40:54,340
+feeling absolutely
+philosophically satiated and
+
+583
+00:40:54,340 --> 00:40:57,340
+complete by that time, because I
+had been I was having
+
+584
+00:40:57,580 --> 00:41:02,640
+experiences of profound oneness
+with existence and even touching
+
+585
+00:41:02,700 --> 00:41:08,280
+the meta, cosmic void and having
+standing under the waterfall of
+
+586
+00:41:08,280 --> 00:41:12,780
+cosmic love. So I was
+existentially very satisfied.
+
+587
+00:41:13,920 --> 00:41:19,860
+But in the last five years and
+26 sessions, I was catapulted
+
+588
+00:41:19,920 --> 00:41:25,280
+after one more series of death
+and rebirth experiences into a
+
+589
+00:41:25,580 --> 00:41:31,040
+state of consciousness that was
+light, but exceptionally pure,
+
+590
+00:41:31,100 --> 00:41:36,080
+exceptionally clear, light,
+clear beyond imagination. Now I
+
+591
+00:41:36,080 --> 00:41:40,600
+had access light many times
+before when you have a an ego
+
+592
+00:41:40,600 --> 00:41:44,020
+death experience, or you have
+other deep experiences. Many
+
+593
+00:41:44,020 --> 00:41:48,220
+people encounter the light this,
+and it's the light is kind of
+
+594
+00:41:48,220 --> 00:41:52,060
+the signature of these radically
+expanded divine states of
+
+595
+00:41:52,060 --> 00:41:56,620
+consciousness. But when I talk
+about diamond Luminosity, I'm
+
+596
+00:41:56,620 --> 00:42:00,540
+trying to describe a particular
+state of consciousness, a hyper,
+
+597
+00:42:00,540 --> 00:42:04,860
+hyper, clear, clear state of
+consciousness. And because I
+
+598
+00:42:04,860 --> 00:42:08,400
+know the Buddhist literature
+better than other spiritual
+
+599
+00:42:08,400 --> 00:42:12,420
+traditions, at least the
+mystical side of it, I correlate
+
+600
+00:42:12,420 --> 00:42:16,320
+it with what the Buddhists call
+Dharmakaya, the clear light of
+
+601
+00:42:16,320 --> 00:42:20,760
+absolute reality. It is the
+foundational metaphysical
+
+602
+00:42:20,820 --> 00:42:25,880
+structure. It is the light out
+of which the Big Bang emerges
+
+603
+00:42:25,880 --> 00:42:30,260
+and gives birth to the entire
+physical universe. So it was
+
+604
+00:42:30,260 --> 00:42:34,940
+hyper clear, and so it doesn't
+have anything to do with
+
+605
+00:42:34,940 --> 00:42:38,660
+physical diamonds, but it does
+have something to do with what
+
+606
+00:42:38,660 --> 00:42:42,940
+the Diamond Sutra is talking
+about, and Vajrayana Buddhism is
+
+607
+00:42:43,000 --> 00:42:47,020
+vadra diamond. So it's a
+diamond, it's a diamond V and
+
+608
+00:42:47,020 --> 00:42:51,040
+there is a cool at least, other
+structures also talk about this
+
+609
+00:42:51,040 --> 00:42:56,080
+diamond esque Luminosity. But I
+know it best from reading the
+
+610
+00:42:56,080 --> 00:43:01,920
+Buddhist sources about this
+reality. And it seems to me that
+
+611
+00:43:03,180 --> 00:43:07,380
+it correlates with what are
+described in the Tantras in the
+
+612
+00:43:07,440 --> 00:43:14,460
+Vadnais Sutras of the
+Dharmakaya. Beautiful.
+
+613
+00:43:16,320 --> 00:43:21,560
+Emmy Vadnais: Yeah, there's a
+question here from Megan Salar,
+
+614
+00:43:21,560 --> 00:43:26,300
+who you've mentioned this a few
+times about meditation, and she
+
+615
+00:43:26,300 --> 00:43:28,940
+says he talks about the
+importance of meditation and
+
+616
+00:43:28,940 --> 00:43:32,420
+work outside of this psychedelic
+work, what does his daily
+
+617
+00:43:32,420 --> 00:43:35,060
+practice look like? Or what
+would he recommend?
+
+618
+00:43:37,100 --> 00:43:41,620
+Chris Bache: Well, the longer
+that I worked with psychedelics,
+
+619
+00:43:41,860 --> 00:43:45,340
+the more I appreciated how
+important it is to have a daily
+
+620
+00:43:45,340 --> 00:43:48,880
+spiritual practice. Because when
+you go into psychedelics
+
+621
+00:43:48,880 --> 00:43:53,380
+conscientiously, you open your
+system up to a vast field of
+
+622
+00:43:53,380 --> 00:43:57,940
+consciousness progressively
+deeper and deeper, larger and
+
+623
+00:43:57,940 --> 00:44:02,820
+larger and and you open yourself
+up to enormous flows of energy,
+
+624
+00:44:02,820 --> 00:44:06,720
+because I found that each step
+into a deeper state of
+
+625
+00:44:06,720 --> 00:44:11,340
+consciousness was a step into a
+higher level of energy. And to
+
+626
+00:44:11,340 --> 00:44:14,880
+stabilize consciousness at that
+higher level, you have to
+
+627
+00:44:14,880 --> 00:44:18,420
+acclimate to the high level of
+energy that's involved, which
+
+628
+00:44:18,420 --> 00:44:24,080
+requires intense, hard to
+describe, but very intense
+
+629
+00:44:24,080 --> 00:44:30,020
+purification processes, which
+often have the form of fire and
+
+630
+00:44:30,320 --> 00:44:35,360
+solar flares and volcanic just
+tremendous fire energy to
+
+631
+00:44:35,360 --> 00:44:40,180
+transform your being, so that
+you can become a being who can
+
+632
+00:44:40,180 --> 00:44:44,260
+live for hours at a time, at
+that very, very deep level of
+
+633
+00:44:44,260 --> 00:44:48,520
+consciousness where the world
+works at this level and causal
+
+634
+00:44:48,520 --> 00:44:52,720
+level reality, where it's a it's
+a different physics. It's a
+
+635
+00:44:52,720 --> 00:44:56,140
+different landscape of
+consciousness than lower levels
+
+636
+00:44:56,140 --> 00:44:59,920
+of consciousness, where you
+have, you still have individual.
+
+637
+00:45:00,000 --> 00:45:03,300
+Beings doing individual things
+and having individual
+
+638
+00:45:03,300 --> 00:45:08,940
+experiences. So when you open up
+to these deep levels, and then
+
+639
+00:45:08,940 --> 00:45:11,520
+after it's over, you come back
+into your ordinary
+
+640
+00:45:11,520 --> 00:45:16,200
+consciousness, I find that it's
+really important to have a daily
+
+641
+00:45:16,200 --> 00:45:19,920
+spiritual practice to anchor
+you, to help keep your feet
+
+642
+00:45:20,280 --> 00:45:26,480
+solid on the ground, and also
+because the skills that are
+
+643
+00:45:26,480 --> 00:45:30,440
+acquired in a meditative
+practice, in Vipassana practice
+
+644
+00:45:30,440 --> 00:45:34,400
+or zazen practice, are precisely
+the kind of skills of
+
+645
+00:45:34,400 --> 00:45:38,720
+observations and non attachment,
+which you also use in a
+
+646
+00:45:38,720 --> 00:45:42,640
+psychedelic session, so they
+reinforce each other
+
+647
+00:45:42,640 --> 00:45:47,020
+structurally. But meditation
+gives you an environment to
+
+648
+00:45:47,080 --> 00:45:51,520
+assess some of the content, the
+cognitive content of your
+
+649
+00:45:51,520 --> 00:45:56,560
+temporary sessions, but also it
+gives you an environment to
+
+650
+00:45:56,860 --> 00:46:02,160
+process the energy which is
+ignited and set loose in your
+
+651
+00:46:02,160 --> 00:46:06,480
+psychedelic sessions. So that in
+the chapter on Diamond
+
+652
+00:46:06,480 --> 00:46:12,120
+Luminosity, I talk about my work
+on integrating Vajrayana
+
+653
+00:46:12,120 --> 00:46:16,560
+practice with my psychedelic
+practice. And I actually didn't
+
+654
+00:46:16,560 --> 00:46:20,540
+begin the Vajrayana practice
+until about the same time I was
+
+655
+00:46:20,540 --> 00:46:24,560
+entering the diamond Luminosity,
+and it was Carol who brought me
+
+656
+00:46:24,620 --> 00:46:30,500
+into the vadrayana tradition,
+because she did a vadna practice
+
+657
+00:46:30,500 --> 00:46:36,020
+Chud for me on before one of my
+psychedelic sessions. And the
+
+658
+00:46:36,020 --> 00:46:39,440
+window that opened in that
+session, this is the 45th
+
+659
+00:46:39,740 --> 00:46:43,720
+session. So I was had a lot of
+history by that time, but the
+
+660
+00:46:43,720 --> 00:46:48,160
+window that opened was wider,
+deeper, and it stayed open
+
+661
+00:46:48,160 --> 00:46:52,540
+longer that then had been the
+case in earlier sessions. So I
+
+662
+00:46:52,540 --> 00:46:55,660
+immediately learned that
+practice and began to do that
+
+663
+00:46:55,660 --> 00:46:59,500
+practice before any psychedelic
+session. I would never go into
+
+664
+00:46:59,500 --> 00:47:03,300
+psychedelic space without doing
+Chud, which is a cleansing it
+
+665
+00:47:03,300 --> 00:47:09,300
+means cutting. It's a cleansing
+practice. And I found that when
+
+666
+00:47:09,300 --> 00:47:13,560
+I was working at these very,
+very high energetic levels, it
+
+667
+00:47:13,560 --> 00:47:17,160
+sometimes set in motion
+processes which are very
+
+668
+00:47:17,160 --> 00:47:22,100
+difficult to integrate processes
+in my subtle energy system. If
+
+669
+00:47:22,100 --> 00:47:25,640
+you know Alex Gray's work, and
+you you see how beautiful he
+
+670
+00:47:25,760 --> 00:47:30,500
+depicts the powerful energies
+that are triggered in deep
+
+671
+00:47:30,500 --> 00:47:34,220
+psychedelic work. After the
+session is over, they can leave
+
+672
+00:47:34,220 --> 00:47:39,440
+your system feeling quite achy
+and sort of stretched. And I
+
+673
+00:47:39,440 --> 00:47:42,880
+found that doing Vajrayana
+practice, doing the Guru Yoga
+
+674
+00:47:42,880 --> 00:47:46,900
+practices, or deity yoga
+practices, gave that energy a
+
+675
+00:47:46,900 --> 00:47:51,700
+place to run when I was back in
+my ordinary consciousness, back
+
+676
+00:47:51,700 --> 00:47:55,540
+in my ordinary body. So for lots
+of reasons, both for
+
+677
+00:47:56,680 --> 00:48:01,440
+clarification of cognitive
+content, for practicing the
+
+678
+00:48:01,440 --> 00:48:06,060
+teachings that are given to you
+in your psychedelic sessions,
+
+679
+00:48:06,720 --> 00:48:09,960
+for managing the energetic
+consequences of entering into
+
+680
+00:48:09,960 --> 00:48:13,920
+those states. I think a daily
+spiritual practice is really
+
+681
+00:48:13,920 --> 00:48:18,060
+important. And I would mention
+that before I go, would go into
+
+682
+00:48:18,060 --> 00:48:23,180
+a psychedelic space, I would
+always you. I would change my
+
+683
+00:48:23,180 --> 00:48:27,020
+psychic my spiritual practice
+for days and weeks before going
+
+684
+00:48:27,020 --> 00:48:30,860
+into the session, and then I
+would do different practices
+
+685
+00:48:30,860 --> 00:48:33,440
+coming out of the session. I
+would be doing kind of soul
+
+686
+00:48:33,440 --> 00:48:38,000
+integration practices after a
+session, and more cutting
+
+687
+00:48:38,000 --> 00:48:41,860
+clearing practices before the
+session. So there's a lot of
+
+688
+00:48:41,860 --> 00:48:45,880
+subtlety in in practices. And I
+would do yoga, I would
+
+689
+00:48:45,880 --> 00:48:50,020
+basically, because I would want
+my body to be as clear and as
+
+690
+00:48:50,020 --> 00:48:52,960
+possible for would come to these
+states. And I would also, for
+
+691
+00:48:52,960 --> 00:48:56,260
+example, make sure I get a cut
+right if I needed to. Because if
+
+692
+00:48:56,260 --> 00:48:59,860
+you're if your body is
+misaligned structurally or
+
+693
+00:48:59,860 --> 00:49:04,500
+muscularly or emotionally,
+that's and you amp your energy
+
+694
+00:49:04,560 --> 00:49:07,800
+up, then those blocks are going
+to be amplified and become
+
+695
+00:49:07,800 --> 00:49:14,460
+problematic. So good personal
+hygiene, good care of your body,
+
+696
+00:49:14,940 --> 00:49:20,900
+care of your of yoga, care of
+your mind, meditation, before
+
+697
+00:49:20,900 --> 00:49:26,780
+and after. I think these are all
+just good hygiene practices, and
+
+698
+00:49:26,780 --> 00:49:32,000
+so my what I do for my daily
+practice has changed over time.
+
+699
+00:49:32,180 --> 00:49:36,680
+I've been a meditator for a long
+time, worked in the Vajrayana
+
+700
+00:49:36,680 --> 00:49:42,160
+tradition for a long time.
+Though, I do find that one of
+
+701
+00:49:42,160 --> 00:49:45,640
+the places, because I'm a
+talker, because I'm an academic,
+
+702
+00:49:45,640 --> 00:49:49,960
+and because I like to explain
+things I find teaching is
+
+703
+00:49:49,960 --> 00:49:54,760
+actually has become a spiritual
+art form for me, because to
+
+704
+00:49:54,760 --> 00:50:00,240
+enter, to try to bring these
+ideas, spiritual ideas. Make
+
+705
+00:50:00,240 --> 00:50:03,480
+them available to enter into
+dialog with students day after
+
+706
+00:50:03,480 --> 00:50:10,320
+day, week after week. That
+requires, or it invites, a kind
+
+707
+00:50:10,320 --> 00:50:15,840
+of a existential posture, a
+spiritual posture. It's very
+
+708
+00:50:15,840 --> 00:50:20,040
+demanding kind of work if you're
+really going to engage students
+
+709
+00:50:20,040 --> 00:50:25,040
+at this very deep, existential
+level. So for me, teaching is is
+
+710
+00:50:25,040 --> 00:50:29,900
+its own form, a very demanding
+form of spiritual practice.
+
+711
+00:50:30,020 --> 00:50:33,200
+Emmy Vadnais: Yeah, thank you
+for teaching and sharing with
+
+712
+00:50:33,200 --> 00:50:36,500
+all of us here. I may have asked
+you in the interview we did,
+
+713
+00:50:36,500 --> 00:50:39,680
+Chris, I don't see any questions
+at the moment coming through
+
+714
+00:50:39,800 --> 00:50:44,020
+quite the same way. And I know
+this could be a long answer, but
+
+715
+00:50:44,020 --> 00:50:47,740
+if what, what is it that you
+felt you learned from these
+
+716
+00:50:47,740 --> 00:50:52,120
+sessions? What is it that yeah,
+that is so important that you
+
+717
+00:50:52,120 --> 00:50:56,500
+think our viewers and listeners
+might benefit from Yeah?
+
+718
+00:50:57,640 --> 00:51:03,840
+Chris Bache: You know that that
+is a large topic. And the
+
+719
+00:51:03,840 --> 00:51:10,620
+challenge of trying to answer
+that question is doing justice
+
+720
+00:51:10,920 --> 00:51:14,100
+to how many layers of
+consciousness I went through
+
+721
+00:51:14,160 --> 00:51:18,660
+over this 20 year journey. Many
+of our important books on
+
+722
+00:51:18,660 --> 00:51:24,620
+psychedelics are based on a much
+smaller number of sessions, and
+
+723
+00:51:24,620 --> 00:51:27,560
+that tends to create
+expectations, which shrinks the
+
+724
+00:51:27,560 --> 00:51:32,480
+metaphysical window. So that
+Aldous Huxley's book, The Doors
+
+725
+00:51:32,480 --> 00:51:37,520
+of Perception, he wrote after
+only one session, one Mescaline
+
+726
+00:51:37,520 --> 00:51:41,380
+session, and Huston Smith's
+book, cleansing the doors of
+
+727
+00:51:41,380 --> 00:51:44,380
+perception, where he gathered a
+lifetime of writing on
+
+728
+00:51:44,380 --> 00:51:49,240
+psychedelics, he had only done
+LSD six times. And after that,
+
+729
+00:51:49,240 --> 00:51:52,360
+he said the bombers increased,
+and he decided to take Alan
+
+730
+00:51:52,360 --> 00:51:56,320
+Watts's advice, once you get the
+message, hang up the phone. But
+
+731
+00:51:56,800 --> 00:51:59,380
+that suggests that the only kind
+of one or small number of
+
+732
+00:51:59,380 --> 00:52:03,240
+messages that might show up,
+which may be the case in a
+
+733
+00:52:03,240 --> 00:52:07,920
+couple of sessions. The
+challenging trying to describe
+
+734
+00:52:08,880 --> 00:52:14,520
+what I learned from it is first
+trying to describe the many
+
+735
+00:52:14,520 --> 00:52:20,600
+stages of initiation that took
+place, going from personal to
+
+736
+00:52:20,600 --> 00:52:25,700
+collective, to increase to
+subtler and causal levels of
+
+737
+00:52:25,700 --> 00:52:32,900
+reality and Non-duality. So a
+reporter asked me that question
+
+738
+00:52:32,960 --> 00:52:37,880
+one time, and I I made a list of
+the things which were the
+
+739
+00:52:37,880 --> 00:52:42,520
+highlighted, and I included it
+in the in the last chapter of
+
+740
+00:52:42,520 --> 00:52:45,640
+the book. And I can't remember
+all the things now, so I'll just
+
+741
+00:52:45,640 --> 00:52:53,860
+try to approximate my memory. I
+discovered that underlying all
+
+742
+00:52:53,860 --> 00:52:58,900
+existence is a singular
+intelligence of unbelievable
+
+743
+00:52:58,960 --> 00:53:06,060
+magnitude, of genius
+unbelievable intelligence, and
+
+744
+00:53:06,060 --> 00:53:10,200
+that the physical universe is
+the manifest body of this
+
+745
+00:53:10,200 --> 00:53:14,880
+genius, of this creative
+intelligence, so that the world
+
+746
+00:53:14,880 --> 00:53:18,660
+that we're living in is the
+physical body of the Divine. And
+
+747
+00:53:18,660 --> 00:53:22,880
+nothing I'm going to say here is
+new. It's the cosmology that
+
+748
+00:53:22,880 --> 00:53:26,420
+emerges in psychedelics is
+essentially the same cosmology
+
+749
+00:53:26,660 --> 00:53:30,500
+that emerges in the great
+mystical traditions of classical
+
+750
+00:53:30,800 --> 00:53:34,280
+contemplative cultures. So
+there's nothing new. It's just a
+
+751
+00:53:34,280 --> 00:53:39,200
+different technique, a different
+trigger protocol for accessing
+
+752
+00:53:39,200 --> 00:53:42,640
+some of these dimensions of
+consciousness, so that all
+
+753
+00:53:42,640 --> 00:53:46,960
+existence is unified in a
+fundamental one. Oneness is kind
+
+754
+00:53:46,960 --> 00:53:50,920
+of the one of the core teachings
+that emerges over and over
+
+755
+00:53:50,920 --> 00:53:56,620
+again. You can enter into
+oneness so deeply that you enter
+
+756
+00:53:56,620 --> 00:54:00,480
+into a condition that the
+Buddhas call Shunyata emptiness
+
+757
+00:54:00,480 --> 00:54:06,240
+of self, or anata Nirvana, the
+self is blown out. And when you
+
+758
+00:54:06,240 --> 00:54:11,280
+are empty of self deeply, you
+experience the entire world is
+
+759
+00:54:11,280 --> 00:54:15,360
+also empty of cells. And if you
+experience the world as
+
+760
+00:54:15,360 --> 00:54:20,900
+completely empty of separate
+individual existences, then
+
+761
+00:54:21,260 --> 00:54:25,760
+within a differentiation of a
+physical universe, the entire
+
+762
+00:54:25,760 --> 00:54:30,380
+universe lives and breathes us,
+one, as Plotinus said, so just
+
+763
+00:54:30,740 --> 00:54:34,280
+and you can enter the
+opportunity to enter into
+
+764
+00:54:34,400 --> 00:54:38,300
+intimacy with this
+consciousness, to meet it on
+
+765
+00:54:38,300 --> 00:54:42,340
+these special days, and to be
+engaged by this consciousness
+
+766
+00:54:42,520 --> 00:54:46,720
+and go deeper and deeper and
+deeper into this consciousness.
+
+767
+00:54:46,960 --> 00:54:50,260
+And so I'll mention, in this
+context, I knit, I didn't have
+
+768
+00:54:50,260 --> 00:54:54,580
+much contact with individual
+spirit guides or individual
+
+769
+00:54:54,580 --> 00:55:00,900
+deities or individual forms. My
+it's. Not that I don't think
+
+770
+00:55:00,900 --> 00:55:05,160
+these things exist. It's just
+hasn't been my experience, and I
+
+771
+00:55:05,160 --> 00:55:08,100
+think it's partly because of the
+protocol I used, and because of
+
+772
+00:55:08,100 --> 00:55:12,660
+the qualities of LSD as the
+psychedelic that it was grinding
+
+773
+00:55:12,660 --> 00:55:18,000
+me up so fine and spreading my
+dust so deeply into these layers
+
+774
+00:55:18,000 --> 00:55:26,360
+of reality that transcend
+individual life beings, so that
+
+775
+00:55:26,360 --> 00:55:31,460
+I had many experiences of being
+at different levels, but not
+
+776
+00:55:31,460 --> 00:55:36,740
+many experiences of individual
+beings. So part of it is just
+
+777
+00:55:36,740 --> 00:55:40,100
+the loving, the communion that
+this intelligence is just
+
+778
+00:55:40,100 --> 00:55:49,120
+extraordinary and also this
+oneness, this being is loving
+
+779
+00:55:49,480 --> 00:55:54,220
+beyond measure. When I have been
+tapped into the love that this
+
+780
+00:55:54,220 --> 00:55:58,300
+being that brought this being to
+create and share its existence
+
+781
+00:55:58,300 --> 00:56:02,040
+in this form, the love is
+overwhelming, and that really
+
+782
+00:56:02,040 --> 00:56:06,000
+surprised me, because I was
+okay. I was expecting, you know,
+
+783
+00:56:06,000 --> 00:56:10,800
+the creative intelligence to be
+intelligent, but I was surprised
+
+784
+00:56:10,800 --> 00:56:16,320
+by how much love was present.
+And so when people talk about
+
+785
+00:56:16,440 --> 00:56:20,960
+love is the primary virtue, I
+mean, I understand that. I mean
+
+786
+00:56:20,960 --> 00:56:25,220
+that really does. I all learned
+that our participation in
+
+787
+00:56:25,220 --> 00:56:30,080
+creation is taking place over
+hundreds of 1000s of years,
+
+788
+00:56:30,080 --> 00:56:34,040
+hundreds of 1000s of years. We
+that reincarnation is a simple
+
+789
+00:56:34,040 --> 00:56:38,840
+fact of life, and that because
+reincarnation is a fact of life,
+
+790
+00:56:39,020 --> 00:56:42,820
+we are not time limited in our
+development, we have to have an
+
+791
+00:56:42,820 --> 00:56:47,860
+understanding. Our spiritual
+understanding should recognize
+
+792
+00:56:47,980 --> 00:56:51,400
+that it's not what happens in
+any one particular life which is
+
+793
+00:56:51,400 --> 00:56:55,480
+paramount, and it's not over at
+the end of any one life, but
+
+794
+00:56:55,480 --> 00:56:59,320
+it's an ongoing progression that
+takes us back and forth between
+
+795
+00:56:59,320 --> 00:57:04,560
+spirit and matter over and over
+again, over and over again, in
+
+796
+00:57:04,560 --> 00:57:08,460
+an evolutionary exercise that
+isn't, I don't think it doesn't
+
+797
+00:57:08,460 --> 00:57:12,180
+culminate in enlightenment. Even
+the classic vision is you get
+
+798
+00:57:12,180 --> 00:57:15,660
+better and better and clearer
+and clearer until eventually you
+
+799
+00:57:15,660 --> 00:57:18,900
+achieve realization, you achieve
+enlightenment. And once you
+
+800
+00:57:18,900 --> 00:57:23,300
+achieve enlightenment, you can
+leave, you transcend Samsara,
+
+801
+00:57:23,300 --> 00:57:26,780
+the cycles of existence, you can
+permanently go to some off
+
+802
+00:57:26,780 --> 00:57:31,700
+planet, spiritual paradise. But
+I don't think that's my least
+
+803
+00:57:31,700 --> 00:57:37,820
+what I've been shown and told is
+that's not really the project at
+
+804
+00:57:37,820 --> 00:57:40,780
+that's an understandable
+interpretation from our early
+
+805
+00:57:40,780 --> 00:57:44,980
+experience, when we first made
+contact, several 1000 years ago,
+
+806
+00:57:45,400 --> 00:57:48,760
+with this profound mother
+universe, with the spiritual
+
+807
+00:57:48,760 --> 00:57:52,720
+mother universe. It's an
+understandable Kant In
+
+808
+00:57:53,020 --> 00:57:57,700
+conclusion, because this
+universe is so beautiful and so
+
+809
+00:57:57,700 --> 00:58:01,800
+ecstatic and and it feels so
+much like home. Naturally. We
+
+810
+00:58:01,800 --> 00:58:05,160
+think that we want to be there.
+We belong there. We came from
+
+811
+00:58:05,160 --> 00:58:10,920
+there, and it leads to the
+religions of return, so that
+
+812
+00:58:11,040 --> 00:58:14,760
+it's all about transcending the
+limits of human condition and
+
+813
+00:58:14,760 --> 00:58:18,240
+returning to where we came from,
+where we belong, which generates
+
+814
+00:58:18,240 --> 00:58:23,720
+up and out cosmology. And I
+think that's a reflection not of
+
+815
+00:58:23,720 --> 00:58:27,140
+the way the world is, but of our
+early understanding of the
+
+816
+00:58:27,140 --> 00:58:30,140
+world, which is now deepening.
+Now that we have a better
+
+817
+00:58:30,140 --> 00:58:34,340
+understanding of how huge the
+universe is and how long it's
+
+818
+00:58:34,340 --> 00:58:37,940
+been in existence, then we if
+you really want to understand
+
+819
+00:58:38,060 --> 00:58:42,700
+life, you have to begin to think
+like God. You have to think like
+
+820
+00:58:42,700 --> 00:58:46,420
+a galaxy and understand that the
+creative intelligence thinks in
+
+821
+00:58:46,420 --> 00:58:49,900
+terms of billions and billions
+of years. It doesn't think in
+
+822
+00:58:49,900 --> 00:58:53,920
+terms of individuals so much as
+it thinks of whole species,
+
+823
+00:58:53,920 --> 00:58:58,660
+whole planetary systems,
+galactic systems. And we have to
+
+824
+00:58:58,660 --> 00:59:03,360
+allow ourselves to expand to
+understand what is our role in
+
+825
+00:59:03,360 --> 00:59:07,140
+such a universe, and
+reincarnation allows us to do
+
+826
+00:59:07,200 --> 00:59:11,460
+that. Reincarnation helps us
+understand not only the tensions
+
+827
+00:59:11,460 --> 00:59:14,760
+that are woven into the body
+that we have and the mind that
+
+828
+00:59:14,760 --> 00:59:18,960
+we have, but it also weaves us.
+It gives us an invitation to
+
+829
+00:59:18,960 --> 00:59:24,320
+participate more fully into the
+divine project, so that the goal
+
+830
+00:59:24,320 --> 00:59:28,580
+becomes to achieve realization,
+to achieve some deep
+
+831
+00:59:28,580 --> 00:59:33,860
+experiential grounding of our of
+understanding, our experience of
+
+832
+00:59:33,860 --> 00:59:38,780
+our true essential nature, which
+is underneath our personality
+
+833
+00:59:38,780 --> 00:59:43,960
+nature. But then once we have
+that, once we understand that,
+
+834
+00:59:43,960 --> 00:59:48,220
+once we understand that every
+living thing is grounded in that
+
+835
+00:59:48,220 --> 00:59:52,600
+same reality, that the essence
+of my individuality is the same
+
+836
+00:59:52,600 --> 00:59:56,020
+as the essence of everybody
+else's individuality, we're all
+
+837
+00:59:56,020 --> 01:00:00,840
+in this together. Then the goal
+becomes, I think. To
+
+838
+01:00:01,080 --> 01:00:05,280
+progressively integrate more and
+more and more spiritual reality
+
+839
+01:00:05,280 --> 01:00:09,960
+into our physical incarnation,
+so that we can truly bring
+
+840
+01:00:09,960 --> 01:00:13,620
+heaven to earth, that we can
+truly transform our physical
+
+841
+01:00:13,620 --> 01:00:18,660
+world into a paradise, and not
+in a metaphorical sense, but I
+
+842
+01:00:18,660 --> 01:00:23,840
+mean in a literal sense, that we
+eventually will become a species
+
+843
+01:00:24,140 --> 01:00:27,980
+of awakened beings, a species of
+enlightened beings, a species of
+
+844
+01:00:27,980 --> 01:00:33,140
+saved beings, and a species of
+enlightened beings creates a
+
+845
+01:00:33,140 --> 01:00:38,960
+different earth than a species
+of unenlightened beings. So the
+
+846
+01:00:38,960 --> 01:00:42,700
+size of the project, the
+communion, the opportunity to
+
+847
+01:00:42,700 --> 01:00:46,900
+enter into communion with the
+project. Reincarnation is true.
+
+848
+01:00:47,440 --> 01:00:51,820
+Reincarnation leads to a
+different story, a different
+
+849
+01:00:51,820 --> 01:00:55,360
+anthropology, if you will, of
+the whole creative endeavor.
+
+850
+01:00:57,160 --> 01:01:00,780
+Those are, I guess, some of the
+highlights of the large ideas
+
+851
+01:01:00,840 --> 01:01:06,960
+that stand out. And as I said,
+they're not new. These are all
+
+852
+01:01:06,960 --> 01:01:09,660
+well established in our classic
+mystical
+
+853
+01:01:09,660 --> 01:01:13,260
+Emmy Vadnais: traditions, and
+yet we seem to need to continue
+
+854
+01:01:13,260 --> 01:01:16,860
+to hear them over and over and
+over again. We do. Some of us,
+
+855
+01:01:17,040 --> 01:01:18,000
+apparently need to.
+
+856
+01:01:19,200 --> 01:01:21,080
+Jeffrey Mishlove: I think it may
+feel like I need to
+
+857
+01:01:22,220 --> 01:01:25,880
+Chris Bache: me too, you know?
+And I think one of the
+
+858
+01:01:25,880 --> 01:01:29,660
+differences, it's sometimes said
+that the age of individual
+
+859
+01:01:29,660 --> 01:01:33,740
+enlightenment is over now, it's
+collective enlightenment that is
+
+860
+01:01:33,740 --> 01:01:37,520
+a challenge we face because and
+I think that's really true. And
+
+861
+01:01:38,720 --> 01:01:42,400
+the 2000 or so years of
+individual enlightenment or
+
+862
+01:01:42,460 --> 01:01:47,680
+individual salvation, perfectly
+well understandable. But now, if
+
+863
+01:01:47,680 --> 01:01:51,580
+we don't, if the whole species
+doesn't awaken, we likely won't
+
+864
+01:01:51,580 --> 01:01:55,060
+be able to survive on this
+planet. We have to grow up. We
+
+865
+01:01:55,060 --> 01:01:58,660
+have to stop being egoic
+children, and we have to grow up
+
+866
+01:01:58,660 --> 01:02:03,000
+into our soul consciousness in
+our deeper spiritual nature,
+
+867
+01:02:03,720 --> 01:02:05,340
+otherwise we're going to lose
+the planet.
+
+868
+01:02:07,320 --> 01:02:10,260
+Jeffrey Mishlove: I have a
+question from Pablo geralda,
+
+869
+01:02:10,260 --> 01:02:16,740
+who's one of our volunteers.
+Pablo is in Argentina, and he
+
+870
+01:02:16,740 --> 01:02:20,420
+asks you, Chris, if you have
+advice for somebody who wants to
+
+871
+01:02:20,420 --> 01:02:25,640
+try psychedelics for the first
+time, and what are are there
+
+872
+01:02:25,640 --> 01:02:30,200
+legal ways to do it? He's
+asking. And another viewer,
+
+873
+01:02:30,320 --> 01:02:34,820
+Gracie slick, raises the
+question, how do you acquire
+
+874
+01:02:34,820 --> 01:02:39,980
+LSD? To my knowledge, it's
+illegal everywhere in the United
+
+875
+01:02:39,980 --> 01:02:44,560
+States. And so then there's a
+question of, obviously, there is
+
+876
+01:02:44,560 --> 01:02:49,720
+a market for it, but the
+question is, how do you know
+
+877
+01:02:49,840 --> 01:02:50,860
+what you're getting
+
+878
+01:02:51,100 --> 01:02:55,420
+Chris Bache: absolutely first,
+and I do not want to encourage
+
+879
+01:02:55,420 --> 01:02:59,320
+people to break the law. I mean,
+it's just a speaks, be careful
+
+880
+01:02:59,320 --> 01:03:02,820
+here. This is, that I would not
+want anyone to break the law and
+
+881
+01:03:02,820 --> 01:03:07,380
+get in trouble doing something
+like this. There are people who
+
+882
+01:03:07,440 --> 01:03:11,280
+want to work with Ayahuasca, and
+they will go to Peru or to
+
+883
+01:03:11,280 --> 01:03:16,500
+Brazil to work with in Ayahuasca
+communities and sante Daime or
+
+884
+01:03:16,500 --> 01:03:21,320
+union de vegetal, there are
+Ayahuasca communities in the
+
+885
+01:03:21,320 --> 01:03:27,260
+United States now which have won
+the right to use Ayahuasca in
+
+886
+01:03:27,260 --> 01:03:30,560
+spiritual context. They've won
+the right from the Supreme Court
+
+887
+01:03:31,100 --> 01:03:35,780
+to do this. They are not
+plentiful, but they are here
+
+888
+01:03:37,220 --> 01:03:42,880
+among the psychedelics. Ketamine
+is the only one that's legal
+
+889
+01:03:42,880 --> 01:03:49,120
+right now. The MDMA, which is an
+empathogen, more than a strict
+
+890
+01:03:49,120 --> 01:03:53,140
+psychedelic, but it's important
+therapeutic instrument, got
+
+891
+01:03:53,140 --> 01:03:58,600
+turned down just last year, but
+it'll be here. It'll be coming
+
+892
+01:03:58,600 --> 01:04:02,280
+back. It will be made legal,
+probably within three years,
+
+893
+01:04:02,640 --> 01:04:09,180
+Psilocybin won't be far behind.
+So what's legal now and what's
+
+894
+01:04:09,180 --> 01:04:12,540
+legal in 10 years will be very
+different even five years. So
+
+895
+01:04:12,660 --> 01:04:15,540
+the number of psychedelics that
+one might be able to use is
+
+896
+01:04:15,660 --> 01:04:20,540
+increasing in the years to come.
+How do you know whether what
+
+897
+01:04:20,540 --> 01:04:24,080
+you've gotten is pure, and
+that's really an important
+
+898
+01:04:24,080 --> 01:04:28,280
+issue, because you do not want
+street drugs are filled with all
+
+899
+01:04:28,280 --> 01:04:31,100
+sorts of contaminants that you
+do not want to put into your
+
+900
+01:04:31,100 --> 01:04:36,260
+system. And you can send these
+to labs sponsored by the federal
+
+901
+01:04:36,260 --> 01:04:40,400
+government. You can send them
+anonymously to be tested, and
+
+902
+01:04:40,400 --> 01:04:44,500
+you'll be told what's in them.
+And so you can check and verify
+
+903
+01:04:44,500 --> 01:04:47,560
+at the state level or the
+federal level what it is that
+
+904
+01:04:47,560 --> 01:04:52,240
+you've got here, what you're
+taking and how strong it is. So
+
+905
+01:04:53,920 --> 01:04:55,000
+yeah, and
+
+906
+01:04:55,000 --> 01:04:57,760
+Emmy Vadnais: as far as
+procuring it, no comment or
+
+907
+01:04:57,760 --> 01:05:01,260
+that's up to each person to you.
+Find a path themselves.
+
+908
+01:05:01,260 --> 01:05:06,780
+Chris Bache: Maybe, yeah, no
+comment, because there you can
+
+909
+01:05:06,780 --> 01:05:09,960
+grow mushrooms. You can learn
+how to grow mushrooms. I mean,
+
+910
+01:05:09,960 --> 01:05:15,900
+you can create your own
+Psilocybin mushrooms. And there
+
+911
+01:05:15,900 --> 01:05:19,380
+is, of course, a clear
+underground throughout the
+
+912
+01:05:19,380 --> 01:05:24,680
+country, which some of them is
+some of many, much of it is very
+
+913
+01:05:24,680 --> 01:05:28,280
+irresponsible in terms of
+impurities, and some of the
+
+914
+01:05:28,340 --> 01:05:34,460
+people are very conscientious
+about this. But still, you have
+
+915
+01:05:34,460 --> 01:05:38,780
+to proceed with caution and
+always test what you have. Yeah,
+
+916
+01:05:38,780 --> 01:05:39,020
+great.
+
+917
+01:05:41,900 --> 01:05:47,200
+Emmy Vadnais: Here's a question
+from first Deacon Gemini. They
+
+918
+01:05:47,200 --> 01:05:49,900
+ask, what is the difference
+between ego death and
+
+919
+01:05:49,900 --> 01:05:55,060
+disassociation or de realization
+both entail detachment and
+
+920
+01:05:55,060 --> 01:05:58,420
+depending on the person, it can
+feel good, bad or neutral?
+
+921
+01:05:59,080 --> 01:06:03,780
+Chris Bache: Yeah. Well, I'm not
+a psychologist, so take what I
+
+922
+01:06:03,780 --> 01:06:08,940
+say, de realization with a grain
+of salt here. I understand that
+
+923
+01:06:08,940 --> 01:06:14,520
+to be a psychological experience
+or condition in which you feel
+
+924
+01:06:14,520 --> 01:06:21,260
+yourself to be dissolving or not
+grounded in your real or
+
+925
+01:06:21,260 --> 01:06:27,320
+conventional identity, and it is
+some it's often associated with
+
+926
+01:06:27,320 --> 01:06:30,980
+various forms of
+psychopathology, because if it
+
+927
+01:06:30,980 --> 01:06:35,420
+becomes endemic, it undermines
+your capacity to function as a
+
+928
+01:06:35,420 --> 01:06:40,660
+strong individual within the
+World. Ego Death is sort of
+
+929
+01:06:40,660 --> 01:06:47,980
+similar to that, but different.
+It's sometimes said you have to
+
+930
+01:06:47,980 --> 01:06:52,300
+have a strong ego for to go
+through ego death to have a good
+
+931
+01:06:52,300 --> 01:07:02,940
+ego death. Ego Death is
+basically, let me back up, if
+
+932
+01:07:02,940 --> 01:07:06,840
+you are grounded in the way most
+people are, in our bodily
+
+933
+01:07:06,840 --> 01:07:09,420
+consciousness, and a
+consciousness which basically
+
+934
+01:07:09,420 --> 01:07:14,520
+reflects the history of this
+body in this time reality, if
+
+935
+01:07:14,520 --> 01:07:20,300
+you begin to open up into deeper
+spiritual realities, then sooner
+
+936
+01:07:20,300 --> 01:07:25,160
+or later, you have to let go of
+your egoic identity, your body
+
+937
+01:07:25,160 --> 01:07:29,120
+mind identity, to begin to have
+access to these deeper, broader
+
+938
+01:07:29,120 --> 01:07:34,340
+states where the ego doesn't
+have a function. In mystical
+
+939
+01:07:34,340 --> 01:07:37,700
+traditions, in classic
+contemplative traditions, the
+
+940
+01:07:37,700 --> 01:07:41,560
+death of self is well known and
+recognized. It's usually
+
+941
+01:07:42,160 --> 01:07:47,200
+achieved through a lifestyle of
+compassion, lifestyle of
+
+942
+01:07:47,200 --> 01:07:52,480
+service, a lifestyle of
+generosity, prayer, practicing,
+
+943
+01:07:53,620 --> 01:07:57,280
+spiritual practice,
+contemplative practice. It's a
+
+944
+01:07:57,280 --> 01:08:01,620
+slow, gradual softening of the
+heart and then opening up to
+
+945
+01:08:02,040 --> 01:08:07,020
+kind of an infusion of divine
+flux, which is always there.
+
+946
+01:08:07,020 --> 01:08:11,220
+It's always pressing it upon us.
+We just the ego keeps it out. So
+
+947
+01:08:11,220 --> 01:08:14,400
+if you kind of sacrifice the ego
+and take it apart through
+
+948
+01:08:14,640 --> 01:08:20,480
+generosity, selflessness, acts
+of prayer, you're making a
+
+949
+01:08:20,480 --> 01:08:24,740
+transition from a consciousness
+which is time, space, grounded,
+
+950
+01:08:24,740 --> 01:08:27,920
+bodily, grounded into a
+consciousness which is more
+
+951
+01:08:27,920 --> 01:08:32,000
+mystical, more open. What
+happens in a psychedelic session
+
+952
+01:08:32,060 --> 01:08:37,700
+is the same process, but it's
+accelerated and intensified. If
+
+953
+01:08:39,020 --> 01:08:41,380
+I'm thinking now, I'm a
+professor of religious studies,
+
+954
+01:08:41,380 --> 01:08:44,740
+so I've always held the
+spiritual traditions in the back
+
+955
+01:08:44,740 --> 01:08:49,000
+of my mind while I'm doing
+psychedelic work. And to me,
+
+956
+01:08:49,360 --> 01:08:53,800
+I've always approached
+psychedelic work as a spiritual
+
+957
+01:08:53,800 --> 01:08:57,220
+practice, even though the goal
+of my work was kind of
+
+958
+01:08:57,220 --> 01:09:01,200
+different. It wasn't awakening
+so much as it was cosmological
+
+959
+01:09:01,200 --> 01:09:04,920
+exploration, but basically
+taking the lessons that we've
+
+960
+01:09:04,920 --> 01:09:09,360
+learned about how to become a
+more spiritually attuned person
+
+961
+01:09:09,540 --> 01:09:12,900
+from the spiritual traditions,
+and taking that into the
+
+962
+01:09:12,900 --> 01:09:17,160
+psychedelic context. And in the
+psychedelic context where you
+
+963
+01:09:17,160 --> 01:09:21,860
+are very powerfully activating
+deeper levels of awareness,
+
+964
+01:09:21,860 --> 01:09:26,420
+which open up the floodgates, in
+a way, to this deeper spiritual
+
+965
+01:09:26,420 --> 01:09:34,160
+reality. You reach a point where
+the ego is put under pressure
+
+966
+01:09:34,340 --> 01:09:39,980
+and it just it just ruptures.
+You can't contain consciousness
+
+967
+01:09:39,980 --> 01:09:43,660
+within the structure of your
+ego. And when you get a lot of
+
+968
+01:09:43,660 --> 01:09:48,520
+people, a lot of psychologists,
+a lot of exercise, a lot of ink
+
+969
+01:09:48,520 --> 01:09:52,000
+and sweat over the complexity
+and strength and durability of
+
+970
+01:09:52,000 --> 01:09:55,420
+the ego, but from a spiritual
+perspective, when you get right
+
+971
+01:09:55,420 --> 01:09:59,740
+down to it, it's not that hard
+to take it apart. You really
+
+972
+01:09:59,740 --> 01:10:04,140
+can. Just break it apart, and
+when I went through my major ego
+
+973
+01:10:04,140 --> 01:10:08,400
+death experience, the universe
+just snapped me like a twig. It
+
+974
+01:10:09,240 --> 01:10:12,720
+didn't involve de realization,
+but it involved a frightening
+
+975
+01:10:12,720 --> 01:10:18,120
+confrontation, because I was
+turned into something which was
+
+976
+01:10:18,120 --> 01:10:21,620
+the exact opposite of everything
+I had always known myself to be.
+
+977
+01:10:22,580 --> 01:10:27,260
+I had always known myself to be
+a man, to be an intellectual, to
+
+978
+01:10:27,260 --> 01:10:31,160
+be white, to be passionately
+concerned with the meaning of
+
+979
+01:10:31,160 --> 01:10:34,820
+existence. In this critical
+session, I was turned into the
+
+980
+01:10:34,820 --> 01:10:38,060
+opposite of this. I was turned
+into women. I was turned into
+
+981
+01:10:38,060 --> 01:10:42,280
+women of color, women who had no
+philosophical expectations or
+
+982
+01:10:42,340 --> 01:10:46,900
+interests at all, and it was the
+perfect health for male academic
+
+983
+01:10:46,960 --> 01:10:52,000
+philosopher. It scared the
+bajibas out of me. And then when
+
+984
+01:10:52,000 --> 01:10:58,960
+I let go and I allowed myself to
+become these women, then first,
+
+985
+01:10:58,960 --> 01:11:03,120
+I was immediately relaxed, and I
+was taken under the arm of the
+
+986
+01:11:03,120 --> 01:11:07,860
+Great Mother and taken into an
+extraordinary journey into the
+
+987
+01:11:07,860 --> 01:11:12,420
+lives of women, into hundreds
+and hundreds of women. And then
+
+988
+01:11:12,420 --> 01:11:15,480
+after the session was over, as I
+was coming back, my male
+
+989
+01:11:15,480 --> 01:11:19,800
+identity reasserted itself, and
+because I like being a man, but
+
+990
+01:11:20,160 --> 01:11:24,860
+I knew that my masculinity and
+my whiteness and my intellectual
+
+991
+01:11:25,040 --> 01:11:29,480
+would never confine me the way
+it had confined me before. The
+
+992
+01:11:29,720 --> 01:11:34,040
+problem wasn't of women, of
+course, or the anti the non
+
+993
+01:11:34,040 --> 01:11:40,300
+intellectual issues. The problem
+was the tight fit that my social
+
+994
+01:11:40,300 --> 01:11:43,300
+identity had on my
+consciousness, and that had to
+
+995
+01:11:43,300 --> 01:11:46,660
+be broken. It was as if the
+universe was saying to me,
+
+996
+01:11:47,320 --> 01:11:51,520
+listen, where you're going.
+Gender does not exist. Let go.
+
+997
+01:11:52,540 --> 01:11:55,720
+And that's when I let go, and I
+went into states of
+
+998
+01:11:55,720 --> 01:11:58,540
+consciousness that don't
+differentiate between male and
+
+999
+01:11:58,540 --> 01:12:01,500
+female, and then eventually
+going into states of
+
+1000
+01:12:01,500 --> 01:12:04,140
+consciousness which don't
+differentiate between human and
+
+1001
+01:12:04,140 --> 01:12:07,500
+non human, right? And then going
+into states of consciousness
+
+1002
+01:12:07,500 --> 01:12:12,960
+which go beyond space and time
+entirely. So ego death is just
+
+1003
+01:12:12,960 --> 01:12:17,760
+that, that kind of rupture which
+can be slow or fast, depending
+
+1004
+01:12:17,760 --> 01:12:24,800
+on what method you're using to
+let go of your preoccupation
+
+1005
+01:12:24,800 --> 01:12:27,740
+with self, you know. The
+Tibetans call it self clinging,
+
+1006
+01:12:28,400 --> 01:12:30,860
+you know. And we can see self
+clinging when you look at a
+
+1007
+01:12:30,860 --> 01:12:35,360
+picture, the group picture, like
+a class picture, and where does
+
+1008
+01:12:35,360 --> 01:12:39,140
+your eye go? Your eye kind of
+goes quick to where you are in
+
+1009
+01:12:39,140 --> 01:12:43,000
+the picture. That's a symptom of
+self clinging. It's that
+
+1010
+01:12:43,000 --> 01:12:47,980
+constant self referencing into
+your own life experience, which
+
+1011
+01:12:47,980 --> 01:12:52,240
+is understandable from one
+perspective, but so sad from
+
+1012
+01:12:52,240 --> 01:12:58,780
+another perspective, right? So
+it's like if, if you take it, if
+
+1013
+01:12:58,780 --> 01:13:02,340
+you think of the ego like an ice
+cube, and you put an ice cube
+
+1014
+01:13:02,340 --> 01:13:07,140
+next to a candle, it melts very
+slowly, it drips and melts down.
+
+1015
+01:13:07,140 --> 01:13:10,020
+And I think this is like what
+happens in contemplative
+
+1016
+01:13:10,020 --> 01:13:14,040
+practice, where you melt this
+ego slowly. But if you take the
+
+1017
+01:13:14,040 --> 01:13:17,520
+same ice cube and you throw it
+on a hot iron, cast iron
+
+1018
+01:13:17,520 --> 01:13:21,560
+skillet, it jumps around and it
+melts faster, but it explodes
+
+1019
+01:13:21,560 --> 01:13:25,160
+and bounces all over the place,
+and I think that's kind of like
+
+1020
+01:13:25,160 --> 01:13:29,960
+how Ego Death manifests itself
+in psychedelic sessions. So
+
+1021
+01:13:30,020 --> 01:13:34,220
+there's not a right way or a
+wrong way, but the pattern is
+
+1022
+01:13:34,220 --> 01:13:40,960
+that we'd have to let go of the
+confines of these bars that keep
+
+1023
+01:13:40,960 --> 01:13:44,560
+us imprisoned in our self
+referential existence.
+
+1024
+01:13:47,440 --> 01:13:52,060
+Emmy Vadnais: And do you feel
+that the ego serves any purpose,
+
+1025
+01:13:52,120 --> 01:13:56,380
+since we all seem to have it, or
+is it just something to be
+
+1026
+01:13:57,280 --> 01:14:01,440
+dissolved or eliminated or
+accepted and then transformed,
+
+1027
+01:14:01,440 --> 01:14:03,300
+or however, Yeah, that happens.
+
+1028
+01:14:03,299 --> 01:14:06,719
+Chris Bache: No, I think ego
+gets a bad rap in many spiritual
+
+1029
+01:14:06,959 --> 01:14:11,159
+traditions. And I think the ego,
+and by that, I mean our
+
+1030
+01:14:11,159 --> 01:14:16,319
+individual identity, our
+individual body, mind identity.
+
+1031
+01:14:17,339 --> 01:14:21,139
+It's a beautiful thing. It's
+really It's magnificent. And I
+
+1032
+01:14:21,139 --> 01:14:24,319
+think it's a cosmologically
+important thing. I think it's
+
+1033
+01:14:24,319 --> 01:14:28,219
+one of the major gifts that we
+are given by entering into time
+
+1034
+01:14:28,219 --> 01:14:33,379
+space. Now, a number of
+spiritual traditions, again, in
+
+1035
+01:14:33,379 --> 01:14:36,979
+the kind of the classic schools,
+they say, well, the goal is to
+
+1036
+01:14:37,639 --> 01:14:41,439
+destroy ego, lose ego, and to
+return to God. So it's like a
+
+1037
+01:14:41,439 --> 01:14:44,859
+drop of water that returns to
+the ocean. When the drop goes
+
+1038
+01:14:44,859 --> 01:14:49,059
+back to the ocean, it doesn't
+exist anymore. And that's the
+
+1039
+01:14:49,059 --> 01:14:53,799
+Vedanta picture, is you
+basically eliminate ego so that
+
+1040
+01:14:53,799 --> 01:14:57,279
+you can live the life divine,
+but you just live the life
+
+1041
+01:14:57,279 --> 01:15:00,479
+divine, no longer as an
+individual. You just. Surrender
+
+1042
+01:15:00,479 --> 01:15:04,559
+completely and become the
+divine. And I don't think that's
+
+1043
+01:15:04,559 --> 01:15:11,999
+an adequate cosmology. I think
+that, I think that the creative
+
+1044
+01:15:11,999 --> 01:15:16,019
+intelligence has created a
+system which, first of all, we
+
+1045
+01:15:16,079 --> 01:15:21,259
+have a life as individual, as an
+individual, and we we explore
+
+1046
+01:15:21,259 --> 01:15:25,219
+and deepen and expand this
+individual experience lifetime
+
+1047
+01:15:25,219 --> 01:15:29,239
+after lifetime after lifetime.
+And the goal is not to
+
+1048
+01:15:29,839 --> 01:15:34,819
+completely abandon our
+individuality, but the goal is
+
+1049
+01:15:34,879 --> 01:15:42,579
+to is to engage what is left out
+of the individual ego's
+
+1050
+01:15:42,579 --> 01:15:46,299
+experience to engage the
+tremendous power of
+
+1051
+01:15:46,299 --> 01:15:49,119
+consciousness, the love that
+runs through existence, the
+
+1052
+01:15:49,119 --> 01:15:52,899
+intelligence that runs through
+existence, so that you are both
+
+1053
+01:15:52,899 --> 01:15:57,699
+an individual, but you are all
+now transparent to The Divine
+
+1054
+01:15:57,699 --> 01:16:03,119
+condition. I don't think
+individuality is destroyed when
+
+1055
+01:16:03,119 --> 01:16:07,319
+you go deeper and deeper. I
+think it's actually transformed.
+
+1056
+01:16:07,799 --> 01:16:11,339
+And I think individuality is
+truly one of the great gifts of
+
+1057
+01:16:11,339 --> 01:16:14,579
+the mother. It's one of the
+great gifts of time, space,
+
+1058
+01:16:14,579 --> 01:16:19,979
+existence. And I think if you
+study the biographies of the
+
+1059
+01:16:19,979 --> 01:16:23,479
+autobiographies are biographies
+of great spiritual adepts, of
+
+1060
+01:16:23,479 --> 01:16:26,239
+great masters. You find that
+they are individual. You know
+
+1061
+01:16:26,239 --> 01:16:29,359
+they're they're quite
+distinctive individual. So
+
+1062
+01:16:29,599 --> 01:16:35,359
+enlightenment is about anata, no
+self, but it doesn't mean that
+
+1063
+01:16:35,419 --> 01:16:39,199
+your individuality is shattered
+irrevocably and doesn't come
+
+1064
+01:16:39,199 --> 01:16:42,459
+back. If that's happening, then
+that's a kind of a form of
+
+1065
+01:16:42,459 --> 01:16:47,019
+psychopathology, even spiritual
+pathology. I think healthy
+
+1066
+01:16:47,019 --> 01:16:51,519
+spiritual maturity is you have
+individual experience. You have
+
+1067
+01:16:51,519 --> 01:16:55,299
+your individual reference point,
+but you're not imprisoned within
+
+1068
+01:16:55,299 --> 01:16:58,719
+that reference point. You build
+bridges, you you connect and
+
+1069
+01:16:58,719 --> 01:17:03,479
+receive this. You you you care
+about more than just yourself,
+
+1070
+01:17:03,479 --> 01:17:06,119
+you care about more than just
+your species. You care about
+
+1071
+01:17:06,119 --> 01:17:10,319
+more than just your generation,
+and you live large. You're an
+
+1072
+01:17:10,319 --> 01:17:13,379
+individual, but you're living a
+much larger life.
+
+1073
+01:17:13,920 --> 01:17:15,660
+Emmy Vadnais: Yeah, you know,
+you recognize the
+
+1074
+01:17:15,660 --> 01:17:20,040
+interconnectedness, and perhaps
+can merge with that, and that
+
+1075
+01:17:20,040 --> 01:17:23,960
+really seems to be a definition
+of yoga is union with the
+
+1076
+01:17:23,960 --> 01:17:24,980
+divine, perhaps,
+
+1077
+01:17:24,980 --> 01:17:28,400
+Chris Bache: yes, yeah, union
+with the Divine and not
+
+1078
+01:17:28,400 --> 01:17:32,900
+dissolving irrevocably so that
+you don't have an individual
+
+1079
+01:17:32,900 --> 01:17:34,640
+awareness or individuality.
+
+1080
+01:17:34,820 --> 01:17:39,140
+Emmy Vadnais: Yeah. Thank you
+for all of these answers. Chris
+
+1081
+01:17:39,140 --> 01:17:41,680
+and we just want to let our
+viewers and listeners know that
+
+1082
+01:17:41,680 --> 01:17:46,840
+we are over 60 minutes in. We've
+got about 25 minutes left of the
+
+1083
+01:17:46,840 --> 01:17:47,680
+live stream.
+
+1084
+01:17:49,420 --> 01:17:51,700
+Jeffrey Mishlove: Here's a
+question from a viewer whose
+
+1085
+01:17:51,700 --> 01:17:57,880
+YouTube name is Fabius, who
+says, How can we reconcile the
+
+1086
+01:17:57,880 --> 01:18:04,440
+ideal of transforming Earth into
+a paradise with the spiritual
+
+1087
+01:18:04,440 --> 01:18:08,400
+necessity of contrast and
+suffering as essential
+
+1088
+01:18:08,400 --> 01:18:12,900
+conditions for learning and
+growth in the human experience.
+
+1089
+01:18:13,380 --> 01:18:16,140
+Chris Bache: Great question,
+good question. Now that the
+
+1090
+01:18:16,140 --> 01:18:20,100
+question of suffering is a
+profound question, and that we
+
+1091
+01:18:20,100 --> 01:18:24,020
+could take the whole program
+just to explore that particular
+
+1092
+01:18:24,020 --> 01:18:28,640
+topic. I mean, if there is, if
+the creative intelligence is an
+
+1093
+01:18:28,640 --> 01:18:32,600
+intelligence and it's loving,
+how could we, how could it
+
+1094
+01:18:32,600 --> 01:18:36,500
+possibly have tolerated, let
+alone manifested, a world which
+
+1095
+01:18:36,500 --> 01:18:41,140
+is so painful, which which is,
+which terrible things happen at
+
+1096
+01:18:41,140 --> 01:18:47,920
+a very organic level, let alone
+a social level. And I think in
+
+1097
+01:18:47,920 --> 01:18:52,240
+order, in order to really
+understand and to even have an
+
+1098
+01:18:52,300 --> 01:18:58,540
+attempt to comprehend suffering,
+we have to develop a very long
+
+1099
+01:18:58,540 --> 01:19:03,300
+time horizon. We have to look
+deep into the workings of the
+
+1100
+01:19:03,300 --> 01:19:08,400
+universe, and we have to sort of
+adopt a galactic perspective.
+
+1101
+01:19:09,180 --> 01:19:13,860
+And I think this is important to
+understand that the human
+
+1102
+01:19:13,860 --> 01:19:18,480
+species is a radically
+unfinished species. It's a very
+
+1103
+01:19:18,480 --> 01:19:22,640
+incomplete species. And so if
+you think of all, how young are
+
+1104
+01:19:22,640 --> 01:19:29,660
+we? I mean, are we kind of like
+one to 100 are we 95% finished?
+
+1105
+01:19:30,080 --> 01:19:34,220
+Are we 5% finished? You know?
+And I think we're maybe more
+
+1106
+01:19:34,220 --> 01:19:38,900
+like five or 10% finished. We
+just woke up. I mean, 5000 4000
+
+1107
+01:19:39,380 --> 01:19:42,160
+years ago, we just woke up to
+this underlying level of
+
+1108
+01:19:42,160 --> 01:19:44,980
+consciousness that we've begun
+to recognize in the true
+
+1109
+01:19:44,980 --> 01:19:49,180
+religious traditions. This
+universe has been building this
+
+1110
+01:19:49,180 --> 01:19:54,160
+world for 3.7 billion years, and
+we're just waking up in this
+
+1111
+01:19:54,160 --> 01:19:58,360
+universe and just coming to
+understand and to engage in it
+
+1112
+01:19:58,360 --> 01:20:01,980
+consciously, rather than un.
+Unconsciously, and the
+
+1113
+01:20:01,980 --> 01:20:06,720
+capacities that we see in the
+highest, most spiritually
+
+1114
+01:20:06,720 --> 01:20:11,700
+realized individuals, the
+capacity of not only compassion,
+
+1115
+01:20:11,940 --> 01:20:16,200
+but the capacity to have control
+over their own physical process,
+
+1116
+01:20:16,440 --> 01:20:21,140
+and even the capacity to have to
+change matter around them to
+
+1117
+01:20:21,140 --> 01:20:24,140
+manipulate matter, as some of
+the great mahasiddhas have the
+
+1118
+01:20:24,140 --> 01:20:29,000
+capacity to do. We see in those
+beings, the symptoms or the
+
+1119
+01:20:29,000 --> 01:20:34,340
+qualities that are emerging are
+emergent qualities in spirit in
+
+1120
+01:20:34,340 --> 01:20:38,960
+beings who are integrating more
+and more spiritual capacity
+
+1121
+01:20:38,960 --> 01:20:43,480
+inside this physical body. So if
+we look to the future and we
+
+1122
+01:20:43,600 --> 01:20:48,280
+ask, what is what are we
+becoming? What is the project?
+
+1123
+01:20:48,460 --> 01:20:52,060
+The project is not human beings
+as they exist in the 21st
+
+1124
+01:20:52,300 --> 01:20:55,600
+Century. The project is how
+human beings will exist in the
+
+1125
+01:20:55,600 --> 01:21:01,740
+23rd 25th 3/30, century, 40th
+century. And in that context,
+
+1126
+01:21:03,540 --> 01:21:12,480
+suffering? Yeah, I don't want
+to. I don't want to. A lot of
+
+1127
+01:21:12,480 --> 01:21:14,820
+people who are listening, who
+are watching, have suffered
+
+1128
+01:21:14,820 --> 01:21:18,600
+greatly in their life. We've all
+suffered, and some of us have
+
+1129
+01:21:18,600 --> 01:21:21,860
+suffered deeply and profoundly
+in our life, and I do not mean
+
+1130
+01:21:21,860 --> 01:21:25,460
+to make light of that in any
+way, in anything that I would
+
+1131
+01:21:25,460 --> 01:21:31,460
+say, but suffering is part of
+the crucible within which we are
+
+1132
+01:21:31,460 --> 01:21:37,700
+learning and on this planet. And
+suffering has individual roots,
+
+1133
+01:21:37,700 --> 01:21:41,800
+sometimes in our individual
+karma. Of the past, bad choices
+
+1134
+01:21:41,800 --> 01:21:45,940
+we've made. But suffering also
+has collective roots. Sometimes
+
+1135
+01:21:45,940 --> 01:21:49,420
+the suffering that we engage in
+this life is not because of
+
+1136
+01:21:49,420 --> 01:21:52,660
+anything that we've done
+personally, but it's because of
+
+1137
+01:21:52,660 --> 01:21:55,900
+where the collective is, where
+the herd is. It's a suffering
+
+1138
+01:21:55,900 --> 01:21:59,740
+which is generated by a common
+denominator of the of the
+
+1139
+01:21:59,740 --> 01:22:06,540
+learning of the human species.
+We are just in the early stages
+
+1140
+01:22:06,540 --> 01:22:12,060
+of really understanding the full
+power of our nature, of our true
+
+1141
+01:22:12,060 --> 01:22:17,400
+and essential nature. And the
+goal of this access to this deep
+
+1142
+01:22:17,400 --> 01:22:21,920
+nature is not simply to be happy
+and to be relaxed and to be
+
+1143
+01:22:21,920 --> 01:22:27,200
+comfortable, but it's literally
+to transform our experience of
+
+1144
+01:22:27,200 --> 01:22:32,060
+being an incarnation of
+spiritual being, so that the
+
+1145
+01:22:32,060 --> 01:22:36,920
+goal is to increasingly change
+the conditions of our life, so
+
+1146
+01:22:36,920 --> 01:22:42,880
+that we are literally living not
+only a spiritually relaxed and
+
+1147
+01:22:42,880 --> 01:22:48,280
+comfortable and good existence,
+but that we are able we are
+
+1148
+01:22:48,280 --> 01:22:51,220
+gradually changing the
+conditions of our physical
+
+1149
+01:22:51,220 --> 01:22:57,220
+existence. I think they'll in
+the future, we will see we will
+
+1150
+01:22:57,220 --> 01:23:01,680
+have more control over our
+body's diseases and more ability
+
+1151
+01:23:01,680 --> 01:23:05,460
+to intervene in the diseases of
+the body and to produce a
+
+1152
+01:23:05,460 --> 01:23:09,840
+healthier and healthier body. I
+think we'll be seeing all sorts
+
+1153
+01:23:09,840 --> 01:23:13,620
+of traits that we consider
+miraculous becoming increasingly
+
+1154
+01:23:13,620 --> 01:23:19,560
+natural and manifest. And I
+think when we come to this
+
+1155
+01:23:19,560 --> 01:23:22,400
+pivot, when we go through the
+pivot that I think we're coming
+
+1156
+01:23:22,400 --> 01:23:25,760
+into. You know, I have a chapter
+in the book on the birth of the
+
+1157
+01:23:25,760 --> 01:23:29,900
+future human I think we have
+entered a really critical pivot
+
+1158
+01:23:29,900 --> 01:23:34,460
+point in the human story. We are
+being taken into the next level
+
+1159
+01:23:35,060 --> 01:23:41,620
+of our human evolution. I think
+we will see a significant
+
+1160
+01:23:41,620 --> 01:23:46,540
+amelioration of our collective
+suffering. As we make this
+
+1161
+01:23:46,540 --> 01:23:52,060
+transition, I think we are going
+towards a period where
+
+1162
+01:23:52,060 --> 01:23:58,540
+individually and collectively, a
+world of less suffering, a world
+
+1163
+01:23:58,540 --> 01:24:03,420
+of greater joy, a world of
+greater spiritual empowerment
+
+1164
+01:24:04,260 --> 01:24:08,580
+and physical ease as we go
+forward and as we go through
+
+1165
+01:24:08,580 --> 01:24:12,780
+this transition, this is just
+the next iteration of an
+
+1166
+01:24:12,780 --> 01:24:16,380
+evolutionary story which has
+been going on for hundreds,
+
+1167
+01:24:16,380 --> 01:24:19,920
+millions of years, millions of
+years, and will continue to go
+
+1168
+01:24:19,920 --> 01:24:24,380
+on for millions, billions of
+years, four. So in order to
+
+1169
+01:24:24,380 --> 01:24:28,400
+understand why we suffer, we
+have to, if we really want to
+
+1170
+01:24:28,400 --> 01:24:32,180
+understand, we have to go very,
+very deep. We have to go deep
+
+1171
+01:24:32,180 --> 01:24:35,780
+into the divine intention. We
+have to go deep and open up a
+
+1172
+01:24:35,780 --> 01:24:39,200
+very, very large vision of
+history, even if we're going to
+
+1173
+01:24:39,200 --> 01:24:43,780
+begin to have a chance of
+understanding why existence is
+
+1174
+01:24:43,780 --> 01:24:44,260
+so hard.
+
+1175
+01:24:44,260 --> 01:24:49,900
+Jeffrey Mishlove: Well, if I
+could follow up with a related
+
+1176
+01:24:50,020 --> 01:24:54,520
+question, the previous question
+was sort of the paradox of the
+
+1177
+01:24:54,520 --> 01:24:59,920
+necessity of suffering and as
+compared to the goal of a.
+
+1178
+01:25:00,000 --> 01:25:05,220
+Establishing more of a paradise
+on earth. Another paradox, to me
+
+1179
+01:25:05,340 --> 01:25:09,780
+seems to be the idea that you've
+expressed, that consciousness is
+
+1180
+01:25:09,780 --> 01:25:15,120
+fundamental, it's primary, it's
+it's the foundation of all
+
+1181
+01:25:15,960 --> 01:25:22,040
+existence, yeah, and yet it's
+through a chemical substance
+
+1182
+01:25:22,040 --> 01:25:26,120
+that you got there, which would
+lead a lot of materialists to
+
+1183
+01:25:26,120 --> 01:25:31,760
+say, see, it's consciousness is
+nothing more than a product of
+
+1184
+01:25:31,940 --> 01:25:33,740
+chemistry. Yeah.
+
+1185
+01:25:34,460 --> 01:25:36,620
+Chris Bache: And the same thing
+happens if you just sit on a
+
+1186
+01:25:36,620 --> 01:25:40,460
+meditation cushion for long
+periods of time and become an
+
+1187
+01:25:40,460 --> 01:25:45,340
+increasingly proficient, and in
+that form, we can now monitor
+
+1188
+01:25:45,340 --> 01:25:47,920
+the brain wave patterns, and we
+can even explore the
+
+1189
+01:25:47,920 --> 01:25:50,860
+biochemistry of meditative
+states of consciousness. And we
+
+1190
+01:25:50,920 --> 01:25:54,340
+can say the same thing. See,
+it's biochemistry and
+
+1191
+01:25:54,340 --> 01:25:58,000
+electrical, you know, wave forms
+in the brain which are actually
+
+1192
+01:25:58,000 --> 01:26:03,180
+inducing this. But that really
+kind of doesn't really solve the
+
+1193
+01:26:03,180 --> 01:26:08,520
+problem, does it? Because it
+that that is the application of
+
+1194
+01:26:08,520 --> 01:26:12,300
+a particular metaphysical
+worldview of materialism. And
+
+1195
+01:26:12,300 --> 01:26:16,560
+there, if we want to probe that
+worldview, we can find lots of
+
+1196
+01:26:16,560 --> 01:26:19,680
+counter evidence that will
+demonstrate that that's an
+
+1197
+01:26:19,680 --> 01:26:23,360
+inadequate worldview. It was an
+adequate worldview in the 18th,
+
+1198
+01:26:23,360 --> 01:26:27,320
+19th century, when we got into
+it. But it's not an adequate
+
+1199
+01:26:27,320 --> 01:26:30,620
+worldview to handle the wide
+range of experiences that occur
+
+1200
+01:26:30,620 --> 01:26:33,800
+in lots of different contexts.
+Parapsychological research,
+
+1201
+01:26:33,920 --> 01:26:36,620
+psychedelic research, different
+you know, near death, Episode
+
+1202
+01:26:36,620 --> 01:26:40,460
+research, reincarnation
+research, all of that undermine
+
+1203
+01:26:40,880 --> 01:26:45,100
+if you're really paying
+attention the the plausibility
+
+1204
+01:26:45,340 --> 01:26:48,940
+of the Metaphysic of the
+metaphysics of materialism. So
+
+1205
+01:26:48,940 --> 01:26:53,260
+but it is an ironic thing that
+we have this chemical substance
+
+1206
+01:26:53,500 --> 01:26:58,840
+which interacts with our body in
+a way that seems to open us to
+
+1207
+01:26:58,840 --> 01:27:04,140
+it opens the floodgates of our
+Well, see, I tend to think of
+
+1208
+01:27:04,140 --> 01:27:08,280
+the mind as kind of more like a
+transceiver. It is a gate
+
+1209
+01:27:08,340 --> 01:27:14,040
+controller, and so it changes
+the gate structure. It kind of
+
+1210
+01:27:14,100 --> 01:27:19,500
+puts our default mode network
+and allow into quiescence, and
+
+1211
+01:27:19,500 --> 01:27:23,300
+it allows us to temporarily have
+states of awareness that go
+
+1212
+01:27:23,300 --> 01:27:32,480
+beyond the default mode network.
+But it we that kind of mechanism
+
+1213
+01:27:33,020 --> 01:27:36,860
+is subject to different
+interpretations, if we apply a
+
+1214
+01:27:36,860 --> 01:27:43,540
+materialist interpretation, or
+if we bring to it a non
+
+1215
+01:27:43,540 --> 01:27:47,800
+materialist, spiritual
+perspective in which we can
+
+1216
+01:27:47,800 --> 01:27:51,280
+understand human existence. The
+way I understand the human being
+
+1217
+01:27:51,280 --> 01:27:54,340
+is that we are living at a
+synthesis. We are a synthesis of
+
+1218
+01:27:54,340 --> 01:27:58,960
+two different systems to be very
+simply, between a spiritual
+
+1219
+01:27:58,960 --> 01:28:03,960
+reality and a physical reality.
+They are always intertwined. We
+
+1220
+01:28:04,200 --> 01:28:08,640
+are. We are living them
+continuously. If we survive the
+
+1221
+01:28:08,640 --> 01:28:11,700
+destruction of our body, it's
+not because of something that
+
+1222
+01:28:11,700 --> 01:28:14,760
+happens to us when we die. It's
+because of something that we
+
+1223
+01:28:14,820 --> 01:28:19,440
+already are. We already are
+living with one foot in two
+
+1224
+01:28:19,440 --> 01:28:23,780
+worlds, and we know that if we
+shift the balance, we can open
+
+1225
+01:28:23,780 --> 01:28:27,560
+ourselves to that spiritual
+dimension without leaving our
+
+1226
+01:28:27,560 --> 01:28:31,580
+physical body. And we can do it
+through any number of different
+
+1227
+01:28:31,580 --> 01:28:35,540
+contemplative practices and
+yogic practices. We can also do
+
+1228
+01:28:35,540 --> 01:28:41,500
+it using Soma, using some of the
+ancient sacred medicines in the
+
+1229
+01:28:41,500 --> 01:28:45,340
+tradition that doesn't prove
+materialism, it just proves,
+
+1230
+01:28:45,400 --> 01:28:49,360
+again, if we start with a model
+that we are a synthesis of two
+
+1231
+01:28:49,360 --> 01:28:53,860
+metaphysical systems, then we
+can explain all the phenomena
+
+1232
+01:28:54,400 --> 01:28:57,820
+and more of the phenomena than
+materialism can explain.
+
+1233
+01:28:58,720 --> 01:29:03,540
+Emmy Vadnais: Yeah, here's a
+question from my husband,
+
+1234
+01:29:03,540 --> 01:29:08,160
+Xander, and as humans, we have a
+sensory system and a motor
+
+1235
+01:29:08,160 --> 01:29:10,560
+system through which you
+mentioned it with the brain,
+
+1236
+01:29:10,560 --> 01:29:13,560
+that's the central nervous
+system, and some refer to that
+
+1237
+01:29:13,560 --> 01:29:17,280
+as being a filter of
+consciousness. And he asks, If
+
+1238
+01:29:17,280 --> 01:29:21,680
+you had synesthetic experiences,
+what sense our senses were most
+
+1239
+01:29:21,680 --> 01:29:26,960
+active, so synesthesia, where
+maybe you like hear smells, or,
+
+1240
+01:29:27,260 --> 01:29:29,240
+yeah, based vision, or
+
+1241
+01:29:30,920 --> 01:29:33,140
+Chris Bache: no, I'm not in a
+good position to answer that
+
+1242
+01:29:33,140 --> 01:29:38,300
+question. I'm afraid Xander, I
+just because those kind of
+
+1243
+01:29:38,300 --> 01:29:42,580
+experiences are not, are not, do
+not figure largely in my
+
+1244
+01:29:42,580 --> 01:29:45,640
+experience. So I haven't thought
+about them a lot. I haven't
+
+1245
+01:29:45,640 --> 01:29:51,940
+studied them very much. I don't
+when I've taken psychedelics, I
+
+1246
+01:29:51,940 --> 01:29:55,240
+don't hallucinate on them. I
+mean, I'm always wrapped up with
+
+1247
+01:29:55,240 --> 01:29:58,480
+eye shades and whatnot. But even
+when I've taken the eye shades
+
+1248
+01:29:58,480 --> 01:30:03,000
+off, I don't. Have visual
+distortions in my world around
+
+1249
+01:30:03,000 --> 01:30:07,140
+me. If I had stayed in touch
+with physical reality, I'm sure
+
+1250
+01:30:07,140 --> 01:30:09,840
+I would have, and then I might
+have had some of the experiences
+
+1251
+01:30:09,840 --> 01:30:14,760
+you're referring to. But if you
+internalize your experience
+
+1252
+01:30:14,760 --> 01:30:20,660
+completely, you engage conscious
+reality, and then you're on a
+
+1253
+01:30:20,660 --> 01:30:25,400
+conscious experience. And I see
+many things, and I experience
+
+1254
+01:30:25,400 --> 01:30:29,120
+many things, but I don't
+experience them as kind of a
+
+1255
+01:30:29,420 --> 01:30:34,580
+permutation or distortion of my
+physical sensation. It's kind of
+
+1256
+01:30:34,580 --> 01:30:39,620
+like I just let go of physical
+sensation and I just plunge into
+
+1257
+01:30:39,740 --> 01:30:45,460
+the conscious, the tunnel of
+consciousness, and go there. Now
+
+1258
+01:30:45,460 --> 01:30:48,760
+I'm sure there's a good answer
+to your question, and I'm sure
+
+1259
+01:30:48,760 --> 01:30:52,600
+people, maybe even people on
+this podcast right now, who
+
+1260
+01:30:52,600 --> 01:30:55,600
+would be able to give you a good
+answer to that question. I'm
+
+1261
+01:30:55,600 --> 01:30:57,100
+just afraid I'm not one of them.
+
+1262
+01:30:57,519 --> 01:31:00,359
+Emmy Vadnais: Well, I think he's
+had those experiences, and
+
+1263
+01:31:00,659 --> 01:31:03,899
+that's why he was curious if
+that's something you you had
+
+1264
+01:31:03,899 --> 01:31:05,159
+also experienced.
+
+1265
+01:31:05,160 --> 01:31:10,020
+Chris Bache: Yeah, yeah. The
+permeability between our senses
+
+1266
+01:31:10,080 --> 01:31:13,140
+shows up in several different
+contexts. I know it shows up in
+
+1267
+01:31:13,140 --> 01:31:19,200
+shamanic drumming, for example.
+The different fluidity there we
+
+1268
+01:31:19,200 --> 01:31:23,720
+are such a complex being this
+blending of spirit and matter,
+
+1269
+01:31:24,380 --> 01:31:27,800
+it shows up at very broad
+levels, and it shows up at very
+
+1270
+01:31:27,800 --> 01:31:29,720
+micro levels in our sensation.
+
+1271
+01:31:32,480 --> 01:31:35,240
+Jeffrey Mishlove: Here's a
+question from a viewer named
+
+1272
+01:31:35,240 --> 01:31:40,340
+Corey Burdick, who asks, what
+are some of the most powerful or
+
+1273
+01:31:40,340 --> 01:31:45,400
+inspiring examples of the
+emergence of the new human.
+
+1274
+01:31:52,120 --> 01:31:56,800
+Chris Bache: Well, I think when
+we see somebody who's willing to
+
+1275
+01:31:56,800 --> 01:32:01,440
+lay down his life for others,
+that's an extraordinary example
+
+1276
+01:32:01,680 --> 01:32:06,480
+when we see people who spend
+their entire life working to
+
+1277
+01:32:06,480 --> 01:32:11,820
+help other people, and they they
+they bypass putting their energy
+
+1278
+01:32:11,820 --> 01:32:15,600
+towards enhancing their life,
+and they invest all their energy
+
+1279
+01:32:15,780 --> 01:32:20,220
+in helping other people live a
+full, enriched life. Those are
+
+1280
+01:32:20,220 --> 01:32:24,500
+symptoms of the of the future
+human, the way I understand the
+
+1281
+01:32:24,500 --> 01:32:28,580
+future human, I'll step aside
+for just a second and come back
+
+1282
+01:32:28,580 --> 01:32:34,520
+to the focus. We've been
+incarnating for 1000s and 1000s,
+
+1283
+01:32:34,520 --> 01:32:39,140
+hundreds of 1000s of years.
+We've been incarnating and the
+
+1284
+01:32:39,140 --> 01:32:42,220
+pattern in our religious
+structures have sort of seen a
+
+1285
+01:32:42,220 --> 01:32:45,400
+linear development in our
+reincarnation. We go backwards,
+
+1286
+01:32:45,400 --> 01:32:49,360
+you go forward. But basically
+making a linear development, it
+
+1287
+01:32:49,480 --> 01:32:52,600
+in so that we become eventually
+more compassionate, more
+
+1288
+01:32:52,600 --> 01:32:57,940
+intelligent, more creative, so
+on so forth. But I think at
+
+1289
+01:32:57,940 --> 01:33:01,920
+least as it's as it's been shown
+to me, and as I've been taken
+
+1290
+01:33:01,920 --> 01:33:06,660
+into it, I think we are coming
+to a time of history in general,
+
+1291
+01:33:06,720 --> 01:33:12,420
+and people individually where,
+well, let me just say how it
+
+1292
+01:33:12,420 --> 01:33:15,360
+happened to me. I reached a
+point in one of my sessions when
+
+1293
+01:33:15,660 --> 01:33:19,800
+all of my former lives started
+coming into me, and I had done
+
+1294
+01:33:19,860 --> 01:33:22,760
+years of past life, therapy
+work, so I was familiar with
+
+1295
+01:33:22,760 --> 01:33:26,000
+some of my former lives, but
+they began to come into me. I
+
+1296
+01:33:26,000 --> 01:33:29,780
+could feel them entering me. And
+it was like wrapping a filament
+
+1297
+01:33:29,780 --> 01:33:35,060
+of white light around a kite
+spool. And after a certain
+
+1298
+01:33:35,360 --> 01:33:40,900
+period, they seemed to fuse. And
+when they fuse, there was a
+
+1299
+01:33:40,900 --> 01:33:45,580
+tremendous explosion of energy,
+and I was catapulted into a
+
+1300
+01:33:45,580 --> 01:33:50,680
+state of consciousness in which
+I was an individual, but I was
+
+1301
+01:33:50,680 --> 01:33:53,500
+an individual beyond any frame
+of reference that I had known
+
+1302
+01:33:53,500 --> 01:33:58,300
+before. And this is what I came
+to call the birth of the diamond
+
+1303
+01:33:58,300 --> 01:34:03,000
+soul, or the birth of the soul.
+And then I was given a series of
+
+1304
+01:34:03,000 --> 01:34:06,060
+teachings that was explaining
+what happened, what was
+
+1305
+01:34:06,060 --> 01:34:10,020
+happening. And I think I was
+being shown that this is what
+
+1306
+01:34:10,020 --> 01:34:14,160
+happens to a species that
+reincarnates. As we reincarnate,
+
+1307
+01:34:14,700 --> 01:34:19,020
+we come to a point where there's
+a long period of individual
+
+1308
+01:34:19,020 --> 01:34:21,980
+development, of linear
+development, but there comes a
+
+1309
+01:34:21,980 --> 01:34:25,880
+point where it's just natural
+that all of our former lives
+
+1310
+01:34:26,780 --> 01:34:32,420
+achieve a synthesis of the soul.
+Now this synthesis exists in
+
+1311
+01:34:32,420 --> 01:34:36,140
+spiritual reality. When we die,
+we return to soul consciousness.
+
+1312
+01:34:36,140 --> 01:34:39,020
+We return to the consciousness
+that holds all of our former
+
+1313
+01:34:39,020 --> 01:34:43,060
+lives. And then we incarnate, we
+get narrow, we die, we get
+
+1314
+01:34:43,060 --> 01:34:46,360
+large, we incarnate, we get
+lateral. And if we keep this up
+
+1315
+01:34:46,360 --> 01:34:50,620
+for a few 1000s of years, sooner
+or later, doesn't it make sense
+
+1316
+01:34:50,860 --> 01:34:55,300
+that the soul, the whole soul,
+the 100,000 year old being,
+
+1317
+01:34:55,660 --> 01:34:59,920
+incarnates in a physical
+incarnation, so that the kind.
+
+1318
+01:35:00,000 --> 01:35:04,440
+Consciousness that lives in that
+body is not a consciousness that
+
+1319
+01:35:04,440 --> 01:35:08,100
+ever is tempted to think of him
+or herself as 100 year old
+
+1320
+01:35:08,100 --> 01:35:14,040
+being, but it's it's natural
+consciousness as aware that is
+
+1321
+01:35:14,040 --> 01:35:17,940
+an ancient being, and it has
+ancient relationships with all
+
+1322
+01:35:17,940 --> 01:35:22,160
+these beings. It has been male,
+female, rich, poor, black,
+
+1323
+01:35:22,160 --> 01:35:25,520
+white, every possible
+permutation, all of those live
+
+1324
+01:35:25,520 --> 01:35:30,380
+within us, but when they achieve
+a synthesis, when they become
+
+1325
+01:35:30,440 --> 01:35:36,620
+one, then there is this
+explosion of identity. And I
+
+1326
+01:35:36,620 --> 01:35:39,320
+think that this is what is
+happening to the planet right
+
+1327
+01:35:39,320 --> 01:35:45,160
+now. We are undergoing a
+spiritual process, where we are
+
+1328
+01:35:45,160 --> 01:35:49,660
+transitioning from egoic
+identity to soul identity. We
+
+1329
+01:35:49,660 --> 01:35:54,880
+are growing up out of our
+childish, egoic past into a
+
+1330
+01:35:54,880 --> 01:36:03,840
+mature self where we are we are
+learning to we are basically
+
+1331
+01:36:03,840 --> 01:36:06,660
+becoming incarnate diamond
+souls. And I think we can see
+
+1332
+01:36:06,660 --> 01:36:10,380
+this in some of the great
+spiritual masters of history,
+
+1333
+01:36:10,560 --> 01:36:14,280
+that they are different from
+ordinary people and but the
+
+1334
+01:36:14,280 --> 01:36:18,600
+difference is that they are
+bigger, older, deeper. They are
+
+1335
+01:36:18,600 --> 01:36:22,340
+distillations of the soul. So
+what are the, what are the
+
+1336
+01:36:22,340 --> 01:36:26,360
+symptoms of, I think, the soul
+emerging in history. It doesn't
+
+1337
+01:36:26,360 --> 01:36:29,600
+happen like all at once, or
+something dramatic. It happens
+
+1338
+01:36:29,600 --> 01:36:32,180
+gradually and slowly in
+different all sorts of different
+
+1339
+01:36:32,180 --> 01:36:36,560
+ways. And so the symptoms are
+when you see people who take the
+
+1340
+01:36:36,560 --> 01:36:41,440
+long view, who really see the
+seven generations. Consider the
+
+1341
+01:36:41,440 --> 01:36:44,920
+seven generations of impact of
+one's actions when you have the
+
+1342
+01:36:44,920 --> 01:36:48,640
+wide view, when they are
+naturally their compassion
+
+1343
+01:36:48,640 --> 01:36:52,840
+expands, extends to whole
+classes of people. When we see
+
+1344
+01:36:52,840 --> 01:36:55,540
+the Gandhi's of the world, or
+the Martin Luther Kings of the
+
+1345
+01:36:55,540 --> 01:36:58,780
+world, people who live their
+lives in service of other
+
+1346
+01:36:58,780 --> 01:37:02,640
+people, trying to lift other
+people, help other people along.
+
+1347
+01:37:02,940 --> 01:37:07,680
+You see it in the in the music
+teacher who's teaching fifth
+
+1348
+01:37:07,680 --> 01:37:12,240
+graders, year after year after
+year, sharing his or her musical
+
+1349
+01:37:12,240 --> 01:37:15,360
+knowledge to give that musical
+knowledge to others so that they
+
+1350
+01:37:15,360 --> 01:37:19,140
+can reach their life and go
+forward. So I think we see the
+
+1351
+01:37:19,140 --> 01:37:25,400
+symptoms of an older soul or the
+new human, when we see symptoms
+
+1352
+01:37:25,400 --> 01:37:29,840
+of great compassion, great
+vision, great service,
+
+1353
+01:37:30,020 --> 01:37:35,000
+selflessness and we can see, we
+can recognize those around us
+
+1354
+01:37:35,060 --> 01:37:37,880
+without necessarily
+understanding what we are, what
+
+1355
+01:37:37,880 --> 01:37:44,140
+We were seeing, what we're
+seeing is the soul emerging in
+
+1356
+01:37:44,140 --> 01:37:47,980
+that in that life form, in that
+life being, and I think that we
+
+1357
+01:37:47,980 --> 01:37:52,180
+are coming to a time in history
+where we have to grow up into
+
+1358
+01:37:52,180 --> 01:37:56,260
+the soul's consciousness, and
+just there's a synergistic
+
+1359
+01:37:56,260 --> 01:38:00,040
+relationship as the world is
+trying to become one To solve
+
+1360
+01:38:00,040 --> 01:38:03,900
+the problems which has generated
+the soul is trying to become
+
+1361
+01:38:04,020 --> 01:38:08,280
+one, and because we have the
+history of the world inside our
+
+1362
+01:38:08,280 --> 01:38:13,320
+soul as the World Challenge
+basically deals with all the
+
+1363
+01:38:13,320 --> 01:38:17,340
+ways it's divided life into bits
+and pieces and preferring some
+
+1364
+01:38:17,340 --> 01:38:21,140
+people and discouraging other
+people, we have all these
+
+1365
+01:38:21,140 --> 01:38:24,920
+tensions inside of us, and so
+that there's a synergistic
+
+1366
+01:38:24,920 --> 01:38:28,640
+relationship between us trying
+to become one and whole within
+
+1367
+01:38:28,640 --> 01:38:32,780
+ourselves and the world trying
+to become one and whole. And I
+
+1368
+01:38:32,780 --> 01:38:36,500
+think we are being guided into
+the transformation, which will
+
+1369
+01:38:36,500 --> 01:38:39,920
+not be easy. I think it's going
+to be very painful where we're
+
+1370
+01:38:39,920 --> 01:38:44,680
+going, but we are coming into
+labor. We've been gestating the
+
+1371
+01:38:44,680 --> 01:38:48,760
+future human for hundreds of
+1000s of years. Gestation is
+
+1372
+01:38:48,760 --> 01:38:52,780
+long, labor is short. And I
+think we're coming into labor.
+
+1373
+01:38:52,840 --> 01:38:58,780
+We have to deliver the soul into
+history. We have to grow up. And
+
+1374
+01:38:58,780 --> 01:39:02,580
+I think we will. I mean, I think
+we will make this transition. A
+
+1375
+01:39:02,580 --> 01:39:06,240
+lot of serious people think that
+we won't, that it's we're in a
+
+1376
+01:39:06,480 --> 01:39:09,780
+we are an extinct species. We're
+just living on borrowed time.
+
+1377
+01:39:10,380 --> 01:39:13,920
+But my experience is that we do
+make this transition, we will
+
+1378
+01:39:13,920 --> 01:39:18,060
+make it. It will be very
+painful, but we will give birth
+
+1379
+01:39:18,480 --> 01:39:23,660
+to the soul in history. I Well,
+
+1380
+01:39:23,660 --> 01:39:26,300
+Jeffrey Mishlove: that's
+beautifully put, and it's
+
+1381
+01:39:26,300 --> 01:39:32,660
+probably a good note to close
+our live stream on Chris, it's
+
+1382
+01:39:32,660 --> 01:39:36,740
+been a real joy to be with you.
+Emmy. Do you have any concluding
+
+1383
+01:39:36,740 --> 01:39:37,520
+thoughts?
+
+1384
+01:39:39,800 --> 01:39:44,140
+Emmy Vadnais: I just want to say
+thank you for the hope and
+
+1385
+01:39:44,140 --> 01:39:48,760
+inspiration, and it sounds like
+you possibly were given
+
+1386
+01:39:48,760 --> 01:39:53,440
+precognitive information in your
+LSD sessions, and that you have
+
+1387
+01:39:53,440 --> 01:39:55,840
+some type of wisdom or
+knowledge, not only for
+
+1388
+01:39:55,840 --> 01:39:58,780
+yourself, but also for the
+collective and because you're
+
+1389
+01:39:58,780 --> 01:40:00,840
+right, there are a lot of
+people. Who feel like we might
+
+1390
+01:40:00,840 --> 01:40:04,380
+be devolving and things are
+going really south. I'm not
+
+1391
+01:40:05,100 --> 01:40:09,600
+thrilled to hear about the pain
+coming up, but hopefully we can
+
+1392
+01:40:09,720 --> 01:40:12,840
+take some of these spiritual
+practices and maybe ameliorate
+
+1393
+01:40:13,080 --> 01:40:14,100
+some of that.
+
+1394
+01:40:15,300 --> 01:40:17,700
+Chris Bache: I think we can. I
+think we can either go through
+
+1395
+01:40:17,700 --> 01:40:20,840
+this kicking and screaming and
+hurting a lot, or we can go
+
+1396
+01:40:20,840 --> 01:40:26,300
+through it being more proactive,
+with more foresight, and in a
+
+1397
+01:40:26,300 --> 01:40:30,200
+cooperative relationship with
+what's coming. And what I've
+
+1398
+01:40:30,200 --> 01:40:34,460
+been describing is nothing
+unique to me. It's these ideas
+
+1399
+01:40:34,520 --> 01:40:38,540
+about the transition comes up in
+indigenous peoples tradition. It
+
+1400
+01:40:38,540 --> 01:40:43,300
+comes up in the lives of mystics
+and meditators. So, you know, it
+
+1401
+01:40:43,300 --> 01:40:47,740
+comes up in those who work in
+deep Jungian, you know, type of
+
+1402
+01:40:47,740 --> 01:40:52,180
+psychotherapy, there's nothing
+unique to my perception. There's
+
+1403
+01:40:52,180 --> 01:40:54,760
+nothing really unique to
+psychedelics about it. It's just
+
+1404
+01:40:55,300 --> 01:40:59,680
+that I think there are
+precognitive aspects to this
+
+1405
+01:40:59,680 --> 01:41:02,820
+type of work, which is when you
+let go of your personal
+
+1406
+01:41:02,820 --> 01:41:07,200
+identity, you open to the life
+of your species. And just as you
+
+1407
+01:41:07,200 --> 01:41:10,740
+can have insights into your
+personal trajectory, you can
+
+1408
+01:41:10,740 --> 01:41:15,060
+also have true insights into
+this trajectory of your species.
+
+1409
+01:41:15,060 --> 01:41:18,900
+It's just a very natural thing.
+And many people have had these
+
+1410
+01:41:18,900 --> 01:41:22,940
+insights. Many people see we're
+coming into and I think we will
+
+1411
+01:41:22,940 --> 01:41:26,960
+make it. I think my concern is
+how many of our children will
+
+1412
+01:41:26,960 --> 01:41:30,440
+die before we make it well.
+
+1413
+01:41:30,440 --> 01:41:33,620
+Emmy Vadnais: And it's nice to
+hear more people such as
+
+1414
+01:41:33,620 --> 01:41:38,780
+yourself bring these insights.
+So the more spiritually evolved
+
+1415
+01:41:38,780 --> 01:41:43,240
+people we have it sounds like
+the better, which is perhaps one
+
+1416
+01:41:43,240 --> 01:41:46,060
+of the main reasons we continue
+to do these programs on new
+
+1417
+01:41:46,060 --> 01:41:46,900
+thinking allowed.
+
+1418
+01:41:47,620 --> 01:41:49,960
+Chris Bache: I think there are
+many Bodhisattvas in the world,
+
+1419
+01:41:50,020 --> 01:41:53,740
+including the people behind this
+program, working on behalf of
+
+1420
+01:41:53,740 --> 01:41:56,440
+the good of the whole that's the
+essence of the Bodhisattva. And
+
+1421
+01:41:56,560 --> 01:41:58,360
+there are many with us now
+today.
+
+1422
+01:42:00,940 --> 01:42:04,020
+Jeffrey Mishlove: Well, once
+again, Chris, thank you so much
+
+1423
+01:42:04,020 --> 01:42:07,560
+for being with Emmy and I and
+with the new thinking allowed
+
+1424
+01:42:07,800 --> 01:42:12,900
+audience today and Emmy, thank
+you once again for the wonderful
+
+1425
+01:42:12,900 --> 01:42:18,240
+job you do as co host on new
+thinking allowed. I'd like to
+
+1426
+01:42:18,240 --> 01:42:24,020
+remind our viewers that you can
+subscribe for free to our weekly
+
+1427
+01:42:24,020 --> 01:42:29,240
+newsletter you can download for
+free the first eight issues of
+
+1428
+01:42:29,480 --> 01:42:35,300
+the new thinking allowed
+magazine, and we hope that you
+
+1429
+01:42:35,300 --> 01:42:40,480
+continue to enjoy the videos
+that We post daily on the new
+
+1430
+01:42:40,480 --> 01:42:41,920
+thinking allowed channel,
+
+1431
+01:42:43,240 --> 01:42:45,100
+Emmy Vadnais: thank you so much
+for being with us. Chris,
+
+1432
+01:42:45,160 --> 01:42:47,260
+Chris Bache: no, thank both of
+you for this wonderful
+
+1433
+01:42:47,260 --> 01:42:50,560
+conversation. I enjoyed it very
+much. Thank you for your work,
+
+1434
+01:42:51,280 --> 01:42:53,680
+Emmy Vadnais: our pleasure, and
+for those of you watching or
+
+1435
+01:42:53,680 --> 01:42:57,160
+listening, thank you for being
+with us because you are the
+
+1436
+01:42:57,160 --> 01:42:58,720
+reason that we are here. You.
+
