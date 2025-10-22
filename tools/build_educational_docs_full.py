@@ -6,6 +6,10 @@ Full-mode builder (verbatim book excerpts + ALL transcript excerpts).
 Improved: derives [hh:mm:ss] from ts_url when the API doesn't provide start_hhmmss,
 and prints the timecode in both the link and the citation line.
 
+Additionally:
+- Normalizes book citation labels so "LSDMU ..." becomes
+  "LSD and the Mind of the Universe ..." in the rendered pages.
+
 Usage:
   python3 tools/build_educational_docs_full.py            # build all topics
   python3 tools/build_educational_docs_full.py --qid astrology
@@ -80,23 +84,18 @@ def extract_time_from_url(url: str | None) -> str | None:
     try:
         parsed = urllib.parse.urlparse(url)
         qs = urllib.parse.parse_qs(parsed.query)
-        # Look for typical params
-        # e.g., ?t=123, &t=1h2m3s, &start=45
         candidates = []
         if "t" in qs and qs["t"]:
             candidates.append(qs["t"][0])
         if "start" in qs and qs["start"]:
             candidates.append(qs["start"][0])
         if not candidates and parsed.fragment:
-            # sometimes #t=123 or #t=1h2m3s
             frag = parsed.fragment
             if frag.startswith("t="):
                 candidates.append(frag[2:])
         for tok in candidates:
-            # numeric seconds?
             if tok.isdigit():
                 return _seconds_to_hhmmss(int(tok))
-            # hms?
             secs = _parse_hms_token(tok)
             if secs is not None:
                 return _seconds_to_hhmmss(secs)
@@ -110,6 +109,21 @@ def best_timecode(chunk: dict) -> str | None:
     if hms: return hms
     url = chunk.get("ts_url") or chunk.get("url")
     return extract_time_from_url(url)
+
+# ---------- label normalization ----------
+
+_LSDMU_RE = re.compile(r'^\s*LSDMU\b')
+
+def normalize_citation_label(label: str | None) -> str:
+    """
+    Expand leading 'LSDMU' to the full book title, preserving any chapter/section pointers.
+    Examples:
+      'LSDMU ch.10 §3 ¶14' -> 'LSD and the Mind of the Universe ch.10 §3 ¶14'
+      'LSDMU Appendix I §1 ¶21' -> 'LSD and the Mind of the Universe Appendix I §1 ¶21'
+    """
+    if not label:
+        return ""
+    return _LSDMU_RE.sub("LSD and the Mind of the Universe", label).strip()
 
 # ---------- LLM preface (optional) ----------
 
@@ -179,7 +193,8 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
         book_lines.append("_(No book excerpts present in sources.json.)_")
     else:
         for c in book_chunks:
-            label = c.get("citation") or c.get("archival_title") or "Book excerpt"
+            raw_label = c.get("citation") or c.get("archival_title") or "Book excerpt"
+            label = normalize_citation_label(raw_label)
             ch = c.get("chapter_code"); sec = c.get("section_code")
             ptr = []
             if ch: ptr.append(ch)
@@ -205,18 +220,17 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
             text = esc(c.get("text","")).strip()
             hms = best_timecode(c)
             ts = c.get("ts_url") or c.get("url") or ""
-            title = c.get("archival_title") or "Untitled"
+            ttitle = c.get("archival_title") or "Untitled"
             date = c.get("recorded_date") or ""
-            # Construct the bracket link (prefer hh:mm:ss)
             if hms and ts:
                 link = f"[{hms}]({ts})"
-                cite_suffix = f" — *{title}* ({date}) • {hms}"
+                cite_suffix = f" — *{ttitle}* ({date}) • {hms}"
             elif ts:
                 link = f"[link]({ts})"
-                cite_suffix = f" — *{title}* ({date}) • no timecode"
+                cite_suffix = f" — *{ttitle}* ({date}) • no timecode"
             else:
                 link = ""
-                cite_suffix = f" — *{title}* ({date}) • no link"
+                cite_suffix = f" — *{ttitle}* ({date}) • no link"
             header = f"{link} {cite_suffix}".strip()
             talk_lines.append(f"\n> {text}\n\n{header}")
 
