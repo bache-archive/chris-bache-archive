@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is a scholar and practitioner known for his exploration of consciousness, spirituality, and the integration of psychedelic experiences with Vajrayana Buddhist practices. His work emphasizes the importance of foundational practices, such as Chöd, in navigating the complexities of altered states of awareness. Bache's contributions to the field highlight the interplay between traditional spiritual methodologies and contemporary experiences of consciousness.
+> Christopher M. Bache is a scholar and practitioner known for his exploration of the intersections between consciousness, spirituality, and transformative practices. His work often integrates insights from Vajrayana Buddhism, particularly the Chöd practice, which aims to cut through ego and remove obstacles on the spiritual path. Bache's research delves into the effects of altered states of consciousness, including those induced by psychedelics, and their implications for personal and collective evolution. This page provides an overview of his contributions to the field of consciousness studies and spiritual practice.
 
 ## Primary citations (book — verbatim excerpts)
 
@@ -233,3 +233,9 @@ Another session, which I titled "Jesus' Blood," was an overwhelming experience o
 ## Provenance
 Built from `sources.json` (harvested 2025-10-22).
 Cite as: _Christopher M. Bache — Public Talks (2014–2025), retrieved via Bache Talks RAG v1.2-rc1._
+
+
+## Fair Use Notice
+Excerpts from *LSD and the Mind of the Universe* are reproduced here under the fair use doctrine for **educational and scholarly purposes**. 
+They are provided to support study, research, and public understanding of Christopher M. Bache’s work on consciousness and spiritual evolution. 
+All quotations remain the intellectual property of their respective copyright holders.

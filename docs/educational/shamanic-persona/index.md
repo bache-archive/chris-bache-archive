@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> This educational page explores the concept of the shamanic persona, a unique synthesis of experiences shaped by individual psychedelic histories. It examines how this persona evolves through various levels of consciousness, integrating knowledge and experiences from previous states. The discussion highlights the role of the shamanic persona in navigating transpersonal realities and its significance in both personal and collective healing processes.
+> This page explores the concept of the shamanic persona, a unique synthesis of experiences shaped by individual psychedelic journeys. It examines the emergence and evolution of this persona within the context of altered states of consciousness and its role in integrating transpersonal experiences. The discussion highlights the distinctions between various levels of shamanic experience and the implications for personal and collective consciousness.
 
 ## Primary citations (book — verbatim excerpts)
 
@@ -234,3 +234,9 @@ One way to describe this is that we’re engaged in the project of spiritualizin
 ## Provenance
 Built from `sources.json` (harvested 2025-10-22).
 Cite as: _Christopher M. Bache — Public Talks (2014–2025), retrieved via Bache Talks RAG v1.2-rc1._
+
+
+## Fair Use Notice
+Excerpts from *LSD and the Mind of the Universe* are reproduced here under the fair use doctrine for **educational and scholarly purposes**. 
+They are provided to support study, research, and public understanding of Christopher M. Bache’s work on consciousness and spiritual evolution. 
+All quotations remain the intellectual property of their respective copyright holders.

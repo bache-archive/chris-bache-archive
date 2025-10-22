@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> This educational page explores the integration of Vajrayana Buddhism with contemporary psychedelic practices, highlighting the unique interplay between traditional spiritual frameworks and modern experiential insights. It examines how Vajrayana's rich tapestry of rituals, meditative techniques, and philosophical concepts can enhance and inform altered states of consciousness. The discussion emphasizes the significance of these practices in fostering deeper awareness and understanding of the mind's nature, as well as their potential for personal transformation.
+> This educational page explores the integration of Vajrayana Buddhism with contemporary practices, particularly in the context of psychedelic experiences. It examines how Vajrayana's unique blend of meditation, ritual, and devotion can enhance spiritual journeys and personal transformation. The discussion highlights the interplay between traditional Buddhist teachings and modern explorations of consciousness, providing insights into the evolving landscape of spiritual practice.
 
 ## Primary citations (book — verbatim excerpts)
 
@@ -221,3 +221,9 @@ Over five years and 26 sessions, I was taken into this reality only four times. 
 ## Provenance
 Built from `sources.json` (harvested 2025-10-22).
 Cite as: _Christopher M. Bache — Public Talks (2014–2025), retrieved via Bache Talks RAG v1.2-rc1._
+
+
+## Fair Use Notice
+Excerpts from *LSD and the Mind of the Universe* are reproduced here under the fair use doctrine for **educational and scholarly purposes**. 
+They are provided to support study, research, and public understanding of Christopher M. Bache’s work on consciousness and spiritual evolution. 
+All quotations remain the intellectual property of their respective copyright holders.

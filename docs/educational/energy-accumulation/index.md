@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> This educational page explores the concept of energy accumulation as articulated by Christopher M. Bache. It examines the ways in which individual and collective experiences can lead to the storage and buildup of energetic momentum across multiple sessions or interactions. The implications of this accumulation for personal growth, spiritual development, and collective consciousness are also discussed, highlighting the dynamic interplay between energy and awareness.
+> This educational page explores the concept of energy accumulation as articulated by Christopher M. Bache. It examines how repeated experiences, particularly in altered states of consciousness, can lead to the storage and buildup of energetic momentum within individuals. The implications of this phenomenon for personal growth, spiritual development, and collective awareness are also considered, highlighting the interconnectedness of individual and collective energetic experiences.
 
 ## Primary citations (book — verbatim excerpts)
 
@@ -224,3 +224,9 @@ You’ve also spoken about speed. We see it in natural systems—like water boil
 ## Provenance
 Built from `sources.json` (harvested 2025-10-22).
 Cite as: _Christopher M. Bache — Public Talks (2014–2025), retrieved via Bache Talks RAG v1.2-rc1._
+
+
+## Fair Use Notice
+Excerpts from *LSD and the Mind of the Universe* are reproduced here under the fair use doctrine for **educational and scholarly purposes**. 
+They are provided to support study, research, and public understanding of Christopher M. Bache’s work on consciousness and spiritual evolution. 
+All quotations remain the intellectual property of their respective copyright holders.

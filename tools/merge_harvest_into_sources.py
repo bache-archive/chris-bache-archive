@@ -3,11 +3,12 @@
 """
 Merge harvested quote packs into docs/educational/*/sources.json.
 
-Compatible with BOTH layouts:
-  reports/quote_packs/<DATE>/<qid>/talks.search.json
-  reports/quote_packs/<qid>/talks.search.json
+Supports BOTH layouts:
+  reports/quote_packs/<DATE>/<qid>/{talks.search.json,book.search.json}
+  reports/quote_packs/<qid>/{talks.search.json,book.search.json}
 
-You can also point to a custom root:
+Usage:
+  python3 tools/merge_harvest_into_sources.py
   python3 tools/merge_harvest_into_sources.py --reports-root reports/quote_packs
 """
 
@@ -26,38 +27,32 @@ def parse_args():
     return ap.parse_args()
 
 def find_latest_root(base: Path) -> Path | None:
-    """If base has YYYY-MM-DD dirs, return newest; else return base."""
     if not base.exists():
         return None
     dated = [p for p in base.iterdir() if p.is_dir() and re.fullmatch(r"\d{4}-\d{2}-\d{2}", p.name)]
-    if dated:
-        return sorted(dated, reverse=True)[0]
-    return base
+    return (sorted(dated, reverse=True)[0] if dated else base)
 
-def find_pack_json(search_root: Path, qid: str) -> Path | None:
-    """
-    Look for talks.search.json under:
-      <search_root>/<qid>/talks.search.json
-    or any depth match: **/<qid>/talks.search.json
-    Also tolerates alt names: search.json
-    """
+def find_pack_json(search_root: Path, qid: str, kind: str) -> Path | None:
+    # kind in {"talks", "book"}
     candidates = [
-        search_root / qid / "talks.search.json",
-        search_root / qid / "search.json",
+        search_root / qid / f"{kind}.search.json",
+        search_root / qid / "search.json" if kind == "talks" else None,
     ]
     for c in candidates:
-        if c.exists():
+        if c and c.exists():
             return c
-    # last resort: glob
-    for c in search_root.rglob("talks.search.json"):
+    for c in search_root.rglob(f"{kind}.search.json"):
         if c.parent.name == qid:
             return c
-    for c in search_root.rglob("search.json"):
-        if c.parent.name == qid:
-            return c
+    if kind == "talks":
+        for c in search_root.rglob("search.json"):
+            if c.parent.name == qid:
+                return c
     return None
 
-def normalize_chunk(c: dict) -> dict:
+# -------- normalizers --------
+
+def norm_talk_chunk(c: dict) -> dict:
     out = {
         "text": (c.get("text") or "").strip(),
         "ts_url": c.get("ts_url") or c.get("url") or "",
@@ -71,53 +66,89 @@ def normalize_chunk(c: dict) -> dict:
             break
     return out
 
+def norm_book_chunk(c: dict) -> dict:
+    # Be tolerant of field names from the harvester
+    return {
+        "text": (c.get("text") or "").strip(),
+        "citation": (c.get("citation") or c.get("label") or "").strip(),
+        "chapter_code": c.get("chapter_code") or c.get("chapter") or "",
+        "section_code": c.get("section_code") or c.get("section") or "",
+        "archival_title": c.get("archival_title") or "",  # optional
+        "_score": c.get("_score"),
+    }
+
+def merge_chunks(existing: list[dict], new_items: list[dict], key_fields: tuple[str, ...]) -> int:
+    # Build a seen set based on key_fields tuple
+    def key_of(d: dict):
+        return tuple((d.get(k) or "").strip() for k in key_fields)
+    seen = {key_of(e) for e in existing}
+    added = 0
+    for it in new_items:
+        if not it: 
+            continue
+        if key_of(it) in seen:
+            continue
+        existing.append(it)
+        seen.add(key_of(it))
+        added += 1
+    return added
+
 def main():
     args = parse_args()
     reports_root = Path(args.reports_root)
     search_root = find_latest_root(reports_root)
     if not search_root:
         raise SystemExit(f"[error] missing reports root: {reports_root}")
-
     print(f"[info] using harvest root: {search_root}")
 
     merged = 0
+    total_added_book = 0
+    total_added_talks = 0
+
     for sj in sorted(DOCS.glob("*/sources.json")):
         qid = sj.parent.name
-        pack_json = find_pack_json(search_root, qid)
-        if not pack_json or not pack_json.exists():
-            print(f"[warn] no talks.search.json found for {qid} under {search_root}")
+
+        talks_json = find_pack_json(search_root, qid, "talks")
+        book_json  = find_pack_json(search_root, qid, "book")
+
+        if not talks_json and not book_json:
+            print(f"[warn] no quote packs found for {qid}")
             continue
 
         data = json.loads(sj.read_text(encoding="utf-8"))
+
+        # ensure structure
+        book = data.setdefault("book", {})
         talks = data.setdefault("talks", {})
-        existing = talks.setdefault("chunks", [])
+        book_chunks  = book.setdefault("chunks", [])
+        talk_chunks  = talks.setdefault("chunks", [])
 
-        seen = {(c.get("text","").strip(), c.get("ts_url") or c.get("url") or "") for c in existing}
+        added_book = 0
+        added_talks = 0
 
-        harvested = json.loads(pack_json.read_text(encoding="utf-8"))
-        chunks = harvested.get("chunks") if isinstance(harvested, dict) else harvested
-        if not chunks:
-            print(f"[warn] empty chunks in {pack_json}")
-            continue
+        if book_json and book_json.exists():
+            raw = json.loads(book_json.read_text(encoding="utf-8"))
+            chunks = raw.get("chunks") if isinstance(raw, dict) else raw
+            normed = [norm_book_chunk(c) for c in (chunks or []) if (c.get("text") or "").strip()]
+            added_book = merge_chunks(book_chunks, normed, ("text", "citation", "chapter_code", "section_code"))
 
-        added = 0
-        for c in chunks:
-            nc = normalize_chunk(c)
-            if not nc["text"]:
-                continue
-            key = (nc["text"], nc["ts_url"])
-            if key in seen:
-                continue
-            existing.append(nc)
-            seen.add(key)
-            added += 1
+        if talks_json and talks_json.exists():
+            raw = json.loads(talks_json.read_text(encoding="utf-8"))
+            chunks = raw.get("chunks") if isinstance(raw, dict) else raw
+            normed = [norm_talk_chunk(c) for c in (chunks or []) if (c.get("text") or "").strip()]
+            added_talks = merge_chunks(talk_chunks, normed, ("text", "ts_url"))
 
-        data.setdefault("meta", {})["date"] = datetime.today().date().isoformat()
-        sj.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
-        print(f"[ok] {qid}: +{added} chunks → {sj}")
-        merged += 1
+        if added_book or added_talks:
+            data.setdefault("meta", {})["date"] = datetime.today().date().isoformat()
+            sj.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
+            print(f"[ok] {qid}: +{added_book} book, +{added_talks} talks → {sj}")
+            merged += 1
+            total_added_book += added_book
+            total_added_talks += added_talks
+        else:
+            print(f"[=] {qid}: no new chunks")
 
-    print(f"\nMerged {merged} module(s).")
+    print(f"\nMerged {merged} module(s). Added {total_added_book} book and {total_added_talks} talk chunks total.")
 
 if __name__ == "__main__":
     main()

@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> This educational page explores the concepts of COEX systems and meta-COEX systems as introduced by Stanislav Grof. These frameworks describe how both personal and collective experiences are organized in the psyche, highlighting the emotional themes that connect various memories and traumas across different periods. The discussion aims to provide insights into the parallels between individual psychological processes and the collective unconscious, emphasizing the significance of these systems in understanding human experience and history.
+> This educational page explores the concepts of COEX systems and meta-COEX systems as introduced by Stanislav Grof, which pertain to the organization of memories and experiences within both the personal and collective psyche. These frameworks suggest that emotional themes can cluster across different periods of life, influencing individual and collective experiences. The implications of these ideas extend to understanding how unresolved traumas may persist within the collective memory of humanity.
 
 ## Primary citations (book — verbatim excerpts)
 
@@ -219,3 +219,9 @@ Personally: I was a brand-new professor, fresh out of graduate school, when I re
 ## Provenance
 Built from `sources.json` (harvested 2025-10-22).
 Cite as: _Christopher M. Bache — Public Talks (2014–2025), retrieved via Bache Talks RAG v1.2-rc1._
+
+
+## Fair Use Notice
+Excerpts from *LSD and the Mind of the Universe* are reproduced here under the fair use doctrine for **educational and scholarly purposes**. 
+They are provided to support study, research, and public understanding of Christopher M. Bache’s work on consciousness and spiritual evolution. 
+All quotations remain the intellectual property of their respective copyright holders.

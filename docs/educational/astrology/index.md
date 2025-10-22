@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is a prominent figure in the exploration of consciousness and the intersections of psychology, spirituality, and astrology. His work often examines the influence of cosmic rhythms on human experiences, particularly in altered states of consciousness. Bache's research integrates insights from various disciplines, including transpersonal psychology and astrological theory, to propose a deeper understanding of the connections between individual lives and broader cosmic patterns.
+> Christopher M. Bache is a scholar known for his interdisciplinary approach that integrates psychology, spirituality, and astrology. His work explores the connections between cosmic patterns and human experiences, particularly in the context of altered states of consciousness. Bache's research invites a deeper understanding of how celestial influences may shape individual and collective life experiences.
 
 ## Primary citations (book — verbatim excerpts)
 
@@ -208,3 +208,9 @@ Since all the intelligence, all the answers we could ever want, already exist in
 ## Provenance
 Built from `sources.json` (harvested 2025-10-22).
 Cite as: _Christopher M. Bache — Public Talks (2014–2025), retrieved via Bache Talks RAG v1.2-rc1._
+
+
+## Fair Use Notice
+Excerpts from *LSD and the Mind of the Universe* are reproduced here under the fair use doctrine for **educational and scholarly purposes**. 
+They are provided to support study, research, and public understanding of Christopher M. Bache’s work on consciousness and spiritual evolution. 
+All quotations remain the intellectual property of their respective copyright holders.
