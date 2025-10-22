@@ -6,6 +6,26 @@ Each entry summarizes what changed, when, and why.
 
 ---
 
+## v3.3.1 — 2025-10-22  
+**Sitemap Consolidation & Generator Update**
+
+This maintenance release unifies and modernizes the sitemap system used for GitHub Pages publishing.  
+It replaces multiple experimental sitemap variants with a single canonical `sitemap.xml`, ensuring valid XML, deterministic ordering, and compliance with sitemap protocol limits.
+
+### Key Changes
+- 🗺️ **Removed** `sitemap-index.xml` — now serving a single authoritative `sitemap.xml`.  
+- 🔧 **Updated** `tools/generate_sitemap.py`  
+  - Deterministic URL sorting and whitespace-safe `<loc>` output.  
+  - Adds `<lastmod>` and `<changefreq>` fields for educational and caption/transcript pages.  
+  - Skips archived or non-served paths to prevent 404s.  
+- 🧩 Added optional helper script `tools/build_site.py` for local HTML generation and validation.  
+- ✅ Regenerated `sitemap.xml` to reflect all current educational documents and caption/transcript HTML pages (2014–2025).  
+
+### Summary
+Streamlines site indexing for search engines and guarantees that only valid, publicly served resources are listed in the archive’s sitemap.
+
+---
+
 ## v3.3 — 2025-10-22  
 **Parquet Timecode Accuracy & Alignment Hardening**
 
