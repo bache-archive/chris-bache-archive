@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is a scholar known for his interdisciplinary approach that integrates psychology, spirituality, and astrology. His work explores the connections between cosmic rhythms and human experiences, particularly in altered states of consciousness. Bache's research often examines how astrological factors may influence personal and collective psychological processes, contributing to a broader understanding of the interplay between individual lives and universal patterns.
+> Christopher M. Bache is a prominent figure in the exploration of the intersections between consciousness, spirituality, and astrology. His work often examines the influence of cosmic rhythms on human experiences, particularly in altered states of consciousness. Bache's research integrates insights from various disciplines, including psychology and metaphysics, to investigate the potential correlations between astrological phenomena and personal development. This page provides an overview of his contributions and perspectives within these fields.
 
 ## Primary citations (book — verbatim excerpts)
 

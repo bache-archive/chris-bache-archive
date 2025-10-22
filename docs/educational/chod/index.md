@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is a notable figure in the exploration of consciousness, particularly through the lens of Vajrayana Buddhism and psychedelic experiences. His work integrates traditional spiritual practices, such as Chöd, with contemporary understandings of consciousness and energy systems. Bache's insights contribute to the dialogue on the intersection of spirituality, psychology, and transformative experiences. This page provides an overview of his contributions and the significance of his practices within the broader context of spiritual development.
+> Christopher M. Bache is a scholar and practitioner known for his exploration of the intersections between consciousness, spirituality, and transformative practices. His work often integrates insights from Vajrayana Buddhism, particularly the Chöd practice, which is aimed at overcoming obstacles and ego. Bache's research delves into the implications of altered states of consciousness, particularly in relation to psychedelic experiences and their integration into spiritual development. This page provides an overview of his contributions and perspectives within these fields.
 
 ## Primary citations (book — verbatim excerpts)
 
@@ -64,12 +64,6 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 >  preparing me for entry into this reality. I recalled the many rigidities and fixations in me that had been broken down on this journey and
 >  knew that there was no shortcutting the lengthy purification required for awakening.
 
-**LSDMU ch.8 §1 ¶4**
-
-> 1. Dying and Causal Oneness
-> 2. The Living Classroom
-> 3. The Birth of the Diamond Soul
-
 **LSDMU ch.4 §3 ¶1**
 
 > I entered the last two sessions of this series knowing that I was about to stop my work for an unknown period of time. In the sixteenth session, something unexpected happened. When everything disintegrated into its chaotic flow, the pain escalated into a frenzy so extreme that it morphed into an orgy of *bhaktian* rapture. Just as the suffering reached a fevered pitch, the thought of the Divine flashed in my mind and I surrendered completely. Caught in surging elemental forces, I became a devotee singing to the Divine in ecstatic trance. He was vast, and he played me like a trumpet. My consciousness was the instrument and my life the melody.
@@ -79,6 +73,12 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 > Light manifesting as Matter,
 > Dharmakaya manifesting as Nirmanakaya,
 > Heaven giving birth to Earth continuously.
+
+**LSDMU ch.8 §1 ¶4**
+
+> 1. Dying and Causal Oneness
+> 2. The Living Classroom
+> 3. The Birth of the Diamond Soul
 
 **LSDMU ch.7 §1 ¶4**
 

@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is a notable figure in the field of psychedelic therapy, particularly known for his exploration of high-dose LSD sessions. His work delves into the distinctions between low-dose and high-dose therapeutic modalities, emphasizing the profound psychological and spiritual experiences that can arise from such practices. Bache's extensive journey with psychedelics raises important questions about the nature of consciousness and the potential for transformative healing.
+> Christopher M. Bache is a prominent figure in the field of psychedelic therapy, known for his extensive work with high doses of LSD over two decades. His research explores the distinctions between low-dose and high-dose psychedelic experiences, emphasizing the profound effects of higher doses on consciousness and therapeutic outcomes. Bache's insights contribute to the ongoing discourse on the therapeutic potential of psychedelics and the complexities involved in their use.
 
 ## Primary citations (book — verbatim excerpts)
 
