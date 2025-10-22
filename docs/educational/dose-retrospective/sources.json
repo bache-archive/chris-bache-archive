@@ -544,7 +544,7 @@
         "section": 4,
         "paragraph": 1,
         "sentence": null,
-        "_score": 0.4400988519191742
+        "_score": 0.4401068687438965
       },
       {
         "id": "lsdmu.c01.s04.p05",
@@ -565,7 +565,7 @@
         "section": 4,
         "paragraph": 5,
         "sentence": null,
-        "_score": 0.41426634788513184
+        "_score": 0.4142798185348511
       },
       {
         "id": "lsdmu.c01.s05.p02",
@@ -586,7 +586,7 @@
         "section": 5,
         "paragraph": 2,
         "sentence": null,
-        "_score": 0.39409178495407104
+        "_score": 0.3941003680229187
       },
       {
         "id": "lsdmu.c01.s05.p01",
@@ -607,7 +607,7 @@
         "section": 5,
         "paragraph": 1,
         "sentence": null,
-        "_score": 0.37953341007232666
+        "_score": 0.3795396089553833
       },
       {
         "id": "lsdmu.c02.s01.p12",
@@ -628,7 +628,7 @@
         "section": 1,
         "paragraph": 12,
         "sentence": null,
-        "_score": 0.3621199131011963
+        "_score": 0.3621034622192383
       },
       {
         "id": "lsdmu.c08.s01.p45",
@@ -649,7 +649,7 @@
         "section": 1,
         "paragraph": 45,
         "sentence": null,
-        "_score": 0.31197965145111084
+        "_score": 0.3119553029537201
       },
       {
         "id": "lsdmu.c02.s00.p06",
@@ -670,7 +670,7 @@
         "section": 0,
         "paragraph": 6,
         "sentence": null,
-        "_score": 0.3111560642719269
+        "_score": 0.31117483973503113
       },
       {
         "id": "lsdmu.c01.s08.p02",
@@ -691,7 +691,7 @@
         "section": 8,
         "paragraph": 2,
         "sentence": null,
-        "_score": 0.3095649182796478
+        "_score": 0.3095494508743286
       },
       {
         "id": "lsdmu.c10.s00.p16",
@@ -712,7 +712,7 @@
         "section": 0,
         "paragraph": 16,
         "sentence": null,
-        "_score": 0.29449206590652466
+        "_score": 0.29446542263031006
       },
       {
         "id": "lsdmu.c11.s00.p03",
@@ -733,7 +733,7 @@
         "section": 0,
         "paragraph": 3,
         "sentence": null,
-        "_score": 0.29108208417892456
+        "_score": 0.29105639457702637
       },
       {
         "id": "lsdmu.c11.s02.p01",
@@ -754,7 +754,7 @@
         "section": 2,
         "paragraph": 1,
         "sentence": null,
-        "_score": 0.290230929851532
+        "_score": 0.29021334648132324
       },
       {
         "id": "lsdmu.c02.s02.p01",
@@ -775,7 +775,7 @@
         "section": 2,
         "paragraph": 1,
         "sentence": null,
-        "_score": 0.2834412753582001
+        "_score": 0.2834486663341522
       },
       {
         "id": "lsdmu.c01.s12.p13",
@@ -796,7 +796,7 @@
         "section": 12,
         "paragraph": 13,
         "sentence": null,
-        "_score": 0.27545687556266785
+        "_score": 0.27541035413742065
       },
       {
         "id": "lsdmu.c02.s02.p10",
@@ -817,7 +817,7 @@
         "section": 2,
         "paragraph": 10,
         "sentence": null,
-        "_score": 0.27516570687294006
+        "_score": 0.2751566767692566
       },
       {
         "id": "lsdmu.c06.s00.p108",
@@ -838,7 +838,7 @@
         "section": 0,
         "paragraph": 108,
         "sentence": null,
-        "_score": 0.2742435932159424
+        "_score": 0.2742476463317871
       },
       {
         "id": "lsdmu.c12.s01.p14",
@@ -859,7 +859,7 @@
         "section": 1,
         "paragraph": 14,
         "sentence": null,
-        "_score": 0.2737357020378113
+        "_score": 0.27372562885284424
       },
       {
         "id": "lsdmu.c06.s00.p69",
@@ -880,7 +880,7 @@
         "section": 0,
         "paragraph": 69,
         "sentence": null,
-        "_score": 0.2686013877391815
+        "_score": 0.26858267188072205
       },
       {
         "id": "lsdmu.c03.s00.p17",
@@ -901,7 +901,7 @@
         "section": 0,
         "paragraph": 17,
         "sentence": null,
-        "_score": 0.261252224445343
+        "_score": 0.2612460255622864
       },
       {
         "id": "lsdmu.c11.s02.p04",
@@ -922,7 +922,7 @@
         "section": 2,
         "paragraph": 4,
         "sentence": null,
-        "_score": 0.26107102632522583
+        "_score": 0.2610722780227661
       },
       {
         "id": "lsdmu.c04.s00.p07",
@@ -943,7 +943,7 @@
         "section": 0,
         "paragraph": 7,
         "sentence": null,
-        "_score": 0.2602870762348175
+        "_score": 0.26023539900779724
       }
     ]
   },

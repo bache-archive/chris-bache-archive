@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> This educational page explores the integration of Vajrayana Buddhism with contemporary practices, particularly in the context of psychedelic experiences. It examines how Vajrayana's unique blend of Indian Buddhist and indigenous Tibetan shamanic traditions can enhance spiritual development and awareness. The discussion highlights the transformative potential of these practices and their role in navigating complex states of consciousness.
+> This educational page explores the integration of Vajrayana Buddhism into contemporary spiritual practices, particularly in relation to psychedelic experiences. It examines how Vajrayana's unique blend of Indian Buddhist and shamanic traditions can enhance meditative and transformative states. The discussion highlights the significance of traditional practices in navigating altered states of consciousness and the challenges that may arise during such journeys.
 
 ## Primary citations (book — verbatim excerpts)
 
@@ -49,10 +49,6 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 
 > This chapter tells the story of what happened in these four sessions. It is the story of entering the Diamond Light and of the intense purification that took place as this Diamond Light began to work its way more deeply into my physical being. The first two of these sessions focused on entering the Diamond Luminosity at successively deeper levels, the second two on absorbing the Diamond Luminosity into my mind and body. Into this narrative, I will weave two other pieces. The first is a set of new insights into the psychedelic process that emerged at this time. The second is the story of how I came to integrate Vajrayana Buddhist practice into my psychedelic practice and why.
 
-**LSDMU ch.8 §0 ¶57**
-
-> In Hinduism, Saccidananda is the name given the experience of ultimate reality. The word is composed of three roots that communicate the essence of the experience: Sat-chit-ananda—infinite being, infinite awareness, and infinite bliss. In Buddhism, the Buddha Womb refers to the infinite source of all existence. As Anne Klein describes it in her book Meeting the Great Bliss Queen, the Buddha Womb is the infinite expanse from which all existence arises. She quotes the great eighth-century Tibetan sage Padmasambhava who said:
-
 **LSDMU ch.8 §0 ¶2**
 
 > This was Saccidananda,
@@ -62,6 +58,10 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 > the Buddha Womb.
 > 
 > —Session 40
+
+**LSDMU ch.8 §0 ¶57**
+
+> In Hinduism, Saccidananda is the name given the experience of ultimate reality. The word is composed of three roots that communicate the essence of the experience: Sat-chit-ananda—infinite being, infinite awareness, and infinite bliss. In Buddhism, the Buddha Womb refers to the infinite source of all existence. As Anne Klein describes it in her book Meeting the Great Bliss Queen, the Buddha Womb is the infinite expanse from which all existence arises. She quotes the great eighth-century Tibetan sage Padmasambhava who said:
 
 **LSDMU ch.10 §0 ¶11**
 

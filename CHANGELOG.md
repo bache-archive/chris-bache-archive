@@ -6,6 +6,31 @@ Each entry summarizes what changed, when, and why.
 
 ---
 
+## v3.3 — 2025-10-22  
+**Parquet Timecode Accuracy & Alignment Hardening**
+
+Follow-up to v3.2 focused on eliminating “tail jam” artifacts (chunks clustering at the video’s max timestamp) and removing any chance of serving cached/old metadata from the API.
+
+### Key Changes
+- **Alignment fixes**
+  - Forced re-align for stubborn talks (clear per-talk timecodes → re-run aligner).
+  - Added optional **tail-cluster guardrail** that clears large single-second clusters at `max(start_sec)` before a re-patch.
+  - Exposed **FULL_REFRESH** and PASS-C thresholds for deterministic re-alignment.
+- **API anti-cache guarantees**
+  - On startup, the RAG API now logs the **SHA256** of the active Parquet (`METADATA_PATH`) and row/timecode counts.
+  - Documented `X-API-Key` requirement to avoid 401 confusion in local tests.
+- **Build hygiene**
+  - `harvest_quote_packs.py` and `build_educational_docs_full.py` verified to use per-topic `sources.json`; education pages remained correct (no “end-mash”).
+- **Docs**
+  - Recommended Otter.ai SRT export settings are 2 lines, ≤42 chars/line; sane min/max durations, but for this we used 2 lines 30 chars/line.
+- **Fixity**
+  - Regenerated checksums and appended verification to `checksums/FIXITY_LOG.md`.
+
+### Summary
+Time-aligned retrieval from the Parquet layer is now robust against misalignment edge cases and server-side caching. Startup SHA logging makes it obvious which file the API is serving.
+
+---
+
 ## v3.2 — 2025-10-21  
 **Full Caption Corpus & Timecode Alignment**
 

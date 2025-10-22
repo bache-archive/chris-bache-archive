@@ -1,2 +1,3 @@
 1b7a05553b4f29145528f7106f4fc1eaaaaf304ce05b2abcc0c32bf344494c3d  vectors/bache-talks.embeddings.parquet
 ec10f7ae0951ac7066f2baaf63c879859959c3c8af24251d2ea104e2abd2ec6c  vectors/bache-talks.index.faiss
+0e66f5b118f4f19222a05031e3b7736d5a9b79ea7195e8357d711337118d707f  checksums/RELEASE-v3.3.sha256

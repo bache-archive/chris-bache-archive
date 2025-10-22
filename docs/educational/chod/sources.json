@@ -544,7 +544,7 @@
         "section": 3,
         "paragraph": 5,
         "sentence": null,
-        "_score": 0.5930371880531311
+        "_score": 0.5930380821228027
       },
       {
         "id": "lsdmu.c10.s03.p02",
@@ -565,7 +565,7 @@
         "section": 3,
         "paragraph": 2,
         "sentence": null,
-        "_score": 0.5692845582962036
+        "_score": 0.5692312717437744
       },
       {
         "id": "lsdmu.c10.s05.p16",
@@ -586,7 +586,7 @@
         "section": 5,
         "paragraph": 16,
         "sentence": null,
-        "_score": 0.40245968103408813
+        "_score": 0.40240025520324707
       },
       {
         "id": "lsdmu.c02.s02.p12",
@@ -607,7 +607,7 @@
         "section": 2,
         "paragraph": 12,
         "sentence": null,
-        "_score": 0.39816421270370483
+        "_score": 0.3981197774410248
       },
       {
         "id": "lsdmu.c11.s02.p02",
@@ -628,7 +628,7 @@
         "section": 2,
         "paragraph": 2,
         "sentence": null,
-        "_score": 0.3662775158882141
+        "_score": 0.3661874830722809
       },
       {
         "id": "lsdmu.c06.s00.p57",
@@ -649,7 +649,7 @@
         "section": 0,
         "paragraph": 57,
         "sentence": null,
-        "_score": 0.3520984351634979
+        "_score": 0.35201284289360046
       },
       {
         "id": "lsdmu.c08.s00.p02",
@@ -670,7 +670,7 @@
         "section": 0,
         "paragraph": 2,
         "sentence": null,
-        "_score": 0.3423042297363281
+        "_score": 0.34223800897598267
       },
       {
         "id": "lsdmu.c08.s00.p17",
@@ -691,7 +691,7 @@
         "section": 0,
         "paragraph": 17,
         "sentence": null,
-        "_score": 0.33976060152053833
+        "_score": 0.3396857678890228
       },
       {
         "id": "lsdmu.c10.s05.p03",
@@ -712,7 +712,7 @@
         "section": 5,
         "paragraph": 3,
         "sentence": null,
-        "_score": 0.33854809403419495
+        "_score": 0.3384642004966736
       },
       {
         "id": "lsdmu.c11.s01.p15",
@@ -733,7 +733,7 @@
         "section": 1,
         "paragraph": 15,
         "sentence": null,
-        "_score": 0.3342508375644684
+        "_score": 0.3341999053955078
       },
       {
         "id": "lsdmu.c11.s01.p02",
@@ -754,28 +754,7 @@
         "section": 1,
         "paragraph": 2,
         "sentence": null,
-        "_score": 0.32915860414505005
-      },
-      {
-        "id": "lsdmu.c08.s01.p04",
-        "talk_id": null,
-        "archival_title": null,
-        "recorded_date": null,
-        "published": null,
-        "chunk_index": 752,
-        "text": "1. Dying and Causal Oneness\n2. The Living Classroom\n3. The Birth of the Diamond Soul",
-        "token_est": null,
-        "hash": null,
-        "channel": null,
-        "source_type": null,
-        "citation": "LSDMU ch.8 §1 ¶4",
-        "url": null,
-        "transcript_path": null,
-        "chapter": 8,
-        "section": 1,
-        "paragraph": 4,
-        "sentence": null,
-        "_score": 0.31527435779571533
+        "_score": 0.32909563183784485
       },
       {
         "id": "lsdmu.c04.s03.p01",
@@ -796,7 +775,7 @@
         "section": 3,
         "paragraph": 1,
         "sentence": null,
-        "_score": 0.3152662515640259
+        "_score": 0.315182626247406
       },
       {
         "id": "lsdmu.c11.s00.p23",
@@ -817,7 +796,28 @@
         "section": 0,
         "paragraph": 23,
         "sentence": null,
-        "_score": 0.31523555517196655
+        "_score": 0.3151804506778717
+      },
+      {
+        "id": "lsdmu.c08.s01.p04",
+        "talk_id": null,
+        "archival_title": null,
+        "recorded_date": null,
+        "published": null,
+        "chunk_index": 752,
+        "text": "1. Dying and Causal Oneness\n2. The Living Classroom\n3. The Birth of the Diamond Soul",
+        "token_est": null,
+        "hash": null,
+        "channel": null,
+        "source_type": null,
+        "citation": "LSDMU ch.8 §1 ¶4",
+        "url": null,
+        "transcript_path": null,
+        "chapter": 8,
+        "section": 1,
+        "paragraph": 4,
+        "sentence": null,
+        "_score": 0.31517520546913147
       },
       {
         "id": "lsdmu.c07.s01.p04",
@@ -838,7 +838,7 @@
         "section": 1,
         "paragraph": 4,
         "sentence": null,
-        "_score": 0.31357818841934204
+        "_score": 0.3135124146938324
       },
       {
         "id": "lsdmu.c08.s01.p25",
@@ -859,7 +859,7 @@
         "section": 1,
         "paragraph": 25,
         "sentence": null,
-        "_score": 0.31165656447410583
+        "_score": 0.3115902841091156
       },
       {
         "id": "lsdmu.c10.s00.p11",
@@ -880,7 +880,7 @@
         "section": 0,
         "paragraph": 11,
         "sentence": null,
-        "_score": 0.3104579746723175
+        "_score": 0.3103899359703064
       },
       {
         "id": "lsdmu.c09.s01.p13",
@@ -901,7 +901,7 @@
         "section": 1,
         "paragraph": 13,
         "sentence": null,
-        "_score": 0.3102584779262543
+        "_score": 0.31020689010620117
       },
       {
         "id": "lsdmu.c04.s03.p02",
@@ -922,7 +922,7 @@
         "section": 3,
         "paragraph": 2,
         "sentence": null,
-        "_score": 0.3098703920841217
+        "_score": 0.30980828404426575
       },
       {
         "id": "lsdmu.c10.s00.p13",
@@ -943,7 +943,7 @@
         "section": 0,
         "paragraph": 13,
         "sentence": null,
-        "_score": 0.30071431398391724
+        "_score": 0.30063527822494507
       }
     ]
   },
