@@ -6,6 +6,47 @@ Each entry summarizes what changed, when, and why.
 
 ---
 
+## v3.3.6 — 2025-10-22  
+**Unified Styling & Educational Doc Framing**
+
+This release focuses on presentation: all **educational pages** and **source HTML** now render with a consistent, modern theme and clearer scholarly framing (“what **Chris Bache** says about…”, not “what the book says…”). It also improves accessibility, metadata, and build reliability.
+
+### Highlights
+- 🎨 **Global styling applied** to educational docs and sources (captions/transcripts) using `assets/style.css` (shadcn-inspired, dark/light aware).
+- 🧭 **Clear page headers** on educational docs:
+  - Human-readable topic title.
+  - Subtitle: “What **Chris Bache** says about &lt;topic&gt;”.
+  - Compact metadata line (id / build date / version).
+- 🧩 **Section order enforced & labeled**
+  - **Primary citations (book)** first, always.
+  - **Supporting transcript quotes** second, with timestamped links.
+- 🧾 **Front-matter rendering fixed**  
+  YAML front-matter is no longer dumped as a paragraph; it becomes semantic header content.
+- 🔗 **Better links & timestamps**
+  - Derives `[hh:mm:ss]` from `ts_url` if missing.
+  - Anchors open consistently; long URLs are wrapped safely.
+- ♿ **Accessibility**
+  - Landmarks added (`header`, `section`, `footer`).
+  - Improved focus states and color contrast.
+  - Reduced-motion respect for buttons and embeds.
+- 🔍 **SEO/Meta**
+  - Proper `<meta charset>` and viewport on all generated pages.
+  - Consistent stylesheet URL for GitHub Pages (`/chris-bache-archive/assets/style.css`).
+
+### Build & Tooling
+- 🔧 **`tools/build_site.py`** updated to wrap Markdown with the new HTML shell and CSS link for:
+  - `docs/educational/**/index.md`
+  - `sources/transcripts/**.md`
+  - `sources/captions/**.md`
+- 🧼 **Post-processing kept minimal**: we generate correct HTML from Markdown rather than patching HTML after the fact.
+
+### Migration Notes
+- If you have custom HTML fragments inside Markdown, re-build with:
+  ```bash
+  python3 tools/build_site.py --site-base /chris-bache-archive --stylesheet assets/style.css
+
+---
+
 ## v3.3.5 — 2025-10-23  
 **Educational Document Pipeline Rebuild & GitHub Pages Publication**
 
