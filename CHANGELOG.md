@@ -6,6 +6,33 @@ Each entry summarizes what changed, when, and why.
 
 ---
 
+## v3.3.5 — 2025-10-23  
+**Educational Document Pipeline Rebuild & GitHub Pages Publication**
+
+This release rebuilds the full **educational-document pipeline** from harvest to HTML output, ensuring clean separation between *book* and *talk* sources and consistent rendering across all 20+ topics.  
+It marks the first fully validated publication of educational documents to **GitHub Pages** under `/docs/educational/`.
+
+### Key Changes
+- 🧠 **Pipeline Overhaul**
+  - Rewrote `tools/harvest_quote_packs.py` — standardized layout (`reports/quote_packs/<DATE>/<qid>/`) and added per-topic validation.
+  - Rebuilt `tools/merge_harvest_into_sources.py` — strict filtering and deduplication; verified no talk-like keys in book sections.
+  - Reauthored `tools/build_educational_docs_full.py` — ensures book-first ordering, synthesized citations, correct timestamp links, and embedded fair-use notice.
+- 🧩 **Consistent Data Flow**
+  - Harvest → Merge → Build → Site sequence now produces reproducible outputs with deterministic structure.
+  - Added validation checks confirming book/talk separation after merge and build.
+- 🌐 **GitHub Pages Integration**
+  - Educational documents are now auto-generated to `/docs/educational/` for public browsing.
+  - Each topic includes `index.md`, `index.html`, and `sources.json` built from validated quote packs.
+- ✅ **Quality Improvements**
+  - Normalized citations (expanding “LSDMU” to “LSD and the Mind of the Universe”).
+  - Enforced consistent fair-use disclaimer and provenance metadata.
+  - Added summary validations at each pipeline stage for easier debugging.
+
+### Summary
+v3.3.5 establishes a stable, validated, and transparent educational publishing workflow for the **Bache Talks Archive**, aligning book and transcript material within a clean, reproducible GitHub Pages framework.
+
+---
+
 ## v3.3.1 — 2025-10-22  
 **Sitemap Consolidation & Generator Update**
 
