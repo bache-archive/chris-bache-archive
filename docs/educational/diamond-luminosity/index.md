@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> This educational page explores the concept of "Diamond Luminosity," a term used to describe specific states of consciousness encountered in deep experiential work. It delves into the philosophical and psychological dimensions of these experiences, which are characterized by a profound sense of clarity and connection to a reality beyond conventional existence. The discussion also touches on the implications of these states for understanding the nature of consciousness and the human experience.
+> This educational page explores the concept of "Diamond Luminosity," a term used to describe specific states of consciousness encountered during deep psychological and psychedelic exploration. It delves into the nature of these experiences, which are characterized by profound insights and a sense of connection to a reality beyond conventional existence. The discussion includes the relationship between Diamond Luminosity and various philosophical and spiritual frameworks, particularly within the context of Eastern thought.
 
 ## Primary citations (book — verbatim excerpts)
 
@@ -78,6 +78,54 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 
 > e sometimes draw premature conclusions about their true implications for the nature of the universe.
 > Here’s why: towards the end of my LSD work—those last five years—I had several immersions into what I called the "diamond luminosity," a state beyond even merging with the divine. I'd go into it repeatedly, but in my 50th session, something new happened. I was as far out as I'd ever been—peaceful, merged with the light—when suddenly, everything pivoted. I saw a new reality, even further removed, and a beam of light hit me and utterly shattered me. This was a different order of light—beyond the diamond luminosity I’d spent 15 years reaching. I called it the absolute light. That was when I realized that these experiences aren't about achieving a final state; it's an infinite progression. I completely gave up the idea that you could ever reach the end.
+
+**LSD and the Mind of the Universe**
+
+> And last, this book has two titles, what Tibetans would call an outer title and an inner title. LSD and the Mind of the Universe is its outer title, describing what the book is about—exploring the mind of the universe through carefully conducted LSD sessions. Diamonds from Heaven is its inner title, describing its innermost essence, for at the center of the mind of the universe, one enters the infinite clear light of Diamond Luminosity.
+
+**LSD and the Mind of the Universe ch.10 §0 ¶11 (10 · 0)**
+
+> The Diamond Light that exploded from my chest in session 38 was the forerunner of what emerged in full splendor now. After going through yet one more intense cycle of death and rebirth, I was taken into a brilliantly clear, supremely luminous radiance. Buddhism calls this radiance *dharmakaya*—the Clear Light of Absolute Reality. I call it the domain of Diamond Luminosity. This Luminosity captivated me so completely that it extinguished any interest in continuing to explore the other levels of existence that had previously fascinated me. This was a different order of reality altogether. Its clarity was so overwhelming, its energy so pure that returning to it became my sole focus in future sessions.
+
+**LSD and the Mind of the Universe**
+
+> LSD and the Mind of the Universe is the memoir of a psychedelic explorer. It is the story of one person’s journey into the mind of the cosmos. I’ve tried to tell this story as concisely as I can, focusing on the journey itself and keeping theoretical discussion to a minimum. I will rely on other authors to give the reader the history and science of psychedelics, their psychopharmacology, and their clinical applications. I share my psychedelic experiences here not because I think they are special or unique, for they are not, but because, all things considered, they are the most valuable gift I have to offer the psychedelic conversation.
+
+**LSD and the Mind of the Universe ch.10 §0 ¶7 (10 · 0)**
+
+> In my experience, there are many gradations of light. As one moves deeper into transcendence, the quality of light changes. It becomes clearer, more intense, and more luminous, calling for a new vocabulary of light. Light becomes LIGHT. Clarity becomes Hyper-Clarity. When I speak in this chapter of the Diamond Luminosity or the Diamond Light, I am not using a colorful metaphor to describe the light. I am attempting to describe a particular quality of light, a singularly intense dimension of light.
+
+**LSD and the Mind of the Universe ch.8 §0 ¶38 (8 · 0)**
+
+> I now understand why it is called Diamond Consciousness. Truly, our experience of physical light is but a metaphor for the intensity and brilliance of this energy. It had the characteristics of brilliant light, of sparkling luminosity, but also perfectly aligned density. It was extremely concentrated, like a laser, yet at the same time completely transparent. It was perfectly focused power. I suddenly knew that all my experiences in space-time over all these centuries served the cultivation of this Diamond Energy. This is what I am here for, what we are all here for, to learn how to consciously control this extraordinary power.
+
+**LSD and the Mind of the Universe ch.10 §2 ¶32 (10 · 2)**
+
+> When the Diamond Luminosity first opened, it had carried such a powerful sense of completion and homecoming that I thought I had finally found what I was looking for. I could not imagine anything more fulfilling or complete than the Pure Light of Diamond Luminosity. And indeed, I did find my personal stopping point here. But at the very moment of reaching this pinnacle, this session showed me that there are dimensions of existence beyond even this. I saw that there are more dimensions of Light than I will ever be able to explore in this lifetime, even using this powerful method. There is simply not enough time, and I do not have enough strength to touch them all. We are truly children waking in the arms of an infinite cosmos.
+
+**LSD and the Mind of the Universe ch.11 §0 ¶33 (11 · 0)**
+
+> At one point, I saw all humanity constantly dissolving into what looked like a tangled swamp representing the constant digesting and redigesting of human experience that is the topsoil of the reincarnation process. I then saw brilliant sparks of Diamond Light shooting from the planet into deep space. I was witnessing the birth of a brilliant Individuality from this swamp. Not an egoic individuality but something larger and brighter. In the constant churning of space-time experience, life was growing an exquisite Soul-Individuality that continues beyond any frame of reference we can presently imagine, capable of integrating larger and larger fields of experience. I was witnessing the birth of Diamond Souls. The universe is a Diamond Maker.
+
+**LSD and the Mind of the Universe ch.11 §1 ¶7 (11 · 1)**
+
+> First, I had been drawn into deeper orders of reality, first the universe, then archetypal reality and causal Oneness, and eventually the Diamond Luminosity. These initiations were the direct consequence of the collective healing work, the karmic reward if you will. The magnitude of the energy involved in this exchange is still difficult for me to fathom. The Diamond Luminosity was initially far removed from my historical existence. There was some sort of “distance” between my embodied consciousness and this brilliant clarity. The second thing that had been happening was that this distance was being dissolved as the Light entered and transformed my incarnate being—“dissolving the shell.” Today was simply a continuation of this process, and it carried a momentum that had been building for years.
+
+**LSD and the Mind of the Universe ch.10 §1 ¶1 (10 · 1)**
+
+> Once one has entered the Diamond Luminosity, the hunger to return to it is overwhelming. Nothing else feels worth pursuing. The joys that previous sessions had opened to me paled by comparison. How does one describe the freedom of becoming Light, of eclipsing so radically the limitations of space and time? The poetry of Rumi and Hafiz took on new significance for me, for I had become a hopeless lover of the divine condition.
+
+**LSD and the Mind of the Universe ch.10 §5 ¶9 (10 · 5)**
+
+> I have used the language of Buddhism to frame the experience of Diamond Luminosity, and I will continue to do so for this last session as well. The term Buddhists use for the Pure Awareness that is one’s Essential Nature is “Nature of Mind,” what some religious traditions would call one’s Divine Nature.
+
+**LSD and the Mind of the Universe ch.1 §9 ¶4 (1 · 9)**
+
+> In this context, I will mention that this may be one advantage of the long LSD time window compared with short-acting psychedelics like 5-MeO-DMT. LSD does not blast you through the many layers of the cosmos as quickly as 5-MeO-DMT does, but the eight-hour LSD interface invites/propels/forces a polishing of the consciousness doing the exploring as it is impacted/ instructed/healed by the consciousness being explored. An LSD session grinds slow but it grinds fine. It gives us time to be engaged and changed by the realities we are encountering. I think this polishing influences both the eventual clarity of our perception in these states and what we are able to bring back from them, both in terms of healing and understanding.
+
+**LSD and the Mind of the Universe ch.1 §8 ¶7 (1 · 8)**
+
+> *LSD and the Mind of the Universe is primarily a* cosmological narrative, not a therapeutic narrative. In a therapeutic narrative, the personal details are important; in a cosmological narrative, they are less so. Of course, this entire journey was deeply personal and I own it as such, but my personal story is not the important story here, nor is it essential to the story I want to convey. It is when one moves beyond the shoals of the personal psyche and enters the ocean of the deep psyche that the larger and more philosophically interesting story begins to emerge.
 
 ## Supporting transcript quotes (verbatim)
 

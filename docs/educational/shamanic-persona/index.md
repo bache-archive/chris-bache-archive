@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> This page explores the concept of the shamanic persona, a unique synthesis of experiences shaped by individual psychedelic journeys. It examines the emergence and evolution of this persona within the context of altered states of consciousness and its role in integrating transpersonal experiences. The discussion highlights the distinctions between various levels of shamanic experience and the implications for personal and collective consciousness.
+> This educational page explores the concept of the shamanic persona, a unique synthesis of experiences that emerges through psychedelic practices. It examines how this persona evolves through various levels of consciousness, integrating knowledge from past experiences while adapting to new insights. The discussion highlights the role of the shamanic personality in navigating the complexities of transpersonal experiences and its significance within both individual and collective contexts.
 
 ## Primary citations (book — verbatim excerpts)
 

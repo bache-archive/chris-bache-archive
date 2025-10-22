@@ -16,6 +16,7 @@ from __future__ import annotations
 from pathlib import Path
 import json, re, argparse
 from datetime import datetime
+from typing import Any, Iterable
 
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / "docs" / "educational"
@@ -50,48 +51,90 @@ def find_pack_json(search_root: Path, qid: str, kind: str) -> Path | None:
                 return c
     return None
 
+# -------- helpers --------
+
+def _norm_str(v: Any) -> str:
+    """Convert any JSON scalar to a trimmed string; None -> ''."""
+    if v is None:
+        return ""
+    if isinstance(v, str):
+        return v.strip()
+    # ints, floats, bools, other scalars -> string
+    return str(v).strip()
+
+def _clean_text(s: str) -> str:
+    return _norm_str(s).replace("\r\n", "\n").replace("\r", "\n")
+
+def _extract_chunks(raw: Any) -> list[dict]:
+    """Accept either {'chunks':[...]} or a raw list."""
+    if isinstance(raw, dict):
+        ch = raw.get("chunks")
+        if isinstance(ch, list):
+            return ch
+        return []
+    if isinstance(raw, list):
+        return raw
+    return []
+
 # -------- normalizers --------
 
 def norm_talk_chunk(c: dict) -> dict:
     out = {
-        "text": (c.get("text") or "").strip(),
-        "ts_url": c.get("ts_url") or c.get("url") or "",
-        "archival_title": c.get("archival_title") or c.get("title") or "",
-        "recorded_date": c.get("recorded_date") or c.get("date") or "",
+        "text": _clean_text(c.get("text")),
+        "ts_url": _norm_str(c.get("ts_url") or c.get("url")),
+        "archival_title": _norm_str(c.get("archival_title") or c.get("title")),
+        "recorded_date": _norm_str(c.get("recorded_date") or c.get("date")),
         "_score": c.get("_score"),
     }
     for k in ("start_hhmmss", "hhmmss", "time_hhmmss"):
-        if c.get(k):
-            out["start_hhmmss"] = c[k]
+        if _norm_str(c.get(k)):
+            out["start_hhmmss"] = _norm_str(c.get(k))
             break
     return out
 
 def norm_book_chunk(c: dict) -> dict:
-    # Be tolerant of field names from the harvester
+    # Try explicit fields first
+    citation = _norm_str(c.get("citation") or c.get("label"))
+    chapter_code = _norm_str(c.get("chapter_code") or c.get("chapter"))
+    section_code = _norm_str(c.get("section_code") or c.get("section"))
+
+    # Synthesize a useful citation if missing
+    if not citation:
+        parts = ["LSDMU"]
+        if chapter_code:
+            parts.append(chapter_code)
+        if section_code:
+            parts.append(section_code)
+        citation = " ".join(parts) if len(parts) > 1 else "LSDMU"
+
     return {
-        "text": (c.get("text") or "").strip(),
-        "citation": (c.get("citation") or c.get("label") or "").strip(),
-        "chapter_code": c.get("chapter_code") or c.get("chapter") or "",
-        "section_code": c.get("section_code") or c.get("section") or "",
-        "archival_title": c.get("archival_title") or "",  # optional
+        "text": _clean_text(c.get("text")),
+        "citation": citation,
+        "chapter_code": chapter_code,
+        "section_code": section_code,
+        "archival_title": _norm_str(c.get("archival_title")),
         "_score": c.get("_score"),
     }
 
-def merge_chunks(existing: list[dict], new_items: list[dict], key_fields: tuple[str, ...]) -> int:
-    # Build a seen set based on key_fields tuple
+def merge_chunks(existing: list[dict], new_items: Iterable[dict], key_fields: tuple[str, ...]) -> int:
+    """Dedup by key tuple; key elements are stringified safely."""
     def key_of(d: dict):
-        return tuple((d.get(k) or "").strip() for k in key_fields)
+        return tuple(_norm_str(d.get(k, "")) for k in key_fields)
+
     seen = {key_of(e) for e in existing}
     added = 0
     for it in new_items:
-        if not it: 
+        if not isinstance(it, dict):
             continue
-        if key_of(it) in seen:
+        k = key_of(it)
+        if k in seen:
             continue
         existing.append(it)
-        seen.add(key_of(it))
+        seen.add(k)
         added += 1
     return added
+
+# -------- main --------
 
 def main():
     args = parse_args()
@@ -128,14 +171,14 @@ def main():
 
         if book_json and book_json.exists():
             raw = json.loads(book_json.read_text(encoding="utf-8"))
-            chunks = raw.get("chunks") if isinstance(raw, dict) else raw
-            normed = [norm_book_chunk(c) for c in (chunks or []) if (c.get("text") or "").strip()]
+            chunks = _extract_chunks(raw)
+            normed = [norm_book_chunk(c) for c in chunks if _norm_str(c.get("text"))]
             added_book = merge_chunks(book_chunks, normed, ("text", "citation", "chapter_code", "section_code"))
 
         if talks_json and talks_json.exists():
             raw = json.loads(talks_json.read_text(encoding="utf-8"))
-            chunks = raw.get("chunks") if isinstance(raw, dict) else raw
-            normed = [norm_talk_chunk(c) for c in (chunks or []) if (c.get("text") or "").strip()]
+            chunks = _extract_chunks(raw)
+            normed = [norm_talk_chunk(c) for c in chunks if _norm_str(c.get("text"))]
             added_talks = merge_chunks(talk_chunks, normed, ("text", "ts_url"))
 
         if added_book or added_talks:

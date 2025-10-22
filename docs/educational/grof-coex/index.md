@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> This educational page explores the concepts of COEX systems and meta-COEX systems as introduced by Stanislav Grof, which pertain to the organization of memories and experiences within both the personal and collective psyche. These frameworks suggest that emotional themes can cluster across different periods of life, influencing individual and collective experiences. The implications of these ideas extend to understanding how unresolved traumas may persist within the collective memory of humanity.
+> This educational page explores the concepts of COEX systems and meta-COEX systems as introduced by Stanislav Grof. These frameworks describe how both personal and collective experiences are organized in the psyche, highlighting the emotional themes that connect memories across different periods of life. The discussion emphasizes the parallels between individual psychological processes and the collective unconscious, suggesting that unresolved historical traumas may manifest similarly at both levels.
 
 ## Primary citations (book — verbatim excerpts)
 
