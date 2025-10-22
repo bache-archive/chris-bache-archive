@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> This educational page explores the integration of Vajrayana Buddhism with contemporary practices, particularly in the context of psychedelic experiences. It examines how Vajrayana's unique blend of Indian Buddhist and indigenous Tibetan shamanic traditions can enhance spiritual practices and personal transformation. The discussion highlights the significance of meditation, devotion, and the management of energy within these frameworks.
+> This educational page explores the integration of Vajrayana Buddhism with contemporary psychedelic practices, highlighting the unique interplay between traditional spiritual frameworks and modern experiential insights. It examines how Vajrayana's rich tapestry of rituals, meditative techniques, and philosophical concepts can enhance and inform altered states of consciousness. The discussion emphasizes the significance of these practices in fostering deeper awareness and understanding of the mind's nature, as well as their potential for personal transformation.
 
 ## Primary citations (book — verbatim excerpts)
 

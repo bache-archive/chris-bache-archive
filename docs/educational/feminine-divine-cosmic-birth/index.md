@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is a scholar and author known for his exploration of consciousness and the intersection of spirituality and science. His work often delves into themes of the feminine divine and the cosmic processes that shape existence. Bache's insights challenge traditional theological perspectives, particularly regarding the relationship between nature, gender, and the divine. This page provides an overview of his contributions to these discussions and the implications for understanding the universe.
+> Christopher M. Bache is a scholar and author known for his exploration of consciousness, spirituality, and the intersection of science and mysticism. His work often emphasizes the feminine aspects of the divine and the interconnectedness of nature and humanity. Bache's insights draw from personal experiences and a broad understanding of various cosmological frameworks, contributing to contemporary discussions on the nature of existence and the cosmos.
 
 ## Primary citations (book — verbatim excerpts)
 _(No book excerpts present in sources.json.)_

@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is a scholar known for his exploration of archetypal and collective realities, drawing on concepts from psychology, philosophy, and spirituality. His work delves into the nature of consciousness and the interconnectedness of human experience, particularly through the lens of Jungian archetypes and Platonic ideals. Bache's research invites a deeper understanding of how individual and collective psyches interact within broader frameworks of reality.
+> Christopher M. Bache is a scholar known for his explorations of archetypal and collective realities, particularly through the lens of consciousness studies. His work delves into the intersections of psychology, spirituality, and metaphysics, examining how archetypes shape human experience and the collective psyche. Bache's insights contribute to a deeper understanding of the nature of reality and the interconnectedness of individual and collective consciousness.
 
 ## Primary citations (book — verbatim excerpts)
 _(No book excerpts present in sources.json.)_

@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is a prominent figure in the exploration of consciousness, particularly in relation to psychedelics and astrology. His work investigates the interplay between individual experiences and cosmic rhythms, proposing that astrological factors may influence psychological states and transformative experiences. Bache's research contributes to a broader understanding of how spiritual and psychological dimensions intersect with the natural world.
+> Christopher M. Bache is a prominent figure in the exploration of consciousness and the intersections of psychology, spirituality, and astrology. His work often examines the influence of cosmic rhythms on human experiences, particularly in altered states of consciousness. Bache's research integrates insights from various disciplines, including transpersonal psychology and astrological theory, to propose a deeper understanding of the connections between individual lives and broader cosmic patterns.
 
 ## Primary citations (book — verbatim excerpts)
 

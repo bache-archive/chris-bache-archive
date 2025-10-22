@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> This educational page explores the concept of energy accumulation as articulated by Christopher M. Bache. It examines how energy can be stored and built up over multiple experiences, influencing personal and collective awareness. The discussion highlights the implications of this accumulation for spiritual growth and the challenges it presents in managing intense energetic experiences. Through a scholarly lens, the page aims to provide insights into the dynamics of energy within individual and collective contexts.
+> This educational page explores the concept of energy accumulation as articulated by Christopher M. Bache. It examines the ways in which individual and collective experiences can lead to the storage and buildup of energetic momentum across multiple sessions or interactions. The implications of this accumulation for personal growth, spiritual development, and collective consciousness are also discussed, highlighting the dynamic interplay between energy and awareness.
 
 ## Primary citations (book — verbatim excerpts)
 

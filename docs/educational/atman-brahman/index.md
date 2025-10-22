@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is a scholar known for his exploration of consciousness and its relationship to the universe, drawing from both Eastern philosophical traditions and contemporary psychedelic experiences. His work often emphasizes the interconnectedness of individual and universal essence, encapsulated in the concept of "Atman is Brahman." Bache's insights contribute to a broader understanding of reality as a manifestation of a single, intentional consciousness. His research invites a reevaluation of traditional Western perspectives on spirituality and existence.
+> Christopher M. Bache is a scholar known for his exploration of consciousness and its relationship to the universe, drawing from both Eastern philosophical traditions and contemporary psychedelic experiences. His work emphasizes the interconnectedness of individual and universal essence, encapsulated in the concept of "Atman is Brahman." Bache's insights contribute to discussions on the nature of reality, consciousness, and the intentionality behind creation, bridging mystical traditions with modern scientific perspectives.
 
 ## Primary citations (book — verbatim excerpts)
 _(No book excerpts present in sources.json.)_

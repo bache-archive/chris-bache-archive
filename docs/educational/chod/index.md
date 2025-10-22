@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is a scholar whose work explores the intersections of consciousness, spirituality, and transformative practices, particularly within the context of Vajrayana Buddhism. His research often incorporates personal experiences with psychedelic states and their integration through traditional practices such as Chöd. Bache's contributions provide insights into the dynamics of energy, awareness, and the processes of purification and realization in both spiritual and psychological frameworks.
+> Christopher M. Bache is a scholar and practitioner known for his exploration of consciousness, spirituality, and the integration of psychedelic experiences with Vajrayana Buddhist practices. His work emphasizes the importance of foundational practices, such as Chöd, in navigating the complexities of altered states of awareness. Bache's contributions to the field highlight the interplay between traditional spiritual methodologies and contemporary experiences of consciousness.
 
 ## Primary citations (book — verbatim excerpts)
 

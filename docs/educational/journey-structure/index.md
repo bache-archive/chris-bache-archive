@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is a scholar whose work intersects the fields of religious studies, consciousness, and personal transformation. With a background in Catholicism and extensive study of various world religions, Bache explores the complexities of spiritual journeys and the structures that underpin them. His insights contribute to a broader understanding of collective experiences and the evolution of consciousness.
+> Christopher M. Bache is a scholar with a background in religious studies, particularly within the context of Catholicism, and has explored various spiritual traditions throughout his academic journey. His work examines the intersections of consciousness, spirituality, and personal transformation, drawing on insights from multiple religious frameworks. Bache's experiences and reflections contribute to a broader understanding of the human quest for meaning and enlightenment.
 
 ## Primary citations (book — verbatim excerpts)
 _(No book excerpts present in sources.json.)_

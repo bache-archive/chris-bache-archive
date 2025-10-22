@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is a prominent figure in the exploration of consciousness and transformative experiences, particularly through the lens of psychedelic research. His work delves into the themes of death and rebirth, drawing on ancient spiritual teachings and contemporary practices. Bache's insights contribute to a broader understanding of human evolution and the interconnectedness of life, emphasizing the significance of these cycles in personal and collective awakening.
+> Christopher M. Bache is a scholar known for his exploration of consciousness, spirituality, and the transformative experiences associated with altered states of awareness. His work often delves into themes of death and rebirth, drawing from both ancient teachings and contemporary practices. Bache's insights contribute to the understanding of collective awakening and the evolution of human consciousness. This page provides an overview of his perspectives and contributions to these topics.
 
 ## Primary citations (book — verbatim excerpts)
 _(No book excerpts present in sources.json.)_

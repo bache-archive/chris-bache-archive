@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is a scholar known for his exploration of consciousness and the relationship between individual experience and the cosmos. His work delves into the philosophical implications of consciousness as an integral aspect of the universe, proposing that human beings are part of a larger creative experiment. Bache's insights draw from various traditions and aim to bridge scientific inquiry with spiritual understanding. This page provides an overview of his contributions and ideas related to the universe as a learning environment.
+> Christopher M. Bache is a scholar known for his exploration of consciousness and the relationship between individual experience and the cosmos. His work delves into the philosophical and experiential dimensions of the universe, positing that consciousness is a fundamental aspect of reality. Bache's insights draw from various traditions and aim to bridge the gap between scientific inquiry and spiritual understanding.
 
 ## Primary citations (book — verbatim excerpts)
 _(No book excerpts present in sources.json.)_

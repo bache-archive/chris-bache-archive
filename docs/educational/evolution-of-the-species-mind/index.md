@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is a scholar known for his exploration of consciousness and its evolution within the context of human development. His work delves into the intersection of personal transformation and the broader evolutionary trajectory of the human species. Bache's insights challenge conventional understandings of consciousness, suggesting a dynamic interplay between individual experiences and collective evolution. This page provides an overview of his contributions to the study of consciousness and the implications for humanity's future.
+> Christopher M. Bache is a scholar known for his exploration of consciousness and the evolution of the human species. His work delves into the intersections of personal transformation, collective consciousness, and the potential future of humanity. Bache's insights draw from a blend of personal experience and theoretical frameworks, contributing to discussions on the ecological and evolutionary dimensions of consciousness. This page provides an overview of his contributions and perspectives on these topics.
 
 ## Primary citations (book — verbatim excerpts)
 _(No book excerpts present in sources.json.)_

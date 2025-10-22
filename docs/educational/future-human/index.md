@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is a scholar and author known for his exploration of consciousness and the evolution of humanity. His work delves into the intersections of spirituality, psychology, and the future trajectory of human development. Bache's insights draw from both personal experiences and broader cultural narratives, aiming to illuminate the potential for a transformative shift in human awareness and existence. This page provides an overview of his contributions and key concepts related to the emergence of the "future human."
+> Christopher M. Bache is a scholar and author known for his explorations of consciousness, spirituality, and the potential evolution of humanity. His work often integrates insights from various spiritual traditions and contemporary scientific thought, focusing on the concept of the "future human." Bache's research delves into the transformative processes that may shape human development in the coming years, emphasizing the interconnectedness of individual and collective growth.
 
 ## Primary citations (book — verbatim excerpts)
 _(No book excerpts present in sources.json.)_

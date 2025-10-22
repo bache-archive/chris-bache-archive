@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is a philosopher of religion known for his exploration of consciousness and the potential role of psychedelics in spiritual evolution. His work examines the intersection of personal transformation and collective human development, emphasizing the significance of these experiences in understanding the larger landscape of existence. Bache's insights contribute to ongoing discussions about the implications of psychedelics for healing and consciousness expansion.
+> Christopher M. Bache is a philosopher of religion whose work explores the intersection of psychedelics and spiritual evolution. His research delves into the potential of altered states of consciousness to facilitate personal and collective transformation. Bache emphasizes the importance of understanding these experiences within a broader context of human development and consciousness. His insights contribute to ongoing discussions about the role of psychedelics in contemporary spiritual practices and societal challenges.
 
 ## Primary citations (book — verbatim excerpts)
 _(No book excerpts present in sources.json.)_

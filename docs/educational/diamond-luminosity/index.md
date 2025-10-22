@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is a scholar known for his exploration of consciousness and psychedelic experiences. His concept of "Diamond Luminosity" refers to profound states of awareness that transcend conventional perceptions of reality. This notion is situated within a broader context of spiritual and psychological transformation, drawing on various philosophical and religious frameworks. Bache's work invites a deeper understanding of the intersections between consciousness, experience, and existential inquiry.
+> Christopher M. Bache is a scholar known for his exploration of consciousness and psychedelic experiences. His concept of "Diamond Luminosity" refers to profound states of awareness encountered during his research, which he describes as transcending conventional realities. This notion integrates insights from various philosophical and spiritual traditions, aiming to deepen the understanding of human consciousness and its potential transformations.
 
 ## Primary citations (book — verbatim excerpts)
 _(No book excerpts present in sources.json.)_

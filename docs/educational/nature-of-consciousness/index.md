@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is a scholar whose work explores the nature of consciousness, particularly through the lens of psychedelic experiences and their implications for understanding the mind. His research delves into the interconnectedness of consciousness and the universe, raising questions about the evolution and ecology of consciousness. Bache's insights contribute to ongoing discussions in fields such as psychology, philosophy, and spirituality, inviting further inquiry into the complexities of human awareness and experience.
+> Christopher M. Bache is a scholar known for his exploration of consciousness, particularly in relation to psychedelic experiences and their implications for understanding the nature of reality. His work delves into the intersection of consciousness, spirituality, and the cosmos, proposing that consciousness may be a fundamental aspect of the universe. Bache's research raises important questions about the evolution of consciousness and the potential for integrating profound experiential insights into broader philosophical and scientific frameworks.
 
 ## Primary citations (book — verbatim excerpts)
 _(No book excerpts present in sources.json.)_
