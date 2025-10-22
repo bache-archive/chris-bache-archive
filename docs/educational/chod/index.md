@@ -149,13 +149,6 @@ Lauren Taus: An award-winning teacher and international speaker, Chris’s work 
 
 [00:01:30](https://www.inbodiedlife.com/blog/chris-bache)  — *Learning to be Gods: Conversations about LSD and the Mind of the Universe with Chris Bache* (2023-06-30) • 00:01:30
 
-> ---
-transcriber: "gpt5 model by OpenAI (edited from Otter.ai first-pass transcript)"
-license: "CC0 1.0 Universal (Public Domain Dedication)"
----
-
-[00:00:20](https://youtu.be/QaBoLNV4FQI?t=20)  — *Prof. Dr. Christopher Bache about his work and consciousness* (2020-01-10) • 00:00:20
-
 > see if I got it right. Welcome to the people who are live and those who are going to join us later.
 Chris Bache—the story I know is that he is now a retired professor of religious studies and philosophy from Ohio State University and Youngstown, Ohio. Early in his career he was always interested in mysticism and deep spiritual exploration, and he came upon the work of the legendary psychiatrist Stanislav Grof, who pioneered a protocol for working with high doses of LSD in particular. Chris undertook what turned out to be a 20-year journey of 73 high-dose LSD sessions following the Stan Grof protocol—sessions using 500 to 600 micrograms of LSD, which, for any of you not familiar with that calculation, is a high dose. The protocol involves working at home or in a safe, quiet space with headphones and a carefully curated playlist, eyeshades to block out the light so inner visions aren’t obstructed, and a qualified sitter. In Chris’s case, the sitter was a therapist who knew what she was doing. Generally, he did this on a Saturday, and the following day—again following the Grof protocol—he spent basically the whole day with the headphones on to trigger memories of what was playing when certain experiences and visions occurred, and then meticulously transcribed all that.
 
@@ -199,11 +192,6 @@ This is an exciting time and territory. I became convinced early on that psyched
 
 [00:18:25](https://youtu.be/Kh5aqAuDBIM?t=1105)  — *LSD and the Mind of the Universe – S2S Podcast* (2023-01-06) • 00:18:25
 
-> criptiondate: 2025-08-19
-
-license: CC0 1.0 Universal
----
----
 Andrew Holecek
 Everybody, Andrew Holecek here, and I simply cannot contain my excitement about my guest today, Dr. Christopher Bache. With a brief introduction, we’re going to launch into what I believe will be a revelatory, provocative conversation. Chris, PhD, is professor emeritus in the Department of Philosophy and Religious Studies at Youngstown State University, where he taught for 33 years. He is also adjunct faculty at the California Institute of Medical Studies, an emeritus fellow at the Institute of Noetic Sciences, and on the advisory board of Grof Legacy Training. Chris’s passion has been the study of the philosophical implications of non-ordinary states of consciousness, especially psychedelic states. An award-winning teacher and international speaker, he has written four books: Life Cycles, a study of reincarnation in light of contemporary consciousness research; Dark Night, Early Dawn, a pioneering work in psychedelic philosophy and collective consciousness; The Living Classroom, an exploration of collective fields of consciousness and teaching; and LSD and the Mind of the Universe, the story of his 20-year journey with LSD. Chris is a father of three and lives in Weaverville, North Carolina, with his wife, Christina Hardy.
 
@@ -227,47 +215,6 @@ Christopher M. Bache is Professor Emeritus in the Department of Philosophy and R
 Chris Bache: Hi, Sandy. It's a pleasure to be here with you today.
 
 [00:01:07](https://youtu.be/2Trb-vC8zc0?t=67)  — *LSD & the Mind of the Universe (What Is Going OM)* (2023-08-17) • 00:01:07
-
-> ---
-transcriber: "Otter.ai (first pass), gpt-5 model by OpenAI (edited)"
-license: "CC0 1.0 Universal (Public Domain Dedication)"
----
-
-[00:00:03](https://youtu.be/Dw7D7ih8vy0?t=3)  — *EP.6 - Chris Bache | LSD AND THE MIND OF THE UNIVERSE* (2020-05-13) • 00:00:03
-
-> ---
-
-
-
-
-
-
-transcriber: "gpt5 model by OpenAI"
-
-transcription_date: "2025-08-15"
-
-license: CC0 1.0 Universal
-
----
-Abstract
-
-Chris Bache describes meeting a guiding intelligence in deep psychedelic practice as an encounter with an
-
-infinite, formless consciousness. Rather than appearing as a deity or personified figure, this presence is
-
-felt as a vast, adaptive intelligence whose qualities shift as one’s own mind is purified and integrated
-
-over many sessions. Bache frames the individual mind as a “seed crystal” that catalyzes specific facets of
-
-experience from the limitless potential of universal consciousness. As practice deepens, the intersection of
-
-individual and universal mind changes, eliciting more profound guidance. Pushing beyond the collective psyche
-
-and Jungian archetypes, he says religious images and concepts fall away, revealing states that outstrip
-
-categories like gods, angels, or cultural frameworks. The guidance remains constant, but its expression is
-
-[00:00:00](https://youtu.be/58dPxDtf-r0?t=0)  — *What It's Like Meeting God on Psychedelics (feat. Christopher Bache)* (2022-02-17) • 00:00:00
 
 
 ## Provenance
