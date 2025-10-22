@@ -1,0 +1,26 @@
+#!/usr/bin/env python3
+import pandas as pd, re
+from ftfy import fix_text
+
+PARQ = "vectors/bache-talks.embeddings.parquet"
+OUT  = PARQ
+
+df = pd.read_parquet(PARQ)
+
+def norm(t: str) -> str:
+    return re.sub(r"\s+"," ", fix_text((t or "").strip())).lower()
+
+df["__norm"]  = df["text"].map(norm)
+df["__timed"] = df["start_hhmmss"].notna().astype(int)
+
+# keep the timed duplicate if present
+df = df.sort_values(["talk_id","__norm","__timed"], ascending=[True, True, False])
+before = len(df)
+df2 = df.drop_duplicates(subset=["talk_id","__norm"], keep="first").drop(columns=["__norm","__timed"])
+after = len(df2)
+
+if after < before:
+    df2.to_parquet(OUT, index=False)
+    print(f"[ok] dropped {before-after} duplicate rows (kept timed). wrote {OUT}")
+else:
+    print("No duplicates to drop.")
