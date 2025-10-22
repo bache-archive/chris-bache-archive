@@ -21,10 +21,15 @@ from typing import Any, Iterable
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / "docs" / "educational"
 
+# ---------- args / discovery ----------
+
 def parse_args():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--reports-root", default=str(ROOT / "reports" / "quote_packs"),
-                    help="Path to quote_packs root (dated or flat).")
+    ap.add_argument(
+        "--reports-root",
+        default=str(ROOT / "reports" / "quote_packs"),
+        help="Path to quote_packs root (dated or flat).",
+    )
     return ap.parse_args()
 
 def find_latest_root(base: Path) -> Path | None:
@@ -51,7 +56,7 @@ def find_pack_json(search_root: Path, qid: str, kind: str) -> Path | None:
                 return c
     return None
 
-# -------- helpers --------
+# ---------- helpers ----------
 
 def _norm_str(v: Any) -> str:
     """Convert any JSON scalar to a trimmed string; None -> ''."""
@@ -59,24 +64,24 @@ def _norm_str(v: Any) -> str:
         return ""
     if isinstance(v, str):
         return v.strip()
-    # ints, floats, bools, other scalars -> string
     return str(v).strip()
 
-def _clean_text(s: str) -> str:
+def _clean_text(s: Any) -> str:
     return _norm_str(s).replace("\r\n", "\n").replace("\r", "\n")
 
 def _extract_chunks(raw: Any) -> list[dict]:
     """Accept either {'chunks':[...]} or a raw list."""
     if isinstance(raw, dict):
         ch = raw.get("chunks")
-        if isinstance(ch, list):
-            return ch
-        return []
+        return ch if isinstance(ch, list) else []
     if isinstance(raw, list):
         return raw
     return []
 
-# -------- normalizers --------
+# ---------- normalizers (with guardrails) ----------
+
+def _is_talkish(c: dict) -> bool:
+    return bool(_norm_str(c.get("ts_url")) or _norm_str(c.get("recorded_date")) or _norm_str(c.get("start_hhmmss")))
 
 def norm_talk_chunk(c: dict) -> dict:
     out = {
@@ -86,29 +91,36 @@ def norm_talk_chunk(c: dict) -> dict:
         "recorded_date": _norm_str(c.get("recorded_date") or c.get("date")),
         "_score": c.get("_score"),
     }
+    # prefer any present timecode field
     for k in ("start_hhmmss", "hhmmss", "time_hhmmss"):
-        if _norm_str(c.get(k)):
-            out["start_hhmmss"] = _norm_str(c.get(k))
+        vv = _norm_str(c.get(k))
+        if vv:
+            out["start_hhmmss"] = vv
             break
     return out
 
 def norm_book_chunk(c: dict) -> dict:
-    # Try explicit fields first
+    """
+    Normalize book chunks and guarantee a non-empty 'citation'.
+    Also drop talk-like entries that slipped in (ts_url / recorded_date / timecode).
+    """
+    # Drop talk-like contamination
+    if _is_talkish(c):
+        return {}
+
+    text = _clean_text(c.get("text"))
     citation = _norm_str(c.get("citation") or c.get("label"))
     chapter_code = _norm_str(c.get("chapter_code") or c.get("chapter"))
     section_code = _norm_str(c.get("section_code") or c.get("section"))
 
     # Synthesize a useful citation if missing
     if not citation:
-        parts = ["LSDMU"]
-        if chapter_code:
-            parts.append(chapter_code)
-        if section_code:
-            parts.append(section_code)
-        citation = " ".join(parts) if len(parts) > 1 else "LSDMU"
+        # Prefer structured pointer if present
+        pointer = " ".join(p for p in (chapter_code, section_code) if p)
+        citation = ("LSD and the Mind of the Universe " + pointer).strip() if pointer else "LSD and the Mind of the Universe"
 
     return {
-        "text": _clean_text(c.get("text")),
+        "text": text,
         "citation": citation,
         "chapter_code": chapter_code,
         "section_code": section_code,
@@ -121,10 +133,13 @@ def merge_chunks(existing: list[dict], new_items: Iterable[dict], key_fields: tu
     def key_of(d: dict):
         return tuple(_norm_str(d.get(k, "")) for k in key_fields)
 
-    seen = {key_of(e) for e in existing}
+    seen = {key_of(e) for e in existing if isinstance(e, dict)}
     added = 0
     for it in new_items:
         if not isinstance(it, dict):
+            continue
+        # skip empties from filters
+        if not _norm_str(it.get("text")):
             continue
         k = key_of(it)
         if k in seen:
@@ -134,7 +149,7 @@ def merge_chunks(existing: list[dict], new_items: Iterable[dict], key_fields: tu
         added += 1
     return added
 
-# -------- main --------
+# ---------- main ----------
 
 def main():
     args = parse_args()
@@ -172,13 +187,40 @@ def main():
         if book_json and book_json.exists():
             raw = json.loads(book_json.read_text(encoding="utf-8"))
             chunks = _extract_chunks(raw)
-            normed = [norm_book_chunk(c) for c in chunks if _norm_str(c.get("text"))]
+            normed = []
+            dropped_talkish = 0
+            missing_citation = 0
+            for c in chunks:
+                if not isinstance(c, dict):
+                    continue
+                if _is_talkish(c):
+                    dropped_talkish += 1
+                    continue
+                nb = norm_book_chunk(c)
+                if not _norm_str(nb.get("citation")):
+                    missing_citation += 1
+                    continue
+                if _norm_str(nb.get("text")):
+                    normed.append(nb)
+            if dropped_talkish:
+                print(f"[warn] {qid}: filtered {dropped_talkish} talk-like item(s) from book.search.json")
+            if missing_citation:
+                print(f"[warn] {qid}: filtered {missing_citation} book item(s) without citation after normalization")
             added_book = merge_chunks(book_chunks, normed, ("text", "citation", "chapter_code", "section_code"))
 
         if talks_json and talks_json.exists():
             raw = json.loads(talks_json.read_text(encoding="utf-8"))
             chunks = _extract_chunks(raw)
-            normed = [norm_talk_chunk(c) for c in chunks if _norm_str(c.get("text"))]
+            normed = []
+            for c in chunks:
+                if not isinstance(c, dict):
+                    continue
+                # require some talk anchor
+                if not (_norm_str(c.get("ts_url")) or _norm_str(c.get("recorded_date")) or _norm_str(c.get("start_hhmmss"))):
+                    continue
+                nt = norm_talk_chunk(c)
+                if _norm_str(nt.get("text")):
+                    normed.append(nt)
             added_talks = merge_chunks(talk_chunks, normed, ("text", "ts_url"))
 
         if added_book or added_talks:

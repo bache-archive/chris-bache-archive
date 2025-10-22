@@ -3,12 +3,14 @@
 tools/build_educational_docs_full.py
 
 Full-mode builder (verbatim book excerpts + ALL transcript excerpts).
-Improved: derives [hh:mm:ss] from ts_url when the API doesn't provide start_hhmmss,
-and prints the timecode in both the link and the citation line.
 
-Additionally:
-- Normalizes book citation labels so "LSDMU ..." becomes
-  "LSD and the Mind of the Universe ..." in the rendered pages.
+Guarantees:
+- Book quotes render FIRST, talk quotes SECOND (never mixed).
+- Book quotes always show a citation label; if missing, one is synthesized.
+- Talk quotes prefer explicit start_hhmmss and otherwise derive [hh:mm:ss] from ts_url.
+- Labels like "LSDMU ..." are normalized to
+  "LSD and the Mind of the Universe ...".
+- Appends a Fair Use notice to every page.
 
 Usage:
   python3 tools/build_educational_docs_full.py            # build all topics
@@ -37,6 +39,8 @@ DOCS = ROOT / "docs" / "educational"
 TOOLS_ENV = Path(__file__).resolve().parent / ".env"
 ROOT_ENV  = ROOT / ".env"
 
+# ---------- env ----------
+
 def load_env():
     if load_dotenv:
         if TOOLS_ENV.exists(): load_dotenv(TOOLS_ENV)
@@ -55,7 +59,7 @@ def list_qids(one=None):
         return [one]
     qids = [p.parent.name for p in DOCS.glob("*/sources.json")]
     if not qids:
-        sys.exit("[error] no docs/educational/*/sources.json found. Run harvest first.")
+        sys.exit("[error] no docs/educational/*/sources.json found. Run harvest/merge first.")
     return sorted(qids)
 
 # ---------- timecode helpers ----------
@@ -79,7 +83,7 @@ def _parse_hms_token(token: str) -> int | None:
     return h*3600 + mi*60 + s
 
 def extract_time_from_url(url: str | None) -> str | None:
-    """Return hh:mm:ss if url has t= or start= (seconds or h/m/s)."""
+    """Return hh:mm:ss if url has t= or start= (seconds or h/m/s) or a #t= fragment."""
     if not url: return None
     try:
         parsed = urllib.parse.urlparse(url)
@@ -112,7 +116,7 @@ def best_timecode(chunk: dict) -> str | None:
 
 # ---------- label normalization ----------
 
-_LSDMU_RE = re.compile(r'^\s*LSDMU\b')
+_LSDMU_RE = re.compile(r'^\s*LSDMU\b', re.I)
 
 def normalize_citation_label(label: str | None) -> str:
     """
@@ -124,6 +128,17 @@ def normalize_citation_label(label: str | None) -> str:
     if not label:
         return ""
     return _LSDMU_RE.sub("LSD and the Mind of the Universe", label).strip()
+
+def synth_citation_from_ptr(citation: str, ch: str | None, sec: str | None) -> str:
+    """Ensure we always have a readable book label."""
+    label = (citation or "").strip()
+    if not label:
+        label = "LSD and the Mind of the Universe"
+    label = normalize_citation_label(label)
+    parts = []
+    if ch: parts.append(str(ch).strip())
+    if sec: parts.append(str(sec).strip())
+    return f"{label} ({' · '.join(p for p in parts if p)})" if parts else label
 
 # ---------- LLM preface (optional) ----------
 
@@ -171,7 +186,7 @@ def maybe_preface(client, model, qid, book_chunks, talk_chunks) -> str:
 # ---------- rendering ----------
 
 def esc(s: str) -> str:
-    return s.replace("\r\n","\n").replace("\r","\n")
+    return (s or "").replace("\r\n","\n").replace("\r","\n")
 
 def build_md(qid: str, meta_date: str, preface: str, book_chunks: list[dict], talk_chunks: list[dict]) -> str:
     title = qid.replace("-", " ").title()
@@ -187,29 +202,31 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 
     preface_block = f"\n\n> {preface}\n" if preface else ""
 
-    # BOOK — verbatim, all chunks (as harvested)
+    # ==== BOOK — verbatim, all book chunks only (talk-like fields are ignored defensively) ====
     book_lines = ["## Primary citations (book — verbatim excerpts)"]
-    if not book_chunks:
+    # Defensive filter: forbid talk-like entries sneaking into book section
+    def is_talkish(c: dict) -> bool:
+        return bool((c.get("ts_url") or c.get("url") or "").strip() or (c.get("recorded_date") or "").strip())
+
+    true_book_chunks = [c for c in (book_chunks or []) if not is_talkish(c)]
+    if not true_book_chunks:
         book_lines.append("_(No book excerpts present in sources.json.)_")
     else:
-        for c in book_chunks:
-            raw_label = c.get("citation") or c.get("archival_title") or "Book excerpt"
-            label = normalize_citation_label(raw_label)
-            ch = c.get("chapter_code"); sec = c.get("section_code")
-            ptr = []
-            if ch: ptr.append(ch)
-            if sec: ptr.append(sec)
-            pointer = f" ({' · '.join(ptr)})" if ptr else ""
-            book_lines.append(f"\n**{label}{pointer}**\n")
+        for c in true_book_chunks:
+            raw_label = (c.get("citation") or c.get("archival_title") or "").strip()
+            ch = (c.get("chapter_code") or "").strip() or None
+            sec = (c.get("section_code") or "").strip() or None
+            label = synth_citation_from_ptr(raw_label, ch, sec)
+            book_lines.append(f"\n**{label}**\n")
             book_lines.append("> " + esc(c.get("text","")).replace("\n", "\n> ").rstrip())
     book_block = "\n".join(book_lines)
 
-    # TALKS — verbatim, all chunks; timecoded first, then the rest
+    # ==== TALKS — verbatim, all talk chunks; timecoded first, then by score ====
     def sort_key(c):
         tc = 1 if best_timecode(c) else 0
         score = c.get("_score") or 0.0
         return (-tc, -(score or 0.0))
-    talk_sorted = sorted(talk_chunks, key=sort_key)
+    talk_sorted = sorted((talk_chunks or []), key=sort_key)
 
     talk_lines = ["\n## Supporting transcript quotes (verbatim)"]
     if not talk_sorted:
@@ -217,10 +234,12 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
     else:
         for c in talk_sorted:
             text = esc(c.get("text","")).strip()
+            if not text:
+                continue
             hms = best_timecode(c)
-            ts = c.get("ts_url") or c.get("url") or ""
-            ttitle = c.get("archival_title") or "Untitled"
-            date = c.get("recorded_date") or ""
+            ts = (c.get("ts_url") or c.get("url") or "").strip()
+            ttitle = (c.get("archival_title") or "Untitled").strip()
+            date = (c.get("recorded_date") or "").strip()
             if hms and ts:
                 link = f"[{hms}]({ts})"
                 cite_suffix = f" — *{ttitle}* ({date}) • {hms}"
@@ -243,8 +262,8 @@ Cite as: _Christopher M. Bache — Public Talks (2014–2025), retrieved via Bac
 
     fair_use = """
 ## Fair Use Notice
-Excerpts from *LSD and the Mind of the Universe* are reproduced here under the fair use doctrine for **educational and scholarly purposes**. 
-They are provided to support study, research, and public understanding of Christopher M. Bache’s work on consciousness and spiritual evolution. 
+Excerpts from *LSD and the Mind of the Universe* are reproduced here under the fair use doctrine for **educational and scholarly purposes**.
+They support study, research, and public understanding of Christopher M. Bache’s work on consciousness and spiritual evolution.
 All quotations remain the intellectual property of their respective copyright holders.
 """.rstrip()
 
@@ -269,9 +288,10 @@ def main():
     for qid in qids:
         src = DOCS / qid / "sources.json"
         data = json.loads(src.read_text(encoding="utf-8"))
-        book_chunks  = data.get("book",{}).get("chunks",[]) or []
-        talk_chunks  = data.get("talks",{}).get("chunks",[]) or []
-        meta_date    = data.get("meta",{}).get("date","")
+        # Strictly read from separated sections
+        book_chunks  = (data.get("book",{}) or {}).get("chunks",[]) or []
+        talk_chunks  = (data.get("talks",{}) or {}).get("chunks",[]) or []
+        meta_date    = (data.get("meta",{}) or {}).get("date","")
 
         preface = maybe_preface(client, cfg["MODEL"], qid, book_chunks, talk_chunks) if client else ""
         md = build_md(qid, meta_date, preface, book_chunks, talk_chunks)
