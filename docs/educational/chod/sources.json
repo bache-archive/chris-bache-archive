@@ -16,7 +16,7 @@
         "citation": "Bache · 2025-05-18 · New Thinking Allowed · Diamond Luminosity (live stream)",
         "url": "https://youtu.be/FlHqinHyt9I",
         "transcript_path": "sources/transcripts/2025-05-18-diamond-luminosity-live-stream.md",
-        "_score": 0.527587354183197,
+        "_score": 0.5276101231575012,
         "youtube_id": "FlHqinHyt9I",
         "start_sec": 2815.0,
         "end_sec": null,
@@ -42,7 +42,7 @@
         "citation": "Bache · 2022-02-17 · Edge of Mind · Exploring LSD as a Practice (Podcast – Part 1)",
         "url": "https://youtu.be/eV86_iSTEbU",
         "transcript_path": "sources/transcripts/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.md",
-        "_score": 0.4544376730918884,
+        "_score": 0.45441868901252747,
         "youtube_id": "eV86_iSTEbU",
         "start_sec": 7954.0,
         "end_sec": null,
@@ -68,7 +68,7 @@
         "citation": "Bache · 2023-01-06 · S2S Podcast · LSD and the Mind of the Universe – S2S Podcast",
         "url": "https://youtu.be/Kh5aqAuDBIM",
         "transcript_path": "sources/transcripts/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.md",
-        "_score": 0.45134037733078003,
+        "_score": 0.4513886570930481,
         "youtube_id": "Kh5aqAuDBIM",
         "start_sec": 3193.0,
         "end_sec": 3284.271,
@@ -94,7 +94,7 @@
         "citation": "Bache · 2025-05-18 · New Thinking Allowed · Diamond Luminosity (live stream)",
         "url": "https://youtu.be/FlHqinHyt9I",
         "transcript_path": "sources/transcripts/2025-05-18-diamond-luminosity-live-stream.md",
-        "_score": 0.42796599864959717,
+        "_score": 0.42796701192855835,
         "youtube_id": "FlHqinHyt9I",
         "start_sec": 2688.0,
         "end_sec": null,
@@ -120,7 +120,7 @@
         "citation": "Bache · 2022-08-30 · Tasshin Fogleman · Psychedelics and Cosmological Exploration with Chris Bache – Reach Truth Podcast",
         "url": "https://youtu.be/FEQ8ony19sk",
         "transcript_path": "sources/transcripts/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.md",
-        "_score": 0.4086051285266876,
+        "_score": 0.4086441993713379,
         "youtube_id": "FEQ8ony19sk",
         "start_sec": 3201.0,
         "end_sec": null,
@@ -146,7 +146,7 @@
         "citation": "Bache · 2022-08-30 · Tasshin Fogleman · Psychedelics and Cosmological Exploration with Chris Bache – Reach Truth Podcast",
         "url": "https://youtu.be/FEQ8ony19sk",
         "transcript_path": "sources/transcripts/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.md",
-        "_score": 0.40448224544525146,
+        "_score": 0.404560387134552,
         "youtube_id": "FEQ8ony19sk",
         "start_sec": 3144.0,
         "end_sec": null,
@@ -172,7 +172,7 @@
         "citation": "Bache · 2022-02-17 · Edge of Mind · Exploring LSD as a Practice (Podcast – Part 1)",
         "url": "https://youtu.be/eV86_iSTEbU",
         "transcript_path": "sources/transcripts/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.md",
-        "_score": 0.3984718918800354,
+        "_score": 0.3985053598880768,
         "youtube_id": "eV86_iSTEbU",
         "start_sec": 7074.0,
         "end_sec": 7152.706,
@@ -198,7 +198,7 @@
         "citation": "Bache · 2022-06-03 · Edge of Mind · Part II of his Remarkable Twenty-Year Journey into the World of Psychedelics (Podcast – Part 2)",
         "url": "https://youtu.be/-vebDk9FRYU",
         "transcript_path": "sources/transcripts/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.md",
-        "_score": 0.3735210597515106,
+        "_score": 0.37356191873550415,
         "youtube_id": "-vebDk9FRYU",
         "start_sec": 8439.0,
         "end_sec": null,
@@ -224,7 +224,7 @@
         "citation": "Bache · 2021-03-29 · Spirit Plant Medicine · Chris Bache – LSD and the Mind of the Universe – SPMC 2019",
         "url": "https://youtu.be/DBddIrMryJc",
         "transcript_path": "sources/transcripts/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.md",
-        "_score": 0.3733818531036377,
+        "_score": 0.37342607975006104,
         "youtube_id": "DBddIrMryJc",
         "start_sec": 2056.0,
         "end_sec": null,
@@ -250,7 +250,7 @@
         "citation": "Bache · 2018-07-05 · Conscious TV · Diamonds from Heaven – Interview with Iain McNay",
         "url": "https://youtu.be/yewNM9smrqo",
         "transcript_path": "sources/transcripts/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.md",
-        "_score": 0.3713776171207428,
+        "_score": 0.3714499771595001,
         "youtube_id": "yewNM9smrqo",
         "start_sec": 2511.0,
         "end_sec": null,
@@ -260,32 +260,6 @@
         "method": null,
         "confidence": null,
         "ts_url": "https://youtu.be/yewNM9smrqo?t=2511"
-      },
-      {
-        "id": 1800,
-        "talk_id": "2023-01-27-the-mind-of-the-universe-diamonds-from-heaven",
-        "archival_title": "The Mind of the Universe: Diamonds from Heaven",
-        "recorded_date": "2023-01-27",
-        "published": "2023-01-27",
-        "chunk_index": 38,
-        "text": "rough cycles of death and rebirth, their significance, and how they facilitate collective awakening.\nChris Bache:\nFirst, what I’m going to describe is my variation on an ancient Buddhist teaching. When one sits to meditate or do spiritual practice, the first step is cultivating bodhicitta—the wish to save all sentient beings. You do the practice not for personal benefit but to nourish the uplift of the whole of creation. The last step is distributing the merit—you give away the blessings you’ve acquired. In mature spiritual practice, everything is for the benefit of the whole.",
-        "token_est": null,
-        "hash": null,
-        "channel": "Portals of Perception",
-        "source_type": "lecture",
-        "citation": "Bache · 2023-01-27 · Portals of Perception · The Mind of the Universe: Diamonds from Heaven",
-        "url": "https://youtu.be/ec0elBHJXAc",
-        "transcript_path": "sources/transcripts/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.md",
-        "_score": 0.36754828691482544,
-        "youtube_id": "ec0elBHJXAc",
-        "start_sec": 3309.0,
-        "end_sec": null,
-        "start_hhmmss": "00:55:09",
-        "end_hhmmss": null,
-        "source_used": null,
-        "method": null,
-        "confidence": null,
-        "ts_url": "https://youtu.be/ec0elBHJXAc?t=3309"
       },
       {
         "id": 1413,
@@ -302,7 +276,7 @@
         "citation": "Bache · 2022-06-03 · Edge of Mind · Part II of his Remarkable Twenty-Year Journey into the World of Psychedelics (Podcast – Part 2)",
         "url": "https://youtu.be/-vebDk9FRYU",
         "transcript_path": "sources/transcripts/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.md",
-        "_score": 0.36753785610198975,
+        "_score": 0.3676137328147888,
         "youtube_id": "-vebDk9FRYU",
         "start_sec": 3404.0,
         "end_sec": 3506.714,
@@ -312,6 +286,32 @@
         "method": "fuzzy",
         "confidence": 0.724,
         "ts_url": "https://youtu.be/-vebDk9FRYU?t=3404"
+      },
+      {
+        "id": 1800,
+        "talk_id": "2023-01-27-the-mind-of-the-universe-diamonds-from-heaven",
+        "archival_title": "The Mind of the Universe: Diamonds from Heaven",
+        "recorded_date": "2023-01-27",
+        "published": "2023-01-27",
+        "chunk_index": 38,
+        "text": "rough cycles of death and rebirth, their significance, and how they facilitate collective awakening.\nChris Bache:\nFirst, what I’m going to describe is my variation on an ancient Buddhist teaching. When one sits to meditate or do spiritual practice, the first step is cultivating bodhicitta—the wish to save all sentient beings. You do the practice not for personal benefit but to nourish the uplift of the whole of creation. The last step is distributing the merit—you give away the blessings you’ve acquired. In mature spiritual practice, everything is for the benefit of the whole.",
+        "token_est": null,
+        "hash": null,
+        "channel": "Portals of Perception",
+        "source_type": "lecture",
+        "citation": "Bache · 2023-01-27 · Portals of Perception · The Mind of the Universe: Diamonds from Heaven",
+        "url": "https://youtu.be/ec0elBHJXAc",
+        "transcript_path": "sources/transcripts/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.md",
+        "_score": 0.3675941824913025,
+        "youtube_id": "ec0elBHJXAc",
+        "start_sec": 3309.0,
+        "end_sec": null,
+        "start_hhmmss": "00:55:09",
+        "end_hhmmss": null,
+        "source_used": null,
+        "method": null,
+        "confidence": null,
+        "ts_url": "https://youtu.be/ec0elBHJXAc?t=3309"
       },
       {
         "id": 572,
@@ -328,7 +328,7 @@
         "citation": "Bache · 2020-04-19 · Australian Psychedelic Society · Bicycle Day Conversation with Jef Baker",
         "url": "https://youtu.be/B0BhUOEP1Mg",
         "transcript_path": "sources/transcripts/2020-04-19-bicycle-day-conversation-with-jef-baker.md",
-        "_score": 0.364301860332489,
+        "_score": 0.364316463470459,
         "youtube_id": "B0BhUOEP1Mg",
         "start_sec": 4404.0,
         "end_sec": null,
@@ -354,7 +354,7 @@
         "citation": "Bache · 2022-01-20 · Deep Transformation Podcast · Evolution of Collective Consciousness (Part 1)",
         "url": "https://youtu.be/-2NMOMvRkYE",
         "transcript_path": "sources/transcripts/2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.md",
-        "_score": 0.35579296946525574,
+        "_score": 0.35582226514816284,
         "youtube_id": "-2NMOMvRkYE",
         "start_sec": 6152.0,
         "end_sec": 6216.965,
@@ -380,7 +380,7 @@
         "citation": "Bache · 2023-01-27 · Portals of Perception · The Mind of the Universe: Diamonds from Heaven",
         "url": "https://youtu.be/ec0elBHJXAc",
         "transcript_path": "sources/transcripts/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.md",
-        "_score": 0.35363420844078064,
+        "_score": 0.35363703966140747,
         "youtube_id": "ec0elBHJXAc",
         "start_sec": 4125.0,
         "end_sec": 4249.657,
@@ -406,7 +406,7 @@
         "citation": "Bache · 2024-02-10 · San Diego Integral · LSD and the Mind of the Universe: Diamonds from Heaven (SDI Meeting)",
         "url": "https://youtu.be/Ucgt6vNpCDI",
         "transcript_path": "sources/transcripts/2024-02-10-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-sdi-meeting.md",
-        "_score": 0.3517584204673767,
+        "_score": 0.3517758250236511,
         "youtube_id": "Ucgt6vNpCDI",
         "start_sec": 4695.0,
         "end_sec": null,
@@ -432,7 +432,7 @@
         "citation": "Bache · 2018-10-12 · Adventures Through the Mind · Mapping Consciousness with High-Dose LSD (ATTMind #83)",
         "url": "https://youtu.be/L3D_fSr75u8",
         "transcript_path": "sources/transcripts/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.md",
-        "_score": 0.3506091833114624,
+        "_score": 0.35066187381744385,
         "youtube_id": "L3D_fSr75u8",
         "start_sec": 1268.0,
         "end_sec": null,
@@ -458,7 +458,7 @@
         "citation": "Bache · 2022-01-20 · Deep Transformation Podcast · Evolution of Collective Consciousness (Part 1)",
         "url": "https://youtu.be/-2NMOMvRkYE",
         "transcript_path": "sources/transcripts/2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.md",
-        "_score": 0.3498793840408325,
+        "_score": 0.3498815596103668,
         "youtube_id": "-2NMOMvRkYE",
         "start_sec": 8348.0,
         "end_sec": null,
@@ -484,7 +484,7 @@
         "citation": "Bache · 2018-08-30 · TimeWaver TV · Diamonds from Heaven – Lecture at TimeWaver Summer World 2018",
         "url": "https://youtu.be/O4ui6I1Wo9c",
         "transcript_path": "sources/transcripts/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.md",
-        "_score": 0.346504271030426,
+        "_score": 0.3465593159198761,
         "youtube_id": "O4ui6I1Wo9c",
         "start_sec": 2134.0,
         "end_sec": null,
@@ -510,7 +510,7 @@
         "citation": "Bache · 2018-08-30 · TimeWaver TV · Diamonds from Heaven – Lecture at TimeWaver Summer World 2018",
         "url": "https://youtu.be/O4ui6I1Wo9c",
         "transcript_path": "sources/transcripts/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.md",
-        "_score": 0.3454594314098358,
+        "_score": 0.34548068046569824,
         "youtube_id": "O4ui6I1Wo9c",
         "start_sec": 1684.0,
         "end_sec": null,
@@ -544,7 +544,7 @@
         "section": 3,
         "paragraph": 5,
         "sentence": null,
-        "_score": 0.5930380821228027
+        "_score": 0.5930371880531311
       },
       {
         "id": "lsdmu.c10.s03.p02",
@@ -565,7 +565,7 @@
         "section": 3,
         "paragraph": 2,
         "sentence": null,
-        "_score": 0.5692312717437744
+        "_score": 0.5692845582962036
       },
       {
         "id": "lsdmu.c10.s05.p16",
@@ -586,7 +586,7 @@
         "section": 5,
         "paragraph": 16,
         "sentence": null,
-        "_score": 0.40240025520324707
+        "_score": 0.40245968103408813
       },
       {
         "id": "lsdmu.c02.s02.p12",
@@ -607,7 +607,7 @@
         "section": 2,
         "paragraph": 12,
         "sentence": null,
-        "_score": 0.3981197774410248
+        "_score": 0.39816421270370483
       },
       {
         "id": "lsdmu.c11.s02.p02",
@@ -628,7 +628,7 @@
         "section": 2,
         "paragraph": 2,
         "sentence": null,
-        "_score": 0.3661874830722809
+        "_score": 0.3662775158882141
       },
       {
         "id": "lsdmu.c06.s00.p57",
@@ -649,7 +649,7 @@
         "section": 0,
         "paragraph": 57,
         "sentence": null,
-        "_score": 0.35201284289360046
+        "_score": 0.3520984351634979
       },
       {
         "id": "lsdmu.c08.s00.p02",
@@ -670,7 +670,7 @@
         "section": 0,
         "paragraph": 2,
         "sentence": null,
-        "_score": 0.34223800897598267
+        "_score": 0.3423042297363281
       },
       {
         "id": "lsdmu.c08.s00.p17",
@@ -691,7 +691,7 @@
         "section": 0,
         "paragraph": 17,
         "sentence": null,
-        "_score": 0.3396857678890228
+        "_score": 0.33976060152053833
       },
       {
         "id": "lsdmu.c10.s05.p03",
@@ -712,7 +712,7 @@
         "section": 5,
         "paragraph": 3,
         "sentence": null,
-        "_score": 0.3384642004966736
+        "_score": 0.33854809403419495
       },
       {
         "id": "lsdmu.c11.s01.p15",
@@ -733,7 +733,7 @@
         "section": 1,
         "paragraph": 15,
         "sentence": null,
-        "_score": 0.3341999053955078
+        "_score": 0.3342508375644684
       },
       {
         "id": "lsdmu.c11.s01.p02",
@@ -754,49 +754,7 @@
         "section": 1,
         "paragraph": 2,
         "sentence": null,
-        "_score": 0.32909563183784485
-      },
-      {
-        "id": "lsdmu.c04.s03.p01",
-        "talk_id": null,
-        "archival_title": null,
-        "recorded_date": null,
-        "published": null,
-        "chunk_index": 309,
-        "text": "I entered the last two sessions of this series knowing that I was about to stop my work for an unknown period of time. In the sixteenth session, something unexpected happened. When everything disintegrated into its chaotic flow, the pain escalated into a frenzy so extreme that it morphed into an orgy of *bhaktian* rapture. Just as the suffering reached a fevered pitch, the thought of the Divine flashed in my mind and I surrendered completely. Caught in surging elemental forces, I became a devotee singing to the Divine in ecstatic trance. He was vast, and he played me like a trumpet. My consciousness was the instrument and my life the melody.",
-        "token_est": null,
-        "hash": null,
-        "channel": null,
-        "source_type": null,
-        "citation": "LSDMU ch.4 §3 ¶1",
-        "url": null,
-        "transcript_path": null,
-        "chapter": 4,
-        "section": 3,
-        "paragraph": 1,
-        "sentence": null,
-        "_score": 0.315182626247406
-      },
-      {
-        "id": "lsdmu.c11.s00.p23",
-        "talk_id": null,
-        "archival_title": null,
-        "recorded_date": null,
-        "published": null,
-        "chunk_index": 1059,
-        "text": "Light manifesting as Matter,\nDharmakaya manifesting as Nirmanakaya,\nHeaven giving birth to Earth continuously.",
-        "token_est": null,
-        "hash": null,
-        "channel": null,
-        "source_type": null,
-        "citation": "LSDMU ch.11 §0 ¶23",
-        "url": null,
-        "transcript_path": null,
-        "chapter": 11,
-        "section": 0,
-        "paragraph": 23,
-        "sentence": null,
-        "_score": 0.3151804506778717
+        "_score": 0.32915860414505005
       },
       {
         "id": "lsdmu.c08.s01.p04",
@@ -817,7 +775,49 @@
         "section": 1,
         "paragraph": 4,
         "sentence": null,
-        "_score": 0.31517520546913147
+        "_score": 0.31527435779571533
+      },
+      {
+        "id": "lsdmu.c04.s03.p01",
+        "talk_id": null,
+        "archival_title": null,
+        "recorded_date": null,
+        "published": null,
+        "chunk_index": 309,
+        "text": "I entered the last two sessions of this series knowing that I was about to stop my work for an unknown period of time. In the sixteenth session, something unexpected happened. When everything disintegrated into its chaotic flow, the pain escalated into a frenzy so extreme that it morphed into an orgy of *bhaktian* rapture. Just as the suffering reached a fevered pitch, the thought of the Divine flashed in my mind and I surrendered completely. Caught in surging elemental forces, I became a devotee singing to the Divine in ecstatic trance. He was vast, and he played me like a trumpet. My consciousness was the instrument and my life the melody.",
+        "token_est": null,
+        "hash": null,
+        "channel": null,
+        "source_type": null,
+        "citation": "LSDMU ch.4 §3 ¶1",
+        "url": null,
+        "transcript_path": null,
+        "chapter": 4,
+        "section": 3,
+        "paragraph": 1,
+        "sentence": null,
+        "_score": 0.3152662515640259
+      },
+      {
+        "id": "lsdmu.c11.s00.p23",
+        "talk_id": null,
+        "archival_title": null,
+        "recorded_date": null,
+        "published": null,
+        "chunk_index": 1059,
+        "text": "Light manifesting as Matter,\nDharmakaya manifesting as Nirmanakaya,\nHeaven giving birth to Earth continuously.",
+        "token_est": null,
+        "hash": null,
+        "channel": null,
+        "source_type": null,
+        "citation": "LSDMU ch.11 §0 ¶23",
+        "url": null,
+        "transcript_path": null,
+        "chapter": 11,
+        "section": 0,
+        "paragraph": 23,
+        "sentence": null,
+        "_score": 0.31523555517196655
       },
       {
         "id": "lsdmu.c07.s01.p04",
@@ -838,7 +838,7 @@
         "section": 1,
         "paragraph": 4,
         "sentence": null,
-        "_score": 0.3135124146938324
+        "_score": 0.31357818841934204
       },
       {
         "id": "lsdmu.c08.s01.p25",
@@ -859,7 +859,7 @@
         "section": 1,
         "paragraph": 25,
         "sentence": null,
-        "_score": 0.3115902841091156
+        "_score": 0.31165656447410583
       },
       {
         "id": "lsdmu.c10.s00.p11",
@@ -880,7 +880,7 @@
         "section": 0,
         "paragraph": 11,
         "sentence": null,
-        "_score": 0.3103899359703064
+        "_score": 0.3104579746723175
       },
       {
         "id": "lsdmu.c09.s01.p13",
@@ -901,7 +901,7 @@
         "section": 1,
         "paragraph": 13,
         "sentence": null,
-        "_score": 0.31020689010620117
+        "_score": 0.3102584779262543
       },
       {
         "id": "lsdmu.c04.s03.p02",
@@ -922,7 +922,7 @@
         "section": 3,
         "paragraph": 2,
         "sentence": null,
-        "_score": 0.30980828404426575
+        "_score": 0.3098703920841217
       },
       {
         "id": "lsdmu.c10.s00.p13",
@@ -943,7 +943,7 @@
         "section": 0,
         "paragraph": 13,
         "sentence": null,
-        "_score": 0.30063527822494507
+        "_score": 0.30071431398391724
       }
     ]
   },

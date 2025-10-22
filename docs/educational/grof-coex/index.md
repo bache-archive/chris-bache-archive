@@ -7,7 +7,7 @@ source_policy: "Book-first. Public transcripts as color with timestamped links."
 ---
 
 
-> Christopher M. Bache is a prominent figure in the exploration of consciousness, particularly in relation to the concepts of COEX systems and the collective unconscious. His work delves into how personal and collective experiences are organized thematically, revealing patterns of emotional resonance that span across individual and shared human histories. Bache's research provides insights into the therapeutic potential of engaging with these deep layers of experience, contributing to a broader understanding of psychological and spiritual development.
+> This educational page explores the concepts of COEX systems and meta-COEX systems, as developed by Stanislav Grof. These frameworks describe how both individual and collective psyches organize memories and experiences around common emotional themes. The discussion highlights the parallels between personal and collective trauma, emphasizing the significance of these systems in understanding human consciousness and historical memory.
 
 ## Primary citations (book — verbatim excerpts)
 

@@ -1,0 +1,107 @@
+---
+title: "Feminine Divine Cosmic Birth"
+id: "feminine-divine-cosmic-birth"
+date: "2025-10-22"
+version: "v1"
+source_policy: "Book-first. Public transcripts as color with timestamped links."
+---
+
+
+> Christopher M. Bache is a scholar and author known for his exploration of consciousness and the intersection of spirituality and science. His work often delves into themes of the feminine divine and the cosmic processes that shape existence. Bache's insights challenge traditional theological perspectives, particularly regarding the relationship between nature, gender, and the divine. This page provides an overview of his contributions to these discussions and the implications for understanding the universe.
+
+## Primary citations (book — verbatim excerpts)
+_(No book excerpts present in sources.json.)_
+
+## Supporting transcript quotes (verbatim)
+
+> ently traveled.
+
+Jef Baker: It’s interesting that you also note perceiving the universe as feminine.
+Chris Bache: For two reasons I discuss in the book. First, the tremendous love the universe awakened in me—the deep heart-opening and passionate love that took me in—had a feminine quality. Second, a specific cosmology emerged in my sessions that surprised me; it wasn’t one I’d internalized from my reading. I was taken back to the beginning of creation—before the Big Bang—and experienced the universe emerging out of a primal oneness which becomes two, yin and yang. Out of that primal two, one consciousness remained outside time and space, intact, while the other entered time and space and manifested everything that has evolved since the Big Bang. The consciousness that stayed outside felt more “masculine,” and the consciousness that created felt more “feminine.” It was congruent with my repeated experience of the universe as more feminine than masculine. The Great Mother lineage is very strong in me; I’ve always felt deeply connected to it.
+
+Jef Baker: As in many cultures around the world, the Earth is the Great Mother.
+
+[00:41:14](https://youtu.be/B0BhUOEP1Mg?t=2474)  — *Bicycle Day Conversation with Jef Baker* (2020-04-19) • 00:41:14
+
+> of the cosmic process integrating and interpenetrating, liberating each other from their loneliness.
+Chris Bache:
+I want to be careful and remind us that a finite mind does its best to give cognitive structure to transcendent experiences. What I’m about to describe is a heuristic: a splitting of the divine principle into two halves—a “male” half that stays outside time and space in a transcendent position, and a “female” half that manifests time and space and the physical cosmos. I don’t literally think in male/female terms, but this is the best my mind could do. The principle is what matters: not all creative intelligence manifests as physical reality. Some holds position outside physical reality. There is a spiritual reality that gives birth to physical reality.
+
+[00:50:22](https://youtu.be/ec0elBHJXAc?t=3022)  — *The Mind of the Universe: Diamonds from Heaven* (2023-01-27) • 00:50:22
+
+> side of women’s experiences and taken on an extraordinary journey under the arm of the Great Mother.
+I believe in reincarnation—we’ve had lives as men and women—but this wasn’t simply encountering former lives. The message was: where you are going, gender does not exist. Let go. When I let go of my identity as Chris Bache, I entered the beginnings of a deep conversation, a deep communion with the universe. I thought after such a deep ego death my suffering was over and I would be introduced to a banquet of cosmological insights. That’s not what happened at the collective mind level.
+
+[00:18:11](https://youtu.be/icBasHgjzsY?t=1091)  — *LSD and the Mind of the Universe – Christopher Bache, Ph.D.* (2021-06-03) • 00:18:11
+
+> ted in that kind of slightly self-denial philosophy, isn’t it? That also is many thousands of years…
+Chris Bache: I think basically all the axial religions got two things fundamentally wrong. They got nature wrong—they don’t really have an adequate theology or understanding of nature—and they got women wrong. The two are connected, because women are so closely connected to nature, and those traditions were patriarchally and escapist oriented. As a historian, I understand it. Four or five thousand years ago, through various psychotechnologies—yoga, meditation, or psychedelic substances—we began to have deeper experiences of the Mother Universe, the universe that surrounds the physical universe. Once you have experiential contact with that universe, it is so blissful, so ecstatic, and you recognize that’s where we’re from. You can’t help believing that’s where we belong. This is not where we belong; that is where we belong. So a theology of return developed: the savior comes to take us home, the enlightened being liberates us back into our home. But that still leaves the question: what is the purpose of creation?
+
+[00:34:05](https://youtu.be/jVDndxA6aZo?t=2045)  — *Contemplating Reincarnation (Part 1)* (2021-04-01) • 00:34:05
+
+> g about the Divine, the collective mind, manifesting in matter within the universe. Is that correct?
+Chris Bache
+Yes. Think of a mother universe and a daughter universe. The mother universe is spiritual reality, continually infusing, orchestrating, shaping, and receiving physical reality. At the subatomic level there’s a dance, a continual infusion of energy into time and space from the quantum or sub-quantum realm. Ninety-six percent of the universe is dark energy and dark matter—physical existence is just the surface.
+
+[01:00:46](https://youtu.be/Dw7D7ih8vy0?t=3646)  — *EP.6 - Chris Bache | LSD AND THE MIND OF THE UNIVERSE* (2020-05-13) • 01:00:46
+
+> ly connected to it.
+
+Jef Baker: As in many cultures around the world, the Earth is the Great Mother.
+Chris Bache: I consider my work always in service of the Great Mother.
+
+Jef Baker: As I noted earlier, I’m just up to the point of deep time in your book. Perhaps you could give us a little insight into the nature of deep time.
+
+Chris Bache: Early on, after the ocean of suffering in the cleansing phase—really intense collective cleansing—when I came through each session, I’d be spun into a reality so foreign that, after my 11th session, I couldn’t remember it. It took months to begin to fully recall it. I had entered what I later called “deep time.” For a year and a total of seven sessions, I experienced my life as a completed whole—start to finish—with all the days of my life simultaneously present. Holding the totality of my life in a single now was hard for a mind trained to operate linearly. It literally took a year to learn to stabilize consciousness at that condition. I kept going back to the same state; the universe was teaching me how to be conscious there.
+
+[00:43:59](https://youtu.be/B0BhUOEP1Mg?t=2639)  — *Bicycle Day Conversation with Jef Baker* (2020-04-19) • 00:43:59
+
+> ife as many different women in turn. What do you think was the purpose, and how did they impact you?
+Chris Bache: That was my ego death experience. Around my ninth or tenth session, the universe broke me like a twig. I began the day as a white, Ivy League–educated philosopher, passionately concerned with the meaning of existence. The universe forced me to become its exact opposite. I became women. I became women of color. I became women who weren’t interested in the meaning of life, who weren’t educated at all. I was myself, but in all these other roles. It terrified me. I fought it. Eventually, when I surrendered and allowed myself to become all these women, everything shifted. I was taken under the arm of the Great Mother and initiated into the lives of hundreds of women—the more positive side of female experience—conceiving, giving birth, loving husbands, loving children.
+
+[00:13:54](https://youtu.be/2Trb-vC8zc0?t=834)  — *LSD & the Mind of the Universe (What Is Going OM)* (2023-08-17) • 00:13:54
+
+> the illumination and its effects mirrors what’s recognized and highly valued in certain traditions.
+Chris Bache
+There is nothing unique in my journey. I’m rediscovering what many people in many traditions have already discovered. The technology may differ, but the core understandings—the truths and insights—have been with us a long time, embodied by great beings and passed on. There’s nothing unique in my work.
+
+Roger Walsh
+And you opened to experiences others have opened to, yet you brought your own unique constellation—your gifts as a philosopher and theologian. So it’s the “yes, and.”
+
+Chris Bache
+At the end, when I wasn’t sure what to do with all of this, the Mother—my naming of the Absolute tends to run feminine—spoke. I see myself as a servant of the Great Mother, with physical existence as her embodiment and the transcendent divine as more male, the embodied divine more female. She said, “Let them see me as you have seen me. That’s all. They’ll know what to do with it. It will serve them in ways you can’t anticipate. Just let them see me.”
+
+[02:10:25](https://youtu.be/-2NMOMvRkYE?t=7825)  — *Evolution of Collective Consciousness (Deep Transformation Podcast – Part 1)* (2022-01-20) • 02:10:25
+
+> ly, what did that do to you when you suddenly connected with the female experience after being male?
+Chris Bache:
+About two and a half years into my journey—around sessions 10 or 11—the universe put me into a situation where I could experience nothing except from within a feminine identity. It was a womanly form that was the exact opposite of my male, academic, intellectually oriented form. It was totally terrifying to experience being me but not being me within a framework I’d never known. It snapped me. When I let go and yielded, I became hundreds—potentially thousands—of women and was given a journey into the world of women under the arm of the Great Mother. It was ecstatic. When it opened, I thought, Why was I afraid of this? This is marvelous. The universe was teaching me that where I was going, gender does not exist. All gender, all roles based on gender, and any aspect of my historical personality had to be surrendered if I was going to experience more intimately what is there.
+
+Regina Meredith:
+On behalf of the men and women watching this: what was the most terrifying or difficult part initially of being confronted with a woman’s reality?
+
+[00:04:27](https://youtu.be/S4XSaHn54P4?t=267)  — *73 Trips: Inside the Psychedelic Universe* (2023-11-06) • 00:04:27
+
+> , you talked about the birth of the future human. Can you shed a little light on what that is about?
+Chris Bache:
+There’s a chapter in the book called “The Birth of the Future Human.” I think it may be the most important chapter, and it completely surprised me. I thought my work was a personal journey—healing, awakening. Then it broadened into an individual’s insight into the deep structure of our lives. But starting around 1990 through 1995, I began receiving a series of internally consistent visions about humanity’s evolutionary destiny: where we were in our journey, that we were coming to a turning point, a crescendo that would catalyze a tremendous transformation inside humanity—a true before-and-after moment in time. A profound spiritual transformation was coming to a head. This kept repeating itself in my work in different ways, but I didn’t know how the universe was going to pull it off.
+
+[01:19:52](https://youtu.be/FMgixG6Z0sk?t=4792)  — *Psychedelics and the Cosmic Mind* (2025-03-18) • 01:19:52
+
+> ard with the universe, and it will happen. The old has to die for this magnificent being to be born.
+This is a species of Buddhas, Christs, Prophets. This is when the feminine is fully healed and reconciled with the masculine, giving unprecedented access to the blessings of cosmic intelligence—absolutely embodied. No more ‘up and out’ cosmology, no escapist theologies, no Bardo. The Bardo is in the process of emptying itself—it’s a temporary condition in the evolutionary saga, and as we become more integrated, we no longer need that buffer. This is, admittedly, one person’s limited view, but I think we all feel some part of it. It’s much bigger than any one person can see.
+
+Thank you.
+
+[01:56:52](https://youtu.be/OJipHXvczW0?t=7012)  — *Chris Bache, Waking Up in the Classroom – Lessons from 30 Years of Teaching* (2014-11-10) • 01:56:52
+
+> ownward. This is a cosmic dance—a meeting between deep levels of the Divine, God communing with God.
+Chris Bache:
+So what dies and is reborn at these deeper cycles of death and rebirth—beyond the ego, beyond the species ego, beyond a series of shamanic personas? I think what dies and is reborn is something of truly cosmic proportions. Some dimension God is calling, some dimension that is extraordinarily vast, surrenders, and in that surrendering awakens more completely to itself. Much to our surprise, the divine appears to genuinely appreciate our help in facilitating this communion. Stan, thank you from the bottom of my heart—thank you.
+
+[00:30:10](https://youtu.be/cEsoN2IaGc4?t=1810)  — *Exploring the Boundaries of Death and Rebirth in LSD Psychotherapy* (2015-03-16) • 00:30:10
+
+
+## Provenance
+Built from `sources.json` (harvested 2025-10-22).
+Cite as: _Christopher M. Bache — Public Talks (2014–2025), retrieved via Bache Talks RAG v1.2-rc1._

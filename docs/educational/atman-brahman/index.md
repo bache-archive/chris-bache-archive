@@ -1,0 +1,107 @@
+---
+title: "Atman Brahman"
+id: "atman-brahman"
+date: "2025-10-22"
+version: "v1"
+source_policy: "Book-first. Public transcripts as color with timestamped links."
+---
+
+
+> Christopher M. Bache is a scholar known for his exploration of consciousness and its relationship to the universe, drawing from both Eastern philosophical traditions and contemporary psychedelic experiences. His work often emphasizes the interconnectedness of individual and universal essence, encapsulated in the concept of "Atman is Brahman." Bache's insights contribute to a broader understanding of reality as a manifestation of a single, intentional consciousness. His research invites a reevaluation of traditional Western perspectives on spirituality and existence.
+
+## Primary citations (book — verbatim excerpts)
+_(No book excerpts present in sources.json.)_
+
+## Supporting transcript quotes (verbatim)
+
+> cy. You say the universe is interested in our experience of it. Why do you believe that is the case?
+Chris Bache:
+Part of my experience reflects a classic teaching in some Eastern traditions: the essence of the individual is the same as the essence of the totality—Atman is Brahman. Our nature is the nature of the divine, which is the nature of reality itself. So it’s not completely accurate to frame this as a duality between me and It. At a deeper level, my being is a fractal manifestation of Its reality. Our relationship is deeply essential and mutually participating from the start. But functionally, in terms of Chris Bache, I am so small and It is so vast that there’s a relative duality involved. And between my small bit and the totality are layers upon layers. It’s a very complex, organic system of massive scale.
+
+[00:10:46](https://youtu.be/ec0elBHJXAc?t=646)  — *The Mind of the Universe: Diamonds from Heaven* (2023-01-27) • 00:10:46
+
+> hemselves? It's not just, "Oh, I am in the universe." Is there a sense of being all of that as well?
+Chris Bache
+Yes, absolutely. At each deeper level, I experienced it less as entering a new reality and more as remembering a dimension of my own existence I'd forgotten. Becoming one with God—or what I prefer to call "that fundamental reality" to avoid the baggage of the word "God"—isn't about confronting some external deity and merging. It's about remembering the fundamental truth that this is what you are: a manifestation, a fractal embodiment of this divine impulse. As you become larger, you remember more. As you remember more, clarity grows. As clarity grows, you sink deeper into these oceanic currents—in essence, the whole experience is about waking up. It's not dying and being reborn, but realizing your true, natural state.
+
+[00:30:48](https://youtu.be/L3D_fSr75u8?t=1848)  — *Mapping Consciousness with High-Dose LSD (ATTMind #83)* (2018-10-12) • 00:30:48
+
+> sing: surrender completely, open, breathe, receive teachings, then bring it back in and consolidate.
+Emmy Vadnais: What are some of the teachings you received?
+
+Chris Bache: That the universe is a manifestation of a single consciousness—a massive consciousness beyond anything we’ve grasped in Western religious and philosophical traditions. Creation is intentional. I hesitate to use “design,” but there is an intelligence manifesting in time and space. We are part of this intelligence; our nature is of the same nature as its nature—Atman is Brahman. Reincarnation is a fact of life. We won’t get far trying to understand existence unless we understand the pulse of life—that our current life is just the most recent in many cycles of life and death. There is an underlying logic to our circumstances—what Buddhists and Hindus call karma—an intentionality working itself out in our lives. Our evolution is not driven solely by blind chance and mechanical processes; there is a deeper intelligence manifesting in our circumstances and challenges, inviting us to become more by the end of life than we were at the beginning. Those are a few touch points.
+
+[00:31:22](https://youtu.be/FMgixG6Z0sk?t=1882)  — *Psychedelics and the Cosmic Mind* (2025-03-18) • 00:31:22
+
+> s like you found that Atman is Brahman—that we are part of the Divine, and the Divine is part of us.
+Chris Bache:
+Yes—and there’s very little that’s new in the experiences I lay out. The vision of reality, the cosmology that emerges out of psychedelic work, is fundamentally the same as what emerges out of the deepest, most refined levels of the world’s mystical traditions. We’re not bringing something radically new to the table. What we have is a different protocol, a different strategy for accessing these very deep levels of reality, which yield deep insights into the structure of existence. But you’ll find the same fundamental cosmology in the great spiritual traditions.
+
+Emmy Vadnais:
+Since you brought up the Hubble telescope, and we’ve been talking about consciousness, what did you discover about our universe—the physical universe, space, outer space? Did you traverse that aspect in your sessions?
+
+[01:15:14](https://youtu.be/FMgixG6Z0sk?t=4514)  — *Psychedelics and the Cosmic Mind* (2025-03-18) • 01:15:14
+
+> creator principle, a God, a divine transhuman intelligence that is holding, guiding, nurturing you?
+Chris Bache
+It’s really not difficult when you move into it. Let’s focus on the Buddhist teaching of anatta—no self—and shunyata—emptiness, which can also be translated as transparency. I endorse Buddhism’s radical agnosticism. It’s an anti-theism in the sense that it critiques every theism proposed as structurally flawed. In its place, Buddhism proposes a pure process understanding of reality: everything is dynamic, constantly changing, fluid, in process. There is no thing that holds existence by itself; you only exist in the interplay of the whole ocean of causality—karmic forces, cosmic down to species down to individual. It’s all an open system. When you wake up to your essential nature, you don’t wake up to a separate thing; you wake up to a fluid process.
+
+[00:27:53](https://youtu.be/eV86_iSTEbU?t=1673)  — *Exploring LSD as a Practice (Edge of Mind Podcast – Part 1)* (2022-02-17) • 00:27:53
+
+> h my beloved, did I realize the true cost of overextending myself so deeply into the transcendental.
+Sandy Sedgbeer: Before we go to a break, one question. You said the universe is the body of God. What are we?
+
+Chris Bache: We are part of the universe, so we are part of the body of God too—part of the manifestation of the universe’s intention to create. Our body is rooted in quantum and atomic reality; the evolutionary story is built into our nerves, vascular systems, and organs. Likewise, our minds are part of the creative intelligence manifesting existence. When we go deep into mind and drop beneath the depths of the personal mind, there’s no floor—we fall into the mind of the species, then into the mind of the universe. Then the Hindu teaching Atman is Brahman—the essence of the individual is the essence of the totality—becomes the most natural core truth. Another core truth is oneness: Brahman is one, and we are a fractal manifestation of that oneness. Once known, even when you return to paying bills and the tasks of the physical world, all you have to do is step back to re-appreciate these deeper truths—the deeper pulsing of life.
+
+[00:32:02](https://youtu.be/2Trb-vC8zc0?t=1922)  — *LSD & the Mind of the Universe (What Is Going OM)* (2023-08-17) • 00:32:02
+
+> played out in your experience? Because when we die, we become nothing and simultaneously everything.
+Chris Bache:
+The experience was to become one with all of existence—to become one with God, with the universe, with the One. We can’t do that if we’re not one within ourselves—if we have unintegrated shadow, ego fragments, untouchable wounds. When you move into intimacy with life, life brings these unintegrated pieces to the surface so you can make peace with them, reabsorb them, and become whole and coherent within your own being. How could you become one with life if you’re not one with yourself? These things develop synergistically: the deeper your experience of oneness with life, the deeper your experience of oneness with yourself, until these divisions disappear inside. One of the wonderful qualities we appreciate about awakened beings is their integrity, their oneness, their deep relaxation within themselves, which grows out of their intimacy with life itself.
+
+[00:46:56](https://youtu.be/-vebDk9FRYU?t=2816)  — *Part II of his Remarkable Twenty-Year Journey into the World of Psychedelics (Edge of Mind Podcast – Part 2)* (2022-06-03) • 00:46:56
+
+> ding of what’s taking place here. We’ve tagged this for one of our topics for our second discussion.
+Richard Rudd: We plant the seed now. When you go into that kind of worldview, the perfection of the choreography you’re describing is mind-blowing—the interconnectivity of soul groups, fractals, patternings of humans. One of the great insights I got from your “unit mind of the universe” book was a paradox you describe: being an individual soul and yet being everything at the same time. How does that hold up? You described it beautifully—the soul as “open on all sides.” It’s part of the ocean and yet still a focalized drop of awareness.
+
+Chris Bache: It seems commonsensical that you can’t be both a part and the whole at the same time—mutually exclusive categories. Even great spiritual teachers—say, the Vedanta tradition—have said the goal of life is to abandon individuality, dissolve it, and be absorbed into the totality, to know the bliss of absorption. In that view, all the individual capacity we’ve developed over incarnations ends in extinction. I think that’s inadequate.
+
+[00:55:47](https://youtu.be/jVDndxA6aZo?t=3347)  — *Contemplating Reincarnation (Part 1)* (2021-04-01) • 00:55:47
+
+> art, but to continue evolving. Do you feel your journey confirms Buddhism, and where does it differ?
+Chris Bache
+I’ve been deeply influenced by all the world’s religions. I began as a Christian and a Catholic—four years in seminary studying for the priesthood. I studied Hebrew and Greek for biblical work. I’ve learned so much from Hinduism, Buddhism, Taoism, and Native traditions. The two deepest, longest-lasting influences on me have been Christianity and Buddhism.
+
+I think my journey affirms the deepest truths of Christianity and of all the world’s religions—Judaism’s Kabbalah, Hinduism, Buddhism—while also, in important ways, eclipsing the religions of the last several thousand years. The universe I was initiated into demanded levels of understanding beyond anything I had learned in those traditions. I had to become operational within a deeper metaphysics.
+
+[01:11:50](https://youtu.be/Qfet06ORfwY?t=4310)  — *MIND-BLOWING LSD Secrets Revealed – Rebel Spirit Radio* (2021-07-08) • 01:11:50
+
+> x of cause and effect, continuously arising and passing away. There is no unchanging self over time.
+But if you can let go of the small, separate ego-self and grow into a deeper individuality—one in continuous exchange with all living beings, continually expanding and developing—the maturation of that selfless kind of individuality is a great spiritual gift of our time-space experience. Two truths hold: the truth of wholeness—oneness, interconnectedness, interpenetration—and the truth of the learning system that experiences, learns, internalizes, and becomes more because of it.
+
+Ryan Kemp
+One thing I grappled with in your book: are we talking about one soul—what many call God—or many individual souls? Which is it, or is it both?
+
+Chris Bache
+We can use language however we like, as long as we’re clear. One can speak of God as the one soul of which we are drops in an ocean of soul—that’s fine. We can also use “soul” to refer to the accumulated experience of all my former lives integrated into a unique individual consciousness, as unique as a fingerprint, within larger matrices: the collective species mind, the planetary mind, the galactic mind. A true individuality emerges.
+
+[00:51:44](https://youtu.be/Dw7D7ih8vy0?t=3104)  — *EP.6 - Chris Bache | LSD AND THE MIND OF THE UNIVERSE* (2020-05-13) • 00:51:44
+
+> t worldview and set of assumptions about the nature of self and reality. Would you like to say more?
+Chris Bache:
+My first concern was that it sounded like ego gone amok—ego inflation. I had to sit with that a long time, because my experiences told me that’s not what was happening. As you said, it’s a very different worldview. In the classic individual patient model, the individual is having experiences. The individual has transpersonal experiences, and the individual is always at the center. In this model, my individual existence was completely secondary. It becomes not a matter of my being central. I got the system started, but I dissolved completely into preexisting fields of consciousness. Those fields are the dynamic force having the experiences.
+
+That manifested not only in the ocean of suffering, but later in archetypal reality and causal oneness. In many experiences, Chris Bache was a bit player. In the book I have an appendix: what dies and is reborn? After so many deaths and rebirths, it becomes a cognitive question. What is actually dying? It feels personal. Is it just ego dying over and over?
+
+[00:30:48](https://youtu.be/-2NMOMvRkYE?t=1848)  — *Evolution of Collective Consciousness (Deep Transformation Podcast – Part 1)* (2022-01-20) • 00:30:48
+
+> of the cosmic process integrating and interpenetrating, liberating each other from their loneliness.
+Chris Bache:
+I want to be careful and remind us that a finite mind does its best to give cognitive structure to transcendent experiences. What I’m about to describe is a heuristic: a splitting of the divine principle into two halves—a “male” half that stays outside time and space in a transcendent position, and a “female” half that manifests time and space and the physical cosmos. I don’t literally think in male/female terms, but this is the best my mind could do. The principle is what matters: not all creative intelligence manifests as physical reality. Some holds position outside physical reality. There is a spiritual reality that gives birth to physical reality.
+
+[00:50:22](https://youtu.be/ec0elBHJXAc?t=3022)  — *The Mind of the Universe: Diamonds from Heaven* (2023-01-27) • 00:50:22
+
+
+## Provenance
+Built from `sources.json` (harvested 2025-10-22).
+Cite as: _Christopher M. Bache — Public Talks (2014–2025), retrieved via Bache Talks RAG v1.2-rc1._

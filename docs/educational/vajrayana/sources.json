@@ -544,7 +544,7 @@
         "section": 3,
         "paragraph": 14,
         "sentence": null,
-        "_score": 0.49168288707733154
+        "_score": 0.49169018864631653
       },
       {
         "id": "lsdmu.c10.s03.p07",
@@ -565,7 +565,7 @@
         "section": 3,
         "paragraph": 7,
         "sentence": null,
-        "_score": 0.45966896414756775
+        "_score": 0.45978590846061707
       },
       {
         "id": "lsdmu.c11.s02.p02",
@@ -586,7 +586,7 @@
         "section": 2,
         "paragraph": 2,
         "sentence": null,
-        "_score": 0.3521410822868347
+        "_score": 0.352241575717926
       },
       {
         "id": "lsdmu.c09.s01.p13",
@@ -607,7 +607,7 @@
         "section": 1,
         "paragraph": 13,
         "sentence": null,
-        "_score": 0.34575986862182617
+        "_score": 0.3458104133605957
       },
       {
         "id": "lsdmu.c04.s03.p02",
@@ -628,7 +628,7 @@
         "section": 3,
         "paragraph": 2,
         "sentence": null,
-        "_score": 0.3317006230354309
+        "_score": 0.33180317282676697
       },
       {
         "id": "lsdmu.c10.s05.p09",
@@ -649,7 +649,7 @@
         "section": 5,
         "paragraph": 9,
         "sentence": null,
-        "_score": 0.32389479875564575
+        "_score": 0.3238435685634613
       },
       {
         "id": "lsdmu.c02.s02.p12",
@@ -670,7 +670,7 @@
         "section": 2,
         "paragraph": 12,
         "sentence": null,
-        "_score": 0.31168705224990845
+        "_score": 0.31177884340286255
       },
       {
         "id": "lsdmu.c11.s00.p23",
@@ -691,7 +691,7 @@
         "section": 0,
         "paragraph": 23,
         "sentence": null,
-        "_score": 0.3094691336154938
+        "_score": 0.30945783853530884
       },
       {
         "id": "lsdmu.c10.s00.p14",
@@ -712,28 +712,7 @@
         "section": 0,
         "paragraph": 14,
         "sentence": null,
-        "_score": 0.3080025315284729
-      },
-      {
-        "id": "lsdmu.c08.s00.p02",
-        "talk_id": null,
-        "archival_title": null,
-        "recorded_date": null,
-        "published": null,
-        "chunk_index": 670,
-        "text": "This was Saccidananda,\nBeing–Consciousness–Bliss,\nthe Fertile Void,\nMother of All Things,\nthe Buddha Womb.\n\n—Session 40",
-        "token_est": null,
-        "hash": null,
-        "channel": null,
-        "source_type": null,
-        "citation": "LSDMU ch.8 §0 ¶2",
-        "url": null,
-        "transcript_path": null,
-        "chapter": 8,
-        "section": 0,
-        "paragraph": 2,
-        "sentence": null,
-        "_score": 0.3041206896305084
+        "_score": 0.3080092966556549
       },
       {
         "id": "lsdmu.c08.s00.p57",
@@ -754,7 +733,28 @@
         "section": 0,
         "paragraph": 57,
         "sentence": null,
-        "_score": 0.30411532521247864
+        "_score": 0.3041682243347168
+      },
+      {
+        "id": "lsdmu.c08.s00.p02",
+        "talk_id": null,
+        "archival_title": null,
+        "recorded_date": null,
+        "published": null,
+        "chunk_index": 670,
+        "text": "This was Saccidananda,\nBeing–Consciousness–Bliss,\nthe Fertile Void,\nMother of All Things,\nthe Buddha Womb.\n\n—Session 40",
+        "token_est": null,
+        "hash": null,
+        "channel": null,
+        "source_type": null,
+        "citation": "LSDMU ch.8 §0 ¶2",
+        "url": null,
+        "transcript_path": null,
+        "chapter": 8,
+        "section": 0,
+        "paragraph": 2,
+        "sentence": null,
+        "_score": 0.30413714051246643
       },
       {
         "id": "lsdmu.c10.s00.p11",
@@ -775,7 +775,7 @@
         "section": 0,
         "paragraph": 11,
         "sentence": null,
-        "_score": 0.3015073835849762
+        "_score": 0.301442414522171
       },
       {
         "id": "lsdmu.c08.s01.p38",
@@ -796,7 +796,7 @@
         "section": 1,
         "paragraph": 38,
         "sentence": null,
-        "_score": 0.2982580363750458
+        "_score": 0.2983604669570923
       },
       {
         "id": "lsdmu.c08.s01.p35",
@@ -817,7 +817,7 @@
         "section": 1,
         "paragraph": 35,
         "sentence": null,
-        "_score": 0.29601022601127625
+        "_score": 0.29613345861434937
       },
       {
         "id": "lsdmu.c10.s05.p16",
@@ -838,7 +838,7 @@
         "section": 5,
         "paragraph": 16,
         "sentence": null,
-        "_score": 0.28836119174957275
+        "_score": 0.2883775532245636
       },
       {
         "id": "lsdmu.c01.s11.p04",
@@ -859,7 +859,7 @@
         "section": 11,
         "paragraph": 4,
         "sentence": null,
-        "_score": 0.288162499666214
+        "_score": 0.288274347782135
       },
       {
         "id": "lsdmu.c09.s01.p01",
@@ -880,7 +880,7 @@
         "section": 1,
         "paragraph": 1,
         "sentence": null,
-        "_score": 0.2877735197544098
+        "_score": 0.28783464431762695
       },
       {
         "id": "lsdmu.c11.s01.p02",
@@ -901,7 +901,7 @@
         "section": 1,
         "paragraph": 2,
         "sentence": null,
-        "_score": 0.2827124297618866
+        "_score": 0.28274595737457275
       },
       {
         "id": "lsdmu.c01.s11.p01",
@@ -922,7 +922,7 @@
         "section": 11,
         "paragraph": 1,
         "sentence": null,
-        "_score": 0.2815518081188202
+        "_score": 0.2815895676612854
       },
       {
         "id": "lsdmu.c06.s00.p57",
@@ -943,7 +943,7 @@
         "section": 0,
         "paragraph": 57,
         "sentence": null,
-        "_score": 0.2717851400375366
+        "_score": 0.2718432545661926
       }
     ]
   },
