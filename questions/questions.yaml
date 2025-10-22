@@ -1,0 +1,36 @@
+# research questions used to query both RAGs
+# id is also the output folder name under docs/educational/<id>/
+- id: shamanic-persona
+  query_search: "shamanic persona OR shamanic personality"
+  query_answer:  "What does Chris Bache say about shamanic persona—what it is and how it progresses across multiple psychedelic journeys?"
+  book_priority: true
+
+- id: grof-coex
+  query_search: "COEX OR Grof"
+  query_answer:  "Does Chris explicitly discuss COEX systems, or is it mostly implicit via Grof’s framework?"
+  book_priority: true
+
+- id: chod
+  query_search: "Chöd OR Chod Vajrayana"
+  query_answer:  "What does Chris say about Chöd?"
+  book_priority: true
+
+- id: vajrayana
+  query_search: "Vajrayāna OR Vajrayana"
+  query_answer:  "What does Chris say about Vajrayāna practice?"
+  book_priority: true
+
+- id: astrology
+  query_search: "astrology"
+  query_answer:  "What does Chris say about astrology and its importance to his trips?"
+  book_priority: true
+
+- id: energy-accumulation
+  query_search: "accumulating energy OR energy built up"
+  query_answer:  "How does energy build up in the body over time across Chris’s sessions?"
+  book_priority: true
+
+- id: dose-retrospective
+  query_search: "high dose OR would have done it differently"
+  query_answer:  "Why does Chris say he would have done it differently without such high doses of LSD?"
+  book_priority: true
