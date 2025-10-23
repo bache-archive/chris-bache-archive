@@ -66,3 +66,9 @@ checksums/_archive/
 
 # Ignore everything else under vectors by default
 vectors/*
+
+
+dist/
+docs/educational/
+reports/quote_packs/
+backups/sources_json/

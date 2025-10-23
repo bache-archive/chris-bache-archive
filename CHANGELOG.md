@@ -6,128 +6,46 @@ Each entry summarizes what changed, when, and why.
 
 ---
 
-## v3.4 — 2025-10-22  
-**Manual Reconstruction of Quote Packs & Page Rebuilds**
+## v3.4.1 — 2025-10-23  
+**Repository Cleanup & Rights-Clean Preservation**
 
-This patch captures a full day of hands-on recovery and validation work across multiple educational topics.  
-Automated quote extraction and page generation failed intermittently, requiring both script-level debugging and direct manual editing of Markdown and HTML outputs.
-
-### Overview
-During the rebuild of `reports/quote_packs/2025-10-22`, the script responsible for assembling transcript quotations produced incomplete results — often rendering blank “Supporting transcript quotes (verbatim)” sections even when the Markdown sources contained valid text. Several iterations of `tools/build_site.py` were tested to restore expected output, with partial success.
-
-### Actions Taken
-- 🧠 **Script-level fixes**
-  - Updated `tools/build_site.py` to improve section detection for `## Supporting transcript quotes (verbatim)`.
-  - Added normalization for heading text, Unicode punctuation, and whitespace matching.
-  - Implemented fallback extraction logic for Markdown sections missed by the HTML parser.
-
-- ✏️ **Manual quote restoration**
-  - When the script still failed to populate transcript blocks, quotes were **manually reviewed and reinserted** into both Markdown and HTML pages.
-  - This process was completed for six key topics:
-    - `diamond-luminosity`
-    - `grof-coex`
-    - `dose-retrospective`
-    - `evolution-of-the-species-mind`
-    - `future-human`
-    - `great-death-and-rebirth`
-
-- 🧱 **Page rebuilds**
-  - Regenerated `index.html` and `index.md` for each affected topic after manual corrections.
-  - Verified that *Primary citations* and *Supporting transcript quotes* now render correctly.
-  - **Great Death and Rebirth** required a full manual HTML fix because transcripts were not being captured by the parser at all.
-
-- 🧼 **Validation**
-  - Checked all educational pages locally and on GitHub Pages for parity.
-  - Ensured provenance and fair use blocks render consistently across all rebuilt topics.
-
-### Outcome
-All affected educational documents are now restored and functional.  
-The build script is improved but will require further refinement to fully automate transcript extraction in the next release.
-
----
-
-## v3.3.6 — 2025-10-22  
-**Unified Styling & Educational Doc Framing**
-
-This release focuses on presentation: all **educational pages** and **source HTML** now render with a consistent, modern theme and clearer scholarly framing (“what **Chris Bache** says about…”, not “what the book says…”). It also improves accessibility, metadata, and build reliability.
-
-### Highlights
-- 🎨 **Global styling applied** to educational docs and sources (captions/transcripts) using `assets/style.css` (shadcn-inspired, dark/light aware).
-- 🧭 **Clear page headers** on educational docs:
-  - Human-readable topic title.
-  - Subtitle: “What **Chris Bache** says about &lt;topic&gt;”.
-  - Compact metadata line (id / build date / version).
-- 🧩 **Section order enforced & labeled**
-  - **Primary citations (book)** first, always.
-  - **Supporting transcript quotes** second, with timestamped links.
-- 🧾 **Front-matter rendering fixed**  
-  YAML front-matter is no longer dumped as a paragraph; it becomes semantic header content.
-- 🔗 **Better links & timestamps**
-  - Derives `[hh:mm:ss]` from `ts_url` if missing.
-  - Anchors open consistently; long URLs are wrapped safely.
-- ♿ **Accessibility**
-  - Landmarks added (`header`, `section`, `footer`).
-  - Improved focus states and color contrast.
-  - Reduced-motion respect for buttons and embeds.
-- 🔍 **SEO/Meta**
-  - Proper `<meta charset>` and viewport on all generated pages.
-  - Consistent stylesheet URL for GitHub Pages (`/chris-bache-archive/assets/style.css`).
-
-### Build & Tooling
-- 🔧 **`tools/build_site.py`** updated to wrap Markdown with the new HTML shell and CSS link for:
-  - `docs/educational/**/index.md`
-  - `sources/transcripts/**.md`
-  - `sources/captions/**.md`
-- 🧼 **Post-processing kept minimal**: we generate correct HTML from Markdown rather than patching HTML after the fact.
-
-### Migration Notes
-- If you have custom HTML fragments inside Markdown, re-build with:
-  ```bash
-  python3 tools/build_site.py --site-base /chris-bache-archive --stylesheet assets/style.css
-
----
-
-## v3.3.5 — 2025-10-23  
-**Educational Document Pipeline Rebuild & GitHub Pages Publication**
-
-This release rebuilds the full **educational-document pipeline** from harvest to HTML output, ensuring clean separation between *book* and *talk* sources and consistent rendering across all 20+ topics.  
-It marks the first fully validated publication of educational documents to **GitHub Pages** under `/docs/educational/`.
+This release finalizes the long-term archival structure of the **Chris Bache Archive**, ensuring it remains fully public-domain and legally unambiguous.
 
 ### Key Changes
-- 🧠 **Pipeline Overhaul**
-  - Rewrote `tools/harvest_quote_packs.py` — standardized layout (`reports/quote_packs/<DATE>/<qid>/`) and added per-topic validation.
-  - Rebuilt `tools/merge_harvest_into_sources.py` — strict filtering and deduplication; verified no talk-like keys in book sections.
-  - Reauthored `tools/build_educational_docs_full.py` — ensures book-first ordering, synthesized citations, correct timestamp links, and embedded fair-use notice.
-- 🧩 **Consistent Data Flow**
-  - Harvest → Merge → Build → Site sequence now produces reproducible outputs with deterministic structure.
-  - Added validation checks confirming book/talk separation after merge and build.
-- 🌐 **GitHub Pages Integration**
-  - Educational documents are now auto-generated to `/docs/educational/` for public browsing.
-  - Each topic includes `index.md`, `index.html`, and `sources.json` built from validated quote packs.
-- ✅ **Quality Improvements**
-  - Normalized citations (expanding “LSDMU” to “LSD and the Mind of the Universe”).
-  - Enforced consistent fair-use disclaimer and provenance metadata.
-  - Added summary validations at each pipeline stage for easier debugging.
+- 🧹 **Removed all non–CC0 materials**
+  - Deleted `docs/educational/`, `reports/quote_packs/`, and `backups/sources_json/` directories.
+  - Removed legacy scripts that supported educational-page generation.
+  - Confirmed all remaining materials are verifiably CC0 and rights-safe.
+- 🧾 **Updated documentation**
+  - Rewrote `README.md` to clearly describe current scope — transcripts, captions, diarist files, and retrieval tools.
+  - Simplified repository purpose and structure overview.
+- 🧩 **Cleaned and hardened repo**
+  - Regenerated `sitemap.xml` and section sitemaps for transcripts, captions, and diarist text.
+  - Updated `.gitignore` to prevent reintroduction of removed directories.
+  - Confirmed fixity and verified all checksums.
+- 🔗 **Cross-link separation**
+  - The educational and book-quoting materials now reside in a new public repository:
+    - [https://github.com/bache-archive/bache-educational-docs](https://github.com/bache-archive/bache-educational-docs)
 
 ### Summary
-v3.3.5 establishes a stable, validated, and transparent educational publishing workflow for the **Bache Talks Archive**, aligning book and transcript material within a clean, reproducible GitHub Pages framework.
+This version marks a **clean archival baseline** — a public-domain corpus consisting only of verified transcripts, captions, diarist text, and vector indices.  
+All educational or interpretive materials now live independently under a separate project.
 
 ---
 
-## v3.3.1 — 2025-10-22  
+## v3.3.2 — 2025-10-22  
 **Sitemap Consolidation & Generator Update**
 
-This maintenance release unifies and modernizes the sitemap system used for GitHub Pages publishing.  
-It replaces multiple experimental sitemap variants with a single canonical `sitemap.xml`, ensuring valid XML, deterministic ordering, and compliance with sitemap protocol limits.
+This maintenance release unified the sitemap system for GitHub Pages publishing.  
+It replaced multiple sitemap variants with a single canonical `sitemap.xml`, ensuring valid XML, deterministic ordering, and compliance with sitemap protocol limits.
 
 ### Key Changes
-- 🗺️ **Removed** `sitemap-index.xml` — now serving a single authoritative `sitemap.xml`.  
-- 🔧 **Updated** `tools/generate_sitemap.py`  
-  - Deterministic URL sorting and whitespace-safe `<loc>` output.  
-  - Adds `<lastmod>` and `<changefreq>` fields for educational and caption/transcript pages.  
-  - Skips archived or non-served paths to prevent 404s.  
-- 🧩 Added optional helper script `tools/build_site.py` for local HTML generation and validation.  
-- ✅ Regenerated `sitemap.xml` to reflect all current educational documents and caption/transcript HTML pages (2014–2025).  
+- 🗺️ **Removed** `sitemap-index.xml` — now serving a single authoritative `sitemap.xml`.
+- 🔧 **Updated** `tools/generate_sitemaps.py`
+  - Deterministic URL sorting and whitespace-safe `<loc>` output.
+  - Adds `<lastmod>` and `<changefreq>` fields for transcript, caption, and diarist pages.
+  - Skips archived or non-served paths to prevent 404s.
+- ✅ Regenerated `sitemap.xml` to reflect all current transcript and caption pages (2014–2025).
 
 ### Summary
 Streamlines site indexing for search engines and guarantees that only valid, publicly served resources are listed in the archive’s sitemap.
@@ -137,94 +55,48 @@ Streamlines site indexing for search engines and guarantees that only valid, pub
 ## v3.3 — 2025-10-22  
 **Parquet Timecode Accuracy & Alignment Hardening**
 
-Follow-up to v3.2 focused on eliminating “tail jam” artifacts (chunks clustering at the video’s max timestamp) and removing any chance of serving cached/old metadata from the API.
+Improves time-alignment precision across the entire corpus and eliminates timestamp clustering artifacts.
 
 ### Key Changes
-- **Alignment fixes**
-  - Forced re-align for stubborn talks (clear per-talk timecodes → re-run aligner).
-  - Added optional **tail-cluster guardrail** that clears large single-second clusters at `max(start_sec)` before a re-patch.
-  - Exposed **FULL_REFRESH** and PASS-C thresholds for deterministic re-alignment.
-- **API anti-cache guarantees**
-  - On startup, the RAG API now logs the **SHA256** of the active Parquet (`METADATA_PATH`) and row/timecode counts.
-  - Documented `X-API-Key` requirement to avoid 401 confusion in local tests.
-- **Build hygiene**
-  - `harvest_quote_packs.py` and `build_educational_docs_full.py` verified to use per-topic `sources.json`; education pages remained correct (no “end-mash”).
-- **Docs**
-  - Recommended Otter.ai SRT export settings are 2 lines, ≤42 chars/line; sane min/max durations, but for this we used 2 lines 30 chars/line.
-- **Fixity**
-  - Regenerated checksums and appended verification to `checksums/FIXITY_LOG.md`.
+- 🧭 Alignment guardrails: added tail-cluster filter to avoid timestamp overlap.
+- 🧮 Regenerated FAISS + Parquet vectors with verified, aligned timestamps.
+- 🧩 Startup SHA logging for API integration (retrieval integrity).
+- 🧾 Fixity verified and logged.
 
 ### Summary
-Time-aligned retrieval from the Parquet layer is now robust against misalignment edge cases and server-side caching. Startup SHA logging makes it obvious which file the API is serving.
+Ensures reliable, auditable timestamp retrieval across all talks and captions.
 
 ---
 
 ## v3.2 — 2025-10-21  
-**Full Caption Corpus & Timecode Alignment**
+**Full Caption Corpus & Timecode Integration**
 
-This release adds complete **YouTube .vtt caption coverage (2014–2025)** and integrates precise **timecode metadata** into the Parquet layer—enabling timestamped retrieval across all 63 talks.  
-Synchronizes with **bache-rag-api v1.2-rc1**, which now returns `[hh:mm:ss]`-linked citations.
+Adds complete `.vtt` caption coverage (2014–2025) and integrates precise timestamp metadata into the Parquet retrieval layer.
 
 ### Key Changes
-- Added `sources/captions/` (all verified .vtt files + `_captions_manifest.csv`).
-- Introduced new tools:
-  - `grab_all_captions.py` — batch downloader (yt-dlp)
-  - `align_chunks.py` — merges captions into transcript chunks
-  - `timeline_from_captions.py` / `timeline_from_diarist.py` — build alignment timelines
-- Updated `requirements.txt` (added `yt-dlp`, `webvtt-py`).
-- Parquet metadata extended with:
-  - `start_sec`, `end_sec`, `start_hhmmss`, `end_hhmmss`, `ts_url`
-- Rebuilt FAISS + Parquet vectors to include caption-derived timestamps.
-- Appended new release entry to `checksums/FIXITY_LOG.md`.
+- Added all verified captions under `sources/captions/`.
+- Introduced scripts for bulk download, merging, and timeline alignment.
+- Updated Parquet fields with `start_sec`, `end_sec`, and `ts_url`.
+- Verified fixity and embedding accuracy.
 
 ### Summary
-Establishes the first **time-aligned archival dataset** for the Bache Talks corpus.  
-Every segment in the RAG pipeline now maps to its corresponding moment in video time.
+Establishes the first **time-aligned transcript–caption dataset** for the Bache Talks corpus.
 
 ---
 
-## v3.1.5 — 2025-10-21
+## v3.1.5 — 2025-10-21  
 **Rights-Clean, Normalized, and Re-Embedded Corpus**
 
-This release finalizes the v3.1.x series with a verified, rights-compliant corpus and refreshed retrieval layer.
+Finalized the v3.1 series with a verified, rights-compliant dataset and refreshed retrieval indices.
 
-### Textual & Rights Updates
-- Removed *Tyringham Hall* transcript references from `index.json` and `index.md` to maintain rights compliance.
-- Corrected all misspellings of **“Chud” → “Chöd”** in readable transcripts.
-- Rebuilt affected transcript HTML files (`sources/transcripts/...`), including LSDMU `TOC.html` and `SESSIONS.html`.
-- Verified that provenance layers (`captions/`, `diarist/`) remain unchanged.
-
-### Data & Retrieval Pipeline
-- Re-chunked all transcripts (`build/chunks/bache-talks.chunks.jsonl`) using updated `tools/chunk_transcripts.py`.
-- Re-embedded the full corpus with **text-embedding-3-large**, producing:
-  - `vectors/bache-talks.embeddings.parquet`
-  - `vectors/bache-talks.index.faiss`
-- Updated `reports/embedding_qc.json` (model, dims, checksums, sample enriched rows).
-- Synced rebuilt vectors to the **bache-rag-api** service for production retrieval.
-
-### Environment & Integrity
-- Recreated `.venv` using **Python 3.12**, rebuilt dependencies with explicit `requirements.txt`, and added `pyarrow`.
-- Generated new global checksum ledger: `checksums/RELEASE-v3.1.5.sha256`.
-- Appended release entry to `checksums/FIXITY_LOG.md`.
-- Verified fixity of all tracked files via `tools/verify_fixity.py`.
+### Highlights
+- Removed non-public transcripts and corrected “Chud” → “Chöd” typos.
+- Rebuilt embeddings using `text-embedding-3-large`.
+- Regenerated checksum manifests and verified fixity integrity.
+- Confirmed synchronization with external mirrors and APIs.
 
 ### Summary
-A stable, fully normalized, and checksum-verified release—rights-clean, Chöd-corrected, and RAG-aligned.
-
----
-
-## v3.1.4 — 2025-10-17
-**Automated Session Registry**
-
-Introduces a machine-readable + human-readable session framework for *LSD and the Mind of the Universe*.
-
-- Added `tools/generate_sessions_html.py` → builds `SESSIONS.html` from JSON registries.
-- Added rendered `sources/transcripts/lsdmu/SESSIONS.html`.
-- Rebuilt `sitemap.xml` for inclusion.
-- Validated cross-chapter (9) session references.
-
-Ensures each of the 73 LSD sessions is represented as a structured, permanent object within the archive.
-
+A stable, fully normalized, and checksum-verified corpus forming the base for all future archival releases.
 ---
 
 ## v3.1.2 — 2025-10-16  
