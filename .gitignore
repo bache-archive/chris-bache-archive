@@ -66,3 +66,6 @@ checksums/_archive/
 
 # Ignore everything else under vectors by default
 vectors/*
+
+
+dist/
