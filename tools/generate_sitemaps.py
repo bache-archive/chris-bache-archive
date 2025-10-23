@@ -2,18 +2,21 @@
 """
 tools/generate_sitemaps.py
 
-Creates a sitemap index (sitemap.xml) and section sitemaps:
-- sitemap-educational.xml        (docs/educational/**/index.html)
-- sitemap-captions.xml           (sources/captions/**/*.html)
-- sitemap-transcripts.xml        (sources/transcripts/**/*.html, skip _archive)
-- sitemap-diarist.xml            (sources/diarist/**/*.txt)
+Creates a sitemap index (sitemap.xml) and section sitemaps, but only
+for sections that actually have URLs to list:
+
+- sitemap-educational.xml        (docs/educational/**/index.html)  [optional]
+- sitemap-captions.xml           (sources/captions/**/*.html)      [optional]
+- sitemap-transcripts.xml        (sources/transcripts/**/*.html, skip _archive) [optional]
+- sitemap-diarist.xml            (sources/diarist/**/*.txt)        [optional]
 
 Rules:
 - Absolute <loc> URLs (required by GSC)
 - Single-line <loc>
-- <lastmod> prefers file mtime (UTC, date only); falls back to YYYY-MM-DD found in path
+- <lastmod> prefers file mtime (UTC, date only); falls back to YYYY-MM-DD in path
 - Stable sort
-- Enforces only URLs that actually exist in the built site (or repo if no build)
+- Only writes section sitemaps that have at least one URL
+- Index lists only the section sitemaps that were written
 - Designed for GitHub Pages under: https://bache-archive.github.io/chris-bache-archive
 
 Usage:
@@ -22,7 +25,7 @@ Usage:
   # OUTDIR   default: repo root
 """
 
-import sys, re, os, time
+import sys, re
 from pathlib import Path
 from urllib.parse import quote
 from datetime import datetime, timezone
@@ -33,6 +36,7 @@ OUTDIR = Path(sys.argv[2]) if len(sys.argv) > 2 else None
 REPO_ROOT = Path(__file__).resolve().parents[1]
 SITE_ROOT = REPO_ROOT / "build" / "site"
 if not SITE_ROOT.exists():
+    # Fallback to repo root for cases where site is served from repo directly
     SITE_ROOT = REPO_ROOT
 
 if OUTDIR is None:
@@ -56,13 +60,22 @@ def infer_lastmod_from_name(path_str: str) -> str | None:
 def lastmod_for(path: Path) -> str | None:
     try:
         ts = path.stat().st_mtime
-        dt = datetime.fromtimestamp(ts, tz=timezone.utc).date().isoformat()
-        return dt
+        return datetime.fromtimestamp(ts, tz=timezone.utc).date().isoformat()
     except Exception:
         return infer_lastmod_from_name(path.as_posix())
 
-def write_urlset(file_path: Path, rel_paths: list[str], changefreq: str | None = None) -> None:
+def write_urlset(file_path: Path, rel_paths: list[str], changefreq: str | None = None) -> bool:
+    """Write a urlset if rel_paths is non-empty. Returns True if written, else False."""
     rel_paths = sorted(set(rel_paths), key=lambda p: abs_url(p))
+    if not rel_paths:
+        if file_path.exists():
+            try:
+                file_path.unlink()
+            except Exception:
+                pass
+        print(f"Skip {file_path.name}: no URLs.")
+        return False
+
     lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
@@ -80,17 +93,18 @@ def write_urlset(file_path: Path, rel_paths: list[str], changefreq: str | None =
     lines.append("</urlset>\n")
     file_path.write_text("\n".join(lines), encoding="utf-8")
     print(f"Wrote {file_path} with {len(rel_paths)} URLs.")
+    return True
 
-def write_sitemap_index(index_path: Path, children: list[tuple[str, Path]]) -> None:
-    # children: [(title, absolute_path_to_child_xml), ...]
+def write_sitemap_index(index_path: Path, children: list[Path]) -> None:
+    """Write the sitemap index referencing only the provided existing child files."""
+    children = [c for c in children if c.exists()]
     lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
     ]
-    for _title, child in children:
+    for child in children:
         rel = child.relative_to(OUTDIR).as_posix()
         loc = abs_url(rel)
-        # lastmod = now for the file; fine for index
         try:
             ts = child.stat().st_mtime
             lm = datetime.fromtimestamp(ts, tz=timezone.utc).date().isoformat()
@@ -106,15 +120,13 @@ def write_sitemap_index(index_path: Path, children: list[tuple[str, Path]]) -> N
     print(f"Wrote {index_path} (index of {len(children)} sitemaps).")
 
 def collect_educational() -> list[str]:
+    """Only collect actual educational topic pages. Do NOT inject '/' or 'index.html' fallbacks."""
     out = []
     base = SITE_ROOT / "docs" / "educational"
-    if base.exists():
-        for idx in base.rglob("index.html"):
-            out.append(rel_from_root(idx))
-    # also include site root and /index.html if present (nice for discovery)
-    out.append("")  # "/"
-    if (SITE_ROOT / "index.html").exists():
-        out.append("index.html")
+    if not base.exists():
+        return out
+    for idx in base.rglob("index.html"):
+        out.append(rel_from_root(idx))
     return out
 
 def collect_html_under(sub: str, skip_archive: bool = False) -> list[str]:
@@ -145,27 +157,34 @@ def main():
     sm_cap  = OUTDIR / "sitemap-captions.xml"
     sm_tran = OUTDIR / "sitemap-transcripts.xml"
     sm_dia  = OUTDIR / "sitemap-diarist.xml"
-    sm_idx  = OUTDIR / "sitemap.xml"  # <-- index for GSC
+    sm_idx  = OUTDIR / "sitemap.xml"  # sitemap index for GSC
 
     # Collect
-    edu_paths  = collect_educational()                        # monthly cadence
-    cap_paths  = collect_html_under("sources/captions")       # html only
+    edu_paths  = collect_educational()
+    cap_paths  = collect_html_under("sources/captions")
     tran_paths = collect_html_under("sources/transcripts", skip_archive=True)
-    dia_paths  = collect_txt_under("sources/diarist")         # txt
+    dia_paths  = collect_txt_under("sources/diarist")
 
-    # Write section sitemaps
-    write_urlset(sm_edu,  edu_paths,  changefreq="monthly")
-    write_urlset(sm_cap,  cap_paths,  changefreq=None)
-    write_urlset(sm_tran, tran_paths, changefreq=None)
-    write_urlset(sm_dia,  dia_paths,  changefreq=None)
+    # Write section sitemaps conditionally
+    written_children = []
+    if write_urlset(sm_edu,  edu_paths,  changefreq="monthly"):
+        written_children.append(sm_edu)
+    if write_urlset(sm_cap,  cap_paths,  changefreq=None):
+        written_children.append(sm_cap)
+    if write_urlset(sm_tran, tran_paths, changefreq=None):
+        written_children.append(sm_tran)
+    if write_urlset(sm_dia,  dia_paths,  changefreq=None):
+        written_children.append(sm_dia)
 
-    # Write index that points to all four
-    write_sitemap_index(sm_idx, [
-        ("Educational", sm_edu),
-        ("Captions",    sm_cap),
-        ("Transcripts", sm_tran),
-        ("Diarist",     sm_dia),
-    ])
+    # Write index that points only to the sitemaps that exist
+    write_sitemap_index(sm_idx, written_children)
+
+    # Friendly summary
+    print("\nSummary:")
+    print(f"  Educational: {len(edu_paths)} URLs  -> {'written' if sm_edu in written_children else 'skipped'}")
+    print(f"  Captions:    {len(cap_paths)} URLs  -> {'written' if sm_cap in written_children else 'skipped'}")
+    print(f"  Transcripts: {len(tran_paths)} URLs -> {'written' if sm_tran in written_children else 'skipped'}")
+    print(f"  Diarist:     {len(dia_paths)} URLs  -> {'written' if sm_dia in written_children else 'skipped'}")
 
 if __name__ == "__main__":
     main()
