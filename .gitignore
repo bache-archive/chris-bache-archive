@@ -69,3 +69,6 @@ vectors/*
 
 
 dist/
+docs/educational/
+reports/quote_packs/
+backups/sources_json/
