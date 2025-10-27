@@ -10,8 +10,20 @@
       "sha256": "75bf1952df13240de39d38ed0e9d34b841c1c4aefde6697562ed2967d69001f5"
     },
     {
+      "path": "sources/captions/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.html",
+      "sha256": "330b4ffd7338fe6c28a95d080f6067aa261f2134f8be30e4c3e55e82f35bf5ce"
+    },
+    {
       "path": "sources/captions/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.md",
       "sha256": "07a580727f3a23193024c825dce5d11caebd93e4895cf4168d11d6fb5a958397"
+    },
+    {
+      "path": "sources/captions/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.vtt",
+      "sha256": "edefc2362ad8db84e54c6750f544f38829b05a782aed2d36b80fca2ed8586192"
+    },
+    {
+      "path": "sources/diarist/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.srt",
+      "sha256": "a1ec73ec88d5ecfd7a412e8e70073861b0046d707f73b0b2d8b839cd1b6e5cfb"
     },
     {
       "path": "sources/diarist/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.html",
-      "sha256": "1b03d568dbdaa01cc9a0cbf269998846906e4b39acf9a4e5d2e9ea7ab246659d"
+      "sha256": "0b77158f8ba3f5e881a9d039077fdf82aa7caacdd7f72aacd4f0a72877e28b0e"
     },
     {
       "path": "sources/transcripts/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.html",
-      "sha256": "0b875667129ee11d55d7cae2942eef72f0d78c0dbf89a8666b0437bfda5f8464"
+      "sha256": "bbf269c0a7e7ec2088d1715a6affb6de728c6381ce09659de709ed9c7084ee79"
     },
     {
       "path": "sources/transcripts/_archive/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.md",
       "sha256": "df089faeb1e9cac078f0b10c762594e880fccf87461d3a9950daf3ce135af9b2"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2023-01-30",
   "tools": [

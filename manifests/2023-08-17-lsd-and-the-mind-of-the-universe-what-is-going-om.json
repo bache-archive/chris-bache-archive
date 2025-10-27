@@ -10,8 +10,20 @@
       "sha256": "9b1b13b068d0ddebabb3489d4987656ef3b59e6f815074131d7e071dfab32722"
     },
     {
+      "path": "sources/captions/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.html",
+      "sha256": "b5e3b05c285e33e42f9f6a3d8f54422dbbe03b4f071d443f4241acc2f30566f6"
+    },
+    {
       "path": "sources/captions/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.md",
       "sha256": "4358847454b120a1f627d2d37533ced4f6b97cc318c1e70f578138cc051f4a5a"
+    },
+    {
+      "path": "sources/captions/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.vtt",
+      "sha256": "07ebf455729e44bbf4753c44af456e2a530e63fd3a8b26974b5c32711de3472f"
+    },
+    {
+      "path": "sources/diarist/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.srt",
+      "sha256": "68c60b6536fb9e4752633356c6f84da1abee46f79597882413f1a95c93419242"
     },
     {
       "path": "sources/diarist/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.html",
-      "sha256": "df9e4b11fb1ac9db6da61e0113e362c58532dc2f96c09fce39975c36e2165321"
+      "sha256": "1e5955001dba018797f07b150c29e5d03277a2077287c910af11add2d89652bc"
     },
     {
       "path": "sources/transcripts/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.html",
-      "sha256": "2f6e6e29afeea16a2d2e0d560803eabf73cd146f4ef5d2018c45ca1e5dc3d832"
+      "sha256": "92d08b153a4f51055e00898c1df12128bca1204c25e0e3df98d4f991a3bf3d84"
     },
     {
       "path": "sources/transcripts/_archive/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.md",
       "sha256": "7016b8468a7ac725d78cdd6c3c37940109e962a987275f330f411fef7cc2e23b"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2023-08-17",
   "tools": [

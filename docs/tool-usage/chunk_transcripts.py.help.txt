@@ -1,0 +1,13 @@
+===== HELP: tools/chunk_transcripts.py =====
+usage: chunk_transcripts.py [-h] --index INDEX [--out OUT] [--stats STATS]
+                            [--target TARGET] [--overlap OVERLAP]
+
+Chunk Bache transcripts into citation-friendly segments.
+
+options:
+  -h, --help         show this help message and exit
+  --index INDEX      Path to index.json
+  --out OUT          Output JSONL path
+  --stats STATS      Output stats JSON path
+  --target TARGET    Target characters per chunk
+  --overlap OVERLAP  Character overlap between chunks

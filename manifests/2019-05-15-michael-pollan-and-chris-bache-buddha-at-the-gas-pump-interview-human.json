@@ -1,0 +1,18 @@
+{
+  "id": "2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview-human",
+  "files": [
+    {
+      "path": "sources/captions/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview-human.vtt",
+      "sha256": "49a0c32ba2a64b3cbf4b664d48d3f5398f2a1ae7112b4349fa88c1f48bdfc8b8"
+    }
+  ],
+  "captured_at": "2025-10-27",
+  "license": "CC0-1.0",
+  "recorded_date": "2019-05-15",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

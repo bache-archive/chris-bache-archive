@@ -10,8 +10,20 @@
       "sha256": "2579dee1e26dd1e20b59d9e147ff36b3e5fc23d0b28f5223e3405a8257d38102"
     },
     {
+      "path": "sources/captions/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.html",
+      "sha256": "8bc96b905a3d1f0d5571150e1d0b009471214996648f95436a7d088129011b6f"
+    },
+    {
       "path": "sources/captions/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.md",
       "sha256": "b20ee7beaf56991b85d793f5cb3bfdbd1db7eea52c6cc9599724f175395ca5a8"
+    },
+    {
+      "path": "sources/captions/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.vtt",
+      "sha256": "daf7760dee24610ec9b39f5d629929abdeb26a5d64d8a3fb9d410fc79b1d7633"
+    },
+    {
+      "path": "sources/diarist/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.srt",
+      "sha256": "e2f437af22bd8dd0a117c3928e048e9c43aea3f447fd5ad0b17baff159cb36f6"
     },
     {
       "path": "sources/diarist/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.html",
-      "sha256": "c344684ae6a60ec6f224dfef50f1b1f92e0176283171aa9e548efad42e7d1f01"
+      "sha256": "a652aa0a509af001255f4031293dd4e473c36f92fdbad19a0654d9721296973d"
     },
     {
       "path": "sources/transcripts/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.html",
-      "sha256": "862034ea33542bbea7e36257472ed2972328951e6e70dfc155ef530214d4bd26"
+      "sha256": "0e73d4e60494792c8021a1b332a2fa1d8a78c9121d317aeefa050cb5e4352809"
     },
     {
       "path": "sources/transcripts/_archive/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.md",
       "sha256": "7885cf8aeb24d817f9b6c079101103d894f990350c1f3aea7774192fe792bb37"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2022-02-19",
   "tools": [

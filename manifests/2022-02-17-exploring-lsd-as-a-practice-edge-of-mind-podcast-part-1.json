@@ -10,8 +10,20 @@
       "sha256": "a9f75b48a1c4807d12d2fbbf70d02c9af28e8a283f0e481e5d667d9712bec527"
     },
     {
+      "path": "sources/captions/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.html",
+      "sha256": "ee85df3b47ee59e1f0e559946b50165de27675598445e7f3e88938c1ce7baacc"
+    },
+    {
       "path": "sources/captions/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.md",
       "sha256": "d8d5bf71f3044e453e4d123665b752d115bf66e496d4e8eed59b8daf82145e06"
+    },
+    {
+      "path": "sources/captions/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.vtt",
+      "sha256": "6aee4a8df2ea3fd6001aec7067b5d49d44431294e40aaf7cce6a40679bdb43b6"
+    },
+    {
+      "path": "sources/diarist/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.srt",
+      "sha256": "e783a56be4c94fa54d671e539c93e5135280833c62b2e6a2816571c42b22d80a"
     },
     {
       "path": "sources/diarist/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.txt",
@@ -19,22 +31,22 @@
     },
     {
       "path": "sources/transcripts/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.html",
-      "sha256": "8f526e3aba43ccd57791e4b1c4cefde53fe28dba9a8b306940ed06e8baef26fe"
+      "sha256": "956672f823a5ad79dfa81aa92e241c4c8c3047bf5c7dc10efe7e3ede7621cf4e"
     },
     {
       "path": "sources/transcripts/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.md",
-      "sha256": "67a858b1245ff6df9ac0dccf8536bfb60a68091e4dd4f5fc3e994b28b705923f"
+      "sha256": "48f4de8ad0b3121edb9ba951627899aa1a8a3b27d0bf6e342c6503cb4c47f6aa"
     },
     {
       "path": "sources/transcripts/_archive/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.html",
-      "sha256": "a6df33c0876a68856a71eafc4f485769a2863dc11a0cac762139beb73561b5c0"
+      "sha256": "54eab75f78b4f94198dfc0d9444f4f0d798a28d6ea34050ee6bd7997d7929e5c"
     },
     {
       "path": "sources/transcripts/_archive/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.md",
       "sha256": "7457d6e8aa166535fb86837de7df543ffad970cf5c4e3fbf110de6472156e49e"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2022-02-17",
   "tools": [

@@ -1,0 +1,6 @@
+===== ARGPARSE FLAGS: tools/ia_sync_media.py =====
+32:    p = argparse.ArgumentParser(description="Sync local media to Internet Archive (resume-safe, with retries).")
+33:    p.add_argument("--mode", choices=["audio", "video"], required=True,
+35:    p.add_argument("--dir", required=True, help="Local directory containing the media files.")
+36:    p.add_argument("--derive", action="store_true",
+38:    p.add_argument("--retries", type=int, default=20, help="Retry attempts for failed parts/requests.")

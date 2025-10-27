@@ -10,8 +10,20 @@
       "sha256": "b5b920f4a1774f42c56a1d0991064ea3c34acd39c0b7c146a3bf523f5b13a3b6"
     },
     {
+      "path": "sources/captions/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.html",
+      "sha256": "e177038d749711432ec00a4c4ce70adbbc8c9b70fb8056a0a6fc124638fa6f00"
+    },
+    {
       "path": "sources/captions/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.md",
       "sha256": "3e06166485bdc0af4de4b938c99963b5761cb040684a2f6fa5a0bf38e3ba083f"
+    },
+    {
+      "path": "sources/captions/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.vtt",
+      "sha256": "97cd1b46becd4f4028eef2d3a85b823ef49654e87575d3ced0557eb091b94093"
+    },
+    {
+      "path": "sources/diarist/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.srt",
+      "sha256": "4672c1119901f5c21fb5e46e13b57f644561afc88711bfd2b8f6a73d05847258"
     },
     {
       "path": "sources/diarist/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.html",
-      "sha256": "8fd25f292f2beab560c899a6c474a2da8531af7dc6900a5c9ccfefacfbb16b60"
+      "sha256": "92b08029bdfcffa8d103f59b2066df32bb206f2c689a923ef74c10afa6004622"
     },
     {
       "path": "sources/transcripts/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.html",
-      "sha256": "37e26d949097613d042ae9e385b23820d64c189042a14624810d378c7380ef3b"
+      "sha256": "4f3dd1ebb9500738a38d2ebc5bd1400779ff8d6d1f77573a230c073285ce8b22"
     },
     {
       "path": "sources/transcripts/_archive/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.md",
       "sha256": "c858b098db3a60da6474270ea51fd7dd95141b480bbd94e227f9078b9667c559"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2018-08-30",
   "tools": [

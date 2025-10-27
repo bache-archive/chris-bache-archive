@@ -10,8 +10,20 @@
       "sha256": "45819ebe8d1b7809bf595825e91d7c3fadf8097b947d6e73895d5363b5ff85bc"
     },
     {
+      "path": "sources/captions/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.html",
+      "sha256": "0540090181897b24bb07857fe516ba5c752ab1ba91b88a7a4d2be0a738845ef8"
+    },
+    {
       "path": "sources/captions/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.md",
       "sha256": "8e2cd6397087f47e79c71b9caf13814b087f6013cad97459219d5a5a172e071a"
+    },
+    {
+      "path": "sources/captions/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.vtt",
+      "sha256": "9071b8dad22d43b4e77a40f195a020d69ce655a543ddd78d3017d9c4619dbec6"
+    },
+    {
+      "path": "sources/diarist/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.srt",
+      "sha256": "ecc602263d71972ebad5f519273d625680fac1f510380bbe77fdc0a78b82a7d1"
     },
     {
       "path": "sources/diarist/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.html",
-      "sha256": "43f87600e28073cd5fb854b3f54418c13f91d90ff774489988cccf3fde093bd7"
+      "sha256": "a352c056e750fa8bd69b3ce5738a58430470cf89400d0623596aeb4284fdac52"
     },
     {
       "path": "sources/transcripts/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.html",
-      "sha256": "43f87600e28073cd5fb854b3f54418c13f91d90ff774489988cccf3fde093bd7"
+      "sha256": "a352c056e750fa8bd69b3ce5738a58430470cf89400d0623596aeb4284fdac52"
     },
     {
       "path": "sources/transcripts/_archive/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.md",
       "sha256": "57326b0d1ba39c8f371829f6169eccc175471fae257f02029e2fb56cdf28a274"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2022-02-16",
   "tools": [

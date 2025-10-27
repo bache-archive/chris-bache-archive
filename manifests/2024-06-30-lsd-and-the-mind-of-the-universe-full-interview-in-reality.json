@@ -10,8 +10,20 @@
       "sha256": "65a696f1592ee4d1c66d02a87ca472d07e3be34db085a0877661ed9c5281c19b"
     },
     {
+      "path": "sources/captions/2024-06-30-lsd-and-the-mind-of-the-universe-full-interview-in-reality.html",
+      "sha256": "e5e19238d0a0934930047a3213bad77a23ae0fb792bdd249556b101c1d8ec572"
+    },
+    {
       "path": "sources/captions/2024-06-30-lsd-and-the-mind-of-the-universe-full-interview-in-reality.md",
       "sha256": "f1f6ae61b55c7db6e84f1ef14b09507e0bedfdabc8082e86c724c3f4d4cd3cd2"
+    },
+    {
+      "path": "sources/captions/2024-06-30-lsd-and-the-mind-of-the-universe-full-interview-in-reality.vtt",
+      "sha256": "94641aac40f14bd513b085460709b668093b0172ea5de6c1cd70d887f9a80c99"
+    },
+    {
+      "path": "sources/diarist/2024-06-30-lsd-and-the-mind-of-the-universe-full-interview-in-reality.srt",
+      "sha256": "6f449135c16f108547e336b0e588151570e906d710f62710a8bd114461f3f2b9"
     },
     {
       "path": "sources/diarist/2024-06-30-lsd-and-the-mind-of-the-universe-full-interview-in-reality.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2024-06-30-lsd-and-the-mind-of-the-universe-full-interview-in-reality.html",
-      "sha256": "ce01edb2cad6bd99a79f0114da70ccd2915fe693728a21a2df29dbdb8d05a41a"
+      "sha256": "7271ddc0f13239c568c915e049e43912d4e8306f721b0416000d164c54ed1257"
     },
     {
       "path": "sources/transcripts/2024-06-30-lsd-and-the-mind-of-the-universe-full-interview-in-reality.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2024-06-30-lsd-and-the-mind-of-the-universe-full-interview-in-reality.html",
-      "sha256": "3eb89fda858e438a2a981cde4ce5e94930f061105b57153983c5131bd6a722b8"
+      "sha256": "5364b9b366b73eb31191ff125e58ec626e55fe78dd354eb2946dcb14fb104691"
     },
     {
       "path": "sources/transcripts/_archive/2024-06-30-lsd-and-the-mind-of-the-universe-full-interview-in-reality.md",
       "sha256": "a74e6987a3934be03756879be90d555a70aeb8ca48729dd2ecd77b8b296b8720"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2024-06-30",
   "tools": [

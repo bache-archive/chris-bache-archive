@@ -10,8 +10,20 @@
       "sha256": "798dc604602473f8875f7fe2c5a718ac87ff07de4b95db648fe90458d3dc9245"
     },
     {
+      "path": "sources/captions/2024-02-10-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-sdi-meeting.html",
+      "sha256": "11eb7c2f92ef559f05ce68f1a7b72917125ae56789454aa5500df36c07792852"
+    },
+    {
       "path": "sources/captions/2024-02-10-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-sdi-meeting.md",
       "sha256": "35679ee6fb0b10249d64387394ac8d3aeaab11c238f3a07c46b7ad3b8edaac91"
+    },
+    {
+      "path": "sources/captions/2024-02-10-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-sdi-meeting.vtt",
+      "sha256": "2183b504842efe5b2eb15bad1901dadd65a93d0b999c16e8d011a49fc6df44b6"
+    },
+    {
+      "path": "sources/diarist/2024-02-10-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-sdi-meeting.srt",
+      "sha256": "bd16aba30d09c11ca7b4c385374718f8a891083a71ea74426e6051a762187649"
     },
     {
       "path": "sources/diarist/2024-02-10-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-sdi-meeting.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2024-02-10-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-sdi-meeting.html",
-      "sha256": "1c6042f606efbbb790bb9ecb337bce74004d86bc86d00e1dce5534237cb9273d"
+      "sha256": "adb76dd6b71053fd4ae38c54f6af1aa38366bb821f3045c3e9200bb8d390bd3e"
     },
     {
       "path": "sources/transcripts/2024-02-10-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-sdi-meeting.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2024-02-10-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-sdi-meeting.html",
-      "sha256": "98f5267463f2c01761ffcf2a27b442a8cd82096e1f3cdb70dda018b1046cf48e"
+      "sha256": "f35a4e4b82f19a7c5f63bc7775f6cf3eb451d5c717d1c50898d8a4ca99b866e5"
     },
     {
       "path": "sources/transcripts/_archive/2024-02-10-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-sdi-meeting.md",
       "sha256": "043829ebaf9851c1ab1edff71f66f0e0866fa15b7d25b0ad3df5f859f496f6f2"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2024-02-10",
   "tools": [

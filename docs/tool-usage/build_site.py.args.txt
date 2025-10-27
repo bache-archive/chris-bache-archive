@@ -1,0 +1,6 @@
+===== ARGPARSE FLAGS: tools/build_site.py =====
+252:    ap = argparse.ArgumentParser()
+253:    ap.add_argument("--site-base", default="/chris-bache-archive",
+255:    ap.add_argument("--stylesheet", default="assets/style.css",
+257:    ap.add_argument("--qid", help="Build only this educational topic (docs/educational/<qid>)")
+258:    ap.add_argument("--skip-sources", action="store_true",

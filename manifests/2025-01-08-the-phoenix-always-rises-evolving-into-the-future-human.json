@@ -10,8 +10,20 @@
       "sha256": "c18af9a37a595130c8b9bbc653df3cf42424ac93963a7ecfc06ae09d3879970c"
     },
     {
+      "path": "sources/captions/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.html",
+      "sha256": "56f206ee48cb124cabe22e815d3ff685d05bc5d704259fea728b0910e3fd5661"
+    },
+    {
       "path": "sources/captions/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.md",
       "sha256": "773bf613d093a8a043e5f16df54a567ed2ef6c78f1f8914dd512e261f2550c91"
+    },
+    {
+      "path": "sources/captions/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.vtt",
+      "sha256": "eec410c3ba6f14cb1e741aab0d58aff119ed423ecc10c69d16907f46c0ae8b69"
+    },
+    {
+      "path": "sources/diarist/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.srt",
+      "sha256": "877faf0c6795b8b317e5f93b01fc094bea9fee61b433b061f1e58db7898f7836"
     },
     {
       "path": "sources/diarist/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.html",
-      "sha256": "baf96b035e8d633a64395b4e55fed367aeeffb5d96978612c34126d081481e1d"
+      "sha256": "15c3d9ce1f2a6b216047f89feefd502e877c6c6b031279cfd6e2c907e3ebe276"
     },
     {
       "path": "sources/transcripts/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.html",
-      "sha256": "3d6dbcbb7671adeec1a206f53b2c090b2bc074d9c0a7eae2763e011726ef162b"
+      "sha256": "9923ac8b147cee4aed182d6e6a45ad3dec50d8b3063133100515b0525017be74"
     },
     {
       "path": "sources/transcripts/_archive/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.md",
       "sha256": "2d18e5557ddc00fb6ae18b6833b9548f7910d409b55cfc28a748c492e61988a8"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2025-01-08",
   "tools": [

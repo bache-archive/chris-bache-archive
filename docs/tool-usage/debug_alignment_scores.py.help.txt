@@ -1,0 +1,9 @@
+===== HELP: tools/debug_alignment_scores.py =====
+Traceback (most recent call last):
+  File "/Users/howardrhee/Documents/chris-bache-archive/tools/debug_alignment_scores.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/Users/howardrhee/Documents/chris-bache-archive/tools/debug_alignment_scores.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'

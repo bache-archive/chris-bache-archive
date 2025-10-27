@@ -1,0 +1,5 @@
+===== ARGPARSE FLAGS: tools/grab_all_captions.py =====
+68:    ap = argparse.ArgumentParser(description="Download timestamped captions (VTT) for items in index.json")
+69:    ap.add_argument("--index", default=str(ROOT / "index.json"))
+70:    ap.add_argument("--force", action="store_true", help="Overwrite existing .vtt if present")
+71:    ap.add_argument("--only", nargs="*", help="Restrict to these talk_ids or youtube_ids")

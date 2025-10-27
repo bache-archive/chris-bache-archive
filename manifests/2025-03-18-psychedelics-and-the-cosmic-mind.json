@@ -10,8 +10,20 @@
       "sha256": "d67308532018fd245837962b5bffac3a0e32cc710b5c9584961233691e367031"
     },
     {
+      "path": "sources/captions/2025-03-18-psychedelics-and-the-cosmic-mind.html",
+      "sha256": "1381ff014e24b1fc512e120a070eafe07b1d729553ff9f1b82afbec7b9edbfa3"
+    },
+    {
       "path": "sources/captions/2025-03-18-psychedelics-and-the-cosmic-mind.md",
       "sha256": "05dd315ecec2d1ae918881a60b8897f49a213d1fa1abcc7e4265c9fc2d3aedcf"
+    },
+    {
+      "path": "sources/captions/2025-03-18-psychedelics-and-the-cosmic-mind.vtt",
+      "sha256": "88a78a51147ec0aa7a3a72af01dbdc42ee703fa28b4de7b1079242cc8751b5f1"
+    },
+    {
+      "path": "sources/diarist/2025-03-18-psychedelics-and-the-cosmic-mind.srt",
+      "sha256": "53bec7f7d0a8ff57d927a5a9ffad2e8f2c465b56e744c041800dd87c31c51c95"
     },
     {
       "path": "sources/diarist/2025-03-18-psychedelics-and-the-cosmic-mind.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2025-03-18-psychedelics-and-the-cosmic-mind.html",
-      "sha256": "daf9cd7e6105b482188c667c6c459251c16ea01e4304d335ad3d1e179ece10e4"
+      "sha256": "e7e4a4d6be6f422936e227d140dd7bf0a94f1a33cf254168dde4c2698ec6e27c"
     },
     {
       "path": "sources/transcripts/2025-03-18-psychedelics-and-the-cosmic-mind.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2025-03-18-psychedelics-and-the-cosmic-mind.html",
-      "sha256": "3a06b017df27460383c24dcf365eb9a705a6e8c3eee96b8a1772f8c0c64ddaae"
+      "sha256": "74df62a9b6d0dbe4c087ece4a4b57c30707b9a21a3edc58b996c5557b8c2105f"
     },
     {
       "path": "sources/transcripts/_archive/2025-03-18-psychedelics-and-the-cosmic-mind.md",
       "sha256": "fbf8e92bbb0769c8cc52dfb726d41a55220ef15b677c0dc8d9cf8e70fe7fcb46"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2025-03-18",
   "tools": [

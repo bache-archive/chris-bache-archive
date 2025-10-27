@@ -1,0 +1,12 @@
+===== HELP: tools/generate_sitemaps.py =====
+Skip sitemap-educational.xml: no URLs.
+Wrote /Users/howardrhee/Documents/chris-bache-archive/sitemap-captions.xml with 62 URLs.
+Wrote /Users/howardrhee/Documents/chris-bache-archive/sitemap-transcripts.xml with 70 URLs.
+Skip sitemap-diarist.xml: no URLs.
+Wrote /Users/howardrhee/Documents/chris-bache-archive/sitemap.xml (index of 2 sitemaps).
+
+Summary:
+  Educational: 0 URLs  -> skipped
+  Captions:    62 URLs  -> written
+  Transcripts: 70 URLs -> written
+  Diarist:     0 URLs  -> skipped

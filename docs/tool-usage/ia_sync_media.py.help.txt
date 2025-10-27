@@ -1,0 +1,9 @@
+===== HELP: tools/ia_sync_media.py =====
+Traceback (most recent call last):
+  File "/Users/howardrhee/Documents/chris-bache-archive/tools/ia_sync_media.py", line 5, in <module>
+    import internetarchive
+ModuleNotFoundError: No module named 'internetarchive'
+Traceback (most recent call last):
+  File "/Users/howardrhee/Documents/chris-bache-archive/tools/ia_sync_media.py", line 5, in <module>
+    import internetarchive
+ModuleNotFoundError: No module named 'internetarchive'

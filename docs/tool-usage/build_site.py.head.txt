@@ -1,0 +1,61 @@
+===== HEAD: tools/build_site.py =====
+#!/usr/bin/env python3
+"""
+tools/build_site.py
+
+Build *styled* static HTML for:
+  • docs/educational/<qid>/index.md  (hero + cards: book first, talks second)
+  • sources/transcripts/**/*.md       (styled wrapper)
+  • sources/captions/**/*.md          (styled wrapper)
+
+Usage:
+  python3 tools/build_site.py
+  python3 tools/build_site.py --qid future-human
+  python3 tools/build_site.py --site-base /chris-bache-archive --stylesheet assets/style.css
+  python3 tools/build_site.py --skip-sources   # only rebuild educational pages
+"""
+
+from __future__ import annotations
+from pathlib import Path
+import argparse, html, re, sys
+import markdown
+
+ROOT = Path(__file__).resolve().parents[1]
+DOCS = ROOT / "docs" / "educational"
+SRC_TRANS = ROOT / "sources" / "transcripts"
+SRC_CAP   = ROOT / "sources" / "captions"
+
+FM_RE = re.compile(r'^\s*---\s*\n(.*?)\n---\s*\n(.*)\Z', re.S)
+META_LINE = re.compile(r'^\s*([A-Za-z0-9_]+)\s*:\s*"?(.+?)"?\s*$', re.M)
+
+def parse_front_matter(md_txt: str) -> tuple[dict, str]:
+    m = FM_RE.match(md_txt)
+    if not m:
+        return ({}, md_txt)
+    raw_meta, body = m.group(1), m.group(2)
+    meta = {}
+    for mm in META_LINE.finditer(raw_meta):
+        k, v = mm.group(1).strip().lower(), mm.group(2).strip()
+        meta[k] = v.strip('"').strip("'")
+    return (meta, body)
+
+def md_to_html(md_txt: str) -> str:
+    return markdown.markdown(md_txt, extensions=["tables", "fenced_code"])
+
+def ensure_target_blank(html_txt: str) -> str:
+    def repl(m):
+        tag = m.group(0)
+        if 'target=' not in tag:
+            tag = tag.replace('<a ', '<a target="_blank" ', 1)
+        if 'rel=' not in tag:
+            tag = tag.replace('<a ', '<a rel="noopener noreferrer" ', 1)
+        return tag
+    return re.sub(r'<a\s+[^>]*href="https?://[^"]+"[^>]*>', repl, html_txt, flags=re.I)
+
+# -------- Robust section extraction (HTML first, Markdown fallback) --------
+
+def _normalize_heading_txt(s: str) -> str:
+    import unicodedata
+    s = unicodedata.normalize("NFKC", s)
+    s = re.sub(r"\s+", " ", s).strip().lower()
+    return s

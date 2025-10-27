@@ -10,8 +10,20 @@
       "sha256": "36faa086735d955c9273037d4a14eba49df02e0369d14ff014b83a6a9e963eb6"
     },
     {
+      "path": "sources/captions/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.html",
+      "sha256": "8fe49b77e2c12e2a1ab069ea58504030d503299c56f2090d1e24da2ef8c44697"
+    },
+    {
       "path": "sources/captions/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.md",
       "sha256": "37ab30a784528e63722cad9b90b0a5b6a8bbecc1d550a82a36e6bc4b815efb54"
+    },
+    {
+      "path": "sources/captions/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.vtt",
+      "sha256": "44203211eabf2ee1e08f6b8bf4efb30f2ccdfed55d96dbad42edb652b2f979eb"
+    },
+    {
+      "path": "sources/diarist/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.srt",
+      "sha256": "529ef49d0cf6bc6a0bd0819ba2170a63e6a4abc06775abec61f479b2af4d977a"
     },
     {
       "path": "sources/diarist/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.html",
-      "sha256": "4e11b65338b177722314a539d6edd5fe17b0cbe52ff4b71f99f8d75a1f2fabd5"
+      "sha256": "00b9d2418f2ffde15f4614401a0ce5ff05eb25e0e86b4a3d78d98341c4619104"
     },
     {
       "path": "sources/transcripts/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.html",
-      "sha256": "7c75a22caf02b2bff0a8e30859ebb14d783b14cbc6aacf9333f31b4045b12775"
+      "sha256": "eb7dc98e86171b307e33a2f772b3e05a163a4a1882dbf992efd4aaab3201bba9"
     },
     {
       "path": "sources/transcripts/_archive/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.md",
       "sha256": "49bddfa652e183d6eb38f72fdb43faa2096146594fc97e113612361bad4a520d"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2018-10-12",
   "tools": [

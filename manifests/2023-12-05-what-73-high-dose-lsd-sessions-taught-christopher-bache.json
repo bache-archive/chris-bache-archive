@@ -10,8 +10,20 @@
       "sha256": "c9516c3d8858794e1df5831b8f777088a0acb2494361a859b2dd473dcfeed7c0"
     },
     {
+      "path": "sources/captions/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.html",
+      "sha256": "cb11cf04063351d2721fffeaf5a978856799ca4c84bcd40a0d961d230a211fab"
+    },
+    {
       "path": "sources/captions/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.md",
       "sha256": "571552d75308313b242fa14b5130e2a94f50a855da3dc03b87dab075247e144d"
+    },
+    {
+      "path": "sources/captions/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.vtt",
+      "sha256": "5d68c79362dd475cec0f346d70a1cbb7faa6b438a9bd93ab775f28e520f014c0"
+    },
+    {
+      "path": "sources/diarist/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.srt",
+      "sha256": "06ee69ebd07a5373a235a419b3ed4eb7c4bc5270419d3eb444871b3f2b6d6ad4"
     },
     {
       "path": "sources/diarist/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.html",
-      "sha256": "08ac58b0bad9ca2f3b2105cf8b774e6369429ff185c982490d823f37890b28a7"
+      "sha256": "6992e8892f5085a4dccf1f2cf65b2d73a0e56c7634e0f6e1410d319c16bd70e8"
     },
     {
       "path": "sources/transcripts/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.html",
-      "sha256": "708e02f26799fcb284781ebc132572a0d0a963935fd7f721d15c7c95dde7c4f0"
+      "sha256": "893c55400fa2c4b5ef0f5d669c2ea8a41dbd9801ca82bd3758312ccd34880302"
     },
     {
       "path": "sources/transcripts/_archive/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.md",
       "sha256": "470df8b9083992dca0a65b68ea572f455563b465f4827eb85f341b4b25f20da1"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2023-12-05",
   "tools": [

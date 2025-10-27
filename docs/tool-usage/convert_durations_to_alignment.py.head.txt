@@ -1,0 +1,61 @@
+===== HEAD: tools/convert_durations_to_alignment.py =====
+#!/usr/bin/env python3
+"""
+Builds audiobook alignment for Chris Bache's
+'LSD and the Mind of the Universe: Diamonds from Heaven'
+
+Input: ordered list of (label, duration) from the audiobook track listing.
+Output: alignments/lsdmu/audiobook-2019.json with cumulative start/end timecodes.
+
+Notes
+- We treat the provided times as DURATIONS for each listed item.
+- Items that do not correspond to a canonical print 'seg_id' (e.g., Opening Credits,
+  chapter headings, Foreword, Acknowledgments, End Credits) are kept with `seg_id=None`
+  but retain their label for traceability.
+- Canonical seg_ids follow the registry in sources/transcripts/lsdmu/lsdmu.section-registry.json
+- You can safely refine seg_id mappings later without recomputing times; the times are derived from order+durations.
+
+Run:
+    python tools/build_lsdmu_audiobook_alignment.py
+"""
+import json
+import os
+from datetime import timedelta
+
+# ---------- Helper functions ----------
+
+def parse_hms(s: str) -> int:
+    """
+    Parse 'MM:SS' or 'HH:MM:SS' into total seconds (int).
+    """
+    parts = s.strip().split(":")
+    if len(parts) == 2:
+        m, sec = parts
+        return int(m) * 60 + int(sec)
+    elif len(parts) == 3:
+        h, m, sec = parts
+        return int(h) * 3600 + int(m) * 60 + int(sec)
+    else:
+        raise ValueError(f"Unrecognized time format: {s}")
+
+def fmt_hms(total_seconds: int) -> str:
+    """
+    Format seconds into 'HH:MM:SS' (zero-padded).
+    """
+    td = timedelta(seconds=total_seconds)
+    # timedelta's str() yields H:MM:SS by default; normalize to HH:MM:SS
+    # even for durations >= 24h (not expected here)
+    hours = total_seconds // 3600
+    remainder = total_seconds % 3600
+    minutes = remainder // 60
+    seconds = remainder % 60
+    return f"{hours:02d}:{minutes:02d}:{seconds:02d}"
+
+# ---------- Source data (exact order as provided) ----------
+
+# Each tuple is (label, duration_str)
+# IMPORTANT: These are DURATIONS for each item, not absolute starts.
+ITEMS = [
+    ("Opening Credits", "00:17"),
+    ("Note to the Reader", "00:29"),
+    ("Dedication", "00:18"),

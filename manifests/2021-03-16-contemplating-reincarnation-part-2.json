@@ -10,8 +10,16 @@
       "sha256": "ac61e7ebfb0f0d12cccd53f3ec1a9b16c501b77884ebb1c247a0712d53a65a45"
     },
     {
+      "path": "sources/captions/2021-03-16-contemplating-reincarnation-part-2.html",
+      "sha256": "b9516e03a27e0e556007d593cb115a508dfe7e4c02fe43b3bda96abee1127e41"
+    },
+    {
       "path": "sources/captions/2021-03-16-contemplating-reincarnation-part-2.md",
       "sha256": "982d5a67f9134847f4e8c7bb5588b40095296d180728bf1b260e7aaf4535a432"
+    },
+    {
+      "path": "sources/diarist/2021-03-16-contemplating-reincarnation-part-2.srt",
+      "sha256": "e1b3ad7daf35de7b31d67dfc58af70bb62be980fd04a99e1788713e9a2d9b695"
     },
     {
       "path": "sources/diarist/2021-03-16-contemplating-reincarnation-part-2.txt",
@@ -19,7 +27,7 @@
     },
     {
       "path": "sources/transcripts/2021-03-16-contemplating-reincarnation-part-2.html",
-      "sha256": "4946f3c1530da91cfe5a849acc3bb334f1eb5d477c0927ec3fcad206299a7c2b"
+      "sha256": "8db26b8e409f4793cba689524c6aec3395e22bbb5063b36d1a6cb4682fb4d7a1"
     },
     {
       "path": "sources/transcripts/2021-03-16-contemplating-reincarnation-part-2.md",
@@ -27,14 +35,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2021-03-16-contemplating-reincarnation-part-2.html",
-      "sha256": "b29e04ad1d5032a354c68642816d9f328def5321532dfab2a8c6b9e9ee1f94e3"
+      "sha256": "90919d08387ff9f474ceac8c57c98895a4a954d036f2eb0a2006ff4de0eb0f5a"
     },
     {
       "path": "sources/transcripts/_archive/2021-03-16-contemplating-reincarnation-part-2.md",
       "sha256": "37444137da49d3ec138effff42417b96fdd9cc037f4dd0551030a0c6c002cd30"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2021-03-16",
   "tools": [

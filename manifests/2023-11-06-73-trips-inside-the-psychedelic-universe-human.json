@@ -1,0 +1,18 @@
+{
+  "id": "2023-11-06-73-trips-inside-the-psychedelic-universe-human",
+  "files": [
+    {
+      "path": "sources/captions/2023-11-06-73-trips-inside-the-psychedelic-universe-human.vtt",
+      "sha256": "99cea46f39ace67d50f02496d40c73cfdc3a833ac6211274d3d5942218fa78b8"
+    }
+  ],
+  "captured_at": "2025-10-27",
+  "license": "CC0-1.0",
+  "recorded_date": "2023-11-06",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

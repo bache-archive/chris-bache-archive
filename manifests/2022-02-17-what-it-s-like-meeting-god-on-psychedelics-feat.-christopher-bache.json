@@ -10,8 +10,20 @@
       "sha256": "9e98eb73eb494ae14fc6f7c9649f2019f334d383f35cfd0b135d347d252e60c8"
     },
     {
+      "path": "sources/captions/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.html",
+      "sha256": "fa570cb470bea63f7bd04369cead2f3c9b954b104880f65ddce51cded0973b2e"
+    },
+    {
       "path": "sources/captions/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.md",
       "sha256": "c4c47ecdffce7efd9a9b12ecb09aaf095b9a86a30e03fe35880723ae2b3553a5"
+    },
+    {
+      "path": "sources/captions/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.vtt",
+      "sha256": "e1f5ddc211c8e6ee4b7f0d97ef90d53d88eebf71cd800bb47a9270f0f7f1ae17"
+    },
+    {
+      "path": "sources/diarist/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.srt",
+      "sha256": "6ff14e3e043fc177d5faf06de700ff2b85bf38bb6e66b0fca5240e00402b4318"
     },
     {
       "path": "sources/diarist/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.html",
-      "sha256": "5eed4ecab7df87d83b9d7b70fead61f2ed103815ef872d401d1a06b215c25036"
+      "sha256": "a58679a6126b8a28094ca444fe7e1ab268f7bcd936b63b8c000be8d0923f4b0a"
     },
     {
       "path": "sources/transcripts/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.html",
-      "sha256": "5eed4ecab7df87d83b9d7b70fead61f2ed103815ef872d401d1a06b215c25036"
+      "sha256": "a58679a6126b8a28094ca444fe7e1ab268f7bcd936b63b8c000be8d0923f4b0a"
     },
     {
       "path": "sources/transcripts/_archive/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.md",
       "sha256": "2c533478dd9ad83daabad8c4765a8a8862a253f051f3fe717f99c4d9f9b1c4d2"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2022-02-17",
   "tools": [

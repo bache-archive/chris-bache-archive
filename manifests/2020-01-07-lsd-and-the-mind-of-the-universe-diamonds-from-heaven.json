@@ -10,8 +10,20 @@
       "sha256": "abdf4e7fcd5689afa86fdd316253d7329c0dd576987e5a5659203831d7c67964"
     },
     {
+      "path": "sources/captions/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.html",
+      "sha256": "8981746e063e68f4a37cc22969ceee10d4e5e6bac2f2fcd69a783b704c1eb806"
+    },
+    {
       "path": "sources/captions/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md",
       "sha256": "ae07246e1bd07f0d2a2c3586bbb6fb7f54a2adc60df7904c6b55c030a4a5dd58"
+    },
+    {
+      "path": "sources/captions/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.vtt",
+      "sha256": "a8c07898f4596cc62a8ce55f38e8efe2f9347fa47adce3aa382c17d633228e6e"
+    },
+    {
+      "path": "sources/diarist/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.srt",
+      "sha256": "c6b677fb53feadbeea4dcd7bd4e65d2f47d04714ee1b84b5b67c007e0877fc1f"
     },
     {
       "path": "sources/diarist/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.html",
-      "sha256": "24f1d1e5507b30fe31a8018495e6ecb958901bc8f61ff489aa09f569edb8cc62"
+      "sha256": "caafd1f1d870d29c4ce9c56f9c1643094f20ef49100871534e9865d405dc0e61"
     },
     {
       "path": "sources/transcripts/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.html",
-      "sha256": "a54a30a24fe70c6aafd5856c2bf877dcfe0b790ae3308944261e4dcc1b3f20cb"
+      "sha256": "0e18c541c6464fd467e032b5be81dce0f162bb4707beae510dfb5ca2388be85f"
     },
     {
       "path": "sources/transcripts/_archive/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md",
       "sha256": "91050548a4084fcdfe0fbb1b002ba50d46848ce766fd36565fdccce392c9f4b4"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2020-01-07",
   "tools": [

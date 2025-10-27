@@ -10,8 +10,20 @@
       "sha256": "0436efbb251c66038fa2ee1f90541588760c627167e8e693b168417392e7d702"
     },
     {
+      "path": "sources/captions/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.html",
+      "sha256": "015b9720e0ed981388b0d218f760bab924ecd05e6e745c42b8bb95cdd89fa8dc"
+    },
+    {
       "path": "sources/captions/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.md",
       "sha256": "cd9a13f6fd1cb46e955b792bec273fdb09799299a450c123b74e2991abf4ba7b"
+    },
+    {
+      "path": "sources/captions/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.vtt",
+      "sha256": "26f6f21fcb465535ce8f927559f45b507a8e11de6e28b7b52f15db8943520e1f"
+    },
+    {
+      "path": "sources/diarist/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.srt",
+      "sha256": "34dd4bbfcf45623376e18124233db0a670fa76678a2edf3c547a9ef6a340273c"
     },
     {
       "path": "sources/diarist/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.html",
-      "sha256": "9b3a3770a4c203b501e3a8283765c06396cb80e74c2c6ffc6fdfd942bad563e2"
+      "sha256": "11838755b1b66d89b51729752e557a5b5265ad72655df9dbaf53c0cf7fa56215"
     },
     {
       "path": "sources/transcripts/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.html",
-      "sha256": "948cf91314a8b0b489649973717abef771bafc801c0de7cb08817b2d576b18f4"
+      "sha256": "a9dc6c0e29a508534f53e48a4eee3d2c1d968abdfeaf3ac984ec94a5db0c0f02"
     },
     {
       "path": "sources/transcripts/_archive/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.md",
       "sha256": "dedecb83ae583d6ce3dc40c995853b95ea7b5be5534d07fba11a91159d743023"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2023-07-12",
   "tools": [

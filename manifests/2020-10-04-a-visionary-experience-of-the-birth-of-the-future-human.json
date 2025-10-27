@@ -10,8 +10,20 @@
       "sha256": "f5b724840046ba96c748d8f1dba15bdac2e2a85a781b9e3af998928ecb51cada"
     },
     {
+      "path": "sources/captions/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.html",
+      "sha256": "12c719f652548e6ff13141e22e4d64804ff00eb1b59557bdb0af645f063bdefa"
+    },
+    {
       "path": "sources/captions/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.md",
       "sha256": "b7215cfcbc10b5a3c9f821d27208972739be88e508d3df56ee1b50faed125736"
+    },
+    {
+      "path": "sources/captions/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.vtt",
+      "sha256": "3780c58b5aeb140b8002946b987cd602b3828fd403e33cbfdb5b57b2c15f3faa"
+    },
+    {
+      "path": "sources/diarist/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.srt",
+      "sha256": "6b691242852a2ba684770345f34dd10bbb5c06f2e9ee5111efab6a89c0b2fad9"
     },
     {
       "path": "sources/diarist/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.html",
-      "sha256": "8bdb56ac5bf60f619c1a6c06f28b3ee607298cbc444dc29efeac837141482eab"
+      "sha256": "1e285b1675fd39c619e40fbedcd380af462d3c4f05e98c39c17112faf8a5e4ab"
     },
     {
       "path": "sources/transcripts/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.html",
-      "sha256": "aa779bd2369957d89923e30afa4aa19569af1194c2d85a4cf3a831cefdb1f4fb"
+      "sha256": "4e4d20e381d2033eda8b47af90975c6e918a8f9bf6791811b5d823c9d3a565a6"
     },
     {
       "path": "sources/transcripts/_archive/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.md",
       "sha256": "a28da1e19fa7bb32c9f6e8add894a9e70c495bce8ff598f457224059b12a577a"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2020-10-04",
   "tools": [

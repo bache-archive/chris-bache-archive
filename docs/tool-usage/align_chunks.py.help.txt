@@ -1,0 +1,3 @@
+===== HELP: tools/align_chunks.py =====
+usage: align_chunks.py <chunks.csv> <captions.tsv|/dev/null> [diarist.tsv]
+usage: align_chunks.py <chunks.csv> <captions.tsv|/dev/null> [diarist.tsv]

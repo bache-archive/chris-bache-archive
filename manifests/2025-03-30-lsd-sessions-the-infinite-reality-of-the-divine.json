@@ -10,8 +10,20 @@
       "sha256": "c719f8d9c435656c84285833a7d62684a619df6358970eae0290dcc0ddf030b6"
     },
     {
+      "path": "sources/captions/2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine.html",
+      "sha256": "21dd1362f81aba3a4362a07c66c6849a9a4cb7b3d803b896c097d75926e93244"
+    },
+    {
       "path": "sources/captions/2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine.md",
       "sha256": "8df6aa2e2be05cc1b489c318cc2220257502979d0230a8e486c28bddb6bb65dd"
+    },
+    {
+      "path": "sources/captions/2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine.vtt",
+      "sha256": "7b685320b7f74d36fd63b99a7ecbf66534bab5136ccb0d9a09eb5a0ee3c784c8"
+    },
+    {
+      "path": "sources/diarist/2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine.srt",
+      "sha256": "ed2891bf6db7bc83093fce4d98198f2f66d37ff6e55331cd155959298f456d5b"
     },
     {
       "path": "sources/diarist/2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine.html",
-      "sha256": "5f313f2a961fe7ad49b1bbe957d73619167f301b83094c966f6d69b615061bb0"
+      "sha256": "9c424783792bb8210aa9e5b81ea55575a0913e63a2bdade5f885b099c574138e"
     },
     {
       "path": "sources/transcripts/2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine.html",
-      "sha256": "b2a5289c0a50d59fb7bfa60ddbf35e0a4d16d353b0856fc6230e7374eac3021e"
+      "sha256": "385f0de4618d92ef0c9b2a76ceff9021f288765052540805bbd89f0e5f0e07f3"
     },
     {
       "path": "sources/transcripts/_archive/2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine.md",
       "sha256": "f8673d4a4757616a81d3f775e48afd9e2b5e3a4d3195830909ee69de7a59b23a"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2025-03-30",
   "tools": [

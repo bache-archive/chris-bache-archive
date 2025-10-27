@@ -1,0 +1,61 @@
+===== HEAD: tools/build_manifests.py =====
+#!/usr/bin/env python3
+import hashlib, json, os, re, sys
+from datetime import date
+
+REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+RELEASE = os.environ.get("RELEASE", "v2.4")
+CHECKSUMS_PATH = os.path.join(REPO_ROOT, "checksums", f"RELEASE-{RELEASE}.sha256")
+MANIFESTS_DIR = os.path.join(REPO_ROOT, "manifests")
+TOOLS_CFG = os.path.join(REPO_ROOT, "tools", "tool_versions.json")
+
+INCLUDE_DIRS = ["sources", "downloads"]  # extend later if needed
+
+def sha256_file(path):
+    h = hashlib.sha256()
+    with open(path, "rb") as f:
+        for chunk in iter(lambda: f.read(1 << 20), b""):
+            h.update(chunk)
+    return h.hexdigest()
+
+def guess_id_from_path(relpath):
+    # Prefer a stable, date-led slug (YYYY-MM-DD-... without extension)
+    base = os.path.basename(relpath)
+    stem, _ = os.path.splitext(base)
+    # If it starts with a date, keep the whole stem (common naming in this repo)
+    if re.match(r"^\d{4}-\d{2}-\d{2}", stem):
+        return stem
+    # Otherwise fall back to directory + stem
+    parts = relpath.split(os.sep)
+    if len(parts) >= 2:
+        return f"{parts[-2]}-{stem}"
+    return stem
+
+def extract_recorded_date(id_):
+    m = re.match(r"^(\d{4}-\d{2}-\d{2})", id_)
+    return m.group(1) if m else ""
+
+def load_tools():
+    try:
+        with open(TOOLS_CFG, "r") as f:
+            cfg = json.load(f)
+        return [f"{k} {v}" for k, v in cfg.items()]
+    except Exception:
+        return []
+
+def main():
+    files = []
+    for root_dir in INCLUDE_DIRS:
+        abs_root = os.path.join(REPO_ROOT, root_dir)
+        if not os.path.isdir(abs_root):
+            continue
+        for r, _dirs, fns in os.walk(abs_root):
+            # skip generated & meta dirs
+            if any(skip in r for skip in (os.sep+".git", os.sep+"manifests", os.sep+"checksums", os.sep+"tools")):
+                continue
+            for fn in fns:
+                # skip obvious non-content files
+                if fn.startswith("."):
+                    continue
+                relpath = os.path.relpath(os.path.join(r, fn), REPO_ROOT)
+                # ignore index pages and repo docs here

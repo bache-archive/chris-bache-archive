@@ -1,0 +1,61 @@
+===== HEAD: tools/align_timecodes_from_vtt_windows.py =====
+#!/usr/bin/env python3
+"""
+Align (or patch) timecodes in vectors/bache-talks.embeddings.parquet
+USING diarist SRTs only (sources/diarist/*.srt). Adaptive windowing + fuzzy matching.
+
+Behavior:
+- Uses diarist .srt (cleaner, speaker-labeled) when present; skips talks without SRT.
+- Only patches rows whose URL is YouTube.
+- By default, aligns ONLY rows missing timecodes.
+- Per talk_id, if >20% rows are still missing, enables a 3rd, more forgiving pass.
+- Strips YAML/front-matter & metadata lines from chunk text before matching.
+- Applies a “tail guard” so timestamps never exceed the media duration inferred from the SRT.
+
+ENV (tunable):
+  PARQUET_PATH=vectors/bache-talks.embeddings.parquet
+  DIARIST_DIR=sources/diarist
+
+  # thresholds
+  ALIGN_THRESH_A=70   # primary (partial_ratio)
+  ALIGN_THRESH_B=62   # fallback (partial_ratio)
+  ALIGN_THRESH_C=68   # conditional pass (WRatio) for low-coverage talks
+
+  # probe lengths (chars)
+  ALIGN_PROBE_MIN=180
+  ALIGN_PROBE_MAX=320
+
+  # window scale factors (relative to probe length)
+  ALIGN_PASSA_MIN=0.8
+  ALIGN_PASSA_MAX=1.6
+  ALIGN_PASSB_MIN=0.6
+  ALIGN_PASSB_MAX=2.0
+  ALIGN_PASSC_MIN=0.6
+  ALIGN_PASSC_MAX=2.2
+
+  # feature flags
+  ALIGN_USE_PASS_C=1      # 1 enable (default), 0 disable
+  FULL_REFRESH=0          # 1 re-align ALL YouTube rows, 0 only missing (default)
+"""
+
+from __future__ import annotations
+import os, re, sys
+from pathlib import Path
+import pandas as pd
+from rapidfuzz import fuzz
+from ftfy import fix_text
+
+# ---- Config ----
+PARQ = os.getenv("PARQUET_PATH", "vectors/bache-talks.embeddings.parquet")
+DIAR = Path(os.getenv("DIARIST_DIR", "sources/diarist"))
+
+THRESH_A = int(os.getenv("ALIGN_THRESH_A", "70"))
+THRESH_B = int(os.getenv("ALIGN_THRESH_B", "62"))
+THRESH_C = int(os.getenv("ALIGN_THRESH_C", "68"))
+
+PROBE_MIN = int(os.getenv("ALIGN_PROBE_MIN", "180"))
+PROBE_MAX = int(os.getenv("ALIGN_PROBE_MAX", "320"))
+
+PASSA_MIN_F = float(os.getenv("ALIGN_PASSA_MIN", "0.8"))
+PASSA_MAX_F = float(os.getenv("ALIGN_PASSA_MAX", "1.6"))
+PASSB_MIN_F = float(os.getenv("ALIGN_PASSB_MIN", "0.6"))

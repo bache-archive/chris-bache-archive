@@ -1,0 +1,1686 @@
+===== HEAD: tools/align_chunks.py =====
+import sys, os, csv, re, math, time
+from pathlib import Path
+
+try:
+    from rapidfuzz.fuzz import partial_ratio
+    HAVE_RF = True
+except Exception:
+    from difflib import SequenceMatcher
+    HAVE_RF = False
+
+def hhmmss(t):
+    t = max(0.0, float(t))
+    h = int(t//3600); m = int((t%3600)//60); s = int(round(t%60))
+    return f"{h:02d}:{m:02d}:{s:02d}"
+
+WORD_RE = re.compile(r"[A-Za-z0-9]+'?[A-Za-z0-9]+")
+def normalize_text(s):
+    toks = WORD_RE.findall((s or "").lower())
+    return " ".join(toks)
+
+def read_timeline(tsv_path):
+    if not tsv_path or not os.path.isfile(tsv_path): return None
+    words = []
+    with open(tsv_path, "r", encoding="utf-8") as f:
+        for line in f:
+            parts = line.rstrip("\n").split("\t")
+            if len(parts) != 3: continue
+            w, a, b = parts[0], float(parts[1]), float(parts[2])
+            words.append((w, a, b))
+    if not words: return None
+    text_pieces, idx_map = [], []
+    for i, (w, a, b) in enumerate(words):
+        if i>0:
+            text_pieces.append(" "); idx_map.append(-1)
+        text_pieces.append(w)
+        for _ in w: idx_map.append(i)
+    stream = "".join(text_pieces)
+    return {"words": words, "stream": stream, "idx_map": idx_map}
+
+def exact_match(stream, chunk_norm):
+    pos = stream.find(chunk_norm)
+    if pos < 0: return None
+    return pos, pos + len(chunk_norm)
+
+def char_span_to_word_span(idx_map, start_char, end_char):
+    n = len(idx_map)
+    start_char = max(0, min(n-1, start_char))
+    end_char = max(0, min(n-1, end_char-1))
+    i = start_char
+    while i < n and idx_map[i] == -1: i += 1
+    if i >= n: return 0, 1
+    j = end_char
+    while j >= 0 and idx_map[j] == -1: j -= 1
+    if j < 0: return 0, 1
+    return idx_map[i], idx_map[j] + 1
+
+def word_span_times(words, wi0, wi1):
+    wi0 = max(0, wi0); wi1 = min(len(words), wi1)
+    if wi0 >= wi1:
+        a = words[wi0][1]; b = words[wi0][2]
+===== HEAD: tools/align_timecodes_from_vtt_windows.py =====
+#!/usr/bin/env python3
+"""
+Align (or patch) timecodes in vectors/bache-talks.embeddings.parquet
+USING diarist SRTs only (sources/diarist/*.srt). Adaptive windowing + fuzzy matching.
+
+Behavior:
+- Uses diarist .srt (cleaner, speaker-labeled) when present; skips talks without SRT.
+- Only patches rows whose URL is YouTube.
+- By default, aligns ONLY rows missing timecodes.
+- Per talk_id, if >20% rows are still missing, enables a 3rd, more forgiving pass.
+- Strips YAML/front-matter & metadata lines from chunk text before matching.
+- Applies a “tail guard” so timestamps never exceed the media duration inferred from the SRT.
+
+ENV (tunable):
+  PARQUET_PATH=vectors/bache-talks.embeddings.parquet
+  DIARIST_DIR=sources/diarist
+
+  # thresholds
+  ALIGN_THRESH_A=70   # primary (partial_ratio)
+  ALIGN_THRESH_B=62   # fallback (partial_ratio)
+  ALIGN_THRESH_C=68   # conditional pass (WRatio) for low-coverage talks
+
+  # probe lengths (chars)
+  ALIGN_PROBE_MIN=180
+  ALIGN_PROBE_MAX=320
+
+  # window scale factors (relative to probe length)
+  ALIGN_PASSA_MIN=0.8
+  ALIGN_PASSA_MAX=1.6
+  ALIGN_PASSB_MIN=0.6
+  ALIGN_PASSB_MAX=2.0
+  ALIGN_PASSC_MIN=0.6
+  ALIGN_PASSC_MAX=2.2
+
+  # feature flags
+  ALIGN_USE_PASS_C=1      # 1 enable (default), 0 disable
+  FULL_REFRESH=0          # 1 re-align ALL YouTube rows, 0 only missing (default)
+"""
+
+from __future__ import annotations
+import os, re, sys
+from pathlib import Path
+import pandas as pd
+from rapidfuzz import fuzz
+from ftfy import fix_text
+
+# ---- Config ----
+PARQ = os.getenv("PARQUET_PATH", "vectors/bache-talks.embeddings.parquet")
+DIAR = Path(os.getenv("DIARIST_DIR", "sources/diarist"))
+
+THRESH_A = int(os.getenv("ALIGN_THRESH_A", "70"))
+THRESH_B = int(os.getenv("ALIGN_THRESH_B", "62"))
+THRESH_C = int(os.getenv("ALIGN_THRESH_C", "68"))
+
+PROBE_MIN = int(os.getenv("ALIGN_PROBE_MIN", "180"))
+PROBE_MAX = int(os.getenv("ALIGN_PROBE_MAX", "320"))
+
+PASSA_MIN_F = float(os.getenv("ALIGN_PASSA_MIN", "0.8"))
+PASSA_MAX_F = float(os.getenv("ALIGN_PASSA_MAX", "1.6"))
+PASSB_MIN_F = float(os.getenv("ALIGN_PASSB_MIN", "0.6"))
+===== HEAD: tools/audit_timecodes.py =====
+#!/usr/bin/env python3
+import pandas as pd, urllib.parse, collections, pathlib
+
+PARQ = "vectors/bache-talks.embeddings.parquet"  # your renamed +tc
+m = pd.read_parquet(PARQ)
+
+def domain(u):
+    try:
+        netloc = urllib.parse.urlparse(str(u)).netloc
+        return netloc.lower().split(":")[0]
+    except Exception:
+        return ""
+
+has_tc = m["start_hhmmss"].notna()
+m["domain"] = m["url"].map(domain)
+
+by_talk = m.groupby(["talk_id","archival_title","domain","url"]).agg(
+    rows=("text","count"),
+    with_tc=("start_hhmmss", lambda s: s.notna().sum()),
+    without_tc=("start_hhmmss", lambda s: s.isna().sum()),
+).reset_index()
+
+print("\n=== Coverage by talk (top missing) ===")
+miss = by_talk[by_talk["without_tc"]>0].sort_values(["without_tc","rows"], ascending=[False,False])
+print(miss.head(20).to_string(index=False))
+
+print("\n=== Coverage by domain ===")
+by_dom = m.groupby("domain")["start_hhmmss"].apply(lambda s: (s.notna().sum(), s.isna().sum()))
+for d,(ok,ko) in sorted(by_dom.items(), key=lambda x: -x[1][1]):
+    print(f"{d or '(none)'}: with={ok}  without={ko}")
+
+print("\nTotal rows:", len(m), "   with_tc:", has_tc.sum(), "   without_tc:", (~has_tc).sum())
+
+===== HEAD: tools/build_manifests.py =====
+#!/usr/bin/env python3
+import hashlib, json, os, re, sys
+from datetime import date
+
+REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+RELEASE = os.environ.get("RELEASE", "v2.4")
+CHECKSUMS_PATH = os.path.join(REPO_ROOT, "checksums", f"RELEASE-{RELEASE}.sha256")
+MANIFESTS_DIR = os.path.join(REPO_ROOT, "manifests")
+TOOLS_CFG = os.path.join(REPO_ROOT, "tools", "tool_versions.json")
+
+INCLUDE_DIRS = ["sources", "downloads"]  # extend later if needed
+
+def sha256_file(path):
+    h = hashlib.sha256()
+    with open(path, "rb") as f:
+        for chunk in iter(lambda: f.read(1 << 20), b""):
+            h.update(chunk)
+    return h.hexdigest()
+
+def guess_id_from_path(relpath):
+    # Prefer a stable, date-led slug (YYYY-MM-DD-... without extension)
+    base = os.path.basename(relpath)
+    stem, _ = os.path.splitext(base)
+    # If it starts with a date, keep the whole stem (common naming in this repo)
+    if re.match(r"^\d{4}-\d{2}-\d{2}", stem):
+        return stem
+    # Otherwise fall back to directory + stem
+    parts = relpath.split(os.sep)
+    if len(parts) >= 2:
+        return f"{parts[-2]}-{stem}"
+    return stem
+
+def extract_recorded_date(id_):
+    m = re.match(r"^(\d{4}-\d{2}-\d{2})", id_)
+    return m.group(1) if m else ""
+
+def load_tools():
+    try:
+        with open(TOOLS_CFG, "r") as f:
+            cfg = json.load(f)
+        return [f"{k} {v}" for k, v in cfg.items()]
+    except Exception:
+        return []
+
+def main():
+    files = []
+    for root_dir in INCLUDE_DIRS:
+        abs_root = os.path.join(REPO_ROOT, root_dir)
+        if not os.path.isdir(abs_root):
+            continue
+        for r, _dirs, fns in os.walk(abs_root):
+            # skip generated & meta dirs
+            if any(skip in r for skip in (os.sep+".git", os.sep+"manifests", os.sep+"checksums", os.sep+"tools")):
+                continue
+            for fn in fns:
+                # skip obvious non-content files
+                if fn.startswith("."):
+                    continue
+                relpath = os.path.relpath(os.path.join(r, fn), REPO_ROOT)
+                # ignore index pages and repo docs here
+===== HEAD: tools/build_site.py =====
+#!/usr/bin/env python3
+"""
+tools/build_site.py
+
+Build *styled* static HTML for:
+  • docs/educational/<qid>/index.md  (hero + cards: book first, talks second)
+  • sources/transcripts/**/*.md       (styled wrapper)
+  • sources/captions/**/*.md          (styled wrapper)
+
+Usage:
+  python3 tools/build_site.py
+  python3 tools/build_site.py --qid future-human
+  python3 tools/build_site.py --site-base /chris-bache-archive --stylesheet assets/style.css
+  python3 tools/build_site.py --skip-sources   # only rebuild educational pages
+"""
+
+from __future__ import annotations
+from pathlib import Path
+import argparse, html, re, sys
+import markdown
+
+ROOT = Path(__file__).resolve().parents[1]
+DOCS = ROOT / "docs" / "educational"
+SRC_TRANS = ROOT / "sources" / "transcripts"
+SRC_CAP   = ROOT / "sources" / "captions"
+
+FM_RE = re.compile(r'^\s*---\s*\n(.*?)\n---\s*\n(.*)\Z', re.S)
+META_LINE = re.compile(r'^\s*([A-Za-z0-9_]+)\s*:\s*"?(.+?)"?\s*$', re.M)
+
+def parse_front_matter(md_txt: str) -> tuple[dict, str]:
+    m = FM_RE.match(md_txt)
+    if not m:
+        return ({}, md_txt)
+    raw_meta, body = m.group(1), m.group(2)
+    meta = {}
+    for mm in META_LINE.finditer(raw_meta):
+        k, v = mm.group(1).strip().lower(), mm.group(2).strip()
+        meta[k] = v.strip('"').strip("'")
+    return (meta, body)
+
+def md_to_html(md_txt: str) -> str:
+    return markdown.markdown(md_txt, extensions=["tables", "fenced_code"])
+
+def ensure_target_blank(html_txt: str) -> str:
+    def repl(m):
+        tag = m.group(0)
+        if 'target=' not in tag:
+            tag = tag.replace('<a ', '<a target="_blank" ', 1)
+        if 'rel=' not in tag:
+            tag = tag.replace('<a ', '<a rel="noopener noreferrer" ', 1)
+        return tag
+    return re.sub(r'<a\s+[^>]*href="https?://[^"]+"[^>]*>', repl, html_txt, flags=re.I)
+
+# -------- Robust section extraction (HTML first, Markdown fallback) --------
+
+def _normalize_heading_txt(s: str) -> str:
+    import unicodedata
+    s = unicodedata.normalize("NFKC", s)
+    s = re.sub(r"\s+", " ", s).strip().lower()
+    return s
+===== HEAD: tools/check_vtt_health.py =====
+#!/usr/bin/env python3
+from pathlib import Path
+import re, sys
+
+CAPS = Path("sources/captions")
+TALKS = [
+"2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview",
+"2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1",
+"2023-01-30-wisdom-keepers-conversation-with-duane-elgin",
+"2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1",
+"2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast",
+"2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2",
+"2023-01-05-exploring-lsd-and-the-mind-of-the-universe",
+"2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching",
+"2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142",
+"2025-07-16-consciousness-psychedelics-and-collective-evolution",
+]
+
+TS = re.compile(r"(\d{1,2}):(\d{2}):(\d{2})\.\d+\s*-->\s*(\d{1,2}):(\d{2}):(\d{2})\.\d+")
+def parse_vtt(p: Path):
+    if not p.exists():
+        return {"ok": False, "reason": "missing"}
+    lines = p.read_text(encoding="utf-8", errors="ignore").splitlines()
+    segs, bad, last_start = 0, 0, -1
+    for ln in lines:
+        m = TS.search(ln)
+        if not m: continue
+        h, m1, s = int(m.group(1)), int(m.group(2)), int(m.group(3))
+        start = h*3600 + m1*60 + s
+        if start < last_start: bad += 1
+        last_start = start
+        segs += 1
+    return {"ok": segs > 0 and bad == 0, "segs": segs, "bad": bad, "reason": None if segs>0 else "no segments"}
+
+def pick(tid: str):
+    for suf in ("-human.vtt", ".human.vtt", ".vtt"):
+        p = CAPS / f"{tid}{suf}"
+        if p.exists(): return p
+    return CAPS / f"{tid}.vtt"
+
+for tid in TALKS:
+    p = pick(tid)
+    r = parse_vtt(p)
+    status = "OK" if r["ok"] else f"BAD ({r['reason']})"
+    print(f"{tid:90}  -> {p.name:60}  {status}  segs={r.get('segs',0)} bad_ts={r.get('bad',0)}")
+===== HEAD: tools/chunk_transcripts.py =====
+#!/usr/bin/env python3
+"""
+tools/chunk_transcripts.py
+
+Create stable, citation-friendly chunks from cleaned Markdown transcripts.
+
+• Reads:   index.json (existing schema; uses the `transcript` path if present and non-null)
+• Writes:  build/chunks/bache-talks.chunks.jsonl  (one JSON object per chunk)
+           reports/chunk_stats.json               (basic QA stats)
+
+This version:
+  - Silently SKIPS entries without a usable `transcript` path (e.g., book registries).
+  - Fixes UTC timestamp deprecation by using timezone-aware datetimes.
+  - Passes CLI args into stats writer (bugfix).
+
+Chunking rules (defaults; configurable via CLI):
+  - Target ~1000–1500 characters per chunk (default target=1200)
+  - Character overlap between adjacent chunks (default overlap=100)
+  - Prefer paragraph boundaries (split on blank lines); collapse whitespace
+  - Preserve simple speaker labels already present in text (e.g., "CHRIS:")
+
+Deterministic IDs:
+  - talk_id: basename of transcript path without ".md"
+  - chunk_index: 1-based, zero-padded "ckNNN"
+  - chunk_id: "{talk_id}:{ckNNN}:{hash6}" where hash6 = first 6 of sha1(normalized_chunk_text)
+
+Usage:
+  python tools/chunk_transcripts.py \
+      --index index.json \
+      --out build/chunks/bache-talks.chunks.jsonl \
+      --stats reports/chunk_stats.json \
+      --target 1200 \
+      --overlap 100
+"""
+
+import argparse
+import hashlib
+import io
+import json
+import os
+import re
+import sys
+from collections import defaultdict
+from datetime import datetime, timezone
+from pathlib import Path
+from statistics import mean
+
+# ----------------------------
+# Markdown → plain-ish text
+# ----------------------------
+
+MD_CODEBLOCK_FENCE_RE = re.compile(r"(^```.*?$)(.*?)(^```$)", re.DOTALL | re.MULTILINE)
+MD_INLINE_CODE_RE = re.compile(r"`([^`]+)`")
+MD_HEADING_RE = re.compile(r"^\s{0,3}#{1,6}\s*", re.MULTILINE)
+MD_BLOCKQUOTE_RE = re.compile(r"^\s{0,3}>\s?", re.MULTILINE)
+MD_BULLET_RE = re.compile(r"^\s*([-*+]\s+|\d+\.\s+)", re.MULTILINE)
+MD_LINK_RE = re.compile(r"$begin:math:display$([^$end:math:display$]+)\]$begin:math:text$[^)]+$end:math:text$")  # keep link text
+MD_IMAGE_RE = re.compile(r"!$begin:math:display$([^$end:math:display$]*)\]$begin:math:text$[^)]+$end:math:text$")  # drop image, keep alt
+MD_EMPH_RE = re.compile(r"(\*\*|__|\*|_)(.*?)\1", re.DOTALL)
+MD_HTML_TAG_RE = re.compile(r"</?[^>]+>")  # drop basic HTML tags
+===== HEAD: tools/convert_durations_to_alignment.py =====
+#!/usr/bin/env python3
+"""
+Builds audiobook alignment for Chris Bache's
+'LSD and the Mind of the Universe: Diamonds from Heaven'
+
+Input: ordered list of (label, duration) from the audiobook track listing.
+Output: alignments/lsdmu/audiobook-2019.json with cumulative start/end timecodes.
+
+Notes
+- We treat the provided times as DURATIONS for each listed item.
+- Items that do not correspond to a canonical print 'seg_id' (e.g., Opening Credits,
+  chapter headings, Foreword, Acknowledgments, End Credits) are kept with `seg_id=None`
+  but retain their label for traceability.
+- Canonical seg_ids follow the registry in sources/transcripts/lsdmu/lsdmu.section-registry.json
+- You can safely refine seg_id mappings later without recomputing times; the times are derived from order+durations.
+
+Run:
+    python tools/build_lsdmu_audiobook_alignment.py
+"""
+import json
+import os
+from datetime import timedelta
+
+# ---------- Helper functions ----------
+
+def parse_hms(s: str) -> int:
+    """
+    Parse 'MM:SS' or 'HH:MM:SS' into total seconds (int).
+    """
+    parts = s.strip().split(":")
+    if len(parts) == 2:
+        m, sec = parts
+        return int(m) * 60 + int(sec)
+    elif len(parts) == 3:
+        h, m, sec = parts
+        return int(h) * 3600 + int(m) * 60 + int(sec)
+    else:
+        raise ValueError(f"Unrecognized time format: {s}")
+
+def fmt_hms(total_seconds: int) -> str:
+    """
+    Format seconds into 'HH:MM:SS' (zero-padded).
+    """
+    td = timedelta(seconds=total_seconds)
+    # timedelta's str() yields H:MM:SS by default; normalize to HH:MM:SS
+    # even for durations >= 24h (not expected here)
+    hours = total_seconds // 3600
+    remainder = total_seconds % 3600
+    minutes = remainder // 60
+    seconds = remainder % 60
+    return f"{hours:02d}:{minutes:02d}:{seconds:02d}"
+
+# ---------- Source data (exact order as provided) ----------
+
+# Each tuple is (label, duration_str)
+# IMPORTANT: These are DURATIONS for each item, not absolute starts.
+ITEMS = [
+    ("Opening Credits", "00:17"),
+    ("Note to the Reader", "00:29"),
+    ("Dedication", "00:18"),
+===== HEAD: tools/debug_alignment_scores.py =====
+#!/usr/bin/env python3
+import pandas as pd
+from pathlib import Path
+from rapidfuzz import fuzz
+from ftfy import fix_text
+import re, os
+
+PARQ="vectors/bache-talks.embeddings.parquet"
+CAPS=Path("sources/captions")
+TS=re.compile(r"(?P<sh>\d{1,2}):(?P<sm>\d{2}):(?P<ss>\d{2})\.\d+\s*-->\s*"
+              r"(?P<eh>\d{1,2}):(?P<em>\d{2}):(?P<es>\d{2})\.\d+")
+
+def norm(t): return re.sub(r"\s+"," ", fix_text((t or "").strip()))
+
+def pick_vtt(tid):
+    for suf in ("-human.vtt",".human.vtt",".vtt"):
+        p=CAPS/f"{tid}{suf}"
+        if p.exists(): return p
+
+def parse_vtt(p):
+    segs=[]; start=None; buf=[]
+    for ln in p.read_text(encoding="utf-8",errors="ignore").splitlines():
+        m=TS.search(ln)
+        if m:
+            if start is not None and buf:
+                segs.append({"start":start,"text":norm(" ".join(buf))})
+            start=int(m["sh"])*3600+int(m["sm"])*60+int(m["ss"])
+            buf=[]
+            continue
+        if ln.strip() and not ln.startswith("WEBVTT"):
+            buf.append(ln.strip())
+    if start is not None and buf: segs.append({"start":start,"text":norm(" ".join(buf))})
+    return segs
+
+def windows(segs, minc=160, maxc=480):
+    n=len(segs); i=0
+    while i<n:
+        j=i; parts=[]; total=0
+        while j<n and total<minc: parts.append(segs[j]["text"]); total+=len(segs[j]["text"]); j+=1
+        while j<n and total<maxc: parts.append(segs[j]["text"]); total+=len(segs[j]["text"]); j+=1
+        yield (segs[i]["start"], norm(" ".join(parts)))
+        i+=max(1,(j-i)//2)
+
+def probe(text, lo=180, hi=320):
+    t=norm(text)
+    target=max(lo, min(hi, int(0.4*len(t))))
+    return t[:target]
+
+df=pd.read_parquet(PARQ)
+miss=df[df["start_hhmmss"].isna()].copy()
+
+samples=[]
+for tid, g in miss.groupby("talk_id"):
+    vtt=pick_vtt(tid)
+    if not vtt: continue
+    segs=parse_vtt(vtt)
+    if not segs: continue
+    for _,row in g.head(12).iterrows():  # sample first 12 misses
+        q=probe(row["text"])
+        best=0
+===== HEAD: tools/dedupe_prefer_timed.py =====
+#!/usr/bin/env python3
+import pandas as pd, re
+from ftfy import fix_text
+
+PARQ = "vectors/bache-talks.embeddings.parquet"
+OUT  = PARQ
+
+df = pd.read_parquet(PARQ)
+
+def norm(t: str) -> str:
+    return re.sub(r"\s+"," ", fix_text((t or "").strip())).lower()
+
+df["__norm"]  = df["text"].map(norm)
+df["__timed"] = df["start_hhmmss"].notna().astype(int)
+
+# keep the timed duplicate if present
+df = df.sort_values(["talk_id","__norm","__timed"], ascending=[True, True, False])
+before = len(df)
+df2 = df.drop_duplicates(subset=["talk_id","__norm"], keep="first").drop(columns=["__norm","__timed"])
+after = len(df2)
+
+if after < before:
+    df2.to_parquet(OUT, index=False)
+    print(f"[ok] dropped {before-after} duplicate rows (kept timed). wrote {OUT}")
+else:
+    print("No duplicates to drop.")
+===== HEAD: tools/download_media.sh =====
+#!/bin/zsh
+
+# --- Configuration ---
+INDEX_FILE="index.json"
+DOWNLOADS_ROOT="downloads"
+VIDEO_DIR="$DOWNLOADS_ROOT/video"
+AUDIO_DIR="$DOWNLOADS_ROOT/audio"
+
+# --- Dependency Check ---
+echo "Checking for required tools (jq, yt-dlp)..."
+if ! command -v jq &> /dev/null; then
+    echo "Error: 'jq' (JSON processor) is not installed."
+    echo "Install with: brew install jq"
+    exit 1
+fi
+if ! command -v yt-dlp &> /dev/null; then
+    echo "Error: 'yt-dlp' (video downloader) is not installed."
+    echo "Install with: brew install yt-dlp"
+    exit 1
+fi
+
+if [[ ! -f "$INDEX_FILE" ]]; then
+    echo "Error: '$INDEX_FILE' not found in the current directory. Please save your JSON data to this file."
+    exit 1
+fi
+
+# Create download directories
+mkdir -p "$VIDEO_DIR"
+mkdir -p "$AUDIO_DIR"
+echo "Download directories created: $VIDEO_DIR and $AUDIO_DIR"
+echo "----------------------------------------------------"
+
+# --- Main Logic ---
+
+# jq query extracts: youtube_url, followed by a space, followed by the cleaned filename (e.g., 2014-11-10-...)
+JQ_QUERY='.[] | (.youtube_url + " " + (.file | split("/") | .[1] | split(".") | .[0]))'
+
+# Get total number of items for a correct progress counter
+TOTAL_ITEMS=$(jq '. | length' "$INDEX_FILE")
+CURRENT_ITEM=0
+
+# Use a Zsh-compatible pipe to read the jq output line-by-line
+jq -r "$JQ_QUERY" "$INDEX_FILE" | while IFS=$' ' read -r URL BASE_NAME; do
+    CURRENT_ITEM=$((CURRENT_ITEM + 1))
+
+    # Simple check to ensure we got data
+    if [[ -z "$URL" || -z "$BASE_NAME" ]]; then
+        echo "[$CURRENT_ITEM/$TOTAL_ITEMS] WARNING: Skipping empty/malformed item."
+        echo "----------------------------------------------------"
+        continue
+    fi
+
+    echo "[$CURRENT_ITEM/$TOTAL_ITEMS] Processing: ${BASE_NAME}"
+
+    # --- 1. Download Video (MP4) ---
+    VIDEO_OUTPUT="$VIDEO_DIR/$BASE_NAME.mp4"
+    if [[ -f "$VIDEO_OUTPUT" ]]; then
+        echo "  - Video already exists. Skipping video download."
+    else
+        echo "  - Downloading Video to $VIDEO_OUTPUT"
+===== HEAD: tools/embed_and_faiss.py =====
+#!/usr/bin/env python3
+"""
+tools/embed_and_faiss.py
+
+Reads JSONL chunks → computes embeddings → writes Parquet + FAISS (cosine).
+Also emits a small QC report with counts, dims, and SHA-256 checksums.
+NOW: attaches human-readable citation metadata from rag/citation_labels.json
+and backfills canonical URLs from index.json.
+
+Usage:
+  export OPENAI_API_KEY="sk-..."
+  pip install "openai==1.*" faiss-cpu pandas pyarrow numpy tqdm python-dotenv
+
+  python tools/embed_and_faiss.py \
+    --chunks vectors/chunks.jsonl \
+    --parquet vectors/bache-talks.embeddings.parquet \
+    --faiss vectors/bache-talks.index.faiss \
+    --report reports/embedding_qc.json \
+    --model text-embedding-3-large \
+    --citation_labels rag/citation_labels.json \
+    --index index.json
+"""
+
+import argparse
+import json
+import os
+import time
+import hashlib
+from pathlib import Path
+from typing import List, Dict, Any
+
+import numpy as np
+import pandas as pd
+import pyarrow as pa
+import pyarrow.parquet as pq
+import faiss
+from tqdm import tqdm
+
+from openai import OpenAI
+from openai.types import Embedding  # noqa: F401
+
+from dotenv import load_dotenv
+load_dotenv()
+
+
+# ----------------------------
+# Utilities
+# ----------------------------
+
+def ensure_parent(path: Path) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+
+def sha256_file(path: Path) -> str:
+    h = hashlib.sha256()
+    with open(path, "rb") as f:
+        for chunk in iter(lambda: f.read(1024 * 1024), b""):
+            h.update(chunk)
+    return h.hexdigest()
+
+def load_jsonl(path: Path) -> List[Dict[str, Any]]:
+===== HEAD: tools/generate_index_md.py =====
+#!/usr/bin/env python3
+import json, pathlib, datetime, sys, re
+
+ROOT = pathlib.Path(__file__).resolve().parents[1]
+INDEX_JSON = ROOT / "index.json"
+INDEX_MD   = ROOT / "index.md"
+
+def blob_url(relpath: str) -> str:
+    relpath = (relpath or "").lstrip("./")
+    if relpath.startswith("sources/"):
+        return f"https://github.com/bache-archive/chris-bache-archive/blob/main/{relpath}"
+    return relpath
+
+def load_items():
+    with INDEX_JSON.open("r", encoding="utf-8") as f:
+        items = json.load(f)
+    def k(it):
+        d = (it.get("published") or "").strip()
+        try:
+            return datetime.date.fromisoformat(d)
+        except Exception:
+            return datetime.date.min
+    items.sort(key=k)  # oldest -> newest (chronological)
+    return items
+
+# ---- Markdown safety helpers --------------------------------------------
+
+def _collapse_ws(s: str) -> str:
+    # collapse all internal whitespace to single spaces, strip edges
+    return re.sub(r"\s+", " ", s or "").strip()
+
+def md_escape_cell_text(s: str) -> str:
+    """Escape characters that break markdown tables and links, and remove newlines."""
+    s = _collapse_ws(str(s))
+    # Escape pipes so they don't split columns
+    s = s.replace("|", r"\|")
+    # Escape brackets in link text to avoid closing prematurely
+    s = s.replace("[", r"\[").replace("]", r"\]")
+    return s
+
+def md_link(text: str, url: str) -> str:
+    if not url:
+        return md_escape_cell_text(text)
+    # text must be escaped for table safety; URL stays raw
+    t = md_escape_cell_text(text)
+    return f"[{t}]({url})"
+
+# ---- Render --------------------------------------------------------------
+
+def render_table(items):
+    lines = []
+    lines.append("# Chris Bache Archive — Index\n")
+    lines.append("> Readable transcripts with diarized speaker attributions. See the full project on GitHub and mirrors below.\n")
+    lines.append("")
+    lines.append("**How to use this page**: Click a title to open the curated transcript. Use “Diarist” for raw speaker-attributed text. “YouTube” opens the original host video when available.\n")
+    lines.append("")
+    lines.append("| Date | Title (Transcript) | Channel | Type | Diarist | YouTube |")
+    lines.append("|---|---|---|---|---|---|")
+
+    for it in items:
+===== HEAD: tools/generate_sitemaps.py =====
+#!/usr/bin/env python3
+"""
+tools/generate_sitemaps.py
+
+Creates a sitemap index (sitemap.xml) and section sitemaps, but only
+for sections that actually have URLs to list:
+
+- sitemap-educational.xml        (docs/educational/**/index.html)  [optional]
+- sitemap-captions.xml           (sources/captions/**/*.html)      [optional]
+- sitemap-transcripts.xml        (sources/transcripts/**/*.html, skip _archive) [optional]
+- sitemap-diarist.xml            (sources/diarist/**/*.txt)        [optional]
+
+Rules:
+- Absolute <loc> URLs (required by GSC)
+- Single-line <loc>
+- <lastmod> prefers file mtime (UTC, date only); falls back to YYYY-MM-DD in path
+- Stable sort
+- Only writes section sitemaps that have at least one URL
+- Index lists only the section sitemaps that were written
+- Designed for GitHub Pages under: https://bache-archive.github.io/chris-bache-archive
+
+Usage:
+  python3 tools/generate_sitemaps.py [BASE_URL] [OUTDIR]
+  # BASE_URL default: https://bache-archive.github.io/chris-bache-archive
+  # OUTDIR   default: repo root
+"""
+
+import sys, re
+from pathlib import Path
+from urllib.parse import quote
+from datetime import datetime, timezone
+
+BASE = (sys.argv[1] if len(sys.argv) > 1 else "https://bache-archive.github.io/chris-bache-archive").rstrip("/")
+OUTDIR = Path(sys.argv[2]) if len(sys.argv) > 2 else None
+
+REPO_ROOT = Path(__file__).resolve().parents[1]
+SITE_ROOT = REPO_ROOT / "build" / "site"
+if not SITE_ROOT.exists():
+    # Fallback to repo root for cases where site is served from repo directly
+    SITE_ROOT = REPO_ROOT
+
+if OUTDIR is None:
+    OUTDIR = REPO_ROOT
+
+def abs_url(rel_path: str) -> str:
+    return BASE + "/" + quote(rel_path.lstrip("/"), safe="/")
+
+def rel_from_root(path: Path) -> str:
+    return path.relative_to(SITE_ROOT).as_posix()
+
+def infer_lastmod_from_name(path_str: str) -> str | None:
+    m = re.search(r"(\d{4}-\d{2}-\d{2})", path_str)
+    if not m:
+        return None
+    try:
+        return datetime.strptime(m.group(1), "%Y-%m-%d").date().isoformat()
+    except Exception:
+        return None
+
+def lastmod_for(path: Path) -> str | None:
+===== HEAD: tools/grab_all_captions.py =====
+#!/usr/bin/env python3
+# tools/grab_all_captions.py
+# Downloads YouTube captions for all entries in index.json.
+# - Auto captions -> sources/captions/<talk_id>.vtt  (DEFAULT FILENAME)
+# - Human captions -> sources/captions/<talk_id>-human.vtt
+# Won't overwrite existing files unless --force is provided.
+# Emits: sources/captions/_captions_manifest.csv and a concise stdout summary.
+
+import argparse, json, subprocess, sys, shutil, os, csv, re
+from pathlib import Path
+from collections import Counter
+
+HERE = Path(__file__).resolve().parent
+ROOT = HERE.parent  # repo root
+CAP_DIR = ROOT / "sources" / "captions"
+CAP_DIR.mkdir(parents=True, exist_ok=True)
+
+def derive_talk_id(item):
+    tr = item.get("transcript") or ""
+    m = re.search(r"([^/]+)\.md$", tr)
+    if m:
+        return m.group(1)
+    yid = (item.get("youtube_id") or "").strip()
+    return yid or None
+
+def target_paths(talk_id):
+    auto_default = CAP_DIR / f"{talk_id}.vtt"          # AUTO uses default filename
+    human_side   = CAP_DIR / f"{talk_id}-human.vtt"    # HUMAN gets -human suffix
+    return auto_default, human_side
+
+def run(cmd):
+    try:
+        res = subprocess.run(cmd, shell=True, check=False,
+                             stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+        return res.returncode, res.stdout, res.stderr
+    except Exception as e:
+        return 1, "", str(e)
+
+def newest_vtt(path: Path):
+    vtts = list(path.glob("*.vtt"))
+    if not vtts: return None
+    return max(vtts, key=lambda p: p.stat().st_mtime)
+
+def fetch_auto(url, tmpdir):
+    cmd = (
+        f'yt-dlp "{url}" '
+        f'--write-auto-subs --sub-format vtt '
+        f'--skip-download -o "{tmpdir}/%(id)s.%(ext)s"'
+    )
+    return run(cmd)
+
+def fetch_human(url, tmpdir):
+    # grab any English human track
+    cmd = (
+        f'yt-dlp "{url}" '
+        f'--write-subs --sub-langs "en.*,en" --sub-format vtt '
+        f'--skip-download -o "{tmpdir}/%(id)s.%(ext)s"'
+    )
+    return run(cmd)
+
+===== HEAD: tools/ia_sync_media.py =====
+#!/usr/bin/env python3
+import argparse
+import os
+import sys
+import internetarchive
+
+AUDIO_ID = "chris-bache-archive-audio"
+VIDEO_ID = "chris-bache-archive-video"
+
+AUDIO_META = {
+    "title": "Chris Bache Archive — Audio (2014–2025)",
+    "creator": "Christopher M. Bache",
+    "description": ("Complete MP3 audio recordings preserved for the Chris Bache Archive. "
+                    "Transcripts and metadata are maintained in versioned releases at GitHub and Zenodo."),
+    "subject": "psychedelics; consciousness; LSD; reincarnation; philosophy; archive",
+    "licenseurl": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "collection": "opensource_audio",
+    "mediatype": "audio",
+}
+VIDEO_META = {
+    "title": "Chris Bache Archive — Video (2014–2025)",
+    "creator": "Christopher M. Bache",
+    "description": ("Complete MP4 video recordings preserved for the Chris Bache Archive. "
+                    "Transcripts and metadata are maintained in versioned releases at GitHub and Zenodo."),
+    "subject": "psychedelics; consciousness; LSD; reincarnation; philosophy; archive",
+    "licenseurl": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "collection": "opensource_movies",
+    "mediatype": "movies",
+}
+
+def get_args():
+    p = argparse.ArgumentParser(description="Sync local media to Internet Archive (resume-safe, with retries).")
+    p.add_argument("--mode", choices=["audio", "video"], required=True,
+                   help="Which media set to upload (controls identifier, mediatype, and collection).")
+    p.add_argument("--dir", required=True, help="Local directory containing the media files.")
+    p.add_argument("--derive", action="store_true",
+                   help="After upload, trigger derivation to build web players.")
+    p.add_argument("--retries", type=int, default=20, help="Retry attempts for failed parts/requests.")
+    return p.parse_args()
+
+def choose_ext_and_meta(mode):
+    if mode == "audio":
+        return (".mp3", AUDIO_ID, AUDIO_META)
+    else:
+        return (".mp4", VIDEO_ID, VIDEO_META)
+
+def list_remote_filenames(identifier, ext):
+    item = internetarchive.get_item(identifier)
+    remote = set()
+    try:
+        for f in item.files or []:
+            name = f.get("name") or ""
+            if name.lower().endswith(ext):
+                remote.add(os.path.basename(name))
+    except Exception:
+        remote = set()
+    return remote
+
+def list_local_filenames(folder, ext):
+    return set(f for f in os.listdir(folder)
+===== HEAD: tools/make_checksums.py =====
+#!/usr/bin/env python3
+"""
+tools/make_checksums.py
+
+Create focused SHA256 manifests for archival & web-served artifacts.
+
+Outputs:
+  - checksums/RELEASE-<version>.sha256     (primary manifest)
+  - downloads/checksums.sha256             (optional, for downloads/)
+  - updates checksums/FIXITY_LOG.md
+
+Usage:
+  python3 tools/make_checksums.py --version v3.3.5
+  python3 tools/make_checksums.py --version v3.3.5 --verify
+  python3 tools/make_checksums.py --version v3.3.5 --no-downloads
+"""
+
+from __future__ import annotations
+from pathlib import Path
+import argparse, hashlib, sys, os, datetime
+
+ROOT = Path(__file__).resolve().parents[1]
+OUT_DIR = ROOT / "checksums"
+DL_DIR  = ROOT / "downloads"
+FIXITY_LOG = OUT_DIR / "FIXITY_LOG.md"
+
+# ---- selection rules ----
+
+INCLUDE_FILE_GLOBS = [
+    # site/landing & sitemaps
+    "index.html", "index.md", "index.json", "robots.txt",
+    "sitemap*.xml", "LICENSE", "README*.md", "CONFIG.md",
+    "assets/style.css",
+
+    # educational pages
+    "docs/educational/*/index.md",
+    "docs/educational/*/index.html",
+    "docs/educational/*/sources.json",
+
+    # manifests (exclude quarantined)
+    "manifests/*.json",
+
+    # sources (captions/diarist/transcripts)
+    "sources/captions/**/*",
+    "sources/diarist/**/*",
+    "sources/transcripts/**/*",
+
+    # vectors (FAISS/parquet/chunks manifest)
+    "vectors/bache-talks.index.faiss",
+    "vectors/bache-talks.embeddings.parquet",
+    "vectors/chunks.jsonl",
+]
+
+TEXTY_EXT_WHITELIST = {
+    ".md", ".json", ".vtt", ".srt", ".txt", ".html", ".css", ".xml"
+}
+
+EXCLUDE_DIR_PREFIXES = {
+    ".git", ".venv", "build", "tmp", "reports", "backups",
+    "private_backups", "bundle-v2.3-media", "alignments",
+===== HEAD: tools/migrate_index.py =====
+#!/usr/bin/env python3
+import json, re, sys, pathlib
+from urllib.parse import urlparse
+
+ROOT = pathlib.Path(".").resolve()
+
+def stem_from_sources_md(path_str: str) -> str:
+    # "sources/2023-01-05-exploring-....md" -> "2023-01-05-exploring-..."
+    return pathlib.Path(path_str).stem
+
+def to_transcript_path(stem: str) -> str:
+    return f"sources/transcripts/{stem}.md"
+
+def to_diarist_path(stem: str) -> str:
+    return f"sources/diarist/{stem}.txt"
+
+def guess_source_type(channel: str, title: str) -> str:
+    c = (channel or "").lower()
+    t = (title or "").lower()
+    # crude but useful heuristics
+    if any(k in c for k in ["podcast", "interview", "conversation"]) or any(k in t for k in ["interview", "conversation", "podcast", "q&a", "qanda", "q&a"]):
+        return "interview"
+    if any(k in t for k in ["panel"]):
+        return "panel"
+    if any(k in t for k in ["excerpt", "short", "clip"]):
+        return "excerpt"
+    return "lecture"
+
+def update_blob_urls(entry, stem: str):
+    # Rewrite blob/raw to point at transcripts subfolder if they exist in the entry
+    for k in ["blob_url", "raw_url"]:
+        v = entry.get(k)
+        if not v:
+            continue
+        # swap "/sources/<stem>.md" -> "/sources/transcripts/<stem>.md"
+        entry[k] = re.sub(r"/sources/([^/]+\.md)$", fr"/sources/transcripts/{stem}.md", v)
+
+def main():
+    if sys.stdin.isatty():
+        print("Usage: python tools/migrate_index.py < old_index.json > new_index.json", file=sys.stderr)
+        sys.exit(1)
+
+    old = json.load(sys.stdin)
+    if isinstance(old, dict) and "items" in old:
+        items = old["items"]
+    else:
+        items = old
+
+    out = []
+    for it in items:
+        # Your current files live at "file": "sources/<stem>.md"
+        file_path = it.get("file", "")
+        stem = stem_from_sources_md(file_path) if file_path else None
+        if not stem:
+            # skip entries lacking 'file'
+            continue
+
+        archival_title = it.get("archival_title","")
+        channel = it.get("channel","")
+        published = it.get("published","")   # reuse as recorded_date for now
+===== HEAD: tools/normalize_filenames.sh =====
+#!/usr/bin/env bash
+# Usage:
+#   cd /path/to/repo/sources
+#   bash ../normalize_filenames.sh           # dry run (prints changes only)
+#   APPLY=1 bash ../normalize_filenames.sh   # actually rename files
+
+set -euo pipefail
+
+DRY_RUN=1
+[[ "${APPLY:-0}" == "1" ]] && DRY_RUN=0
+
+shopt -s nullglob
+cd "$(dirname "${BASH_SOURCE[0]}")/sources"
+
+echo "Working in: $(pwd)"
+echo "Mode: $([[ $DRY_RUN -eq 1 ]] && echo DRY-RUN || echo APPLY)"
+echo
+
+changed=0
+skipped=0
+conflicts=0
+unchanged=0
+
+for f in *.md; do
+  orig="$f"
+
+  # Compute new name with perl (Unicode-aware)
+  new="$(perl -CS -pe '
+    # Normalize dashes (en/em) to plain hyphen
+    s/\x{2013}|\x{2014}/-/g;
+
+    # Ampersand -> and
+    s/&/and/g;
+
+    # Smart quotes to ASCII
+    s/[“”]/"/g; s/[‘’]/'\''/g;
+
+    # Ellipsis
+    s/\x{2026}/.../g;
+
+    # Underscore -> hyphen
+    s/_/-/g;
+
+    # Remove commas/colons (ugly in URLs)
+    s/[,:]//g;
+
+    # Parentheses -> hyphens (safer)
+    s/[()]/-/g;
+
+    # Collapse and trim spaces before turning into hyphens
+    s/ +/ /g;
+    s/^\s+//; s/\s+$//;
+
+    # Spaces to hyphens
+    s/ /-/g;
+
+    # Collapse multiple hyphens
+    s/-+/-/g;
+
+    # Tidy trailing hyphen before extension
+===== HEAD: tools/rebuild_transcripts_v2.py =====
+#!/usr/bin/env python3
+"""
+rebuild_transcripts_v2.py
+
+Rebuild markdown transcripts from diarist .txt files using index.json metadata.
+
+Key features
+- Uses diarist speaker labels (more accurate attribution).
+- Strips timestamps and Otter-style cruft.
+- Optional normalization of common labels (Interviewer, Audience, etc).
+- Emits YAML front matter with a deduped speakers list.
+- Looks up title/date from index.json (fallback to slug).
+- Writes to build/sources/transcripts/<basename>.md by default.
+
+Usage examples
+--------------
+# Rebuild one transcript
+python tools/rebuild_transcripts_v2.py --root . --only <slug> --normalize-labels --sync-speakers-yaml --verbose
+
+# Rebuild all listed in index.json
+python tools/rebuild_transcripts_v2.py --root . --normalize-labels --sync-speakers-yaml --verbose
+"""
+
+from __future__ import annotations
+import argparse
+import json
+import os
+import re
+import sys
+import hashlib
+from pathlib import Path
+from typing import Dict, List, Iterable, Tuple, Optional
+
+# -------- Util helpers --------
+
+def info(enabled: bool, msg: str) -> None:
+    if enabled:
+        print(f"[info] {msg}", flush=True)
+
+def sha1_of_file(p: Path) -> str:
+    h = hashlib.sha1()
+    with p.open("rb") as f:
+        for chunk in iter(lambda: f.read(8192), b""):
+            h.update(chunk)
+    return h.hexdigest()
+
+def load_index(index_path: Path, verbose: bool=False) -> List[Dict]:
+    if not index_path.exists():
+        raise FileNotFoundError(f"index.json not found at: {index_path}")
+    with index_path.open("r", encoding="utf-8") as f:
+        data = json.load(f)
+    if not isinstance(data, list):
+        raise ValueError("index.json must be a top-level JSON array")
+    info(verbose, f"Loaded index.json entries: {len(data)}")
+    return data
+
+def entries_by_basename(entries: List[Dict]) -> Dict[str, Dict]:
+    m = {}
+    for e in entries:
+        tr = e.get("transcript", "")
+===== HEAD: tools/timeline_from_captions.py =====
+#!/usr/bin/env python3
+"""
+Build a word-level timeline TSV from a WebVTT captions file.
+
+STDOUT TSV columns (no header):
+  word <TAB> start_sec <TAB> end_sec
+
+Rules:
+- Parse VTT cues (start --> end, then 1+ lines of text).
+- Remove bracketed stage directions like [Applause].
+- Strip simple HTML tags.
+- Tokenize words as [A-Za-z0-9]+'?[A-Za-z0-9]+ (keeps intra-word apostrophes).
+- Distribute each cue's duration evenly over its tokens.
+- If a cue has no tokens, it's skipped.
+
+Usage:
+  python3 tools/timeline_from_captions.py sources/captions/<talk_id>.vtt > tmp/words/<talk_id>.captions.tsv
+"""
+import sys, re
+
+TIME_RE = re.compile(r'(?P<h>\d{2}):(?P<m>\d{2}):(?P<s>\d{2}\.\d{3})')
+WORD_RE = re.compile(r"[A-Za-z0-9]+'?[A-Za-z0-9]+")
+STAGE_RE = re.compile(r'^\s*\[[^\]]+\]\s*$')  # [Applause], [Music], etc.
+TAG_RE = re.compile(r"</?[^>]+>")             # simple HTML tag stripper
+
+def parse_time(s):
+    m = TIME_RE.search(s)
+    if not m: return None
+    h = int(m.group("h")); m_ = int(m.group("m")); s_ = float(m.group("s"))
+    return h*3600 + m_*60 + s_
+
+def iter_cues(lines):
+    # Skip WEBVTT header
+    i, n = 0, len(lines)
+    if i < n and lines[i].strip().upper().startswith("WEBVTT"):
+        i += 1
+        while i < n and lines[i].strip() != "":
+            i += 1
+        while i < n and lines[i].strip() == "":
+            i += 1
+
+    while i < n:
+        # optional cue id
+        if i < n and "-->" not in lines[i]:
+            i += 1
+            if i >= n: break
+        if "-->" not in lines[i]:
+            i += 1
+            continue
+        timing = lines[i].strip(); i += 1
+        parts = [p.strip() for p in timing.split("-->")]
+        if len(parts) != 2:
+            continue
+        start = parse_time(parts[0]); end = parse_time(parts[1])
+        if start is None or end is None or end <= start:
+            # skip until blank
+            while i < n and lines[i].strip() != "": i += 1
+            while i < n and lines[i].strip() == "": i += 1
+            continue
+
+===== HEAD: tools/timeline_from_diarist.py =====
+#!/usr/bin/env python3
+"""
+Build a word-level timeline TSV from a diarist transcript (.txt).
+
+Assumed diarist format (Otter-like):
+  Speaker  <space><space> mm:ss
+  <text lines...>
+  Speaker2 <space><space> hh:mm:ss
+  <text lines...>
+  ...
+
+We:
+- Detect lines containing a timestamp token at end (mm:ss or hh:mm:ss).
+- Treat each timed block's text as running until the next timestamp.
+- Distribute the block duration evenly across tokens.
+- Last block's end is heuristically estimated: max(2s, 0.35s * tokens).
+
+STDOUT TSV (no header):
+  word <TAB> start_sec <TAB> end_sec
+"""
+import sys, re
+
+TS_RE = re.compile(r'(?P<h>\d{1,2}:)?(?P<m>\d{1,2}):(?P<s>\d{2})\s*$')
+WORD_RE = re.compile(r"[A-Za-z0-9]+'?[A-Za-z0-9]+")
+
+def parse_ts(tok):
+    parts = tok.strip().split(":")
+    if len(parts) == 2:
+        m, s = parts
+        return int(m)*60 + int(s)
+    elif len(parts) == 3:
+        h, m, s = parts
+        return int(h)*3600 + int(m)*60 + int(s)
+    return None
+
+def main():
+    if len(sys.argv) < 2:
+        print("usage: timeline_from_diarist.py <file.txt>", file=sys.stderr)
+        sys.exit(2)
+    path = sys.argv[1]
+    with open(path, "r", encoding="utf-8") as f:
+        lines = [ln.rstrip("\n") for ln in f]
+
+    # Identify block starts: line with a timestamp token at end
+    idx_ts = []
+    for i, ln in enumerate(lines):
+        m = TS_RE.search(ln)
+        if m:
+            ts = m.group(0).strip()
+            t = parse_ts(ts)
+            if t is not None:
+                idx_ts.append((i, t))
+
+    # Build blocks (start_line, start_sec, end_line_exclusive, end_sec_est)
+    blocks = []
+    for j, (i, t) in enumerate(idx_ts):
+        end_line = idx_ts[j+1][0] if j+1 < len(idx_ts) else len(lines)
+        end_time = idx_ts[j+1][1] if j+1 < len(idx_ts) else None
+        # Collect text body
+        body = []
+===== HEAD: tools/verify_fixity.py =====
+#!/usr/bin/env python3
+import hashlib, json, os, sys
+from datetime import datetime
+
+REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+MANIFESTS_DIR = os.path.join(REPO_ROOT, "manifests")
+LOG_PATH = os.path.join(REPO_ROOT, "checksums", "FIXITY_LOG.md")
+
+def sha256_file(path):
+    h = hashlib.sha256()
+    with open(path, "rb") as f:
+        for chunk in iter(lambda: f.read(1 << 20), b""):
+            h.update(chunk)
+    return h.hexdigest()
+
+def main():
+    manifests = [os.path.join(MANIFESTS_DIR, p) for p in os.listdir(MANIFESTS_DIR) if p.endswith(".json")]
+    if not manifests:
+        print("No manifests found; run tools/build_manifests.py first.", file=sys.stderr)
+        sys.exit(1)
+
+    total = 0
+    mismatches = []
+    missing = []
+
+    for mpath in sorted(manifests):
+        try:
+            with open(mpath, "r", encoding="utf-8") as f:
+                man = json.load(f)
+        except Exception as e:
+            mismatches.append((mpath, f"manifest parse error: {e}"))
+            continue
+
+        for entry in man.get("files", []):
+            rel = entry.get("path")
+            expect = entry.get("sha256")
+            if not rel or not expect:
+                mismatches.append((mpath, f"bad entry: {entry}"))
+                continue
+            abspath = os.path.join(REPO_ROOT, rel)
+            if not os.path.isfile(abspath):
+                missing.append(rel)
+                continue
+            got = sha256_file(abspath)
+            total += 1
+            if got.lower() != expect.lower():
+                mismatches.append((rel, f"expected {expect[:12]}..., got {got[:12]}..."))
+
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    with open(LOG_PATH, "a", encoding="utf-8") as log:
+        if not mismatches and not missing:
+            log.write(f"{timestamp}  Verified {total} files — all hashes match.\n")
+        else:
+            log.write(f"{timestamp}  Verified {total} files — {len(mismatches)} mismatches, {len(missing)} missing.\n")
+            if mismatches:
+                log.write("  Mismatches:\n")
+                for rel, msg in mismatches[:50]:
+                    log.write(f"    - {rel}: {msg}\n")
+                if len(mismatches) > 50:
+                    log.write(f"    (+{len(mismatches)-50} more)\n")
+===== HEAD: tools/yt_playlist_sync.py =====
+#!/usr/bin/env python3
+"""
+Sync a YouTube playlist from index.json (YouTube links only).
+
+- Creates the playlist if PLAYLIST_ID is empty.
+- Adds videos in reverse chronological add-order so the playlist displays oldest->newest.
+- Skips empty/missing youtube_url entries.
+- Idempotent: won't re-add existing videos.
+
+Prereqs:
+  pip install google-api-python-client google-auth-oauthlib google-auth-httplib2
+  client_secret.json in tools/
+
+Usage:
+  python tools/yt_playlist_sync.py --title "Chris Bache Archive — Public Talks & Interviews (2014–2025)"
+  # or, if you already created a playlist and know its ID:
+  python tools/yt_playlist_sync.py --playlist-id PLxxxxxxxxxxxxxxxx
+"""
+import argparse, json, pathlib, re, sys, datetime
+from typing import List, Dict
+
+from googleapiclient.discovery import build
+from googleapiclient.errors import HttpError
+from google_auth_oauthlib.flow import InstalledAppFlow
+from google.oauth2.credentials import Credentials
+
+ROOT = pathlib.Path(__file__).resolve().parents[1]
+INDEX_JSON = ROOT / "index.json"
+SECRETS = ROOT / "tools" / "client_secret.json"
+TOKEN = ROOT / "tools" / "token.json"
+SCOPES = ["https://www.googleapis.com/auth/youtube"]
+
+YOUTUBE_ID_RE = re.compile(r"(?:v=|/shorts/|/embed/|youtu\.be/)([A-Za-z0-9_-]{11})")
+
+def extract_video_id(url: str) -> str:
+    if not url:
+        return ""
+    m = YOUTUBE_ID_RE.search(url)
+    return m.group(1) if m else ""
+
+def load_items() -> List[Dict]:
+    with INDEX_JSON.open("r", encoding="utf-8") as f:
+        items = json.load(f)
+    # sort by published (oldest first), fallback minimal date
+    def k(it):
+        d = (it.get("published") or "").strip()
+        try:
+            return datetime.date.fromisoformat(d)
+        except Exception:
+            return datetime.date.min
+    items.sort(key=k)
+    return items
+
+def auth_youtube():
+    creds = None
+    if TOKEN.exists():
+        creds = Credentials.from_authorized_user_file(TOKEN, SCOPES)
+    if not creds or not creds.valid:
+        if creds and creds.expired and creds.refresh_token:
+            creds.refresh()  # type: ignore
+===== ARGPARSE FLAGS: tools/align_chunks.py =====
+===== ARGPARSE FLAGS: tools/align_timecodes_from_vtt_windows.py =====
+===== ARGPARSE FLAGS: tools/audit_timecodes.py =====
+===== ARGPARSE FLAGS: tools/build_manifests.py =====
+===== ARGPARSE FLAGS: tools/build_site.py =====
+252:    ap = argparse.ArgumentParser()
+253:    ap.add_argument("--site-base", default="/chris-bache-archive",
+255:    ap.add_argument("--stylesheet", default="assets/style.css",
+257:    ap.add_argument("--qid", help="Build only this educational topic (docs/educational/<qid>)")
+258:    ap.add_argument("--skip-sources", action="store_true",
+===== ARGPARSE FLAGS: tools/check_vtt_health.py =====
+===== ARGPARSE FLAGS: tools/chunk_transcripts.py =====
+357:    ap = argparse.ArgumentParser(description="Chunk Bache transcripts into citation-friendly segments.")
+358:    ap.add_argument("--index", required=True, help="Path to index.json")
+359:    ap.add_argument("--out", default="build/chunks/bache-talks.chunks.jsonl", help="Output JSONL path")
+360:    ap.add_argument("--stats", default="reports/chunk_stats.json", help="Output stats JSON path")
+361:    ap.add_argument("--target", type=int, default=1200, help="Target characters per chunk")
+362:    ap.add_argument("--overlap", type=int, default=100, help="Character overlap between chunks")
+===== ARGPARSE FLAGS: tools/convert_durations_to_alignment.py =====
+===== ARGPARSE FLAGS: tools/debug_alignment_scores.py =====
+===== ARGPARSE FLAGS: tools/dedupe_prefer_timed.py =====
+===== ARGPARSE FLAGS: tools/embed_and_faiss.py =====
+267:    ap = argparse.ArgumentParser(description="Embed chunks and build Parquet + FAISS.")
+268:    ap.add_argument("--chunks", default="build/chunks/bache-talks.chunks.jsonl", help="Input JSONL of chunks")
+269:    ap.add_argument("--parquet", default="vectors/bache-talks.embeddings.parquet", help="Output Parquet path")
+270:    ap.add_argument("--faiss", default="vectors/bache-talks.index.faiss", help="Output FAISS index path")
+271:    ap.add_argument("--report", default="reports/embedding_qc.json", help="Output QC report JSON")
+272:    ap.add_argument("--model", default="text-embedding-3-large", help="Embedding model")
+273:    ap.add_argument("--batch", type=int, default=256, help="Embedding batch size")
+274:    ap.add_argument("--citation_labels", default="rag/citation_labels.json", help="Path to citation_labels.json")
+275:    ap.add_argument("--index", default="index.json", help="Path to index.json (for URL backfill)")
+===== ARGPARSE FLAGS: tools/generate_index_md.py =====
+===== ARGPARSE FLAGS: tools/generate_sitemaps.py =====
+===== ARGPARSE FLAGS: tools/grab_all_captions.py =====
+68:    ap = argparse.ArgumentParser(description="Download timestamped captions (VTT) for items in index.json")
+69:    ap.add_argument("--index", default=str(ROOT / "index.json"))
+70:    ap.add_argument("--force", action="store_true", help="Overwrite existing .vtt if present")
+71:    ap.add_argument("--only", nargs="*", help="Restrict to these talk_ids or youtube_ids")
+===== ARGPARSE FLAGS: tools/ia_sync_media.py =====
+32:    p = argparse.ArgumentParser(description="Sync local media to Internet Archive (resume-safe, with retries).")
+33:    p.add_argument("--mode", choices=["audio", "video"], required=True,
+35:    p.add_argument("--dir", required=True, help="Local directory containing the media files.")
+36:    p.add_argument("--derive", action="store_true",
+38:    p.add_argument("--retries", type=int, default=20, help="Retry attempts for failed parts/requests.")
+===== ARGPARSE FLAGS: tools/make_checksums.py =====
+172:    ap = argparse.ArgumentParser()
+173:    ap.add_argument("--version", required=True, help="Release tag, e.g. v3.3.5")
+174:    ap.add_argument("--verify", action="store_true", help="Verify after writing")
+175:    ap.add_argument("--no-downloads", action="store_true", help="Skip downloads/ manifest")
+===== ARGPARSE FLAGS: tools/migrate_index.py =====
+===== ARGPARSE FLAGS: tools/rebuild_transcripts_v2.py =====
+254:    ap = argparse.ArgumentParser()
+255:    ap.add_argument("--root", default=".", help="Repo root (default: current directory)")
+256:    ap.add_argument("--only", action="append", default=[], help="Limit to one or more basenames (no extension). Can be provided multiple times.")
+257:    ap.add_argument("--normalize-labels", action="store_true", help="Normalize common labels (Interviewer, Audience, Unknown, Chris Bache, etc.)")
+258:    ap.add_argument("--sync-speakers-yaml", action="store_true", help="Populate speakers: in YAML from body labels.")
+259:    ap.add_argument("--verbose", action="store_true", help="Verbose logging")
+260:    ap.add_argument("--out-dir", default="build/sources/transcripts", help="Output directory for markdown transcripts.")
+===== ARGPARSE FLAGS: tools/timeline_from_captions.py =====
+===== ARGPARSE FLAGS: tools/timeline_from_diarist.py =====
+===== ARGPARSE FLAGS: tools/verify_fixity.py =====
+===== ARGPARSE FLAGS: tools/yt_playlist_sync.py =====
+103:    ap = argparse.ArgumentParser()
+104:    ap.add_argument("--playlist-id", default="", help="Existing playlist ID (optional)")
+105:    ap.add_argument("--title", default="Chris Bache Archive — Public Talks & Interviews (2014–2025)",
+107:    ap.add_argument("--desc", default=(
+===== HELP: tools/align_chunks.py =====
+usage: align_chunks.py <chunks.csv> <captions.tsv|/dev/null> [diarist.tsv]
+usage: align_chunks.py <chunks.csv> <captions.tsv|/dev/null> [diarist.tsv]
+===== HELP: tools/align_timecodes_from_vtt_windows.py =====
+Traceback (most recent call last):
+  File "/Users/howardrhee/Documents/chris-bache-archive/tools/align_timecodes_from_vtt_windows.py", line 43, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/Users/howardrhee/Documents/chris-bache-archive/tools/align_timecodes_from_vtt_windows.py", line 43, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+===== HELP: tools/audit_timecodes.py =====
+Traceback (most recent call last):
+  File "/Users/howardrhee/Documents/chris-bache-archive/tools/audit_timecodes.py", line 2, in <module>
+    import pandas as pd, urllib.parse, collections, pathlib
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/Users/howardrhee/Documents/chris-bache-archive/tools/audit_timecodes.py", line 2, in <module>
+    import pandas as pd, urllib.parse, collections, pathlib
+ModuleNotFoundError: No module named 'pandas'
+===== HELP: tools/build_manifests.py =====
+Manifests written: 83
+Release checksum: checksums/RELEASE-v2.4.sha256 (704 files)
+===== HELP: tools/build_site.py =====
+usage: build_site.py [-h] [--site-base SITE_BASE] [--stylesheet STYLESHEET]
+                     [--qid QID] [--skip-sources]
+
+options:
+  -h, --help            show this help message and exit
+  --site-base SITE_BASE
+                        Base path for GitHub Pages (used in stylesheet link
+                        and canonicals)
+  --stylesheet STYLESHEET
+                        Path to CSS within repo
+  --qid QID             Build only this educational topic
+                        (docs/educational/<qid>)
+  --skip-sources        Skip converting sources/transcripts and
+                        sources/captions
+===== HELP: tools/check_vtt_health.py =====
+2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview                  -> 2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview-human.vtt  OK  segs=1332 bad_ts=0
+2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1                          -> 2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.vtt  OK  segs=8663 bad_ts=0
+2023-01-30-wisdom-keepers-conversation-with-duane-elgin                                     -> 2023-01-30-wisdom-keepers-conversation-with-duane-elgin.vtt   OK  segs=7680 bad_ts=0
+2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1         -> 2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.vtt  OK  segs=7801 bad_ts=0
+2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast                                     -> 2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.vtt   OK  segs=6265 bad_ts=0
+2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2  -> 2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.vtt  OK  segs=7379 bad_ts=0
+2023-01-05-exploring-lsd-and-the-mind-of-the-universe                                       -> 2023-01-05-exploring-lsd-and-the-mind-of-the-universe.vtt     OK  segs=5581 bad_ts=0
+2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching         -> 2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.vtt  OK  segs=5003 bad_ts=0
+2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142       -> 2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142.vtt  OK  segs=5787 bad_ts=0
+2025-07-16-consciousness-psychedelics-and-collective-evolution                              -> 2025-07-16-consciousness-psychedelics-and-collective-evolution.vtt  OK  segs=3987 bad_ts=0
+===== HELP: tools/chunk_transcripts.py =====
+usage: chunk_transcripts.py [-h] --index INDEX [--out OUT] [--stats STATS]
+                            [--target TARGET] [--overlap OVERLAP]
+
+Chunk Bache transcripts into citation-friendly segments.
+
+options:
+  -h, --help         show this help message and exit
+  --index INDEX      Path to index.json
+  --out OUT          Output JSONL path
+  --stats STATS      Output stats JSON path
+  --target TARGET    Target characters per chunk
+  --overlap OVERLAP  Character overlap between chunks
+===== HELP: tools/convert_durations_to_alignment.py =====
+Wrote alignments/lsdmu/audiobook-2019.json with 76 entries. Total runtime: 15:00:33
+===== HELP: tools/debug_alignment_scores.py =====
+Traceback (most recent call last):
+  File "/Users/howardrhee/Documents/chris-bache-archive/tools/debug_alignment_scores.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/Users/howardrhee/Documents/chris-bache-archive/tools/debug_alignment_scores.py", line 2, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+===== HELP: tools/dedupe_prefer_timed.py =====
+Traceback (most recent call last):
+  File "/Users/howardrhee/Documents/chris-bache-archive/tools/dedupe_prefer_timed.py", line 2, in <module>
+    import pandas as pd, re
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/Users/howardrhee/Documents/chris-bache-archive/tools/dedupe_prefer_timed.py", line 2, in <module>
+    import pandas as pd, re
+ModuleNotFoundError: No module named 'pandas'
+===== HELP: tools/download_media.sh =====
+[no runtime help; showing header comments]
+#!/bin/zsh
+
+# --- Configuration ---
+INDEX_FILE="index.json"
+DOWNLOADS_ROOT="downloads"
+VIDEO_DIR="$DOWNLOADS_ROOT/video"
+AUDIO_DIR="$DOWNLOADS_ROOT/audio"
+
+# --- Dependency Check ---
+echo "Checking for required tools (jq, yt-dlp)..."
+if ! command -v jq &> /dev/null; then
+    echo "Error: 'jq' (JSON processor) is not installed."
+    echo "Install with: brew install jq"
+    exit 1
+fi
+if ! command -v yt-dlp &> /dev/null; then
+    echo "Error: 'yt-dlp' (video downloader) is not installed."
+    echo "Install with: brew install yt-dlp"
+    exit 1
+fi
+
+if [[ ! -f "$INDEX_FILE" ]]; then
+    echo "Error: '$INDEX_FILE' not found in the current directory. Please save your JSON data to this file."
+    exit 1
+fi
+
+# Create download directories
+mkdir -p "$VIDEO_DIR"
+mkdir -p "$AUDIO_DIR"
+echo "Download directories created: $VIDEO_DIR and $AUDIO_DIR"
+echo "----------------------------------------------------"
+
+# --- Main Logic ---
+
+# jq query extracts: youtube_url, followed by a space, followed by the cleaned filename (e.g., 2014-11-10-...)
+JQ_QUERY='.[] | (.youtube_url + " " + (.file | split("/") | .[1] | split(".") | .[0]))'
+
+# Get total number of items for a correct progress counter
+TOTAL_ITEMS=$(jq '. | length' "$INDEX_FILE")
+CURRENT_ITEM=0
+
+# Use a Zsh-compatible pipe to read the jq output line-by-line
+jq -r "$JQ_QUERY" "$INDEX_FILE" | while IFS=$' ' read -r URL BASE_NAME; do
+    CURRENT_ITEM=$((CURRENT_ITEM + 1))
+
+    # Simple check to ensure we got data
+    if [[ -z "$URL" || -z "$BASE_NAME" ]]; then
+        echo "[$CURRENT_ITEM/$TOTAL_ITEMS] WARNING: Skipping empty/malformed item."
+        echo "----------------------------------------------------"
+        continue
+    fi
+
+    echo "[$CURRENT_ITEM/$TOTAL_ITEMS] Processing: ${BASE_NAME}"
+
+    # --- 1. Download Video (MP4) ---
+    VIDEO_OUTPUT="$VIDEO_DIR/$BASE_NAME.mp4"
+    if [[ -f "$VIDEO_OUTPUT" ]]; then
+        echo "  - Video already exists. Skipping video download."
+    else
+        echo "  - Downloading Video to $VIDEO_OUTPUT"
+===== HELP: tools/embed_and_faiss.py =====
+Traceback (most recent call last):
+  File "/Users/howardrhee/Documents/chris-bache-archive/tools/embed_and_faiss.py", line 32, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+Traceback (most recent call last):
+  File "/Users/howardrhee/Documents/chris-bache-archive/tools/embed_and_faiss.py", line 32, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+===== HELP: tools/generate_index_md.py =====
+Wrote /Users/howardrhee/Documents/chris-bache-archive/index.md
+===== HELP: tools/generate_sitemaps.py =====
+Skip sitemap-educational.xml: no URLs.
+Wrote /Users/howardrhee/Documents/chris-bache-archive/sitemap-captions.xml with 62 URLs.
+Wrote /Users/howardrhee/Documents/chris-bache-archive/sitemap-transcripts.xml with 70 URLs.
+Skip sitemap-diarist.xml: no URLs.
+Wrote /Users/howardrhee/Documents/chris-bache-archive/sitemap.xml (index of 2 sitemaps).
+
+Summary:
+  Educational: 0 URLs  -> skipped
+  Captions:    62 URLs  -> written
+  Transcripts: 70 URLs -> written
+  Diarist:     0 URLs  -> skipped
+===== HELP: tools/grab_all_captions.py =====
+usage: grab_all_captions.py [-h] [--index INDEX] [--force] [--only [ONLY ...]]
+
+Download timestamped captions (VTT) for items in index.json
+
+options:
+  -h, --help         show this help message and exit
+  --index INDEX
+  --force            Overwrite existing .vtt if present
+  --only [ONLY ...]  Restrict to these talk_ids or youtube_ids
+===== HELP: tools/ia_sync_media.py =====
+Traceback (most recent call last):
+  File "/Users/howardrhee/Documents/chris-bache-archive/tools/ia_sync_media.py", line 5, in <module>
+    import internetarchive
+ModuleNotFoundError: No module named 'internetarchive'
+Traceback (most recent call last):
+  File "/Users/howardrhee/Documents/chris-bache-archive/tools/ia_sync_media.py", line 5, in <module>
+    import internetarchive
+ModuleNotFoundError: No module named 'internetarchive'
+===== HELP: tools/make_checksums.py =====
+usage: make_checksums.py [-h] --version VERSION [--verify] [--no-downloads]
+
+options:
+  -h, --help         show this help message and exit
+  --version VERSION  Release tag, e.g. v3.3.5
+  --verify           Verify after writing
+  --no-downloads     Skip downloads/ manifest
+===== HELP: tools/migrate_index.py =====
+Traceback (most recent call last):
+  File "/Users/howardrhee/Documents/chris-bache-archive/tools/migrate_index.py", line 94, in <module>
+    main()
+  File "/Users/howardrhee/Documents/chris-bache-archive/tools/migrate_index.py", line 43, in main
+    old = json.load(sys.stdin)
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.12/Frameworks/Python.framework/Versions/3.12/lib/python3.12/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.12/Frameworks/Python.framework/Versions/3.12/lib/python3.12/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.12/Frameworks/Python.framework/Versions/3.12/lib/python3.12/json/decoder.py", line 338, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.12/Frameworks/Python.framework/Versions/3.12/lib/python3.12/json/decoder.py", line 356, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+Traceback (most recent call last):
+  File "/Users/howardrhee/Documents/chris-bache-archive/tools/migrate_index.py", line 94, in <module>
+    main()
+  File "/Users/howardrhee/Documents/chris-bache-archive/tools/migrate_index.py", line 43, in main
+    old = json.load(sys.stdin)
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.12/Frameworks/Python.framework/Versions/3.12/lib/python3.12/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.12/Frameworks/Python.framework/Versions/3.12/lib/python3.12/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.12/Frameworks/Python.framework/Versions/3.12/lib/python3.12/json/decoder.py", line 338, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.12/Frameworks/Python.framework/Versions/3.12/lib/python3.12/json/decoder.py", line 356, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)

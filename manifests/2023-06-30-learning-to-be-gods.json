@@ -6,8 +6,16 @@
       "sha256": "128e5dcc81208dd0fe2516230e401ff153af639cea4435fc3d1a320c6920ae85"
     },
     {
+      "path": "sources/captions/2023-06-30-learning-to-be-gods.html",
+      "sha256": "b6e6e635271b85839494d2f3f7a8d2fe6097ea7f524928dcc8cabc5ecf019bf0"
+    },
+    {
       "path": "sources/captions/2023-06-30-learning-to-be-gods.md",
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "sources/diarist/2023-06-30-learning-to-be-gods.srt",
+      "sha256": "bbfcad1c81a0120b1755b8ef6829efa963068bc69b1c4c4e12b6e61c40693e0d"
     },
     {
       "path": "sources/diarist/2023-06-30-learning-to-be-gods.txt",
@@ -15,7 +23,7 @@
     },
     {
       "path": "sources/transcripts/2023-06-30-learning-to-be-gods.html",
-      "sha256": "cd012a7ce489a6d3f94b15788e7cbdcf691595838b4d06cc1581d1421a31ed62"
+      "sha256": "4114e0a732085b1112e7b993cf6eb681130e212a928ec9625c1ad470a3d82c1b"
     },
     {
       "path": "sources/transcripts/2023-06-30-learning-to-be-gods.md",
@@ -23,14 +31,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2023-06-30-learning-to-be-gods.html",
-      "sha256": "e9981e324b4f43c2ed5e05590ac99c9896f37494e940e1c19e55f9aaa551b415"
+      "sha256": "0c31f1925fa2373f146bf80c449d4e0a6dae2432308f9e3575ccc739eca5570a"
     },
     {
       "path": "sources/transcripts/_archive/2023-06-30-learning-to-be-gods.md",
       "sha256": "eedf188f5a20bf1ec4434a23b7084edad680c02b4306d6b7466608fc2c0c0e87"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2023-06-30",
   "tools": [

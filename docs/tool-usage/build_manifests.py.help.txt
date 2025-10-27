@@ -1,0 +1,3 @@
+===== HELP: tools/build_manifests.py =====
+Manifests written: 83
+Release checksum: checksums/RELEASE-v2.4.sha256 (704 files)

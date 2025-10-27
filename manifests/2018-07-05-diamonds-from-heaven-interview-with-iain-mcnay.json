@@ -10,8 +10,20 @@
       "sha256": "585daee4a1a287b6ba6cf45a1dcb486597584154be88586a5c02db5929d8aa8f"
     },
     {
+      "path": "sources/captions/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.html",
+      "sha256": "9321e4fb282436cfe1d982cf9a24fb6992f7d24c2e612a223b606809a7396da2"
+    },
+    {
       "path": "sources/captions/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.md",
       "sha256": "9f9ef2cfc1849702aab018475c7e96ebf3f059fb874021cd8320fa97ea99a327"
+    },
+    {
+      "path": "sources/captions/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.vtt",
+      "sha256": "e9d2638e3093cd494443fc289db9e46d270d09f94ddb1dda4b7f7855e35c03dd"
+    },
+    {
+      "path": "sources/diarist/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.srt",
+      "sha256": "6f07515e2c9ef6a15a4031d16a25e97c4f0c366f52bc9d33667c91d8eddf6d50"
     },
     {
       "path": "sources/diarist/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.html",
-      "sha256": "3cd58b439643fc107c1a7aa43f7203b1d3c522d80bbd0a8ccda7b5e6b20eb5a3"
+      "sha256": "2071844d4895c46c2a54702c00ecc2d5f002a301bd4144392457016a8cdbd97f"
     },
     {
       "path": "sources/transcripts/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.html",
-      "sha256": "f51956daa7845f63a039dc9acc593589b0a575a9ac95baac51e79eae878b0adb"
+      "sha256": "363c6a49e13df699c15c9adb15c91efafec4267fd40935137274f170cae6f79b"
     },
     {
       "path": "sources/transcripts/_archive/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.md",
       "sha256": "6a67ca5293e6fd7cf03508fcf34f3d3cc3cc76e368bc6180ba592f818efa2872"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2018-07-05",
   "tools": [

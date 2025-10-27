@@ -10,8 +10,20 @@
       "sha256": "9af488ec3f8e4dc29dcff7995ae949444ca0fb084e0c431131f453f4f46df26e"
     },
     {
+      "path": "sources/captions/2025-05-18-diamond-luminosity-live-stream.html",
+      "sha256": "52e306ba61293dd99f17a7cd40e6a4956860a1f99f45082b1684351cd810f91a"
+    },
+    {
       "path": "sources/captions/2025-05-18-diamond-luminosity-live-stream.md",
       "sha256": "86a00401bf78152bb0cc26dddb3d32afe3e0af68bf609c6b3c4978b11374191c"
+    },
+    {
+      "path": "sources/captions/2025-05-18-diamond-luminosity-live-stream.vtt",
+      "sha256": "f6d053ce6a1524f1999034505a03717d54a743c511917268588337f6826ce8b8"
+    },
+    {
+      "path": "sources/diarist/2025-05-18-diamond-luminosity-live-stream.srt",
+      "sha256": "bf2a133f170253f5888c33c0c0227780c2c582d329627c2108204e24182675c5"
     },
     {
       "path": "sources/diarist/2025-05-18-diamond-luminosity-live-stream.txt",
@@ -19,22 +31,22 @@
     },
     {
       "path": "sources/transcripts/2025-05-18-diamond-luminosity-live-stream.html",
-      "sha256": "e22c5ce83306d814eb02752196341db7dc16353c62bccd6bc452d74c9d7742c2"
+      "sha256": "335e314ca64e4fdd4daf8fde2ad6cac2a1977832774c48975534db9a8809074b"
     },
     {
       "path": "sources/transcripts/2025-05-18-diamond-luminosity-live-stream.md",
-      "sha256": "fc31f7c761ec94a1915bfe9d51079899023eb83ebde71889574ef6886e216f95"
+      "sha256": "75577e0b7f805d07716a931a5a13ed63643d47b7794b26c125965fceb3f85829"
     },
     {
       "path": "sources/transcripts/_archive/2025-05-18-diamond-luminosity-live-stream.html",
-      "sha256": "b7059fcae4c4d015b159464fbc9d70d0abd59172162d2db35dd8db7e23efadbc"
+      "sha256": "6dae0f28b7434c2c1dec5c6bf4a0ff4562a960048b20cb29c1e479c8e17381a6"
     },
     {
       "path": "sources/transcripts/_archive/2025-05-18-diamond-luminosity-live-stream.md",
       "sha256": "0f0e469b07d90eb25e3d2eee4376892506be4d4bc05bb3623b10f2edc92fb138"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2025-05-18",
   "tools": [

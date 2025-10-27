@@ -1,0 +1,61 @@
+===== HEAD: tools/download_media.sh =====
+#!/bin/zsh
+
+# --- Configuration ---
+INDEX_FILE="index.json"
+DOWNLOADS_ROOT="downloads"
+VIDEO_DIR="$DOWNLOADS_ROOT/video"
+AUDIO_DIR="$DOWNLOADS_ROOT/audio"
+
+# --- Dependency Check ---
+echo "Checking for required tools (jq, yt-dlp)..."
+if ! command -v jq &> /dev/null; then
+    echo "Error: 'jq' (JSON processor) is not installed."
+    echo "Install with: brew install jq"
+    exit 1
+fi
+if ! command -v yt-dlp &> /dev/null; then
+    echo "Error: 'yt-dlp' (video downloader) is not installed."
+    echo "Install with: brew install yt-dlp"
+    exit 1
+fi
+
+if [[ ! -f "$INDEX_FILE" ]]; then
+    echo "Error: '$INDEX_FILE' not found in the current directory. Please save your JSON data to this file."
+    exit 1
+fi
+
+# Create download directories
+mkdir -p "$VIDEO_DIR"
+mkdir -p "$AUDIO_DIR"
+echo "Download directories created: $VIDEO_DIR and $AUDIO_DIR"
+echo "----------------------------------------------------"
+
+# --- Main Logic ---
+
+# jq query extracts: youtube_url, followed by a space, followed by the cleaned filename (e.g., 2014-11-10-...)
+JQ_QUERY='.[] | (.youtube_url + " " + (.file | split("/") | .[1] | split(".") | .[0]))'
+
+# Get total number of items for a correct progress counter
+TOTAL_ITEMS=$(jq '. | length' "$INDEX_FILE")
+CURRENT_ITEM=0
+
+# Use a Zsh-compatible pipe to read the jq output line-by-line
+jq -r "$JQ_QUERY" "$INDEX_FILE" | while IFS=$' ' read -r URL BASE_NAME; do
+    CURRENT_ITEM=$((CURRENT_ITEM + 1))
+
+    # Simple check to ensure we got data
+    if [[ -z "$URL" || -z "$BASE_NAME" ]]; then
+        echo "[$CURRENT_ITEM/$TOTAL_ITEMS] WARNING: Skipping empty/malformed item."
+        echo "----------------------------------------------------"
+        continue
+    fi
+
+    echo "[$CURRENT_ITEM/$TOTAL_ITEMS] Processing: ${BASE_NAME}"
+
+    # --- 1. Download Video (MP4) ---
+    VIDEO_OUTPUT="$VIDEO_DIR/$BASE_NAME.mp4"
+    if [[ -f "$VIDEO_OUTPUT" ]]; then
+        echo "  - Video already exists. Skipping video download."
+    else
+        echo "  - Downloading Video to $VIDEO_OUTPUT"

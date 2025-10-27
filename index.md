@@ -18,6 +18,7 @@
 | 2019-08-30 | [Scientific Evidence for Reincarnation](https://github.com/bache-archive/chris-bache-archive/blob/main/sources/transcripts/2019-08-30-scientific-evidence-for-reincarnation.md) | ECR – Existential Consciousness Research Institute | lecture | [Diarist](https://github.com/bache-archive/chris-bache-archive/blob/main/sources/diarist/2019-08-30-scientific-evidence-for-reincarnation.txt) | [YouTube](https://youtu.be/x_iGTmrzIpY) |
 | 2019-09-26 | [Mapping of Transcendence](https://github.com/bache-archive/chris-bache-archive/blob/main/sources/transcripts/2019-09-26-mapping-of-transcendence.md) | ECR – Existential Consciousness Research Inst. | lecture | [Diarist](https://github.com/bache-archive/chris-bache-archive/blob/main/sources/diarist/2019-09-26-mapping-of-transcendence.txt) | [YouTube](https://youtu.be/70TRNG1-ZEg) |
 | 2019-11-13 | [LSD & the Mind of the Universe: Diamonds from Heaven](https://github.com/bache-archive/chris-bache-archive/blob/main/sources/transcripts/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md) | Trust Psyche | lecture | [Diarist](https://github.com/bache-archive/chris-bache-archive/blob/main/sources/diarist/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.txt) | [YouTube](https://youtu.be/uHn8lzYNXyE) |
+| 2019-11-26 | LSD and the Mind of the Universe: Diamonds from Heaven | — | book | — | — |
 | 2020-01-07 | [LSD and the Mind of the Universe: Diamonds from Heaven](https://github.com/bache-archive/chris-bache-archive/blob/main/sources/transcripts/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md) | Psychedelics Today | lecture | [Diarist](https://github.com/bache-archive/chris-bache-archive/blob/main/sources/diarist/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.txt) | [YouTube](https://youtu.be/CbgJkCoee3w) |
 | 2020-01-10 | [Prof. Dr. Christopher Bache about his work and consciousness](https://github.com/bache-archive/chris-bache-archive/blob/main/sources/transcripts/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.md) | ECR - Existential Consciousness Research Institute | lecture | [Diarist](https://github.com/bache-archive/chris-bache-archive/blob/main/sources/diarist/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.txt) | [YouTube](https://youtu.be/QaBoLNV4FQI) |
 | 2020-04-19 | [Bicycle Day Conversation with Jef Baker](https://github.com/bache-archive/chris-bache-archive/blob/main/sources/transcripts/2020-04-19-bicycle-day-conversation-with-jef-baker.md) | Australian Psychedelic Society | interview | [Diarist](https://github.com/bache-archive/chris-bache-archive/blob/main/sources/diarist/2020-04-19-bicycle-day-conversation-with-jef-baker.txt) | [YouTube](https://youtu.be/B0BhUOEP1Mg) |
@@ -73,9 +74,12 @@
 
 ---
 
-**Citation & Access**  
-- **Concept DOI (always current):** https://doi.org/10.5281/zenodo.17088457  
-- **GitHub Repository (canonical source):** https://github.com/bache-archive/chris-bache-archive  
-- **Public YouTube Playlist:** https://www.youtube.com/playlist?list=PLIuDc6SKtEHWjyTpCTJj6AVUrRYv3rbu1  
+**Mirrors & Citation**  
+- Concept DOI (latest snapshot): https://doi.org/10.5281/zenodo.17100583  
+- Latest release v2.4: https://doi.org/10.5281/zenodo.17238386  
+- Internet Archive transcripts snapshot (v2.4): https://archive.org/details/chris-bache-archive-v2.4  
+- Audio collection (2014–2025): https://archive.org/details/chris-bache-archive-audio  
+- Video collection (2014–2025): https://archive.org/details/chris-bache-archive-video  
 
-_All transcripts, metadata, and generated HTML are dedicated to the public domain under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)._
+
+_All transcripts and metadata are dedicated to the public domain under CC0 1.0._

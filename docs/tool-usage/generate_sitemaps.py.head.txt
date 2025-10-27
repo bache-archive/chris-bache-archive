@@ -1,0 +1,61 @@
+===== HEAD: tools/generate_sitemaps.py =====
+#!/usr/bin/env python3
+"""
+tools/generate_sitemaps.py
+
+Creates a sitemap index (sitemap.xml) and section sitemaps, but only
+for sections that actually have URLs to list:
+
+- sitemap-educational.xml        (docs/educational/**/index.html)  [optional]
+- sitemap-captions.xml           (sources/captions/**/*.html)      [optional]
+- sitemap-transcripts.xml        (sources/transcripts/**/*.html, skip _archive) [optional]
+- sitemap-diarist.xml            (sources/diarist/**/*.txt)        [optional]
+
+Rules:
+- Absolute <loc> URLs (required by GSC)
+- Single-line <loc>
+- <lastmod> prefers file mtime (UTC, date only); falls back to YYYY-MM-DD in path
+- Stable sort
+- Only writes section sitemaps that have at least one URL
+- Index lists only the section sitemaps that were written
+- Designed for GitHub Pages under: https://bache-archive.github.io/chris-bache-archive
+
+Usage:
+  python3 tools/generate_sitemaps.py [BASE_URL] [OUTDIR]
+  # BASE_URL default: https://bache-archive.github.io/chris-bache-archive
+  # OUTDIR   default: repo root
+"""
+
+import sys, re
+from pathlib import Path
+from urllib.parse import quote
+from datetime import datetime, timezone
+
+BASE = (sys.argv[1] if len(sys.argv) > 1 else "https://bache-archive.github.io/chris-bache-archive").rstrip("/")
+OUTDIR = Path(sys.argv[2]) if len(sys.argv) > 2 else None
+
+REPO_ROOT = Path(__file__).resolve().parents[1]
+SITE_ROOT = REPO_ROOT / "build" / "site"
+if not SITE_ROOT.exists():
+    # Fallback to repo root for cases where site is served from repo directly
+    SITE_ROOT = REPO_ROOT
+
+if OUTDIR is None:
+    OUTDIR = REPO_ROOT
+
+def abs_url(rel_path: str) -> str:
+    return BASE + "/" + quote(rel_path.lstrip("/"), safe="/")
+
+def rel_from_root(path: Path) -> str:
+    return path.relative_to(SITE_ROOT).as_posix()
+
+def infer_lastmod_from_name(path_str: str) -> str | None:
+    m = re.search(r"(\d{4}-\d{2}-\d{2})", path_str)
+    if not m:
+        return None
+    try:
+        return datetime.strptime(m.group(1), "%Y-%m-%d").date().isoformat()
+    except Exception:
+        return None
+
+def lastmod_for(path: Path) -> str | None:

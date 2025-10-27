@@ -10,8 +10,20 @@
       "sha256": "0dbee914a8d375e46acf9dc0b3fd7368485fc05135513b09a61c8fc7e928b538"
     },
     {
+      "path": "sources/captions/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.html",
+      "sha256": "c94cdc8e07f10fc8c37431262e51fcc8e6213746e7eda88ce21a784290ceaf34"
+    },
+    {
       "path": "sources/captions/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.md",
       "sha256": "b813796526b94991be2c7138f2d5e4ac8580b551b4c58d189109b50d8a1e8152"
+    },
+    {
+      "path": "sources/captions/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.vtt",
+      "sha256": "33666be4cd18ff4e49b1dd32376f2bab1824437f22ccb792770faaaf94bdf58e"
+    },
+    {
+      "path": "sources/diarist/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.srt",
+      "sha256": "286a401562e420a8b62d236ed814a8c3f7c15b39081e71c1f4e106a9725531a6"
     },
     {
       "path": "sources/diarist/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.html",
-      "sha256": "d9cb2a697d4cb3947b7378466038161e99da8a63e3f71648832be354852b7223"
+      "sha256": "87285344aaf6ff4eb6c3f04e5e2d57e8b24fce7503b06bcaddfce225be4b6931"
     },
     {
       "path": "sources/transcripts/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.html",
-      "sha256": "d5b245320a07e60c59a385359c245584a8b9bfcda49e57f27a574734b97892f8"
+      "sha256": "93c6e80dc6ac9ad20cb9a10f7abc36f21181bb5e4bff418dc24e227dd4c72eef"
     },
     {
       "path": "sources/transcripts/_archive/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.md",
       "sha256": "7a462725e73d870df5c0c29ff7e0e0aae7ca56795816e3dea4bef882a760e4bb"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2021-03-29",
   "tools": [

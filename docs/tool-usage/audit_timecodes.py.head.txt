@@ -1,0 +1,34 @@
+===== HEAD: tools/audit_timecodes.py =====
+#!/usr/bin/env python3
+import pandas as pd, urllib.parse, collections, pathlib
+
+PARQ = "vectors/bache-talks.embeddings.parquet"  # your renamed +tc
+m = pd.read_parquet(PARQ)
+
+def domain(u):
+    try:
+        netloc = urllib.parse.urlparse(str(u)).netloc
+        return netloc.lower().split(":")[0]
+    except Exception:
+        return ""
+
+has_tc = m["start_hhmmss"].notna()
+m["domain"] = m["url"].map(domain)
+
+by_talk = m.groupby(["talk_id","archival_title","domain","url"]).agg(
+    rows=("text","count"),
+    with_tc=("start_hhmmss", lambda s: s.notna().sum()),
+    without_tc=("start_hhmmss", lambda s: s.isna().sum()),
+).reset_index()
+
+print("\n=== Coverage by talk (top missing) ===")
+miss = by_talk[by_talk["without_tc"]>0].sort_values(["without_tc","rows"], ascending=[False,False])
+print(miss.head(20).to_string(index=False))
+
+print("\n=== Coverage by domain ===")
+by_dom = m.groupby("domain")["start_hhmmss"].apply(lambda s: (s.notna().sum(), s.isna().sum()))
+for d,(ok,ko) in sorted(by_dom.items(), key=lambda x: -x[1][1]):
+    print(f"{d or '(none)'}: with={ok}  without={ko}")
+
+print("\nTotal rows:", len(m), "   with_tc:", has_tc.sum(), "   without_tc:", (~has_tc).sum())
+

@@ -10,8 +10,20 @@
       "sha256": "2564343669df87898c50bb322aec77b02b40749f5745957dfc7361a409bc6bb6"
     },
     {
+      "path": "sources/captions/2024-09-24-philosophical-implications-of-non-ordinary-states-live.html",
+      "sha256": "d0916300ed2679480d9c3e4221e0fa7572bfe40e7e014618b31b362d5c271181"
+    },
+    {
       "path": "sources/captions/2024-09-24-philosophical-implications-of-non-ordinary-states-live.md",
       "sha256": "92fcc9f3a569876c62dd80f87a529aaa67ada07e6dc159864ef343f2ba0d9d66"
+    },
+    {
+      "path": "sources/captions/2024-09-24-philosophical-implications-of-non-ordinary-states-live.vtt",
+      "sha256": "3a0232bdc2959efa675d443f596d5d59238a5dd71c3cb021218d9d9ae77a8d49"
+    },
+    {
+      "path": "sources/diarist/2024-09-24-philosophical-implications-of-non-ordinary-states-live.srt",
+      "sha256": "bcd961cc110bea1c1ac99151d7311d5f9c6caff2540a1b9228d33e6c1c88ac3a"
     },
     {
       "path": "sources/diarist/2024-09-24-philosophical-implications-of-non-ordinary-states-live.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2024-09-24-philosophical-implications-of-non-ordinary-states-live.html",
-      "sha256": "4d21b108a724318d903522999642726a0ae1f7d973379fd222537538e808898f"
+      "sha256": "c13866b5d1176268a8bac759117628952d8b426144fbd107489767e6627a8bca"
     },
     {
       "path": "sources/transcripts/2024-09-24-philosophical-implications-of-non-ordinary-states-live.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2024-09-24-philosophical-implications-of-non-ordinary-states-live.html",
-      "sha256": "581b9b4dbc9392436891c26fc8b1eaed396ed1085048604a13bdbd1fa8e42722"
+      "sha256": "e4b0a2374030df04d0da2a915d1cd24da7b07cb67c2dec647bc7fb9d91a9d666"
     },
     {
       "path": "sources/transcripts/_archive/2024-09-24-philosophical-implications-of-non-ordinary-states-live.md",
       "sha256": "b0172b2552f936d10da870d82fdbec610c88978f7bde0fee1b020bafa0fdbf82"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2024-09-24",
   "tools": [

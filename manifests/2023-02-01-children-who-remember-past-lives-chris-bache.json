@@ -10,8 +10,20 @@
       "sha256": "969f46b99e69a670257da1a1c88c3b42432ebaa337a0d917edfb36c6a70f3b41"
     },
     {
+      "path": "sources/captions/2023-02-01-children-who-remember-past-lives-chris-bache.html",
+      "sha256": "7228127c42800bd416b93433b2cf10a2dd010f5b4ad815b8401690c04dc2afef"
+    },
+    {
       "path": "sources/captions/2023-02-01-children-who-remember-past-lives-chris-bache.md",
       "sha256": "48afa5b1113f00f410ee88063ba1d59909ed8d301410372a426e29f8cc983737"
+    },
+    {
+      "path": "sources/captions/2023-02-01-children-who-remember-past-lives-chris-bache.vtt",
+      "sha256": "0cadf2cdaba83d3ffec77f25cee8ca2e79db370ae174afbb30765a946bf1c9e4"
+    },
+    {
+      "path": "sources/diarist/2023-02-01-children-who-remember-past-lives-chris-bache.srt",
+      "sha256": "81930515120536899102c2877822faa02c1aa945cfef4b515c34e13cc46ec60c"
     },
     {
       "path": "sources/diarist/2023-02-01-children-who-remember-past-lives-chris-bache.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2023-02-01-children-who-remember-past-lives-chris-bache.html",
-      "sha256": "2f22968f8f02642fef94a0dd228b520091a6adf6a671e5492ec802d0c7998798"
+      "sha256": "483fcd455773df9c55fc1ba09ae8103fd6570014d8e0776db096fc522e2fe1bb"
     },
     {
       "path": "sources/transcripts/2023-02-01-children-who-remember-past-lives-chris-bache.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2023-02-01-children-who-remember-past-lives-chris-bache.html",
-      "sha256": "2d7952dc861c7e7d40d80f2fc4dc6d490ece941541b358fa6790d15983e62e27"
+      "sha256": "de99733b790c013dc9aa48ab48a34691bfac64466f98c3349ef03d0dce502fa7"
     },
     {
       "path": "sources/transcripts/_archive/2023-02-01-children-who-remember-past-lives-chris-bache.md",
       "sha256": "797c9d4d2e53cfc4aec3f7b76317d07f78a05a79aae88daa8d94c4894c31adf3"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2023-02-01",
   "tools": [

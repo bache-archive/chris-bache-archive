@@ -10,8 +10,20 @@
       "sha256": "377c027a5cd37965d05e9e5839fa853f82f046c025be53cc5003b4c16049a73d"
     },
     {
+      "path": "sources/captions/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.html",
+      "sha256": "ff8669149d367e9cd451d18ae6041fa6753f408bed512c08fc27da3b3d46ecad"
+    },
+    {
       "path": "sources/captions/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.md",
       "sha256": "a3a905b0d577b563732d6b67f8aeaa919baca2ad9832eeaabedb37da829cef4c"
+    },
+    {
+      "path": "sources/captions/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.vtt",
+      "sha256": "cdedb56e494236da466267f7e48977cf3c92d9e8e3df0c4c8138b2a9e04fd572"
+    },
+    {
+      "path": "sources/diarist/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.srt",
+      "sha256": "75050da554d3b18472db40cee9ce66de0be8d0c82b512f69c0bb14e55d1b7578"
     },
     {
       "path": "sources/diarist/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.html",
-      "sha256": "859739977782eb53cfb1efad1f5e6d737ea4e711b008cd1ba119ee978ce8d36d"
+      "sha256": "f0df0d306aa23b533472558d7c4e80b6efeef02b0728c328b0c869bf67144c26"
     },
     {
       "path": "sources/transcripts/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.html",
-      "sha256": "d233cb901d84c433d59653e2e435a401393b671a1a82aa467ad07340e34f6ec0"
+      "sha256": "e22c97127c08f147531a6771c9774b19f46fa28c0748020861eff1122083feca"
     },
     {
       "path": "sources/transcripts/_archive/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.md",
       "sha256": "06578f861392c4d56511f10088c4282a4f7dbbf606429d560cf77dc36ebb9200"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2022-12-07",
   "tools": [

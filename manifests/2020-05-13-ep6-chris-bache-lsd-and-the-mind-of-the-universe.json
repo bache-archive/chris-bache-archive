@@ -10,8 +10,20 @@
       "sha256": "50b8bc98f647f7d37750ae3b0caf97928c1864f87a37df062d3419a080db5123"
     },
     {
+      "path": "sources/captions/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.html",
+      "sha256": "72d96d20357f9c473d49bb9e6a36c918ecffddb037e3da6eb7a1c0300cfea4d9"
+    },
+    {
       "path": "sources/captions/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.md",
       "sha256": "00eded37f1d46390af06e51a5402d9bfa9ea6400b6c0f0500127498c71f7ec5d"
+    },
+    {
+      "path": "sources/captions/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.vtt",
+      "sha256": "1edea8ebe300e917716cb17390f2fb111ab4a8c4a62e286914bfee6feb7c9fbc"
+    },
+    {
+      "path": "sources/diarist/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.srt",
+      "sha256": "b7baf3a6d197164dcd85f2801e68913aa9455254e1a0fb8c546d2b15805e434b"
     },
     {
       "path": "sources/diarist/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.html",
-      "sha256": "f650c765d016c6fcb677230bdd045400dbe5b6a76e1f77b8323666a9ff6d091d"
+      "sha256": "5ac53988f2cfb43c32ce22865f233a12e072c51f1aa01efb10bae957808077ea"
     },
     {
       "path": "sources/transcripts/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.html",
-      "sha256": "7225fb881a026f5070c9bd015bb508cbdfe093cef2b57a4833d9e2aa049391b0"
+      "sha256": "f95b649dddcf83c13aa490772a3662f725fb183aabdf5b3f00279ff2710b3fc7"
     },
     {
       "path": "sources/transcripts/_archive/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.md",
       "sha256": "3b94fae784237478f471976d4098759798d47888eea164a8a48f68ae6e41b026"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2020-05-13",
   "tools": [

@@ -10,8 +10,20 @@
       "sha256": "3af264b623862771faef3df47dbad21c9427d138ec8e85d18dbac540276c45b3"
     },
     {
+      "path": "sources/captions/2023-11-06-73-trips-inside-the-psychedelic-universe.html",
+      "sha256": "55fd8a530f8f5065e81fc3d0a937dd4dacfefb0765d98e7f7cfaf4930a470ef7"
+    },
+    {
       "path": "sources/captions/2023-11-06-73-trips-inside-the-psychedelic-universe.md",
       "sha256": "40e411d71c9b900030bfe73b11a51d0b673dd6ed6f9cd04de452652e218db59d"
+    },
+    {
+      "path": "sources/captions/2023-11-06-73-trips-inside-the-psychedelic-universe.vtt",
+      "sha256": "4787bf2e4bae7cfd59bb24eedd8077255e96caaaf94a6cfff68d1869681f4166"
+    },
+    {
+      "path": "sources/diarist/2023-11-06-73-trips-inside-the-psychedelic-universe.srt",
+      "sha256": "5a084f2241535733b6b04f927abaeaa1ebfd9db0d2009e0ca3f3b284ad8ce234"
     },
     {
       "path": "sources/diarist/2023-11-06-73-trips-inside-the-psychedelic-universe.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2023-11-06-73-trips-inside-the-psychedelic-universe.html",
-      "sha256": "2b1089d42c124394e2496f3c1d678ef6ee649bb599c6e40bb22af75cbf6422e5"
+      "sha256": "09c86be020dffabd249859a00ff5ed88bfab88b345b385f3a31c7d0ac5e905cf"
     },
     {
       "path": "sources/transcripts/2023-11-06-73-trips-inside-the-psychedelic-universe.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2023-11-06-73-trips-inside-the-psychedelic-universe.html",
-      "sha256": "74b4471dbd34a8738d64d8a54c057053753c2792eb10e02a45c80c07a3de673a"
+      "sha256": "c6fa88a03748d1a61d221c8207175b517089169fdff1327baca47051586f4a43"
     },
     {
       "path": "sources/transcripts/_archive/2023-11-06-73-trips-inside-the-psychedelic-universe.md",
       "sha256": "59bcea92c5b7baae25012fa278d2cc9e2136349d35598f01c35d505c87a61b6f"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2023-11-06",
   "tools": [

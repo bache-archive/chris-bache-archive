@@ -10,8 +10,20 @@
       "sha256": "c1a404ba41a1fe4c12ca34ee5cb5ab246002e5058b6ba0e95618791958714a01"
     },
     {
+      "path": "sources/captions/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.html",
+      "sha256": "73b67b3edb434fd05e31302084f22c2307a672775421ea80163b9447a206d2f1"
+    },
+    {
       "path": "sources/captions/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md",
       "sha256": "5ff00694623084d7a542eb6ba27200874eb090c63df86ea7d8da61d238b84e1f"
+    },
+    {
+      "path": "sources/captions/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.vtt",
+      "sha256": "53a888b52d01685aead828615ec3b1689a0207c186a85f4924710247bd17527b"
+    },
+    {
+      "path": "sources/diarist/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.srt",
+      "sha256": "77daf69f176e288432ce0e10adc3560e09079a506beec4a460682d82db07ef52"
     },
     {
       "path": "sources/diarist/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.html",
-      "sha256": "022c30f6bca956cc4bdec74fca9cf7f2ff9639a02e8d31a61b9b1d7540e81515"
+      "sha256": "2382b1a1ba31d57455d528d6df27cda0971a84f2b50af982a00611d6a9be49a8"
     },
     {
       "path": "sources/transcripts/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.html",
-      "sha256": "e800c102c6b24ec712728242396b48fb950af8d77fecdaeb0a9187b9aa038ffc"
+      "sha256": "1d759ceba764e48b5863dad6f8e4234e1de5e05d42b13f7f2edf344c291df065"
     },
     {
       "path": "sources/transcripts/_archive/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md",
       "sha256": "4aa3096fa20aeff05ba36c886f150c95a337abf651c3e84324d418bf49bd2840"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2019-11-13",
   "tools": [

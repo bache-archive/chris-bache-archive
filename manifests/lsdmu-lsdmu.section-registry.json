@@ -3,10 +3,10 @@
   "files": [
     {
       "path": "sources/transcripts/lsdmu/lsdmu.section-registry.json",
-      "sha256": "a9395f7f6b3beac509fc9605379ae8e263b6a9fb2331c90c2319c244aea67fd2"
+      "sha256": "c8ba7d799491f9a7a17d99aed6a196f4ce4b7f2601fa0d47167096f62eec0d93"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "",
   "tools": [

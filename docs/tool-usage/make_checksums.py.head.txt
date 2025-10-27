@@ -1,0 +1,61 @@
+===== HEAD: tools/make_checksums.py =====
+#!/usr/bin/env python3
+"""
+tools/make_checksums.py
+
+Create focused SHA256 manifests for archival & web-served artifacts.
+
+Outputs:
+  - checksums/RELEASE-<version>.sha256     (primary manifest)
+  - downloads/checksums.sha256             (optional, for downloads/)
+  - updates checksums/FIXITY_LOG.md
+
+Usage:
+  python3 tools/make_checksums.py --version v3.3.5
+  python3 tools/make_checksums.py --version v3.3.5 --verify
+  python3 tools/make_checksums.py --version v3.3.5 --no-downloads
+"""
+
+from __future__ import annotations
+from pathlib import Path
+import argparse, hashlib, sys, os, datetime
+
+ROOT = Path(__file__).resolve().parents[1]
+OUT_DIR = ROOT / "checksums"
+DL_DIR  = ROOT / "downloads"
+FIXITY_LOG = OUT_DIR / "FIXITY_LOG.md"
+
+# ---- selection rules ----
+
+INCLUDE_FILE_GLOBS = [
+    # site/landing & sitemaps
+    "index.html", "index.md", "index.json", "robots.txt",
+    "sitemap*.xml", "LICENSE", "README*.md", "CONFIG.md",
+    "assets/style.css",
+
+    # educational pages
+    "docs/educational/*/index.md",
+    "docs/educational/*/index.html",
+    "docs/educational/*/sources.json",
+
+    # manifests (exclude quarantined)
+    "manifests/*.json",
+
+    # sources (captions/diarist/transcripts)
+    "sources/captions/**/*",
+    "sources/diarist/**/*",
+    "sources/transcripts/**/*",
+
+    # vectors (FAISS/parquet/chunks manifest)
+    "vectors/bache-talks.index.faiss",
+    "vectors/bache-talks.embeddings.parquet",
+    "vectors/chunks.jsonl",
+]
+
+TEXTY_EXT_WHITELIST = {
+    ".md", ".json", ".vtt", ".srt", ".txt", ".html", ".css", ".xml"
+}
+
+EXCLUDE_DIR_PREFIXES = {
+    ".git", ".venv", "build", "tmp", "reports", "backups",
+    "private_backups", "bundle-v2.3-media", "alignments",

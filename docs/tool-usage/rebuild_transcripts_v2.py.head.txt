@@ -1,0 +1,61 @@
+===== HEAD: tools/rebuild_transcripts_v2.py =====
+#!/usr/bin/env python3
+"""
+rebuild_transcripts_v2.py
+
+Rebuild markdown transcripts from diarist .txt files using index.json metadata.
+
+Key features
+- Uses diarist speaker labels (more accurate attribution).
+- Strips timestamps and Otter-style cruft.
+- Optional normalization of common labels (Interviewer, Audience, etc).
+- Emits YAML front matter with a deduped speakers list.
+- Looks up title/date from index.json (fallback to slug).
+- Writes to build/sources/transcripts/<basename>.md by default.
+
+Usage examples
+--------------
+# Rebuild one transcript
+python tools/rebuild_transcripts_v2.py --root . --only <slug> --normalize-labels --sync-speakers-yaml --verbose
+
+# Rebuild all listed in index.json
+python tools/rebuild_transcripts_v2.py --root . --normalize-labels --sync-speakers-yaml --verbose
+"""
+
+from __future__ import annotations
+import argparse
+import json
+import os
+import re
+import sys
+import hashlib
+from pathlib import Path
+from typing import Dict, List, Iterable, Tuple, Optional
+
+# -------- Util helpers --------
+
+def info(enabled: bool, msg: str) -> None:
+    if enabled:
+        print(f"[info] {msg}", flush=True)
+
+def sha1_of_file(p: Path) -> str:
+    h = hashlib.sha1()
+    with p.open("rb") as f:
+        for chunk in iter(lambda: f.read(8192), b""):
+            h.update(chunk)
+    return h.hexdigest()
+
+def load_index(index_path: Path, verbose: bool=False) -> List[Dict]:
+    if not index_path.exists():
+        raise FileNotFoundError(f"index.json not found at: {index_path}")
+    with index_path.open("r", encoding="utf-8") as f:
+        data = json.load(f)
+    if not isinstance(data, list):
+        raise ValueError("index.json must be a top-level JSON array")
+    info(verbose, f"Loaded index.json entries: {len(data)}")
+    return data
+
+def entries_by_basename(entries: List[Dict]) -> Dict[str, Dict]:
+    m = {}
+    for e in entries:
+        tr = e.get("transcript", "")

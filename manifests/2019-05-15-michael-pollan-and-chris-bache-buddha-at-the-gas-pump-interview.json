@@ -10,8 +10,20 @@
       "sha256": "62380b07d3251f013d950adf54103ccf06f56adce54be7ae86e081ec173757ce"
     },
     {
+      "path": "sources/captions/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.html",
+      "sha256": "b917077dd4272292bebc0e5c08696d05c5b570d0070b3ae11de564f292c8d163"
+    },
+    {
       "path": "sources/captions/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.md",
       "sha256": "18600bd6066be5060491377ca32e85234ee50deeacca63889f2db56d5f8fd70f"
+    },
+    {
+      "path": "sources/captions/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.vtt",
+      "sha256": "49a0c32ba2a64b3cbf4b664d48d3f5398f2a1ae7112b4349fa88c1f48bdfc8b8"
+    },
+    {
+      "path": "sources/diarist/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.srt",
+      "sha256": "9d1548e4f62c35137864c42f57ae5cefcbb1db095571e59655508548b333b5c4"
     },
     {
       "path": "sources/diarist/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.html",
-      "sha256": "2e5b66c918a83f2453e9212d7e18df64878eaeb9fb421b134c50265a10f826db"
+      "sha256": "1d92fa879de237710f22836d73edff1dd3ac830bdac2a4999296a10de2f5f3ea"
     },
     {
       "path": "sources/transcripts/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.html",
-      "sha256": "2cda0f61f7b09563532e4739b67367f51c232a9d0db0ee4d3aaa71e8c49693a6"
+      "sha256": "becc13a8a30c349861c9e0e7c278f46c0cc4cc309a52b1ebb231f0259eba8f79"
     },
     {
       "path": "sources/transcripts/_archive/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.md",
       "sha256": "37fdec199aad60404b79264f8dbe9bacd19a880bb071ab6641f3caeba6eaf88f"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2019-05-15",
   "tools": [

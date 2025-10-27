@@ -1,0 +1,18 @@
+{
+  "id": "2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-human",
+  "files": [
+    {
+      "path": "sources/captions/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-human.vtt",
+      "sha256": "cd9b7d622d08798bd4b2d8fcbcf29fc0770e837a42ee1363d345d4e5059d8e9b"
+    }
+  ],
+  "captured_at": "2025-10-27",
+  "license": "CC0-1.0",
+  "recorded_date": "2019-11-13",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

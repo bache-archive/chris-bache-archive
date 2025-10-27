@@ -1,0 +1,11 @@
+===== HELP: tools/check_vtt_health.py =====
+2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview                  -> 2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview-human.vtt  OK  segs=1332 bad_ts=0
+2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1                          -> 2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.vtt  OK  segs=8663 bad_ts=0
+2023-01-30-wisdom-keepers-conversation-with-duane-elgin                                     -> 2023-01-30-wisdom-keepers-conversation-with-duane-elgin.vtt   OK  segs=7680 bad_ts=0
+2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1         -> 2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.vtt  OK  segs=7801 bad_ts=0
+2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast                                     -> 2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.vtt   OK  segs=6265 bad_ts=0
+2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2  -> 2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.vtt  OK  segs=7379 bad_ts=0
+2023-01-05-exploring-lsd-and-the-mind-of-the-universe                                       -> 2023-01-05-exploring-lsd-and-the-mind-of-the-universe.vtt     OK  segs=5581 bad_ts=0
+2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching         -> 2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.vtt  OK  segs=5003 bad_ts=0
+2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142       -> 2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142.vtt  OK  segs=5787 bad_ts=0
+2025-07-16-consciousness-psychedelics-and-collective-evolution                              -> 2025-07-16-consciousness-psychedelics-and-collective-evolution.vtt  OK  segs=3987 bad_ts=0

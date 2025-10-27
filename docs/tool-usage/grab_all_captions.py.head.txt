@@ -1,0 +1,61 @@
+===== HEAD: tools/grab_all_captions.py =====
+#!/usr/bin/env python3
+# tools/grab_all_captions.py
+# Downloads YouTube captions for all entries in index.json.
+# - Auto captions -> sources/captions/<talk_id>.vtt  (DEFAULT FILENAME)
+# - Human captions -> sources/captions/<talk_id>-human.vtt
+# Won't overwrite existing files unless --force is provided.
+# Emits: sources/captions/_captions_manifest.csv and a concise stdout summary.
+
+import argparse, json, subprocess, sys, shutil, os, csv, re
+from pathlib import Path
+from collections import Counter
+
+HERE = Path(__file__).resolve().parent
+ROOT = HERE.parent  # repo root
+CAP_DIR = ROOT / "sources" / "captions"
+CAP_DIR.mkdir(parents=True, exist_ok=True)
+
+def derive_talk_id(item):
+    tr = item.get("transcript") or ""
+    m = re.search(r"([^/]+)\.md$", tr)
+    if m:
+        return m.group(1)
+    yid = (item.get("youtube_id") or "").strip()
+    return yid or None
+
+def target_paths(talk_id):
+    auto_default = CAP_DIR / f"{talk_id}.vtt"          # AUTO uses default filename
+    human_side   = CAP_DIR / f"{talk_id}-human.vtt"    # HUMAN gets -human suffix
+    return auto_default, human_side
+
+def run(cmd):
+    try:
+        res = subprocess.run(cmd, shell=True, check=False,
+                             stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+        return res.returncode, res.stdout, res.stderr
+    except Exception as e:
+        return 1, "", str(e)
+
+def newest_vtt(path: Path):
+    vtts = list(path.glob("*.vtt"))
+    if not vtts: return None
+    return max(vtts, key=lambda p: p.stat().st_mtime)
+
+def fetch_auto(url, tmpdir):
+    cmd = (
+        f'yt-dlp "{url}" '
+        f'--write-auto-subs --sub-format vtt '
+        f'--skip-download -o "{tmpdir}/%(id)s.%(ext)s"'
+    )
+    return run(cmd)
+
+def fetch_human(url, tmpdir):
+    # grab any English human track
+    cmd = (
+        f'yt-dlp "{url}" '
+        f'--write-subs --sub-langs "en.*,en" --sub-format vtt '
+        f'--skip-download -o "{tmpdir}/%(id)s.%(ext)s"'
+    )
+    return run(cmd)
+

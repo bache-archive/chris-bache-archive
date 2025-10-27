@@ -1,0 +1,61 @@
+===== HEAD: tools/align_chunks.py =====
+import sys, os, csv, re, math, time
+from pathlib import Path
+
+try:
+    from rapidfuzz.fuzz import partial_ratio
+    HAVE_RF = True
+except Exception:
+    from difflib import SequenceMatcher
+    HAVE_RF = False
+
+def hhmmss(t):
+    t = max(0.0, float(t))
+    h = int(t//3600); m = int((t%3600)//60); s = int(round(t%60))
+    return f"{h:02d}:{m:02d}:{s:02d}"
+
+WORD_RE = re.compile(r"[A-Za-z0-9]+'?[A-Za-z0-9]+")
+def normalize_text(s):
+    toks = WORD_RE.findall((s or "").lower())
+    return " ".join(toks)
+
+def read_timeline(tsv_path):
+    if not tsv_path or not os.path.isfile(tsv_path): return None
+    words = []
+    with open(tsv_path, "r", encoding="utf-8") as f:
+        for line in f:
+            parts = line.rstrip("\n").split("\t")
+            if len(parts) != 3: continue
+            w, a, b = parts[0], float(parts[1]), float(parts[2])
+            words.append((w, a, b))
+    if not words: return None
+    text_pieces, idx_map = [], []
+    for i, (w, a, b) in enumerate(words):
+        if i>0:
+            text_pieces.append(" "); idx_map.append(-1)
+        text_pieces.append(w)
+        for _ in w: idx_map.append(i)
+    stream = "".join(text_pieces)
+    return {"words": words, "stream": stream, "idx_map": idx_map}
+
+def exact_match(stream, chunk_norm):
+    pos = stream.find(chunk_norm)
+    if pos < 0: return None
+    return pos, pos + len(chunk_norm)
+
+def char_span_to_word_span(idx_map, start_char, end_char):
+    n = len(idx_map)
+    start_char = max(0, min(n-1, start_char))
+    end_char = max(0, min(n-1, end_char-1))
+    i = start_char
+    while i < n and idx_map[i] == -1: i += 1
+    if i >= n: return 0, 1
+    j = end_char
+    while j >= 0 and idx_map[j] == -1: j -= 1
+    if j < 0: return 0, 1
+    return idx_map[i], idx_map[j] + 1
+
+def word_span_times(words, wi0, wi1):
+    wi0 = max(0, wi0); wi1 = min(len(words), wi1)
+    if wi0 >= wi1:
+        a = words[wi0][1]; b = words[wi0][2]

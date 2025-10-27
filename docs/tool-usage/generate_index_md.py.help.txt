@@ -1,0 +1,2 @@
+===== HELP: tools/generate_index_md.py =====
+Wrote /Users/howardrhee/Documents/chris-bache-archive/index.md

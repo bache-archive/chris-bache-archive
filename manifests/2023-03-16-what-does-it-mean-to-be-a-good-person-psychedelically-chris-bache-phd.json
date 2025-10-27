@@ -10,8 +10,20 @@
       "sha256": "fc18a1e4fac2c6d1fb536d1c291a3f1210a65208fe78b1adf9c795c46ca671ee"
     },
     {
+      "path": "sources/captions/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.html",
+      "sha256": "57ff83222cf1795c52210adbcfa3e5b1cc0c08d4a048ac34397c411aa9ab5465"
+    },
+    {
       "path": "sources/captions/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.md",
       "sha256": "4f3f7e81c93b989cac6a2f15c408c2374c8e91238faa510d4f9abcb439e84c2e"
+    },
+    {
+      "path": "sources/captions/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.vtt",
+      "sha256": "02a32ca4d27382c5be2336d08849887c1046c33d14802c177955a7a679b4b2c3"
+    },
+    {
+      "path": "sources/diarist/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.srt",
+      "sha256": "57698fb795f892e4c35f5a9a207446f651a5dacca7ba1d1f880b1fad728b2dbe"
     },
     {
       "path": "sources/diarist/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.html",
-      "sha256": "878e6f26072c59523e6e718bba7499c1dd69f863113f089dd6131bc5cfde44dd"
+      "sha256": "e0f85c786142fe4d2d29e032baddad4a0416a2b5e875dfc48c62b9f954b0e058"
     },
     {
       "path": "sources/transcripts/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.html",
-      "sha256": "cc4947fc9e4a9b1f9f75f24d82b4ab1689fb1e273e782c2ae79211a0509ee0a8"
+      "sha256": "b2bb1306afa9cbe46acfabb9479b18b21b3ece1e1074fbacca277ead98642eef"
     },
     {
       "path": "sources/transcripts/_archive/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.md",
       "sha256": "b30480a4c1ebef28e3d6d448081544d41475ebead7c3390d92fc06322a8294ca"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2023-03-16",
   "tools": [

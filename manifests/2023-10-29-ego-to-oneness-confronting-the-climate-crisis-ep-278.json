@@ -10,8 +10,20 @@
       "sha256": "5ee951769813184cfb9072e52f704d93cda25ea3ea60f3252c42cb9e47b1c131"
     },
     {
+      "path": "sources/captions/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.html",
+      "sha256": "156cbe482c8a2d21258e0e65bf876626d76cd338b1ae442259628b800e3741c8"
+    },
+    {
       "path": "sources/captions/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.md",
       "sha256": "18cc107d91359408b691cca7cd7662af5d199d8e5f1d9ec0b744e2312dbdefc2"
+    },
+    {
+      "path": "sources/captions/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.vtt",
+      "sha256": "37e7e420b6f9b3d2496c9d4c0f9571e37f0a8aad83c3dd556c65c0e95e864fd1"
+    },
+    {
+      "path": "sources/diarist/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.srt",
+      "sha256": "a438821bfe156f45a82355ae732d27a67109d25080035e0c0f26bb22354ec92c"
     },
     {
       "path": "sources/diarist/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.html",
-      "sha256": "1c3b6480d416d86c1ae14936e0a463b5ed8748009912efc08495a203a12d0f48"
+      "sha256": "f0b2ff2d779cdf5b549567cf3eb506b8b65818ecd81acf4c64d00acf95f5d15b"
     },
     {
       "path": "sources/transcripts/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.html",
-      "sha256": "a059a7f0d61e4a74add08fc2c7ea71a0d1e1391dfd26adc6b69289c9985cfc55"
+      "sha256": "6a50d4526a2e90189f6809184a95738535e132ae994a4e2b21b352ca470e4fa3"
     },
     {
       "path": "sources/transcripts/_archive/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.md",
       "sha256": "abd63ec128bf4fe82072f294f4ec9c7a45bf7205a3824d9801ab028099d8b3cc"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2023-10-29",
   "tools": [

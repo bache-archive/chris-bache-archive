@@ -10,8 +10,20 @@
       "sha256": "a6ffd1838bb591a2e88856ab0063ef6b3f2724939ff624086f4834035c933a7b"
     },
     {
+      "path": "sources/captions/2023-11-05-diamonds-from-heaven-the-mind-of-the-universe-chris-bache.html",
+      "sha256": "f8ebb878fa3bb54b443879ab75e08db8374b0a7e20fa6fc04f14685d0b806cd0"
+    },
+    {
       "path": "sources/captions/2023-11-05-diamonds-from-heaven-the-mind-of-the-universe-chris-bache.md",
       "sha256": "9df87580c1b427e3ff842fc28ea11842d95aaae48163985bdb175eaf99414a6f"
+    },
+    {
+      "path": "sources/captions/2023-11-05-diamonds-from-heaven-the-mind-of-the-universe-chris-bache.vtt",
+      "sha256": "8c6f13a747a2d7cf88e19c2d15192e2592aaaa2fb96a84817f72c804ad06a7d5"
+    },
+    {
+      "path": "sources/diarist/2023-11-05-diamonds-from-heaven-the-mind-of-the-universe-chris-bache.srt",
+      "sha256": "dc81902f89946b88484e8da6e443c865aed8d8b6d702c66baac80a692e258408"
     },
     {
       "path": "sources/diarist/2023-11-05-diamonds-from-heaven-the-mind-of-the-universe-chris-bache.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2023-11-05-diamonds-from-heaven-the-mind-of-the-universe-chris-bache.html",
-      "sha256": "5b60cb7dac0df94954bcf3d0748dfed5cd89ec4e33c115f6eafea74dc50edec6"
+      "sha256": "ea6d29cf44a8fb8c2bb078f18e9504c4cb8f592b26f0680a2e51c01baeee48a9"
     },
     {
       "path": "sources/transcripts/2023-11-05-diamonds-from-heaven-the-mind-of-the-universe-chris-bache.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2023-11-05-diamonds-from-heaven-the-mind-of-the-universe-chris-bache.html",
-      "sha256": "a55d72ddf11039d9a667e0fd81221f6e5e145eba0796787992f5bcefee5cad9a"
+      "sha256": "96c049d77dba2f4735d1bcce493118efc55ae92a1da00291bd9716462cbe61f5"
     },
     {
       "path": "sources/transcripts/_archive/2023-11-05-diamonds-from-heaven-the-mind-of-the-universe-chris-bache.md",
       "sha256": "d9a7a2ddc9379f6c78ce8ea6ba95d35b0a182d52f49b2e0732933b78fc6699ef"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2023-11-05",
   "tools": [

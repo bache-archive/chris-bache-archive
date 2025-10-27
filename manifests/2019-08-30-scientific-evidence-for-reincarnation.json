@@ -10,8 +10,20 @@
       "sha256": "3e1fed95212ec0498e49abc5a1ad3ba0f26e7532be592457e4ac316ff38235c1"
     },
     {
+      "path": "sources/captions/2019-08-30-scientific-evidence-for-reincarnation.html",
+      "sha256": "037e0b3ae85d2b38cf6cfbfb68b022813dfd8cb8474be712abf3c7905a124aee"
+    },
+    {
       "path": "sources/captions/2019-08-30-scientific-evidence-for-reincarnation.md",
       "sha256": "2d67d7966615a42dfce3fcb5cab12179adca0999c818e1588d462575a6085562"
+    },
+    {
+      "path": "sources/captions/2019-08-30-scientific-evidence-for-reincarnation.vtt",
+      "sha256": "23486e802f4243d97f21e584b27428938d4d8d0e0a8a2ca7ac3829f4856050f2"
+    },
+    {
+      "path": "sources/diarist/2019-08-30-scientific-evidence-for-reincarnation.srt",
+      "sha256": "30db8d2d9e38e7c321ad02386d11dc036f35ac3ae17a04dfea90ce0c40c5fc36"
     },
     {
       "path": "sources/diarist/2019-08-30-scientific-evidence-for-reincarnation.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2019-08-30-scientific-evidence-for-reincarnation.html",
-      "sha256": "e107e7c098badcdfec337b31460bdde1f2765dfffbdb651e796b21e199173e4b"
+      "sha256": "8944f57728e0d507bd0c1378b1045ebd6b6cb15b28468c2efac7dcd4c8bc33f9"
     },
     {
       "path": "sources/transcripts/2019-08-30-scientific-evidence-for-reincarnation.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2019-08-30-scientific-evidence-for-reincarnation.html",
-      "sha256": "fa7c0cea3dfb038fe550caf0baa2d7da9424f41ee1dca01f4d812aa6a4f01331"
+      "sha256": "801f5ff548792b74bbe6d4b9e80f4fafa93d5af74769a84157dea062c6ec67b7"
     },
     {
       "path": "sources/transcripts/_archive/2019-08-30-scientific-evidence-for-reincarnation.md",
       "sha256": "45d49549d6d2afb467357bb45042dd930312f79a4d3cd72d1d02a829fa72a595"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2019-08-30",
   "tools": [

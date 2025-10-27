@@ -1,0 +1,61 @@
+===== HEAD: tools/generate_index_md.py =====
+#!/usr/bin/env python3
+import json, pathlib, datetime, sys, re
+
+ROOT = pathlib.Path(__file__).resolve().parents[1]
+INDEX_JSON = ROOT / "index.json"
+INDEX_MD   = ROOT / "index.md"
+
+def blob_url(relpath: str) -> str:
+    relpath = (relpath or "").lstrip("./")
+    if relpath.startswith("sources/"):
+        return f"https://github.com/bache-archive/chris-bache-archive/blob/main/{relpath}"
+    return relpath
+
+def load_items():
+    with INDEX_JSON.open("r", encoding="utf-8") as f:
+        items = json.load(f)
+    def k(it):
+        d = (it.get("published") or "").strip()
+        try:
+            return datetime.date.fromisoformat(d)
+        except Exception:
+            return datetime.date.min
+    items.sort(key=k)  # oldest -> newest (chronological)
+    return items
+
+# ---- Markdown safety helpers --------------------------------------------
+
+def _collapse_ws(s: str) -> str:
+    # collapse all internal whitespace to single spaces, strip edges
+    return re.sub(r"\s+", " ", s or "").strip()
+
+def md_escape_cell_text(s: str) -> str:
+    """Escape characters that break markdown tables and links, and remove newlines."""
+    s = _collapse_ws(str(s))
+    # Escape pipes so they don't split columns
+    s = s.replace("|", r"\|")
+    # Escape brackets in link text to avoid closing prematurely
+    s = s.replace("[", r"\[").replace("]", r"\]")
+    return s
+
+def md_link(text: str, url: str) -> str:
+    if not url:
+        return md_escape_cell_text(text)
+    # text must be escaped for table safety; URL stays raw
+    t = md_escape_cell_text(text)
+    return f"[{t}]({url})"
+
+# ---- Render --------------------------------------------------------------
+
+def render_table(items):
+    lines = []
+    lines.append("# Chris Bache Archive — Index\n")
+    lines.append("> Readable transcripts with diarized speaker attributions. See the full project on GitHub and mirrors below.\n")
+    lines.append("")
+    lines.append("**How to use this page**: Click a title to open the curated transcript. Use “Diarist” for raw speaker-attributed text. “YouTube” opens the original host video when available.\n")
+    lines.append("")
+    lines.append("| Date | Title (Transcript) | Channel | Type | Diarist | YouTube |")
+    lines.append("|---|---|---|---|---|---|")
+
+    for it in items:

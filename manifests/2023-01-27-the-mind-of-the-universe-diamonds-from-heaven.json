@@ -10,8 +10,20 @@
       "sha256": "3444db38ab9c0225144a82af41735ce79179758ddbae258c3e48c4594fedf7a5"
     },
     {
+      "path": "sources/captions/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.html",
+      "sha256": "fc9520289f561f5f33538951b17a2abfde34ab6e9de90326975a8186117e7f47"
+    },
+    {
       "path": "sources/captions/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.md",
       "sha256": "eced5a8350bb12f185cf1b8d498d8d145e4e2b45cf3b52c4c8fcef02882559bf"
+    },
+    {
+      "path": "sources/captions/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.vtt",
+      "sha256": "646ad4f2bad47261fb8f6a252031b7c98fbba9acf8e68e551aded557b67b30bb"
+    },
+    {
+      "path": "sources/diarist/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.srt",
+      "sha256": "12ab9ee00091aa2baea16770841b779045758a73ce8aa22ebefaab1dafe4ade6"
     },
     {
       "path": "sources/diarist/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.html",
-      "sha256": "1ebbb85540b1debf24e1023686f8e984c3f76fa5224ee04efd1940e4cb82e2cd"
+      "sha256": "23e091fdb94891017bea93ac1dfd0e75969d5f5faaf38ea9e528e684680a177f"
     },
     {
       "path": "sources/transcripts/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.html",
-      "sha256": "b1af3d7306c4af6bb5e33709c20690b100acde5a69d9cdf5a8bd378bdd48f093"
+      "sha256": "c1f4c4c7ef808d093fff7a7ba0a10dea00de7625b0890462088a2d5e807b6e58"
     },
     {
       "path": "sources/transcripts/_archive/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.md",
       "sha256": "c5e722a6e5bc9639df9105170e5bd0eb8c16bfed87526919cd3be7801fa62a16"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2023-01-27",
   "tools": [

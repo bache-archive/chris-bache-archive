@@ -3,14 +3,14 @@
   "files": [
     {
       "path": "sources/transcripts/lsdmu/SESSIONS.html",
-      "sha256": "62843f6ee5943bbbe3d66240463d17e4cfbdeec65a1854c6f108bcd2a6625587"
+      "sha256": "75cee6cbf5e35de0dd0c32ae000e59ea37ffcc936d26b1315f742eb409754aa4"
     },
     {
       "path": "sources/transcripts/lsdmu/SESSIONS.md",
       "sha256": "aec1e091f3c1b54de65a97e48e62223bb2a2158374bb658e36c0ceefc470ff05"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "",
   "tools": [

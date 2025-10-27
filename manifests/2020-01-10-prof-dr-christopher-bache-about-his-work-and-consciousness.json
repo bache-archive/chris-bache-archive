@@ -10,8 +10,20 @@
       "sha256": "62d970b6ed8120ad68e575a3455b851a618e3bc851e8cdb9f84750f403802029"
     },
     {
+      "path": "sources/captions/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.html",
+      "sha256": "bef11a04cecf20327856844b3146e4f091a9a6dea3707810ddde254489bcf3f4"
+    },
+    {
       "path": "sources/captions/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.md",
       "sha256": "24364645003e669cb851f8fee97a3ec706e970204c83d2f0f58baf4d49f4a802"
+    },
+    {
+      "path": "sources/captions/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.vtt",
+      "sha256": "c3ed368f28047c09c2076e127da612b2c2590925263f44dc2942679b6ecca117"
+    },
+    {
+      "path": "sources/diarist/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.srt",
+      "sha256": "a6fcfcb15dfefe397359535192bd2002c78d7c637f99eeb48bbd9217469ba0e1"
     },
     {
       "path": "sources/diarist/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.html",
-      "sha256": "9b2be21750a8277a0d08a31dd65af3a8dadbb6d624525489ae8b76a7dca38b2b"
+      "sha256": "40883d8eaa74716c266bab301c8e0c4def2d5806225ff42a4c5c55d98931e07f"
     },
     {
       "path": "sources/transcripts/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.html",
-      "sha256": "558590709555022cb6d4ae7a58c3f6fff46100e6a41dc9ad85c20f977446703d"
+      "sha256": "a663922dbd3850816d85342d1a4992298971afa94c26cc3b6f8c5b511656fa8e"
     },
     {
       "path": "sources/transcripts/_archive/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.md",
       "sha256": "6caf8b5c4bcfa8a3e37beede7a3b8637ca1e82ec60cd2337f725b4197fdd7334"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2020-01-10",
   "tools": [

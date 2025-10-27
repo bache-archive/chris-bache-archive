@@ -1,0 +1,18 @@
+{
+  "id": "2025-03-18-psychedelics-and-the-cosmic-mind-human",
+  "files": [
+    {
+      "path": "sources/captions/2025-03-18-psychedelics-and-the-cosmic-mind-human.vtt",
+      "sha256": "f33dab3299d1c5d5b0786cd379c0bbc002b286987655e6dd099e7d8129bffff7"
+    }
+  ],
+  "captured_at": "2025-10-27",
+  "license": "CC0-1.0",
+  "recorded_date": "2025-03-18",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

@@ -1,0 +1,5 @@
+===== ARGPARSE FLAGS: tools/make_checksums.py =====
+172:    ap = argparse.ArgumentParser()
+173:    ap.add_argument("--version", required=True, help="Release tag, e.g. v3.3.5")
+174:    ap.add_argument("--verify", action="store_true", help="Verify after writing")
+175:    ap.add_argument("--no-downloads", action="store_true", help="Skip downloads/ manifest")

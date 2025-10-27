@@ -10,8 +10,20 @@
       "sha256": "dc6f67707ae2eb54b5b9f316540b3bea00cc3ef44bf72aca9dd477d305ddc954"
     },
     {
+      "path": "sources/captions/2023-10-10-experience-of-the-human-being-of-the-future-short.html",
+      "sha256": "819436cce3e56e950a9f0db251088ae697cfdd67fe5d31b219a4081d63b1584f"
+    },
+    {
       "path": "sources/captions/2023-10-10-experience-of-the-human-being-of-the-future-short.md",
       "sha256": "8aa2a7deba0405ad1413321576858543752629b76ec47e97c46023edb855854e"
+    },
+    {
+      "path": "sources/captions/2023-10-10-experience-of-the-human-being-of-the-future-short.vtt",
+      "sha256": "ec22527fcef0dd40659756d9da2a7724bcb619ef984776ee3137083a6d44a365"
+    },
+    {
+      "path": "sources/diarist/2023-10-10-experience-of-the-human-being-of-the-future-short.srt",
+      "sha256": "8d3d0e01c93ef309b0abbed2dc3f789f1ded8113d7fa76ffe1aefc79ed99bbda"
     },
     {
       "path": "sources/diarist/2023-10-10-experience-of-the-human-being-of-the-future-short.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2023-10-10-experience-of-the-human-being-of-the-future-short.html",
-      "sha256": "8c2ff01bc6dd258b657b1d2fa3a8735baaeb1abcc8320d47e68fd7f44e005378"
+      "sha256": "39e371bcd90723dee315ebc50cdc4bececdd78d0221d51a66d5cab2d0fb3d4b5"
     },
     {
       "path": "sources/transcripts/2023-10-10-experience-of-the-human-being-of-the-future-short.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2023-10-10-experience-of-the-human-being-of-the-future-short.html",
-      "sha256": "ea0f19b66efd6f9c43aac38fbda33c80a54b55c7052c129bbf55c046bb0e2691"
+      "sha256": "599dc1476edcfabf3af89f21a137db239d8ec37e269e8471f33d709bda52025e"
     },
     {
       "path": "sources/transcripts/_archive/2023-10-10-experience-of-the-human-being-of-the-future-short.md",
       "sha256": "5c4f7dac3b3a740d680e586f9bfe7f9a335cf4fff6bf65da2eac65162b6a9c9a"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2023-10-10",
   "tools": [

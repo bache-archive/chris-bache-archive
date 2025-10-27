@@ -10,8 +10,20 @@
       "sha256": "09aa8591564412bd6500074f96b36b6482affc6ff84b55fac09faf30fa6282d9"
     },
     {
+      "path": "sources/captions/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.html",
+      "sha256": "38ef1804de1fa2397d9ab660a7df3851eeafd80e3cf1aeb9621fc0993c32207b"
+    },
+    {
       "path": "sources/captions/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.md",
       "sha256": "f40a5e15f6a439a12cca02b3367caf8cd3df3cb0a498662a8c98c6485f8acbbc"
+    },
+    {
+      "path": "sources/captions/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.vtt",
+      "sha256": "11eb775a6c473e6f664ee1c6a7cc85f9b9255bb64a0b22e1e98dadf0f8b69311"
+    },
+    {
+      "path": "sources/diarist/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.srt",
+      "sha256": "f1ec526836931def8cecb8fff942baaaaa181efeaca75b6f92df30ad63ca97e7"
     },
     {
       "path": "sources/diarist/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.html",
-      "sha256": "27619d02215558462cc38d65b64a12ca741c76ed7daa465d0807032e53f2f4d5"
+      "sha256": "1b0b41ef028790f628e3d10343eda808af58b784b0643da58e62e5f994934507"
     },
     {
       "path": "sources/transcripts/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.html",
-      "sha256": "5ee299490347ff1ab0f8f351d8ddfee445d9abe15ea715d20282b917ba39eee6"
+      "sha256": "05b3d406a7a7aee7eefd03e46cecdbac53f5d3ca73cfd84939282c2738e02039"
     },
     {
       "path": "sources/transcripts/_archive/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.md",
       "sha256": "548d0a42f5e33a07392afb85ab9ce263fc9c5d56047f4975d6b3808d30f0aa43"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2021-05-03",
   "tools": [

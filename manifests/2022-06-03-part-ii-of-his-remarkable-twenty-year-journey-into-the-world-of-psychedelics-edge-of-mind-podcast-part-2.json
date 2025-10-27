@@ -10,8 +10,20 @@
       "sha256": "e855c17583fb9402698fa6491ed6848abb1a4674d3ae9753d4ada1e60a97a7d2"
     },
     {
+      "path": "sources/captions/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.html",
+      "sha256": "46bc665eca7f8c17b1154f1c5d3c7d23f34e584d50be1b54a96d918ce48a5101"
+    },
+    {
       "path": "sources/captions/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.md",
       "sha256": "2425faa676fe3180233032d601c287ebd488f1923bcf70b8da10239a76d5839f"
+    },
+    {
+      "path": "sources/captions/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.vtt",
+      "sha256": "118749dc178c2c05c16e09eb461231027490465b25be5e02be966e281cce57b7"
+    },
+    {
+      "path": "sources/diarist/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.srt",
+      "sha256": "68953c37515ec8241ca6bc3a21943e9162e05b91fda5ef864879f7bc2c837fa5"
     },
     {
       "path": "sources/diarist/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.html",
-      "sha256": "a85f1e9d9c31167c3ff1f23085345aac67d79ba457d7590edba90bfdabf15ac8"
+      "sha256": "7b41d52be6e7923ad6c444135c0a04227cd326fbc0d78c0096fbcca13c858f47"
     },
     {
       "path": "sources/transcripts/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.html",
-      "sha256": "bbc1c743c0cb54506c56b4798f7ccd4f655f0850b2a46fa0cfda4778607bc9b2"
+      "sha256": "ea42559c9d2ee09e5334115404c24619f72ca152057572065b90167508898607"
     },
     {
       "path": "sources/transcripts/_archive/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.md",
       "sha256": "e5dd55e58e938ee99a1df3ba5624c192ca837348db2ee731a6473184e8eb0043"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2022-06-03",
   "tools": [

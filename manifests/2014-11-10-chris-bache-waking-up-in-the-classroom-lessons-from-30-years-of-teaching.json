@@ -10,8 +10,20 @@
       "sha256": "9c87ac5f2b7a9e8a5736b3c209bffde73571750bda4dc18f87aa30426ec87a85"
     },
     {
+      "path": "sources/captions/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.html",
+      "sha256": "902c3d5433c69c34f8acd2e7fb2b0ade7af5964a4c1a16403b7cd8a139eed470"
+    },
+    {
       "path": "sources/captions/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.md",
       "sha256": "8ed413aaadfdc4830ee9e8f4a1a20a8e0c54519a5acce57a5bb08210f63831e4"
+    },
+    {
+      "path": "sources/captions/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.vtt",
+      "sha256": "6417aeac8ee73a0748ba6e286b70b424d95a700b2f5f74cc238bb13c0a8e5340"
+    },
+    {
+      "path": "sources/diarist/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.srt",
+      "sha256": "50e3790dd41fe88c84d18267606cb1c4cd5ee1a887c2ec0a9cda8a815904cde7"
     },
     {
       "path": "sources/diarist/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.html",
-      "sha256": "d762a591b405dce1350cbb8a448f4495a9e649583cb97a75eb9d8f4660574c55"
+      "sha256": "f5e3db6c8eed6623c53d1c319712bdd682becb241576457914203b2d38e378cc"
     },
     {
       "path": "sources/transcripts/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.html",
-      "sha256": "7dcc7eedad5b84909d5a495d6d7934ac6c3ded5872a39f9cfeb9237b5c4d6ea3"
+      "sha256": "4c6e4d726ba6d7801efa8ae6b4e6590fe7ff25375ae6eaa32a087d80f8a24e6f"
     },
     {
       "path": "sources/transcripts/_archive/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.md",
       "sha256": "32d64f8a84de384089b300eb64b89cc9122b99804d2c6268305b8df1bbfccca3"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2014-11-10",
   "tools": [

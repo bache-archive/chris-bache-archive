@@ -1,0 +1,1 @@
+===== ARGPARSE FLAGS: tools/convert_durations_to_alignment.py =====

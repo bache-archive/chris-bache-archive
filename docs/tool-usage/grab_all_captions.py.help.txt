@@ -1,0 +1,10 @@
+===== HELP: tools/grab_all_captions.py =====
+usage: grab_all_captions.py [-h] [--index INDEX] [--force] [--only [ONLY ...]]
+
+Download timestamped captions (VTT) for items in index.json
+
+options:
+  -h, --help         show this help message and exit
+  --index INDEX
+  --force            Overwrite existing .vtt if present
+  --only [ONLY ...]  Restrict to these talk_ids or youtube_ids

@@ -1,0 +1,15 @@
+===== HELP: tools/build_site.py =====
+usage: build_site.py [-h] [--site-base SITE_BASE] [--stylesheet STYLESHEET]
+                     [--qid QID] [--skip-sources]
+
+options:
+  -h, --help            show this help message and exit
+  --site-base SITE_BASE
+                        Base path for GitHub Pages (used in stylesheet link
+                        and canonicals)
+  --stylesheet STYLESHEET
+                        Path to CSS within repo
+  --qid QID             Build only this educational topic
+                        (docs/educational/<qid>)
+  --skip-sources        Skip converting sources/transcripts and
+                        sources/captions

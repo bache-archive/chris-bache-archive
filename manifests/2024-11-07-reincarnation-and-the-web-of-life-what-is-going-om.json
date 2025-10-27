@@ -10,8 +10,20 @@
       "sha256": "37050a878625d0d923fbc561b66818c00e9dd7b0bf5a90a606aa53a0215f3641"
     },
     {
+      "path": "sources/captions/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.html",
+      "sha256": "bc267b6bc944e18f4c674c5f14c346ce99f8afe34752fee8f330560105d2f224"
+    },
+    {
       "path": "sources/captions/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.md",
       "sha256": "f21b8d3450dafbc53a52fb087601cde002f77a3b971d7bbdafa6c0ed43bb7ff9"
+    },
+    {
+      "path": "sources/captions/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.vtt",
+      "sha256": "3064501daf45f62c05b3dfc08bac1db180dc1e2e14b6325244aacf8e5115c6f1"
+    },
+    {
+      "path": "sources/diarist/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.srt",
+      "sha256": "5f97687fe8724dccf8163168a7614ebc448bb63ec843dd79f3217579297b548d"
     },
     {
       "path": "sources/diarist/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.html",
-      "sha256": "adf63bd61f534c63eb2cd03deb6327df26df1826551e0abb97b46585fdfee9d6"
+      "sha256": "bde6b489d1ee9f2441c9d42e82439c36e84387e7ae9176983963dfa8cfd21e49"
     },
     {
       "path": "sources/transcripts/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.html",
-      "sha256": "418778c80aa499afa48bc1394942edf186c20c351ef3b24a917c800ed8db21cb"
+      "sha256": "b24cf418d2bc13ca79873d5dc2e7867e97d73abfe63c1e98b7e353ab8187e1ed"
     },
     {
       "path": "sources/transcripts/_archive/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.md",
       "sha256": "029ce0ef4fcc6dfee8342db008307d04aad04b8f045b045f8c6a834d0ad1a7c6"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2024-11-07",
   "tools": [

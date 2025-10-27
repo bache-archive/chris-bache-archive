@@ -10,8 +10,20 @@
       "sha256": "00545ea6438abc946f40931ffa9b46850915d4f782a8711a3ca5eb74d5bd031f"
     },
     {
+      "path": "sources/captions/2022-04-26-when-we-die-ions-living-classroom-excerpt.html",
+      "sha256": "640d880c389c53d8056c00d55a0c954b02510b2c6ad5b2755a27e570ce6f98a3"
+    },
+    {
       "path": "sources/captions/2022-04-26-when-we-die-ions-living-classroom-excerpt.md",
       "sha256": "e1e7e7745b2dec478313521a099bc9ef5ba7808dca72c7c2ed0418af93e76c54"
+    },
+    {
+      "path": "sources/captions/2022-04-26-when-we-die-ions-living-classroom-excerpt.vtt",
+      "sha256": "acd0de3c9512f6e35d314aa5c48e72b30c1dc1df332d233120c9ebc23626c5d2"
+    },
+    {
+      "path": "sources/diarist/2022-04-26-when-we-die-ions-living-classroom-excerpt.srt",
+      "sha256": "e3160ba04c2717d884db41199aa5c526956d52ff2dd6d13a7cf7e4199de0efa4"
     },
     {
       "path": "sources/diarist/2022-04-26-when-we-die-ions-living-classroom-excerpt.txt",
@@ -19,14 +31,14 @@
     },
     {
       "path": "sources/transcripts/2022-04-26-when-we-die-ions-living-classroom-excerpt.html",
-      "sha256": "06a4fb98e9890efb3aa48db06fd27794759c0f756f830c304e479cc23be32fb8"
+      "sha256": "54160a9534e452a581ff37e828796c10ac3e5a5c00d7c2cc9be7ea2a688f2b23"
     },
     {
       "path": "sources/transcripts/2022-04-26-when-we-die-ions-living-classroom-excerpt.md",
       "sha256": "1d9f1ff800be8d245b94cf0f552c3604ef5b0c9d9202ced5f0748c055909c0df"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2022-04-26",
   "tools": [

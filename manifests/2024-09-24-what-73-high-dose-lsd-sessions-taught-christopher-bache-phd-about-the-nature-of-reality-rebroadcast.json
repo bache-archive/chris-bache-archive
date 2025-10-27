@@ -10,8 +10,20 @@
       "sha256": "567c760dee56b870e84baa47c4f9ab79c3652316054fddb8859ca2d994cd719c"
     },
     {
+      "path": "sources/captions/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.html",
+      "sha256": "84e73adef89d8f0511a280d75cbd7b2871f686c595174f5e35f3a6bb747b3e4c"
+    },
+    {
       "path": "sources/captions/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.md",
       "sha256": "965b6e5643158b569dc47c5a9243c0d643f9685445dc3c6d9485476d34578d1b"
+    },
+    {
+      "path": "sources/captions/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.vtt",
+      "sha256": "8280b1745f59fbf0879de67be0fb3d521851f38f7667862134ea804678e11956"
+    },
+    {
+      "path": "sources/diarist/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.srt",
+      "sha256": "06ee69ebd07a5373a235a419b3ed4eb7c4bc5270419d3eb444871b3f2b6d6ad4"
     },
     {
       "path": "sources/diarist/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.html",
-      "sha256": "233158c9f7e948acc2884da5bff67e812014e235ff35bb753b3e6bfbf2b1167b"
+      "sha256": "c23619e6dd15cf2bc248a38ad016c5b1a03678e2141833123222c524b4c991e9"
     },
     {
       "path": "sources/transcripts/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.html",
-      "sha256": "2d10e589c8d1a75be8b7ec6c3a425b6d18f9fe61c49e08862f9300727e0cacd6"
+      "sha256": "45626d15f86263dc29f85874cadf9d5b503023c094441fdff02bb0ce7490a83f"
     },
     {
       "path": "sources/transcripts/_archive/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.md",
       "sha256": "891e9180b40ff6ad2d30f54e9c900e4de71f23480ef9a678c2ae9e5b429af503"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2024-09-24",
   "tools": [

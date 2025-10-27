@@ -1,0 +1,8 @@
+===== ARGPARSE FLAGS: tools/rebuild_transcripts_v2.py =====
+254:    ap = argparse.ArgumentParser()
+255:    ap.add_argument("--root", default=".", help="Repo root (default: current directory)")
+256:    ap.add_argument("--only", action="append", default=[], help="Limit to one or more basenames (no extension). Can be provided multiple times.")
+257:    ap.add_argument("--normalize-labels", action="store_true", help="Normalize common labels (Interviewer, Audience, Unknown, Chris Bache, etc.)")
+258:    ap.add_argument("--sync-speakers-yaml", action="store_true", help="Populate speakers: in YAML from body labels.")
+259:    ap.add_argument("--verbose", action="store_true", help="Verbose logging")
+260:    ap.add_argument("--out-dir", default="build/sources/transcripts", help="Output directory for markdown transcripts.")

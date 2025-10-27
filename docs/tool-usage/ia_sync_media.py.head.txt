@@ -1,0 +1,61 @@
+===== HEAD: tools/ia_sync_media.py =====
+#!/usr/bin/env python3
+import argparse
+import os
+import sys
+import internetarchive
+
+AUDIO_ID = "chris-bache-archive-audio"
+VIDEO_ID = "chris-bache-archive-video"
+
+AUDIO_META = {
+    "title": "Chris Bache Archive — Audio (2014–2025)",
+    "creator": "Christopher M. Bache",
+    "description": ("Complete MP3 audio recordings preserved for the Chris Bache Archive. "
+                    "Transcripts and metadata are maintained in versioned releases at GitHub and Zenodo."),
+    "subject": "psychedelics; consciousness; LSD; reincarnation; philosophy; archive",
+    "licenseurl": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "collection": "opensource_audio",
+    "mediatype": "audio",
+}
+VIDEO_META = {
+    "title": "Chris Bache Archive — Video (2014–2025)",
+    "creator": "Christopher M. Bache",
+    "description": ("Complete MP4 video recordings preserved for the Chris Bache Archive. "
+                    "Transcripts and metadata are maintained in versioned releases at GitHub and Zenodo."),
+    "subject": "psychedelics; consciousness; LSD; reincarnation; philosophy; archive",
+    "licenseurl": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "collection": "opensource_movies",
+    "mediatype": "movies",
+}
+
+def get_args():
+    p = argparse.ArgumentParser(description="Sync local media to Internet Archive (resume-safe, with retries).")
+    p.add_argument("--mode", choices=["audio", "video"], required=True,
+                   help="Which media set to upload (controls identifier, mediatype, and collection).")
+    p.add_argument("--dir", required=True, help="Local directory containing the media files.")
+    p.add_argument("--derive", action="store_true",
+                   help="After upload, trigger derivation to build web players.")
+    p.add_argument("--retries", type=int, default=20, help="Retry attempts for failed parts/requests.")
+    return p.parse_args()
+
+def choose_ext_and_meta(mode):
+    if mode == "audio":
+        return (".mp3", AUDIO_ID, AUDIO_META)
+    else:
+        return (".mp4", VIDEO_ID, VIDEO_META)
+
+def list_remote_filenames(identifier, ext):
+    item = internetarchive.get_item(identifier)
+    remote = set()
+    try:
+        for f in item.files or []:
+            name = f.get("name") or ""
+            if name.lower().endswith(ext):
+                remote.add(os.path.basename(name))
+    except Exception:
+        remote = set()
+    return remote
+
+def list_local_filenames(folder, ext):
+    return set(f for f in os.listdir(folder)

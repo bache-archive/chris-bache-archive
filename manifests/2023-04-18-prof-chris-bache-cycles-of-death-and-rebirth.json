@@ -10,8 +10,20 @@
       "sha256": "078577f0c936eba7e6cebfeeca41af3c0c66362c4ede1e9a09053c2f12dac149"
     },
     {
+      "path": "sources/captions/2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth.html",
+      "sha256": "99262fa9ed4c1ef5f2d8c7074cfe7612cb91fa3676f775073d8f8462e08c2a99"
+    },
+    {
       "path": "sources/captions/2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth.md",
       "sha256": "53fcfe208c525e551b173e75c90d48d8b3e018d5faec4ad9267f61ce1ce746c5"
+    },
+    {
+      "path": "sources/captions/2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth.vtt",
+      "sha256": "84554a30b3f64dd4a59006a344eebf421d8888161ecf67d9cb33e0319659c376"
+    },
+    {
+      "path": "sources/diarist/2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth.srt",
+      "sha256": "71e911c586f858ff0603169cc7a668da6a33c29599b9a2f3d006cd7bbccab761"
     },
     {
       "path": "sources/diarist/2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth.html",
-      "sha256": "6e2bf58314b5c0cbbd21c92ec4d767f4272f6505adcd62c8393165e0286d07b6"
+      "sha256": "954819b6951093a3815d3566534e63c7a8fbb08e109e1ba9977f8033d458740c"
     },
     {
       "path": "sources/transcripts/2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth.html",
-      "sha256": "0714703028e7ad72b321f09dc81709a61b89ea4c28c649d5c77f50bdd6e458aa"
+      "sha256": "5b33a918123c2a48a08d84e0884b2f4e79c3035587358964a5bc449b777480e8"
     },
     {
       "path": "sources/transcripts/_archive/2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth.md",
       "sha256": "36c2c98686dc07a94f93013f3ae69789c64e73cc5f3a0b7eb4bbb4668b401dae"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2023-04-18",
   "tools": [

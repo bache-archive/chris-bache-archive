@@ -1,0 +1,2 @@
+===== HELP: tools/convert_durations_to_alignment.py =====
+Wrote alignments/lsdmu/audiobook-2019.json with 76 entries. Total runtime: 15:00:33

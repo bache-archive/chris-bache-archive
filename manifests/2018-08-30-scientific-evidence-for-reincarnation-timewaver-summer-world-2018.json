@@ -10,8 +10,20 @@
       "sha256": "4adf3377268e6f6a026a141c4643b4394a708c6f9d8a245c12a1a4f201be346d"
     },
     {
+      "path": "sources/captions/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.html",
+      "sha256": "0e9918430001456d3bb917632172b176ff3e6bda7c31baae2dc208aff2da33a7"
+    },
+    {
       "path": "sources/captions/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.md",
       "sha256": "cf9c9a33c7cb1de5f22e6185a61fa77083f39a6b4255f733763b5d41cfab3c08"
+    },
+    {
+      "path": "sources/captions/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.vtt",
+      "sha256": "cddd1bafb07d163e3d23230511490825ae2c93bc57884fd8aea7ff0911067a43"
+    },
+    {
+      "path": "sources/diarist/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.srt",
+      "sha256": "59d8dc63329c2de8c6080eac6b2ee18979c0ff5597c1dd0ac2e2edf4a9532b89"
     },
     {
       "path": "sources/diarist/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.html",
-      "sha256": "7bd6056169844533ec89b9dbb687adc1eb253b6d9e76dc4e79d56a1ab6c0b634"
+      "sha256": "c5356be476d4411af74d933572fb49a094216b65055c686a9e0f52f5d5781a1e"
     },
     {
       "path": "sources/transcripts/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.html",
-      "sha256": "218db0fe4fa2387996dfb4d034a8d0fd646c674406aa80f20e878ed2d46ba2bb"
+      "sha256": "07ae1d5606c6b9aff3af95c26bbdeb8e7c43d8ffd9bca6188110d70339f93844"
     },
     {
       "path": "sources/transcripts/_archive/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.md",
       "sha256": "7aad241f269a995d6867784a37a1b3d8b6abe0cbe6f1544068a130c55fa1e28c"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2018-08-30",
   "tools": [

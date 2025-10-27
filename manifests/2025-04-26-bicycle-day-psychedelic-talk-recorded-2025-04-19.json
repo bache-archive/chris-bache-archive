@@ -10,8 +10,20 @@
       "sha256": "7e194072f04f2b3fa80fa5f3ea3f25534782f1c188845e3cf0592216a22790b5"
     },
     {
+      "path": "sources/captions/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.html",
+      "sha256": "5a815268f647b7f561c7b99f472f1d8f6f8d2f82864302eb8f07d3498f7e9578"
+    },
+    {
       "path": "sources/captions/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.md",
       "sha256": "a445f0542daee1834a2759d11c76d7f9dedb9d951286b11f3948eb2326f5e98d"
+    },
+    {
+      "path": "sources/captions/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.vtt",
+      "sha256": "05ad34b5ec2cd5b512ff2c1b50a4e231af997aa4ddc4239ba89f4aea76c3bd25"
+    },
+    {
+      "path": "sources/diarist/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.srt",
+      "sha256": "ff0df0b3e95a29ac87bfcce9a722e22d573cba6af18cd987c72552aab0cde467"
     },
     {
       "path": "sources/diarist/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.html",
-      "sha256": "d80a4f8113a648aca21688c091d7b563b5c9b8463c66f622804b710d7f400dac"
+      "sha256": "9eb41a111b847ef46cee341b1e4767f21db10b36a4fa9cfccec4ed3fecb7619b"
     },
     {
       "path": "sources/transcripts/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.html",
-      "sha256": "1758bb67a4097be7e96a3adc6f5171e7411dcf213d3c6dfd8f296e7342139cff"
+      "sha256": "7e8fd17d284dd7abd0072247ddc9a950ccbc5420dff9935ae308e0f9dc97beca"
     },
     {
       "path": "sources/transcripts/_archive/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.md",
       "sha256": "0e60ee7eff08baf3f8be9e06dca53ba1f0c2baddef09831df56d4ee8dc29082e"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2025-04-26",
   "tools": [

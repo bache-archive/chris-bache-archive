@@ -1,0 +1,61 @@
+===== HEAD: tools/migrate_index.py =====
+#!/usr/bin/env python3
+import json, re, sys, pathlib
+from urllib.parse import urlparse
+
+ROOT = pathlib.Path(".").resolve()
+
+def stem_from_sources_md(path_str: str) -> str:
+    # "sources/2023-01-05-exploring-....md" -> "2023-01-05-exploring-..."
+    return pathlib.Path(path_str).stem
+
+def to_transcript_path(stem: str) -> str:
+    return f"sources/transcripts/{stem}.md"
+
+def to_diarist_path(stem: str) -> str:
+    return f"sources/diarist/{stem}.txt"
+
+def guess_source_type(channel: str, title: str) -> str:
+    c = (channel or "").lower()
+    t = (title or "").lower()
+    # crude but useful heuristics
+    if any(k in c for k in ["podcast", "interview", "conversation"]) or any(k in t for k in ["interview", "conversation", "podcast", "q&a", "qanda", "q&a"]):
+        return "interview"
+    if any(k in t for k in ["panel"]):
+        return "panel"
+    if any(k in t for k in ["excerpt", "short", "clip"]):
+        return "excerpt"
+    return "lecture"
+
+def update_blob_urls(entry, stem: str):
+    # Rewrite blob/raw to point at transcripts subfolder if they exist in the entry
+    for k in ["blob_url", "raw_url"]:
+        v = entry.get(k)
+        if not v:
+            continue
+        # swap "/sources/<stem>.md" -> "/sources/transcripts/<stem>.md"
+        entry[k] = re.sub(r"/sources/([^/]+\.md)$", fr"/sources/transcripts/{stem}.md", v)
+
+def main():
+    if sys.stdin.isatty():
+        print("Usage: python tools/migrate_index.py < old_index.json > new_index.json", file=sys.stderr)
+        sys.exit(1)
+
+    old = json.load(sys.stdin)
+    if isinstance(old, dict) and "items" in old:
+        items = old["items"]
+    else:
+        items = old
+
+    out = []
+    for it in items:
+        # Your current files live at "file": "sources/<stem>.md"
+        file_path = it.get("file", "")
+        stem = stem_from_sources_md(file_path) if file_path else None
+        if not stem:
+            # skip entries lacking 'file'
+            continue
+
+        archival_title = it.get("archival_title","")
+        channel = it.get("channel","")
+        published = it.get("published","")   # reuse as recorded_date for now

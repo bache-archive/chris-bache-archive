@@ -3,14 +3,14 @@
   "files": [
     {
       "path": "sources/transcripts/extras/2022-04-26-when-we-die-short.html",
-      "sha256": "39590a2e59c29dacbe09ec3a1fac192d750115ca07b9d9d9385a39eef0e367ea"
+      "sha256": "153745e162e500806c256bd480439b62bcb8f9976ba40f684a7e53e551baaebe"
     },
     {
       "path": "sources/transcripts/extras/2022-04-26-when-we-die-short.md",
       "sha256": "ef244cd3e405d077c3d70199e2b4d2904256a87e9a98d221afafb3195e181dc1"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2022-04-26",
   "tools": [

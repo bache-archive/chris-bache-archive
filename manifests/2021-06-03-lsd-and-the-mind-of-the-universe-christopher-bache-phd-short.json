@@ -3,14 +3,14 @@
   "files": [
     {
       "path": "sources/transcripts/extras/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-phd-short.html",
-      "sha256": "186238794d8f49d9358a04a55ae130f1ad1d426ea689147c5ec26082c5f273ba"
+      "sha256": "fa55bfa518bcdb47b07957864f454d7c4359f0c58affeceed8e4eef4eb2b38d6"
     },
     {
       "path": "sources/transcripts/extras/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-phd-short.md",
       "sha256": "337577b5be3ab819e17e618fd1ccfcb535ec4d49d6ac2bc1fe47131c81090b18"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2021-06-03",
   "tools": [

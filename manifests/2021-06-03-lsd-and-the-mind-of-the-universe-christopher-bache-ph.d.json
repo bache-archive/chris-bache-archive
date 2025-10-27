@@ -10,8 +10,20 @@
       "sha256": "e15aa7b7d4163b65e65e50fdd4b99c4014e5ffaf2aa8929b12fef01743647876"
     },
     {
+      "path": "sources/captions/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.html",
+      "sha256": "37e7cac2b53039f8d7d6ffac8714bafa72259d5f67d300058ac9d2b37322bb60"
+    },
+    {
       "path": "sources/captions/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.md",
       "sha256": "8b029d946e60122b3e06c1117a18d97f913913b932bc5a54f40dfcffdcf7e559"
+    },
+    {
+      "path": "sources/captions/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.vtt",
+      "sha256": "4c3b68df21a517eb52b7e7bc2d363bdc9af09af9e2229ead8afbbcdf4c8af2a6"
+    },
+    {
+      "path": "sources/diarist/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.srt",
+      "sha256": "2bd36d9986eba1f7e1d456121e90f1cfac80a7d3f38877d0dc9516fa185e8873"
     },
     {
       "path": "sources/diarist/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.html",
-      "sha256": "5ef97506ca16cf35f3bb7a4da78c3ffca3d3c9296b644533f3429c1f073fb1ea"
+      "sha256": "6d0edee4ac1e3cadb0e216f267a1a09f936e4df0dd17d51b0e91f23b4827d0bf"
     },
     {
       "path": "sources/transcripts/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.html",
-      "sha256": "186238794d8f49d9358a04a55ae130f1ad1d426ea689147c5ec26082c5f273ba"
+      "sha256": "421722ba767817d3cb29cea47ceebf9d6ac1c6f02f03881edfbab8159a476afe"
     },
     {
       "path": "sources/transcripts/_archive/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.md",
       "sha256": "337577b5be3ab819e17e618fd1ccfcb535ec4d49d6ac2bc1fe47131c81090b18"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2021-06-03",
   "tools": [

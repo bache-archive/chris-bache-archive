@@ -10,8 +10,20 @@
       "sha256": "5da6f1508586434b8193279bb564278571c52ee1dcb420e9689edb282d055e78"
     },
     {
+      "path": "sources/captions/2020-04-19-bicycle-day-conversation-with-jef-baker.html",
+      "sha256": "88dcbe29580beda8a1997667648c64b02c79704da9cd6aadf355f235c41abb4b"
+    },
+    {
       "path": "sources/captions/2020-04-19-bicycle-day-conversation-with-jef-baker.md",
       "sha256": "55cd1f88ea77f3f7c4904daded49c14b3a53f18bcd6dabc34123635dc5dc13a3"
+    },
+    {
+      "path": "sources/captions/2020-04-19-bicycle-day-conversation-with-jef-baker.vtt",
+      "sha256": "0f9bce60fd746cb5a80babd15d3f56dbd5e0e4422f88e19e54e82d1770d69970"
+    },
+    {
+      "path": "sources/diarist/2020-04-19-bicycle-day-conversation-with-jef-baker.srt",
+      "sha256": "5ebdae2da9e13336391d453e6e20f9dce5f5565d25433c147528007494897d23"
     },
     {
       "path": "sources/diarist/2020-04-19-bicycle-day-conversation-with-jef-baker.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2020-04-19-bicycle-day-conversation-with-jef-baker.html",
-      "sha256": "8454e6cf1e85cb4578c50d96f620b625107916909a4f0920dafa54249ec0c7ad"
+      "sha256": "bbb8c6208faf12d615304d740a5734e015aabc1af27ffbfe936fc5cb810493c0"
     },
     {
       "path": "sources/transcripts/2020-04-19-bicycle-day-conversation-with-jef-baker.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2020-04-19-bicycle-day-conversation-with-jef-baker.html",
-      "sha256": "303f65b2c05e9ea4b97b1f85b8e4ba13fce41e319213fbc98d9e9a4d503bb31f"
+      "sha256": "1537712cbedbb05c685e0049d1e6e8e0d6d9a144d7fabeca054cb2c5733854fa"
     },
     {
       "path": "sources/transcripts/_archive/2020-04-19-bicycle-day-conversation-with-jef-baker.md",
       "sha256": "fa5bb28b51eb36d7fa103363b35cf7a970cd6d84fa4d08071a63e18c6fd27312"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2020-04-19",
   "tools": [

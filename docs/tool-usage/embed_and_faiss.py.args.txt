@@ -1,0 +1,10 @@
+===== ARGPARSE FLAGS: tools/embed_and_faiss.py =====
+267:    ap = argparse.ArgumentParser(description="Embed chunks and build Parquet + FAISS.")
+268:    ap.add_argument("--chunks", default="build/chunks/bache-talks.chunks.jsonl", help="Input JSONL of chunks")
+269:    ap.add_argument("--parquet", default="vectors/bache-talks.embeddings.parquet", help="Output Parquet path")
+270:    ap.add_argument("--faiss", default="vectors/bache-talks.index.faiss", help="Output FAISS index path")
+271:    ap.add_argument("--report", default="reports/embedding_qc.json", help="Output QC report JSON")
+272:    ap.add_argument("--model", default="text-embedding-3-large", help="Embedding model")
+273:    ap.add_argument("--batch", type=int, default=256, help="Embedding batch size")
+274:    ap.add_argument("--citation_labels", default="rag/citation_labels.json", help="Path to citation_labels.json")
+275:    ap.add_argument("--index", default="index.json", help="Path to index.json (for URL backfill)")

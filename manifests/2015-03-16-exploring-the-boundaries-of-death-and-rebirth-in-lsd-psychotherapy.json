@@ -10,8 +10,20 @@
       "sha256": "dbb90b3703e904938001f7fceb1c5748b719012fd88077a4bccf19183d3df416"
     },
     {
+      "path": "sources/captions/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.html",
+      "sha256": "5044055d357558c9e8da55a82e09a47f90fe5e101fd054ca69d2429af7be934b"
+    },
+    {
       "path": "sources/captions/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.md",
       "sha256": "73eb839307521e58df64092e56e867650fc9c384e5d97359ffbe78bf5048442d"
+    },
+    {
+      "path": "sources/captions/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.vtt",
+      "sha256": "0ff979e2b3c91ffdf5c1a5e9281457d3b02537073a9cd0ba2ddcc584eb3e1cb5"
+    },
+    {
+      "path": "sources/diarist/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.srt",
+      "sha256": "635992a498f095678ae922f7f8448f86b11312bf87494778b9f5b2f59dc54029"
     },
     {
       "path": "sources/diarist/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.html",
-      "sha256": "e3a397368c72b7ee2e73dc11579ef7e8eb831bc6abf06f4637f08e2dfc710b38"
+      "sha256": "4d68a03e2d34a5fc3ea896e9c97fde38fc1201fdec3abba2b1bdbc9c9bda6e2a"
     },
     {
       "path": "sources/transcripts/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.html",
-      "sha256": "521848016c640ec4a99b6d15eac3104e90928ce56b5a8e03cc2e2fe7814c3d96"
+      "sha256": "a1c552b1254e97962890dda1aff84ea4e01582e72f9c36a8486e90d6593bd434"
     },
     {
       "path": "sources/transcripts/_archive/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.md",
       "sha256": "d5b76a819e4ee07c7e29b17d63a07ff1dd80ac6d1deff011a895711afd4d5f79"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2015-03-16",
   "tools": [

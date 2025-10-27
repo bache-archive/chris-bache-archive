@@ -1,0 +1,18 @@
+{
+  "id": "captions-_captions_manifest",
+  "files": [
+    {
+      "path": "sources/captions/_captions_manifest.csv",
+      "sha256": "75924b3c6c7c2ef798f41f45978365bbb61d72ea08ffc7b0fc57f86b61f1b0cf"
+    }
+  ],
+  "captured_at": "2025-10-27",
+  "license": "CC0-1.0",
+  "recorded_date": "",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

@@ -10,8 +10,20 @@
       "sha256": "bfc5e956af43c37996e4b032ca04db3ba3fa3f7dc72c734ce1a0bef98db1fb5d"
     },
     {
+      "path": "sources/captions/2024-11-16-the-evidence-for-reincarnation.html",
+      "sha256": "c06712ec4880986ebdd4c12a8a0c63f71d2e5c74d3255eb468db09d95b5401ec"
+    },
+    {
       "path": "sources/captions/2024-11-16-the-evidence-for-reincarnation.md",
       "sha256": "6377edf5dd6aa2accc7782827106e7e2db3768b87b455756f1e3c560aecd4123"
+    },
+    {
+      "path": "sources/captions/2024-11-16-the-evidence-for-reincarnation.vtt",
+      "sha256": "a61da0be5c1baf41d04daf1c628ad498c311769974d0c3b319f18fa93c314b82"
+    },
+    {
+      "path": "sources/diarist/2024-11-16-the-evidence-for-reincarnation.srt",
+      "sha256": "135b425a7bdfebdd47cb8f58a950c11d9132a27902eb0cb6992537b06395f0b6"
     },
     {
       "path": "sources/diarist/2024-11-16-the-evidence-for-reincarnation.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2024-11-16-the-evidence-for-reincarnation.html",
-      "sha256": "2657b8b2b243b41b1a46f8f13f36ac323eb34bde8dec056738548c4c1b7d4746"
+      "sha256": "e7a91a2f1489a19b260ab5a2f907cef41605e74bf64c8f14df96039a705c6f1d"
     },
     {
       "path": "sources/transcripts/2024-11-16-the-evidence-for-reincarnation.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2024-11-16-the-evidence-for-reincarnation.html",
-      "sha256": "f86ab674f76093d492876cc1794210236c12a74355081e72935d719d2d7b15c3"
+      "sha256": "a3c5c9965ec58b42d67e7a6ccbf828a35487b34867b6e4ad2a497b228087b8ef"
     },
     {
       "path": "sources/transcripts/_archive/2024-11-16-the-evidence-for-reincarnation.md",
       "sha256": "39218d23b8d13a2567382b7801797654cdcf1eee0724dc16eabfacfb2340bc6d"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2024-11-16",
   "tools": [

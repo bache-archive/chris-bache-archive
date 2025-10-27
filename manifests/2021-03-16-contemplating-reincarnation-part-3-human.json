@@ -1,0 +1,18 @@
+{
+  "id": "2021-03-16-contemplating-reincarnation-part-3-human",
+  "files": [
+    {
+      "path": "sources/captions/2021-03-16-contemplating-reincarnation-part-3-human.vtt",
+      "sha256": "a738c72e9dd61b571cc484201e6304bd154c854690a7668849deeac784a7aa08"
+    }
+  ],
+  "captured_at": "2025-10-27",
+  "license": "CC0-1.0",
+  "recorded_date": "2021-03-16",
+  "tools": [
+    "yt-dlp 2025.03.10",
+    "ffmpeg 6.1",
+    "otter_ai 2025-09 pipeline",
+    "llm_cleanup GPT-5 (2025-09)"
+  ]
+}

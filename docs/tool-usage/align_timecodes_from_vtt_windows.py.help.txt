@@ -1,0 +1,9 @@
+===== HELP: tools/align_timecodes_from_vtt_windows.py =====
+Traceback (most recent call last):
+  File "/Users/howardrhee/Documents/chris-bache-archive/tools/align_timecodes_from_vtt_windows.py", line 43, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Traceback (most recent call last):
+  File "/Users/howardrhee/Documents/chris-bache-archive/tools/align_timecodes_from_vtt_windows.py", line 43, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'

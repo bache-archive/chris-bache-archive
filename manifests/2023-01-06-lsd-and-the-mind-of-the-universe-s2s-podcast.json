@@ -10,8 +10,20 @@
       "sha256": "a8bddc14e2d6407d8710b765b7f41195de340fa49910110fb51da53f0f802d50"
     },
     {
+      "path": "sources/captions/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.html",
+      "sha256": "1df96e6b0c3df42665be8fa6f88da469974d6d1a092265e5995d9ad8ca9f5bb0"
+    },
+    {
       "path": "sources/captions/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.md",
       "sha256": "d99dbe4c1a29688a65e1fc1e701c0b5ea85ae9961e2ba55a6a45a3aec0f6c115"
+    },
+    {
+      "path": "sources/captions/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.vtt",
+      "sha256": "17b34ad55097808d28fed17774e4cde12d6760f1f6524bbf4ab6425456af9043"
+    },
+    {
+      "path": "sources/diarist/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.srt",
+      "sha256": "4c1531a2e3cd306d4397544264f51fdd6325c131ece2f91584a7ba7d84a7e105"
     },
     {
       "path": "sources/diarist/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.txt",
@@ -19,22 +31,22 @@
     },
     {
       "path": "sources/transcripts/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.html",
-      "sha256": "bfda217d266cc26fdfcf083aba5bda766b889d19ca23c3c5eb0fd070a9df5ba8"
+      "sha256": "527acb33df1239168b278819e690f4a794078728a6bd4f7c563dd51746b6a249"
     },
     {
       "path": "sources/transcripts/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.md",
-      "sha256": "6d5e2a83328173c51b9473b1f0280ebfcf73d9abe822aaa6bc2fe725dbb846b1"
+      "sha256": "5ff2e1f0413f1aa3cc67bbc42b006dc6a0de03a2966e876308b037feacb43a9f"
     },
     {
       "path": "sources/transcripts/_archive/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.html",
-      "sha256": "f1a23482b2eebc9a158d070bcc659c3b0a9765c8fdddaddb2ebfc940ea20c13b"
+      "sha256": "6c11515f467f06d56b8185f27064292b4508f42f0df26082aeb61ec4794d4e4d"
     },
     {
       "path": "sources/transcripts/_archive/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.md",
       "sha256": "95963e787cc93adf28f6a20393114d92c7171f3b8ce8a447a31cf49511b5e463"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2023-01-06",
   "tools": [

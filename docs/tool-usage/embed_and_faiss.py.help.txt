@@ -1,0 +1,9 @@
+===== HELP: tools/embed_and_faiss.py =====
+Traceback (most recent call last):
+  File "/Users/howardrhee/Documents/chris-bache-archive/tools/embed_and_faiss.py", line 32, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+Traceback (most recent call last):
+  File "/Users/howardrhee/Documents/chris-bache-archive/tools/embed_and_faiss.py", line 32, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'

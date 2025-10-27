@@ -1,0 +1,8 @@
+===== HELP: tools/make_checksums.py =====
+usage: make_checksums.py [-h] --version VERSION [--verify] [--no-downloads]
+
+options:
+  -h, --help         show this help message and exit
+  --version VERSION  Release tag, e.g. v3.3.5
+  --verify           Verify after writing
+  --no-downloads     Skip downloads/ manifest

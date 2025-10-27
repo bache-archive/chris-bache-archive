@@ -1,0 +1,61 @@
+===== HEAD: tools/chunk_transcripts.py =====
+#!/usr/bin/env python3
+"""
+tools/chunk_transcripts.py
+
+Create stable, citation-friendly chunks from cleaned Markdown transcripts.
+
+• Reads:   index.json (existing schema; uses the `transcript` path if present and non-null)
+• Writes:  build/chunks/bache-talks.chunks.jsonl  (one JSON object per chunk)
+           reports/chunk_stats.json               (basic QA stats)
+
+This version:
+  - Silently SKIPS entries without a usable `transcript` path (e.g., book registries).
+  - Fixes UTC timestamp deprecation by using timezone-aware datetimes.
+  - Passes CLI args into stats writer (bugfix).
+
+Chunking rules (defaults; configurable via CLI):
+  - Target ~1000–1500 characters per chunk (default target=1200)
+  - Character overlap between adjacent chunks (default overlap=100)
+  - Prefer paragraph boundaries (split on blank lines); collapse whitespace
+  - Preserve simple speaker labels already present in text (e.g., "CHRIS:")
+
+Deterministic IDs:
+  - talk_id: basename of transcript path without ".md"
+  - chunk_index: 1-based, zero-padded "ckNNN"
+  - chunk_id: "{talk_id}:{ckNNN}:{hash6}" where hash6 = first 6 of sha1(normalized_chunk_text)
+
+Usage:
+  python tools/chunk_transcripts.py \
+      --index index.json \
+      --out build/chunks/bache-talks.chunks.jsonl \
+      --stats reports/chunk_stats.json \
+      --target 1200 \
+      --overlap 100
+"""
+
+import argparse
+import hashlib
+import io
+import json
+import os
+import re
+import sys
+from collections import defaultdict
+from datetime import datetime, timezone
+from pathlib import Path
+from statistics import mean
+
+# ----------------------------
+# Markdown → plain-ish text
+# ----------------------------
+
+MD_CODEBLOCK_FENCE_RE = re.compile(r"(^```.*?$)(.*?)(^```$)", re.DOTALL | re.MULTILINE)
+MD_INLINE_CODE_RE = re.compile(r"`([^`]+)`")
+MD_HEADING_RE = re.compile(r"^\s{0,3}#{1,6}\s*", re.MULTILINE)
+MD_BLOCKQUOTE_RE = re.compile(r"^\s{0,3}>\s?", re.MULTILINE)
+MD_BULLET_RE = re.compile(r"^\s*([-*+]\s+|\d+\.\s+)", re.MULTILINE)
+MD_LINK_RE = re.compile(r"$begin:math:display$([^$end:math:display$]+)\]$begin:math:text$[^)]+$end:math:text$")  # keep link text
+MD_IMAGE_RE = re.compile(r"!$begin:math:display$([^$end:math:display$]*)\]$begin:math:text$[^)]+$end:math:text$")  # drop image, keep alt
+MD_EMPH_RE = re.compile(r"(\*\*|__|\*|_)(.*?)\1", re.DOTALL)
+MD_HTML_TAG_RE = re.compile(r"</?[^>]+>")  # drop basic HTML tags

@@ -1,0 +1,1 @@
+===== ARGPARSE FLAGS: tools/build_manifests.py =====

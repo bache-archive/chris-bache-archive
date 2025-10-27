@@ -10,8 +10,20 @@
       "sha256": "d656a168980f7de921fa12933c151acd877d41d5fe7e72612289ae42c7757bb1"
     },
     {
+      "path": "sources/captions/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.html",
+      "sha256": "bc3330a14d57e8935dfb8e5e2ac82791c84666f022ff2981300611889ee67ee0"
+    },
+    {
       "path": "sources/captions/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.md",
       "sha256": "50b68d5cdeb868b3d979fcec14f39d5c691512860a0901fb8784de42a7c6c0c8"
+    },
+    {
+      "path": "sources/captions/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.vtt",
+      "sha256": "f05650f8167d73a9257b204c41a68ac1325ab5afa2bd6c22b5f3b7a872c63a70"
+    },
+    {
+      "path": "sources/diarist/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.srt",
+      "sha256": "67a6423acbc202d261e6e7ad08b0f15e7afb3956c3445c23fcbd91d1f452b10e"
     },
     {
       "path": "sources/diarist/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.txt",
@@ -19,7 +31,7 @@
     },
     {
       "path": "sources/transcripts/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.html",
-      "sha256": "0cd0e4778006eff3365f2a932bb128870e29e9a45291cbabb6efbf9deb9ecd51"
+      "sha256": "ef25a039a025293ed857ad9897da7cbeb60b4d2951d037917c6f426bc9636fe4"
     },
     {
       "path": "sources/transcripts/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.md",
@@ -27,14 +39,14 @@
     },
     {
       "path": "sources/transcripts/_archive/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.html",
-      "sha256": "5410ec8b8823b1b211770aeec57bca99473d047131fa29edc060b7d01a3aa1f3"
+      "sha256": "b951f565daaa4e406954af32c92a7634fe0b86a417033500f99f96b5b81c5c8b"
     },
     {
       "path": "sources/transcripts/_archive/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.md",
       "sha256": "25ffdaf8bcaf8eb1b2132f6ff443ae39ed2bb44a20498cfefef25a307104a60d"
     }
   ],
-  "captured_at": "2025-10-17",
+  "captured_at": "2025-10-27",
   "license": "CC0-1.0",
   "recorded_date": "2022-08-30",
   "tools": [
