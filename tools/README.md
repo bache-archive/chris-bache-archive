@@ -1,61 +1,67 @@
-tools/ — Working Guide
+# tools/ — Working Guide
 
-This folder contains the scripts that power the Chris Bache Archive pipelines:
-	•	Ingest new YouTube talks (discover → captions/VTT → diarist)
-	•	Build readable transcripts
-	•	Publish HTML + sitemaps for GitHub Pages
-	•	Preserve manifests & checksums
-	•	Research helpers (alignment, chunking, embeddings, quote packs)
+This folder contains the modular pipelines that power the **Chris Bache Archive**.  
+Each subfolder corresponds to one stage in the archival process—from intake to preservation.
 
-If you’re here to add a new YouTube talk, start with the Quickstart below.
+---
 
-⸻
+## 📂 Folder Overview
 
-Quickstart: Add a New YouTube Talk
+| Subfolder | Purpose |
+|------------|----------|
+| **intake/** | Discovery and ingestion — find new videos, pull playlists, and download captions (VTT). |
+| **curation/** | Curate, deduplicate, and merge new candidates into `index.json`. See [PATCHING.md](../PATCHING.md) for the full patch workflow. |
+| **transcripts/** | Build readable, speaker-attributed Markdown transcripts from diarist `.txt` and optional `.srt` files. |
+| **alignment/** | Fine-tune timing between captions and diarist text, audit overlaps, and verify cue integrity. |
+| **site/** | Build the public HTML site, generate `index.md`, and create sitemaps for search engines. |
+| **media/** | Download and sync MP4/MP3 assets via `yt-dlp` and upload or verify Internet Archive mirrors. |
+| **preservation/** | Generate per-item manifests, release-level checksums, and verify digital fixity. |
+| **rag/** | Research and search layers — chunk transcripts, embed vectors, and build FAISS indexes. |
+| **utils/** | Shared helpers (currently empty). |
+| **secrets/** | Local OAuth tokens or API keys (ignored by git). |
 
-You can do everything with the Makefile targets (recommended) or directly with the scripts. The steps are identical either way.
+---
 
-Option A — With make (preferred)
+## ⚡ Quickstart — Add a New YouTube Talk
 
-# 1) Add a new entry to index.json (creates a stub with required fields)
-make add SLUG=2025-10-27-mystic-cosmos YT="https://www.youtube.com/watch?v=XXXXXXXXXXX"
+You can do everything with the **Makefile targets** (recommended) or run the scripts directly.  
+The following steps are identical either way.
 
-# 2) Fetch captions (VTT) for just this item
+### Option A — With `make` (preferred)
+
+```bash
+# 1) Add a stub entry to index.json
+make add SLUG=2025-10-27-mystic-cosmos \
+         YT="https://www.youtube.com/watch?v=XXXXXXXXXXX"
+
+# 2) Fetch captions (VTT)
 make captions SLUG=2025-10-27-mystic-cosmos
 
-# 3) Export diarist TXT (and optional SRT) from Otter
-#    Save them as:
+# 3) Export diarist TXT (+ optional SRT) from Otter
+#    Save to:
 #      sources/diarist/2025-10-27-mystic-cosmos.txt
-#      sources/diarist/2025-10-27-mystic-cosmos.srt  (optional)
+#      sources/diarist/2025-10-27-mystic-cosmos.srt
 
-# 4) Build the readable transcript (Markdown with front matter)
+# 4) Build the transcript (Markdown with YAML front matter)
 make transcript SLUG=2025-10-27-mystic-cosmos
 
-# 5) Regenerate the index page (index.md)
+# 5) Regenerate the index page
 make index
 
-# 6) Download MP4/MP3 media for all items in index.json
+# 6) Download MP4/MP3 media
 make media
 
-# 7) Publish the site: build HTML and sitemaps for GitHub Pages
+# 7) Build and publish the HTML site
 make site
 make sitemaps
 
 Option B — Script-by-script
 
-# 1) Add a stub entry (or edit index.json by hand)
-#    Ensure fields: youtube_url, diarist, transcript, file, archival_title, published
-#    (The Makefile's `add` target uses jq to write a correctly shaped record.)
+# 1) Fetch captions
+python tools/intake/grab_all_captions.py --index index.json --only 2025-10-27-mystic-cosmos
 
-# 2) Download captions (VTT)
-python tools/grab_all_captions.py --index index.json --only 2025-10-27-mystic-cosmos
-
-# 3) Place diarist files
-#    sources/diarist/2025-10-27-mystic-cosmos.txt
-#    sources/diarist/2025-10-27-mystic-cosmos.srt (optional)
-
-# 4) Build the transcript (writes to sources/transcripts/)
-python tools/rebuild_transcripts_v2.py \
+# 2) Build transcript
+python tools/transcripts/rebuild_transcripts_v2.py \
   --root . \
   --only 2025-10-27-mystic-cosmos \
   --normalize-labels \
@@ -63,128 +69,111 @@ python tools/rebuild_transcripts_v2.py \
   --verbose \
   --out-dir sources/transcripts
 
-# 5) Regenerate index.md
-python tools/generate_index_md.py
-
-# 6) Download media
-bash tools/download_media.sh
-
-# 7) Build site + sitemaps
-python tools/build_site.py
-python tools/generate_sitemaps.py https://bache-archive.github.io/chris-bache-archive
+# 3) Build HTML + sitemaps
+python tools/site/build_site.py
+python tools/site/generate_sitemaps.py https://bache-archive.github.io/chris-bache-archive
 
 
 ⸻
 
-What Each Script Does (and When to Use It)
+🔧 What Each Subsystem Does
 
-Ingest & Registration
-	•	yt_playlist_sync.py
-Pull or refresh YouTube playlist items into index.json. Use when seeding or catching up with a channel/playlist.
-	•	grab_all_captions.py
-Download captions (.vtt) for entries in index.json. Supports --index, --only <slug|youtube_id>, --force.
+🧭 intake/
+	•	find_bache_videos.py — Discover new videos on YouTube.
+	•	yt_playlist_sync.py — Sync or refresh known playlists.
+	•	grab_all_captions.py — Download captions (.vtt) for each item.
 
-Diarist & Transcript Build
-	•	rebuild_transcripts_v2.py
-Generates polished, speaker-attributed Markdown transcripts from diarist .txt (and optionally .srt), using metadata from index.json. Typical flags:
---root, --only <slug>, --normalize-labels, --sync-speakers-yaml, --verbose, --out-dir sources/transcripts.
-	•	timeline_from_captions.py / timeline_from_diarist.py
-Produce JSON timelines from VTT or diarist text. Useful for QA, alignment, or downstream analytics.
-	•	check_vtt_health.py
-Quick validation for broken VTTs (overlaps, malformed cues).
-	•	audit_timecodes.py, align_timecodes_from_vtt_windows.py, align_chunks.py, convert_durations_to_alignment.py, debug_alignment_scores.py
-Advanced timing/alignment tools. Use these only if you notice sync issues.
+🗂️ curation/
+	•	curate_candidates.py — Clean, dedupe, and normalize candidate lists.
+	•	merge_candidates_to_index.py — Merge a patch into index.json.
+→ See PATCHING.md￼ for the full process.
+	•	migrate_index.py — Upgrade index.json schema if fields change.
+	•	dedupe_prefer_timed.py — Choose the most complete timed transcripts.
 
-Indexing & Site
-	•	generate_index_md.py
-Builds (or refreshes) the human-readable index.md listing from index.json.
-	•	build_site.py
-Renders sources/transcripts/*.md into HTML under the site output (typically public/) for GitHub Pages.
-	•	generate_sitemaps.py
-Produces sitemap-index.xml and sub-sitemaps for search engines.
+📝 transcripts/
+	•	rebuild_transcripts_v2.py — Build final readable Markdown transcripts.
+	•	timeline_from_captions.py / timeline_from_diarist.py — Generate timing JSON for QA or analytics.
+	•	normalize_filenames.sh — Normalize diarist/transcript filenames.
 
-Media & Preservation
-	•	download_media.sh
-Downloads MP4/MP3 via yt-dlp for all entries in index.json. Requires that each entry contains youtube_url and a file path; the basename of file is used for file naming. Depends on jq, yt-dlp, and ffmpeg.
-	•	build_manifests.py
-Creates per-item manifests (metadata + hashes) for provenance.
-	•	make_checksums.py / verify_fixity.py
-Compute and verify release-level SHA-256 checksums across important directories.
+⏱ alignment/
+	•	align_timecodes_from_vtt_windows.py — Align diarist text to captions.
+	•	align_chunks.py, audit_timecodes.py, debug_alignment_scores.py, convert_durations_to_alignment.py — Deep timing/debug utilities.
 
-Research, RAG & Educational
-	•	chunk_transcripts.py / embed_and_faiss.py
-Optional search stack: chunk transcripts and build FAISS indexes for local/RAG search.
-	•	align_timecodes_from_vtt_windows.py (also listed above)
-The main alignment routine for better diarist/captions sync.
-	•	harvest_quote_packs.py, build_educational_docs_full.py
-Build educational “quote packs” and synthesize topic pages from curated sources (used by make harvest and make build-edu).
-	•	generate_sitemaps.py, generate_index_md.py
-Improve discoverability (sitemaps) and keep repo indices tidy.
+🌐 site/
+	•	build_site.py — Render .md → .html for GitHub Pages.
+	•	generate_index_md.py — Build the master index.md listing.
+	•	generate_sitemaps.py — Produce sitemap-index.xml and sub-maps.
+
+🎧 media/
+	•	download_media.sh — Download MP4/MP3 using yt-dlp.
+	•	ia_sync_media.py — Sync verified files to the Internet Archive.
+
+🗄 preservation/
+	•	build_manifests.py — Create per-item provenance manifests.
+	•	make_checksums.py / verify_fixity.py — Compute and verify SHA-256 fixity.
+	•	tool_versions.json — Logged environment versions for reproducibility.
+
+🔍 rag/
+	•	chunk_transcripts.py, embed_and_faiss.py — Build searchable embeddings for research and RAG use.
 
 ⸻
 
-Conventions & Required Fields
-	•	index.json (minimum useful fields per entry):
-	•	youtube_url (and ideally youtube_id)
-	•	diarist: sources/diarist/<slug>.txt
-	•	transcript: sources/transcripts/<slug>.md
-	•	file: sources/transcripts/<slug>.md (used by download_media.sh for naming)
-	•	Recommended: archival_title, published (YYYY-MM-DD), channel, type
-	•	Filenames:
-	•	SLUG format: YYYY-MM-DD-title-words
-	•	Diarist: sources/diarist/<slug>.txt (+ optional .srt)
-	•	Transcript: sources/transcripts/<slug>.md
-	•	Captions: sources/captions/<slug>.vtt
-	•	Front matter:
-	•	Transcripts include YAML front matter (title, date, channel, themes). Keep IDs stable across rebuilds.
+🧩 Conventions & Required Fields
+
+Each entry in index.json must include:
+
+Field	Description
+youtube_url / youtube_id	Primary identifier
+archival_title	Canonical title
+channel	Source channel
+diarist	Path to diarist TXT
+transcript	Path to Markdown transcript
+published	ISO date YYYY-MM-DD
+source_type	"lecture", "interview", "excerpt", etc.
+
+File naming convention:
+YYYY-MM-DD-title-words (slug used across captions, diarist, transcript, and media)
 
 ⸻
 
-Dependencies
-	•	System: python3, jq, yt-dlp, ffmpeg
-	•	Python: markdown (for build_site.py), plus standard libs used across tools
-	•	Optional: faiss-cpu, pandas, numpy, internetarchive (for advanced features)
+🔒 Secrets
 
-Tip: The Makefile attempts to install markdown if missing.
+API credentials (e.g., YouTube API keys or OAuth tokens) live under:
 
-⸻
+tools/secrets/
+  client_secret.json
+  token.json
 
-Safety & Troubleshooting
-	•	Dry runs: Many scripts support -h/--help. Use it before running on the whole corpus.
-	•	Side effects: Some scripts write in-place. Keep a clean working tree (commit first).
-	•	VTT issues: Run check_vtt_health.py after downloading captions; if timing looks off in the final transcript, explore the align_* tools.
-	•	Media failures: Ensure youtube_url exists in index.json and yt-dlp is up to date (yt-dlp -U).
+This directory is git-ignored and safe for local use only.
 
 ⸻
 
-Typical One-Liners
-	•	Add & ingest in one go (then drop the diarist TXT and rebuild transcript):
+🧱 Dependencies
 
-make quick SLUG=2025-10-27-mystic-cosmos YT="https://www.youtube.com/watch?v=XXXXXXXXXXX"
-
-	•	Rebuild transcript after fixing diarist TXT:
-
-make transcript SLUG=2025-10-27-mystic-cosmos
-
-	•	Full publish step:
-
-make site && make sitemaps
-
-	•	Release checksums & fixity:
-
-make checksums RELEASE=v3.3
-make fixity
+Type	Required	Notes
+System	python3, jq, yt-dlp, ffmpeg	
+Python	markdown (for build_site.py)	auto-installed via make
+Optional	faiss-cpu, pandas, numpy, internetarchive	for RAG and fixity automation
 
 
 ⸻
 
-FAQ
+🧠 Safety & Best Practices
+	•	Commit before running batch scripts that write in-place (index.json, manifests, etc.).
+	•	Use --dry-run whenever available.
+	•	Check .vtt health with tools/alignment/check_vtt_health.py.
+	•	Keep index.json canonical; treat index.merged.json as a staging file.
+	•	Every edit to index.json or a transcript should have a dated audit trail under /patches/.
 
-Q: Do I have to use the Makefile?
-A: No—every step can be run with the individual scripts. The Makefile just wires them together with sensible defaults.
+⸻
 
-Q: Where do I edit titles/channels?
-A: In index.json. The add target writes a reasonable stub; you can refine fields there before building the transcript and site.
+🧩 Related Documents
+	•	PATCHING.md￼ — How to add or update records safely.
+	•	PROVENANCE.md — Phase summaries and preservation logs.
+	•	README.md (root) — Project overview and purpose.
+	•	Makefile — All primary automation targets.
 
-Q: I have an .srt from Otter—should I include it?
-A: Optional but helpful. Place it at sources/diarist/<slug>.srt. The builder can use it to improve timing.
+⸻
+
+When in doubt, commit your state, run a dry-run, and document every patch.
+The goal is not just preservation—but reproducibility across decades.
