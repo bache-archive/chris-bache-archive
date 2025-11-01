@@ -11,7 +11,7 @@
 
   <!-- Sitemap discovery for crawlers -->
   <link rel="sitemap" type="application/xml" title="Sitemap"
-  href="https://bache-archive.github.io/chris-bache-archive/sitemap-index.xml" />
+        href="https://bache-archive.github.io/chris-bache-archive/sitemap-index.xml" />
 
   <link rel="stylesheet" href="assets/style.css" />
 </head>
@@ -50,7 +50,7 @@
         <div class="card">
           <h3>Chronological Playlist (2009–2025)</h3>
           <p class="muted">
-            Experience Chris’s evolution over time — talks and interviews in sequence.  
+            Experience Chris’s evolution over time — talks and interviews in sequence.
             Each entry is paired with a cleaned, speaker-attributed transcript for readability and research.
           </p>
           <div class="btnrow" style="justify-content:flex-start">
@@ -98,42 +98,57 @@
           <h3>Independent yet Complementary</h3>
           <p>
             Created independently by admirers of Chris’s work, this archive is non-commercial and offered under a CC0 1.0 Public Domain Dedication.
-            It is meant to <strong>complement—not replace—</strong>the official website, books, and media channels.  
+            It is meant to <strong>complement—not replace—</strong>the official website, books, and media channels.
             All materials trace back to public sources.
           </p>
         </div>
       </div>
     </section>
 
-    <!-- SCHOLARLY / CRAWLER AREA -->
-    <section class="section" aria-label="Scholarly citations and provenance">
-      <details class="scholar">
-        <summary>📚 For Scholars &amp; Archivists (DOIs, Mirrors, Provenance)</summary>
-        <div class="scholar-body">
-          <p><strong>Concept DOI (always current):</strong><br />
-            <a class="mono" href="https://doi.org/10.5281/zenodo.17088457">10.5281/zenodo.17088457</a>
-          </p>
+    <!-- SCHOLARLY / CRAWLER AREA (always visible) -->
+    <section class="section card" aria-label="Scholarly citations and provenance">
+      <h2>Scholarly Citations &amp; Provenance</h2>
 
-          <h3>Releases &amp; Provenance</h3>
-          <p class="muted">
-            This site reflects the evolving, current state of the archive. For a frozen, citable snapshot, use the
-            <strong>Concept DOI</strong> above or the most recent Zenodo DOI linked from
-            <a href="https://github.com/bache-archive/chris-bache-archive/releases">GitHub Releases</a>.
-          </p>
-          
+      <!-- Cite This Archive (definition list keeps it compact & elegant) -->
+      <div class="stack">
+        <div>
+          <h3>Cite This Archive</h3>
+          <dl class="dl-compact">
+            <dt>Concept DOI (always current)</dt>
+            <dd><a class="mono" href="https://doi.org/10.5281/zenodo.17088457">10.5281/zenodo.17088457</a></dd>
 
-          <div class="hr"></div>
+            <dt>Releases &amp; Fixity</dt>
+            <dd>
+              Use the Concept DOI above for a stable reference, or cite a specific frozen release via
+              <a href="https://github.com/bache-archive/chris-bache-archive/releases">GitHub Releases</a>.
+              Each release includes manifests and checksums for verification.
+            </dd>
+          </dl>
+        </div>
 
-          <h3>Project Links</h3>
-          <ul class="list-compact">
-            <li>GitHub Repository: <a href="https://github.com/bache-archive/chris-bache-archive">bache-archive/chris-bache-archive</a></li>
-            <li>Website: <a href="https://bache-archive.github.io/chris-bache-archive/">bache-archive.github.io/chris-bache-archive</a></li>
-            <li>Audio Mirror (IA): <a href="https://archive.org/details/chris-bache-archive-audio">2009–2025</a></li>
-            <li>Video Mirror (IA): <a href="https://archive.org/details/chris-bache-archive-video">2009–2025</a></li>
-          </ul>
+        <div class="hr"></div>
 
-          <div class="hr"></div>
+        <!-- Project & Mirrors as compact lists for scannability -->
+        <div class="two-col">
+          <div>
+            <h3>Project Links</h3>
+            <ul class="list-compact">
+              <li>Repository: <a href="https://github.com/bache-archive/chris-bache-archive">bache-archive/chris-bache-archive</a></li>
+              <li>Website: <a href="https://bache-archive.github.io/chris-bache-archive/">bache-archive.github.io/chris-bache-archive</a></li>
+            </ul>
+          </div>
+          <div>
+            <h3>Mirrors (Internet Archive)</h3>
+            <ul class="list-compact">
+              <li>Audio: <a href="https://archive.org/details/chris-bache-archive-audio">2009–2025</a></li>
+              <li>Video: <a href="https://archive.org/details/chris-bache-archive-video">2009–2025</a></li>
+            </ul>
+          </div>
+        </div>
 
+        <div class="hr"></div>
+
+        <div>
           <h3>License &amp; Use</h3>
           <p class="muted">
             All transcripts, metadata, and scripts are dedicated to the public domain under
@@ -141,7 +156,7 @@
             You are free to read, share, quote, and build upon this work without restriction.
           </p>
         </div>
-      </details>
+      </div>
     </section>
 
     <!-- FOOTER -->
