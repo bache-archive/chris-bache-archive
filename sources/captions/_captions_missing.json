@@ -1,10 +1,42 @@
-{
-  "youtube_id": "PmcpJpCtA_U",
-  "slug": "2013-11-17-no-fear-of-death-part-1-unity-myrtle-beach",
-  "source": "Unity Myrtle Beach",
-  "published": "2013-11-17",
-  "status": "missing",
-  "checked_at": "2025-10-31",
-  "attempts": ["yt-dlp --list-subs", "youtube_transcript_api"],
-  "notes": "No EN subs available on YouTube; API returned none."
-}
+[
+  {
+    "youtube_id": "PmcpJpCtA_U",
+    "slug": "2013-11-17-no-fear-of-death-part-1-unity-myrtle-beach",
+    "source": "Unity Myrtle Beach",
+    "published": "2013-11-17",
+    "status": "missing",
+    "checked_at": "2025-10-31",
+    "attempts": ["yt-dlp --list-subs", "youtube_transcript_api"],
+    "notes": "No EN subs available on YouTube; API returned none."
+  },
+  {
+    "youtube_id": "",
+    "slug": "2020-10-04-a-visionary-experience-of-the-birth-of-the-future",
+    "source": "Unknown / web import",
+    "published": "2020-10-04",
+    "status": "missing",
+    "checked_at": "2025-10-31",
+    "attempts": ["manual review"],
+    "notes": "Transcript exists but no YouTube source; caption unavailable."
+  },
+  {
+    "youtube_id": "",
+    "slug": "2023-06-30-learning-to-be-gods",
+    "source": "Interview (web-only)",
+    "published": "2023-06-30",
+    "status": "missing",
+    "checked_at": "2025-10-31",
+    "attempts": ["manual review"],
+    "notes": "No associated YouTube upload; podcast audio-only source."
+  },
+  {
+    "youtube_id": "q-caGhIlKS8",
+    "slug": "2025-01-08-the-phoenix-always-rises-evolving-into-the-future",
+    "source": "PSA / Asheville",
+    "published": "2025-01-08",
+    "status": "mismatch",
+    "checked_at": "2025-10-31",
+    "attempts": ["yt-dlp --list-subs"],
+    "notes": "Human captions downloaded under '-human' basename; needs rename or merge."
+  }
+]
