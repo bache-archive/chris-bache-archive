@@ -2,22 +2,26 @@
 """
 Find new Chris Bache–related YouTube videos and compare to an existing index.json.
 
-Features
-- Loads known IDs from index.json (supports multiple shapes)
-- Searches multiple query variants (name + book)
-- Heuristic scoring to prefer interviews/talks (vs reviews/reposts)
-- Duration and phrase-based filtering (drop Shorts, audiobooks, “link in bio,” etc.)
-- Optional allow/deny channel lists and “require name in title”
-- Exports JSON + CSV candidates
-- Works with --api-key or YT_API_KEY from .env (python-dotenv optional)
+Enhancements in this version
+- Flexible time windows:
+    * --published-after / --published-before (YYYY-MM-DD)
+    * --years-ago-start / --years-ago-end (e.g., 30..10 years ago)
+  Absolute dates take precedence if both styles are provided.
+- Keeps prior defaults (last 10 years) if no dates are given.
+- Same scoring / filtering pipeline; same outputs (JSON + CSV).
 
 Usage
-  python tools/find_bache_videos.py --index index.json
-  # (env) YT_API_KEY is read from .env if --api-key not passed
+  python tools/intake/find_bache_videos.py --index index.json
+  python tools/intake/find_bache_videos.py --index index.json \
+      --years-ago-start 30 --years-ago-end 10
+  python tools/intake/find_bache_videos.py --index index.json \
+      --published-after 2008-01-01 --published-before 2015-12-31
 
 Common flags
-  --min-score 3 --min-duration-sec 600 --require-name-in-title
+  --min-score 2 --min-duration-sec 600 --require-name-in-title
 """
+
+from __future__ import annotations
 import argparse
 import csv
 import json
@@ -27,9 +31,9 @@ import sys
 import time
 import urllib.parse
 import urllib.request
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timedelta, timezone, date
 from pathlib import Path
-from typing import Dict, List, Tuple
+from typing import Dict, List, Tuple, Optional
 
 # Optional .env loading
 try:
@@ -53,7 +57,6 @@ def default_queries() -> List[str]:
         '"Christopher M. Bache"',
         '"LSD and the Mind of the Universe" "Chris Bache"',
         '"LSD and the Mind of the Universe" "Christopher"',
-        # Broader book phrases (down-weighted, filtered later):
         '"LSD and the Mind of the Universe"',
         '"Diamonds from Heaven" Bache',
     ]
@@ -184,7 +187,63 @@ def load_known_ids(index_path: Path) -> set:
     walk(data)
     return known
 
-def youtube_search(api_key: str, query: str, max_results: int = 100, published_after: str = None, order: str = "date") -> List[dict]:
+def clamp_iso_date(s: str) -> str:
+    # Accept YYYY-MM-DD, return full ISO with Z for YT API expectations
+    dt = datetime.strptime(s, "%Y-%m-%d")
+    return dt.replace(tzinfo=timezone.utc).isoformat()
+
+def iso_from_years_ago(years: int) -> str:
+    # Rough: years * 365 days; precise isn't necessary for search windowing
+    d = datetime.now(timezone.utc) - timedelta(days=years * 365)
+    return d.date().isoformat()
+
+def resolve_date_window(args) -> Tuple[Optional[str], Optional[str], str]:
+    """
+    Returns (publishedAfterISO, publishedBeforeISO, human_note)
+    Precedence: explicit --published-after/--published-before > years-ago window > default last 10y.
+    """
+    after_iso = before_iso = None
+    note = ""
+
+    if args.published_after or args.published_before:
+        if args.published_after:
+            after_iso = clamp_iso_date(args.published_after)
+        if args.published_before:
+            # Set before as end-of-day for inclusivity
+            end = datetime.strptime(args.published_before, "%Y-%m-%d").replace(hour=23, minute=59, second=59, tzinfo=timezone.utc)
+            before_iso = end.isoformat()
+        note = "explicit"
+        return after_iso, before_iso, note
+
+    if args.years_ago_start is not None or args.years_ago_end is not None:
+        # Interpret as a window [start, end] years ago. Example: start=30, end=10.
+        start = args.years_ago_start if args.years_ago_start is not None else 10
+        end = args.years_ago_end if args.years_ago_end is not None else 0
+        if start < end:
+            # swap to ensure start >= end (further past to more recent)
+            start, end = end, start
+        # publishedAfter = 'start years ago' further past
+        # publishedBefore = 'end years ago' more recent (end-of-day)
+        after_date = iso_from_years_ago(start)
+        before_date = iso_from_years_ago(end)
+        after_iso = clamp_iso_date(after_date)
+        # make before end-of-day UTC
+        bd = datetime.strptime(before_date, "%Y-%m-%d").replace(hour=23, minute=59, second=59, tzinfo=timezone.utc)
+        before_iso = bd.isoformat()
+        note = f"years-ago {start}..{end}"
+        return after_iso, before_iso, note
+
+    # Default fallback: last 10 years
+    ten_years_ago = iso_from_years_ago(10)
+    after_iso = clamp_iso_date(ten_years_ago)
+    before_iso = None
+    note = "default-10y"
+    return after_iso, before_iso, note
+
+def youtube_search(api_key: str, query: str, max_results: int = 100,
+                   published_after_iso: Optional[str] = None,
+                   published_before_iso: Optional[str] = None,
+                   order: str = "date") -> List[dict]:
     """Return search items (id + snippet)."""
     items = []
     params = {
@@ -198,8 +257,10 @@ def youtube_search(api_key: str, query: str, max_results: int = 100, published_a
         "regionCode": "US",
         "relevanceLanguage": "en",
     }
-    if published_after:
-        params["publishedAfter"] = published_after
+    if published_after_iso:
+        params["publishedAfter"] = published_after_iso
+    if published_before_iso:
+        params["publishedBefore"] = published_before_iso  # supported on search:list
 
     token = None
     while True:
@@ -243,8 +304,15 @@ def main():
 
     # Search window & volume
     ap.add_argument("--max-per-query", type=int, default=120)
-    ap.add_argument("--days", type=int, default=3650, help="Search window (days back). Default ~10 years.")
     ap.add_argument("--order", type=str, default="date", choices=["date", "relevance", "viewCount", "rating", "title", "videoCount"])
+
+    # Absolute date window
+    ap.add_argument("--published-after", type=str, help="YYYY-MM-DD")
+    ap.add_argument("--published-before", type=str, help="YYYY-MM-DD")
+
+    # Relative date window (years ago)
+    ap.add_argument("--years-ago-start", type=int, help="earlier bound in years ago (e.g., 30)")
+    ap.add_argument("--years-ago-end", type=int, help="recent bound in years ago (e.g., 10)")
 
     # Heuristics & filters
     ap.add_argument("--min-score", type=int, default=2, help="Minimum heuristic score to keep")
@@ -280,16 +348,26 @@ def main():
     known = load_known_ids(args.index)
     print(f"[info] Loaded {len(known)} known YouTube IDs from {args.index}")
 
-    since = (datetime.now(timezone.utc) - timedelta(days=args.days)).isoformat()
+    published_after_iso, published_before_iso, window_note = resolve_date_window(args)
+    print(f"[info] Date window mode: {window_note} "
+          f"(after={published_after_iso or 'None'}, before={published_before_iso or 'None'})")
+
     queries = default_queries()
-    print(f"[info] Running {len(queries)} queries across {args.days} days...")
+    print(f"[info] Running {len(queries)} queries...")
 
     found_ids = set()
     raw_items = []
 
     for q in queries:
         print(f"[info] Searching: {q}")
-        items = youtube_search(args.api_key, q, max_results=args.max_per_query, published_after=since, order=args.order)
+        items = youtube_search(
+            args.api_key,
+            q,
+            max_results=args.max_per_query,
+            published_after_iso=published_after_iso,
+            published_before_iso=published_before_iso,
+            order=args.order
+        )
         raw_items.extend(items)
         for it in items:
             vid = it.get("id", {}).get("videoId")
@@ -359,7 +437,9 @@ def main():
     # Write outputs
     args.out_json.write_text(json.dumps({
         "generated_at": datetime.now(timezone.utc).isoformat(),
-        "query_days": args.days,
+        "window_mode": window_note,
+        "published_after": published_after_iso,
+        "published_before": published_before_iso,
         "min_score": args.min_score,
         "count": len(candidates),
         "candidates": candidates,

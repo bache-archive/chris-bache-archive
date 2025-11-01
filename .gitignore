@@ -86,4 +86,4 @@ patches/**/logs/
 .ipynb_checkpoints/
 *.bak
 *.old
-*.tmp
+*.tmpout/
