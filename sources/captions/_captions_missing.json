@@ -1,0 +1,10 @@
+{
+  "youtube_id": "PmcpJpCtA_U",
+  "slug": "2013-11-17-no-fear-of-death-part-1-unity-myrtle-beach",
+  "source": "Unity Myrtle Beach",
+  "published": "2013-11-17",
+  "status": "missing",
+  "checked_at": "2025-10-31",
+  "attempts": ["yt-dlp --list-subs", "youtube_transcript_api"],
+  "notes": "No EN subs available on YouTube; API returned none."
+}
