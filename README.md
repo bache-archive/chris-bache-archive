@@ -10,7 +10,25 @@ See [WHY_CONTINUITY_MATTERS.md](WHY_CONTINUITY_MATTERS.md) for the philosophical
 
 ---
 
-## What’s in here
+## 🔗 Context in the Bache Archive Project
+
+This corpus forms the **Preservation Layer** of the broader [**Bache Archive Project**](https://github.com/bache-archive).  
+Together, these repositories create a unified, open, and FAIR-compliant ecosystem:
+
+| Layer | Repository | Purpose |
+|-------|-------------|----------|
+| **Preservation** | `chris-bache-archive` | Canonical transcripts & caption corpus (2009–2025) |
+| **Citation** | [`lsdmu-bibliography`](https://github.com/bache-archive/lsdmu-bibliography) | Machine-readable CSL-JSON registry with DOIs & Wikidata reconciliation |
+| **Interpretation** | [`bache-educational-docs`](https://github.com/bache-archive/bache-educational-docs) | Thematic study docs integrating book & talk excerpts |
+| **Summarization** | [`lsdmu-summaries-public`](https://github.com/bache-archive/lsdmu-summaries-public) | Structured abstractive summaries of *LSD and the Mind of the Universe* |
+| **Semantics** | [`bache-graph`](https://github.com/bache-archive/bache-graph) → *Lumen Graph* | Concept ontology & cross-tradition mapping |
+| **Metadata Registry** | [`bache-archive-meta`](https://github.com/bache-archive/bache-archive-meta) | Canonical QIDs, DOIs, and schemas for all Bache Archive repos |
+
+All repositories inherit their **Wikidata QIDs, identifier schemas, and provenance definitions** from `bache-archive-meta` to ensure cross-repository integrity.
+
+---
+
+## 📂 What’s in here
 
 - **Transcripts** — normalized Markdown and rendered HTML for each talk.  
 - **Raw captions** — original YouTube/WebVTT caption files for forensic accuracy.  
@@ -23,27 +41,27 @@ See [WHY_CONTINUITY_MATTERS.md](WHY_CONTINUITY_MATTERS.md) for the philosophical
 
 ---
 
-## Current status (November 2025)
+## 📊 Current Status (Nov 2025)
 
-- **Sources**
-  - `sources/transcripts/` — machine-normalized transcripts (.md + .html)
-  - `sources/captions/` — original WebVTT caption files
-  - `sources/diarist/` — diarized / attributed text (when available)
+**Sources**
+- `sources/transcripts/` — machine-normalized transcripts (.md + .html)  
+- `sources/captions/` — original WebVTT caption files  
+- `sources/diarist/` — diarized / attributed text (when available)
 
-- **Retrieval**
-  - `vectors/bache-talks.index.faiss` and `vectors/bache-talks.embeddings.parquet`
-  - Embeddings model: `text-embedding-3-large`
+**Retrieval**
+- `vectors/bache-talks.index.faiss` and `vectors/bache-talks.embeddings.parquet`  
+- Embeddings model: `text-embedding-3-large`
 
-- **Integrity**
-  - `checksums/RELEASE-*.sha256` + `checksums/FIXITY_LOG.md`
+**Integrity**
+- `checksums/RELEASE-*.sha256` + `checksums/FIXITY_LOG.md`
 
-- **Discoverability**
-  - Static HTML pages for transcripts and captions
-  - `sitemap.xml` + `robots.txt` for open crawl
+**Discoverability**
+- Static HTML pages for transcripts and captions  
+- `sitemap.xml` + `robots.txt` for open crawl
 
 ---
 
-## Website
+## 🌐 Website
 
 **Public site:** [https://bache-archive.github.io/chris-bache-archive/](https://bache-archive.github.io/chris-bache-archive/)
 
@@ -57,43 +75,45 @@ The site is a static build of the transcript and caption corpus intended for hum
 
 ⸻
 
-Linked Data References
+🪞 Linked Data References
 
-Wikidata Author: Christopher Martin Bache (Q112496741)￼
+Author (Wikidata): Christopher Martin Bache Q112496741￼
 
-Books represented in Wikidata
+Work	Year	Publisher	Wikidata QID
+LSD and the Mind of the Universe: Diamonds from Heaven	2019	Park Street Press	Q136684740
+Dark Night, Early Dawn: Steps to a Deep Ecology of Mind	2000	SUNY Press	Q136684765
+The Living Classroom: Teaching and Collective Consciousness	2008	SUNY Press	Q136684793
+Lifecycles: Reincarnation and the Web of Life	1991	Paragon House	Q136684807
 
-Title	Year	Publisher	QID
-LSD and the Mind of the Universe: Diamonds from Heaven￼	2019	Park Street Press	Q136684740
-Dark Night, Early Dawn: Steps to a Deep Ecology of Mind￼	2000	SUNY Press	Q136684765
-The Living Classroom: Teaching and Collective Consciousness￼	2008	SUNY Press	Q136684793
-Lifecycles: Reincarnation and the Web of Life￼	1991	Paragon House	Q136684807
+Alias: LSDMU → Q136684740
 
-Aliases:
-	•	LSD and the Mind of the Universe — also known as LSDMU
+All QIDs are maintained in the central bache-archive-meta￼ registry (wikidata.jsonld).
 
 ⸻
 
-Licensing
+⚖️ Licensing
 	•	Recordings © their original creators.
-	•	Transcripts, captions, metadata, and code in this repository: CC0 1.0 Universal (public domain).
+	•	Transcripts, captions, metadata, and code in this repository: CC0 1.0 Universal (Public Domain).
 	•	Use freely for research, education, and creative remix.
-	•	Rights-holders may request media removal: bache-archive@tuta.com
+	•	Rights-holders may request media removal → 📧 bache-archive@tuta.com
 
 ⸻
 
-Citation
+🧾 Citation
 
-Bache Archive (2025). Chris Bache Archive (2009–2025) — public talks corpus, transcripts, captions, and retrieval indices.
+Bache Archive (2025). Chris Bache Archive (2009 – 2025) — public talks corpus, transcripts, captions, and retrieval indices.
 https://bache-archive.github.io/chris-bache-archive/￼
 
 ⸻
 
-Contact
+📬 Contact
 
 Bache Archive
 📧 bache-archive@tuta.com
 
 ⸻
 
+🕊️ Closing Reflection
+
 May these materials remain accurate, accessible, and useful — for scholars, seekers, and systems alike.
+Together with its sibling repositories, this corpus anchors a living, open framework dedicated to the faithful preservation of Christopher M. Bache’s voice and vision.
