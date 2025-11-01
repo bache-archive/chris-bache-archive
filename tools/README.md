@@ -1,7 +1,7 @@
 # tools/ — Working Guide
 
 This folder contains the modular pipelines that power the **Chris Bache Archive**.  
-Each subfolder corresponds to one stage in the archival process—from intake to preservation.
+Each subfolder corresponds to one stage in the archival process — from intake to preservation.
 
 ---
 
@@ -24,7 +24,7 @@ Each subfolder corresponds to one stage in the archival process—from intake to
 
 ## ⚡ Quickstart — Add a New YouTube Talk
 
-You can do everything with the **Makefile targets** (recommended) or run the scripts directly.  
+You can do everything with the **Makefile targets** (recommended) or run the scripts directly.
 The following steps are identical either way.
 
 ### Option A — With `make` (preferred)
@@ -105,7 +105,11 @@ python tools/site/generate_sitemaps.py https://bache-archive.github.io/chris-bac
 	•	generate_sitemaps.py — Produce sitemap-index.xml and sub-maps.
 
 🎧 media/
-	•	download_media.sh — Download MP4/MP3 using yt-dlp.
+	•	download_media.sh — Primary media fetcher.
+2025-10 update: rewritten to avoid YouTube SABR restrictions.
+→ Order of attempts: android → ios → tv (no cookies), then tv_embedded → web (with cookies).
+→ Produces slug-named MP4/MP3 and writes _media_manifest.csv for auditing.
+	•	download_media.py — Python equivalent for batch use or cross-platform environments.
 	•	ia_sync_media.py — Sync verified files to the Internet Archive.
 
 🗄 preservation/
@@ -151,29 +155,46 @@ This directory is git-ignored and safe for local use only.
 🧱 Dependencies
 
 Type	Required	Notes
-System	python3, jq, yt-dlp, ffmpeg	
-Python	markdown (for build_site.py)	auto-installed via make
-Optional	faiss-cpu, pandas, numpy, internetarchive	for RAG and fixity automation
+System	python3, jq, yt-dlp, ffmpeg	Required for all media and transcript operations
+Python	markdown	Auto-installed via make
+Optional	faiss-cpu, pandas, numpy, internetarchive	For RAG and fixity automation
 
 
 ⸻
 
 🧠 Safety & Best Practices
-	•	Commit before running batch scripts that write in-place (index.json, manifests, etc.).
+	•	Commit before running batch scripts that modify files (index.json, manifests, etc.).
 	•	Use --dry-run whenever available.
 	•	Check .vtt health with tools/alignment/check_vtt_health.py.
-	•	Keep index.json canonical; treat index.merged.json as a staging file.
-	•	Every edit to index.json or a transcript should have a dated audit trail under /patches/.
+	•	Keep index.json canonical; treat index.merged.json as staging.
+	•	Every edit to index.json or a transcript should have a dated patch under /patches/.
+
+⸻
+
+🪞 Recent Fixes
+	•	YouTube SABR workaround (Oct 2025) —
+Legacy web clients began returning only thumbnails (“Only images are available”).
+The new download_media.sh and download_media.py fix this by using mobile-first clients without cookies.
+Verified working on all 2009–2013 Unity Myrtle Beach and SkyBlue talks.
 
 ⸻
 
 🧩 Related Documents
 	•	PATCHING.md￼ — How to add or update records safely.
 	•	PROVENANCE.md — Phase summaries and preservation logs.
-	•	README.md (root) — Project overview and purpose.
+	•	Root README.md — Project overview and purpose.
 	•	Makefile — All primary automation targets.
 
 ⸻
 
-When in doubt, commit your state, run a dry-run, and document every patch.
-The goal is not just preservation—but reproducibility across decades.
+When in doubt: commit your state, run a dry-run, and document every patch.
+The goal is not just preservation — but reproducibility across decades.
+
+---
+
+✅ **Why this update matters**
+
+- Keeps your README evergreen (documents the SABR-era fix).  
+- Future maintainers will immediately know *why* the Android-first order exists.  
+- Adds a clear description of the new Python variant (`download_media.py`).  
+- Otherwise leaves your structure and tone untouched.

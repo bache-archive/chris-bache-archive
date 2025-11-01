@@ -1,386 +1,311 @@
 #!/usr/bin/env python3
-"""
-tools/media/download_media.py
-
-Download YouTube media (MP3 audio and/or MP4 video) for items in an index,
-optionally restricted to a patch JSON. Produces a CSV manifest with per-item
-results and stderr tails for debugging.
-
-Key improvements
-- Robust client fallbacks (android, ios, tv, tv_embedded, web_creator, mweb, web)
-- Detects success by scanning for actual files (no false positives)
-- Avoids SABR pitfalls by preferring non-web clients first
-- Cleaner cookies handling: only attaches browser cookies for web-like clients
-- Works with list or {"items": [...]} index shapes
-- Compatible with prior CLI flags from earlier script
-
-Usage (audio only, patch-scoped)
---------------------------------
-export PATCH=2025-10-31-bache-youtube
-python tools/media/download_media.py \
-  --index "patches/$PATCH/outputs/index.merged.json" \
-  --only-from-patch "patches/$PATCH/work/index.patch.json" \
-  --audio-dir "build/patch-preview/$PATCH/downloads/audio" \
-  --yt-cookies-from-browser "chrome:Default" \
-  --verbose
-
-(Optionally add --video-dir to pull MP4s too.)
-"""
+# tools/media/download_media.py
+# -----------------------------------------------------------------------------
+# CONTEXT / THE FAILURE WE HIT
+# -----------------------------------------------------------------------------
+# Symptom:
+#   yt-dlp repeatedly returned:
+#     - "Only images are available" and
+#     - "Requested format is not available"
+#   across web/tv clients. When cookies were present, android/ios attempts were
+#   *skipped* ("client does not support cookies"), so we never actually tried
+#   the mobile clients that could still serve HLS.
+#
+# Root cause:
+#   SABR + client/cookie mismatch. Web clients often get SABR’d. Android/iOS
+#   can still serve HLS but *only if you do NOT pass cookies*. If you pass
+#   cookies, yt-dlp refuses those clients and you loop on web/tv “images only”.
+#
+# Working solution (that you verified manually):
+#   1) Try **android → ios → tv** WITHOUT cookies (and prefer native HLS).
+#   2) If those fail, try **tv_embedded → web** WITH cookies-from-browser.
+#   3) Keep names by slug; read from a prebuilt `index.for_dl.json` like:
+#        { "items":[ { "youtube_url":"https://youtu.be/<id>", "slug":"<slug>" }, ... ] }
+#
+# TL;DR:
+#   - Don’t pass cookies to android/ios/tv on first attempts.
+#   - Only attach cookies for tv_embedded/web as a last resort.
+#
+# -----------------------------------------------------------------------------
+# Usage examples
+# -----------------------------------------------------------------------------
+# export PATCH=2025-10-31-bache-youtube-early
+#
+# # Both video+audio, using chrome cookies for the final fallbacks:
+# python tools/media/download_media.py \
+#   --index "build/patch-preview/$PATCH/index.for_dl.json" \
+#   --video-dir "build/patch-preview/$PATCH/downloads/video" \
+#   --audio-dir "build/patch-preview/$PATCH/downloads/audio" \
+#   --browser "chrome:Default" \
+#   --mode both \
+#   --verbose
+#
+# Audio only:
+# python tools/media/download_media.py --index build/patch-preview/$PATCH/index.for_dl.json \
+#   --audio-dir build/patch-preview/$PATCH/downloads/audio --mode audio
+#
+# Notes:
+# - This script does NOT synthesize the slug index. Build it beforehand with jq.
+# - It writes a CSV manifest next to the downloads dir: _media_manifest.csv
+# -----------------------------------------------------------------------------
 
 from __future__ import annotations
+
 import argparse
 import csv
 import json
-import re
+import os
 import subprocess
-import sys
-import time
+from collections import Counter
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
+from typing import List, Optional, Tuple
 
-# ---------- Constants & Client Order ----------
+# ------------------------- small utils -------------------------
 
-AUDIO_FORMAT_EXPR = "bestaudio[ext=m4a]/140/251/bestaudio/best/ba"
-VIDEO_FORMAT_EXPR = "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best"
-
-CLIENT_ORDER = ["android", "ios", "tv", "tv_embedded", "web_creator", "mweb", "web"]
-
-SABR_MSG = "Only images are available for download"
-AGE_MSG = "confirm your age"
-PO_WARN = "android client https formats require a GVS PO Token"
-
-# ---------- Paths ----------
-
-HERE = Path(__file__).resolve().parent
-ROOT = HERE.parent.parent  # repo root
-
-# ---------- Small utils ----------
-
-def info(v: bool, msg: str) -> None:
-    if v:
+def info(enabled: bool, msg: str) -> None:
+    if enabled:
         print(f"[INFO] {msg}", flush=True)
 
 def warn(msg: str) -> None:
     print(f"[WARN] {msg}", flush=True)
 
-def to_repo_rel(p: Path) -> str:
+def run(cmd: List[str], verbose: bool=False) -> Tuple[int, str, str]:
+    if verbose:
+        print("  $", " ".join(cmd), flush=True)
+    p = subprocess.run(cmd, text=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    return p.returncode, p.stdout, p.stderr
+
+def ensure_dir(p: Path) -> None:
+    p.mkdir(parents=True, exist_ok=True)
+
+def repo_rel(p: Optional[Path]) -> str:
+    if not p:
+        return ""
     try:
-        return str(p.resolve().relative_to(ROOT))
+        root = Path(__file__).resolve().parents[2]  # repo/
+        return str(p.resolve().relative_to(root))
     except Exception:
-        return str(p.resolve())
+        return str(p)
 
-def run(cmd: List[str]) -> Tuple[int, str, str]:
-    try:
-        p = subprocess.run(cmd, check=False, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
-        return p.returncode, p.stdout, p.stderr
-    except Exception as e:
-        return 1, "", str(e)
+# ------------------------- core logic -------------------------
 
-# ---------- Index & Patch helpers ----------
+MOBILE_NO_COOKIE_CLIENTS = [
+    # Do NOT pass cookies to these:
+    "android",
+    "ios",
+    "tv",           # try tv without cookies before we fall back with cookies
+]
+COOKIE_FALLBACK_CLIENTS = [
+    # These we *do* try with cookies-from-browser, if provided:
+    "tv_embedded",
+    "web",
+]
 
-def load_index(index_path: Path, verbose: bool=False) -> List[Dict]:
+def load_index(index_path: Path, verbose: bool=False) -> list[dict]:
     if not index_path.exists():
         raise FileNotFoundError(f"index not found: {index_path}")
     data = json.loads(index_path.read_text(encoding="utf-8"))
     items = data.get("items") if isinstance(data, dict) else data
     if not isinstance(items, list):
-        raise ValueError("index must be a list or {'items':[...]} at the top level")
-    info(verbose, f"Loaded index items: {len(items)} from {to_repo_rel(index_path)}")
+        raise ValueError("index must be a list or {items:[...]} at the top level")
+    # minimal shape validation
+    for it in items:
+        if not it.get("youtube_url") or not it.get("slug"):
+            raise ValueError("each item must contain youtube_url and slug")
+    info(verbose, f"Loaded {len(items)} items from {repo_rel(index_path)}")
     return items
 
-def extract_ids_from_patch(patch_path: Path, verbose: bool=False) -> set[str]:
-    ids: set[str] = set()
-    if not patch_path.exists():
-        warn(f"patch json not found: {patch_path}")
-        return ids
-    try:
-        data = json.loads(patch_path.read_text(encoding="utf-8"))
-    except Exception as e:
-        warn(f"failed to parse patch: {patch_path} ({e})")
-        return ids
-    items = data if isinstance(data, list) else (data.get("items") or data.get("entries") or [])
-    for it in items or []:
-        for k in ("id", "slug", "youtube_id"):
-            v = (it.get(k) or "").strip()
-            if v:
-                ids.add(v)
-        tr = (it.get("transcript") or "").strip()
-        m = re.search(r"([^/]+)\.md$", tr)
-        if m:
-            ids.add(m.group(1))
-    info(verbose, f"Filtered IDs from patch: {len(ids)}")
-    return ids
+def video_attempts(url: str,
+                   out_mp4: Path,
+                   browser_cookies: Optional[str],
+                   verbose: bool) -> Tuple[bool, str]:
+    """
+    Try android → ios → tv (no cookies, prefer native HLS),
+    then tv_embedded → web (with cookies) if a browser is provided.
+    """
+    last_tail = ""
 
-def basename_for_item(it: Dict) -> Optional[str]:
-    # Prefer YouTube ID (stable, unique), else transcript stem, else id/slug
-    yid = (it.get("youtube_id") or "").strip()
-    if yid:
-        return yid
-    tr = (it.get("transcript") or "").strip()
-    if tr:
-        m = re.search(r"([^/]+)\.md$", tr)
-        if m:
-            return m.group(1)
-    for k in ("id", "slug"):
-        v = (it.get(k) or "").strip()
-        if v:
-            return v
-    return None
-
-def youtube_url_for(it: Dict) -> str:
-    url = (it.get("youtube_url") or "").strip()
-    yid = (it.get("youtube_id") or "").strip()
-    return url or (f"https://youtu.be/{yid}" if yid else "")
-
-# ---------- yt-dlp command builders ----------
-
-def build_base_args() -> List[str]:
-    return [
-        "yt-dlp",
-        "--progress",
-        "--continue",                 # resume partial
-        "--no-overwrites",            # don't clobber finished files
-        "--restrict-filenames",
-        "--force-ipv4",
-        "--geo-bypass-country", "US",
-        "--sleep-requests", "1",
-        "--min-sleep-interval", "1", "--max-sleep-interval", "3",
-        "--concurrent-fragments", "1",
-        "--format-sort", "proto:https",
-    ]
-
-def client_allows_cookies(client: str) -> bool:
-    return client in ("web", "mweb", "web_creator", "web_embedded")
-
-# ---------- Single-attempt download helpers (detect by scanning files) ----------
-
-def try_download_audio(url: str,
-                       out_glob_base: Path,
-                       client: str,
-                       cookies_from_browser: Optional[str],
-                       cookies_file: Optional[str],
-                       verbose: bool) -> Tuple[bool, str, Optional[Path]]:
-    cmd = build_base_args()
-    cmd += ["--extractor-args", f"youtube:player_client={client}"]
-    if client_allows_cookies(client) and cookies_from_browser:
-        cmd += ["--cookies-from-browser", cookies_from_browser]
-    if cookies_file:
-        cmd += ["--cookies", cookies_file]
-    cmd += ["-f", AUDIO_FORMAT_EXPR, "-o", str(out_glob_base), url]
-
-    rc, so, se = run(cmd)
-    err = (so + "\n" + se)
-    audio_dir = out_glob_base.parent
-    base = out_glob_base.name.replace(".%(ext)s", "")
-    found = None
-    for ext in (".m4a", ".webm", ".opus", ".mp3"):
-        p = audio_dir / f"{base}{ext}"
-        if p.exists() and p.stat().st_size > 0:
-            found = p
-            break
-    ok = found is not None
-    if verbose:
-        info(True, f"client={client} cookies={'on' if (client_allows_cookies(client) and cookies_from_browser) else 'off'} rc={rc} ok={'Y' if ok else 'N'}")
-    return ok, err, found
-
-def try_download_video(url: str,
-                       out_path: Path,
-                       client: str,
-                       cookies_from_browser: Optional[str],
-                       cookies_file: Optional[str],
-                       verbose: bool) -> Tuple[bool, str]:
-    cmd = build_base_args()
-    cmd += ["--extractor-args", f"youtube:player_client={client}"]
-    if client_allows_cookies(client) and cookies_from_browser:
-        cmd += ["--cookies-from-browser", cookies_from_browser]
-    if cookies_file:
-        cmd += ["--cookies", cookies_file]
-    cmd += ["-f", VIDEO_FORMAT_EXPR, "-o", str(out_path), url]
-    rc, so, se = run(cmd)
-    err = (so + "\n" + se)
-    ok = out_path.exists() and out_path.stat().st_size > 0
-    if verbose:
-        info(True, f"video client={client} cookies={'on' if (client_allows_cookies(client) and cookies_from_browser) else 'off'} rc={rc} ok={'Y' if ok else 'N'}")
-    return ok, err
-
-# ---------- Multi-client fallback wrappers ----------
-
-def download_audio_with_fallbacks(url: str,
-                                  out_glob_base: Path,
-                                  cookies_from_browser: Optional[str],
-                                  cookies_file: Optional[str],
-                                  verbose: bool) -> Tuple[bool, str, Optional[Path]]:
-    last_err = ""
-    for client in CLIENT_ORDER:
-        ok, err, found = try_download_audio(url, out_glob_base, client, cookies_from_browser, cookies_file, verbose)
-        if ok and found:
-            return True, "", found
-
-        last_err = err[-2000:]
-        lerr = last_err.lower()
-        if SABR_MSG.lower() in lerr:
-            if verbose: warn("SABR detected (audio); trying next client")
-            continue
-        if PO_WARN.lower() in lerr and client == "android":
-            if verbose: warn("Android PO-token warning (audio); trying next client")
-            continue
-        if AGE_MSG in lerr and not client_allows_cookies(client):
-            if verbose: warn("Age gate hint (audio); will try a web client with cookies")
-            continue
-    return False, last_err, None
-
-def download_video_with_fallbacks(url: str,
-                                  out_path: Path,
-                                  cookies_from_browser: Optional[str],
-                                  cookies_file: Optional[str],
-                                  verbose: bool) -> Tuple[bool, str]:
-    last_err = ""
-    for client in CLIENT_ORDER:
-        ok, err = try_download_video(url, out_path, client, cookies_from_browser, cookies_file, verbose)
-        if ok:
+    # 1) Mobile-first (no cookies)
+    for client in MOBILE_NO_COOKIE_CLIENTS:
+        cmd = [
+            "yt-dlp",
+            "--extractor-args", f"youtube:player_client={client},player_skip=web,web_creator",
+            "--hls-prefer-native",
+            "-o", str(out_mp4),
+            url,
+        ]
+        rc, so, se = run(cmd, verbose)
+        err = (so + "\n" + se)
+        last_tail = err[-1200:]
+        if out_mp4.exists() and out_mp4.stat().st_size > 0:
             return True, ""
-        last_err = err[-2000:]
-        lerr = last_err.lower()
-        if SABR_MSG.lower() in lerr:
-            if verbose: warn("SABR detected (video); trying next client")
-            continue
-        if PO_WARN.lower() in lerr and client == "android":
-            if verbose: warn("Android PO-token warning (video); trying next client")
-            continue
-        if AGE_MSG in lerr and not client_allows_cookies(client):
-            if verbose: warn("Age gate hint (video); will try a web client with cookies")
-            continue
-    return False, last_err
+    # 2) Cookie fallbacks (only if browser is provided)
+    if browser_cookies:
+        for client in COOKIE_FALLBACK_CLIENTS:
+            cmd = [
+                "yt-dlp",
+                "--cookies-from-browser", browser_cookies,
+                "--extractor-args", f"youtube:player_client={client}",
+                # don't force HLS for web fallback; let yt-dlp decide
+                "-o", str(out_mp4),
+                url,
+            ]
+            rc, so, se = run(cmd, verbose)
+            err = (so + "\n" + se)
+            last_tail = err[-1200:]
+            if out_mp4.exists() and out_mp4.stat().st_size > 0:
+                return True, ""
+    return False, last_tail
 
-# ---------- Main ----------
+def audio_attempts(url: str,
+                   out_glob_base: Path,
+                   browser_cookies: Optional[str],
+                   verbose: bool) -> Tuple[bool, str, Optional[Path]]:
+    """
+    Same order as video. For audio we -x to mp3 and check the .mp3 exists.
+    """
+    last_tail = ""
+
+    def mp3_path(base: Path) -> Path:
+        return base.parent / (base.name.replace(".%(ext)s", "") + ".mp3")
+
+    # 1) Mobile-first (no cookies)
+    for client in MOBILE_NO_COOKIE_CLIENTS:
+        cmd = [
+            "yt-dlp",
+            "-x", "--audio-format", "mp3",
+            "--extractor-args", f"youtube:player_client={client},player_skip=web,web_creator",
+            "-o", str(out_glob_base),
+            url,
+        ]
+        rc, so, se = run(cmd, verbose)
+        err = (so + "\n" + se)
+        last_tail = err[-1200:]
+        mp3 = mp3_path(out_glob_base)
+        if mp3.exists() and mp3.stat().st_size > 0:
+            return True, "", mp3
+
+    # 2) Cookie fallbacks
+    if browser_cookies:
+        for client in COOKIE_FALLBACK_CLIENTS:
+            cmd = [
+                "yt-dlp",
+                "-x", "--audio-format", "mp3",
+                "--cookies-from-browser", browser_cookies,
+                "--extractor-args", f"youtube:player_client={client}",
+                "-o", str(out_glob_base),
+                url,
+            ]
+            rc, so, se = run(cmd, verbose)
+            err = (so + "\n" + se)
+            last_tail = err[-1200:]
+            mp3 = mp3_path(out_glob_base)
+            if mp3.exists() and mp3.stat().st_size > 0:
+                return True, "", mp3
+
+    return False, last_tail, None
+
+# ------------------------- main -------------------------
 
 def main() -> int:
-    ap = argparse.ArgumentParser(description="Download YouTube media for an index (optionally restricted by patch).")
-    ap.add_argument("--index", default=str(ROOT / "index.json"))
-    ap.add_argument("--only-from-patch")
-    ap.add_argument("--only", action="append", default=[], help="Additional allowlist IDs (id/slug/youtube_id/basename). Can be passed multiple times.")
-    ap.add_argument("--video-dir", default=None, help="Directory for MP4 files; omit to skip video.")
-    ap.add_argument("--audio-dir", default=str(ROOT / "downloads" / "audio"))
-    ap.add_argument("--yt-cookies-from-browser", help="e.g., chrome | chrome:Default | brave | firefox | safari")
-    ap.add_argument("--yt-cookies", help="Path to cookies.txt (Netscape format)")
-    ap.add_argument("--verbose", action="store_true")
-    args = ap.parse_args()
+    parser = argparse.ArgumentParser(
+        description="Download YouTube media by slug using a SABR-resilient client order."
+    )
+    parser.add_argument("--index", required=True, help="Path to index.for_dl.json (items: [{youtube_url, slug}]).")
+    parser.add_argument("--video-dir", help="Directory for MP4 outputs.")
+    parser.add_argument("--audio-dir", help="Directory for MP3 outputs.")
+    parser.add_argument("--browser", default=None, help="cookies-from-browser value, e.g. chrome:Default (used only for fallbacks).")
+    parser.add_argument("--mode", choices=["audio", "video", "both"], default="both")
+    parser.add_argument("--verbose", action="store_true")
+    args = parser.parse_args()
 
     index_path = Path(args.index).resolve()
     items = load_index(index_path, verbose=args.verbose)
 
-    allow_ids: Optional[set[str]] = None
-    if args.only_from_patch:
-        allow_ids = extract_ids_from_patch(Path(args.only_from_patch).resolve(), verbose=args.verbose)
-    if args.only:
-        allow_ids = (allow_ids or set()) | {s.strip() for chunk in args.only for s in chunk.split(",") if s.strip()}
-
-    # Build selection
-    work: List[Dict] = []
-    for it in items:
-        base = basename_for_item(it)
-        if not base:
-            continue
-        if allow_ids:
-            ok = False
-            for k in ("id", "slug", "youtube_id"):
-                v = (it.get(k) or "").strip()
-                if v and v in allow_ids:
-                    ok = True
-                    break
-            if base in allow_ids:
-                ok = True
-            if not ok:
-                continue
-        work.append(it)
-
-    # Dirs
-    audio_dir = Path(args.audio_dir).resolve()
-    audio_dir.mkdir(parents=True, exist_ok=True)
-    video_dir: Optional[Path] = None
+    # Defaults for out dirs (mirror your patch preview structure if index is inside it)
     if args.video_dir:
-        video_dir = Path(args.video_dir).resolve()
-        video_dir.mkdir(parents=True, exist_ok=True)
+        vdir = Path(args.video_dir).resolve()
+    else:
+        vdir = index_path.parent / "downloads" / "video"
+    if args.audio_dir:
+        adir = Path(args.audio_dir).resolve()
+    else:
+        adir = index_path.parent / "downloads" / "audio"
 
-    manifest_path = (audio_dir.parent / "_media_manifest.csv").resolve()
+    ensure_dir(vdir)
+    ensure_dir(adir)
+    info(args.verbose, f"Video dir: {repo_rel(vdir)} | Audio dir: {repo_rel(adir)}")
 
-    rows: List[Dict] = []
-    for i, it in enumerate(work, 1):
-        base = basename_for_item(it)
-        url  = youtube_url_for(it)
-        if not base or not url:
-            rows.append({
-                "basename": base or "",
-                "youtube_url": url or "",
-                "status": "skipped:missing_base_or_url",
-                "video_path": "",
-                "audio_path": "",
-                "stderr_tail": "",
-            })
-            continue
+    manifest_path = (vdir.parent / "_media_manifest.csv").resolve()
 
-        info(args.verbose, f"[{i}/{len(work)}] {base}")
+    rows: List[dict] = []
+    for i, it in enumerate(items, 1):
+        url = it["youtube_url"].strip()
+        slug = it["slug"].strip()
+        print(f"[{i}/{len(items)}] {slug}", flush=True)
 
-        # Targets
-        a_out_glob = audio_dir / f"{base}.%(ext)s"
-        v_out = (video_dir / f"{base}.mp4") if video_dir else None
+        status_parts = []
+        v_ok = a_ok = False
+        v_err = a_err = ""
+        v_path: Optional[Path] = None
+        a_path: Optional[Path] = None
 
-        # Download
-        a_ok, a_err, a_found = download_audio_with_fallbacks(
-            url, a_out_glob, args.yt_cookies_from_browser, args.yt_cookies, args.verbose
-        )
-        if video_dir:
-            v_ok, v_err = download_video_with_fallbacks(
-                url, v_out, args.yt_cookies_from_browser, args.yt_cookies, args.verbose
-            )
+        # Video
+        if args.mode in ("video", "both"):
+            v_path = vdir / f"{slug}.mp4"
+            if v_path.exists() and v_path.stat().st_size > 0:
+                info(args.verbose, "  video exists, skip")
+                v_ok = True
+            else:
+                ok, tail = video_attempts(url, v_path, args.browser, args.verbose)
+                v_ok, v_err = ok, tail
+            status_parts.append("video_ok" if v_ok else "video_fail")
+
+        # Audio
+        if args.mode in ("audio", "both"):
+            # use %(ext)s; we will check the .mp3 afterwards
+            a_glob = adir / f"{slug}.%(ext)s"
+            expected_mp3 = adir / f"{slug}.mp3"
+            if expected_mp3.exists() and expected_mp3.stat().st_size > 0:
+                info(args.verbose, "  audio exists, skip")
+                a_ok = True
+                a_path = expected_mp3
+            else:
+                ok, tail, found = audio_attempts(url, a_glob, args.browser, args.verbose)
+                a_ok, a_err, a_path = ok, tail, found
+            status_parts.append("audio_ok" if a_ok else "audio_fail")
+
+        # status
+        if args.mode == "video":
+            status = "ok:video" if v_ok else "failed:video"
+        elif args.mode == "audio":
+            status = "ok:audio" if a_ok else "failed:audio"
         else:
-            v_ok, v_err = (False, "")
-
-        status = (
-            "ok:video+audio" if (v_ok and a_ok) else
-            ("ok:audio_only" if a_ok else ("ok:video_only" if v_ok else "failed"))
-        )
-        err_tail = ""
-        if status == "failed":
-            combined = (a_err or "") + "\n" + (v_err or "")
-            err_tail = combined[-1000:]
-            lerr = err_tail.lower()
-            if "age" in lerr and "confirm" in lerr:
-                status = "failed:age_restricted"
-            elif "403" in lerr or "forbidden" in lerr:
-                status = "failed:403"
-            elif SABR_MSG.lower() in lerr:
-                status = "failed:sabr"
-            elif PO_WARN.lower() in lerr:
-                status = "failed:po_token"
+            status = "ok:video+audio" if (v_ok and a_ok) else ("ok:video_only" if v_ok else ("ok:audio_only" if a_ok else "failed"))
 
         rows.append({
-            "basename": base,
+            "slug": slug,
             "youtube_url": url,
             "status": status,
-            "video_path": to_repo_rel(v_out) if (v_out and v_out.exists()) else "",
-            "audio_path": to_repo_rel(a_found) if a_found else "",
-            "stderr_tail": (err_tail.replace("\x00", " ") if err_tail else ""),
+            "video_path": repo_rel(v_path) if (v_path and v_path.exists()) else "",
+            "audio_path": repo_rel(a_path) if (a_path and a_path.exists()) else "",
+            "stderr_tail": (v_err or "")[-600:] + ("\n" if v_err and a_err else "") + (a_err or "")[-600:],
         })
 
-    # Manifest
+    # write manifest
     with manifest_path.open("w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(
-            f,
-            fieldnames=["basename", "youtube_url", "status", "video_path", "audio_path", "stderr_tail"]
-        )
+        w = csv.DictWriter(f, fieldnames=["slug", "youtube_url", "status", "video_path", "audio_path", "stderr_tail"])
         w.writeheader()
         w.writerows(rows)
 
-    # Summary
-    from collections import Counter
+    # summary
     c = Counter(r["status"] for r in rows)
     print("\n=== Media Download Summary ===")
     for k in sorted(c):
-        print(f"{k:24s} {c[k]:4d}")
-    print(f"Manifest: {to_repo_rel(manifest_path)}")
+        print(f"{k:20s} {c[k]:4d}")
+    print(f"Manifest: {repo_rel(manifest_path)}")
 
     return 0
 
 if __name__ == "__main__":
-    sys.exit(main())
+    raise SystemExit(main())
