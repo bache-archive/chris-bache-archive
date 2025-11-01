@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>-h/sitemap-captions.xml</loc>
-    <lastmod>2025-10-27</lastmod>
+    <loc>https://bache-archive.github.io/chris-bache-archive/sitemap-captions.xml</loc>
+    <lastmod>2025-11-01</lastmod>
   </sitemap>
   <sitemap>
-    <loc>-h/sitemap-transcripts.xml</loc>
-    <lastmod>2025-10-27</lastmod>
+    <loc>https://bache-archive.github.io/chris-bache-archive/sitemap-transcripts.xml</loc>
+    <lastmod>2025-11-01</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://bache-archive.github.io/chris-bache-archive/sitemap-diarist.xml</loc>
+    <lastmod>2025-11-01</lastmod>
   </sitemap>
 </sitemapindex>

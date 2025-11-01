@@ -108,6 +108,18 @@
     "published": "2018-10-12"
   },
   {
+    "youtube_id": "GpQGpCJbqQQ",
+    "title": "Chris Bache Pre-SPMC 2018 Interview",
+    "channel": "SPMC",
+    "source_type": "interview",
+    "published": "2019-02-26",
+    "slug": "2019-02-26-chris-bache-pre-spmc-2018-interview",
+    "media": {
+      "audio": "downloads/audio/2019-02-26-chris-bache-pre-spmc-2018-interview.mp3",
+      "video": "downloads/video/2019-02-26-chris-bache-pre-spmc-2018-interview.mp4"
+    }
+  },
+  {
     "archival_title": "Michael Pollan and Chris Bache – Buddha at the Gas Pump Interview",
     "channel": "Buddha at the Gas Pump®",
     "source_type": "interview",
@@ -162,6 +174,30 @@
     "published": "2019-09-26"
   },
   {
+    "youtube_id": "VmjnpkSFjwc",
+    "title": "The Human Experience Live Show #022 — Dr. Chris Bache, LSD and the Mind of the Universe",
+    "channel": "The Human Experience Podcast",
+    "source_type": "interview",
+    "published": "2019-10-18",
+    "slug": "2019-10-18-the-human-experience-live-show-022-dr-chris-bache-lsd-and-the-mind-of-the-universe",
+    "media": {
+      "audio": "downloads/audio/2019-10-18-the-human-experience-live-show-022-dr-chris-bache-lsd-and-the-mind-of-the-universe.mp3",
+      "video": "downloads/video/2019-10-18-the-human-experience-live-show-022-dr-chris-bache-lsd-and-the-mind-of-the-universe.mp4"
+    }
+  },
+  {
+    "youtube_id": "2c9RB7VSc50",
+    "title": "An Interview with Chris Bache — LSD and the Universe",
+    "channel": "Unknown",
+    "source_type": "interview",
+    "published": "2019-10-22",
+    "slug": "2019-10-22-an-interview-with-chris-bache-lsd-and-the-universe",
+    "media": {
+      "audio": "downloads/audio/2019-10-22-an-interview-with-chris-bache-lsd-and-the-universe.mp3",
+      "video": "downloads/video/2019-10-22-an-interview-with-chris-bache-lsd-and-the-universe.mp4"
+    }
+  },
+  {
     "archival_title": "LSD & the Mind of the Universe: Diamonds from Heaven",
     "channel": "Trust Psyche",
     "source_type": "lecture",
@@ -178,6 +214,51 @@
     "blob_url": "https://github.com/bache-archive/chris-bache-archive/blob/main/sources/transcripts/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md",
     "raw_url": "https://raw.githubusercontent.com/bache-archive/chris-bache-archive/main/sources/transcripts/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md",
     "published": "2019-11-13"
+  },
+  {
+    "youtube_id": "NJSAAFQgat0",
+    "title": "Behind the Curtain — Christopher M. Bache, Ph.D. (Episode 64)",
+    "channel": "Behind the Curtain",
+    "source_type": "interview",
+    "published": "2019-11-18",
+    "slug": "2019-11-18-behind-the-curtain-christopher-m-bache-phd-episode-64",
+    "media": {
+      "audio": "downloads/audio/2019-11-18-behind-the-curtain-christopher-m-bache-phd-episode-64.mp3",
+      "video": "downloads/video/2019-11-18-behind-the-curtain-christopher-m-bache-phd-episode-64.mp4"
+    }
+  },
+  {
+    "youtube_id": "mW1l6dOa8sc",
+    "title": "Live with Chris Bache — 73 LSD Sessions: Journey Through the Mind of the Universe",
+    "channel": "Vanese McNeill",
+    "source_type": "interview",
+    "published": "2019-11-25",
+    "slug": "2019-11-25-live-with-chris-bache-73-lsd-sessions-journey-through-the-mind-of-the-universe-w-vanese-mc-neill",
+    "media": {
+      "audio": "downloads/audio/2019-11-25-live-with-chris-bache-73-lsd-sessions-journey-through-the-mind-of-the-universe-w-vanese-mc-neill.mp3",
+      "video": "downloads/video/2019-11-25-live-with-chris-bache-73-lsd-sessions-journey-through-the-mind-of-the-universe-w-vanese-mc-neill.mp4"
+    }
+  },
+  {
+    "work_id": "lsdmu",
+    "archival_title": "LSD and the Mind of the Universe: Diamonds from Heaven",
+    "author": "Christopher M. Bache",
+    "source_type": "book",
+    "registry_path": "sources/transcripts/lsdmu/lsdmu.section-registry.json",
+    "alignment_paths": [
+      "alignments/lsdmu/innertraditions-2019-hc.json",
+      "alignments/lsdmu/audiobook-2019.json"
+    ],
+    "media": {},
+    "transcript": null,
+    "diarist": null,
+    "youtube_id": null,
+    "youtube_url": null,
+    "web_url": "https://www.innertraditions.com/books/lsd-and-the-mind-of-the-universe",
+    "duration_hms": null,
+    "published": "2019-11-26",
+    "license": "CC0-1.0 (registry + metadata only)",
+    "notes": "Canonical segmentation with verified hardcover pagination and placeholder audiobook alignment; no transcript or captions exist for this work."
   },
   {
     "archival_title": "LSD and the Mind of the Universe: Diamonds from Heaven",
@@ -214,6 +295,30 @@
     "blob_url": "https://github.com/bache-archive/chris-bache-archive/blob/main/sources/transcripts/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.md",
     "raw_url": "https://raw.githubusercontent.com/bache-archive/chris-bache-archive/main/sources/transcripts/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.md",
     "published": "2020-01-10"
+  },
+  {
+    "youtube_id": "ecxKbQic9GQ",
+    "title": "Diamond Luminosity — Exploring High-Dose LSD Experiences with Dr. Chris Bache",
+    "channel": "Unknown",
+    "source_type": "lecture",
+    "published": "2020-01-17",
+    "slug": "2020-01-17-diamond-luminosity-exploring-high-dose-lsd-experiences-with-dr",
+    "media": {
+      "audio": "downloads/audio/2020-01-17-diamond-luminosity-exploring-high-dose-lsd-experiences-with-dr.mp3",
+      "video": "downloads/video/2020-01-17-diamond-luminosity-exploring-high-dose-lsd-experiences-with-dr.mp4"
+    }
+  },
+  {
+    "youtube_id": "t1xoqim2x_I",
+    "title": "Behind the Curtain with Christopher M. Bache, Ph.D. (Episode 64)",
+    "channel": "Behind the Curtain",
+    "source_type": "interview",
+    "published": "2020-03-22",
+    "slug": "2020-03-22-behind-the-curtain-with-christopher-m-bache-phd-episode-64",
+    "media": {
+      "audio": "downloads/audio/2020-03-22-behind-the-curtain-with-christopher-m-bache-phd-episode-64.mp3",
+      "video": "downloads/video/2020-03-22-behind-the-curtain-with-christopher-m-bache-phd-episode-64.mp4"
+    }
   },
   {
     "archival_title": "Bicycle Day Conversation with Jef Baker",
@@ -270,6 +375,18 @@
     "published": "2020-10-04"
   },
   {
+    "youtube_id": "sL17AtT7Kxk",
+    "title": "What 73 High-Dose LSD Sessions Teach You About the Mind of the Universe (Ep11)",
+    "channel": "Chris Bache Official",
+    "source_type": "lecture",
+    "published": "2020-12-03",
+    "slug": "2020-12-03-what-73-high-dose-lsd-sessions-teach-you-about-the-mind-of-the-universe-w-christopher-m-bache-ep11",
+    "media": {
+      "audio": "downloads/audio/2020-12-03-what-73-high-dose-lsd-sessions-teach-you-about-the-mind-of-the-universe-w-christopher-m-bache-ep11.mp3",
+      "video": "downloads/video/2020-12-03-what-73-high-dose-lsd-sessions-teach-you-about-the-mind-of-the-universe-w-christopher-m-bache-ep11.mp4"
+    }
+  },
+  {
     "archival_title": "Great Conjunction Reflection (short)",
     "channel": "Spirit Plant Medicine",
     "source_type": "excerpt",
@@ -286,6 +403,18 @@
     "blob_url": "https://github.com/bache-archive/chris-bache-archive/blob/main/sources/transcripts/2020-12-21-great-conjunction-reflection-short.md",
     "raw_url": "https://raw.githubusercontent.com/bache-archive/chris-bache-archive/main/sources/transcripts/2020-12-21-great-conjunction-reflection-short.md",
     "published": "2020-12-21"
+  },
+  {
+    "youtube_id": "dJ_dMUdl5Gc",
+    "title": "Discover the Mind of the Universe — LSD, Psychedelic Research, and Consciousness",
+    "channel": "Unknown",
+    "source_type": "interview",
+    "published": "2021-01-02",
+    "slug": "2021-01-02-discover-the-mind-of-the-universe-lsd-psychedelic-research-with-professor-christopher-m-bache",
+    "media": {
+      "audio": "downloads/audio/2021-01-02-discover-the-mind-of-the-universe-lsd-psychedelic-research-with-professor-christopher-m-bache.mp3",
+      "video": "downloads/video/2021-01-02-discover-the-mind-of-the-universe-lsd-psychedelic-research-with-professor-christopher-m-bache.mp4"
+    }
   },
   {
     "archival_title": "Contemplating Reincarnation – Part 2",
@@ -446,6 +575,18 @@
     "published": "2021-07-08"
   },
   {
+    "youtube_id": "BR3-F01yy7Y",
+    "title": "Transformative Journey into the Cosmic Mind through Psychedelics with Chris Bache",
+    "channel": "Unknown",
+    "source_type": "interview",
+    "published": "2021-11-16",
+    "slug": "2021-11-16-transformative-journey-into-the-cosmic-mind-through-psychedelics-with",
+    "media": {
+      "audio": "downloads/audio/2021-11-16-transformative-journey-into-the-cosmic-mind-through-psychedelics-with.mp3",
+      "video": "downloads/video/2021-11-16-transformative-journey-into-the-cosmic-mind-through-psychedelics-with.mp4"
+    }
+  },
+  {
     "archival_title": "Evolution of Collective Consciousness (Deep Transformation Podcast – Part 1)",
     "channel": "Deep Transformation Podcast",
     "source_type": "interview",
@@ -478,6 +619,20 @@
     "published": "2022-02-16"
   },
   {
+    "archival_title": "What It's Like Meeting God on Psychedelics (feat. Christopher Bache)",
+    "channel": "Consciousness Clips",
+    "source_type": "lecture",
+    "transcript": "sources/transcripts/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.md",
+    "diarist": "sources/diarist/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.txt",
+    "youtube_id": "58dPxDtf-r0",
+    "youtube_url": "https://youtu.be/58dPxDtf-r0",
+    "web_url": "",
+    "duration_hms": "00:03:28",
+    "blob_url": "https://github.com/bache-archive/chris-bache-archive/blob/main/sources/transcripts/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.md",
+    "raw_url": "https://raw.githubusercontent.com/bache-archive/chris-bache-archive/main/sources/transcripts/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.md",
+    "published": "2022-02-17"
+  },
+  {
     "archival_title": "Exploring LSD as a Practice (Edge of Mind Podcast – Part 1)",
     "channel": "Edge of Mind",
     "source_type": "interview",
@@ -493,20 +648,6 @@
     },
     "blob_url": "https://github.com/bache-archive/chris-bache-archive/blob/main/sources/transcripts/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.md",
     "raw_url": "https://raw.githubusercontent.com/bache-archive/chris-bache-archive/main/sources/transcripts/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.md",
-    "published": "2022-02-17"
-  },
-  {
-    "archival_title": "What It's Like Meeting God on Psychedelics (feat. Christopher Bache)",
-    "channel": "Consciousness Clips",
-    "source_type": "lecture",
-    "transcript": "sources/transcripts/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.md",
-    "diarist": "sources/diarist/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.txt",
-    "youtube_id": "58dPxDtf-r0",
-    "youtube_url": "https://youtu.be/58dPxDtf-r0",
-    "web_url": "",
-    "duration_hms": "00:03:28",
-    "blob_url": "https://github.com/bache-archive/chris-bache-archive/blob/main/sources/transcripts/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.md",
-    "raw_url": "https://raw.githubusercontent.com/bache-archive/chris-bache-archive/main/sources/transcripts/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.md",
     "published": "2022-02-17"
   },
   {
@@ -554,6 +695,18 @@
     "blob_url": "https://github.com/bache-archive/chris-bache-archive/blob/main/sources/transcripts/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.md",
     "raw_url": "https://raw.githubusercontent.com/bache-archive/chris-bache-archive/main/sources/transcripts/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.md",
     "published": "2022-06-03"
+  },
+  {
+    "youtube_id": "JqTHcIpcHUU",
+    "title": "Chris Bache — LSD and the Mind of the Universe",
+    "channel": "Unknown",
+    "source_type": "lecture",
+    "published": "2022-08-21",
+    "slug": "2022-08-21-chris-bache-lsd-and-the-mind-of-the-universe",
+    "media": {
+      "audio": "downloads/audio/2022-08-21-chris-bache-lsd-and-the-mind-of-the-universe.mp3",
+      "video": "downloads/video/2022-08-21-chris-bache-lsd-and-the-mind-of-the-universe.mp4"
+    }
   },
   {
     "archival_title": "Psychedelics and Cosmological Exploration with Chris Bache – Reach Truth Podcast",
@@ -682,6 +835,18 @@
     "published": "2023-02-01"
   },
   {
+    "youtube_id": "x9BRgE427I8",
+    "title": "The Role of Psychedelics for a Planet in Transition — with Belinda Eriacho and Chris Bache",
+    "channel": "Unknown",
+    "source_type": "interview",
+    "published": "2023-03-15",
+    "slug": "2023-03-15-the-role-of-psychedelics-for-a-planet-in-transition-with-belinda-eriacho",
+    "media": {
+      "audio": "downloads/audio/2023-03-15-the-role-of-psychedelics-for-a-planet-in-transition-with-belinda-eriacho.mp3",
+      "video": "downloads/video/2023-03-15-the-role-of-psychedelics-for-a-planet-in-transition-with-belinda-eriacho.mp4"
+    }
+  },
+  {
     "archival_title": "What does it mean to be a good person, psychedelically? | Chris Bache PhD",
     "channel": "Adventures Through the Mind",
     "source_type": "lecture",
@@ -789,6 +954,18 @@
     "published": "2023-08-17"
   },
   {
+    "youtube_id": "cC3ddtkL68s",
+    "title": "LSD & The Mind of the Universe with Chris Bache",
+    "channel": "OMTimesTV",
+    "source_type": "interview",
+    "published": "2023-08-17",
+    "slug": "2023-08-17-lsd-the-mind-of-the-universe-with",
+    "media": {
+      "audio": "downloads/audio/2023-08-17-lsd-the-mind-of-the-universe-with.mp3",
+      "video": "downloads/video/2023-08-17-lsd-the-mind-of-the-universe-with.mp4"
+    }
+  },
+  {
     "archival_title": "Experience of the Human Being of the Future (short)",
     "channel": "Buddha at the Gas Pump",
     "source_type": "excerpt",
@@ -877,6 +1054,18 @@
     "blob_url": "https://github.com/bache-archive/chris-bache-archive/blob/main/sources/transcripts/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.md",
     "raw_url": "https://raw.githubusercontent.com/bache-archive/chris-bache-archive/main/sources/transcripts/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.md",
     "published": "2023-12-05"
+  },
+  {
+    "youtube_id": "GNGCq1d4JrI",
+    "title": "Face to Face with Chris Bache",
+    "channel": "OMTimesTV",
+    "source_type": "interview",
+    "published": "2024-02-08",
+    "slug": "2024-02-08-face-to-face-with-chris-bache",
+    "media": {
+      "audio": "downloads/audio/2024-02-08-face-to-face-with-chris-bache.mp3",
+      "video": "downloads/video/2024-02-08-face-to-face-with-chris-bache.mp4"
+    }
   },
   {
     "archival_title": "LSD and the Mind of the Universe: Diamonds from Heaven (SDI Meeting)",
@@ -1095,24 +1284,27 @@
     "published": "2025-07-16"
   },
   {
-    "work_id": "lsdmu",
-    "archival_title": "LSD and the Mind of the Universe: Diamonds from Heaven",
-    "author": "Christopher M. Bache",
-    "source_type": "book",
-    "registry_path": "sources/transcripts/lsdmu/lsdmu.section-registry.json",
-    "alignment_paths": [
-      "alignments/lsdmu/innertraditions-2019-hc.json",
-      "alignments/lsdmu/audiobook-2019.json"
-    ],
-    "media": {},
-    "transcript": null,
-    "diarist": null,
-    "youtube_id": null,
-    "youtube_url": null,
-    "web_url": "https://www.innertraditions.com/books/lsd-and-the-mind-of-the-universe",
-    "duration_hms": null,
-    "published": "2019-11-26",
-    "license": "CC0-1.0 (registry + metadata only)",
-    "notes": "Canonical segmentation with verified hardcover pagination and placeholder audiobook alignment; no transcript or captions exist for this work."
+    "youtube_id": "ZeGh055Porc",
+    "title": "Collective Karma and Reincarnation — with Chris Bache",
+    "channel": "PSA",
+    "source_type": "lecture",
+    "published": "2025-10-15",
+    "slug": "2025-10-15-collective-karma-and-reincarnation-with",
+    "media": {
+      "audio": "downloads/audio/2025-10-15-collective-karma-and-reincarnation-with.mp3",
+      "video": "downloads/video/2025-10-15-collective-karma-and-reincarnation-with.mp4"
+    }
+  },
+  {
+    "youtube_id": "IBCN4z5P-8s",
+    "title": "PSA Fireside Chat — Dr. Raymond Turpin & Dr. Chris Bache",
+    "channel": "PSA",
+    "source_type": "panel",
+    "published": "2025-10-21",
+    "slug": "2025-10-21-psa-fireside-chat-featuring-dr-raymond-turpin-dr",
+    "media": {
+      "audio": "downloads/audio/2025-10-21-psa-fireside-chat-featuring-dr-raymond-turpin-dr.mp3",
+      "video": "downloads/video/2025-10-21-psa-fireside-chat-featuring-dr-raymond-turpin-dr.mp4"
+    }
   }
 ]

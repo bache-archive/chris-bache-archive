@@ -1,17 +1,19 @@
 #!/usr/bin/env python3
 """
-tools/build_site.py
+tools/site/build_site.py
 
-Build *styled* static HTML for:
-  • docs/educational/<qid>/index.md  (hero + cards: book first, talks second)
-  • sources/transcripts/**/*.md       (styled wrapper)
-  • sources/captions/**/*.md          (styled wrapper)
+Build *styled* static HTML wrappers for:
+  • sources/transcripts/**/*.md
+  • sources/captions/**/*.md
+
+Notes:
+- Outputs sit next to the source files as *.html (same directory).
+- Adds a simple hero + card shell and hardens external links.
+- No educational pages are built here (moved to a separate project).
 
 Usage:
-  python3 tools/build_site.py
-  python3 tools/build_site.py --qid future-human
-  python3 tools/build_site.py --site-base /chris-bache-archive --stylesheet assets/style.css
-  python3 tools/build_site.py --skip-sources   # only rebuild educational pages
+  python3 tools/site/build_site.py
+  python3 tools/site/build_site.py --site-base /chris-bache-archive --stylesheet assets/style.css
 """
 
 from __future__ import annotations
@@ -19,8 +21,8 @@ from pathlib import Path
 import argparse, html, re, sys
 import markdown
 
-ROOT = Path(__file__).resolve().parents[1]
-DOCS = ROOT / "docs" / "educational"
+# repo root is two levels up from this file: .../tools/site/build_site.py -> parents[2]
+ROOT = Path(__file__).resolve().parents[2]
 SRC_TRANS = ROOT / "sources" / "transcripts"
 SRC_CAP   = ROOT / "sources" / "captions"
 
@@ -51,55 +53,6 @@ def ensure_target_blank(html_txt: str) -> str:
         return tag
     return re.sub(r'<a\s+[^>]*href="https?://[^"]+"[^>]*>', repl, html_txt, flags=re.I)
 
-# -------- Robust section extraction (HTML first, Markdown fallback) --------
-
-def _normalize_heading_txt(s: str) -> str:
-    import unicodedata
-    s = unicodedata.normalize("NFKC", s)
-    s = re.sub(r"\s+", " ", s).strip().lower()
-    return s
-
-def extract_section(body_html: str, heading_text: str, *, original_md: str | None = None) -> str:
-    """
-    1) Primary: slice HTML between <h2>target</h2> and the next <h2>.
-    2) Fallback: slice Markdown between '## target' and next '## ' if HTML match fails.
-    """
-    target_norm = _normalize_heading_txt(heading_text)
-
-    # --- HTML path ---
-    inner = body_html
-    mbody = re.search(r'<body[^>]*>(.*)</body>', body_html, re.S | re.I)
-    if mbody:
-        inner = mbody.group(1)
-
-    h2s = list(re.finditer(r'<h2[^>]*>(.*?)</h2>', inner, re.S | re.I))
-    target_idx = None
-    for i, h in enumerate(h2s):
-        txt = re.sub(r'<.*?>', '', h.group(1))
-        if _normalize_heading_txt(txt) == target_norm:
-            target_idx = i
-            break
-
-    if target_idx is not None:
-        start = h2s[target_idx].end()
-        end = h2s[target_idx + 1].start() if (target_idx + 1) < len(h2s) else len(inner)
-        return inner[start:end].strip()
-
-    # --- Markdown fallback ---
-    if original_md:
-        # be generous about spaces and punctuation in the heading
-        esc = re.escape(heading_text)
-        md_re = re.compile(rf'(?im)^\#\#\s*{esc}\s*\n(.*?)(?=^\#\#\s|\Z)', re.S)
-        m = md_re.search(original_md)
-        if m:
-            segment_md = m.group(1).strip()
-            try:
-                seg_html = markdown.markdown(segment_md, extensions=["tables", "fenced_code"])
-                return seg_html.strip()
-            except Exception:
-                return segment_md
-    return ""
-
 def wrap_shell(page_title: str, style_href: str, body_inner: str, canonical: str | None = None) -> str:
     canonical_link = f'\n  <link rel="canonical" href="{canonical}" />' if canonical else ""
     return f"""<!doctype html>
@@ -121,12 +74,12 @@ def wrap_shell(page_title: str, style_href: str, body_inner: str, canonical: str
 </body>
 </html>"""
 
-def hero_block(pill: str, h1: str, subtitle_html: str, buttons: list[tuple[str,str,str]] = None, right_note: str = "") -> str:
+def hero_block(pill: str, h1: str, subtitle_html: str, buttons: list[tuple[str,str,str]] = None) -> str:
     btns = []
     for label, href, kind in (buttons or []):
         klass = "btn" if kind == "solid" else "btn-outline"
         btns.append(f'<a class="{klass}" href="{href}">{html.escape(label)}</a>')
-    btnrow = f'<div class="btnrow">{"".join(btns)}{" " if btns else ""}{html.escape(right_note)}</div>' if (btns or right_note) else ""
+    btnrow = f'<div class="btnrow">{"".join(btns)}</div>' if btns else ""
     return f"""
 <header class="hero" aria-labelledby="page-title">
   <span class="pill">{html.escape(pill)}</span>
@@ -147,70 +100,7 @@ def card_section(title: str, inner_html: str) -> str:
   </div>
 </section>""".strip()
 
-# ---------- Educational pages (styled book-first/talks-second) ----------
-
-def edu_subtitle(meta: dict, qid: str) -> str:
-    pretty = (meta.get("title") or qid.replace("-", " ").title()).strip()
-    return f'What does <strong>Chris Bache</strong> say about <strong>{html.escape(pretty)}</strong>?'
-
-def process_educational(md_path: Path, site_base: str, stylesheet: str):
-    qid = md_path.parent.name
-    style_href = f"{site_base.rstrip('/')}/{stylesheet.lstrip('/')}"
-    canonical = f"{site_base.rstrip('/')}/docs/educational/{qid}/"
-
-    raw = md_path.read_text(encoding="utf-8")
-    meta, body_md = parse_front_matter(raw)
-    body_html = md_to_html(body_md)
-
-    # Extract the sections our builder created (now with MD fallback)
-    book_html  = extract_section(body_html, "Primary citations (book — verbatim excerpts)", original_md=body_md)
-    talks_html = extract_section(body_html, "Supporting transcript quotes (verbatim)", original_md=body_md)
-    prov_html  = extract_section(body_html, "Provenance", original_md=body_md)
-    fair_html  = extract_section(body_html, "Fair Use Notice", original_md=body_md)
-
-    # Harden external links
-    book_html  = ensure_target_blank(book_html)
-    talks_html = ensure_target_blank(talks_html)
-    prov_html  = ensure_target_blank(prov_html)
-    fair_html  = ensure_target_blank(fair_html)
-
-    page_title = f'{meta.get("title") or qid.replace("-", " ").title()} — Educational Topic'
-    hero = hero_block(
-        pill="Educational Topic",
-        h1=(meta.get("title") or qid.replace("-", " ").title()),
-        subtitle_html=edu_subtitle(meta, qid),
-        buttons=[
-            ("View sources.json", "./sources.json", "solid"),
-            ("View Markdown", "./index.md", "outline"),
-        ],
-        right_note=(f'ID: {qid} · {meta.get("date","")}'.strip(" ·"))
-    )
-
-    html_inner = "\n".join([
-        hero,
-        card_section("Primary citations (book — verbatim excerpts)", book_html),
-        card_section("Supporting transcript quotes (verbatim)", talks_html),
-        f"""
-<section class="section">
-  <details class="scholar">
-    <summary>Scholarly notes &amp; provenance</summary>
-    <div class="scholar-body">
-      {prov_html if prov_html.strip() else "<p class='muted'>No provenance found.</p>"}
-      <div class="hr"></div>
-      {fair_html if fair_html.strip() else "<p class='muted'>No fair-use block found.</p>"}
-    </div>
-  </details>
-</section>""".strip()
-    ])
-
-    out_html = md_path.with_suffix(".html")
-    out_html.write_text(wrap_shell(page_title, style_href, html_inner, canonical), encoding="utf-8")
-    print(f"[ok] EDU {qid}: wrote {out_html}")
-
-# ---------- Generic “source page” wrapper (transcripts/captions) ----------
-
 def title_guess_from_path(p: Path) -> str:
-    # Try H1 in MD, else filename prettified
     txt = p.read_text(encoding="utf-8", errors="ignore")
     m = re.search(r'^\s*#\s+(.+?)\s*$', txt, re.M)
     if m:
@@ -232,48 +122,31 @@ def process_source_page(md_path: Path, site_base: str, stylesheet: str, pill: st
         subtitle_html=html.escape(subtitle),
         buttons=[("View Markdown", md_path.name, "outline")]
     )
-    inner = "\n".join([
-        hero,
-        card_section("Document", body_html)
-    ])
+    inner = "\n".join([hero, card_section("Document", body_html)])
     page_html = wrap_shell(f"{title} — Chris Bache Archive", style_href, inner)
+
     out_html = md_path.with_suffix(".html")
     out_html.write_text(page_html, encoding="utf-8")
-    print(f"[ok] SRC {out_html}")
+    print(f"[ok] SRC {out_html.relative_to(ROOT)}")
 
 def convert_tree_sources(src: Path, site_base: str, stylesheet: str, pill: str):
-    if not src.exists(): return
+    if not src.exists(): 
+        print(f"[skip] {src.relative_to(ROOT)} (missing)")
+        return
     for md in sorted(src.rglob("*.md")):
         process_source_page(md, site_base, stylesheet, pill)
-
-# ---------- main ----------
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--site-base", default="/chris-bache-archive",
-                    help="Base path for GitHub Pages (used in stylesheet link and canonicals)")
+                    help="Base path for GitHub Pages (used in stylesheet link/canonicals)")
     ap.add_argument("--stylesheet", default="assets/style.css",
                     help="Path to CSS within repo")
-    ap.add_argument("--qid", help="Build only this educational topic (docs/educational/<qid>)")
-    ap.add_argument("--skip-sources", action="store_true",
-                    help="Skip converting sources/transcripts and sources/captions")
     args = ap.parse_args()
 
-    # 1) Educational pages (styled, book-first)
-    if args.qid:
-        md = DOCS / args.qid / "index.md"
-        if not md.exists():
-            sys.exit(f"[error] missing {md}")
-        process_educational(md, args.site_base, args.stylesheet)
-    else:
-        for md in sorted(DOCS.glob("*/index.md")):
-            process_educational(md, args.site_base, args.stylesheet)
-
-    # 2) Sources (styled wrappers)
-    if not args.skip_sources:
-        convert_tree_sources(SRC_TRANS, args.site_base, args.stylesheet, pill="Transcript")
-        convert_tree_sources(SRC_CAP,   args.site_base, args.stylesheet, pill="Captions")
-
+    # Build wrappers for transcripts and captions only
+    convert_tree_sources(SRC_TRANS, args.site_base, args.stylesheet, pill="Transcript")
+    convert_tree_sources(SRC_CAP,   args.site_base, args.stylesheet, pill="Captions")
     print("\nDone.")
 
 if __name__ == "__main__":
