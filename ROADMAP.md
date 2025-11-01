@@ -7,7 +7,7 @@ _Last updated: October 2025_
 ## 🎯 Purpose
 
 This roadmap outlines possible directions for the continued growth and refinement of the **Chris Bache Archive**.  
-The current archive (v2.5) has achieved its primary mission: to **secure and preserve the spoken record** of Christopher M. Bache’s public work (2014–2025) through verified transcripts, diarist accuracy, mirrored media, and documented fixity.
+The current archive (v2.5) has achieved its primary mission: to **secure and preserve the spoken record** of Christopher M. Bache’s public work (2009–2025) through verified transcripts, diarist accuracy, mirrored media, and documented fixity.
 
 What follows are areas of potential expansion — ranked by their *impact-to-effort ratio*, so that future stewards can decide where to invest energy for the greatest lasting value.
 

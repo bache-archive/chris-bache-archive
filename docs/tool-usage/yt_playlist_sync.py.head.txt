@@ -13,7 +13,7 @@ Prereqs:
   client_secret.json in tools/
 
 Usage:
-  python tools/yt_playlist_sync.py --title "Chris Bache Archive — Public Talks & Interviews (2014–2025)"
+  python tools/yt_playlist_sync.py --title "Chris Bache Archive — Public Talks & Interviews (2009–2025)"
   # or, if you already created a playlist and know its ID:
   python tools/yt_playlist_sync.py --playlist-id PLxxxxxxxxxxxxxxxx
 """

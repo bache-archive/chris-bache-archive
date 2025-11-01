@@ -1,5 +1,5 @@
 ===== ARGPARSE FLAGS: tools/yt_playlist_sync.py =====
 103:    ap = argparse.ArgumentParser()
 104:    ap.add_argument("--playlist-id", default="", help="Existing playlist ID (optional)")
-105:    ap.add_argument("--title", default="Chris Bache Archive — Public Talks & Interviews (2014–2025)",
+105:    ap.add_argument("--title", default="Chris Bache Archive — Public Talks & Interviews (2009–2025)",
 107:    ap.add_argument("--desc", default=(

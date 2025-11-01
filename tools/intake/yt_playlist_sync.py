@@ -16,7 +16,7 @@ Prereqs:
 
 Usage:
   # Create-or-sync (without reordering existing items)
-  python tools/yt_playlist_sync.py --title "Chris Bache Archive — Public Talks & Interviews (2014–2025)"
+  python tools/yt_playlist_sync.py --title "Chris Bache Archive — Public Talks & Interviews (2009–2025)"
 
   # Sync an existing playlist by ID
   python tools/yt_playlist_sync.py --playlist-id PLIuDc6SKtEHWjyTpCTJj6AVUrRYv3rbu1
@@ -199,7 +199,7 @@ def reorder_playlist(youtube, playlist_id: str, target_order: List[str], dry_run
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--playlist-id", default="", help="Existing playlist ID (optional)")
-    ap.add_argument("--title", default="Chris Bache Archive — Public Talks & Interviews (2014–2025)",
+    ap.add_argument("--title", default="Chris Bache Archive — Public Talks & Interviews (2009–2025)",
                     help="Playlist title if creating a new one")
     ap.add_argument("--desc", default=(
         "A chronological journey through public talks and interviews by Christopher M. Bache. "

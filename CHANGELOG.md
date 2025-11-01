@@ -1,6 +1,6 @@
 # CHANGELOG.md — Chris Bache Archive
 
-All notable updates to the **Chris Bache Archive (2014–2025)** are documented here.  
+All notable updates to the **Chris Bache Archive (2009–2025)** are documented here.  
 This file complements `POLICIES.md` (rules of practice) and `EDITORIAL_NOTES.md` (specific decisions).  
 Each entry summarizes what changed, when, and why.
 
@@ -45,7 +45,7 @@ It replaced multiple sitemap variants with a single canonical `sitemap.xml`, ens
   - Deterministic URL sorting and whitespace-safe `<loc>` output.
   - Adds `<lastmod>` and `<changefreq>` fields for transcript, caption, and diarist pages.
   - Skips archived or non-served paths to prevent 404s.
-- ✅ Regenerated `sitemap.xml` to reflect all current transcript and caption pages (2014–2025).
+- ✅ Regenerated `sitemap.xml` to reflect all current transcript and caption pages (2009–2025).
 
 ### Summary
 Streamlines site indexing for search engines and guarantees that only valid, publicly served resources are listed in the archive’s sitemap.
@@ -71,7 +71,7 @@ Ensures reliable, auditable timestamp retrieval across all talks and captions.
 ## v3.2 — 2025-10-21  
 **Full Caption Corpus & Timecode Integration**
 
-Adds complete `.vtt` caption coverage (2014–2025) and integrates precise timestamp metadata into the Parquet retrieval layer.
+Adds complete `.vtt` caption coverage (2009–2025) and integrates precise timestamp metadata into the Parquet retrieval layer.
 
 ### Key Changes
 - Added all verified captions under `sources/captions/`.
@@ -297,7 +297,7 @@ This milestone marks the beginning of the **Bache Talks RAG (Retrieval-Augmented
 ## v2.4 — 2025-10-01
 **Transcript Rebuilds from Diarists · Repo Unification · Clean Index**
 
-This release provides version 2.4 of the Chris Bache Archive, a curated collection of transcripts, diarist files, captions, and metadata covering Chris Bache’s talks, interviews, and lectures (2014–2025).
+This release provides version 2.4 of the Chris Bache Archive, a curated collection of transcripts, diarist files, captions, and metadata covering Chris Bache’s talks, interviews, and lectures (2009–2025).
 
 **Key updates in v2.4**
 - **Transcripts rebuilt from diarists:** All 68 transcripts regenerated from diarized sources, significantly improving speaker attribution. Earlier versions relied on captions + GPT inference, which sometimes mis-labeled speakers. (Minor residual errors may remain.)

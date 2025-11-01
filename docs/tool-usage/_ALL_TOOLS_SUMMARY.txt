@@ -848,7 +848,7 @@ AUDIO_ID = "chris-bache-archive-audio"
 VIDEO_ID = "chris-bache-archive-video"
 
 AUDIO_META = {
-    "title": "Chris Bache Archive — Audio (2014–2025)",
+    "title": "Chris Bache Archive — Audio (2009–2025)",
     "creator": "Christopher M. Bache",
     "description": ("Complete MP3 audio recordings preserved for the Chris Bache Archive. "
                     "Transcripts and metadata are maintained in versioned releases at GitHub and Zenodo."),
@@ -858,7 +858,7 @@ AUDIO_META = {
     "mediatype": "audio",
 }
 VIDEO_META = {
-    "title": "Chris Bache Archive — Video (2014–2025)",
+    "title": "Chris Bache Archive — Video (2009–2025)",
     "creator": "Christopher M. Bache",
     "description": ("Complete MP4 video recordings preserved for the Chris Bache Archive. "
                     "Transcripts and metadata are maintained in versioned releases at GitHub and Zenodo."),
@@ -1340,7 +1340,7 @@ Prereqs:
   client_secret.json in tools/
 
 Usage:
-  python tools/yt_playlist_sync.py --title "Chris Bache Archive — Public Talks & Interviews (2014–2025)"
+  python tools/yt_playlist_sync.py --title "Chris Bache Archive — Public Talks & Interviews (2009–2025)"
   # or, if you already created a playlist and know its ID:
   python tools/yt_playlist_sync.py --playlist-id PLxxxxxxxxxxxxxxxx
 """
@@ -1450,7 +1450,7 @@ def auth_youtube():
 ===== ARGPARSE FLAGS: tools/yt_playlist_sync.py =====
 103:    ap = argparse.ArgumentParser()
 104:    ap.add_argument("--playlist-id", default="", help="Existing playlist ID (optional)")
-105:    ap.add_argument("--title", default="Chris Bache Archive — Public Talks & Interviews (2014–2025)",
+105:    ap.add_argument("--title", default="Chris Bache Archive — Public Talks & Interviews (2009–2025)",
 107:    ap.add_argument("--desc", default=(
 ===== HELP: tools/align_chunks.py =====
 usage: align_chunks.py <chunks.csv> <captions.tsv|/dev/null> [diarist.tsv]

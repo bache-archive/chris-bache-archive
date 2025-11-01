@@ -8,7 +8,7 @@ AUDIO_ID = "chris-bache-archive-audio"
 VIDEO_ID = "chris-bache-archive-video"
 
 AUDIO_META = {
-    "title": "Chris Bache Archive — Audio (2014–2025)",
+    "title": "Chris Bache Archive — Audio (2009–2025)",
     "creator": "Christopher M. Bache",
     "description": ("Complete MP3 audio recordings preserved for the Chris Bache Archive. "
                     "Transcripts and metadata are maintained in versioned releases at GitHub and Zenodo."),
@@ -18,7 +18,7 @@ AUDIO_META = {
     "mediatype": "audio",
 }
 VIDEO_META = {
-    "title": "Chris Bache Archive — Video (2014–2025)",
+    "title": "Chris Bache Archive — Video (2009–2025)",
     "creator": "Christopher M. Bache",
     "description": ("Complete MP4 video recordings preserved for the Chris Bache Archive. "
                     "Transcripts and metadata are maintained in versioned releases at GitHub and Zenodo."),

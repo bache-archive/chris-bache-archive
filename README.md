@@ -1,8 +1,8 @@
-# 🧠 Chris Bache Archive (2014–2025)
+# 🧠 Chris Bache Archive (2009–2025)
 
 **Purpose**
 
-This repository safeguards — and makes searchable — the public talks, interviews, and related materials of philosopher–author **Christopher M. Bache** recorded between **2014–2025**.  
+This repository safeguards — and makes searchable — the public talks, interviews, and related materials of philosopher–author **Christopher M. Bache** recorded between **2009–2025**.  
 Our aim is verifiable preservation: every utterance traceable, every citation reproducible.
 
 ---
@@ -96,7 +96,7 @@ Licensing
 
 Citation (suggested)
 
-Bache Archive (2025). Chris Bache Archive (2014–2025) — public talks corpus, transcripts, captions, and retrieval indices.
+Bache Archive (2025). Chris Bache Archive (2009–2025) — public talks corpus, transcripts, captions, and retrieval indices.
 https://bache-archive.github.io/chris-bache-archive/
 
 ⸻

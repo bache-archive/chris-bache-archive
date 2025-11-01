@@ -95,8 +95,8 @@ def render_table(items):
                  "- Concept DOI (latest snapshot): https://doi.org/10.5281/zenodo.17100583  \n"
                  "- Latest release v2.4: https://doi.org/10.5281/zenodo.17238386  \n"
                  "- Internet Archive transcripts snapshot (v2.4): https://archive.org/details/chris-bache-archive-v2.4  \n"
-                 "- Audio collection (2014–2025): https://archive.org/details/chris-bache-archive-audio  \n"
-                 "- Video collection (2014–2025): https://archive.org/details/chris-bache-archive-video  \n")
+                 "- Audio collection (2009–2025): https://archive.org/details/chris-bache-archive-audio  \n"
+                 "- Video collection (2009–2025): https://archive.org/details/chris-bache-archive-video  \n")
     lines.append("\n_All transcripts and metadata are dedicated to the public domain under CC0 1.0._\n")
     return "\n".join(lines)
 

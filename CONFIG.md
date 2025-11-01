@@ -13,7 +13,7 @@
 
 | Parameter | Value | Description |
 |------------|--------|-------------|
-| **Corpus size** | 62 public talks (2014–2025) | All verified public lectures, interviews, and presentations. |
+| **Corpus size** | 62 public talks (2009–2025) | All verified public lectures, interviews, and presentations. |
 | **Total text volume** | ≈ 1,000,000 characters | Approximate combined text length across transcripts. |
 | **Chunk count** | 2,817 | Paragraph-level segments (≈1,000–1,500 chars each, 80–120 overlap). |
 | **Embedding model** | `text-embedding-3-large` | 3,072-dimensional OpenAI embedding model. |
