@@ -9,13 +9,17 @@
   <meta name="google-site-verification" content="iVM4M8NOpsQ2IN9VZyzoffWA9mYeNvHYXztL0EpCKFk" />
   <meta name="description" content="Readable, speaker-attributed transcripts and public talks by Christopher M. Bache (2009–2025). A living digital archive preserved for future study and awakening." />
 
+  <!-- Scholarly identifiers -->
+  <meta name="wikidata:author" content="Q112496741" />
+  <meta name="openalex:author" content="A5045900737" />
+
   <!-- Sitemap discovery for crawlers -->
   <link rel="sitemap" type="application/xml" title="Sitemap"
         href="https://bache-archive.github.io/chris-bache-archive/sitemap-index.xml" />
 
   <link rel="stylesheet" href="assets/style.css" />
 
-  <!-- Structured data with Wikidata QIDs -->
+  <!-- Structured data (Wikidata + OpenAlex + schema.org) -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -25,35 +29,58 @@
         "@id": "https://bache-archive.github.io/chris-bache-archive/#christopher-m-bache",
         "name": "Christopher M. Bache",
         "sameAs": [
-          "https://www.wikidata.org/wiki/Q112496741"
+          "https://www.wikidata.org/wiki/Q112496741",
+          "https://openalex.org/A5045900737"
         ]
       },
       {
         "@type": "Book",
         "name": "LSD and the Mind of the Universe",
-        "sameAs": ["https://www.wikidata.org/wiki/Q136684740"]
+        "sameAs": [
+          "https://www.wikidata.org/wiki/Q136684740"
+        ],
+        "isbn": "9781620559703"
       },
       {
         "@type": "Book",
         "name": "Dark Night, Early Dawn",
-        "sameAs": ["https://www.wikidata.org/wiki/Q136684765"]
+        "sameAs": [
+          "https://www.wikidata.org/wiki/Q136684765"
+        ],
+        "isbn": "9780791450156"
       },
       {
         "@type": "Book",
         "name": "The Living Classroom",
-        "sameAs": ["https://www.wikidata.org/wiki/Q136684793"]
+        "sameAs": [
+          "https://www.wikidata.org/wiki/Q136684793"
+        ],
+        "isbn": "9780791473834"
       },
       {
         "@type": "Book",
         "name": "Lifecycles: Reincarnation and the Web of Life",
-        "sameAs": ["https://www.wikidata.org/wiki/Q136684807"]
+        "sameAs": [
+          "https://www.wikidata.org/wiki/Q136684807"
+        ],
+        "isbn": "9780805951153"
       },
       {
         "@type": "WebSite",
         "@id": "https://bache-archive.github.io/chris-bache-archive/",
         "name": "Chris Bache Archive",
         "url": "https://bache-archive.github.io/chris-bache-archive/",
-        "about": {"@id": "https://bache-archive.github.io/chris-bache-archive/#christopher-m-bache"}
+        "about": {
+          "@id": "https://bache-archive.github.io/chris-bache-archive/#christopher-m-bache"
+        },
+        "creator": {
+          "@type": "Person",
+          "name": "Christopher M. Bache",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q112496741",
+            "https://openalex.org/A5045900737"
+          ]
+        }
       }
     ]
   }
@@ -149,7 +176,7 @@
       </div>
     </section>
 
-    <!-- SCHOLARLY / CRAWLER AREA (always visible) -->
+    <!-- SCHOLARLY / CRAWLER AREA -->
     <section class="section card" aria-label="Scholarly citations and provenance">
       <h2>Scholarly Citations &amp; Provenance</h2>
 
@@ -190,17 +217,20 @@
 
         <div class="hr"></div>
 
-        <!-- NEW: Wikidata Registry, visible by default -->
+        <!-- Wikidata & OpenAlex Registry -->
         <div>
-          <h3>Wikidata Registry (author &amp; works)</h3>
+          <h3>Scholarly Identifiers (Wikidata + OpenAlex)</h3>
           <ul class="list-compact">
-            <li>Author — Christopher M. Bache: <a href="https://www.wikidata.org/wiki/Q112496741">Q112496741</a></li>
-            <li>Book — <em>LSD and the Mind of the Universe</em>: <a href="https://www.wikidata.org/wiki/Q136684740">Q136684740</a></li>
-            <li>Book — <em>Dark Night, Early Dawn</em>: <a href="https://www.wikidata.org/wiki/Q136684765">Q136684765</a></li>
-            <li>Book — <em>The Living Classroom</em>: <a href="https://www.wikidata.org/wiki/Q136684793">Q136684793</a></li>
-            <li>Book — <em>Lifecycles: Reincarnation and the Web of Life</em>: <a href="https://www.wikidata.org/wiki/Q136684807">Q136684807</a></li>
+            <li>Author — Christopher M. Bache: 
+              <a href="https://www.wikidata.org/wiki/Q112496741">Wikidata Q112496741</a> ·
+              <a href="https://openalex.org/A5045900737">OpenAlex A5045900737</a>
+            </li>
+            <li><em>LSD and the Mind of the Universe</em> — <a href="https://www.wikidata.org/wiki/Q136684740">Q136684740</a></li>
+            <li><em>Dark Night, Early Dawn</em> — <a href="https://www.wikidata.org/wiki/Q136684765">Q136684765</a></li>
+            <li><em>The Living Classroom</em> — <a href="https://www.wikidata.org/wiki/Q136684793">Q136684793</a></li>
+            <li><em>Lifecycles: Reincarnation and the Web of Life</em> — <a href="https://www.wikidata.org/wiki/Q136684807">Q136684807</a></li>
           </ul>
-          <p class="muted">These identifiers are mirrored in our internal registry and used across the Bache Archive repositories for stable entity linking.</p>
+          <p class="muted">Identifiers are synchronized with the canonical registry (<code>meta@6d3606c</code>) and shared across the Bache Archive ecosystem.</p>
         </div>
 
         <div class="hr"></div>
@@ -220,7 +250,7 @@
     <footer class="footer section" role="contentinfo">
       <div class="hr" role="presentation"></div>
       <p>
-        <strong>Maintained by the Bache Archive Project.</strong><br />
+        <strong>Built and maintained by the Bache Archive Project.</strong><br />
         For corrections or additions, please open an issue on
         <a href="https://github.com/bache-archive/chris-bache-archive">GitHub</a>.
       </p>
