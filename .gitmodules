@@ -1,3 +1,4 @@
 [submodule "meta"]
 	path = meta
 	url = https://github.com/bache-archive/bache-archive-meta
+	branch = main
