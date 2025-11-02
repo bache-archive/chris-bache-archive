@@ -19,72 +19,74 @@
 
   <link rel="stylesheet" href="assets/style.css" />
 
-  <!-- Structured data (Wikidata + OpenAlex + schema.org) -->
+  <!-- Structured data (Wikidata + VIAF + OpenAlex + schema.org) -->
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Person",
-        "@id": "https://bache-archive.github.io/chris-bache-archive/#christopher-m-bache",
-        "name": "Christopher M. Bache",
-        "sameAs": [
-          "https://www.wikidata.org/wiki/Q112496741",
-          "https://openalex.org/A5045900737"
-        ]
-      },
-      {
-        "@type": "Book",
-        "name": "LSD and the Mind of the Universe",
-        "sameAs": [
-          "https://www.wikidata.org/wiki/Q136684740"
-        ],
-        "isbn": "9781620559703"
-      },
-      {
-        "@type": "Book",
-        "name": "Dark Night, Early Dawn",
-        "sameAs": [
-          "https://www.wikidata.org/wiki/Q136684765"
-        ],
-        "isbn": "9780791450156"
-      },
-      {
-        "@type": "Book",
-        "name": "The Living Classroom",
-        "sameAs": [
-          "https://www.wikidata.org/wiki/Q136684793"
-        ],
-        "isbn": "9780791473834"
-      },
-      {
-        "@type": "Book",
-        "name": "Lifecycles: Reincarnation and the Web of Life",
-        "sameAs": [
-          "https://www.wikidata.org/wiki/Q136684807"
-        ],
-        "isbn": "9780805951153"
-      },
-      {
-        "@type": "WebSite",
-        "@id": "https://bache-archive.github.io/chris-bache-archive/",
-        "name": "Chris Bache Archive",
-        "url": "https://bache-archive.github.io/chris-bache-archive/",
-        "about": {
-          "@id": "https://bache-archive.github.io/chris-bache-archive/#christopher-m-bache"
-        },
-        "creator": {
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
           "@type": "Person",
+          "@id": "https://bache-archive.github.io/chris-bache-archive/#christopher-m-bache",
           "name": "Christopher M. Bache",
           "sameAs": [
             "https://www.wikidata.org/wiki/Q112496741",
+            "https://viaf.org/viaf/102412231",
             "https://openalex.org/A5045900737"
           ]
+        },
+        {
+          "@type": "Book",
+          "name": "LSD and the Mind of the Universe",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q136684740"
+          ],
+          "isbn": "9781620559703"
+        },
+        {
+          "@type": "Book",
+          "name": "Dark Night, Early Dawn",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q136684765"
+          ],
+          "isbn": "9780791450156"
+        },
+        {
+          "@type": "Book",
+          "name": "The Living Classroom",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q136684793"
+          ],
+          "isbn": "9780791473834"
+        },
+        {
+          "@type": "Book",
+          "name": "Lifecycles: Reincarnation and the Web of Life",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q136684807"
+          ],
+          "isbn": "9780805951153"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bache-archive.github.io/chris-bache-archive/",
+          "name": "Chris Bache Archive",
+          "url": "https://bache-archive.github.io/chris-bache-archive/",
+          "about": {
+            "@id": "https://bache-archive.github.io/chris-bache-archive/#christopher-m-bache"
+          },
+          "creator": {
+            "@type": "Person",
+            "name": "Christopher M. Bache",
+            "sameAs": [
+              "https://www.wikidata.org/wiki/Q112496741",
+              "https://viaf.org/viaf/102412231",
+              "https://openalex.org/A5045900737"
+            ]
+          }
         }
-      }
-    ]
-  }
-  </script>
+      ]
+    }
+    </script>
 </head>
 <body>
   <div class="container">
