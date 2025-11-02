@@ -1,86 +1,128 @@
 [
   {
-    "youtube_id": "-ld7Lh5wkxc",
-    "title": "11/17/13 Sunday Service with Guest Speaker Chris Bache and Musician Lilly Russ from Agape in L.A.",
+    "archival_title": "11/17/13 Sunday Service with Guest Speaker Chris Bache and Musician Lilly Russ from Agape in L.A.",
     "channel": "Unity Myrtle Beach",
     "source_type": "talk",
-    "published": "2013-11-18",
-    "slug": "2013-11-18-sunday-service-with-guest-speaker-chris-bache-unity-myrtle-beach",
+    "transcript": "sources/transcripts/2013-11-18-sunday-service-with-guest-speaker-chris-bache-unity-myrtle-beach.md",
+    "diarist": "sources/diarist/2013-11-18-sunday-service-with-guest-speaker-chris-bache-unity-myrtle-beach.txt",
+    "youtube_id": "-ld7Lh5wkxc",
+    "youtube_url": "https://youtu.be/-ld7Lh5wkxc",
+    "web_url": "",
+    "duration_hms": "",
     "media": {
       "audio": "downloads/audio/2013-11-18-sunday-service-with-guest-speaker-chris-bache-unity-myrtle-beach.mp3",
       "video": "downloads/video/2013-11-18-sunday-service-with-guest-speaker-chris-bache-unity-myrtle-beach.mp4"
-    }
+    },
+    "blob_url": "https://github.com/bache-archive/chris-bache-archive/blob/main/sources/transcripts/2013-11-18-sunday-service-with-guest-speaker-chris-bache-unity-myrtle-beach.md",
+    "raw_url": "https://raw.githubusercontent.com/bache-archive/chris-bache-archive/main/sources/transcripts/2013-11-18-sunday-service-with-guest-speaker-chris-bache-unity-myrtle-beach.md",
+    "published": "2013-11-18"
   },
   {
-    "youtube_id": "NtcLJ3_Ceyc",
-    "title": "2013 11 16, Dr. Chris Bache, Guest Speaker, \"No Fear of Death\", Part 3/ 3",
+    "archival_title": "2013 11 16, Dr. Chris Bache, Guest Speaker, \"No Fear of Death\", Part 3/ 3",
     "channel": "Unity Myrtle Beach",
     "source_type": "talk",
-    "published": "2013-11-17",
-    "slug": "2013-11-17-no-fear-of-death-part-3-unity-myrtle-beach",
+    "transcript": "sources/transcripts/2013-11-17-no-fear-of-death-part-3-unity-myrtle-beach.md",
+    "diarist": "sources/diarist/2013-11-17-no-fear-of-death-part-3-unity-myrtle-beach.txt",
+    "youtube_id": "NtcLJ3_Ceyc",
+    "youtube_url": "https://youtu.be/NtcLJ3_Ceyc",
+    "web_url": "",
+    "duration_hms": "",
     "media": {
       "audio": "downloads/audio/2013-11-17-no-fear-of-death-part-3-unity-myrtle-beach.mp3",
       "video": "downloads/video/2013-11-17-no-fear-of-death-part-3-unity-myrtle-beach.mp4"
-    }
+    },
+    "blob_url": "https://github.com/bache-archive/chris-bache-archive/blob/main/sources/transcripts/2013-11-17-no-fear-of-death-part-3-unity-myrtle-beach.md",
+    "raw_url": "https://raw.githubusercontent.com/bache-archive/chris-bache-archive/main/sources/transcripts/2013-11-17-no-fear-of-death-part-3-unity-myrtle-beach.md",
+    "published": "2013-11-17"
   },
   {
-    "youtube_id": "bMbnDjnR4Ls",
-    "title": "2013 11 16, Dr. Chris Bache, Guest Speaker, \"No Fear of Death\", Part 2/3",
+    "archival_title": "2013 11 16, Dr. Chris Bache, Guest Speaker, \"No Fear of Death\", Part 2/3",
     "channel": "Unity Myrtle Beach",
     "source_type": "talk",
-    "published": "2013-11-17",
-    "slug": "2013-11-17-no-fear-of-death-part-2-unity-myrtle-beach",
+    "transcript": "sources/transcripts/2013-11-17-no-fear-of-death-part-2-unity-myrtle-beach.md",
+    "diarist": "sources/diarist/2013-11-17-no-fear-of-death-part-2-unity-myrtle-beach.txt",
+    "youtube_id": "bMbnDjnR4Ls",
+    "youtube_url": "https://youtu.be/bMbnDjnR4Ls",
+    "web_url": "",
+    "duration_hms": "",
     "media": {
       "audio": "downloads/audio/2013-11-17-no-fear-of-death-part-2-unity-myrtle-beach.mp3",
       "video": "downloads/video/2013-11-17-no-fear-of-death-part-2-unity-myrtle-beach.mp4"
-    }
+    },
+    "blob_url": "https://github.com/bache-archive/chris-bache-archive/blob/main/sources/transcripts/2013-11-17-no-fear-of-death-part-2-unity-myrtle-beach.md",
+    "raw_url": "https://raw.githubusercontent.com/bache-archive/chris-bache-archive/main/sources/transcripts/2013-11-17-no-fear-of-death-part-2-unity-myrtle-beach.md",
+    "published": "2013-11-17"
   },
   {
-    "youtube_id": "PmcpJpCtA_U",
-    "title": "2013 11 16, Dr. Chris Bache, Guest Speaker, \"No Fear of Death\", Part 1/3",
+    "archival_title": "2013 11 16, Dr. Chris Bache, Guest Speaker, \"No Fear of Death\", Part 1/3",
     "channel": "Unity Myrtle Beach",
     "source_type": "talk",
-    "published": "2013-11-17",
-    "slug": "2013-11-17-no-fear-of-death-part-1-unity-myrtle-beach",
+    "transcript": "sources/transcripts/2013-11-17-no-fear-of-death-part-1-unity-myrtle-beach.md",
+    "diarist": "sources/diarist/2013-11-17-no-fear-of-death-part-1-unity-myrtle-beach.txt",
+    "youtube_id": "PmcpJpCtA_U",
+    "youtube_url": "https://youtu.be/PmcpJpCtA_U",
+    "web_url": "",
+    "duration_hms": "",
     "media": {
       "audio": "downloads/audio/2013-11-17-no-fear-of-death-part-1-unity-myrtle-beach.mp3",
       "video": "downloads/video/2013-11-17-no-fear-of-death-part-1-unity-myrtle-beach.mp4"
-    }
+    },
+    "blob_url": "https://github.com/bache-archive/chris-bache-archive/blob/main/sources/transcripts/2013-11-17-no-fear-of-death-part-1-unity-myrtle-beach.md",
+    "raw_url": "https://raw.githubusercontent.com/bache-archive/chris-bache-archive/main/sources/transcripts/2013-11-17-no-fear-of-death-part-1-unity-myrtle-beach.md",
+    "published": "2013-11-17"
   },
   {
-    "youtube_id": "oC93fpPY_tA",
-    "title": "Christopher Bache at SkyBlue Symposia   Pt 2 of 2",
+    "archival_title": "Christopher Bache at SkyBlue Symposia   Pt 2 of 2",
     "channel": "SkyBlue Symposia",
     "source_type": "talk",
-    "published": "2013-08-28",
-    "slug": "2013-08-28-skyblue-symposia-pt-2",
+    "transcript": "sources/transcripts/2013-08-28-skyblue-symposia-pt-2.md",
+    "diarist": "sources/diarist/2013-08-28-skyblue-symposia-pt-2.txt",
+    "youtube_id": "oC93fpPY_tA",
+    "youtube_url": "https://youtu.be/oC93fpPY_tA",
+    "web_url": "",
+    "duration_hms": "",
     "media": {
       "audio": "downloads/audio/2013-08-28-skyblue-symposia-pt-2.mp3",
       "video": "downloads/video/2013-08-28-skyblue-symposia-pt-2.mp4"
-    }
+    },
+    "blob_url": "https://github.com/bache-archive/chris-bache-archive/blob/main/sources/transcripts/2013-08-28-skyblue-symposia-pt-2.md",
+    "raw_url": "https://raw.githubusercontent.com/bache-archive/chris-bache-archive/main/sources/transcripts/2013-08-28-skyblue-symposia-pt-2.md",
+    "published": "2013-08-28"
   },
   {
-    "youtube_id": "SLLuixvjySA",
-    "title": "Christopher Bache at SkyBlue Symposia - Pt 1 of 2",
+    "archival_title": "Christopher Bache at SkyBlue Symposia - Pt 1 of 2",
     "channel": "SkyBlue Symposia",
     "source_type": "talk",
-    "published": "2013-08-27",
-    "slug": "2013-08-27-skyblue-symposia-pt-1",
+    "transcript": "sources/transcripts/2013-08-27-skyblue-symposia-pt-1.md",
+    "diarist": "sources/diarist/2013-08-27-skyblue-symposia-pt-1.txt",
+    "youtube_id": "SLLuixvjySA",
+    "youtube_url": "https://youtu.be/SLLuixvjySA",
+    "web_url": "",
+    "duration_hms": "",
     "media": {
       "audio": "downloads/audio/2013-08-27-skyblue-symposia-pt-1.mp3",
       "video": "downloads/video/2013-08-27-skyblue-symposia-pt-1.mp4"
-    }
+    },
+    "blob_url": "https://github.com/bache-archive/chris-bache-archive/blob/main/sources/transcripts/2013-08-27-skyblue-symposia-pt-1.md",
+    "raw_url": "https://raw.githubusercontent.com/bache-archive/chris-bache-archive/main/sources/transcripts/2013-08-27-skyblue-symposia-pt-1.md",
+    "published": "2013-08-27"
   },
   {
-    "youtube_id": "RlxqPI3RYTc",
-    "title": "Dr. Christopher Bache - The Individual and Matrix Consciousness Pt 2/2",
+    "archival_title": "Dr. Christopher Bache - The Individual and Matrix Consciousness Pt 2/2",
     "channel": "Nasty Infinity",
     "source_type": "talk",
-    "published": "2009-03-07",
-    "slug": "2009-03-07-individual-and-matrix-consciousness-pt-2",
+    "transcript": "sources/transcripts/2009-03-07-the-individual-and-matrix-consciousness-pt-2.md",
+    "diarist": "sources/diarist/2009-03-07-the-individual-and-matrix-consciousness-pt-2.txt",
+    "youtube_id": "RlxqPI3RYTc",
+    "youtube_url": "https://youtu.be/RlxqPI3RYTc",
+    "web_url": "",
+    "duration_hms": "",
     "media": {
-      "audio": "downloads/audio/2009-03-07-individual-and-matrix-consciousness-pt-2.mp3",
-      "video": "downloads/video/2009-03-07-individual-and-matrix-consciousness-pt-2.mp4"
-    }
+      "audio": "downloads/audio/2009-03-07-the-individual-and-matrix-consciousness-pt-2.mp3",
+      "video": "downloads/video/2009-03-07-the-individual-and-matrix-consciousness-pt-2.mp4"
+    },
+    "blob_url": "https://github.com/bache-archive/chris-bache-archive/blob/main/sources/transcripts/2009-03-07-the-individual-and-matrix-consciousness-pt-2.md",
+    "raw_url": "https://raw.githubusercontent.com/bache-archive/chris-bache-archive/main/sources/transcripts/2009-03-07-the-individual-and-matrix-consciousness-pt-2.md",
+    "published": "2009-03-07"
   }
 ]
