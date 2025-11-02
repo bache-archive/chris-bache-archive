@@ -87,3 +87,4 @@ patches/**/logs/
 *.bak
 *.old
 *.tmpout/
+downloads/audio/_patchview
