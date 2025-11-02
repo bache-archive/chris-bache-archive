@@ -1403,5 +1403,549 @@
       "audio": "downloads/audio/2025-10-21-psa-fireside-chat-featuring-dr-raymond-turpin-dr.mp3",
       "video": "downloads/video/2025-10-21-psa-fireside-chat-featuring-dr-raymond-turpin-dr.mp4"
     }
+  },
+  {
+    "title": "2018 10 25 Mind Meld 130 The Secret Psychedelic Life of Dr. Chris Bache",
+    "slug": "2018-10-25-mind-meld-130-the-secret-psychedelic-life-of-dr-chris-bache",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2018-10-25-mind-meld-130-the-secret-psychedelic-life-of-dr-chris-bache.mp3"
+    }
+  },
+  {
+    "title": "2019 05 15 502. Michael Pollan and Chris Bache",
+    "slug": "2019-05-15-502-michael-pollan-and-chris-bache",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2019-05-15-502-michael-pollan-and-chris-bache.mp3"
+    }
+  },
+  {
+    "title": "2019 08 29 Reincarnation and Collective Evolution with Chris M. Bache",
+    "slug": "2019-08-29-reincarnation-and-collective-evolution-with-chris-m-bache",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2019-08-29-reincarnation-and-collective-evolution-with-chris-m-bache.mp3"
+    }
+  },
+  {
+    "title": "2019 10 18 Episode 147 – Dr. Christopher Bache – Navigating the Mind of The Universe",
+    "slug": "2019-10-18-episode-147-dr-christopher-bache-navigating-the-mind-of-the-universe",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2019-10-18-episode-147-dr-christopher-bache-navigating-the-mind-of-the-universe.mp3"
+    }
+  },
+  {
+    "title": "2019 11 25 Christopher Bache The Mind of the Universe",
+    "slug": "2019-11-25-christopher-bache-the-mind-of-the-universe",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2019-11-25-christopher-bache-the-mind-of-the-universe.mp3"
+    }
+  },
+  {
+    "title": "2019 12 19 Ep. 99 Professor Christopher Bache 'Diamonds From Heaven'",
+    "slug": "2019-12-19-ep-99-professor-christopher-bache-diamonds-from-heaven",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2019-12-19-ep-99-professor-christopher-bache-diamonds-from-heaven.mp3"
+    }
+  },
+  {
+    "title": "2020 01 07 Chris Bache LSD and the Mind of the Universe Diamonds from Heaven",
+    "slug": "2020-01-07-chris-bache-lsd-and-the-mind-of-the-universe-diamonds-from-heaven",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2020-01-07-chris-bache-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.mp3"
+    }
+  },
+  {
+    "title": "2020 02 11 LSD and the Mind of the Universe Diamonds from Heaven Audiobook by Christopher M. Bache",
+    "slug": "2020-02-11-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-audiobook-by-christopher-m-bache",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2020-02-11-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-audiobook-by-christopher-m-bache.mp3"
+    }
+  },
+  {
+    "title": "2020 02 11 LSD and the Mind of the Universe Diamonds from Heaven by Christopher M. Bache",
+    "slug": "2020-02-11-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-by-christopher-m-bache",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2020-02-11-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-by-christopher-m-bache.mp3"
+    }
+  },
+  {
+    "title": "2020 03 10 Earth Spirit Dreaming by Elizabeth E. Meacham, Christopher M. Bache",
+    "slug": "2020-03-10-earth-spirit-dreaming-by-elizabeth-e-meacham-christopher-m-bache",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2020-03-10-earth-spirit-dreaming-by-elizabeth-e-meacham-christopher-m-bache.mp3"
+    }
+  },
+  {
+    "title": "2020 04 16 Chris Bache LSD and the Mind of the Universe",
+    "slug": "2020-04-16-chris-bache-lsd-and-the-mind-of-the-universe",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2020-04-16-chris-bache-lsd-and-the-mind-of-the-universe.mp3"
+    }
+  },
+  {
+    "title": "2020 05 23 WHAT IS LIFE#19 Tim Freke and Chris Bache LSD and Awakening",
+    "slug": "2020-05-23-what-is-life-19-tim-freke-and-chris-bache-lsd-and-awakening",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2020-05-23-what-is-life-19-tim-freke-and-chris-bache-lsd-and-awakening.mp3"
+    }
+  },
+  {
+    "title": "2020 05 29 LSD and the Mind of the Universe StephenGray Vision interviews Chris Bache.",
+    "slug": "2020-05-29-lsd-and-the-mind-of-the-universe-stephengray-vision-interviews-chris-bache",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2020-05-29-lsd-and-the-mind-of-the-universe-stephengray-vision-interviews-chris-bache.mp3"
+    }
+  },
+  {
+    "title": "2020 06 29 Learning to be Gods Conversations about LSD and the Mind of the Universe with Chris Bache",
+    "slug": "2020-06-29-learning-to-be-gods-conversations-about-lsd-and-the-mind-of-the-universe-with-chris-bache",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2020-06-29-learning-to-be-gods-conversations-about-lsd-and-the-mind-of-the-universe-with-chris-bache.mp3"
+    }
+  },
+  {
+    "title": "2020 07 04 LF307 Christopher Bache – LSD and the Mind of the Universe",
+    "slug": "2020-07-04-lf307-christopher-bache-lsd-and-the-mind-of-the-universe",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2020-07-04-lf307-christopher-bache-lsd-and-the-mind-of-the-universe.mp3"
+    }
+  },
+  {
+    "title": "2020 10 23 EP.6 Chris Bache LSD AND THE MIND OF THE UNIVERSE",
+    "slug": "2020-10-23-ep-6-chris-bache-lsd-and-the-mind-of-the-universe",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2020-10-23-ep-6-chris-bache-lsd-and-the-mind-of-the-universe.mp3"
+    }
+  },
+  {
+    "title": "2020 12 03 What 73 High Dose LSD Sessions Teach You About the Mind of the Universe w Christopher M. Bache Connecting Minds Podcast Ep11",
+    "slug": "2020-12-03-what-73-high-dose-lsd-sessions-teach-you-about-the-mind-of-the-universe-w-christopher-m-bache-connecting-minds-podcast-ep11",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2020-12-03-what-73-high-dose-lsd-sessions-teach-you-about-the-mind-of-the-universe-w-christopher-m-bache-connecting-minds-podcast-ep11.mp3"
+    }
+  },
+  {
+    "title": "2021 01 14 Chris Bache Inspirational Solstice Message (12 min.)",
+    "slug": "2021-01-14-chris-bache-inspirational-solstice-message-12-min",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2021-01-14-chris-bache-inspirational-solstice-message-12-min.mp3"
+    }
+  },
+  {
+    "title": "2021 02 01 Lead Gen Leaders Podcast #21 Chris Bache, Rehash",
+    "slug": "2021-02-01-lead-gen-leaders-podcast-21-chris-bache-rehash",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2021-02-01-lead-gen-leaders-podcast-21-chris-bache-rehash.mp3"
+    }
+  },
+  {
+    "title": "2021 02 03 Episode 61 with Christopher M. Bache",
+    "slug": "2021-02-03-episode-61-with-christopher-m-bache",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2021-02-03-episode-61-with-christopher-m-bache.mp3"
+    }
+  },
+  {
+    "title": "2021 04 23 Global Collapse, Spirituality, and The Birth Of The Future Human Chris Bache, PhD",
+    "slug": "2021-04-23-global-collapse-spirituality-and-the-birth-of-the-future-human-chris-bache-phd",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2021-04-23-global-collapse-spirituality-and-the-birth-of-the-future-human-chris-bache-phd.mp3"
+    }
+  },
+  {
+    "title": "2021 05 25 Chris Bache Mind, Body, Health, and Politics",
+    "slug": "2021-05-25-chris-bache-mind-body-health-and-politics",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2021-05-25-chris-bache-mind-body-health-and-politics.mp3"
+    }
+  },
+  {
+    "title": "2021 06 03 lsd and the mind of the universe christopher bache ph.d",
+    "slug": "2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph-d",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph-d.mp3"
+    }
+  },
+  {
+    "title": "2021 07 25 CHRIS BACHE – author LSD and the Mind of the Universe Pt. 2",
+    "slug": "2021-07-25-chris-bache-author-lsd-and-the-mind-of-the-universe-pt-2",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2021-07-25-chris-bache-author-lsd-and-the-mind-of-the-universe-pt-2.mp3"
+    }
+  },
+  {
+    "title": "2021 09 22 Chris Bache on how communication can transform your business and pay off big time",
+    "slug": "2021-09-22-chris-bache-on-how-communication-can-transform-your-business-and-pay-off-big-time",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2021-09-22-chris-bache-on-how-communication-can-transform-your-business-and-pay-off-big-time.mp3"
+    }
+  },
+  {
+    "title": "2021 11 09 Episode 39 Technical Agile Coaching and the Samman Method with Emily Bache",
+    "slug": "2021-11-09-episode-39-technical-agile-coaching-and-the-samman-method-with-emily-bache",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2021-11-09-episode-39-technical-agile-coaching-and-the-samman-method-with-emily-bache.mp3"
+    }
+  },
+  {
+    "title": "2022 01 20 Chris Bache (Part 1) The Evolution of Collective Consciousness, Purification and Ecstasy of Insight, and the Profound Genius, Love, and Purpose of the Universe",
+    "slug": "2022-01-20-chris-bache-part-1-the-evolution-of-collective-consciousness-purification-and-ecstasy-of-insight-and-the-profound-genius-love-and-purpose-of-the-universe",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2022-01-20-chris-bache-part-1-the-evolution-of-collective-consciousness-purification-and-ecstasy-of-insight-and-the-profound-genius-love-and-purpose-of-the-universe.mp3"
+    }
+  },
+  {
+    "title": "2022 01 26 Homegrown Humans – Christopher Bache – Psychedelics Hosted by Jamie Wheal",
+    "slug": "2022-01-26-homegrown-humans-christopher-bache-psychedelics-hosted-by-jamie-wheal",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2022-01-26-homegrown-humans-christopher-bache-psychedelics-hosted-by-jamie-wheal.mp3"
+    }
+  },
+  {
+    "title": "2022 01 27 Chris Bache (Part 2) The Evolution of Collective Consciousness, Purification and Ecstasy of Insight, and the Profound Genius, Love, and Purpose of the Universe",
+    "slug": "2022-01-27-chris-bache-part-2-the-evolution-of-collective-consciousness-purification-and-ecstasy-of-insight-and-the-profound-genius-love-and-purpose-of-the-universe",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2022-01-27-chris-bache-part-2-the-evolution-of-collective-consciousness-purification-and-ecstasy-of-insight-and-the-profound-genius-love-and-purpose-of-the-universe.mp3"
+    }
+  },
+  {
+    "title": "2022 02 03 Chris Bache (Part 3) The Evolution of Collective Consciousness, Purification and Ecstasy of Insight, and the Profound Genius, Love, and Purpose of the Universe",
+    "slug": "2022-02-03-chris-bache-part-3-the-evolution-of-collective-consciousness-purification-and-ecstasy-of-insight-and-the-profound-genius-love-and-purpose-of-the-universe",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2022-02-03-chris-bache-part-3-the-evolution-of-collective-consciousness-purification-and-ecstasy-of-insight-and-the-profound-genius-love-and-purpose-of-the-universe.mp3"
+    }
+  },
+  {
+    "title": "2022 02 16 dr. chris bache on understanding dmt entity encounters",
+    "slug": "2022-02-16-dr-chris-bache-on-understanding-dmt-entity-encounters",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2022-02-16-dr-chris-bache-on-understanding-dmt-entity-encounters.mp3"
+    }
+  },
+  {
+    "title": "2022 02 17 Christopher M. Bache on His Journey Exploring LSD as a Practice, and Entheogens as an Actual Path.",
+    "slug": "2022-02-17-christopher-m-bache-on-his-journey-exploring-lsd-as-a-practice-and-entheogens-as-an-actual-path",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2022-02-17-christopher-m-bache-on-his-journey-exploring-lsd-as-a-practice-and-entheogens-as-an-actual-path.mp3"
+    }
+  },
+  {
+    "title": "2022 02 17 what it s like meeting god on psychedelics feat. christopher bache",
+    "slug": "2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat-christopher-bache",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat-christopher-bache.mp3"
+    }
+  },
+  {
+    "title": "2022 02 19 the mind of the universe conversation with prof chris bache",
+    "slug": "2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.mp3"
+    }
+  },
+  {
+    "title": "2022 05 27 Christopher Bache Part II of his Remarkable Twenty Year Journey into the World of Psychedelics",
+    "slug": "2022-05-27-christopher-bache-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2022-05-27-christopher-bache-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics.mp3"
+    }
+  },
+  {
+    "title": "2022 05 30 Chris Bache LSD and the Exploration of the Inner Cosmos",
+    "slug": "2022-05-30-chris-bache-lsd-and-the-exploration-of-the-inner-cosmos",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2022-05-30-chris-bache-lsd-and-the-exploration-of-the-inner-cosmos.mp3"
+    }
+  },
+  {
+    "title": "2022 06 14 The Psychedelic Philosopher Chris Bache",
+    "slug": "2022-06-14-the-psychedelic-philosopher-chris-bache",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2022-06-14-the-psychedelic-philosopher-chris-bache.mp3"
+    }
+  },
+  {
+    "title": "2022 07 20 LSD and the Mind of the Universe Chris Bache, EP 261",
+    "slug": "2022-07-20-lsd-and-the-mind-of-the-universe-chris-bache-ep-261",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2022-07-20-lsd-and-the-mind-of-the-universe-chris-bache-ep-261.mp3"
+    }
+  },
+  {
+    "title": "2022 08 30 Psychedelics and Cosmological Exploration with Chris Bache",
+    "slug": "2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache.mp3"
+    }
+  },
+  {
+    "title": "2022 09 27 DMT Entity Encounters Dialogues on the Spirit Molecule with Ralph Metzner, Chris Bache, Jeffrey Kripal, Whitley Strieber, Angela Voss, and Others David Luke (editor)",
+    "slug": "2022-09-27-dmt-entity-encounters-dialogues-on-the-spirit-molecule-with-ralph-metzner-chris-bache-jeffrey-kripal-whitley-strieber-angela-voss-and-others-david-luke-editor",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2022-09-27-dmt-entity-encounters-dialogues-on-the-spirit-molecule-with-ralph-metzner-chris-bache-jeffrey-kripal-whitley-strieber-angela-voss-and-others-david-luke-editor.mp3"
+    }
+  },
+  {
+    "title": "2022 09 27 DMT Entity Encounters Dialogues on the Spirit Molecule with Ralph Metzner, Chris Bache, Jeffrey Kripal, Whitley Strieber, Angela Voss, and Others by David Luke (editor)",
+    "slug": "2022-09-27-dmt-entity-encounters-dialogues-on-the-spirit-molecule-with-ralph-metzner-chris-bache-jeffrey-kripal-whitley-strieber-angela-voss-and-others-by-david-luke-editor",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2022-09-27-dmt-entity-encounters-dialogues-on-the-spirit-molecule-with-ralph-metzner-chris-bache-jeffrey-kripal-whitley-strieber-angela-voss-and-others-by-david-luke-editor.mp3"
+    }
+  },
+  {
+    "title": "2022 10 02 Hal Holden Bache and Chris Winters Owners Lockeland Table and White Squirrel Farm",
+    "slug": "2022-10-02-hal-holden-bache-and-chris-winters-owners-lockeland-table-and-white-squirrel-farm",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2022-10-02-hal-holden-bache-and-chris-winters-owners-lockeland-table-and-white-squirrel-farm.mp3"
+    }
+  },
+  {
+    "title": "2022 12 08 #16 Christophe Bache Courir, concourir et entreprendre, de la médecine aux sports hippiques",
+    "slug": "2022-12-08-16-christophe-bache-courir-concourir-et-entreprendre-de-la-m-decine-aux-sports-hippiques",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2022-12-08-16-christophe-bache-courir-concourir-et-entreprendre-de-la-m-decine-aux-sports-hippiques.mp3"
+    }
+  },
+  {
+    "title": "2022 12 16 42. What IS the point WHY is this all happening A cosmic perspective featuring Clif High and Christopher Bache",
+    "slug": "2022-12-16-42-what-is-the-point-why-is-this-all-happening-a-cosmic-perspective-featuring-clif-high-and-christopher-bache",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2022-12-16-42-what-is-the-point-why-is-this-all-happening-a-cosmic-perspective-featuring-clif-high-and-christopher-bache.mp3"
+    }
+  },
+  {
+    "title": "2023 01 30 FLASHBACK What 73 High Dose LSD Sessions Teach You About the Mind of the Universe w Christopher M. Bache",
+    "slug": "2023-01-30-flashback-what-73-high-dose-lsd-sessions-teach-you-about-the-mind-of-the-universe-w-christopher-m-bache",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2023-01-30-flashback-what-73-high-dose-lsd-sessions-teach-you-about-the-mind-of-the-universe-w-christopher-m-bache.mp3"
+    }
+  },
+  {
+    "title": "2023 05 08 Shedding Light on The Darkness with Chris Bache – [Best of The Tim Faller Show]",
+    "slug": "2023-05-08-shedding-light-on-the-darkness-with-chris-bache-best-of-the-tim-faller-show",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2023-05-08-shedding-light-on-the-darkness-with-chris-bache-best-of-the-tim-faller-show.mp3"
+    }
+  },
+  {
+    "title": "2023 07 11 Chris Bache Diamonds from Heaven Exploring the Mind of the Universe",
+    "slug": "2023-07-11-chris-bache-diamonds-from-heaven-exploring-the-mind-of-the-universe",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2023-07-11-chris-bache-diamonds-from-heaven-exploring-the-mind-of-the-universe.mp3"
+    }
+  },
+  {
+    "title": "2023 08 18 LSD & The Mind of the Universe with Chris Bache",
+    "slug": "2023-08-18-lsd-the-mind-of-the-universe-with-chris-bache",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2023-08-18-lsd-the-mind-of-the-universe-with-chris-bache.mp3"
+    }
+  },
+  {
+    "title": "2023 10 29 Ego to Oneness, Confronting the Climate Crisis Chris Bache and Dan Siegel, EP 278",
+    "slug": "2023-10-29-ego-to-oneness-confronting-the-climate-crisis-chris-bache-and-dan-siegel-ep-278",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-chris-bache-and-dan-siegel-ep-278.mp3"
+    }
+  },
+  {
+    "title": "2023 11 06 Exploring the Mind of the Universe with Christopher Bache, Ph.D.",
+    "slug": "2023-11-06-exploring-the-mind-of-the-universe-with-christopher-bache-ph-d",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2023-11-06-exploring-the-mind-of-the-universe-with-christopher-bache-ph-d.mp3"
+    }
+  },
+  {
+    "title": "2023 11 15 The Future Human with Chris Bache",
+    "slug": "2023-11-15-the-future-human-with-chris-bache",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2023-11-15-the-future-human-with-chris-bache.mp3"
+    }
+  },
+  {
+    "title": "2023 11 29 The Diamond Soul with Chris Bache",
+    "slug": "2023-11-29-the-diamond-soul-with-chris-bache",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2023-11-29-the-diamond-soul-with-chris-bache.mp3"
+    }
+  },
+  {
+    "title": "2023 12 05 What 73 high dose LSD sessions taught Christopher Bache, PhD, about the nature of reality and the next phase of human evolution",
+    "slug": "2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-and-the-next-phase-of-human-evolution",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-and-the-next-phase-of-human-evolution.mp3"
+    }
+  },
+  {
+    "title": "2023 12 20 The Final Vision with Chris Bache",
+    "slug": "2023-12-20-the-final-vision-with-chris-bache",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2023-12-20-the-final-vision-with-chris-bache.mp3"
+    }
+  },
+  {
+    "title": "2024 02 09 Rethinking Human Existence & Purpose – God’s Plan for Humanity with Christopher Bache",
+    "slug": "2024-02-09-rethinking-human-existence-purpose-god-s-plan-for-humanity-with-christopher-bache",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2024-02-09-rethinking-human-existence-purpose-god-s-plan-for-humanity-with-christopher-bache.mp3"
+    }
+  },
+  {
+    "title": "2024 03 02 Episode 283 Dr. Christopher Bache 'Diamonds From Heaven'",
+    "slug": "2024-03-02-episode-283-dr-christopher-bache-diamonds-from-heaven",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2024-03-02-episode-283-dr-christopher-bache-diamonds-from-heaven.mp3"
+    }
+  },
+  {
+    "title": "2024 08 25 AMA The Science of Déjà vu, The UK Race Riots and LSD & The Mind of the Universe by Chris Bache",
+    "slug": "2024-08-25-ama-the-science-of-d-j-vu-the-uk-race-riots-and-lsd-the-mind-of-the-universe-by-chris-bache",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2024-08-25-ama-the-science-of-d-j-vu-the-uk-race-riots-and-lsd-the-mind-of-the-universe-by-chris-bache.mp3"
+    }
+  },
+  {
+    "title": "2024 09 20 MICRO 01 The Greatest Risk Of Psychedelic Work Is Ego Inflation, Chris Bache PhD",
+    "slug": "2024-09-20-micro-01-the-greatest-risk-of-psychedelic-work-is-ego-inflation-chris-bache-phd",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2024-09-20-micro-01-the-greatest-risk-of-psychedelic-work-is-ego-inflation-chris-bache-phd.mp3"
+    }
+  },
+  {
+    "title": "2024 09 24 What 73 high dose LSD sessions taught Christopher Bache, PhD, about the nature of reality and the next phase of human evolution (Rebroadcast)",
+    "slug": "2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-and-the-next-phase-of-human-evolution-rebroadcast",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-and-the-next-phase-of-human-evolution-rebroadcast.mp3"
+    }
+  },
+  {
+    "title": "2024 11 07 Reincarnation and The Web of Life with Christopher Bache",
+    "slug": "2024-11-07-reincarnation-and-the-web-of-life-with-christopher-bache",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2024-11-07-reincarnation-and-the-web-of-life-with-christopher-bache.mp3"
+    }
+  },
+  {
+    "title": "2024 11 26 #153 AI In Customer Service with Hatch and Chris Bache",
+    "slug": "2024-11-26-153-ai-in-customer-service-with-hatch-and-chris-bache",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2024-11-26-153-ai-in-customer-service-with-hatch-and-chris-bache.mp3"
+    }
+  },
+  {
+    "title": "2025 01 08 The Phoenix Always Rises Evolving into the Future Human with Prof Chris Bache, Author of LSD and the Mind of the Universe",
+    "slug": "2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human-with-prof-chris-bache-author-of-lsd-and-the-mind-of-the-universe",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human-with-prof-chris-bache-author-of-lsd-and-the-mind-of-the-universe.mp3"
+    }
+  },
+  {
+    "title": "2025 03 23 Chris Bache Diamond Light",
+    "slug": "2025-03-23-chris-bache-diamond-light",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2025-03-23-chris-bache-diamond-light.mp3"
+    }
+  },
+  {
+    "title": "2025 04 21 Psychedelics and the Cosmic Mind with Chris Bache",
+    "slug": "2025-04-21-psychedelics-and-the-cosmic-mind-with-chris-bache",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2025-04-21-psychedelics-and-the-cosmic-mind-with-chris-bache.mp3"
+    }
+  },
+  {
+    "title": "2025 05 07 Special Spring Fund Drive Programming Christopher Bache on the Psychedelic Journey",
+    "slug": "2025-05-07-special-spring-fund-drive-programming-christopher-bache-on-the-psychedelic-journey",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2025-05-07-special-spring-fund-drive-programming-christopher-bache-on-the-psychedelic-journey.mp3"
+    }
+  },
+  {
+    "title": "2025 06 13 MICRO 07 Beyond Right and Wrong What Psychedelics Reveal About the Nature of Goodness, Christopher Bache PhD",
+    "slug": "2025-06-13-micro-07-beyond-right-and-wrong-what-psychedelics-reveal-about-the-nature-of-goodness-christopher-bache-phd",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2025-06-13-micro-07-beyond-right-and-wrong-what-psychedelics-reveal-about-the-nature-of-goodness-christopher-bache-phd.mp3"
+    }
+  },
+  {
+    "title": "2025 09 23 Christopher Bache Deep Time and the Birth of the Diamond Soul",
+    "slug": "2025-09-23-christopher-bache-deep-time-and-the-birth-of-the-diamond-soul",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2025-09-23-christopher-bache-deep-time-and-the-birth-of-the-diamond-soul.mp3"
+    }
+  },
+  {
+    "title": "2025 10 17 Collective Karma and Reincarnation with Chris Bache",
+    "slug": "2025-10-17-collective-karma-and-reincarnation-with-chris-bache",
+    "status": "pending",
+    "media": {
+      "audio": "downloads/audio/2025-10-17-collective-karma-and-reincarnation-with-chris-bache.mp3"
+    }
   }
 ]
