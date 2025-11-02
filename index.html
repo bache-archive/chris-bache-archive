@@ -14,6 +14,50 @@
         href="https://bache-archive.github.io/chris-bache-archive/sitemap-index.xml" />
 
   <link rel="stylesheet" href="assets/style.css" />
+
+  <!-- Structured data with Wikidata QIDs -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://bache-archive.github.io/chris-bache-archive/#christopher-m-bache",
+        "name": "Christopher M. Bache",
+        "sameAs": [
+          "https://www.wikidata.org/wiki/Q112496741"
+        ]
+      },
+      {
+        "@type": "Book",
+        "name": "LSD and the Mind of the Universe",
+        "sameAs": ["https://www.wikidata.org/wiki/Q136684740"]
+      },
+      {
+        "@type": "Book",
+        "name": "Dark Night, Early Dawn",
+        "sameAs": ["https://www.wikidata.org/wiki/Q136684765"]
+      },
+      {
+        "@type": "Book",
+        "name": "The Living Classroom",
+        "sameAs": ["https://www.wikidata.org/wiki/Q136684793"]
+      },
+      {
+        "@type": "Book",
+        "name": "Lifecycles: Reincarnation and the Web of Life",
+        "sameAs": ["https://www.wikidata.org/wiki/Q136684807"]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://bache-archive.github.io/chris-bache-archive/",
+        "name": "Chris Bache Archive",
+        "url": "https://bache-archive.github.io/chris-bache-archive/",
+        "about": {"@id": "https://bache-archive.github.io/chris-bache-archive/#christopher-m-bache"}
+      }
+    ]
+  }
+  </script>
 </head>
 <body>
   <div class="container">
@@ -109,7 +153,6 @@
     <section class="section card" aria-label="Scholarly citations and provenance">
       <h2>Scholarly Citations &amp; Provenance</h2>
 
-      <!-- Cite This Archive (definition list keeps it compact & elegant) -->
       <div class="stack">
         <div>
           <h3>Cite This Archive</h3>
@@ -128,7 +171,6 @@
 
         <div class="hr"></div>
 
-        <!-- Project & Mirrors as compact lists for scannability -->
         <div class="two-col">
           <div>
             <h3>Project Links</h3>
@@ -144,6 +186,21 @@
               <li>Video: <a href="https://archive.org/details/chris-bache-archive-video">2009–2025</a></li>
             </ul>
           </div>
+        </div>
+
+        <div class="hr"></div>
+
+        <!-- NEW: Wikidata Registry, visible by default -->
+        <div>
+          <h3>Wikidata Registry (author &amp; works)</h3>
+          <ul class="list-compact">
+            <li>Author — Christopher M. Bache: <a href="https://www.wikidata.org/wiki/Q112496741">Q112496741</a></li>
+            <li>Book — <em>LSD and the Mind of the Universe</em>: <a href="https://www.wikidata.org/wiki/Q136684740">Q136684740</a></li>
+            <li>Book — <em>Dark Night, Early Dawn</em>: <a href="https://www.wikidata.org/wiki/Q136684765">Q136684765</a></li>
+            <li>Book — <em>The Living Classroom</em>: <a href="https://www.wikidata.org/wiki/Q136684793">Q136684793</a></li>
+            <li>Book — <em>Lifecycles: Reincarnation and the Web of Life</em>: <a href="https://www.wikidata.org/wiki/Q136684807">Q136684807</a></li>
+          </ul>
+          <p class="muted">These identifiers are mirrored in our internal registry and used across the Bache Archive repositories for stable entity linking.</p>
         </div>
 
         <div class="hr"></div>
