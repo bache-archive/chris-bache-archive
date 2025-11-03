@@ -88,3 +88,6 @@ patches/**/logs/
 *.old
 *.tmpout/
 downloads/audio/_patchview
+# Secrets
+tools/token.json
+tools/client_secret.json
