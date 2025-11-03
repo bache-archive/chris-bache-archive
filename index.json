@@ -414,27 +414,6 @@
     "published": "2019-11-25"
   },
   {
-    "work_id": "lsdmu",
-    "archival_title": "LSD and the Mind of the Universe: Diamonds from Heaven",
-    "author": "Christopher M. Bache",
-    "source_type": "book",
-    "registry_path": "sources/transcripts/lsdmu/lsdmu.section-registry.json",
-    "alignment_paths": [
-      "alignments/lsdmu/innertraditions-2019-hc.json",
-      "alignments/lsdmu/audiobook-2019.json"
-    ],
-    "media": {},
-    "transcript": null,
-    "diarist": null,
-    "youtube_id": null,
-    "youtube_url": null,
-    "web_url": "https://www.innertraditions.com/books/lsd-and-the-mind-of-the-universe",
-    "duration_hms": null,
-    "published": "2019-11-26",
-    "license": "CC0-1.0 (registry + metadata only)",
-    "notes": "Canonical segmentation with verified hardcover pagination and placeholder audiobook alignment; no transcript or captions exist for this work."
-  },
-  {
     "archival_title": "LSD and the Mind of the Universe: Diamonds from Heaven",
     "channel": "Psychedelics Today",
     "source_type": "lecture",
@@ -752,7 +731,11 @@
     "duration_hms": "01:24:49",
     "blob_url": "https://github.com/bache-archive/chris-bache-archive/blob/main/sources/transcripts/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.md",
     "raw_url": "https://raw.githubusercontent.com/bache-archive/chris-bache-archive/main/sources/transcripts/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.md",
-    "published": "2021-06-03"
+    "published": "2021-06-03",
+    "media": {
+      "audio": "downloads/audio/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph-d.mp3",
+      "video": "downloads/video/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph-d.mp4"
+    }
   },
   {
     "archival_title": "MIND-BLOWING LSD Secrets Revealed – Rebel Spirit Radio",
@@ -820,7 +803,11 @@
     "duration_hms": "00:04:54",
     "blob_url": "https://github.com/bache-archive/chris-bache-archive/blob/main/sources/transcripts/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.md",
     "raw_url": "https://raw.githubusercontent.com/bache-archive/chris-bache-archive/main/sources/transcripts/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.md",
-    "published": "2022-02-16"
+    "published": "2022-02-16",
+    "media": {
+      "audio": "downloads/audio/2022-02-16-dr-chris-bache-on-understanding-dmt-entity-encounters.mp3",
+      "video": "downloads/video/2022-02-16-dr-chris-bache-on-understanding-dmt-entity-encounters.mp4"
+    }
   },
   {
     "archival_title": "What It's Like Meeting God on Psychedelics (feat. Christopher Bache)",
@@ -834,7 +821,11 @@
     "duration_hms": "00:03:28",
     "blob_url": "https://github.com/bache-archive/chris-bache-archive/blob/main/sources/transcripts/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.md",
     "raw_url": "https://raw.githubusercontent.com/bache-archive/chris-bache-archive/main/sources/transcripts/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.md",
-    "published": "2022-02-17"
+    "published": "2022-02-17",
+    "media": {
+      "audio": "downloads/audio/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat-christopher-bache.mp3",
+      "video": "downloads/video/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat-christopher-bache.mp4"
+    }
   },
   {
     "archival_title": "Exploring LSD as a Practice (Edge of Mind Podcast – Part 1)",
@@ -866,7 +857,11 @@
     "duration_hms": "01:27:55",
     "blob_url": "https://github.com/bache-archive/chris-bache-archive/blob/main/sources/transcripts/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.md",
     "raw_url": "https://raw.githubusercontent.com/bache-archive/chris-bache-archive/main/sources/transcripts/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.md",
-    "published": "2022-02-19"
+    "published": "2022-02-19",
+    "media": {
+      "audio": "downloads/audio/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.mp3",
+      "video": "downloads/video/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.mp4"
+    }
   },
   {
     "archival_title": "When We Die… (IONS “Living Classroom” excerpt)",
@@ -880,7 +875,11 @@
     "duration_hms": "00:02:06",
     "blob_url": "https://github.com/bache-archive/chris-bache-archive/blob/main/sources/transcripts/2022-04-26-when-we-die-ions-living-classroom-excerpt.md",
     "raw_url": "https://raw.githubusercontent.com/bache-archive/chris-bache-archive/main/sources/transcripts/2022-04-26-when-we-die-ions-living-classroom-excerpt.md",
-    "published": "2022-04-26"
+    "published": "2022-04-26",
+    "media": {
+      "audio": "downloads/audio/2022-04-26-when-we-die-ions-living-classroom-excerpt.mp3",
+      "video": "downloads/video/2022-04-26-when-we-die-ions-living-classroom-excerpt.mp4"
+    }
   },
   {
     "archival_title": "Part II of his Remarkable Twenty-Year Journey into the World of Psychedelics (Edge of Mind Podcast – Part 2)",
