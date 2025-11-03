@@ -6,6 +6,38 @@ Each entry summarizes what changed, when, and why.
 
 ---
 
+## v3.5.0 — 2025-11-03  
+**Media Alignment Refresh & Provenance Verification**
+
+This release establishes the first fully verified **media baseline** for the *Chris Bache Archive* — synchronizing all 2009–2025 YouTube-sourced audio and video assets with canonical filenames, checksums, and Internet Archive mirrors.  
+It also reinstates secure OAuth access for future ingestion scripts.
+
+### Key Changes
+- 🎧 **Rebuilt `index.json`**
+  - Verified 86 audio and 85 video entries (171 total).  
+  - Normalized filenames to match Internet Archive items (`chris-bache-archive-audio` / `-video`).  
+  - Confirmed 1:1 path correspondence between local media and IA uploads.
+
+- 🧮 **Generated provenance manifests**
+  - `manifests/media.csv` → paths + size + SHA-256 hash for all media.  
+  - `checksums/_archive/downloads.sha256` and `sources.sha256` for full-tree fixity.  
+  - `manifests/index.json.csv` → fingerprint of the registry itself.  
+  - Snapshot of directory (`logs/tree-L3.txt`) and extension counts (`logs/ext-counts.txt`).
+
+- 🔒 **Security and access**
+  - Removed leaked OAuth credentials from repo history and GitHub remote.  
+  - Created new Google OAuth client and token pair (`tools/client_secret.json`, `token.json`) for future authorized ingestion.
+
+- 🧹 **Safe cleanup**
+  - Removed transient logs, backups, and local artifacts while preserving all verified media.  
+  - Ensured `.gitignore` shields sensitive files and untracked media directories.
+
+### Summary
+v3.5.0 marks a **verified provenance checkpoint** — every listed audio/video asset now has validated hashes and consistent filenames across local and archived copies.  
+Subsequent work (v3.6.0) will focus on **diarization and transcript alignment** to complete the full corpus integration.
+
+---
+
 ## v3.4.1 — 2025-10-23  
 **Repository Cleanup & Rights-Clean Preservation**
 
