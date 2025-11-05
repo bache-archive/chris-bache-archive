@@ -1,2 +1,22 @@
-{ "work_id":"living-classroom", "title":"The Living Classroom", "year":2008,
-  "publisher":"SUNY Press", "wikidata":"Q136684793", "editions":[] }
+{
+  "work_id": "living-classroom",
+  "title": "The Living Classroom: Teaching and Collective Consciousness",
+  "author": "Christopher M. Bache",
+  "year": 2008,
+  "publisher": "State University of New York Press",
+  "wikidata": "Q136684793",
+  "source_type": "book",
+  "description": "Drawing on decades of teaching experience, Bache investigates the emergence of group consciousness in the classroom — how a collective ‘learning field’ can catalyze insight, creativity, and transformation.",
+  "editions": [
+    {
+      "format": "paperback",
+      "isbn_13": "9780791476468",
+      "isbn_10": null,
+      "year": 2008,
+      "publisher": "State University of New York Press"
+    }
+  ],
+  "alignment_paths": {
+    "ebook": "alignments/living-classroom/ebook.json"
+  }
+}

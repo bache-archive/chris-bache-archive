@@ -1,0 +1,23 @@
+{
+  "work_id": "lsdmu",
+  "title": "LSD and the Mind of the Universe: Diamonds from Heaven",
+  "author": "Christopher M. Bache",
+  "year": 2019,
+  "publisher": "Park Street Press",
+  "wikidata": "Q136684740",
+  "source_type": "book",
+  "description": "A record of Bache’s 20-year journey through 73 high-dose LSD sessions following Stanislav Grof’s protocols, exploring the evolution of consciousness from the personal to the cosmic.",
+  "editions": [
+    {
+      "format": "paperback",
+      "isbn_13": "9781620559703",
+      "isbn_10": "1620559706",
+      "year": 2019,
+      "publisher": "Park Street Press"
+    }
+  ],
+  "alignment_paths": {
+    "audiobook": "alignments/lsdmu/audiobook.json",
+    "ebook": "alignments/lsdmu/ebook.json"
+  }
+}

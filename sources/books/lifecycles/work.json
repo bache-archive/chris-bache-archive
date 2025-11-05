@@ -1,0 +1,23 @@
+{
+  "work_id": "lifecycles",
+  "title": "Lifecycles: Reincarnation and the Web of Life",
+  "author": "Christopher M. Bache",
+  "year": 1991,
+  "publisher": "Paragon House",
+  "wikidata": "Q136684807",
+  "source_type": "book",
+  "description": "An early synthesis of philosophical, psychological, and empirical lines of evidence for reincarnation, situating individual lifetimes within an interconnected web of life.",
+  "editions": [
+    {
+      "format": "paperback",
+      "isbn_13": "9781557786456",
+      "isbn_10": "1557786453",
+      "year": 1991,
+      "publisher": "Paragon House"
+    }
+  ],
+  "alignment_paths": {
+    "hardcover": "alignments/lifecycles/hardcover.json",
+    "ebook": "alignments/lifecycles/ebook.json"
+  }
+}

@@ -1,2 +1,22 @@
-{ "work_id":"dned", "title":"Dark Night, Early Dawn", "year":2000,
-  "publisher":"SUNY Press", "wikidata":"Q136684765", "editions":[] }
+{
+  "work_id": "dned",
+  "title": "Dark Night, Early Dawn: Steps to a Deep Ecology of Mind",
+  "author": "Christopher M. Bache",
+  "year": 2000,
+  "publisher": "State University of New York Press",
+  "wikidata": "Q136684765",
+  "source_type": "book",
+  "description": "An exploration of the psychological and spiritual ordeals that accompany deep non-ordinary states of consciousness. Bache frames the ‘dark night’ as both a personal and collective transformation toward planetary awakening.",
+  "editions": [
+    {
+      "format": "paperback",
+      "isbn_13": "9780791446065",
+      "isbn_10": "0791446069",
+      "year": 2000,
+      "publisher": "State University of New York Press"
+    }
+  ],
+  "alignment_paths": {
+    "ebook": "alignments/dned/ebook.json"
+  }
+}
