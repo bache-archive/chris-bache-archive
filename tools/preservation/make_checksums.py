@@ -51,7 +51,7 @@ INCLUDE_FILE_GLOBS = [
     "sources/transcripts/**/*",
 
     # Book registries inside transcripts (e.g., LSDMU)
-    "sources/transcripts/lsdmu/**/*",
+    "sources/books/**/*",
 
     # Alignments: JSON/CSV/YAML only (no media)
     "alignments/**/*",
