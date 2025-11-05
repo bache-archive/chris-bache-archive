@@ -163,3 +163,7 @@ Checksums include downloads/. All files verified.
     - sources/transcripts/extras/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-phd-short.html: expected 186238794d8f..., got fa55bfa518bc...
     - sources/transcripts/2021-07-08-mind-blowing-lsd-secrets-revealed-rebel-spirit-radio.html: expected 31f90fffe4d2..., got 55c8eeaefb18...
     (+85 more)
+
+### v3.5.0 — 2025-11-05T01:09:19Z
+- Wrote checksums/RELEASE-v3.5.0.sha256 (717 entries)
+- Skipped downloads manifest
