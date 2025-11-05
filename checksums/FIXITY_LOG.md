@@ -171,3 +171,7 @@ Checksums include downloads/. All files verified.
 ### v3.5.1 — 2025-11-05T01:20:45Z
 - Wrote checksums/RELEASE-v3.5.1.sha256 (719 entries)
 - Skipped downloads manifest
+
+### v3.5.2 — 2025-11-05T21:47:11Z
+- Wrote checksums/RELEASE-v3.5.2.sha256 (721 entries)
+- Skipped downloads manifest
