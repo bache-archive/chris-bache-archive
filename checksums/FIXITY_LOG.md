@@ -420,3 +420,8 @@ Checksums include downloads/. All files verified.
     - manifests/2023-03-16-collective-shadow-work-and-turning-toward-our-pain.json
     (+32 more)
 2025-11-05T22:07:30Z  Verified 639 files — all hashes match. (manifest=manifests/release-v3.5.3.json)
+
+### v3.5.4 — 2025-11-05T23:37:31Z
+- Wrote checksums/RELEASE-v3.5.4.sha256 (639 entries)
+- Skipped downloads manifest
+2025-11-05T23:37:43Z  Verified 639 files — all hashes match. (manifest=manifests/release-v3.5.4.json)
