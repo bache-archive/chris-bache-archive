@@ -6,6 +6,38 @@ Each entry summarizes what changed, when, and why.
 
 ---
 
+## v3.5.4 — 2025-11-05  
+**Section Registry Finalization · Site Rebuild · Full Fixity Verification**
+
+This release completes the **LSD and the Mind of the Universe** section registry alignment and refreshes all derivative site assets for long-term integrity.
+
+### Key Changes
+- 📘 **Book Structure Refinement**
+  - Added `s00` headnote entries to all chapters in `section-registry.json`, ensuring every chapter has a complete structural mapping (including unlabeled prefaces and openings).  
+  - Updated `toc.json`, `TOC.md`, and `TOC.html` to match the canonical book segmentation.  
+  - Revised `sources/books/lsdmu/README.md` to clarify registry conventions and headnote semantics.
+
+- 🌐 **Site & Sitemaps**
+  - Rebuilt all HTML transcript pages with `tools/site/build_site.py`.  
+  - Regenerated sitemap index and component sitemaps (`sitemap-transcripts.xml`, `sitemap-captions.xml`, `sitemap-diarist.xml`) for GitHub Pages indexing.
+
+- 🧮 **Preservation & Verification**
+  - Created new checksum release: `checksums/RELEASE-v3.5.4.sha256` (639 entries).  
+  - Generated updated manifest `manifests/release-v3.5.4.json` and archived prior manifests.  
+  - Verified fixity: *639 files checked, 0 mismatches.*
+
+- ⚙️ **Build Simplification**
+  - Added unified `make finalize` target:  
+    `make finalize RELEASE_VERSION=v3.5.4`  
+    → rebuilds site, generates sitemaps, creates checksums, and verifies fixity in one command.
+
+### Summary
+v3.5.4 finalizes the **textual architecture** of *LSD and the Mind of the Universe* and confirms **full repository integrity**.  
+All book-based sources, transcripts, and preservation manifests are now synchronized for long-term archival stability.  
+The next milestone (v3.6.x) will reintroduce **diarization and transcript alignment**, extending preservation from structure → voice.
+
+---
+
 ## v3.5.0 — 2025-11-03  
 **Media Alignment Refresh & Provenance Verification**
 
