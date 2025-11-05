@@ -5,8 +5,10 @@ type: book_toc
 author: Christopher M. Bache
 publisher: Inner Traditions • Bear & Company
 publication_year: 2019
-version: 1.0
+version: 1.1
 source_of_outline: Kindle + Audible (reconciled)
+headnote_label: Opening
+headnote_note: Each chapter begins with an untitled s00 headnote segment shown as “Opening (headnote)”.
 ---
 
 # LSD and the Mind of the Universe — Chapters & Sections
@@ -19,6 +21,7 @@ source_of_outline: Kindle + Audible (reconciled)
 - Introduction: 73 Days
 
 ## 1. The Path of Temporary Immersion
+- Opening (headnote)
 - The Therapeutic Protocol
 - In a Philosopher’s Hands
 - LSD Sessions as a Path of Spiritual Awakening
@@ -33,6 +36,7 @@ source_of_outline: Kindle + Audible (reconciled)
 - The Suffering of Death and Rebirth
 
 ## 2. Crossing the Boundary of Birth and Death
+- Opening (headnote)
 - The Welcoming
 - The Perinatal Domain
 - Ego-Death
@@ -41,11 +45,13 @@ source_of_outline: Kindle + Audible (reconciled)
 ## 3. A Session Day
 
 ## 4. The Ocean of Suffering
+- Opening (headnote)
 - The Ocean of Suffering
 - The Riddle of the Ocean of Suffering
 - On the Eve of Stopping
 
 ## 5. Deep Time and the Soul
+- Opening (headnote)
 - My Life as a Completed Whole
 - The Great Oak and the Hillside of Karma
 - Rooted in Time
@@ -55,10 +61,12 @@ source_of_outline: Kindle + Audible (reconciled)
 - Addendum: Other Instances of Future-Seeing
 
 ## 6. Initiation into the Universe
+- Opening (headnote)
 - Expanding the Narrative — Who Is the Patient?
 - Why Did the Suffering End?
 
 ## 7. The Greater Real of Archetypal Reality
+- Opening (headnote)
 - Entering Archetypal Reality
 - The Living Forces of Archetypal Reality
 - The Tissue of Our Collective Being
@@ -71,9 +79,11 @@ source_of_outline: Kindle + Audible (reconciled)
 - Addendum: Plato, Jung, and Archetypes
 
 ## 8. A Benediction of Blessings
+- Opening (headnote)
 - Reflections
 
 ## 9. The Birth of the Future Human
+- Opening (headnote)
 - The Visions of Awakening
 - The Great Awakening
 - The Nonlinear Dynamics of Awakening
@@ -81,6 +91,7 @@ source_of_outline: Kindle + Audible (reconciled)
 - Another Voice: Bede Griffiths
 
 ## 10. Diamond Luminosity
+- Opening (headnote)
 - The Hunger to Return
 - New Insights into the Psychedelic Process
 - Vajrayana Buddhist Practice
@@ -88,10 +99,12 @@ source_of_outline: Kindle + Audible (reconciled)
 - The Transparency of Embodied Presence
 
 ## 11. Final Vision
+- Opening (headnote)
 - The Good-Bye Sessions
 - Why I Stopped My Sessions
 
 ## 12. Coming off the Mountain
+- Opening (headnote)
 - The Deep Sadness
 - The Sickness of Silence
 - Entering the Sweet Valley

@@ -14,6 +14,10 @@
     {
       "number": 1,
       "title": "The Path of Temporary Immersion",
+      "headnote": {
+        "role": "headnote",
+        "ui_label": "Opening"
+      },
       "sections": [
         "The Therapeutic Protocol",
         "In a Philosopher’s Hands",
@@ -32,6 +36,10 @@
     {
       "number": 2,
       "title": "Crossing the Boundary of Birth and Death",
+      "headnote": {
+        "role": "headnote",
+        "ui_label": "Opening"
+      },
       "sections": [
         "The Welcoming",
         "The Perinatal Domain",
@@ -39,10 +47,18 @@
         "Addendum: The Perinatal Level of Consciousness"
       ]
     },
-    { "number": 3, "title": "A Session Day", "sections": [] },
+    {
+      "number": 3,
+      "title": "A Session Day",
+      "sections": []
+    },
     {
       "number": 4,
       "title": "The Ocean of Suffering",
+      "headnote": {
+        "role": "headnote",
+        "ui_label": "Opening"
+      },
       "sections": [
         "The Ocean of Suffering",
         "The Riddle of the Ocean of Suffering",
@@ -52,6 +68,10 @@
     {
       "number": 5,
       "title": "Deep Time and the Soul",
+      "headnote": {
+        "role": "headnote",
+        "ui_label": "Opening"
+      },
       "sections": [
         "My Life as a Completed Whole",
         "The Great Oak and the Hillside of Karma",
@@ -59,12 +79,16 @@
         "Reincarnation and the Soul",
         "Stepping Stones",
         "Stopping My Sessions",
-        "Addendum: Other Instances of Future-Seeing",
+        "Addendum: Other Instances of Future-Seeing"
       ]
     },
     {
       "number": 6,
       "title": "Initiation into the Universe",
+      "headnote": {
+        "role": "headnote",
+        "ui_label": "Opening"
+      },
       "sections": [
         "Expanding the Narrative — Who Is the Patient?",
         "Why Did the Suffering End?"
@@ -73,6 +97,10 @@
     {
       "number": 7,
       "title": "The Greater Real of Archetypal Reality",
+      "headnote": {
+        "role": "headnote",
+        "ui_label": "Opening"
+      },
       "sections": [
         "Entering Archetypal Reality",
         "The Living Forces of Archetypal Reality",
@@ -86,10 +114,24 @@
         "Addendum: Plato, Jung, and Archetypes"
       ]
     },
-    { "number": 8, "title": "A Benediction of Blessings", "sections": ["Reflections"] },
+    {
+      "number": 8,
+      "title": "A Benediction of Blessings",
+      "headnote": {
+        "role": "headnote",
+        "ui_label": "Opening"
+      },
+      "sections": [
+        "Reflections"
+      ]
+    },
     {
       "number": 9,
       "title": "The Birth of the Future Human",
+      "headnote": {
+        "role": "headnote",
+        "ui_label": "Opening"
+      },
       "sections": [
         "The Visions of Awakening",
         "The Great Awakening",
@@ -101,6 +143,10 @@
     {
       "number": 10,
       "title": "Diamond Luminosity",
+      "headnote": {
+        "role": "headnote",
+        "ui_label": "Opening"
+      },
       "sections": [
         "The Hunger to Return",
         "New Insights into the Psychedelic Process",
@@ -112,6 +158,10 @@
     {
       "number": 11,
       "title": "Final Vision",
+      "headnote": {
+        "role": "headnote",
+        "ui_label": "Opening"
+      },
       "sections": [
         "The Good-Bye Sessions",
         "Why I Stopped My Sessions"
@@ -120,6 +170,10 @@
     {
       "number": 12,
       "title": "Coming off the Mountain",
+      "headnote": {
+        "role": "headnote",
+        "ui_label": "Opening"
+      },
       "sections": [
         "The Deep Sadness",
         "The Sickness of Silence",
