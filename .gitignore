@@ -2,6 +2,13 @@
 .venv/
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.python-version
+
+# === Editors / IDEs ===
+.vscode/
+.idea/
 
 # === OS cruft ===
 .DS_Store
@@ -11,14 +18,38 @@ Thumbs.db
 # === Temp working directories ===
 tmp/
 .tmp_doc_md_files*
+*.tmp
+*.tmpout/
+
+# === Logs ===
+*.log
+logs/
+
+# === Local environment & secrets ===
+.env
+.env.*
+tools/client_secret.json
+tools/token.json
+tools/secrets/*
+!tools/secrets/.gitkeep
 
 # === Downloaded media (never track in Git) ===
+# Keep the quarantine README so policy is visible in-tree.
 downloads/
+!downloads/_quarantine/
+!downloads/_quarantine/README.md
+
+# Common media extensions (in case any slip outside downloads/)
 *.mp4
 *.mp3
 *.m4a
 *.webm
 *.opus
+*.wav
+*.flac
+*.mkv
+*.mov
+*.avi
 
 # yt-dlp partials and temp files
 *.part
@@ -27,68 +58,51 @@ downloads/
 *.aria2
 *.info.json
 
-# === Logs ===
-*.log
-
-# === Archives / release bundles ===
-*.zip
-
-# === Images / thumbnails ===
-# (keep source images elsewhere if needed; site thumbs should be build artifacts)
-*.jpg
-*.jpeg
-*.png
-
-# === Local environment & secrets ===
-.env
-.env.local
-tools/client_secret.json
-tools/token.json
-# keep secrets dir ignored but allow a placeholder
-tools/secrets/*
-!tools/secrets/.gitkeep
-
-# === Audacity project files (large, local only) ===
-downloads/audio/working/
+# Audacity project files (large, local only)
 *.aup3
+downloads/audio/working/
 
-# === Build artifacts (skip local builds, keep public docs) ===
+# === Build artifacts ===
+# We publish the site from /docs/, so all of /build/ can be ignored.
 build/
 index*.bak.json
+out/
+dist/
 
-# === Private backups & reports ===
+# === Private backups & bundles (local only) ===
+backups/
 private_backups/
-reports/
+bundle-v2.3-media/
+chris-bache-archive.mirror/
 
-# === Fixity and checksum archives ===
+# === Reports (local scans / scratch) ===
+reports/
+reports/quote_packs/
+
+# === Fixity and checksum archives (keep live checksums; ignore archive cache) ===
 checksums/_archive/
 
-# === Vectors (ignore all by default, allowlist key assets) ===
+# === Vectors (default ignore; allow-list the canonical pair) ===
 vectors/*
 !vectors/.gitkeep
 !vectors/bache-talks.embeddings.parquet
 !vectors/bache-talks.index.faiss
 
-# === Misc project artifacts ===
-dist/
-docs/educational/
-reports/quote_packs/
-backups/sources_json/
-bundle-v2.3-media/
-alignments/lsdmu/
-chris-bache-archive.mirror/
-
 # === Patch pipeline ===
-# keep patch logs out of git; inputs/work/outputs are tracked
+# Keep inputs/work/outputs tracked if they’re source-of-truth; drop logs noise.
 patches/**/logs/
 
-# === Notebooks & misc local noise ===
-.ipynb_checkpoints/
+# === Images / thumbnails ===
+# Do NOT globally ignore images; site assets in docs/ must be tracked.
+# If you want to ignore image dumps, place them under downloads/ or build/.
+# (Intentionally no *.jpg/*.png ignore here.)
+
+# === Archives / release bundles ===
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# === Misc old/back files ===
 *.bak
 *.old
-*.tmpout/
-downloads/audio/_patchview
-# Secrets
-tools/token.json
-tools/client_secret.json
-
