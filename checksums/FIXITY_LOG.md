@@ -366,3 +366,57 @@ Checksums include downloads/. All files verified.
 ### v3.5.3 — 2025-11-05T22:04:17Z
 - Wrote checksums/RELEASE-v3.5.3.sha256 (639 entries)
 - Skipped downloads manifest
+2025-11-05T22:05:19Z  Verified 1278 files — 0 mismatches, 82 missing, 0 malformed. (manifests=manifests)
+  Missing files:
+    - manifests/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.json
+    - manifests/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.json
+    - manifests/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.json
+    - manifests/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.json
+    - manifests/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.json
+    - manifests/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.json
+    - manifests/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview-human.json
+    - manifests/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.json
+    - manifests/2019-08-30-scientific-evidence-for-reincarnation.json
+    - manifests/2019-09-26-mapping-of-transcendence.json
+    - manifests/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-human.json
+    - manifests/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.json
+    - manifests/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.json
+    - manifests/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.json
+    - manifests/2020-04-19-bicycle-day-conversation-with-jef-baker.json
+    - manifests/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.json
+    - manifests/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.json
+    - manifests/2020-12-21-great-conjunction-reflection-short.json
+    - manifests/2021-03-16-contemplating-reincarnation-part-2-human.json
+    - manifests/2021-03-16-contemplating-reincarnation-part-2.json
+    - manifests/2021-03-16-contemplating-reincarnation-part-3-human.json
+    - manifests/2021-03-16-contemplating-reincarnation-part-3.json
+    - manifests/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.json
+    - manifests/2021-04-01-contemplating-reincarnation-part-1-human.json
+    - manifests/2021-04-01-contemplating-reincarnation-part-1.json
+    - manifests/2021-04-02-reincarnation-qanda-live-with-richard-rudd.json
+    - manifests/2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142.json
+    - manifests/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.json
+    - manifests/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.json
+    - manifests/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-phd-short.json
+    - manifests/2021-07-08-mind-blowing-lsd-secrets-revealed-rebel-spirit-radio.json
+    - manifests/2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.json
+    - manifests/2022-02-16-dmt-entity-encounters-short.json
+    - manifests/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.json
+    - manifests/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.json
+    - manifests/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.json
+    - manifests/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-short.json
+    - manifests/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.json
+    - manifests/2022-02-19-the-mind-of-the-universe-conversation-with-prof-short.json
+    - manifests/2022-04-26-when-we-die-ions-living-classroom-excerpt.json
+    - manifests/2022-04-26-when-we-die-short.json
+    - manifests/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.json
+    - manifests/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.json
+    - manifests/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.json
+    - manifests/2023-01-05-exploring-lsd-and-the-mind-of-the-universe.json
+    - manifests/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.json
+    - manifests/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.json
+    - manifests/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.json
+    - manifests/2023-02-01-children-who-remember-past-lives-chris-bache.json
+    - manifests/2023-03-16-collective-shadow-work-and-turning-toward-our-pain.json
+    (+32 more)
+2025-11-05T22:07:30Z  Verified 639 files — all hashes match. (manifest=manifests/release-v3.5.3.json)

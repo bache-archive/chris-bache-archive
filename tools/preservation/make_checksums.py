@@ -10,14 +10,17 @@ Outputs:
   - appends checksums/FIXITY_LOG.md
 
 Usage:
-  python3 tools/preservation/make_checksums.py --version v3.5.0
-  python3 tools/preservation/make_checksums.py --version v3.5.0 --verify
-  python3 tools/preservation/make_checksums.py --version v3.5.0 --no-downloads
+  python3 tools/preservation/make_checksums.py --version v3.5.3
+  python3 tools/preservation/make_checksums.py --version v3.5.3 --verify
+  python3 tools/preservation/make_checksums.py --version v3.5.3 --no-downloads
 """
 
 from __future__ import annotations
 from pathlib import Path
-import argparse, hashlib, sys, os, datetime
+from datetime import datetime, timezone
+import argparse
+import hashlib
+import sys
 
 ROOT = Path(__file__).resolve().parents[2]  # .../tools/preservation -> repo root
 OUT_DIR = ROOT / "checksums"
@@ -42,30 +45,30 @@ INCLUDE_FILE_GLOBS = [
     "docs/educational/*/index.html",
     "docs/educational/*/sources.json",
 
-    # Manifests (exclude quarantined)
-    "manifests/*.json",
+    # NOTE: manifests/*.json intentionally excluded from checksums
+    # They are derivatives of RELEASE-*.sha256 and can drift when archived.
 
     # Sources (text-ish only)
     "sources/captions/**/*",
     "sources/diarist/**/*",
     "sources/transcripts/**/*",
 
-    # Book registries inside transcripts (e.g., LSDMU)
+    # Books (registries/TOCs/etc.)
     "sources/books/**/*",
 
     # Alignments: JSON/CSV/YAML only (no media)
     "alignments/**/*",
 
-    # Vectors (allow-list)
+    # Vectors (allow-list only)
     "vectors/bache-talks.index.faiss",
     "vectors/bache-talks.embeddings.parquet",
     "vectors/chunks.jsonl",
 ]
 
-# Only hash textish and small aux formats from sources/ & alignments/
+# Only hash text-ish and small aux formats from sources/ & alignments/
 TEXTY_EXT_WHITELIST = {
     ".md", ".json", ".vtt", ".srt", ".txt", ".html", ".css", ".xml",
-    ".yaml", ".yml", ".csv", ".tsv", ".faiss", ".parquet", ".jsonl"
+    ".yaml", ".yml", ".csv", ".tsv", ".jsonl"
 }
 
 # Top-level directories to skip entirely
@@ -76,7 +79,9 @@ EXCLUDE_DIR_PREFIXES = {
     "dist"  # release bundles often live here; not part of fixity over source tree
 }
 
-MEDIA_EXTS = {".mp3", ".mp4", ".m4a", ".webm", ".opus", ".wav", ".flac", ".mkv", ".mov", ".avi"}
+MEDIA_EXTS = {
+    ".mp3", ".mp4", ".m4a", ".webm", ".opus", ".wav", ".flac", ".mkv", ".mov", ".avi"
+}
 
 def top_level_prefix(path: Path) -> str | None:
     try:
@@ -90,25 +95,21 @@ def is_excluded(p: Path) -> bool:
 
 def wanted_path(p: Path) -> bool:
     """Apply per-area rules for included globs."""
-    if is_excluded(p) or p.is_dir():
+    if p.is_dir() or is_excluded(p):
+        return False
+
+    # Never include media binaries anywhere
+    if p.suffix.lower() in MEDIA_EXTS:
         return False
 
     rel = p.relative_to(ROOT).as_posix()
-
-    # Never include media binaries in any area
-    if p.suffix.lower() in MEDIA_EXTS:
-        return False
 
     # Strict text-only for sources and alignments
     if rel.startswith("sources/") or rel.startswith("alignments/"):
         if p.suffix and p.suffix.lower() not in TEXTY_EXT_WHITELIST:
             return False
 
-    # For assets/, allow common small web assets; skip massive binaries by suffix
-    if rel.startswith("assets/"):
-        # Allow typical web assets; if you later add videos in assets, they will be skipped by MEDIA_EXTS above.
-        pass
-
+    # Allow assets/**/* but media types already filtered above
     return True
 
 def sha256_of(path: Path, bufsize: int = 1024 * 1024) -> str:
@@ -195,7 +196,7 @@ def build_downloads_manifest(dest: Path) -> int:
 def append_fixity_log(version: str, primary_count: int, downloads_count: int) -> None:
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     FIXITY_LOG.parent.mkdir(parents=True, exist_ok=True)
-    now = datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     lines = [
         f"\n### {version} — {now}",
         f"- Wrote checksums/RELEASE-{version}.sha256 ({primary_count} entries)",
@@ -206,7 +207,7 @@ def append_fixity_log(version: str, primary_count: int, downloads_count: int) ->
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--version", required=True, help="Release tag, e.g. v3.5.0")
+    ap.add_argument("--version", required=True, help="Release tag, e.g. v3.5.3")
     ap.add_argument("--verify", action="store_true", help="Verify after writing the primary manifest")
     ap.add_argument("--no-downloads", action="store_true", help="Skip downloads/ manifest")
     args = ap.parse_args()
