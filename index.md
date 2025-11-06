@@ -98,7 +98,7 @@
 ---
 
 **Mirrors & Citation**  
-- Concept DOI (latest snapshot): https://doi.org/10.5281/zenodo.17100583  
+- Concept DOI (latest snapshot): https://doi.org/10.5281/zenodo.17088457  
 - Audio collection (2009–2025): https://archive.org/details/chris-bache-archive-audio  
 - Video collection (2009–2025): https://archive.org/details/chris-bache-archive-video  
 
