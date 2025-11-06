@@ -247,3 +247,22 @@ sitemaps:
 # One-shot: add → captions → diarist reminder → transcript → index
 quick: add captions diarist transcript index
 	@echo ">> Quick flow completed for $(SLUG)"
+
+# ------------------------------------------------------------------------------
+# Finalization (simple one-command build + verify)
+# ------------------------------------------------------------------------------
+RELEASE_VERSION ?= v3.5.4
+
+.PHONY: finalize
+finalize:
+	@echo ">> Rebuilding site..."
+	@python3 tools/site/build_site.py
+	@echo ">> Regenerating sitemaps..."
+	@python3 tools/site/generate_sitemaps.py
+	@echo ">> Rebuilding checksums for $(RELEASE_VERSION)..."
+	@python3 tools/preservation/make_checksums.py --version $(RELEASE_VERSION) --verify --no-downloads
+	@echo ">> Verifying fixity..."
+	@python3 tools/preservation/verify_fixity.py
+	@echo ""
+	@echo "✅ Finalization complete — site + sitemaps + checksums + fixity verified."
+	@echo "Results logged in checksums/FIXITY_LOG.md"
