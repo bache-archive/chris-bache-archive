@@ -1,432 +1,548 @@
 #!/usr/bin/env python3
 """
-tools/transcripts/rebuild_transcripts_v2.py
+tools/transcripts/rebuild_transcripts.py
 
-Rebuild markdown transcripts from diarist .txt files using index metadata.
+Rebuild markdown transcripts from diarist .txt files using GPT normalization.
+Worklist is driven by a file of basenames (one per line) provided via:
+  - environment variable MISSING (path to the file), or
+  - --missing-file PATH
 
-What’s new in this version
-- --index PATH                Use a non-canonical index (e.g., patch preview merged index)
-- --only-from-patch PATH      Restrict worklist to items listed in a patch JSON
-- --out-dir DIR               Write output to a sandbox directory (e.g., build/patch-preview/.../transcripts)
-- Robust index formats        Supports a top-level list OR {"items":[...]}
-- Flexible ID resolution      Uses transcript basename, else id/slug/youtube_id
-- Optional stubs              --allow-stubs will emit a minimal page if diarist .txt is missing
-- Safer metadata              Tries several common field names for title/date
+Inputs:
+  - sources/diarist/<basename>.txt   (also tolerates 'sources/diarists/')
+  - index.json (optional; for title/date lookup)
 
-Usage examples
---------------
-# Build only items from a patch into a preview directory
-python tools/transcripts/rebuild_transcripts_v2.py \
-  --root . \
-  --index patches/2025-10-31-bache-youtube/outputs/index.merged.json \
-  --only-from-patch patches/2025-10-31-bache-youtube/work/index.patch.json \
-  --out-dir build/patch-preview/2025-10-31-bache-youtube/transcripts \
-  --normalize-labels --sync-speakers-yaml --verbose
+Output:
+  - sources/transcripts/<basename>.md  (archives any existing file to _archive/)
 
-# Build a specific basename (matches sources/diarist/<basename>.txt)
-python tools/transcripts/rebuild_transcripts_v2.py --root . --only ZeGh055Porc --verbose
+Key flags:
+  --missing-file PATH      : file listing basenames to process (one per line)
+  --index PATH             : index.json or {"items":[...]} (optional)
+  --apply                  : write to sources/transcripts/ (default True)
+  --dry-run                : show planned work, no writes
+  --normalize-labels       : normalize body labels to diarist canonical names
+  --sync-speakers-yaml     : write YAML speakers list from body labels
+  --verbose                : verbose logging
+
+Environment:
+  OPENAI_API_KEY           : required
+  OPENAI_MODEL             : default "gpt-5"
+  CHUNK_CHARS              : max chars per chunk (default 30000)
+  MAX_DIARIST_CHARS        : optional clip for testing (default 0 = no clip)
+  MISSING                  : optional path to basenames file (same as --missing-file)
 """
 
 from __future__ import annotations
-import argparse
-import hashlib
-import json
-import re
-import sys
+import argparse, json, os, re, sys, time, hashlib, shutil, datetime, glob
 from pathlib import Path
-from typing import Dict, Iterable, List, Optional, Tuple
+from typing import Optional, Tuple, Dict, List
 
-# ─────────────────────────────── Paths ───────────────────────────────
+# --- optional .env loading (silent if missing) ---
+try:
+    from dotenv import load_dotenv
+    load_dotenv(dotenv_path=".env")
+    load_dotenv(dotenv_path=".env.local", override=True)
+except Exception:
+    pass
 
-HERE = Path(__file__).resolve().parent
-ROOT = HERE.parent.parent  # repo root (…/tools/.. → /)
+DEFAULT_MODEL = os.environ.get("OPENAI_MODEL", "gpt-5")
+OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
+MAX_RETRIES = 5
+RETRY_BASE_SEC = 2
 
+# OpenAI SDK
+try:
+    from openai import OpenAI
+except ImportError:
+    print("Please: pip install openai>=1.40.0", file=sys.stderr)
+    sys.exit(1)
 
-# ─────────────────────────────── Utils ───────────────────────────────
+# ------------------- regex & utilities -------------------
+
+YAML_FM_RE = re.compile(r"^---\s*\n(.*?)\n---\s*\n", re.DOTALL)
+DIAR_SHA1_LINE_RE = re.compile(r'(?m)^\s*diarist_sha1:\s*([0-9a-f]{40})\s*$')
+DIAR_SHA1_HTML_RE = re.compile(r'<!--\s*diarist_sha1:([0-9a-f]{40})\s*-->')
+
+SYSTEM_MSG = (
+    "You are a meticulous transcription editor. "
+    "You convert diarized transcripts into clean, readable Markdown while preserving fidelity. "
+    "You never hallucinate or add content."
+)
 
 def info(enabled: bool, msg: str) -> None:
     if enabled:
-        print(f"[INFO] {msg}", flush=True)
+        print(f"[info] {msg}", flush=True)
 
 def warn(msg: str) -> None:
-    print(f"[WARN] {msg}", flush=True)
+    print(f"[warn] {msg}", flush=True)
 
-def sha1_of_file(p: Path) -> str:
+def read_text(p: Path) -> str:
+    return p.read_text(encoding="utf-8")
+
+def write_text(p: Path, text: str):
+    p.parent.mkdir(parents=True, exist_ok=True)
+    p.write_text(text, encoding="utf-8")
+
+def split_front_matter(md: str):
+    m = YAML_FM_RE.match(md)
+    if not m:
+        return None, md
+    return m.group(1), md[m.end():]  # (fm_without_delims, body)
+
+def join_front_matter(fm_body: Optional[str], body: str) -> str:
+    if fm_body is None:
+        return f"---\n---\n{body}"
+    return f"---\n{fm_body}\n---\n{body}"
+
+def sha1_bytes(b: bytes) -> str:
     h = hashlib.sha1()
-    with p.open("rb") as f:
-        for chunk in iter(lambda: f.read(8192), b""):
-            h.update(chunk)
+    h.update(b)
     return h.hexdigest()
 
-def to_repo_rel(p: Path) -> str:
-    try:
-        return str(p.resolve().relative_to(ROOT))
-    except Exception:
-        return str(p.resolve())
+def sha1_str(s: str) -> str:
+    return sha1_bytes(s.encode("utf-8"))
 
+def ts_str() -> str:
+    return datetime.datetime.now().strftime("%Y%m%d-%H%M%S")
 
-# ───────────────────── Index / Patch loading ─────────────────────
+def archive_with_timestamp(path: Path, archive_dir: Path) -> Optional[Path]:
+    if not path.exists():
+        return None
+    archived = archive_dir / f"{path.stem}.{ts_str()}{path.suffix}"
+    archive_dir.mkdir(parents=True, exist_ok=True)
+    shutil.copy2(path, archived)
+    return archived
 
-def load_index(index_path: Path, verbose: bool=False) -> List[Dict]:
-    if not index_path.exists():
-        raise FileNotFoundError(f"index not found: {index_path}")
+def ensure_client() -> OpenAI:
+    if not OPENAI_API_KEY:
+        print("Error: OPENAI_API_KEY not set.", file=sys.stderr)
+        sys.exit(1)
+    return OpenAI(api_key=OPENAI_API_KEY, timeout=300.0)
+
+def call_model(client: OpenAI, model: str, system_msg: str, user_msg: str) -> str:
+    last_err = None
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            resp = client.chat.completions.create(
+                model=model,
+                messages=[
+                    {"role": "system", "content": system_msg},
+                    {"role": "user", "content": user_msg},
+                ],
+            )
+            out = (resp.choices[0].message.content or "").strip()
+            if out:
+                return out
+            raise RuntimeError("empty_completion_from_chat_api")
+        except Exception as e1:
+            last_err = e1
+            try:
+                r = client.responses.create(
+                    model=model,
+                    input=[
+                        {"role": "system", "content": system_msg},
+                        {"role": "user", "content": user_msg},
+                    ],
+                )
+                if hasattr(r, "output") and r.output:
+                    parts = []
+                    for item in r.output:
+                        if getattr(item, "type", "") == "message":
+                            for c in getattr(item, "content", []):
+                                if getattr(c, "type", "") == "output_text":
+                                    parts.append(getattr(c, "text", ""))
+                    out = "\n".join(parts).strip()
+                    if out:
+                        return out
+                if hasattr(r, "output_text") and r.output_text:
+                    return r.output_text.strip()
+                raise RuntimeError("empty_completion_from_responses_api")
+            except Exception as e2:
+                last_err = e2
+                if attempt == MAX_RETRIES:
+                    raise
+                sleep_s = RETRY_BASE_SEC * (2 ** (attempt - 1))
+                warn(f"API error ({last_err}); retry {attempt}/{MAX_RETRIES} in {sleep_s:.1f}s")
+                time.sleep(sleep_s)
+    raise last_err or RuntimeError("Unknown API failure")
+
+def normalize_label_spacing(text: str) -> str:
+    # "Speaker :" -> "Speaker:"
+    return re.sub(r"([^\n:]{1,80})\s+:\s", r"\1: ", text)
+
+def chunk_text(s: str, max_chars: int = 30000) -> List[str]:
+    if len(s) <= max_chars:
+        return [s]
+    parts, buf, total = [], [], 0
+    for para in s.split("\n\n"):
+        block = para + "\n\n"
+        if total + len(block) > max_chars and buf:
+            parts.append("".join(buf)); buf, total = [], 0
+        buf.append(block); total += len(block)
+    if buf: parts.append("".join(buf))
+    return parts
+
+# --------------- index / metadata helpers ----------------
+
+def load_index(index_path: Path) -> Optional[list]:
+    if not index_path or not index_path.exists():
+        return None
     try:
         data = json.loads(index_path.read_text(encoding="utf-8"))
+        return data if isinstance(data, list) else data.get("items", [])
     except Exception as e:
-        raise ValueError(f"failed to parse index at {index_path}: {e}")
-    items = data.get("items") if isinstance(data, dict) else data
-    if not isinstance(items, list):
-        raise ValueError("index must be a list or {'items':[...]} at the top level")
-    info(verbose, f"Loaded index items: {len(items)} from {to_repo_rel(index_path)}")
-    return items
+        warn(f"Failed to parse {index_path}: {e}")
+        return None
 
-PATCH_KEYS = ("id", "slug", "youtube_id", "transcript")
+def index_by_basename(idx: Optional[list]) -> Dict[str, dict]:
+    m: Dict[str, dict] = {}
+    if not idx:
+        return m
+    for entry in idx:
+        # accept either transcript path or file field
+        path = entry.get("transcript") or entry.get("file") or ""
+        base = Path(path).stem if path else ""
+        if base:
+            m[base] = entry
+    return m
 
-def extract_ids_from_patch(patch_path: Path, verbose: bool=False) -> set[str]:
-    ids: set[str] = set()
-    if not patch_path.exists():
-        warn(f"patch json not found: {patch_path}")
-        return ids
-    try:
-        data = json.loads(patch_path.read_text(encoding="utf-8"))
-    except Exception as e:
-        warn(f"failed to parse patch: {patch_path} ({e})")
-        return ids
-    items = data if isinstance(data, list) else (data.get("items") or data.get("entries") or [])
-    for it in items or []:
-        # Prefer explicit identifiers
-        for k in ("id", "slug", "youtube_id"):
-            v = (it.get(k) or "").strip()
-            if v:
-                ids.add(v)
-        # Allow transcript-derived basename fallback
-        tr = (it.get("transcript") or "").strip()
-        m = re.search(r"([^/]+)\.md$", tr)
-        if m:
-            ids.add(m.group(1))
-    info(verbose, f"Filtered IDs from patch: {len(ids)} ({to_repo_rel(patch_path)})")
-    return ids
+def derive_title_from_index_entry(entry: dict, default_base: str) -> str:
+    return (entry.get("archival_title") or entry.get("title") or "").strip() or default_base
 
-
-# ───────────────────── Entry → basename resolution ─────────────────────
-
-def basename_for_item(it: Dict) -> Optional[str]:
-    """
-    Determine the working 'basename' used for diarist and transcript files.
-    Priority:
-      1) transcript path stem (e.g., sources/transcripts/<stem>.md → <stem>)
-      2) id
-      3) slug
-      4) youtube_id
-    """
-    tr = (it.get("transcript") or "").strip()
-    if tr:
-        m = re.search(r"([^/]+)\.md$", tr)
-        if m:
-            return m.group(1)
-    for k in ("id", "slug", "youtube_id"):
-        v = (it.get(k) or "").strip()
+def derive_date_from_index_entry(entry: dict) -> str:
+    for k in ("published", "published_at", "date", "recorded_at"):
+        v = (entry.get(k) or "").strip()
         if v:
             return v
+    # fallback: try to parse YYYY-MM-DD- prefix from filename
+    file_path = entry.get("file","")
+    m = re.search(r"/(\d{4}-\d{2}-\d{2})-", file_path)
+    return m.group(1) if m else ""
+
+# --------------- diarist / label helpers ----------------
+
+def diarist_path_for(base: str) -> Optional[Path]:
+    p1 = Path("sources/diarist") / f"{base}.txt"
+    if p1.exists():
+        return p1
+    p2 = Path("sources/diarists") / f"{base}.txt"   # tolerate plural folder
+    if p2.exists():
+        return p2
     return None
 
-def entries_by_basename(items: List[Dict]) -> Dict[str, Dict]:
-    out: Dict[str, Dict] = {}
-    for it in items:
-        base = basename_for_item(it)
-        if base:
-            out[base] = it
-    return out
-
-
-# ───────────────────── Text parsing / cleaning ─────────────────────
-
-TIME_RE = re.compile(r"\b(?:\d{1,2}:)?\d{1,2}:\d{2}\b")              # 1:23:45 or 12:34
-LEADING_TIME_RE = re.compile(r"^\s*(?:\d{1,2}:)?\d{1,2}:\d{2}\s*[-–]\s*")  # "00:10 - "
-
-def clean_line(line: str) -> str:
-    line = TIME_RE.sub("", line)
-    line = LEADING_TIME_RE.sub("", line)
-    line = re.sub(r"\s+", " ", line).strip()
-    return line
-
-def is_speaker_line(line: str) -> bool:
-    return bool(re.match(r"^[^\s].{0,100}:\s", line))
-
-def split_speaker_line(line: str) -> Tuple[str, str]:
-    parts = line.split(":", 1)
-    spk = parts[0].strip()
-    text = parts[1].strip() if len(parts) > 1 else ""
-    return spk, text
-
-def normalize_label(label: str) -> str:
-    L = re.sub(r"\s+", " ", label.strip())
-    aliases = {
-        "host": "Interviewer",
-        "moderator": "Interviewer",
-        "interviewer": "Interviewer",
-        "audience": "Audience",
-        "audience member": "Audience",
-        "unknown": "Unknown",
-        "unknown speaker": "Unknown",
-        "speaker": "Unknown",
-        "speaker 1": "Speaker 1",
-        "speaker 2": "Speaker 2",
-        "speaker 3": "Speaker 3",
-        "dr. chris bache": "Chris Bache",
-        "christopher bache": "Chris Bache",
-        "chris": "Chris Bache",
-        "chris bache": "Chris Bache",
-    }
-    return aliases.get(L.lower(), L)
-
-def gather_blocks(diar_lines: Iterable[str], do_norm: bool) -> List[Tuple[str, str]]:
-    blocks: List[Tuple[str, str]] = []
-    cur_spk: Optional[str] = None
-    cur_buf: List[str] = []
-
-    def flush():
-        nonlocal cur_spk, cur_buf
-        if cur_spk is not None and cur_buf:
-            text = " ".join(cur_buf).strip()
-            if text:
-                blocks.append((cur_spk, text))
-        cur_spk, cur_buf = None, []
-
-    for raw in diar_lines:
-        if raw.strip().startswith("<!--") and raw.strip().endswith("-->"):
+def extract_speakers_from_diarist(txt: str) -> List[str]:
+    labs = []
+    seen = set()
+    for line in txt.splitlines():
+        if ":" not in line or line.strip().startswith("---"):
             continue
-        line = clean_line(raw.rstrip("\n"))
+        lab = line.split(":", 1)[0]
+        lab = re.sub(r"\s+\d+$", "", lab).strip()
+        if not lab:
+            continue
+        if lab.lower().startswith("transcribed by "):
+            continue
+        if lab not in seen:
+            seen.add(lab)
+            labs.append(lab)
+    return labs
+
+def set_yaml_speakers(md: str, speakers_list: List[str]) -> str:
+    m = YAML_FM_RE.match(md)
+    speakers_line = 'speakers: [' + ", ".join(f'"{s}"' for s in speakers_list) + ']'
+    if not m:
+        return f"---\n{speakers_line}\n---\n{md}"
+    fm = m.group(1)
+    body = md[m.end():]
+    fm = re.sub(r'(?m)^\s*speakers:\s*(\[[^\n]*\]|\\\[[^\n]*\\\])\s*\n?', "", fm)
+    if fm and not fm.endswith("\n"):
+        fm += "\n"
+    fm += speakers_line + "\n"
+    return f"---\n{fm}---\n{body}"
+
+def normalize_body_labels_to_diarist(md: str, speakers: List[str]) -> str:
+    m = YAML_FM_RE.match(md)
+    fm = m.group(1) if m else None
+    body = md[m.end():] if m else md
+    for name in sorted(speakers, key=len, reverse=True):
+        prefix = r'(^[>#*\-\s]*?(?:\*\*|\*|__|_|`)?\s*)'
+        name_ci = re.escape(name)
+        pat = re.compile(prefix + r'(' + name_ci + r')\s*\d*(?=:\s)', re.IGNORECASE | re.MULTILINE)
+        def _repl(mo): return f"{mo.group(1)}{name}"
+        body = pat.sub(_repl, body)
+    return f"---\n{fm}\n---\n{body}" if fm is not None else body
+
+def extract_recorded_diarist_sha1(md_path: Path) -> Optional[str]:
+    if not md_path.exists():
+        return None
+    text = md_path.read_text(encoding="utf-8")
+    m = DIAR_SHA1_LINE_RE.search(text)
+    if m:
+        return m.group(1)
+    m = DIAR_SHA1_HTML_RE.search(text)
+    if m:
+        return m.group(1)
+    return None
+
+# --------------- prompting ----------------
+
+def make_user_prompt_chunk(title: str, date: str, diarist_chunk: str, i: int, n: int) -> str:
+    return f"""Task: Transform this diarized transcript CHUNK into a polished, magazine-readable conversation.
+
+Context:
+- Archival title: {title}
+- Recorded/published date: {date}
+- This is chunk {i} of {n}. Process ONLY this chunk. Do not summarize earlier or later chunks.
+
+Output goals:
+- Remove ALL timecodes.
+- Keep ONLY the named principals (e.g., "Chris Bache" and the interviewer/host). Do NOT use generic labels like "Speaker 1" or "Unknown Speaker".
+- If an unlabeled/generic utterance is trivial back-channel (e.g., “yeah”, “uh-huh”, “thanks”, laughter), DROP it.
+- If an unlabeled/generic utterance is a question, attribute it to the interviewer/host.
+- Otherwise, attribute unlabeled/generic lines to the most contextually appropriate main speaker. Do NOT invent new names.
+- Merge lines into coherent paragraphs. Make it flow as a feature interview suitable for publication.
+- Lightly remove filler / false starts and fix punctuation/casing. DO NOT change meaning or reorder content.
+- Produce ONLY Markdown transcript text; NO timecodes, NO system notes.
+
+Diarist CHUNK (verbatim) starts below:
+----------------------------------------
+{diarist_chunk}
+"""
+
+# --------------- core processing ----------------
+
+def process_one(
+    basename: str,
+    args,
+    client: OpenAI,
+    idx_map: Dict[str, dict],
+) -> Tuple[str, Optional[str]]:
+    # locate diarist
+    diar_path = diarist_path_for(basename)
+    if not diar_path or not diar_path.exists():
+        return "skipped", f"no diarist for {basename}"
+
+    # target paths
+    target_rel = Path("sources/transcripts") / f"{basename}.md"
+    target_abs = Path(".").resolve() / target_rel
+
+    # load diarist text
+    diar_text = read_text(diar_path)
+    diar_hash = sha1_str(diar_text)
+
+    # optional clip for testing
+    if args.verbose:
+        info(True, f"{basename}: diarist chars={len(diar_text):,}")
+    max_chars = int(os.environ.get("MAX_DIARIST_CHARS", "0") or "0")
+    if max_chars > 0 and len(diar_text) > max_chars:
+        if args.verbose:
+            info(True, f"{basename}: clipping diarist to {max_chars:,} chars for this run")
+        diar_text = diar_text[:max_chars]
+
+    # prepare front matter from existing transcript if present
+    fm_body = None
+    if target_abs.exists():
+        fm_body, _ = split_front_matter(read_text(target_abs))
+
+    # title/date from index (optional)
+    entry = idx_map.get(basename, {})
+    title = derive_title_from_index_entry(entry, basename)
+    date  = derive_date_from_index_entry(entry)
+
+    # chunk & call model
+    chunk_size = int(os.environ.get("CHUNK_CHARS", "30000"))
+    chunks = chunk_text(diar_text, max_chars=chunk_size)
+    outs = []
+    for i, ch in enumerate(chunks, 1):
+        if args.verbose:
+            info(True, f"{basename}: sending chunk {i}/{len(chunks)} ({len(ch):,} chars)")
+        prompt = make_user_prompt_chunk(title, date, ch, i, len(chunks))
+        piece = call_model(client, args.model, SYSTEM_MSG, prompt)
+        piece = normalize_label_spacing(piece)
+        outs.append(piece)
+    out = "\n\n".join(outs)
+
+    # seatbelts
+    out = re.sub(r'^([#>* _`-]*[^\n:]{1,80})\s+[0-9]{1,2}:[0-9]{2}(?::[0-9]{2})?\s*:', r'\1:', out, flags=re.M)
+
+    # stage lines to resolve generics after we know mains
+    generic_pat = re.compile(r'^\s*(Unknown Speaker|Speaker\s+\d+)\s*:', re.I)
+    staged = []
+    last_named = None
+    for line in out.splitlines():
+        if ":" in line and not line.startswith("<!--"):
+            left, rest = line.split(":", 1)
+            label = left.strip()
+            text  = rest.lstrip()
+            if generic_pat.match(label):
+                staged.append(("__GENERIC__", text))
+            else:
+                last_named = label
+                staged.append((label, text))
+        else:
+            staged.append((None, line))
+
+    # mains/interviewer guess from diarist labels
+    diar_labs = extract_speakers_from_diarist(diar_text)
+    mains = [s for s in diar_labs if not re.match(r'(?i)unknown speaker|speaker\s+\d+', s)]
+    interviewer = next((s for s in mains if s.lower() in {"interviewer", "host", "moderator", "robert mcdermott", "luc briede-cooper"}), None)
+    if not interviewer and mains:
+        interviewer = next((s for s in mains if s.lower() != "chris bache"), mains[0] if mains else None)
+
+    rebuilt = []
+    last_named = interviewer or (mains[0] if mains else None)
+    for label, text in staged:
+        if label is None:
+            rebuilt.append(text)
+            continue
+        if label == "__GENERIC__":
+            target = interviewer if (text.endswith("?") and interviewer) else (last_named or interviewer or (mains[0] if mains else "Interviewer"))
+            rebuilt.append(f"{target}: {text}")
+            last_named = target
+        else:
+            rebuilt.append(f"{label}: {text}")
+            if label in mains:
+                last_named = label
+
+    body = "\n".join(rebuilt)
+    # optional body label normalization
+    if mains and args.normalize_labels:
+        tmp = join_front_matter(None, body)  # attach empty YAML for helper
+        tmp = normalize_body_labels_to_diarist(tmp, mains)
+        mtmp = YAML_FM_RE.match(tmp)
+        body = tmp[mtmp.end():] if mtmp else tmp
+
+    # final polish
+    body = re.sub(r'\b([0-9]{1,2}:[0-9]{2}(?::[0-9]{2})?)\b', '', body)
+    body = re.sub(r'[ \t]{2,}', ' ', body)
+    body = re.sub(r'\n{3,}', '\n\n', body)
+    body = re.sub(r'(?m)^[#>* _`-]*\b(?:Unknown Speaker|Speaker\s+\d+)\s*:', 'Audience:', body)
+
+    # compose final md with YAML
+    # ensure diarist_sha1 is recorded in YAML
+    fm_body_updated = fm_body or ""
+    if "diarist_sha1:" in fm_body_updated:
+        fm_body_updated = re.sub(DIAR_SHA1_LINE_RE, f"diarist_sha1: {diar_hash}", fm_body_updated)
+    else:
+        if fm_body_updated and not fm_body_updated.endswith("\n"):
+            fm_body_updated += "\n"
+        fm_body_updated += f"diarist_sha1: {diar_hash}\n"
+
+    # also keep an HTML comment tag near top for quick grepping
+    body_with_tag = f"<!-- diarist_sha1:{diar_hash} -->\n{body}".strip() + "\n"
+    final_md = join_front_matter(fm_body_updated, body_with_tag)
+
+    if args.dry_run:
+        return "planned", str(target_rel)
+
+    # archive & write
+    if args.apply:
+        archive_dir = target_abs.parent / "_archive"
+        if target_abs.exists():
+            archived = archive_with_timestamp(target_abs, archive_dir)
+            if archived:
+                info(args.verbose, f"archive: {target_abs.name} -> {archived.name}")
+        write_text(target_abs, final_md)
+        return "applied", str(target_rel)
+    else:
+        # If not applying, place in build mirror path
+        build_out = Path("./build") / target_rel
+        write_text(build_out, final_md)
+        return "built", str(build_out)
+
+# --------------- worklist (MISSING) ----------------
+
+SAFE_BASE_RE = re.compile(r"^[A-Za-z0-9][A-Za-z0-9._-]*$")
+
+def load_missing_list(path: Path, verbose: bool=False) -> List[str]:
+    if not path or not path.exists():
+        return []
+    basenames: List[str] = []
+    for raw in path.read_text(encoding="utf-8").splitlines():
+        line = raw.strip()
         if not line:
             continue
-        if is_speaker_line(line):
-            spk, text = split_speaker_line(line)
-            spk = normalize_label(spk) if do_norm else spk.strip()
-            flush()
-            cur_spk = spk
-            if text:
-                cur_buf.append(text)
+        # ignore obvious shell error echoes like "...: File name too long"
+        if "File name too long" in line:
+            continue
+        # keep only safe-looking basenames to avoid surprises
+        if SAFE_BASE_RE.match(line):
+            basenames.append(line)
         else:
-            if cur_spk is None:
-                cur_spk = normalize_label("Unknown") if do_norm else "Unknown"
-            cur_buf.append(line)
-    flush()
-    return blocks
+            warn(f"Skipping suspicious basename in MISSING: {line}")
+    if verbose:
+        info(True, f"MISSING list loaded: {len(basenames)} items from {path}")
+    return basenames
 
-def unique_ordered(seq: Iterable[str]) -> List[str]:
-    seen = set()
-    out: List[str] = []
-    for s in seq:
-        if s not in seen:
-            seen.add(s)
-            out.append(s)
-    return out
+# --------------- main ----------------
 
-
-# ───────────────────── Markdown emission ─────────────────────
-
-def pick_title(meta: Dict, base: str) -> str:
-    for k in ("archival_title", "title", "name"):
-        v = (meta.get(k) or "").strip()
-        if v:
-            return v
-    return base
-
-def pick_date(meta: Dict) -> str:
-    for k in ("published_at", "published", "date", "recorded_at"):
-        v = (meta.get(k) or "").strip()
-        if v:
-            return v
-    return ""
-
-def to_markdown(
-    base: str,
-    blocks: List[Tuple[str, str]],
-    meta: Dict,
-    diar_sha1: Optional[str],
-    sync_speakers_yaml: bool,
-) -> str:
-    title = pick_title(meta, base)
-    date = pick_date(meta)
-
-    body_speakers = unique_ordered([b[0] for b in blocks])
-    speakers_yaml = body_speakers if sync_speakers_yaml else meta.get("speakers", body_speakers)
-
-    lines: List[str] = []
-    lines.append("---")
-    lines.append(f'title: "{title}"')
-    if date:
-        lines.append(f"date: {date}")
-    if speakers_yaml:
-        quoted = [f'"{s}"' for s in speakers_yaml]
-        lines.append(f"speakers: [{', '.join(quoted)}]")
-    if diar_sha1:
-        lines.append(f"diarist_sha1: {diar_sha1}")
-    lines.append(f"source_basename: {base}")
-    lines.append("---\n")
-
-    for spk, text in blocks:
-        lines.append(f"{spk}: {text}\n")
-
-    return "".join(lines).rstrip() + "\n"
-
-
-# ───────────────────── Core build routines ─────────────────────
-
-def build_from_diarist(
-    root: Path,
-    base: str,
-    meta: Dict,
-    out_path: Path,
-    normalize_labels: bool,
-    sync_speakers_yaml: bool,
-    verbose: bool,
-) -> bool:
-    diar = root / "sources" / "diarist" / f"{base}.txt"
-    if not diar.exists():
-        info(verbose, f"{base}: diarist not found: {to_repo_rel(diar)}")
-        return False
-
-    diar_lines = diar.read_text(encoding="utf-8").splitlines(True)
-    info(verbose, f"{base}: diarist chars={sum(len(x) for x in diar_lines):,}")
-
-    blocks = gather_blocks(diar_lines, do_norm=normalize_labels)
-    if not blocks:
-        info(verbose, f"{base}: no speaker blocks parsed")
-        return False
-
-    diar_sha1 = sha1_of_file(diar)
-    md = to_markdown(
-        base=base,
-        blocks=blocks,
-        meta=meta,
-        diar_sha1=diar_sha1,
-        sync_speakers_yaml=sync_speakers_yaml,
-    )
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_text(md, encoding="utf-8")
-    return True
-
-def build_stub(
-    base: str,
-    meta: Dict,
-    out_path: Path,
-    note: str = "No diarist file available at preview time.",
-) -> None:
-    title = pick_title(meta, base)
-    date = pick_date(meta)
-    lines = [
-        "---",
-        f'title: "{title}"',
-    ]
-    if date:
-        lines.append(f"date: {date}")
-    lines += [
-        f"source_basename: {base}",
-        "speakers: []",
-        "---",
-        "",
-        f"> {note}",
-        "",
-    ]
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_text("\n".join(lines), encoding="utf-8")
-
-
-# ─────────────────────────────── Main ───────────────────────────────
-
-def main() -> int:
-    ap = argparse.ArgumentParser(description="Rebuild markdown transcripts from diarist .txt files.")
-    ap.add_argument("--root", default=".", help="Repo root (default: current directory)")
-    ap.add_argument("--index", default=str(ROOT / "index.json"), help="Path to index JSON (supports list or {'items':[...]}).")
-    ap.add_argument("--only", action="append", default=[], help="Limit to one or more basenames (no extension). Can be given multiple times.")
-    ap.add_argument("--only-from-patch", help="Restrict worklist to items listed in a patch JSON (reads id/slug/youtube_id/transcript).")
-    ap.add_argument("--out-dir", default=str(ROOT / "build" / "sources" / "transcripts"), help="Output directory for markdown transcripts.")
-    ap.add_argument("--normalize-labels", action="store_true", help="Normalize common labels (Interviewer, Audience, Unknown, Chris Bache, etc.)")
-    ap.add_argument("--sync-speakers-yaml", action="store_true", help="Populate speakers: in YAML from deduped body labels.")
-    ap.add_argument("--allow-stubs", action="store_true", help="If diarist .txt missing, emit a minimal stub Markdown instead of failing.")
-    ap.add_argument("--dry-run", action="store_true", help="Print planned outputs without writing files.")
-    ap.add_argument("--verbose", action="store_true", help="Verbose logging.")
+def main():
+    ap = argparse.ArgumentParser(description="Rebuild transcripts from diarist using GPT; write to sources/transcripts.")
+    ap.add_argument("--root", default=".", help="Repo root")
+    ap.add_argument("--index", default="index.json", help="index.json path (optional)")
+    ap.add_argument("--missing-file", default=os.environ.get("MISSING", ""), help="Path to file containing basenames (one per line)")
+    ap.add_argument("--model", default=DEFAULT_MODEL, help="OpenAI model (default env OPENAI_MODEL or gpt-5)")
+    ap.add_argument("--apply", action="store_true", default=True, help="Write to sources/transcripts (default: True)")
+    ap.add_argument("--no-archive", action="store_true", help="(reserved) kept for compatibility; archiving is on by default")
+    ap.add_argument("--dry-run", action="store_true", help="List planned work, do not write files")
+    ap.add_argument("--normalize-labels", action="store_true", help="Normalize body labels to diarist canonical names")
+    ap.add_argument("--sync-speakers-yaml", action="store_true", help="Write YAML speakers list from body labels (applied if fm exists)")
+    ap.add_argument("--verbose", action="store_true", help="Verbose logging")
     args = ap.parse_args()
 
     root = Path(args.root).resolve()
-    index_path = Path(args.index).resolve()
-    out_dir = Path(args.out_dir).resolve()
+    os.chdir(root)
 
-    items = load_index(index_path, verbose=args.verbose)
-    ix_by_base = entries_by_basename(items)
+    client = ensure_client()
 
-    # Build worklist
-    selected_ids: Optional[set[str]] = None
-    if args.only_from_patch:
-        selected_ids = extract_ids_from_patch(Path(args.only_from_patch), verbose=args.verbose)
+    # Load index (optional)
+    idx = load_index(Path(args.index)) if args.index else None
+    idx_map = index_by_basename(idx)
 
-    # Start with explicit --only (comma-friendly)
-    explicits: List[str] = []
-    for x in args.only:
-        explicits += [w.strip() for w in x.split(",") if w.strip()]
+    # Worklist from MISSING
+    missing_path = Path(args.missing_file) if args.missing_file else None
+    work = load_missing_list(missing_path, verbose=args.verbose) if missing_path else []
 
-    if explicits:
-        work_bases = explicits
-    elif selected_ids:
-        # Map selected IDs to basenames present in index
-        # If an ID equals an existing basename, use it directly; else try to find by id/slug/youtube_id match
-        rev: Dict[str, str] = {}  # any(id/slug/youtube_id) -> base
-        for base, it in ix_by_base.items():
-            for k in ("id", "slug", "youtube_id"):
-                v = (it.get(k) or "").strip()
-                if v:
-                    rev[v] = base
-            rev[base] = base  # allow direct basename match
-        tmp: List[str] = []
-        for sid in selected_ids:
-            b = rev.get(sid)
-            if b:
-                tmp.append(b)
-        work_bases = sorted(set(tmp))
-    else:
-        work_bases = sorted(ix_by_base.keys())
+    if not work:
+        warn("No basenames to process. Provide --missing-file or set $MISSING to a file with one basename per line.")
+        sys.exit(1)
 
-    if not work_bases:
-        warn("No work items found (check --only / --only-from-patch / index).")
-        return 1
+    planned = built = applied = skipped = errors = 0
+    for i, base in enumerate(work, 1):
+        try:
+            if args.dry_run:
+                status, where = process_one(base, args, client, idx_map)
+                if status in ("planned",):
+                    planned += 1
+                    print(f"[plan] {base} -> {where}")
+                else:
+                    print(f"[plan?] {base}: unexpected status {status}")
+                continue
 
-    info(args.verbose, f"Total index: {len(ix_by_base)} | Selected: {len(work_bases)} | Out: {to_repo_rel(out_dir)}")
-
-    built = 0
-    failed = 0
-    for i, base in enumerate(work_bases, 1):
-        it = ix_by_base.get(base, {})
-        out_path = out_dir / f"{base}.md"
-        info(args.verbose, f"[{i}/{len(work_bases)}] {base}")
-
-        if args.dry_run:
-            print(f"[DRY] would write {to_repo_rel(out_path)}")
-            continue
-
-        ok = build_from_diarist(
-            root=root,
-            base=base,
-            meta=it,
-            out_path=out_path,
-            normalize_labels=args.normalize_labels,
-            sync_speakers_yaml=args.sync_speakers_yaml,
-            verbose=args.verbose,
-        )
-        if ok:
-            built += 1
-        else:
-            if args.allow_stubs:
-                build_stub(base, it, out_path)
-                info(args.verbose, f"{base}: wrote stub → {to_repo_rel(out_path)}")
+            status, where = process_one(base, args, client, idx_map)
+            if status == "applied":
+                applied += 1
+                print(f"[applied] {base} -> {where}")
+            elif status == "built":
                 built += 1
+                print(f"[built]   {base} -> {where}")
+            elif status == "skipped":
+                skipped += 1
+                print(f"[skip]    {base}: {where}")
             else:
-                failed += 1
-                warn(f"{base}: missing diarist or parse failure")
+                print(f"[{status}] {base} -> {where}")
+        except KeyboardInterrupt:
+            print("\nInterrupted.")
+            break
+        except Exception as e:
+            errors += 1
+            print(f"[error] {base}: {e}", file=sys.stderr)
 
-    print(f"[DONE] built={built} failed={failed} out_dir={to_repo_rel(out_dir)}")
-    return 0 if failed == 0 else 2
-
+    print("\n=== Summary ===")
+    print(f"Planned:  {planned}")
+    print(f"Built:    {built}")
+    print(f"Applied:  {applied}")
+    print(f"Skipped:  {skipped}")
+    print(f"Errors:   {errors}")
 
 if __name__ == "__main__":
-    sys.exit(main())
+    main()
