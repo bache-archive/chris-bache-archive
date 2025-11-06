@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 import json, pathlib, datetime, sys, re
 
-ROOT = pathlib.Path(__file__).resolve().parents[1]
+# This file lives at tools/site/generate_index_md.py
+# The repo root is two levels up: tools/site -> tools -> <repo root>
+ROOT = pathlib.Path(__file__).resolve().parents[2]
 INDEX_JSON = ROOT / "index.json"
 INDEX_MD   = ROOT / "index.md"
 
@@ -11,15 +13,26 @@ def blob_url(relpath: str) -> str:
         return f"https://github.com/bache-archive/chris-bache-archive/blob/main/{relpath}"
     return relpath
 
+def _as_items(obj):
+    # Support either a top-level list or {"items": [...]}
+    if isinstance(obj, list):
+        return obj
+    if isinstance(obj, dict) and isinstance(obj.get("items"), list):
+        return obj["items"]
+    raise ValueError("index.json must be a top-level list or an object with an 'items' array")
+
 def load_items():
     with INDEX_JSON.open("r", encoding="utf-8") as f:
-        items = json.load(f)
+        data = json.load(f)
+    items = _as_items(data)
+
     def k(it):
         d = (it.get("published") or "").strip()
         try:
             return datetime.date.fromisoformat(d)
         except Exception:
             return datetime.date.min
+
     items.sort(key=k)  # oldest -> newest (chronological)
     return items
 
@@ -85,7 +98,6 @@ def render_table(items):
             md_link("Diarist", diarist_url) if diarist_url else "—",
             youtube_cell,
         ])
-        # Safety: ensure no accidental newlines leaked into the row
         row = _collapse_ws(row)
         lines.append(f"| {row} |")
 

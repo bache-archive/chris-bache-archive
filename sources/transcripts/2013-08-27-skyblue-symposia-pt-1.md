@@ -1,0 +1,102 @@
+---
+diarist_sha1: 7849cffd7d59a6e635c6af31abb184acef351415
+
+---
+<!-- diarist_sha1:7849cffd7d59a6e635c6af31abb184acef351415 -->
+Welcome to Sky Blue Symposia, a convivial gathering for stimulating conversation and a free exchange of ideas. We're so glad you could join us. I'm Susan, your host, and today, at our round table, we have Chris Bache, who is kind enough to join us for a new symposium as we continue consciously exploring. Welcome, Chris. It's so nice to have you with us.
+
+Thank you, Susan. It's a real pleasure to be part of your conversation today.
+
+We've been anticipating this, and we're all very interested in your field, so I think we're going to have a cracking time. I'd like to start off by talking a bit about Stanislav Grof, his extraordinary accomplishments as a scholar, healer, and pioneer of Transpersonal theory and practice. I wonder if you'd be happy to tell us a bit about Stan's work and how it has influenced your path, your decisions, and your use of psychedelic inquiry.
+
+Stan's been a huge influence on my life. I encountered his work through a series of books when I first came out of graduate school in 1978. His writing, along with that of Ian Stevenson, a scholar on reincarnation, significantly changed the course of my personal and professional life. Stan is a psychiatrist and the foremost authority on the influence of LSD and psychedelics on consciousness. He has integrated psychedelics into the psychotherapeutic process. He was director of research at Spring Grove Hospital in Baltimore, and later, he became a senior research fellow at Esalen, where he worked in a hotbed of humanistic and Transpersonal psychology.
+
+Stan has written over a dozen books, and I think he’s one of the most seminal thinkers in psychology and consciousness studies. He co-founded Transpersonal psychology with Maslow and has been the president of the International Transpersonal Association, bringing this discipline around the world through conferences in multiple countries. When I came out of graduate school, I was a well-educated, atheistically inclined agnostic. I had assimilated the modern and postmodern critique of religion, and Stan's work put in front of me not only an extraordinary model of consciousness but also outlined a methodology for using psychedelics to explore the deep recesses of consciousness for therapeutic purposes. 
+
+When one goes deep within, it's as if you drop out of the personal psyche into the vast expanse of the universe's mind. As a philosopher—not a therapist—my interest has been to use psychedelics to explore the deep structure of consciousness and those non-ordinary states of awareness. That involves healing, but in a shamanic sense, going beyond conventional Western ideas of healing. It’s about exploring existential healing, delving into the very structure of the universe. 
+
+However, in 1978, psychedelics were made illegal. I faced a hard choice and decided to use these substances in a respectful and systematic inquiry separate from my professional life as an academic. I began a two-decade-long exploration into the deeper reaches of consciousness, which I’m only now trying to systematically account for after my retirement.
+
+That is fabulous, absolutely fabulous. And it’s so needed right now. The time seems ripe for this inquiry. As we discussed before the symposium, it appears that Ayahuasca is the most available path for people in North America, but I think individuals will find their own way to open up these avenues. We seem to be starving for this.
+
+Yes, absolutely.
+
+For a beginner, what actually happens in a psychedelic session? What’s the difference between using psychedelics recreationally versus therapeutically or spiritually?
+
+There are many different psychedelics, and if we were to dive deeper, we would need to discuss specific ones and how they interact with consciousness. Generally, psychedelics are consciousness amplifiers. They hypersensitize consciousness, enhancing awareness in profound ways. What happens in a session isn’t just a function of the psychedelic; it’s the function of consciousness itself becoming energized.
+
+In recreational use, most people try to stay connected to the physical world and the identity of their ego while engaging with aesthetic aspects like sensory awareness, sound, and visuals. Recreational use often focuses on personal history. In contrast, serious therapeutic or spiritual work harnesses this energy more intentionally. One might isolate themselves from the physical world, creating psychological spaces to confront deeper aspects of consciousness. This involves wearing headphones, using eye shades, and listening to carefully selected music to maximize confrontation with one’s consciousness and to open depths that rarely surface during recreational experiences.
+
+In early sessions, one often faces deeply buried stresses and existential questions, such as the fear of death and extinction. How you meet these fears is crucial. Engaging with them can lead to a sort of critical crisis or impasse. Surrendering to this impasse can initiate a death and rebirth process, where some aspect of your identity or understanding of reality falls away, leading to an awakening in a new and unexpected reality. It can be both exciting and terrifying.
+
+What you’re describing resonates with the experience of taking an antidepressant, where there’s some brain chemistry involved. However, when you talk about psychedelics, is it more about consciously directing the experience rather than simply undergoing physiological changes?
+
+I’m not addressing the brain chemistry of psychedelics; I’m focusing on their psychoactive properties. We don’t fully understand how psychedelics work. While we have some biochemical knowledge, the deeper understanding of their effects remains elusive. Yet, we’ve been working with these substances for thousands of years, accumulating significant psychological and spiritual insight.
+
+When psychedelics are not used to entertain the ego or for spiritual materialism, but for a personal process of ego death, is this existential crisis inevitable? Is it necessary to face one's deepest fears?
+
+I believe encountering these thresholds is inevitable, especially when pushing your limits. We often think of consciousness as limited, but in engaging with psychedelics, we begin to open our consciousness to its larger dimensions. Our individual consciousness is, in fact, infinite. In our lives, we voluntarily accept a contraction of consciousness, making us perceive our awareness as small. The easier it is for you to surrender your developed identity, the easier it is to access these deeper currents of the mind. There will always be a crisis that challenges you to let go of everything you think you are and everything you know as real.
+
+You can approach this in two different modalities: with low doses, where you unpeel layers over time, or with high doses, which can lead to a more dramatic breaking of those contractions. 
+
+You mentioned shells, which implies multiple layers of experience. This suggests cycles of death and rebirth, correct? Does that happen over time?
+
+Absolutely. The universe is vast and beautiful, with layers that may take years, or even lifetimes, to explore. After a few sessions, I decided to work exclusively with high doses, which shaped the trajectory of my work. I’ve always used high doses of LSD to maximize my encounter with the universe. Looking back, I might have preferred a gentler approach, but at the time, it felt like the best way to embark on this adventure of learning.
+
+In early experiences, the deaths and rebirths often relate to personal identity and history, confronting the limitations of both. As Stan Grof describes, we move into perinatal levels of consciousness, which engage themes of biological birth and existential death. One often relives their biological birth and can also experience deaths from previous lifetimes. It’s a complex amalgamation because death and birth serve as a revolving door between our spirit and physical reality.
+
+Reliving one’s birth is often painful, highlighting the challenges involved in coming into consciousness. As one relives that experience, it activates memories from before birth and dissolves into spiritual realities, opening layers of existence through the process of letting go. Death and rebirth in this work is a cycle that happens repeatedly due to the profound depth of the universe and the divine.
+
+That resonates deeply with my experience. 
+
+Chris, did you ever reach a point of complete relaxation or dissolution into the universe or source? In a recent experience, I found myself continually cycling through dissolving into source and rebuilding.
+
+Many who engage in spiritual practices, whether through psychedelics or meditation, can experience a return to source. It’s about awakening to who we truly are. We dissolve into it and can oscillate between being individualized and returning to source. Those hours spent opening to that part of consciousness that's been within us all along is significant. 
+
+I think one reason some hesitate to see the return to source as the end goal is that, based on my experience, oneness has infinite depths. Once you arrive at oneness, it doesn’t mean the journey ends. Instead, there are many modalities and layers of understanding even within that oneness.
+
+Would you say the focus should be on bringing heaven to earth rather than seeking to escape to a spiritual realm?
+
+Yes, bringing heaven to earth, creating a porous boundary between the two. We are both physical and spiritual beings, and the evolutionary trajectory moves towards deeper connections between these realms. Our capacities as humans are expanding, and the way we engage with creativity and consciousness will evolve significantly. 
+
+It seems that over the past two years, people are becoming more sensitive to what they engage with, leading to a rapid growth in this conscious awareness.
+
+Indeed. We are interconnected within vast fields of consciousness. Just as scientists are beginning to think of everything in terms of fields rather than particles, we too are interconnected through these fields. There’s a sense of urgency and a crescendo in human consciousness, and I believe the empirical evidence for reincarnation is growing stronger. 
+
+I believe that the planetary crisis and deep individual soul fermentation are intertwined. The crisis drives us to global citizenship and a consciousness of oneness while our psychological processes integrate previous lifetimes into a singular awareness. 
+
+So the global crisis becomes a womb for the birth of a new consciousness in history?
+
+Exactly. I see it as the birth of what I call the "diamond soul," which embodies a higher, more complete order of existence. This new consciousness is manifesting in time, suggesting that awakening to source is just a midpoint, a turning point in our evolutionary journey.
+
+Chris Bache: A divided consciousness leads to a divided world, while an awake, integrated consciousness—a soul-embedded consciousness that is aware of the breath of our existence—leads to a compassionate world. This transition advances us toward the creation of new cultural forms. I truly believe we are on the cusp of creating an entirely new cultural paradigm, as many participants in previous conversations have pointed out.
+
+Chipper: It does seem to be a widespread topic of conversation these days.
+
+Susan: For years, I've felt like we've been approaching a collective initiation process. We may have to do it individually to get things moving, but as individuals transform, it's also done for the collective. But is the collective also transforming individuals?
+
+Chris Bache: Yes, absolutely. The relationship between individual consciousness and collective consciousness, particularly during this evolutionary pivot we are experiencing, is the dominant theme of my second book, *Dark Night, Early Dawn*. Here, I discuss the dark night of the soul and the dawn of rebirth consciousness. The emphasis is not on the rebirth of the individual, but rather the dark night of our collective soul.
+
+Let me explain my perspective. In the early stages of my own psychedelic work, I had already experienced numerous death and rebirth moments at a personal level—my ego was shattered in various ways. Then, I entered what I would describe as the ocean of suffering. For years, I had sessions where the suffering I confronted wasn’t personal; it was collective. I encountered vast tracks of human suffering across many different dimensions. Initially, I wondered, "What are all these people doing in my therapy?" I had thought of this work as focused on individual transformation.
+
+Over time, I realized that the universe operates differently. I may have seen my transformation as a means to contribute to the collective good, but the universe’s aim is the transformation of humanity as a whole. The collective psyche is boiling, bringing forward its history, overflowing with historical and social movements. All the sins and toxicities of our past are erupting, and we feel this at both individual and collective levels. Those engaging in deep spiritual work—be it hypnotherapy, yoga, meditation, or psychedelic and shamanic practices—often begin to tap into these vast layers of human suffering. In my experience, this exploration lasted about three and a half to four years. I came to understand that the patient in these sessions was not merely me; it was a reflection of the human species’ Morphic field, an aspect of the collective psyche attempting to heal itself.
+
+I believe this is happening in all our lives. We all navigate our individual worlds while simultaneously engaging with the collective. We channel healing energy that extracts poisons from the collective psyche while infusing it with healing energies.
+
+Susan: This answers a longstanding question of mine. After two near-death experiences and years of training and practicing as an existential and transpersonal therapist, I often found myself experiencing things that didn't relate to me personally. I was very much aware that this suffering wasn't just individual or ancestral but collective. When you mentioned that the universe, or source, uses those opportunities for healing, it resonated with me. If an individual opens themselves up, that source naturally takes advantage of it. It’s really insightful.
+
+Chris Bache: Yes, I believe that we all chose to be here during this time in history. We knew what we were getting into before we were born, even if we may have forgotten that choice. There are no victims or innocents; we all participate knowingly in this evolutionary journey. The intensity is rising, bringing to light collective issues that maybe weren't as pronounced in the past, and it’s becoming ever more apparent today. Many of my students who aren’t engaging in deep, introspective work nonetheless recognize that their pain and suffering—and the healing of that suffering—extend beyond their personal experiences. I once spoke with Roger Wilber, a remarkable past lives therapist, who reached a similar conclusion. He discovered that as he worked with clients, they uncovered layers of pain and suffering that transcended their individual histories, reaching into ancestral and collective realms. What began as individual soul healing often transformed into a broader collective healing exercise.
+
+Susan: Absolutely. And as you mentioned, the pace of this transformation is accelerating, which can be overwhelming for many. I hope initiatives like our program offer some structure that helps people make sense of their experiences. It’s crucial that when individuals feel this intensity but lack understanding, they realize they're not alone in what they’re experiencing.
+
+Chris Bache: There are times when you might need to step back from the intensity of this work. At times, your life allows you to dive deeper into it.
+
+Susan: And it's also essential to take breaks for integration and observe how your life changes as a result. That shift can be quite drastic.
+
+Chris Bache: Yes, it is. Regarding my books, the first is called *Life Cycles: Reincarnation in the Web of Life*. It explores reincarnation through empirical evidence, examining it as both a psychological and spiritual phenomenon. After documenting that evidence, it poses the question: what difference does it make if we view ourselves as reincarnating beings versus one-time beings? It’s an early attempt to explore the universe as a dynamic, reincarnating entity. 
+
+The second book, *Dark Night, Early Dawn*, delves into the philosophical study of non-ordinary states of consciousness, especially psychedelic states. It integrates psychedelic studies with near-death experience research and out-of-body research, questioning whether these experiences coherently complement one another or present fragmented views. 
+
+My third book, *The Living Classroom*, focuses on fields of consciousness and collective consciousness as they manifest in educational settings. I previously kept my personal spiritual practices separate from my classroom work, thinking they were distinct. Over time, however, I discovered that my deep experiences outside the classroom began to influence my students, prompting me to theorize about the nature of collective consciousness at a much more intimate level. 
+
+These books are available on Amazon and other book sites, and I'm currently revisiting the topic of psychedelic work to document my 20-year journey in that realm between 1979 and 1999.

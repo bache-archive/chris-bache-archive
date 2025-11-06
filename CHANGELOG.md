@@ -6,6 +6,21 @@ Each entry summarizes what changed, when, and why.
 
 ---
 
+## v3.6.0 — 2025-11-06
+**Early corpus recovery & GPT-normalized transcripts**
+
+This release adds **23 new transcripts (2009–2025)** generated from fresh diarist sources using a faithful GPT normalization pass, then rebuilds the public site and sitemaps.
+
+### Highlights
+- ✅ Recovered & normalized early talks (e.g., **2009 “Individual & Matrix Consciousness” Pt 1–2**, **2013 SkyBlue Symposia** Pt 1–2, **2013 Unity Myrtle Beach** series Pt 1–3 + Sunday Service).
+- ✅ Added 2019–2025 interviews and long-form conversations (Human Experience Live #022, Behind the Curtain, Face to Face, etc.).
+- 🧠 Pipeline: diarist → **GPT-5 readability normalization** (speaker-safe, no hallucinations) → Markdown with YAML → site rebuild.
+- 🌐 Regenerated **index**, **HTML site**, and **sitemaps**.
+
+Next: finish diarization for the remaining early items and align VTT timecodes → RAG refresh.
+
+---
+
 ## v3.5.4 — 2025-11-05  
 **Section Registry Finalization · Site Rebuild · Full Fixity Verification**
 

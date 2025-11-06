@@ -1,0 +1,183 @@
+---
+diarist_sha1: 7180fc263b4877dc611dfdbb69de6b75cbdb132d
+
+---
+<!-- diarist_sha1:7180fc263b4877dc611dfdbb69de6b75cbdb132d -->
+Chris Bache: 
+Tonight, I want to mention two more books before we dive into the next category. The experiences surrounding near-death phenomena are extraordinary. But skeptics might question whether these experiences are real or merely imagined. One book I'd highly recommend is by Dr. Pim van Lommel, a Norwegian doctor. His work is arguably the best scientific evaluation of near-death experiences. He meticulously examines various cases and sifts through arguments against their legitimacy. If you have someone in your life—a husband, perhaps—who is critical and dismissive of these experiences, this book could be the perfect resource for him.
+
+Additionally, I want to highlight "Proof of Heaven" by Eben Alexander. Many of you may know his work; he’s become a prominent figure in discussions around near-death experiences. Eben's work is vital, especially as he faces considerable scrutiny from the academic community, yet his own experience is powerful. 
+
+Now, let's transition to the next category, which is life between life theory. This work began in 1988 with Joel Witten and Joe Fisher, where Joel— a Canadian psychiatrist—was conducting past life therapy. During one session, he inadvertently guided a client to recall not a past life, but a life between lives. This unexpected discovery opened up new avenues in this research. After having successfully regressed numerous individuals, he published a book detailing these insights.
+
+Another key figure in this area is Michael Newton. We have two of his books available in the bookstore, and they are truly worthwhile. Michael was also practicing past life therapy and, through his method, discovered that clients could access experiences between lives. After working with around six hundred individuals, he compiled his findings into his first book, "Journey of Souls." His subsequent work, "Destiny of Souls," builds upon these concepts, providing deeper insights into the post-mortem state.
+
+Michael’s experience led him to become a trainer for therapists, expanding this field of life between life therapy. He created an institute, marking the growth of hypnotherapy focused not just on past life regressions but also on the profound experiences of the afterlife.
+
+There’s so much from this material that is both comforting and enlightening. It vividly describes the return to ecstasy upon death. For example, clients describe entering various layers of light—each comprised of stratified threads of rising dimensions beyond our physical world. Michael talks about a comforting environment where one first orientates post-death, such as a park or a lake, before moving further into the death process.
+
+I want to touch on a parallel concept from popular culture— some of you may have seen the film "Defending Your Life." In it, the protagonist reviews his life after death in a setting resembling Dallas, where food is abundant, and he must defend his life choices. It echoes the idea that with hundreds of thousands of people dying daily, there’s a substantial need for guidance and integration into the afterlife.
+
+Margaret Hiller: 
+So, do they have a health and retirement plan up there?
+
+Chris Bache: 
+Surprisingly, yes. According to the teachings, there are many layers in the spiritual universe, and not everyone goes to the same place. While there is a common home, individuals reside in different layers, akin to separate condos. Each guide even has guides above them, creating a hierarchical system based on spiritual maturity. 
+
+Interestingly, Hollywood often portrays ghosts and haunting experiences as common; however, Michael states that they are quite rare. The majority transition smoothly, moving to intermediate territories without any distress.
+
+Margaret Hiller: 
+That's comforting. But what about those of us who worry about being in that small percentage?
+
+Chris Bache: 
+He's provided statistics that might interest you regarding stages of soul development. He details that about 73% of souls he’s worked with are at the first or second level— that’s quite a significant number. But, he’s also seen cases of individuals who have been on Earth for thousands of years and remain in these early stages.
+
+He emphasizes that reincarnation is an undeniable fact. Once you pass from your physical body, the essence of reincarnation is evident. However, if someone has caused harm during their lifetimes, there are processes in place to help them confront and work through that pain. 
+
+Importantly, Michael notes the concept of soul clusters—groups of souls that journey together through incarnations. These clusters come together to support each other, and though members may evolve at different paces, they remain interconnected.
+
+As souls mature, the energy that radiates from them changes, reflecting their level of development. Michael identifies five stages of soul development, with varying percentages of souls at each level.
+
+The first level contains 42% of souls, the second 30%, and it decreases from there. For instance, a soul may take thousands of years to reach a maturity that allows for a significant awareness.
+
+What's particularly engaging about Michael's work is that he provides evidence—case studies that support his findings. His approach involves a kind of balance between personal experience and empirical observation, even if his statistics may lean towards younger souls, as those seeking therapy might not reflect the entire population of souls. 
+
+Moreover, his reflections on the post-mortal experience may primarily represent lower dimensions of existence, not encompassing the full spectrum.
+
+Margaret Hiller: 
+In my father's house are many mansions, right? There’s room for all of us.
+
+Chris Bache: 
+Absolutely. In Buddhism, there’s a similar view with its six realms of existence. Each of us occupies different realities, vastly distinct from one another. The collective experience, whether in higher or lower realms, shapes our reality here and now. The connections between beings influence their soul evolution, establishing a network that helps guide and uplift one another.
+
+What’s fascinating is that, in this community of spirits, there isn’t a strict hierarchy of value. Instead, there exists a gentle gradient of expertise. Everyone is of equal value, and the more experienced assist the less experienced. There’s a mutual support system in place.
+
+Michael also describes realms of altered time and creativity. Just consider the concept of being in a place where you can experiment with reality—much like a holodeck from science fiction shows. That freedom to create and explore is a true reflection of our potential once we transition to the spirit world.
+
+Margaret Hiller: 
+That idea resonates deeply. It offers hope, particularly with the notion that we are inherently creative beings, as stated, "Ye are gods."
+
+Chris Bache: 
+Exactly, and it is essential to understand that creativity requires practice. Just as one might train to become skilled at a game, we, too, must learn to harness our creative abilities as divine beings. 
+
+He also introduces the concept of a world without ego, where new souls are nurtured much like newborns. Before they have a singular identity, there are beings who help guide them toward understanding individuality. 
+
+Once a soul develops a sense of self, it establishes a covenant—a promise to navigate existence to the best of its abilities. The essence of the individual shines through, and it’s significant to note that this individuality is not diminished but, in fact, enhanced through various experiences of life and beyond.
+
+In various philosophies, there's a perception of returning to an ultimate oneness, where individuality is lost. I strongly believe that is not the case; rather, individuality is eternal, deepening with each iteration of existence. Thus, while we may return to the collective source, we do not lose our unique identities in the process.
+
+Margaret Hiller: 
+So, individuality remains distinct even in oneness?
+
+Chris Bache: 
+Yes, absolutely. Individuality, as I define it, refers to the capacity for integrated experience. As souls mature, they integrate their experiences, become more profound, and develop layers of individuality that persist. This remains true across multiple lifetimes—it's a continuous evolution rather than a singular dissolution back into the source.
+
+Margaret Hiller: 
+And can souls create their own universes?
+
+Chris Bache: 
+Indeed. As souls graduate into higher states, they possess the potential to create entire universes. We must recognize our worth—not merely as beings within a universe but as creators with the capacity to shape galaxies and new life forms, continually evolving and contributing to the tapestry of existence.
+
+Margaret Hiller: 
+This paints such a broad picture of our potential.
+
+Chris Bache: 
+It certainly does, and it’s through exploration, struggle, and collaboration that we uncover the vast expanse of our creative abilities, illuminating the beauty of what lies within all of us.
+
+Chris Bache: I don't believe in an eternal hell; I think that's an abomination. However, I believe there are hell realms. When a person goes through a very traumatic experience, they have nightmares because there's a hell experience living inside their psyche. Until they clear that, it remains there. Just think of all the terrible things that have happened to humanity—consider the traumas from World War I, World War II, or even the events of last week in the Philippines. The collective trauma of the human family is staggering. If we assume the human psyche has a single consciousness—a collective psyche—then, just as we have levels in our minds containing pockets of hell, there are pockets of hell in the human psyche as well.
+
+When you read the biographies or autobiographies of saints and great practitioners, you'll see they often venture into these hell realms, spending a long time there to heal, not just themselves, but to help heal the collective psyche of humanity. I believe these realms exist, and we can enter them for various reasons, often during spiritual emergencies. They’re larger than we are and hold a power of their own. Ultimately, while they persist long term, they are temporary; all trauma can be healed. When healing occurs, the trauma clears. For humanity to give birth to a higher form of existence, we must heal from our entire history; that is essential for progress.
+
+I remember discussing this with Ken Wilber at a conference. I shared my insights on the hell realm and how healing in this context often relates to the collective. He agreed, drawing from his past life therapy work with clients who encountered lifetime after lifetime of trauma. He concluded that collectively shared pain was at play, and that many were taking on others' suffering to help clear a collective fear. I genuinely believe we are in a historical period where these hell realms are surfacing. The 21st century could very well be a hellish century, part of a collective transformative process requiring us to paint over the pain so that joy and beauty can enter our systems.
+
+Audience: When you spoke about signature, I resonate with that deeply. Often, when I meet someone, there’s an essence I can sense beyond their words or appearance. Could it be that this signature you refer to is a divine gift of personality that accompanies us throughout eternity? Just as we possess a soul and a spark of the divine, perhaps these enduring elements contribute to our miraculous identity. I believe that personality, that distinguishing mark, allows us to feel someone’s essence, even after a million years apart, without exchanging a single word.
+
+Chris Bache: I think I agree with the concept. I use a different vocabulary, as "personality" is often linked to individual ego, but I find it interchangeable with "individuality." The idea that there is a unique identity—which is us at the deepest level—is a gift we didn’t create; it is birthed in the system and, once formed, never goes away. You can indeed feel this essence in others.
+
+Audience: About a year and a half ago, I attempted to end my life and ended up in Cedars-Sinai Hospital after taking a significant amount of pills. Strangely, I felt a sense of peace with my decision. When I spoke with the first doctor, he told me I would likely suffer permanent liver damage and might only have two to three days to live. I struggled with how to feel about that. The real matter I want to address revolves around suicidality in my family. Is this something that appears in the literature surrounding past lives or is it something I’ve picked up?
+
+Chris Bache: In fact, this question about suicide has surfaced in other discussions. First, let’s acknowledge that evidence from past life therapy suggests that suicide can become habitual. If someone becomes overwhelmed—believing ending their life is the only option—they might resort to it again in subsequent lifetimes. It can indeed stem from a lack of coping skills.
+
+What we find is that those who commit suicide in one life may lean towards that as an option in future lives, but it doesn’t solve anything. In my view, the consequence of committing suicide is akin to failing a grade; you simply have to retake it. So if you choose suicide due to an inability to cope, the worst consequence is returning to face even tougher circumstances. Robert Monroe, founder of the Monroe Institute, believed that anyone can leave anytime without cosmic judgment, but that does not mean there aren’t karmic consequences. 
+
+While not the end of the world, suicide doesn't provide a solution; it just interrupts the journey. If you lost someone to suicide, know they aren’t outside of love; they don't go to hell; they return home. There was a study focusing on individuals who attempted suicide by jumping off the Golden Gate Bridge, where researchers found they entered a state of ecstatic transcendence immediately upon jumping. None of those who survived tried to commit suicide again because they understood that the soul continues beyond the body, so they recognized that they hadn’t solved anything by ending their life. 
+
+Audience: I have heard stories from survivors, and one woman expressed deep gratitude for surviving her attempt, which led her to seek help instead of resorting to that option again.
+
+Margaret Hiller: Chris, in your perspective and research, do you think our prayers or thoughts negatively impact those we know have crossed over, especially if they died under duress?
+
+Chris Bache: Yes, I believe our prayers and thoughts positively impact those beloveds. The community of Heaven is in rapport with the community of Earth; we can communicate with and assist those who have passed. The Monroe Institute even offers training for people to enter a state of consciousness where they assist those who are stuck in the post-mortem state. 
+
+In Tibetan Buddhism, there is a practice called "Chötrul," performed for the recently departed to help guide them. My sister, who works in hospice, often asks me to perform this for her clients, especially those struggling with difficult death processes. During this practice, I often receive visual impressions that prove true. We consistently find that the insights I share contain core truths that genuinely reflect the experiences of the deceased. This practice has existed for over a thousand years, helping countless beings transition smoothly.
+
+Audience: My husband died last year, and I initially felt disconnected and blocked off from his energy, uncertain if my connection with him remained. I spoke to an intuitive, who suggested he was in a learning phase, processing his life differently due to his undiagnosed autism. After that conversation, I felt a shift. I realized that remembering him and sensing his energy helped him in that learning space.
+
+Chris Bache: Thank you for sharing that. It's quite common—about 60 to 70% of spouses report feeling contact with their departed ones in some form, which makes sense in a universe like this. If there is rapport, then our interactions can truly support them. 
+
+Audience: I witnessed the incredible energy surrounding my late friend during his final days. A hospice worker felt overwhelming prayer and love present even as he transitioned. This influence helped her remain encouraged, focused more on his life than his death.
+
+Chris Bache: While we experience grief and loss, for the departing soul, it’s often a joyful celebration. The more we hold on to joy and celebrate their journey, rather than succumbing to despair, the more we support them. The common belief that death is a termination or ending is misguided; we often teach biology and medicine from that perspective, which is not reflective of the broader realities of existence.
+
+Let’s shift gears now; I want to discuss the important topics which I've been researching, especially around psychedelics and their implications for understanding life, death, and beyond.
+
+Chris Bache: There’s a fascinating story I want to share. A woman was playing golf at a specific tee at a specific time when she suddenly felt an overwhelming sense that something was wrong with one of her children. She finished her game and went home, only to receive a phone call as soon as she walked in. It turned out her son had just been in a car accident, and it happened at the exact moment she felt that distress on the golf course. This suggests that part of her consciousness was capable of sensing beyond the physical realm. 
+
+We encounter many such cases. Now, what distinguishes casual drug use from serious psychedelic work? To begin with, there are numerous psychedelics, and each has unique effects—LSD, psilocybin, MDMA, DMT, to name a few. I prefer the term "psychedelic" over "hallucinogen" because the latter is a derogatory, materialist perspective suggesting someone is merely seeing things that aren’t there. I think it's more beneficial to refer to psychedelics as mind openers or consciousness expanders. 
+
+These substances hypersensitize and amplify consciousness rather than dictating a particular experience. The reality is that two people under the influence of the same psychedelic won’t have identical experiences. They intensify consciousness, but what occurs is a reflection of the individual's consciousness, not the drug itself. 
+
+Often, people take psychedelics for recreational purposes, hoping for fun or entertainment. They engage with the physical world while their heightened consciousness amplifies sensory experiences at parties, but ultimately, nothing changes in their lives. In contrast, Native Americans used psychedelics solely for serious medicine work, with a distinct purpose. 
+
+A key part of this therapeutic modality involves isolating oneself from the physical world. Historically, they would enter a Kiva—an underground room—where they would descend a ladder and remain until dawn, entirely cut off from external stimuli. Today, people can lie down with eye shades, disconnect from the physical realm, and this isolation allows them to understand that anything experienced is generated internally. 
+
+During a therapeutic session, carefully chosen music plays a critical role. We know the effects of psychedelics follow a timeline—LSD, for instance, peaks at around 45 minutes and the experience can last up to hours. Specific music can support participants through each stage, aiding in confrontation, integration, and return. 
+
+When psychedelics hypersensitize consciousness, something interesting occurs: consciousness begins to purify itself. To heal, it must confront pain and unfinished business, which can stem from this life or past lives. Traumatic memories—even from childhood—surface along with deep existential questions. As one detoxifies, they often encounter crisis points. 
+
+Most people instinctively shy away from confronting pain, but in a therapeutic or sacred medicine context, participants learn to dive deeper into it. By navigating these crises skillfully—ideally with a supportive guide—pain can transform into an ally.
+
+The process can be excruciatingly difficult. It involves physical, psychological, and spiritual suffering, but through this confrontation, many reach a breakthrough. It’s necessary to surrender control; the mind operates at an amplified capacity during these sessions. There’s often an experience akin to dying—a complete departure from life as known, followed by awakening in a new reality. 
+
+Interestingly, some individuals have undergone heavy psychedelic experiences multiple times without ever reaching this transformative stage. This type of work is essential to various traditions, including Native American, Ayahuasca, and ancient Greek practices. What I find compelling is that exploration of consciousness can happen through different modalities, be it isolation in the mountains, trance dancing, or near-death experiences.
+
+If individuals can dissolve their egos, they discover deeper states of consciousness, transcending human identity to merge with the collective psyche. The purification process continues at this higher level, leading to another cycle of death and rebirth—this time, transcending individual experience to encompass humanity as a whole. 
+
+It’s a process that reaffirms a kinship with the insights gained from near-death experiences. Spiritual death can be even more profound than physical death, as it represents letting go of the essence that connects us to life itself. The question many may ask is, why endure such suffering? 
+
+My background as a philosopher drives my pursuit of understanding the universe’s structure and deciphering life’s meaning. You can explore what's beyond; firsthand experiences can lead to profound realizations about existence, and it's not meant for everyone. However, for those who choose this path, the result can be a significant reduction in the fear of death. 
+
+These insights align beautifully with what I've read in various works, especially those focused on the topic of death. One particularly important book is *LSD Therapy*, a manual for therapists written during a time when LSD was illegal. It details the methodology behind conducting therapeutic sessions, recognizing that many were practicing this work underground. There’s a difference between low-dose and high-dose therapy—each has its own approach and reveals different layers of experience.
+
+The research done at places like Spring Grove Hospital with terminally ill patients aimed not at healing but at preparing them for dying. They facilitated high-dose sessions that successfully prompted near-death experiences in a controlled environment. 
+
+Margaret Hiller: What did participants report? Was their anxiety about death completely diminished?
+
+Chris Bache: In their findings, as documented in *A Human Encounter with Death*, they discovered that high doses of LSD could trigger a conscious state that one experiences when dying. Participants often reported realizing profound truths about their existence. One individual, a traditional Catholic janitor, found himself encountering reincarnation during a session, and he returned feeling unsettled but enlightened, needing to reconcile this knowledge with his faith. 
+
+Despite not having the experience firsthand, I've witnessed similar transformations in others. While these were not conducted in clinically controlled environments, the depth of experiences related closely to what I've observed, emphasizing a significant impact.
+
+Chris Bache: When one uses psychedelics while still engaging with the external world, it can lead to what one might call a "bad trip." In casual settings, this is something to be avoided, but in a therapeutic context, it suggests that purification is underway, inviting participants to delve deeper into their psyche and experience reality more profoundly. 
+
+Many individuals have insights into interconnectedness and transcendent experiences like merging with others' minds. What distinguishes these approaches is primarily degree, clarity, and lasting impact. 
+
+Margaret Hiller: I remember a transformative experience during my exploration of psychedelics that changed my entire perspective on the world. 
+
+Chris Bache: Indeed, altered states have historical significance, impacting individuals and culture profoundly. Yet, there's a difference between these transformative experiences and the lack of lasting changes in societal structures. What I hope is that as we revisit this field, we can influence cultural understandings more significantly. 
+
+Margaret Hiller: I had initial reservations, particularly with the cultural prejudices surrounding psychedelic research. However, recognizing that these substances have been part of human history for millennia, there's a reason for their continued exploration. Medical professionals are starting to incorporate sacred medicine into practice, offering alternatives to traditional methods that often prove harmful. 
+
+Chris Bache: Research initiatives, like those at Johns Hopkins, are demonstrating the therapeutic potential of substances like psilocybin in treating depression and PTSD in veterans. Moreover, Ibogaine is becoming recognized for its ability to interrupt addiction, creating openings for more conventional treatments. 
+
+It’s exciting to see a new generation of researchers using sacred medicines to promote healing. While my focus isn't on healing as I’m not a trained psychologist, I support the integration of these practices into therapeutic settings, acknowledging the broader soul-level healing that’s necessary. 
+
+Ultimately, psychedelics serve as intensifiers of spiritual processes rather than shortcuts. Whereas I once engaged with high doses, I've come to appreciate a gentler path in this exploration. The tentative title for my forthcoming work is *Stealing Diamonds from Heaven*. The concept revolves around experiencing profound insights similar to near-death experiences on a repeated basis, which could allow us to gather and integrate experiences toward a deeper understanding of the universe’s structure.
+
+Psychedelics serve to awaken and remind us of our intrinsic truths, urging us to remember our purpose, connection, and the fundamental essence of life. Recognizing this diminishes the anxiety surrounding death and fosters an acceptance of existence itself.
+
+Chris Bache: I had the opportunity to see where humanity is being taken into the future, extending beyond our understanding of human time. It's a scale of hundreds of thousands of years. Suddenly, everything expanded quickly; things just popped. I asked, “What happened?” The intelligence I was with responded, “Oh, we just passed your death.” In that moment, I was going forward in time and passed when I would die. When you pass your death, you lose the glue that holds you in a particular configuration. You just expand into that larger domain.
+
+I've gone in and out of that space so many times that it has become more comfortable for me, which is why I love near-death experience research. The distinction here is that most people who have near-death experiences only get one shot at that reality. A few have experienced two or three, but typically, it's just one intense experience. It’s like seeing a landscape in Arizona at night through a flash of lightning; you see the whole picture, but not in detail. If you could return to that experience 40 or 50 times, you'd have a much deeper perception of that reality.
+
+Going through multiple deaths and rebirths allows you to delve deeper into reality and understand the cosmic essence, leading to a more complete portrait of what's real. This exploration isn’t about psychedelics; it’s about the nature of mind and exploring the mind of the universe. Throughout this journey, we examine death. What is death? Death is your best friend—absolutely nothing to be afraid of. I can't emphasize how much I look forward to it, though it’s not the last thing I want to face. I have an agreement with Jesus: “Don’t come for me until you're ready for us to wrap this up.” 
+
+Margaret Hiller: There will always be a group here who would love for you to come back. Everyone knows that Chris is our guest speaker for the morning service at 11 AM. We also have a surprise guest musician from the Agape International Choir in Santa Monica, who just happens to be passing through and has family in Georgetown. We have the divine duo joining us. Thank you, everyone, for coming.
