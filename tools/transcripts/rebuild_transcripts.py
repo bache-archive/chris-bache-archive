@@ -286,22 +286,37 @@ def extract_recorded_diarist_sha1(md_path: Path) -> Optional[str]:
 # --------------- prompting ----------------
 
 def make_user_prompt_chunk(title: str, date: str, diarist_chunk: str, i: int, n: int) -> str:
-    return f"""Task: Transform this diarized transcript CHUNK into a polished, magazine-readable conversation.
+    return f"""Task: Convert this diarized transcript CHUNK into a clean, faithful TRANSCRIPT.
 
 Context:
 - Archival title: {title}
 - Recorded/published date: {date}
-- This is chunk {i} of {n}. Process ONLY this chunk. Do not summarize earlier or later chunks.
+- This is chunk {i} of {n}. Process ONLY this chunk. Do not reference or infer from other chunks.
 
-Output goals:
-- Remove ALL timecodes.
-- Keep ONLY the named principals (e.g., "Chris Bache" and the interviewer/host). Do NOT use generic labels like "Speaker 1" or "Unknown Speaker".
-- If an unlabeled/generic utterance is trivial back-channel (e.g., “yeah”, “uh-huh”, “thanks”, laughter), DROP it.
-- If an unlabeled/generic utterance is a question, attribute it to the interviewer/host.
-- Otherwise, attribute unlabeled/generic lines to the most contextually appropriate main speaker. Do NOT invent new names.
-- Merge lines into coherent paragraphs. Make it flow as a feature interview suitable for publication.
-- Lightly remove filler / false starts and fix punctuation/casing. DO NOT change meaning or reorder content.
-- Produce ONLY Markdown transcript text; NO timecodes, NO system notes.
+Strict output rules (fidelity first):
+- Preserve speakers’ WORDING (no paraphrasing). Fix only obvious typos, casing, punctuation, and mis-heard PROPER NOUNS.
+- Correct canonical spellings for known people/terms when clearly intended, e.g.:
+  Stanislav Grof (not “Stanislov”), Vajrayāna (Vajrayana ok), Dharmakāya (Dharmakaya ok).
+- Remove ALL timecodes and diarization cruft.
+- Keep turns separate (do NOT merge different speakers into one paragraph).
+- Speaker label format MUST be EXACTLY: **Name:** space, then utterance.
+  Examples:
+  **Chris Bache:** …
+  **Interviewer:** …
+  **Audience:** …
+  **Stanislav Grof:** …
+- Always label Chris as **Chris Bache:** (never “Chris”, “Bache”, etc.).
+- If a host/MC name is present, use their proper name (e.g., **Host Name:**); otherwise **Interviewer:**.
+- Panels: if another guest’s identity is clear from this CHUNK (name appears or is unambiguous), use **Full Name:** with corrected spelling.
+  If a speaker is unidentified but clearly not Chris/host, use **Panelist:** (do NOT invent names).
+- Unlabeled/generic lines:
+  • Trivial back-channel (yeah, uh-huh, laughter, thanks) → DROP.  
+  • Clear question to a guest → attribute to **Interviewer:** (or named host if known).  
+  • Otherwise, if it obviously continues the prior named speaker, keep with that speaker; else **Audience:** or **Panelist:** as appropriate.
+- Do NOT reorder content. Do NOT summarize. No stage directions or meta-notes.
+
+Output format:
+- ONLY transcript lines in Markdown using the bold speaker labels above. No headers, no YAML, no notes.
 
 Diarist CHUNK (verbatim) starts below:
 ----------------------------------------

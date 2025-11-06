@@ -6,6 +6,22 @@ Each entry summarizes what changed, when, and why.
 
 ---
 
+## v3.6.4 — 2025-11-06  
+**Faithful Transcript Rebuild (GPT-5 Fidelity Pass)**  
+
+This release regenerates the earliest diarist-based transcripts using the improved GPT-5 “faithful transcript” prompt — ensuring verbatim preservation with corrected terminology and consistent speaker formatting.
+
+### Key Improvements
+- 🧠 **Faithful transcription prompt**: preserves exact speaker wording, fixes common mis-hearings (e.g., *Stanislav Grof*, *Vajrayāna*, *Dharmakāya*).  
+- 🗣️ **Standardized speaker format**: `**Chris Bache:**`, `**Interviewer:**`, `**Audience:**`, etc.  
+- 🔁 **Rebuilt 23 diarized transcripts** from `missing.txt` using the new normalization model.  
+- 🧾 **Checksums & fixity verified** for all source and transcript files.  
+- 📜 **CHANGELOG.md**, **FIXITY_LOG.md**, and checksum manifests updated.
+
+_All content remains dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)._  
+
+---
+
 ## v3.6.0 — 2025-11-06
 **Early corpus recovery & GPT-normalized transcripts**
 
