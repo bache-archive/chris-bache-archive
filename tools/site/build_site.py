@@ -6,6 +6,9 @@ Build *styled* static HTML wrappers for:
   • sources/transcripts/**/*.md
   • sources/captions/**/*.md
 
+Also generates a chronological catalog page at:
+  • sources/transcripts/index.html   (oldest → latest)
+
 Notes:
 - Outputs sit next to the source files as *.html (same directory).
 - Adds a simple hero + card shell and hardens external links.
@@ -18,7 +21,8 @@ Usage:
 
 from __future__ import annotations
 from pathlib import Path
-import argparse, html, re, sys
+from datetime import datetime
+import argparse, html, re
 import markdown
 
 # repo root is two levels up from this file: .../tools/site/build_site.py -> parents[2]
@@ -26,6 +30,7 @@ ROOT = Path(__file__).resolve().parents[2]
 SRC_TRANS = ROOT / "sources" / "transcripts"
 SRC_CAP   = ROOT / "sources" / "captions"
 
+# Front matter parser (simple YAML-ish key: value pairs)
 FM_RE = re.compile(r'^\s*---\s*\n(.*?)\n---\s*\n(.*)\Z', re.S)
 META_LINE = re.compile(r'^\s*([A-Za-z0-9_]+)\s*:\s*"?(.+?)"?\s*$', re.M)
 
@@ -74,7 +79,7 @@ def wrap_shell(page_title: str, style_href: str, body_inner: str, canonical: str
 </body>
 </html>"""
 
-def hero_block(pill: str, h1: str, subtitle_html: str, buttons: list[tuple[str,str,str]] = None) -> str:
+def hero_block(pill: str, h1: str, subtitle_html: str, buttons: list[tuple[str,str,str]] | None = None) -> str:
     btns = []
     for label, href, kind in (buttons or []):
         klass = "btn" if kind == "solid" else "btn-outline"
@@ -130,11 +135,85 @@ def process_source_page(md_path: Path, site_base: str, stylesheet: str, pill: st
     print(f"[ok] SRC {out_html.relative_to(ROOT)}")
 
 def convert_tree_sources(src: Path, site_base: str, stylesheet: str, pill: str):
-    if not src.exists(): 
+    if not src.exists():
         print(f"[skip] {src.relative_to(ROOT)} (missing)")
         return
     for md in sorted(src.rglob("*.md")):
         process_source_page(md, site_base, stylesheet, pill)
+
+# ---------- Catalog builder ----------
+
+def _safe_parse_date(s: str | None) -> datetime | None:
+    if not s:
+        return None
+    for fmt in ("%Y-%m-%d", "%Y/%m/%d", "%Y.%m.%d"):
+        try:
+            return datetime.strptime(s.strip(), fmt)
+        except ValueError:
+            pass
+    return None
+
+def _guess_date_from_name(p: Path) -> datetime | None:
+    # filenames start with YYYY-MM-DD-... — use first 10 chars if they look like a date
+    stem = p.stem
+    if len(stem) >= 10 and stem[4] == "-" and stem[7] == "-":
+        return _safe_parse_date(stem[:10])
+    return None
+
+def build_transcript_catalog(site_base: str, stylesheet: str):
+    """Generate sources/transcripts/index.html catalog (oldest → latest)."""
+    style_href = f"{site_base.rstrip('/')}/{stylesheet.lstrip('/')}"
+    rows = []
+
+    for md in sorted(SRC_TRANS.glob("*.md")):
+        txt = md.read_text(encoding="utf-8", errors="ignore")
+        meta, _ = parse_front_matter(txt)
+        title = meta.get("title") or title_guess_from_path(md)
+        chan  = meta.get("channel") or meta.get("chan") or ""
+        d     = _safe_parse_date(meta.get("date")) or _guess_date_from_name(md)
+        html_name = md.with_suffix(".html").name
+        rows.append({
+            "date": d,
+            "date_txt": d.strftime("%Y-%m-%d") if d else "",
+            "title": title,
+            "channel": chan,
+            "href": html_name
+        })
+
+    # sort by date asc; unknown dates sink to bottom but remain stable
+    rows.sort(key=lambda r: (r["date"] or datetime.max, r["title"]))
+
+    items_html = []
+    for r in rows:
+        meta_line = " · ".join(x for x in [r["date_txt"], r["channel"]] if x)
+        meta_html = f'<div class="muted small">{meta_line}</div>' if meta_line else ""
+        items_html.append(
+            f'<li class="catalog-item"><a href="{r["href"]}">{html.escape(r["title"])}</a>{meta_html}</li>'
+        )
+
+    list_html = f"""
+<section class="section">
+  <div class="card">
+    <h2>All Transcripts (oldest → latest)</h2>
+    <ol class="catalog">
+      {'\n      '.join(items_html)}
+    </ol>
+  </div>
+</section>""".strip()
+
+    hero = hero_block(
+        pill="Transcript Catalog",
+        h1="All Public Talks & Interviews",
+        subtitle_html="Browse every styled transcript chronologically. Each page links back to original recordings."
+    )
+    inner = "\n".join([hero, list_html])
+    page_html = wrap_shell("Transcript Catalog — Chris Bache Archive", style_href, inner)
+
+    out_html = SRC_TRANS / "index.html"
+    out_html.write_text(page_html, encoding="utf-8")
+    print(f"[ok] CATALOG {out_html.relative_to(ROOT)}")
+
+# ---------- CLI ----------
 
 def main():
     ap = argparse.ArgumentParser()
@@ -144,9 +223,13 @@ def main():
                     help="Path to CSS within repo")
     args = ap.parse_args()
 
-    # Build wrappers for transcripts and captions only
+    # Build wrappers for transcripts and captions
     convert_tree_sources(SRC_TRANS, args.site_base, args.stylesheet, pill="Transcript")
     convert_tree_sources(SRC_CAP,   args.site_base, args.stylesheet, pill="Captions")
+
+    # Build the transcripts catalog (oldest → latest)
+    build_transcript_catalog(args.site_base, args.stylesheet)
+
     print("\nDone.")
 
 if __name__ == "__main__":
