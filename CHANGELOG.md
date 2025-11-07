@@ -6,6 +6,23 @@ Each entry summarizes what changed, when, and why.
 
 ---
 
+## v3.7.0 — 2025-11-06  
+**HTML Catalog, YouTube Integration & Front Matter Normalization**
+
+This release unifies the archive’s HTML layer and cleans the metadata foundation — producing a fully rebuilt, stylistically consistent set of transcript pages focused on long-term web readability.
+
+### Key Improvements
+- 🧩 **Normalized YAML front matter** across all Markdown transcripts — removed redundant fields, ensured consistency, and standardized key naming.
+- 🪶 **Rebuilt every HTML transcript page** from normalized Markdown, using a unified site builder (`tools/site/build_site.py`).
+- 🎬 **YouTube integration** — each transcript now automatically includes a “Watch on YouTube” button sourced from `index.json`.
+- 📜 **Chronological transcript catalog** (`catalog/transcripts.html`) listing every talk from 2009–2025 with channel attribution and direct links.
+- 💡 **HTML-first orientation** — static pages are now primary; Markdown remains canonical but secondary.
+- 🧾 **Provenance preserved** — fixity logs and checksums verified for all modified assets.
+
+_All materials remain dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)._  
+
+---
+
 ## v3.6.4 — 2025-11-06  
 **Faithful Transcript Rebuild (GPT-5 Fidelity Pass)**  
 
