@@ -1,29 +1,26 @@
 ---
-archival_title: Scientific Evidence for Reincarnation
-
+title: Scientific Evidence for Reincarnation – TimeWaver Summer World 2018
+slug: 2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018
+date: 2018-08-30
+type: lecture
 channel: TimeWaver TV
-
-recorded: 2018-08-30
-
-published: 2018-08-30
-
-youtube_id: JlCMfEOmsrY
-
-speakers:
-
-- Chris Bache
-
-- Host
-
-Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
-
-transcription_date: 2025-08-01
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.srt
 ---
-<!-- diarist_sha1:0ca3ac185769666fcdff5b666a239408a9d5bf29 -->
----
+
 Chris Bache: 
 The good news is that after me, it's lunch—so I'm the end of your day. Now, I'm a professor, and I've been at this game for a long time, so I know a tired audience when I see one. It's been a long morning, full of wonderful ideas. So let’s take a moment—everybody, stand up, stretch your arms, and bring in some good energy. Okay, now sit down.
 

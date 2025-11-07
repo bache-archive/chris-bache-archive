@@ -1,27 +1,27 @@
 ---
-archival_title: 2025-04-19 – Bicycle Day Psychedelic Talk – Chris Bache at The Pearl Institute
-
+title: Bicycle Day Psychedelic Talk (recorded 2025-04-19)
+slug: 2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19
+date: 2025-04-26
+type: lecture
 channel: The Pearl Institute
-
-recorded: 2025-04-19
-
-published: 2025-04-26
-
-youtube_id: H-edIvbzE8w
-
-speakers:
-
-- Dr. Christopher Bache
-
-Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
-
-transcription_date: 07/31/2025
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Ehren Cruz"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  recorded: 2025-04-19
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.srt
 ---
-<!-- diarist_sha1:c11cc9a0cc5fa622c964f2bb7233091620176b7c -->
----
+
 Ehren Cruz
 Before I welcome our first wonderful, esteemed keynote presenter, I want to leave a little quote from Albert Hoffman after he had his great first psychedelic experience: the psychedelics gave me an inner joy, an open mindedness, a gratefulness, open eyes and an internal sensitivity for the miracles of creation. I think that in human evolution has never been as necessary to have the substance of LSD, it is just a tool to turn us into what we're always supposed to be. Now, with that, I want to welcome onto the stage, here in just a moment, Dr. Christopher Bache.
 

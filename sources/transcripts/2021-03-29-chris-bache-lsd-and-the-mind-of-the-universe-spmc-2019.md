@@ -1,22 +1,26 @@
 ---
-archival_title: "Chris Bache - LSD and the Mind of the Universe - SPMC 2019"
-
-channel: "Spirit Plant Medicine"
-
-recorded: "2019-??-??"
-
-published: 2021-03-29
-
-youtube_id: DBddIrMryJc
-transcriber: gpt5 model by OpenAI
-
-transcription_date: 2025-08-15
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Stephen Gray"]
+title: Chris Bache – LSD and the Mind of the Universe – SPMC 2019
+slug: 2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019
+date: 2021-03-29
+type: lecture
+channel: Spirit Plant Medicine
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: gpt5 model by OpenAI
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.srt
 ---
-<!-- diarist_sha1:5b109a6c913d0254cd8d98ab25854ff044b3943d -->
----
+
 Stephen Gray
 At the end of Chris’s talk, during the break, he’ll be signing his new book. I don’t know if he was going to tell you this or not, so I will: the book is called LSD and the Mind of the Universe. It’s based on his experiential work with LSD. The publisher was going to release it in December, but Chris got them to do an advance printing for this conference—so this weekend is the debut. I don’t know if there will be enough copies for everyone who’ll want one. I’ve read it—Chris asked me to write an endorsement because I’m so enamored of his work—and it’s a mind blower. I’m not kidding. Please give a warm welcome to Chris Bache.
 

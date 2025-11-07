@@ -1,15 +1,26 @@
 ---
-archival_title: "EP.6 - Chris Bache | LSD AND THE MIND OF THE UNIVERSE"
+title: "EP.6 - Chris Bache | LSD AND THE MIND OF THE UNIVERSE"
+slug: 2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe
+date: 2020-05-13
+type: lecture
 channel: "Ryan & Mo - Life In Rural Thailand"
-published: 2020-05-13
-youtube_id: "Dw7D7ih8vy0"
-transcriber: "Otter.ai (first pass), gpt-5 model by OpenAI (edited)"
-transcription_date: 2025-09-30
-license: "CC0 1.0 Universal (Public Domain Dedication)"
-speakers: ["Chris Bache", "Ryan Kemp"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (first pass), gpt-5 model by OpenAI (edited)"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.srt
 ---
-<!-- diarist_sha1:a46decbfb2d4f78322819a59e510385212bdb68d -->
----
+
 Ryan Kemp
 Okay, welcome everybody to The Naked Guru Experience. I'm Ryan Kemp. Just as a little foreword, this discussion is part of a series in tribute to the American ethnobotanist Terence McKenna and is sponsored by The Psychedelic Society. As ever, it really helps in the production of these discussions if listeners subscribe to our YouTube channel. Today's guest is Christopher M. Bache. Chris is an emeritus professor in the Department of Philosophy and Religious Studies at Youngstown State University, where he taught for 33 years; an emeritus fellow at the Institute of Noetic Sciences; adjunct faculty at the California Institute of Integral Studies; and on the advisory board for the Grof Transpersonal Training and the Grof Foundation. An award-winning teacher and international speaker, he is the author of a number of books, including Life Cycles, Dark Night, Early Dawn, and the book we'll be discussing today, LSD and the Mind of the Universe: Diamonds from Heaven, in which Chris catalogs his epic journey over 20 years, engaging in 73 high-dose LSD sessions at 500 to 600 micrograms. Chris, welcome to the podcast, and thank you so much for agreeing to this discussion.
 

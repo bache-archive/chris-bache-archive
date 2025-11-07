@@ -1,22 +1,26 @@
 ---
-archival_title: 2023-03-16 – Collective Shadow Work & Turning Toward Our Pain
-
+title: "Collective Shadow Work & Turning Toward Our Pain"
+slug: 2023-03-16-collective-shadow-work-and-turning-toward-our-pain
+date: 2023-03-16
+type: lecture
 channel: Adventures Through the Mind
-
-recorded: unknown
-
-published: 2023-03-16
-
-youtube_id: KAGPLyC2WZQ
-Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
-
-transcription_date: 2025-07-31
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-03-16-collective-shadow-work-and-turning-toward-our-pain.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-03-16-collective-shadow-work-and-turning-toward-our-pain.srt
 ---
-<!-- diarist_sha1:ba8f02bf4c8bf382377417f6c13c3600f0f6d6e0 -->
----
+
 Interviewer: For listeners who don’t know, this conversation is couched in your 40-year journey as a philosophy professor and a 20-year journey with high-dose LSD sessions. The book we referred to earlier is your book on those journeys, among others. What I’m seeing in the world—mostly through a screen—is not a place I want to be. I don’t want to be where it appears we’re going, or part of a system that does what it does. I don’t like feeling complicit in something distorted. I see a lot of toxic behavior and discussion, draped in this self-confident, self-righteous, almost Machiavellian moralism of good versus evil—where the good is me, and anyone who disagrees is the violent devil to cast out. It makes me want to hide away. If I couch this in psychedelics—seeing it as a large, collective, planetary experience, not just involving humanity—when I see these parts of myself in a session, it’s just as ugly, and I want to turn away from that too. Yet in your book you say we need to learn, as part of the psychedelic journey, not to turn away from this kind of pain but to turn toward it. Could you comment?
 
 Chris Bache: The starting point of serious psychedelic work is taking complete responsibility for one’s own shadow. You go into a room, close the door, lock it—nothing there but you and your mind—and you go into the parts of your being that are, at least initially, the most daunting, intimidating, frightening, the ugly ones we least like to acknowledge. But the commitment is to take that on, to enter into it.

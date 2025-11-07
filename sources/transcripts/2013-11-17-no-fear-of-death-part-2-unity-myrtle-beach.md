@@ -1,9 +1,25 @@
 ---
-diarist_sha1: 7a387be03857298c7a15825207acf6cbec016101
+title: "2013 11 16, Dr. Chris Bache, Guest Speaker, \"No Fear of Death\", Part 2/3"
+slug: 2013-11-17-no-fear-of-death-part-2-unity-myrtle-beach
+date: 2013-11-17
+type: lecture
+channel: Unity Myrtle Beach
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2013-11-17-no-fear-of-death-part-2-unity-myrtle-beach.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2013-11-17-no-fear-of-death-part-2-unity-myrtle-beach.srt
 ---
-<!-- diarist_sha1:7a387be03857298c7a15825207acf6cbec016101 -->
----
----
+
 **Chris Bache: ** So some images, how do we imagine soul? How do I ever imagine this reincarnation? Well, one of my favorites is what happens in trees; we are eating time, and the more time we eat, the more soul weight we put on trees. Do they get bigger and bigger and bigger?
 
 **Chris Bache: ** We have other images; nature does all these things. We have these suggestive natural phenomena where nature just kind of builds and builds and spirals on. But images are imagining the soul for flowers. And so when I'm with my students, I ask them to imagine that each one of those petals and each one of those pistils and stamens is an entire life. So this—each one of those petals is 100 years. Each one of those little 1000s of Sagan in the center is 100 years of life. And the soul is the beautiful, magnificent integration of all of that experience into an identity that is bigger than anyone, but which honors everyone. And just as there are many, many different types of flowers, we're not all becoming the same thing. Actually, we're becoming more and more different, more and more individualized. We're cutting ourselves. We're developing ourselves in different directions with different aptitudes. We have to, but we have to do something to imagine the soul that we are underneath—something large, something magnificent, and something beautiful. Many of you have seen Carl Jung's mandalas and these beautiful images that he would draw. Those, to me, in some ways, are like images of the soul. They're not just images of the state of the common mind, but they're images of this deeper identity that's moving through. 

@@ -1,22 +1,26 @@
 ---
-archival_title: Mapping of Transcendence
-
-channel: ECR – Existential Consciousness Research Institute
-
-recorded: 2019-09-26
-
-published: 2019-09-26
-
-youtube_id: 70TRNG1-ZEg
-Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
-
-transcription_date: 2025-07-31
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache"]
+title: Mapping of Transcendence
+slug: 2019-09-26-mapping-of-transcendence
+date: 2019-09-26
+type: lecture
+channel: ECR – Existential Consciousness Research Inst.
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2019-09-26-mapping-of-transcendence.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2019-09-26-mapping-of-transcendence.srt
 ---
-<!-- diarist_sha1:68bd80cdd967f92ae119f7dd7ec1b889f4543df7 -->
----
+
 Chris Bache: 
 I want to thank Swamiji for taking us into such a wonderful, spacious place. It was a little disorienting for me, because I went so deep with him that when he was finishing, I suddenly realized, oh, I have a talk to give. I also want to mention that the cosmology that emerges in psychedelic research is not a new cosmology. It’s the same cosmology that appears in the deepest and best mystical traditions around the world; we’re simply using a new set of technologies and techniques for entering these states of consciousness.
 

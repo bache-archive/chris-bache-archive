@@ -1,29 +1,26 @@
 ---
-archival_title: 73 Trips: Inside the Psychedelic Universe
-
+title: "73 Trips: Inside the Psychedelic Universe"
+slug: 2023-11-06-73-trips-inside-the-psychedelic-universe
+date: 2023-11-06
+type: lecture
 channel: Regina Meredith
-
-recorded: 2023-11-06
-
-published: 2023-11-06
-
-youtube_id: S4XSaHn54P4
-
-speakers:
-
-- Regina Meredith
-
-- Christopher Bache
-
-Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
-
-transcription_date: 2025-07-31
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Regina Meredith"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-11-06-73-trips-inside-the-psychedelic-universe.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-11-06-73-trips-inside-the-psychedelic-universe.srt
 ---
-<!-- diarist_sha1:1b305e34ea02e15a221dfeb35eb1ce675f0480e1 -->
----
+
 Regina Meredith: 
 Chris, hi everybody. We're going to have a phenomenal conversation with Christopher Bache, who I consider to be—and I know he'll be blushing if I say this—a hero of our times for being willing to take on a journey most of us could not withstand to explore the nature of consciousness, the mind of the universe. In his book, LSD the Mind of the Universe, he shares experiences from some 73 journeys he undertook with a very prescribed protocol and a sitter protecting him over decades, journeying sequentially farther into what the future of humanity might look like. So here we go. Meet Christopher Bache, if you don't already know him. Hello, Christopher, it's so good to see you. After reading your book—and hearing from others who’ve read it—the question that comes up about halfway through is, why in the world did you continue when you went through that much pain and suffering, sometimes taking months, even a year, to recover from a journey, and yet you would come back? You were relentless in your search. To set it up briefly for people: you’re a professor of theology and philosophy. What made you go on this journey starting way back when?
 

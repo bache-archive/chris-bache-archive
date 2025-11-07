@@ -1,20 +1,26 @@
 ---
-archival_title: Exploring the Boundaries of Death and Rebirth in LSD Psychotherapy
-
+title: Exploring the Boundaries of Death and Rebirth in LSD Psychotherapy
+slug: 2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy
+date: 2015-03-16
+type: lecture
 channel: Archetypal View
-
-published: 2015-03-16
-
-youtube_id: cEsoN2IaGc4
-transcriber: gpt-5 model by OpenAI
-
-transcription_date: 2025-08-15
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: gpt-5 model by OpenAI
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.srt
 ---
-<!-- diarist_sha1:1e971ab11799522b63e8bc94b8d9ecce6d4a1b1a -->
----
+
 **Host: ** 
 Good morning. I now have the joy of introducing our first speaker this morning, and I must say, one of my most influential teachers, Christopher Bache. Chris is professor emeritus in the Department of Philosophy and Religious Studies at Youngstown State University, where he taught for over 30 years in psychology of religion, transpersonal studies, Buddhism, and Eastern religions. For two years, he was the director of transformative learning at the Institute of Noetic Sciences in Petaluma, and is also adjunct faculty at CIIS, where each of his classes feels like being held in a transformative sacred container. His publications include *Life Cycles*, *The Living Classroom*, and his groundbreaking work, *Dark Night, Early Dawn*. This morning, Chris will be speaking on exploring the boundaries of death and rebirth in LSD psychotherapy. Please join me in welcoming Chris Bache.
 

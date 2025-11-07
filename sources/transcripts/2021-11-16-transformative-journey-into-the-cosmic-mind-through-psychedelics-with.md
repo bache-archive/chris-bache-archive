@@ -1,9 +1,25 @@
 ---
-diarist_sha1: bf76c1d228c3a0e531c6b7ab7aad9fa26263daa8
+title: Transformative Journey into the Cosmic Mind through Psychedelics with Chris Bache
+slug: 2021-11-16-transformative-journey-into-the-cosmic-mind-through-psychedelics-with
+date: 2021-11-16
+type: interview
+channel: Magical Egypt
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2021-11-16-transformative-journey-into-the-cosmic-mind-through-psychedelics-with.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2021-11-16-transformative-journey-into-the-cosmic-mind-through-psychedelics-with.srt
 ---
-<!-- diarist_sha1:bf76c1d228c3a0e531c6b7ab7aad9fa26263daa8 -->
----
----
+
 **Vanese McNeill: ** Hello everybody. This is Vanese McNeill from MAGICAL EGYPT, live. And today I have a very special guest with me. Chris is one of my favorite people in the entire world. I think that he has some of the most important knowledge to share with us, as well as wisdom, and I'm also now declaring that he's a prophet as well. So welcome, Chris.
 
 **Chris Bache: ** Happiness. I don't know about the Prophet part, but okay.

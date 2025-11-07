@@ -1,9 +1,25 @@
 ---
-diarist_sha1: f61d29af8376795028a65102578b63e9082cdddf
+title: What 73 High-Dose LSD Sessions Teach You About the Mind of the Universe (Ep11)
+slug: 2020-12-03-what-73-high-dose-lsd-sessions-teach-you-about-the-mind-of-the-universe-w-christopher-m-bache-ep11
+date: 2020-12-03
+type: interview
+channel: "Christian Yordanov | Longevity Author"
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2020-12-03-what-73-high-dose-lsd-sessions-teach-you-about-the-mind-of-the-universe-w-christopher-m-bache-ep11.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2020-12-03-what-73-high-dose-lsd-sessions-teach-you-about-the-mind-of-the-universe-w-christopher-m-bache-ep11.srt
 ---
-<!-- diarist_sha1:f61d29af8376795028a65102578b63e9082cdddf -->
----
----
+
 **Christian Yordanov: ** Connecting minds is a space dedicated to honoring the amazing authors, researchers, clinicians, artists, and entrepreneurs who are contributing to our collective evolution or simply making the world a better place. These thought-provoking conversations are intended to expand our horizons. So come with an open mind and let us grow together. Here is your host, Christian Yordanov. Hello.
 
 **Christian Yordanov: ** And welcome to the Connective Minds podcast. My name is Christian Yordanov and thank you so much for joining me today on this 11th episode of the podcast. Today I have Christopher M. Bache on. We had a two-hour conversation, almost. It was a wonderful conversation; I relished every single minute of relistening to it while I was typing up the show notes. So much depth to it, you're in for a treat. Basically, the focal point of the conversation will be Chris's latest book, *LSD and the Mind of the Universe: Diamonds from Heaven*, where he… it's basically an account of his 20-year journey of high-dose LSD sessions between 1979 and 1999, where he undertook deep exploration of his consciousness and into the mind of the universe. As the title of the book suggests, we also discuss his first book briefly, *Life Cycles*, which is about reincarnation. So you're about to hear some amazing stuff from Chris. Really awesome guy. So glad he agreed to get on the podcast. He was actually the first guest that I approached way back in September, so he was the first interview I conducted. So I was extra nervous. I did a ton of preparation. I really immersed myself into his work, you know, his books, his videos, etc. It was a very enlightening and illuminating experience. He really opened my eyes to so many concepts and authors and thought leaders and pioneers in various different fields, and I have a reading list from here till the end of, I don’t know what, it’s that long, you know. But, um, so I really think you’ll enjoy this episode. I don’t want to offer too many spoilers. I think the best thing to do is to just let Chris speak for the experiences of, you know, hear it from the horse's mouth, as it were, even though we will only be scratching the surface in this interview. Of course, he has a rather large body of work that I highly recommend you check out. Of course, links to the books and to his website, some YouTube videos, etc., will all be in the show notes and on the website. So yeah, please get in touch with me. Let me know how you like the episode, and thank you once again for joining me today. I really appreciate you investing your time in this podcast. So without further ado, I present you Christopher M. Bache. Alrighty, today on the Connecting Minds podcast, we have Christopher M. Bache, PhD. Christopher Bache, or Chris, is professor emeritus in the Department of Philosophy and Religious Studies at Youngstown State University, where he taught for 33 years. He is a fellow at the Institute of Noetic Sciences. He is also a junket faculty at the California Institute of Integral Studies and on the advisory board for Grof Transpersonal Training and the Grof Foundation. He's an award-winning teacher and an international speaker. He's the author of four books, and he lives in North Carolina now. He has written several books. Today, one of the topics of our discussion will be his latest book, *LSD and the Mind of the Universe: Diamonds from Heaven*. Chris, thank you so much for taking the time out to join us today.

@@ -1,9 +1,25 @@
 ---
-diarist_sha1: 90b06bf89792aaee904def1ce946a24f1c45eaff
+title: "The Human Experience Live Show #022 — Dr. Chris Bache, LSD and the Mind of the Universe"
+slug: 2019-10-18-the-human-experience-live-show-022-dr-chris-bache-lsd-and-the-mind-of-the-universe
+date: 2019-10-18
+type: interview
+channel: The Human Experience Podcast
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2019-10-18-the-human-experience-live-show-022-dr-chris-bache-lsd-and-the-mind-of-the-universe.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2019-10-18-the-human-experience-live-show-022-dr-chris-bache-lsd-and-the-mind-of-the-universe.srt
 ---
-<!-- diarist_sha1:90b06bf89792aaee904def1ce946a24f1c45eaff -->
----
----
+
 **Announcer: ** Welcome to the Human Experience podcast, the only podcast designed to fuse your left and right brain hemispheres and feed it the most entertaining and mentally engaging topics on the planet. As we approach our ascent, please make sure your frontal temporal and occipital lobes are in their full upright position as you take your seat of consciousness, relax your senses and allow us to take you on a journey. We are the intimate strangers. Thank you for listening.
 
 **Xavier Katana: ** Ladies and gentlemen, welcome. We've got an incredible show planned for you guys this evening. We are going to be talking about consciousness, psychedelics, namely, LSD, the exploration of consciousness. Thank you so much for being here, especially if you're listening to this on the YouTube live version. So sit back, grab a drink and enjoy this conversation. The human experience is in session. My name is Xavier Katana. My guest for this evening is Dr. Christopher Bache. Dr. Bache is a professor, researcher and author who has been teaching and writing about consciousness, philosophy and religion for more than 30 years. Christopher received his PhD in philosophy and religion from Brown University and went on to be a professor of religious studies at Youngstown State University. Christopher has written a number of books, including "Life Cycles," "Reincarnation," "The Web of Life," and his latest is "LSD and the Mind of the Universe: Diamonds from Heaven," for the most part, which we'll be covering this evening. Chris, thank you so much for making time. Welcome to HXP.

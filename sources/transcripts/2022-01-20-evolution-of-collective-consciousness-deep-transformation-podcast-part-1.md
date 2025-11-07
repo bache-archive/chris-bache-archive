@@ -1,31 +1,26 @@
 ---
-archival_title: Evolution of Collective Consciousness (Deep Transformation Podcast – Part 1)
-
+title: Evolution of Collective Consciousness (Deep Transformation Podcast – Part 1)
+slug: 2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1
+date: 2022-01-20
+type: interview
 channel: Deep Transformation Podcast
-
-recorded: 2022-01-20
-
-published: 2022-01-20
-
-youtube_id: -2NMOMvRkYE
-
-speakers:
-
-- ROGER WALSH
-
-- JOHN DUPUIS
-
-- CHRIS BACHE
-
-Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
-
-transcription_date: 2025-07-31
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "John Dupuy", "Roger Walsh"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.srt
 ---
-<!-- diarist_sha1:1206c62633c6c99a69db643b63cd2b6e2092e1dd -->
----
+
 Roger Walsh: 
 Welcome to today's episode of Deep Transformation: Self, Society, Spirit. I'm Roger Walsh, and our co-host is the distinguished John Dupuy. Our guest today is the truly remarkable Chris Bache, an internationally known professor of philosophy and religious studies, an author, an award-winning teacher, and a widely respected speaker.
 

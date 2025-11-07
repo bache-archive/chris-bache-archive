@@ -1,22 +1,26 @@
 ---
-archival_title: Waking Up in the Classroom — Lessons from 30 Years of Teaching
-
+title: "Chris Bache, Waking Up in the Classroom – Lessons from 30 Years of Teaching"
+slug: 2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching
+date: 2014-11-10
+type: lecture
 channel: PCC Esalen
-
-recorded: 2014-11-10
-
-published: 2014-11-10
-
-youtube_id: OJipHXvczW0
-transcriber: gpt-5 model by OpenAI
-
-transcription_date: 2025-08-15
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Robert McDermott"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: gpt-5 model by OpenAI
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.srt
 ---
-<!-- diarist_sha1:469639886698d3ff9e8ab12bc6f4ee77753d795a -->
----
+
 **Interviewer: ** In class, there are those imminent experiences when mind, body, heart, and spirit really come together. Personally, I feel lucky and happy to have you with us this week. I only know a little about your life's work, so I’ll just let you speak. Okay?
 
 **Chris Bache: ** Come on, people, let it rip. Feel how that changes the energy—just that little bit. I don't have time to mess around anymore. We don’t have time to mess around anymore! There’s just not time. There’s only time to get down to the serious stuff. So let’s get down to it.

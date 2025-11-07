@@ -1,9 +1,25 @@
 ---
-diarist_sha1: 7180fc263b4877dc611dfdbb69de6b75cbdb132d
+title: "2013 11 16, Dr. Chris Bache, Guest Speaker, \"No Fear of Death\", Part 3/ 3"
+slug: 2013-11-17-no-fear-of-death-part-3-unity-myrtle-beach
+date: 2013-11-17
+type: lecture
+channel: Unity Myrtle Beach
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2013-11-17-no-fear-of-death-part-3-unity-myrtle-beach.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2013-11-17-no-fear-of-death-part-3-unity-myrtle-beach.srt
 ---
-<!-- diarist_sha1:7180fc263b4877dc611dfdbb69de6b75cbdb132d -->
----
----
+
 **Chris Bache: ** Tonight, let me throw two more books, just so I want to get into the next category, but I realize I didn't put up the last two. The experiences are wonderful. The experience is extraordinary. But how do we know these people aren't just imagining, and how do we know that they aren't really this kind of beautiful story? But how do we know it's really a story? Pebble Van Loan, he's a Norwegian doctor, and this book is, there have been a number of books of this type, but I think this book is the very best scientific evaluation of the near-death episode phenomena. He just really puts it through all the paces. He looks at it from different angles. He looks at the cases, he looks at the arguments against their legitimacy, and he just patiently sifts it out. And so if you want to look at a book, or you have a husband at home, that's just an engineer, he's hypercritical of thinking that this is just not real. This is the book you want to look at, just because this is the best, best critical analysis of the phenomenon. And lastly, I would mention the fourth, "Proof of Heaven." Eben Alexander, some of you met him and know his work. He's kind of the man of the hour on some of this work, and we have this in the bookstore. Emmy Ray has his work in the bookstore, and I think Eben is doing great work really out there. He's pitching hard. He's absorbing a lot of abuse from the academic community, but his experience is really powerful, and really he's doing good work, and I think this is a beautiful experience. Okay, so let's go to the next category, life between life theory. Now this work actually began with this book published in 1988 by Joel Witten and Joe Fisher. Joel Witten is a Canadian psychiatrist who was doing past lives therapy on behalf of the Canadian government. By the way, he was interested in foreign news, and he accidentally gave an ambiguous direction to one of his clients, and suddenly he found that his client was not remembering a past life. He was remembering a life between past lives. He didn't even think that this was possible, but he discovered and he began to regress people back. He went when you went back into a former life, and then you went through the death in that life. He found that he could escort people into the place they went to after they died. And when he had done this many times, he published this short book with Joe Fisher, a newspaper reporter, "Life Between Life." And this is really the beginning of this research. But the man I'd like to show you primarily around this work is this guy, Michael Newton.
 
 **Chris Bache: ** Michael Newton and all three of these books are Michael Newton, and we have two of them, right? Ann Marie, we have two of them in the bookstore. These are wonderful books, and these are just wonderful books. Michael Newton, likewise, was doing research, doing past lives therapy. He was taking people back to heal their circumstances and their present life by taking them back to their former lives and, you know, uncommon trauma and so on and so forth. And then the same thing happened to him. He gave an ambiguous instruction, and he discovered that people had the capacity to go back into their life before they were born, the life between life, what happens between death and birth? And he began to incorporate this into his therapy. And after he had taken 600 people, right? So just imagine, if you're a therapist, how long does it take you to have 600 clients going back into this phenomenon? He kept detailed records. He wrote this first book, "Journey of the Soul," in which he basically summarizes, always staying close to his cases, what people experience in the structure of the post-mortem state. And then that was followed by, I consider the bibliography I gave you, the 2000s, the next one "Destiny of Souls." And these two are really kind of like two halves of the same book. I mean, they're really "Destiny of Souls" gives you more detail, but the phenomenon is the same. You're just going into it in greater detail. And off, because, and then "Memories of the Afterlife." What happened is Michael, living in seeing so many patients, psychedelic psychotherapists began to come to him, and he began to train the therapists. He began, so he stopped working with patients, so much as he began to work with therapists, and he created an institute. And so now he, now this is the fastest growing area in hypnotherapy and past lives therapy, and people who are being trained not only to do past life regressions, but to do life between life therapy, because it deepens and accelerates the therapeutic process, so that all of this last book are collections of cases by different therapists. So they will get the therapist to describe their background, how they got into this, and they present one case and they move on to the next therapist. So you see that the third book, in fact, was published by the Newton Institute. So the first two books are Michael Newton. The third book comes from the Newton Institute. Now,

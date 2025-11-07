@@ -1,22 +1,26 @@
 ---
-archival_title: 2023-12-05 – What 73 High-Dose LSD Sessions Taught Christopher Bache
-
+title: What 73 High-Dose LSD Sessions Taught Christopher Bache
+slug: 2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache
+date: 2023-12-05
+type: lecture
 channel: Numinus Network
-
-recorded: unknown
-
-published: 2023-12-05
-
-youtube_id: AyMBQMGaIeA
-Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
-
-transcription_date: 2025-07-31
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Reid Robison", "Steve Thayer"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.srt
 ---
-<!-- diarist_sha1:646fd1f7e2574f06760b80c7025b20788591214f -->
----
+
 Steve Thayer: Welcome back to Psychedelic Therapy Frontiers, the podcast devoted to exploring the frontiers of psychedelic medicine and what it takes to cultivate a healthy mind, body, and spirit. As always, Psychedelic Therapy Frontiers is brought to you by Numinous. I'm Dr. Steve Thayer, and today my co‑host, Dr. Reid Robison, and I are joined by Dr. Christopher Bache, PhD. Chris is a professor emeritus in the Department of Philosophy and Religious Studies at Youngstown State University, adjunct faculty at the California Institute for Integral Studies, emeritus fellow at the Institute of Noetic Sciences, and on the advisory council of Grof Legacy Training. He's the author of several books, but the one that prompted us to reach out to him for this interview is LSD and the Mind of the Universe, an account of what Chris experienced and learned from 73 high‑dose LSD journeys over the course of 20 years.
 
 In today's conversation, we explore Chris's LSD session protocol, the difference between using psychedelics for what he calls cosmological exploration versus spiritual enlightenment or psychological healing, how he processed and integrated very intense experiences, what he learned about reincarnation and evolution at the collective and individual levels, what humans need to do to survive mounting existential threats, what he means by Diamond Luminosity and diamond soul, and much more. Chris's book had a profound impact on me. His disciplined, scholarly approach to psychedelic exploration, combined with his ability to articulate and teach what for most of us would be an overwhelming or ineffable experience, has resulted in a must‑read, in my opinion, for anyone who thinks deeply about questions like, Who are we? What are we doing here? And where might we go from here?

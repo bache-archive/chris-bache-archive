@@ -1,9 +1,25 @@
 ---
-speakers: ["Chris Bache", "Colin Campbell", "Rachel Fleming"]
+title: The Mind of the Universe – Conversation with Prof. Chris Bache
+slug: 2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache
+date: 2022-02-19
+type: interview
+channel: Embercombe
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.srt
 ---
-<!-- diarist_sha1:3375e0c3da68341e9b8e604ee6eebe7e486f84ae -->
----
----
+
 Rachel Fleming: 
 Lovely to see you wherever you are in the world. It's a beautiful evening here in Devon, England, so thank you so much for joining us tonight. You could be out in the sunshine, but it's lovely to see you. And welcome to anyone watching the recording—I think there will be quite a few of those.
 

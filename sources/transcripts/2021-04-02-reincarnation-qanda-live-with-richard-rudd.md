@@ -1,29 +1,26 @@
 ---
-archival_title: Reincarnation Q&A (Live)
-
+title: "Reincarnation Q&A (Live) with Richard Rudd"
+slug: 2021-04-02-reincarnation-qanda-live-with-richard-rudd
+date: 2021-04-02
+type: interview
 channel: Gene Keys
-
-recorded: 2021-04-02
-
-published: 2021-04-02
-
-youtube_id: wLg1uqI7b9c
-
-speakers:
-
-- Richard Rudd
-
-- Chris Bache
-
-Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
-
-transcription_date: 2025-07-31
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Richard Rudd"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2021-04-02-reincarnation-qanda-live-with-richard-rudd.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2021-04-02-reincarnation-qanda-live-with-richard-rudd.srt
 ---
-<!-- diarist_sha1:6234cd9faa269b2b0978a7e6bd0d37c656c0696a -->
----
+
 Richard Rudd
 Hi, Chris. Here we are.
 

@@ -1,20 +1,26 @@
 ---
-archival_title: "2023-01-06 – LSD and the Mind of the Universe (S2S Podcast)"
-
-channel: "S2S Podcast"
-
-published: "2023-01-06"
-
-youtube_id: "Kh5aqAuDBIM"
-transcriber: "gpt5 model by OpenAI"
-
-transcription_date: "2025-08-19"
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Simeon Mihaylov"]
+title: LSD and the Mind of the Universe – S2S Podcast
+slug: 2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast
+date: 2023-01-06
+type: interview
+channel: S2S Podcast
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: gpt5 model by OpenAI
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.srt
 ---
-<!-- diarist_sha1:61397c01bcd7ac7340095bfa9a4235cbcc534632 -->
----
+
 Simeon Mihaylov
 Welcome to the Secret to Seeker podcast. My name is Simeon, and it’s my honor to introduce our first-ever guest, Dr. Christopher M. Bache. Chris is Professor Emeritus in the Department of Philosophy and Religious Studies at Youngstown State University, where he taught for 33 years. His work explores the philosophical implications of non-ordinary states of consciousness, particularly psychedelic states. He has authored four books, his latest being LSD and the Mind of the Universe—or as Chris prefers to call it, Diamonds from Heaven.
 

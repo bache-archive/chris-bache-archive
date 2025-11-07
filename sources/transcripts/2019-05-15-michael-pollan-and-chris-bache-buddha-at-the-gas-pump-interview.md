@@ -1,22 +1,26 @@
 ---
-archival_title: "2019-05-15 – Michael Pollan and Chris Bache — Buddha at the Gas Pump Interview"
-
-channel: "Buddha at the Gas Pump®"
-
-recorded: "2019-05-15"
-
-published: "2019-05-15"
-
-youtube_id: "SIjZypJKSFM"
-transcriber: "gpt-5 model by OpenAI"
-
-transcription_date: "2025-08-15"
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Michael Pollan", "Rick Archer"]
+title: Michael Pollan and Chris Bache – Buddha at the Gas Pump Interview
+slug: 2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview
+date: 2019-05-15
+type: interview
+channel: Buddha at the Gas Pump®
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: gpt-5 model by OpenAI
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.srt
 ---
-<!-- diarist_sha1:f5a07eacea38f50d19cca59db16a552cb33811c7 -->
----
+
 Rick Archer: 
 Welcome to Buddha at the Gas Pump. My name is Rick Archer. This series features ongoing interviews with spiritually awakening people—I've done over 500 so far. If you’re new and would like to explore previous interviews, visit batgap.com, where you’ll find them organized in various ways under the “Past Interviews” menu. This program exists thanks to the support of appreciative listeners and viewers. If you’d like to contribute, there’s a PayPal button on every page of the site, as well as a donations page for those who prefer not to use PayPal.
 

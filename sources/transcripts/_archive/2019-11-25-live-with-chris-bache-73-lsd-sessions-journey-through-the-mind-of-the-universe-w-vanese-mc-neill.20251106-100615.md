@@ -1,0 +1,128 @@
+---
+diarist_sha1: cc127ab8a5bac5887252187f35e6c25b2cac3b69
+
+---
+<!-- diarist_sha1:cc127ab8a5bac5887252187f35e6c25b2cac3b69 -->
+There is a door in your head that no one told you about. It is the door through which we enter into life and pass out of life again. This door separates ordinary consciousness from genius, and it distinguishes time-bound mind from timeless mind. It leads from personal consciousness to cosmic consciousness. Ancient cultures that existed at the very beginning of recorded history, which demonstrated almost unfathomable genius, took special care to immortalize the instructions that enable each individual to access their own hidden door.
+
+Chris Bache, thank you for being with us today. I really appreciate you taking the time to share this amazing information with people. I want to say that your book has been one of the most revelatory I've ever read. The information contained within it is both interesting and very helpful during this particular time. There’s so much that will guide us into the future. I really appreciate that. The book conveys a range of experiences filled with pain, suffering, and ecstasy. Today, I'd like to focus on the content of your journeys and the teachings that came to you through them.
+
+To begin, you undertook 73 LSD sessions over a 20-year period to obtain this information. Can you talk to us about this journey?
+
+The book covers my experiences from 1979 to 1999. I did 73 high-dose sessions—actually, three were medium dose, and 70 were high dose; for convenience, we refer to them all as high dose. These sessions followed the protocols established by Stan Grof, which included internalized sessions, eyeshades, headphones, and a sitter. 
+
+Would you consider this a clinical setting per se, or more shamanistic, or just following Stan Grof's protocols?
+
+They merged in a clinical setting, but whether you call it clinical or shamanistic depends partly on your cultural perspective. They were clinical in the sense that they originated in a therapeutic context, but they went far beyond therapeutic applications or impacts. In that sense, they are not clinical per se.
+
+Let’s touch upon what you called the "ocean of suffering." In the first two and a half years, you went through classic perinatal symptomology described by Stan Grof, ending with a shattering ego-death experience. Could you elaborate on that?
+
+After this intense experience, a whole new cycle began that lasted two years and involved 14 sessions. In the purifying phase of each session, which usually meant the first half for me, I encountered vast landscapes of human suffering that deepened progressively session by session. Initially, I thought this was simply a deepening of ego death. However, I became convinced that it was more than that because it involved thousands of people and years of collective suffering. Eventually, I realized that something shifted within my sessions, and the consciousness directing them was using my experiences to heal not just my personal psyche but some aspect of the collective unconscious of humanity. 
+
+It’s fascinating how these sessions seemed very well planned, as opposed to more haphazard experiences some might have with hallucinogens. Who was doing the planning and organizing of these journeys?
+
+It certainly wasn’t me. During sessions, you cannot direct what happens, regardless of any intentions you set. My responsibility was to create as clean a field as possible to allow for clear contact, isolating myself from the world and maintaining internal focus. At the end of each session, I wrote a detailed transcript of what transpired, which helped us learn and retain what happened. I focus on establishing clean contact, but what followed was beyond my control; it was organized by a larger consciousness.
+
+The ocean of suffering sessions had some intense content. For instance, in session 11, you described being "trapped in a chamber of horrors," session 12 as "being killed, mauled, and maimed," and session 13 reminded you of Dante's Inferno. Why did you continue through all this pain?
+
+What happened was that in the second half of the sessions, after going through intense pain and suffering, I learned from Stan Grof to trust the process. If you surrender to it completely, you'll reach a crescendo, and navigating that crescendo well would lead to positive, transpersonal experiences. So while these were sessions in the ocean of suffering, they also allowed me to enter extraordinary realms filled with ecstasy, leading to an initiation into the universe itself.
+
+That sounds incredibly profound. You mention that in session 24, you explored the purpose of suffering by engaging with a consciousness described as being full of love and compassion. Can you explain how such pain can emerge from love?
+
+Creation comes from love. The pain encountered within the sessions reflects the collective suffering embedded in our psyche from centuries of human history—wars, brutality, and suffering. If unaddressed, this pain weighs heavily on both individuals and the collective. The experiences I had allowed me to dissolve into the collective unconscious, helping to “lift” this burden of suffering. When I say that the suffering began in love, I mean existence itself emerges from divine love. We're not victims; we're co-creators participating in an ongoing evolution of existence.
+
+Do you believe that these struggles arise from a disconnection from this source of love, or is it more akin to a birthing process, as Stan Grof describes?
+
+Initially, there is indeed an aspect of reliving our birth when exploring psychedelic states. The womb represents the entrance into time and space, while death signifies the exit. As consciousness expands beyond our physical experience, we encounter cycles of death and rebirth. This applies especially in the earlier stages, but not solely. I also discuss a historical crisis in my book, framing it as a birthing of a fundamentally changed human being—self-transforming and emerging into a higher order of itself.
+
+This sense of hope is crucial and one that humanity needs to understand. Your book suggests that this process is not just an individual journey but a collective transformation. Can you elaborate on that concept?
+
+I often felt that the creative intelligence behind evolution is interested in the entire species, trying to awaken the human family as one. Each individual's efforts are manifestations of this broader collective effort; the collective informs the individual, and vice versa. 
+
+This harmonious interconnectedness encourages us all to act with compassion toward each other. Your insights into remembering who we are—a continuous theme in your work—were beautifully expressed in session 18. Can you share more about your realization during that session?
+
+Throughout that session, after experiencing intense pain, I would flip back and forth between agony and extraordinary sweetness. Eventually, I reached a point of clarity, understanding that this sweetness was the essence of existence itself. I realized that I am part of the consciousness driving our universe and that we’re all interconnected in this creative process.
+
+One of the most beautiful moments in this journey came when an otherworldly presence took your face in its hands, looked into your eyes, and said, "It is you and I creating, my love." You’ve described engaging with this consciousness throughout your sessions. Can you explain how these encounters differ from typical visions of deities or archetypes?
+
+In my LSD journey, I had relatively few encounters with individual entities. Most experiences involved dissolving into layers of being rather than meeting specific beings. The intelligence I encountered never took on physical or culturally specific forms; it was an unmistakable presence that communicated with clarity.
+
+I found it fascinating when you described a "Circle of Learning"—an experiential dialogue with this consciousness. Can you share more about that experience and the training involved?
+
+This circle represented a dialogic process where I could ask questions and receive answers through orchestrated experiences. The intelligence seemed delighted to reveal what it had accomplished over billions of years and offered extraordinary insights into the cosmos and creation. 
+
+Your revelations about reincarnation as an evolutionary impulse show that this process benefits not just individuals but humanity as a whole. It begs the question of how individual experiences contribute to collective growth.
+
+Reincarnation acts as evolution’s higher octave, where individual learning is folded into the collective. It’s not just individuals reincarnating; entire humanity is evolving together, experiencing growth and developing new capacities over time. Through my sessions, I invited the opportunity to help with this collective transformation, mirroring what any compassionate person would do for their loved ones.
+
+As you processed the pain of humanity, you didn't carry trauma but rather emerged into ecstatic experiences with insights into the collective healing process. What do you believe is the key mechanism to clear this pain away?
+
+What we experience in sessions mirrors what happens in life, only intensified. The key is entering a conscious rapport with suffering, allowing it to flow through us. This flowing creates reconciliation and healing. It's about acknowledging the existence of pain, sitting with it, and letting it come into our awareness without resistance. 
+
+Your insights affirm that there are many who carry the weight of suffering in their lives for the sake of the collective. It seems this process of conscious rapport applies not only on a personal scale but also on a universal one. 
+
+Indeed, I believe that many who face suffering might be taking on collective pain in their lives. They serve as vessels for change, aiming to uplift the collective consciousness. This principle works both on psychedelic and everyday life levels.
+
+Your exploration of the Council of Elders touches upon the idea that preparing for this deeper knowledge necessitates explicit training. Could you share your experience regarding this preparation?
+
+Chris Bache: When you start to go into dialogue with this infinite consciousness that can show you so many things at so many levels, you truly have to train yourself to stay cognitively coherent when you're working at such deep levels of consciousness. It happens spontaneously in your work, but in this particular session, I felt I needed training to make it better. I was in this council of elders, surrounded by beings that I didn't see but could feel. I could know anything I wanted if I could endure the consequences of knowing it. So I would put forward a question, and the elders would take it, gathering and chanting. The deep, guttural chanting of the gyota monks in Tibet filled the space. As they chanted, they would release this knowing at me. If I was centered when this knowing hit me, it sent me into an orgy of cognitive ecstasy, revealing so much. But if I wasn't centered and allowed distractions, it would shatter me. Many times, I was shattered and sent into cognitive ecstasy. The point was to train myself to reach this level of consciousness and learn how to receive conscious information from different dimensions. It's essential to stay awake and coherent in levels of consciousness beyond any you've ever experienced, and it can be done. Shamanic cultures and meditation masters are experts at entering these states; it’s the same dynamic within a psychedelic context. 
+
+Interviewer: Has this training stayed with you, and is there any application for it in normal consciousness?
+
+Chris Bache: I hope so. I don't know who’s going to be releasing such ecstatic knowledge at you in ordinary consciousness, but there are practices I’ve received from these experiences that I’m supposed to do every day after the sessions. If we use them well and stay grounded, those practices act as strange attractors, accelerating our evolutionary development. I trust that the training in focusing my consciousness is benefiting me outside of the sessions. Ultimately, I think the proof is in the pudding when I die. Buddhism and all spiritual practice train you for what will happen when you die. I believe psychedelic sessions can prepare you for entering states of consciousness waiting for you at that time, indicating a strong correlation.
+
+Interviewer: Do you have an idea of what level we go to when we die, considering you've explored so many dimensions?
+
+Chris Bache: I've had many experiences helping me understand death in terms of the Eastern concept of the Bardo—the multiple layers of reality you enter when you die. The idea is that you don't go to a single place but to a complex domain with many layers. The level you reach reflects your present spiritual development and ability to stay conscious. All these levels are part of the Bardo, part of the cyclic nature of existence. It’s possible to penetrate through the Bardo into a reality some call extra Samsara. I would place the diamond luminosity experiences at this extra-samsaric reality. Where one goes when they die depends on the homework one has done in life.
+
+Interviewer: Absolutely, and speaking of dying, you have experienced death many times.
+
+Chris Bache: One thing I’ve learned is that being afraid of death is a sadness. I'm not afraid of dying; in fact, I look forward to it. I'm not eager for the act itself, but I'm confident about what will happen afterward. I've crossed that line multiple times in my years of work, which makes me comfortable with the transition. I believe we should all feel an ecstatic expectation about what lies ahead. If we fear death, then our world is upside down. The hard work occurs in this life. The afterlife is much brighter than the Hollywood portrayals of shadows and darkness; it's more benign, intelligent, and compassionate.
+
+Interviewer: The first time you died, was there fear? Did the subsequent experiences become easier?
+
+Chris Bache: The essence of dying involves losing complete control. You lose everything: your identity, knowledge, and sense of self. That’s frightening. However, after multiple experiences, you learn to trust the process. You realize that even when you dissolve completely, an essence of you—an improved version—awakens in a different reality filled with unexpected joy. You learn there is no true death. The form of your life may dissolve, but your essence is indestructible, so you cannot die. While each death can still be terrifying, it becomes less so with experience.
+
+Interviewer: I've had that terrifying experience too. It is shocking when everything feels like it’s dissipating.
+
+Chris Bache: Yes, it’s terrifying. But each time you go through it, you get used to it a little more. The fear quality changes to a more informed understanding. Ultimately, death can become your best friend because the most profound ecstatic experiences follow those deep death experiences. Once you comprehend that levels of dying are followed by levels of ecstatic revelation, you welcome death. You might even create conditions in your sessions where you invite the turbulence associated with death, knowing what awaits on the other side.
+
+Interviewer: In your sessions, you were shown the master plan for humanity. Can you speak about that?
+
+Chris Bache: This was a real surprise for me. When I began this work between the ages of 30 and 50, I wasn't concerned about humanity’s fate or the ecological crisis, but by sessions 22 and 23, the theme of human evolution emerged repeatedly, continuing to session 70. It was a consistent story indicating that humanity was approaching a significant breakthrough—a spiritual awakening for the entire species. This was catalyzing us into accelerated development.
+
+Interviewer: It must have felt revelatory.
+
+Chris Bache: Yes, particularly because back then, it was before the global ecological crisis was top of mind. The awareness came not only in psychedelic states but also arises in deep contemplative practices. Indigenous people have long warned us about our actions toward the planet. 
+
+Interviewer: The process described in your book parallels individual death, where everything familiar crumbles, creating chaos before new insights emerge. 
+
+Chris Bache: Exactly. Individuals transitioning before the collective can inspire change. Those who have let go of barriers between races and cultures will become catalysts. The collective crisis is going to last and affect many, stimulating the unconscious. I believe this pressurization will lead to unexpected insights and transformative knowledge arising from our potential.
+
+Interviewer: It sounds scary but exciting too.
+
+Chris Bache: Like birthing a child. The gestation period is long, but labor is an intense, short period. Labor demands energy, just as our species is gestating this future human across generations. What we come into will be meaningful. 
+
+Interviewer: I agree. We must do the work now for our future selves.
+
+Chris Bache: It’s crucial to understand the future human we're becoming. Without awareness, the transformations can lead to despair. Instead, we should see this as a spiritual and psycho-spiritual transformation in which we are actively participating.
+
+Interviewer: Can you describe what this future human looks like?
+
+Chris Bache: I can share my experience of touching this future human concept. I had profound insights during my sessions, culminating in session 70. This future human is a magnificent being, possessing an enlightened mind connected to the universe's intelligence and a heart deeply attuned to others and the planet. There’s a deep appreciation for what we've harmed and a commitment to restoration. Essentially, we will be evolving into a species of teachers and enlightened beings, which aligns with the lessons of great religious figures throughout history.
+
+Interviewer: To have a planet full of these aware individuals would be extraordinary.
+
+Chris Bache: We are cleaning our psychic basements, clearing the collective unconscious. As we transform, we can create consciously, moving away from unconscious reactions to intentional creativity. 
+
+Interviewer: Choices play a pivotal role, don’t they?
+
+Chris Bache: Yes. The universe responds to our choices, and through learning, we become more aware of the interconnectedness of our actions. Our choices begin to enhance the well-being of others rather than acting at their expense, establishing beneficial feedback loops in our lives.
+
+Interviewer: It feels good to uplift others.
+
+Chris Bache: Absolutely. Kindness, courage, and generosity feel rewarding. Making the right choices can be challenging, but those acts ultimately guide us in the right direction.
+
+Interviewer: Thank you for sharing your insights today. I feel much more hopeful.
+
+Chris Bache: It's been a pleasure. What's important is not just my experiences but that those insights are available to us all. I'm grateful for the opportunity to share this with you and your audience.

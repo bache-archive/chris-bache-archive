@@ -1,15 +1,26 @@
 ---
-archival_title: "Prof. Dr. Christopher Bache about his work and consciousness"
-channel: "ECR - Existential Consciousness Research Institute"
-published: 2020-01-10
-youtube_id: "QaBoLNV4FQI"
-transcriber: "gpt5 model by OpenAI (edited from Otter.ai first-pass transcript)"
-transcription_date: 2025-09-30
-license: "CC0 1.0 Universal (Public Domain Dedication)"
-speakers: ["Chris Bache"]
+title: Prof. Dr. Christopher Bache about his work and consciousness
+slug: 2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness
+date: 2020-01-10
+type: lecture
+channel: ECR - Existential Consciousness Research Institute
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: gpt5 model by OpenAI (edited from Otter.ai first-pass transcript)
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.srt
 ---
-<!-- diarist_sha1:57b1335925ce98e4b966fca3200c0d4179820a50 -->
----
+
 Chris Bache: 
 I have an understanding of the life process from studying cases of small children who have spontaneous memories of their most immediate former life. We have hundreds of these cases documented by Dr. Ian Stevenson at the University of Virginia, and I’ve also studied the work of child psychotherapists who work with children and adult psychotherapists who work with adults, taking people back to the source of their pain, recovering early trauma, and seeing the healing this produces in their present life. Over time, we’ve accumulated enormous evidence that we reincarnate—many, many times. So then the question is: so what? What are the implications for how we live and understand our lives and relationships if reincarnation is a fact of life? My understanding is that when we die, we return to spirit and to soul, into a larger intelligence. Then we consciously choose the circumstances of our next incarnation. We get small and focused in experience, and then we die and expand into the larger arena again. We come back and we learn. It’s like college: you choose your courses, focus for the semester, and at the end you step back and say, “Ah, that’s over—how nice,” and then choose another round. Going back and forth, lifetime by lifetime—over hundreds, thousands, tens of thousands of years—we grow. We become more than we were before.
 

@@ -1,29 +1,26 @@
 ---
-archival_title: Contemplating Reincarnation (Part 1)
-
+title: Contemplating Reincarnation (Part 1)
+slug: 2021-04-01-contemplating-reincarnation-part-1
+date: 2021-04-01
+type: lecture
 channel: Gene Keys
-
-recorded: 2021-04-01
-
-published: 2021-04-01
-
-youtube_id: jVDndxA6aZo
-
-speakers:
-
-- RICHARD RUDD
-
-- CHRIS BACHE
-
-transcriber: gpt5 model by OpenAI
-
-transcription_date: 2025-08-15
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Richard Rudd"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: gpt5 model by OpenAI
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2021-04-01-contemplating-reincarnation-part-1.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2021-04-01-contemplating-reincarnation-part-1.srt
 ---
-<!-- diarist_sha1:465f77b9326444b2cb60e9125cecfb2175d30e33 -->
----
+
 Richard Rudd: 
 Welcome, everyone, to a series of talks I’m doing here with my friend Chris Bache. We’re going to be discussing a subject we’re both really interested in and fascinated by: rebirth and everything that goes along with it. You might also call it reincarnation, because that’s part of the story. This began because I read a wonderful book by Chris, LSD and the Mind of the Universe, and it triggered a real recognition in me. Since I’m a teacher of spiritual matters and the founder of a system called the Gene Keys, that resonance prompted me to reach out via email to this amazing man. You never know whether you’ll hear back in those instances, but Chris very kindly did, and we started a series of dialogues. We realized we really enjoyed having conversations together, so that’s why we’re here. We’ll explore this subject in several sessions. Today we’ll begin with some introductory concepts and basics and see where it leads. I hope you enjoy it—I’m very much looking forward to it.
 

@@ -1,9 +1,25 @@
 ---
-diarist_sha1: 77b0b0cabe4060ce6f47af0e0a0899202dcedd7c
+title: Chris Bache — LSD and the Mind of the Universe
+slug: 2022-08-21-chris-bache-lsd-and-the-mind-of-the-universe
+date: 2022-08-21
+type: lecture
+channel: Vancouver IONS Community Group
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2022-08-21-chris-bache-lsd-and-the-mind-of-the-universe.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2022-08-21-chris-bache-lsd-and-the-mind-of-the-universe.srt
 ---
-<!-- diarist_sha1:77b0b0cabe4060ce6f47af0e0a0899202dcedd7c -->
----
----
+
 **Heather Tischbein: ** Thank you, Daddy. I'm just overflowing with joy to be able to share my, not really friendship, but my acquaintanceship with Chris, with my IONS family. I met Chris 20 years ago through the Holotropic Breathwork network and Stan Grof, and I read his book back then, *Dark Night, Early Dawn: Steps to a Deep Ecology of the Mind*, and got to participate with him in person in a workshop. So that was 20 years ago, and when his new book, *LSD and the Mind of the Universe*, was advertised on the Shift Network with the seven-week seminar, I immediately signed up for that and read the book and participated in that seven-week program. In the intervening 20 years, I had a health crisis and spent a couple of days in a coma off-planet, which I actually remember that experience, and what Chris describes as kind of the overarching thematic energy of the mind of the universe is exactly where I was and what I experienced when I was off-planet and on life support. Chris's work has had an impact on my life around understanding who I am as a human being on planet Earth, as both a part and the whole simultaneously. And I can't even put into words the help it's been in helping me come through, really resolving and appreciating. I know this might sound weird, but the gift of early childhood sexual trauma. And, but more importantly than all of this deepening of understanding has been my felt experience of genuine comfort around when in his presence and in the worldview that he puts forth in this latest book, I just feel so much love and comfort for Chris Bache in the world. So it's with immense gratitude that I welcome Chris to my IONS family here in southwest Washington and beyond.
 
 **Chris Bache: ** Well, thank you very much, Heather, and thank you everybody for inviting me here and letting me spend this time with you. So let's get into it. We'll see where we go. We have this topic we're looking at today, the birth of the future human, is a huge topic, so we're going to have to trim it a little bit and shape it, but we're going to dig into it. I'd like to jump into it and see how far we can actually go into the center of this issue. So first, I'm going to share my screen and throw this PowerPoint up here. Okay, all right, and this is coming through for everybody. All right. Well, it will come as no surprise to anyone in this group, but we are a planet in crisis. Everybody knows the list of challenges that we are currently facing. We are confronting an escalating climate crisis, growing droughts and forest fires, more flooding and stronger hurricanes. Our reservoirs are drying up and water tables are collapsing. Rising sea levels—research is now showing us that we have already baked in by 2050 a 12-foot rise in the oceans, and we know from projections what that means in terms of changing coastlines and eco-refugees. We are facing the worst species extinction since the extinction of the dinosaurs. We're dealing with fished-out oceans, extreme economic inequality, unstable interlocked national economies, and weapons so powerful we dare not use them. We are, in essence, a world on fire. We are entering a time of planetary emergency. 

@@ -1,22 +1,27 @@
 ---
-archival_title: Contemplating Reincarnation — Part 3
-
+title: Contemplating Reincarnation – Part 3
+slug: 2021-03-16-contemplating-reincarnation-part-3
+date: 2021-03-27
+type: lecture
 channel: Gene Keys
-
-recorded: 2021-03-16
-
-published: 2021-03-27
-
-youtube_id: 5Lus4MLlzbA
-transcriber: gpt5 model by OpenAI
-
-transcription_date: 2025-08-15
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Richard Rudd"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: gpt5 model by OpenAI
+  recorded: 2021-03-16
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2021-03-16-contemplating-reincarnation-part-3.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2021-03-16-contemplating-reincarnation-part-3.srt
 ---
-<!-- diarist_sha1:79c16e8856bf40df7f92de34544b4061cf16a449 -->
----
+
 Chris Bache: 
 Well, here we are again for our third discussion. We want to give this topic limitless time, because we now want to bridge into the deeper questions surrounding reincarnation: Where is reincarnation taking humanity? How is this constant learning and recycling creating new platforms in our incarnational experience? Where is it going? What might the deep future look like—and, most importantly, how might that understanding shift how we engage our life right here, right now?
 

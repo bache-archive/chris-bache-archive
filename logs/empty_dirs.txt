@@ -1,0 +1,177 @@
+./patches/2025-10-31-bache-youtube/outputs
+./patches/2025-10-31-bache-youtube-early/logs
+./.venv/include/python3.12
+./chris-bache-archive.mirror/objects/info
+./chris-bache-archive.mirror/refs/heads
+./chris-bache-archive.mirror/refs/tags
+./sources/captions/_tmp
+./build/archive-v3.1/build/archive-v3.1
+./build/site/docs
+./build/patch-preview/2025-11-01-bache-youtube/diarist
+./build/patch-preview/2025-10-31-bache-youtube/captions/_tmp
+./build/patch-preview/2025-10-31-bache-youtube/downloads/video
+./downloads/_quarantine/2025-11-01-221630-audio/JDG Radio
+./downloads/_quarantine/2025-11-01-221630-audio/Comics Corp
+./downloads/_quarantine/2025-11-01-221630-audio/Future Human- The Series
+./downloads/_quarantine/2025-11-01-221630-audio/Psychedelic Therapy Frontiers
+./downloads/_quarantine/2025-11-01-221630-audio/Criminal Discourse Podcast
+./downloads/_quarantine/2025-11-01-221630-audio/PIFFFcast - Le podcast du cinéma de genre
+./downloads/_quarantine/2025-11-01-221630-audio/Thinking Ahead with Carter Phipps
+./downloads/_quarantine/2025-11-01-221630-audio/Do Explain with Christofer Lövgren
+./downloads/_quarantine/2025-11-01-221630-audio/Passion Harvest
+./downloads/_quarantine/2025-11-01-221630-audio/tributaries radio
+./downloads/_quarantine/2025-11-01-221630-audio/Almost 30
+./downloads/_quarantine/2025-11-01-221630-audio/UNVEILED- exploring psychedelics and spirituality
+./downloads/_quarantine/2025-11-01-221630-audio/The Change Order
+./downloads/_quarantine/2025-11-01-221630-audio/The Weekend University
+./downloads/_quarantine/2025-11-01-221630-audio/Pop News
+./downloads/_quarantine/2025-11-01-221630-audio/L'artiste anonyme
+./downloads/_quarantine/2025-11-01-221630-audio/What is Going OM with Sandie Sedgbeer
+./downloads/_quarantine/2025-11-01-221630-audio/Adventures Through The Mind
+./downloads/_quarantine/2025-11-01-221630-audio/Regina Meredith
+./downloads/_quarantine/2025-11-01-221630-audio/Absolument fabuleuses
+./downloads/_quarantine/2025-11-01-221630-audio/The A. Casey Podcast
+./downloads/_quarantine/2025-11-01-221630-audio/Sounds True- Insights at the Edge
+./downloads/_quarantine/2025-11-01-221630-audio/BS Free MD with Drs. May and Tim Hindmarsh - Medicine, Life, Family, Physician, Doctor, Healthcare, Medical History
+./downloads/_quarantine/2025-11-01-221630-audio/POURPARLERS
+./downloads/_quarantine/2025-11-01-221630-audio/The East-West Psychology Podcast
+./downloads/_quarantine/2025-11-01-221630-audio/The Future of Human Experience
+./downloads/_quarantine/2025-11-01-221630-audio/Owned and Operated - A Plumbing, Electrical, and HVAC Business Growth Podcast
+./downloads/_quarantine/2025-11-01-221630-audio/NASCAR - Splash & Go
+./downloads/_quarantine/2025-11-01-221630-audio/The Human Experience Podcast
+./downloads/_quarantine/2025-11-01-221630-audio/Keep Going
+./downloads/_quarantine/2025-11-01-221630-audio/Connecting with Coincidence 2.0 with Bernard Beitman, MD
+./downloads/_quarantine/2025-11-01-221630-audio/The Conscious Consultant Hour
+./downloads/_quarantine/2025-11-01-221630-audio/Josh & Gabby Deep Dives
+./downloads/_quarantine/2025-11-01-221630-audio/The Ground Podcast
+./downloads/_quarantine/2025-11-01-221630-audio/Magic of the Spheres Podcast
+./downloads/_quarantine/2025-11-01-221630-audio/Edge of Mind Podcast
+./downloads/_quarantine/2025-11-01-221630-audio/Rebel Spirit Radio
+./downloads/_quarantine/2025-11-01-221630-audio/MEDspiration
+./downloads/_quarantine/2025-11-01-221630-audio/Phocéens en Amérique
+./downloads/_quarantine/2025-11-01-221630-audio/The Rut Reset Podcast
+./downloads/_quarantine/2025-11-01-221630-audio/THIRD EYE DROPS
+./downloads/_quarantine/2025-11-01-221630-audio/Lead Gen Leaders
+./downloads/_quarantine/2025-11-01-221630-audio/On Grief- A Podcast about Death
+./downloads/_quarantine/2025-11-01-221630-audio/Nashville Restaurant Radio
+./downloads/_quarantine/2025-11-01-221630-audio/Buddha at the Gas Pump
+./downloads/_quarantine/2025-11-01-221630-audio/The Ultimate Companion for Lovers of Free Audiobook
+./downloads/_quarantine/2025-11-01-221630-audio/MonCiné Balado
+./downloads/_quarantine/2025-11-01-221630-audio/Le Podcast de Fanny et Marie-Eve
+./downloads/_quarantine/2025-11-01-221630-audio/Board Game Bar Podcast
+./downloads/_quarantine/2025-11-01-221630-audio/January Jones sharing Success Stories
+./downloads/_quarantine/2025-11-01-221630-audio/And Then It Hit Me with Cory Allen
+./downloads/_quarantine/2025-11-01-221630-audio/Time Sport
+./downloads/_quarantine/2025-11-01-221630-audio/Future Human Visionaries
+./downloads/_quarantine/2025-11-01-221630-audio/Mike sur NRJ
+./downloads/_quarantine/2025-11-01-221630-audio/La Critique de Yougi
+./downloads/_quarantine/2025-11-01-221630-audio/Talk Is Jericho
+./downloads/_quarantine/2025-11-01-221630-audio/The Sacred Speaks
+./downloads/_quarantine/2025-11-01-221630-audio/Think Act Be Podcast
+./downloads/_quarantine/2025-11-01-221630-audio/THE MINDFULNESS EXPERIENCE
+./downloads/_quarantine/2025-11-01-221630-audio/StephenGray Vision
+./downloads/_quarantine/2025-11-01-221630-audio/January Jones Sharing Senior Success
+./downloads/_quarantine/2025-11-01-221630-audio/Listen While You Work, and Pretend to Be Productive With Full Audiobook
+./downloads/_quarantine/2025-11-01-221630-audio/Connecting Minds
+./downloads/_quarantine/2025-11-01-221630-audio/Mediocre from Minnesota
+./downloads/_quarantine/2025-11-01-221630-audio/Mind Body Health & Politics
+./downloads/_quarantine/2025-11-01-221630-audio/Juste Parler Ciné
+./downloads/_quarantine/2025-11-01-221630-audio/Mirage
+./downloads/_quarantine/2025-11-01-221630-audio/TTC PODCAST
+./downloads/_quarantine/2025-11-01-221630-audio/Radio Balances
+./downloads/_quarantine/2025-11-01-221630-audio/working
+./downloads/_quarantine/2025-11-01-221630-audio/Earth Ancients
+./downloads/_quarantine/2025-11-01-221630-audio/Graffiti cinéma
+./downloads/_quarantine/2025-11-01-221630-audio/Leadershipedelics
+./downloads/_quarantine/2025-11-01-221630-audio/Raptors Over Everything
+./downloads/_quarantine/2025-11-01-221630-audio/The No BS Spiritual Book Club with Sandie Sedgbeer
+./downloads/_quarantine/2025-11-01-221630-audio/Portals of Perception
+./downloads/_quarantine/2025-11-01-221630-audio/Ultra Mental
+./downloads/_quarantine/2025-11-01-221630-audio/Get Hooked On A Vivid Full Audiobook On Your Commute.
+./downloads/_quarantine/2025-11-01-221630-audio/KPFA - Bay Native Circle
+./downloads/_quarantine/2025-11-01-221630-audio/SiebenMeilenMarken
+./downloads/_quarantine/2025-11-01-221630-audio/Magick Works, by The Magical Egypt Documentary Series
+./downloads/_quarantine/2025-11-01-221630-audio/Sagas
+./downloads/_quarantine/2025-11-01-221630-audio/BuiltBy
+./downloads/_quarantine/2025-11-01-221630-audio/The Tim Faller Show
+./downloads/_quarantine/2025-11-01-221630-audio/Buddhist Studies Footnotes
+./downloads/_quarantine/2025-11-01-221630-audio/The Dr Julie Show- All Things Connected
+./downloads/_quarantine/2025-11-01-221630-audio/L'Horreur Du Dimanche
+./downloads/_quarantine/2025-11-01-221630-audio/That Tech Show
+./downloads/_quarantine/2025-11-01-221630-audio/Future Human +
+./downloads/_quarantine/2025-11-01-221630-audio/The Sedated Sundays Podcast
+./downloads/_quarantine/2025-11-01-221630-audio/The Level 10 Contractor Daily Podcast
+./downloads/_quarantine/2025-11-01-221630-audio/CIIS Public Programs
+./downloads/_quarantine/2025-11-01-221630-audio/No BS Spiritual Book Club
+./downloads/_quarantine/2025-11-01-221630-audio/Real Humans
+./downloads/_quarantine/2025-11-01-221630-audio/Le Crachoir
+./downloads/_quarantine/2025-11-01-221630-audio/Multi-Realitäten
+./downloads/_quarantine/2025-11-01-221630-audio/Côté Sombre
+./downloads/_quarantine/2025-11-01-221630-audio/Med It Through
+./downloads/_quarantine/2025-11-01-221630-audio/Savor An Addictive Full Audiobook And Elevate Your Mindset.
+./downloads/_quarantine/2025-11-01-221630-audio/DOLCE VITA BY... LAURENT LE PAPE -  SAISON 4 - LE PODCAST LIFE STYLE EN MODE CHILL
+./downloads/_quarantine/2025-11-01-221630-audio/Deep Transformation
+./downloads/_quarantine/2025-11-01-221630-audio/End of the Road Podcast (Immanence = Transcendence)
+./downloads/_quarantine/2025-11-01-221630-audio/The Future Humans Podcast
+./downloads/_quarantine/2025-11-01-221630-audio/Get Yourself Optimized
+./downloads/_quarantine/2025-11-01-221630-audio/All Bones Considered- Laurel Hill Stories
+./downloads/_quarantine/2025-11-01-221630-audio/Mayim Bialik's Breakdown
+./downloads/_quarantine/2025-11-01-221630-audio/On a tout vu
+./downloads/_quarantine/2025-11-01-221630-audio/Future Human
+./downloads/_quarantine/2025-11-01-221630-audio/Legalise Freedom Dot Com
+./downloads/_quarantine/2025-11-01-221630-audio/Keski d'vient, le Podcast
+./downloads/_quarantine/2025-11-01-221630-audio/Pathfinders Podcast
+./downloads/_quarantine/2025-11-01-221630-audio/Collective Insights
+./downloads/_quarantine/2025-11-01-221630-audio/MiniBar Radio - Le Podcast Pets et Amour qui décapsule la Pop Culture
+./downloads/_quarantine/2025-11-01-221630-audio/Origins- Holistic Learning & Regenerative Practice by Originateve
+./downloads/_quarantine/2025-11-01-221630-audio/Imaginal Inspirations
+./downloads/_quarantine/2025-11-01-221630-audio/Jeu, Set & Podcast
+./downloads/_quarantine/2025-11-01-221630-audio/INbodied Life with Lauren Taus
+./downloads/_quarantine/2025-11-01-221630-audio/Le grand studio RTL humour
+./downloads/_quarantine/2025-11-01-221630-audio/The Neha Anwar Podcast
+./downloads/_quarantine/2025-11-01-221630-audio/Les filles du lunch
+./downloads/_quarantine/2025-11-01-221630-audio/Reach Truth Podcast
+./downloads/_quarantine/2025-11-01-221630-audio/Nine Questions with Eric Oliver
+./downloads/_quarantine/2025-11-01-221630-audio/White Shores with Theresa Cheung
+./downloads/_quarantine/2025-11-01-221630-audio/There and Back Again & Again
+./downloads/_quarantine/2025-11-01-221630-audio/First Pitch - le podcast MLB de The Playoffs
+./downloads/_quarantine/2025-11-01-221630-audio/Into The Wind
+./downloads/_quarantine/2025-11-01-221630-audio/Génération Do It Yourself
+./downloads/_quarantine/2025-11-01-221630-audio/Banyen Books ~ Branches of Wisdom
+./downloads/_quarantine/2025-11-01-221630-audio/Natural Born Alchemist
+./downloads/_quarantine/2025-11-01-221630-audio/High Kick dans ton Podcast
+./downloads/_quarantine/2025-11-01-221630-audio/Wisdom from the Earth and Sky with Heather Ensworth, Ph.D.
+./downloads/_quarantine/2025-11-01-221630-audio/Sous Entendu
+./downloads/_quarantine/2025-11-01-221630-audio/Living Mirrors with Dr. James Cooke
+./downloads/_quarantine/2025-11-01-221630-audio/Soulification - The Liberation of your Soul
+./downloads/_quarantine/2025-11-01-221630-audio/The Naked Guru Experience
+./downloads/_quarantine/2025-11-01-221630-audio/Les chroniques de Chicago - JDR Vampire
+./downloads/_quarantine/2025-11-01-221630-audio/Mindways
+./downloads/_quarantine/2025-11-01-221630-audio/J'adore ça - Cinéma, séries, jeux et science
+./downloads/_quarantine/2025-11-01-221630-audio/On Belief- A Podcast About Cults
+./downloads/_quarantine/2025-11-01-221630-audio/Psychedelics Today
+./downloads/_quarantine/2025-11-01-221630-audio/Escape To Your Ears To A Vivid Full Audiobook.
+./downloads/_quarantine/2025-11-01-221630-audio/What are we doing here
+./downloads/_quarantine/2025-11-01-221630-audio/Performance Initiative Podcast
+./downloads/_quarantine/2025-11-01-221630-audio/Le SpoilCast
+./downloads/_quarantine/2025-11-01-221630-audio/Luminous- A Podcast about Psychedelics from To The Best Of Our Knowledge
+./downloads/_quarantine/2025-11-01-221630-audio/Accidental Gods
+./downloads/_quarantine/2025-11-01-221630-audio/The Freke Show
+./downloads/_quarantine/2025-11-01-221630-audio/Stuff To Blow Your Mind
+./downloads/_quarantine/2025-11-01-221630-audio/Unstress with Dr Ron Ehrlich
+./downloads/_quarantine/2025-11-01-221630-audio/Mountain Whispers
+./downloads/_quarantine/2025-11-01-221630-audio/Tales from the Truth Seekers
+./downloads/_quarantine/2025-11-01-221630-audio/New Thinking Allowed Audio Podcast
+./downloads/_quarantine/2025-11-01-221630-audio/Cultural High
+./downloads/_quarantine/2025-11-01-221630-audio/Éteindez la lumière
+./downloads/_quarantine/2025-11-01-221630-audio/3615 Éthique
+./downloads/_quarantine/2025-11-01-221630-audio/The Awakened Way
+./downloads/_quarantine/2025-11-01-221630-audio/Always on the GROW with Manny Vargas
+./downloads/_quarantine/2025-11-01-221630-audio/Mon Patrimoine
+./downloads/_quarantine/2025-11-01-221630-audio/Matt D’Elia Is Confused
+./downloads/_quarantine/2025-11-01-221630-audio/KPFA - Making Contact
+./downloads/_quarantine/2025-11-01-221630-audio/Pourquoi
+./tmp
+./backups/sources_json
+./backups/orphan-audio-20251101
+./reports/quote_packs/2025-10-22.bak

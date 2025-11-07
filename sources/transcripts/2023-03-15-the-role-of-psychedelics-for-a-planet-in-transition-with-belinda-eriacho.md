@@ -1,9 +1,25 @@
 ---
-diarist_sha1: ee6e116cbbbac0d623adf3756ace0bf6d0ea4834
+title: The Role of Psychedelics for a Planet in Transition — with Belinda Eriacho and Chris Bache
+slug: 2023-03-15-the-role-of-psychedelics-for-a-planet-in-transition-with-belinda-eriacho
+date: 2023-03-15
+type: interview
+channel: Spirit Plant Medicine
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-03-15-the-role-of-psychedelics-for-a-planet-in-transition-with-belinda-eriacho.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-03-15-the-role-of-psychedelics-for-a-planet-in-transition-with-belinda-eriacho.srt
 ---
-<!-- diarist_sha1:ee6e116cbbbac0d623adf3756ace0bf6d0ea4834 -->
----
----
+
 **Marc Caron: ** Hello everyone, and welcome to this episode of Spirit Plant Medicine Presents. My name is Marc Caron. I'm happy to share that today we're having a great conversation with a great group of guests in regards to Steven Gray's new book, *How Psychedelics Can Help Save the World,* and today, we're going to answer the question, what is the role of psychedelics for a planet in transition? So our first guest I'll introduce is my friend and cohort in the spirit plant medicine space, Mr. Steven Gray. Steven has been traveling a spiritual and medicine path for over 50 years. Now he's a writer, educator, conference organizer, speaker, and he's also a facilitator for cannabis ceremonies. Now, Steven is the author of three books, including the popular *Cannabis and Spirituality: An Explorer's Guide to the Ancient Plant Spirit Allies,* and just recently, as I already mentioned, *How Psychedelics Can Help Save the World: Visionary and Indigenous Voices Speak Out.* Steven, always a pleasure to see you.
 
 **Steven Gray: ** Thanks, Marc, yeah, looking forward to our conversation today.

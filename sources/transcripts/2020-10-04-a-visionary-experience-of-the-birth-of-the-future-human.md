@@ -1,37 +1,26 @@
 ---
-archival_title: A Visionary Experience of the Birth of the Future Human
-
+title: A Visionary Experience of the Birth of the Future Human
+slug: 2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human
+date: 2020-10-04
+type: lecture
 channel: Cambridge Consciousness Forum
-
-recorded: 2020-10-04
-
-published: 2020-10-04
-
-youtube_id: -xbx5HnOFmA
-
-speakers:
-
-- CHRIS BACHE
-
-- JANET
-
-- JASON
-
-- KATIE CARR
-
-- JAMIE MILLS
-
-- CLAUDIA SCHWARTZ PLATSCH
-
-Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
-
-transcription_date: 2025-08-04
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Jeannet Weurman"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.srt
 ---
-<!-- diarist_sha1:93f002cbb0b5065d69ad599b8358992a56865441 -->
----
+
 Chris Bache: 
 We are a planet in crisis. This is very clear. Everyone knows the list of challenges we’re facing: expanding world population, unchecked industrial pollution, escalating climate disruptions, increasing drought with the associated forest fires, warmer oceans with stronger hurricanes, rising sea levels, collapsing water tables, species extinction, fished-out oceans, extreme economic inequality, unprecedented refugee migrations, unstable, interlocked national economies, cities and nations going bankrupt, stockpiled weapons we dare not use—and no end in sight. It’s not an extreme statement to say that we are a planet on fire. Subtract a few from this list or add a few, and cumulatively the list is overwhelming. What I’d like to do today is share a perspective on the world crisis we are entering—and that will continue to deepen in the years ahead—based on the teachings I received during my psychedelic experiences, which I report in LSD in the Mind of the Universe. But first, a little background to set the stage for the visions I’m going to share.
 

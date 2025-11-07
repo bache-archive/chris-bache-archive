@@ -1,22 +1,26 @@
 ---
-archival_title: 2025-03-18 – Psychedelics and the Cosmic Mind
-
+title: Psychedelics and the Cosmic Mind
+slug: 2025-03-18-psychedelics-and-the-cosmic-mind
+date: 2025-03-18
+type: lecture
 channel: New Thinking Allowed
-
-recorded: unknown
-
-published: 2025-03-18
-
-youtube_id: FMgixG6Z0sk
-Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
-
-transcription_date: 2025-07-31
-
-license: CC0 1.0 Universal
-speakers: ["Emmy Vadnais", "Jeffrey Mishlove"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2025-03-18-psychedelics-and-the-cosmic-mind.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2025-03-18-psychedelics-and-the-cosmic-mind.srt
 ---
-<!-- diarist_sha1:3c6c67856b865a80b8fdfa91f50b046c4cad4411 -->
----
+
 Emmy Vadnais: Hello and welcome. I'm Emmy Vadnais, co-host with Jeffrey Mishlove. Our topic today is psychedelics and the cosmic mind with my guest, Chris Bache, professor emeritus in the Department of Philosophy and Religious Studies at Youngstown State University in Ohio, where he taught for 33 years. He is also adjunct faculty at the California Institute of Integral Studies, emeritus fellow at the Institute of Noetic Sciences, and on the advisory council of Grof Legacy Training. Chris is author of four books: Life Cycles: Reincarnation and the Web of Life; Dark Night, Early Dawn; The Living Classroom: Teaching and Collective Consciousness; and LSD and the Mind of the Universe: Diamonds from Heaven. Chris is joining us from just north of Asheville in Weaverville, North Carolina. Welcome, Chris. It’s a great joy to have you with me on New Thinking Allowed today.
 
 Chris Bache: Thank you, Emmy. It’s a pleasure to be here.

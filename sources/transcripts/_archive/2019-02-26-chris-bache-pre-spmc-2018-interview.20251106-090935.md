@@ -1,0 +1,122 @@
+---
+diarist_sha1: 23df5764e84e5eadd503490bed6a880bf49489f4
+
+---
+<!-- diarist_sha1:23df5764e84e5eadd503490bed6a880bf49489f4 -->
+Welcome to the Spirit Plant Medicine community here in Vancouver and around the world, and to the Facebook live audience. Today, we have a very special guest, Mr. Chris Bache, who will be one of our great presenters at the upcoming Spirit Plant Medicine Conference. I’m Marc Caron, and I’m thrilled to have Chris with us alongside my co-producer and organizer, Steven Gray. I'll pass it over to Steven to introduce Chris and his work.
+
+**Steven Gray: ** Thank you, Marc. This will be a brief introduction. There’s a bio on the conference website, spiritplantmedicine.com, for anyone who wants more details. Chris is a retired university professor from Youngstown, Ohio, with expertise in religious philosophy. He became interested in the work of Stanislav Grof, a pioneer in LSD therapy. Over a 20-year journey from 1979 to 1999, Chris undertook 73 high-dose LSD sessions, which he documented in his 2000 book, *Dark Night, Early Dawn*, and his forthcoming book, *Diamonds from Heaven*. The latter takes readers through a sequential journey of those sessions. Chris, could you start by telling us what led you to this path and your experience with Stan Grof's work?
+
+**Chris Bache: ** To frame this chronologically, I graduated from grad school in 1978 and began my journey in 1979, finishing in 1999. At that time, Stan Grof had just published his first book, *Realms of the Human Unconscious*, and I—an agnostic—found something profoundly resonant in it. I was convinced that the most important contributions in the field of religious philosophy would come from those with experiential backgrounds, not just intellectual ones. So I embarked on an inner journey to explore consciousness to its limits using the methodology Stan had pioneered. 
+
+Due to the Controlled Substances Act passed in 1970, my work had to be done underground. I learned the methods, studied the literature, and engaged in this work very rigorously over 14 years, averaging about five or six sessions a year. 
+
+**Steven Gray: ** What you experienced is almost unimaginable for most people. I remember joking with friends that your experiences made Terence McKenna’s descriptions seem like a pleasant walk on a Sunday afternoon. Can you share more about the depths you explored during this journey?
+
+**Chris Bache: ** I operated at very high doses. After my first three sessions, I chose to work at what I considered the maximum intensity. I saw my process as an extended course of LSD psychotherapy—more sessions, which allowed me to encounter phenomena beyond what classical therapy offered, as it typically limits participants to three sessions. Looking back, I wouldn’t recommend what I did. The intensity was challenging both physically and psychologically, and I paid a price for that. 
+
+The first two years were spent exploring perinatal consciousness, reliving experiences of birth and death, culminating in an ego-shattering experience. The next two years involved a deeper dive into what I term the 'ocean of suffering,' where I confronted extensive pain within the collective psyche of humanity. This journey wasn't just about my personal healing; it felt like a healing for the collective. 
+
+In later phases of my work, I encountered what I call 'deep time,' where I experienced my entire life as a simultaneous present. Then, I was initiated into cosmic processes, receiving teachings about creation itself. This led me to explore archetypal reality, reincarnation as a species, and ultimately causal reality or non-dual consciousness.
+
+**Marc Caron: ** Could you share what dosage you were working with?
+
+**Chris Bache: ** I was taking between 500 to 600 micrograms. For context, an average recreational dose can be around 100 micrograms, but that varies widely. What I undertook was a very intense regimen, demanding a strong constitution. 
+
+**Steven Gray: ** Given the intense nature of this work, what advice would you have for anyone interested in embarking on a similar path?
+
+**Chris Bache: ** First, never work alone. Always have an experienced sitter who understands these states. Create a safe environment where you have curated music and rules in place. Once those conditions are met, find the courage to trust in the process. This work can lead to intense pain, but through surrender, you can also discover profound healing and transformation. Each session should be taken to its fullest extent—the more thorough you are, the more profound the experience will be.
+
+It's important to note the universal primal fear of non-existence. While the ego may die, individuality in a deeper sense does not. You can experience a rebirth, emerging from the process with a new form of individuality that connects you to a larger existence. 
+
+**Steven Gray: ** The collective aspect of your work is especially fascinating. You’ve mentioned that we might be approaching an environmental collapse leading to a significant transformation, which you’ve called the Great Death. How do you see this unfolding?
+
+**Chris Bache: ** We are facing frightening times. We must choose whether to respond to crises with ego-driven solutions or collective well-being. The choices we make now will shape the future. If we prioritize inclusive solutions, we have a better chance of evolving positively as a society. However, if we revert to narrow viewpoints, it could lead us down a darker path. 
+
+Evolution is driven by the pressure to make better choices. My sessions reveal that humanity is on the brink of a critical awakening. But remember, that process isn't easy. It requires collective accountability and a commitment to higher consciousness.
+
+We are in a labor process, giving birth to a new era of humanity. It’s essential that we navigate this transition with awareness and responsibility. The potential for something extraordinary is emerging from this struggle, but we must work diligently to shape that future positively. 
+
+In essence, while the journey is complex and filled with challenges, it leads us toward a profound evolutionary leap if we choose wisely.
+
+Stephen Gray: That's beautifully said. In spite of the terrifying possibilities, it's incredibly positive because it shows us that there is something available to the species and to all human beings. From there, it almost seems hard to come back to more prosaic specifics. However, you've referenced reincarnation a bit in this conversation. I know you've studied it, written a book about it, and have some interesting thoughts on it. I'm curious about a couple of things here. One is for you to elaborate on your understanding of incarnation. You also discuss ideas that go beyond incarnation, but within that context, I have something specific I've wondered about. I'm going to read you a quote from your book: "If our experience in this life is convoluted and torn by conflicting forces, it is transparently obvious that this is caused by the carryover of exercises from other space-time encounters. What we are is the result of everything we have ever thought." I think many people might interpret that as feeling guilty or at fault for everything they're experiencing now. If someone is living in, say, Bangladesh, and there's just been another flood, while they're a good-hearted person trying to do their best for their family, do they bear some responsibility for their situation in the external world?
+
+Chris Bache: I want to step back for a moment. We’re jumping into really heavy topics, like psychedelics, deep states of consciousness, and the future of humanity. These are substantial issues that deserve careful unfolding. When I taught a course in Transpersonal studies at my university, I spent a third of the semester just looking at the evidence for rebirth. It takes time to unpack all the components and nuances. Reincarnation is one of the oldest philosophies on the planet, and while it shares space with many primitive beliefs, I don't think all those beliefs are deserving. Different theories of reincarnation have varying degrees of sophistication, but the key insight is that we are a learning system. We learn by challenging ourselves, making choices, and inheriting the consequences of those choices. Eventually, we die, and this learning continues. The soul gathers its knowledge, just as the species gathers knowledge from generation to generation.
+
+The process of reincarnation is generally framed around individual karma, focusing on the evolution of the individual. However, we've overly personalized the concept of karma and reincarnation. While the individual story is true—the soul makes choices and grows—there's a collective dynamic as well, influenced by what the species is able to accomplish. One of the hardest things for anyone in any philosophical or spiritual system to confront is suffering, especially the seemingly gratuitous suffering caused by nature or our own actions. There isn't a simple formula to understand suffering; different perspectives can provide various insights.
+
+I believe we generally choose where we incarnate and who we incarnate with, often in conditions that can be debilitatingly painful. If there’s an intelligence to the reincarnational process, it means even instances of profound suffering have a purpose we may not fully understand. Yet if we delve deep into consciousness and uncover meaningful connections from our past lives, we might start to see meaning, even in circumstances that seem incomprehensible. Addressing individual suffering involves different dynamics than understanding collective suffering, particularly generational suffering. We need to bring a much larger perspective to this discussion.
+
+To me, reincarnation is the higher octave of evolution. Through evolution, the universe's creative intelligence propels collective learning forward by evolving the whole species. Through reincarnation, it fosters individual learning. Yet these are intertwined, as the individual experience reflects the species' evolutionary stage. As individuals grow, so too does the species.
+
+Stephen Gray: People are going to have to dive into your work more, especially since you’ll be giving a post-conference talk at the upcoming conference called "The Birth of the Future Human."
+
+Chris Bache: Yes, this will be the first time I've dedicated a public lecture entirely to that topic. I’ve touched on it in my writings, but I haven't really spoken about it publicly. I’m working hard to prepare that presentation.
+
+Marc Caron: I think it's great material drawn from your experiences, which many people haven’t had. I respect your approach in answering questions, knowing they can't simply be answered in a sentence or two. What I appreciate is how your conversation sparks curiosity and inspires people to ask deeper questions about their own consciousness. Your experience is just one of many paths people take to enhance and expand their consciousness. You've certainly been on a hero's journey multiple times, and I admire the courage it takes to find those insights. Thank you for that and for sharing your answers.
+
+Stephen Gray: That almost sounds like an ending. Let's not stop there.
+
+Chris Bache: What I've learned while studying all the literature on reincarnation is that the circumstances we find ourselves in have significance. They're not random; they possess meaning—both individual and collective. How we respond to our circumstances is vital. When we allow our experiences to change us, we grow. Even when we don't understand why things are as they are, our responses shape our growth and that of our species. We're all interconnected, evolving together as a planet.
+
+Stephen Gray: Amazing, isn't it? I have a few more questions. It’s difficult to condense my curiosity into one or two. This next question concerns what has been termed non-embodied intelligences. You've discussed the universe generally, but I don't recall you mentioning any encounters with entities or beings. Many people who work with medicine like Ayahuasca report such experiences. What’s your take on that? Additionally, I was involved with the Native American Church's Peyote ceremonies for years. They passionately claim that sincere prayers, especially when amplified by group intention, can indeed effect change in the material realm. Have you thought much about that? How do you view intelligence manifesting outside of human perception? Is the Earth itself an intelligent being?
+
+Chris Bache: Yes and yes. I believe intention is powerful, particularly collective and focused intention. It can influence our bodies and circumstances, as well as those around us. David Nichols has written about subtle activism, organizing global meditations where large groups focus their consciousness together. Such practices in various traditions, like Guru Yoga in Buddhism, demonstrate the power of collective spiritual exercises. 
+
+My experience suggests that the spiritual universe is densely populated. For every physical being, there might be a spiritual counterpart. In sacred medicine traditions, substances like Peyote and mushrooms can bring us into contact with living entities in the universe. I’ve had enough Ayahuasca and Psilocybin sessions to encounter these entities, and they appear to be interested in aiding us. 
+
+However, I want to clarify that my primary work has been centered on LSD, which has a unique character compared to more established substances. LSD tends to elevate experiences to cosmic levels, stripping away the ego. It’s as if to encounter beings, one must be in a being state themselves. During my LSD sessions, I often dissolved into different strata of consciousness, expanding beyond my individual identity. While different medicines guide us through the landscape of consciousness in various ways, I’m convinced that the entire spiritual realm is conscious and populated with beings.
+
+Stephen Gray: You mentioned that LSD's characteristic might propel you out into the cosmos. At that Transpersonal conference, you shared that coming back after your 20 years of practice became increasingly difficult. You expressed a sense of profound sadness at returning to ordinary existence, to the point where you felt as though you were waiting to die. This flatness in life contrasts greatly with the vibrant insights you’ve experienced. How do you reconcile that?
+
+Chris Bache: This is a great question. I went into this work aiming for enlightenment and to break through the blocks I encountered in meditation. I hoped that high doses of LSD could expedite my progress. However, as I advanced, I discovered that many of my experiences transcended personal enlightenment. I was exploring deeper cosmic truths. Eventually, I reached a point after five years of deep immersion where I had to stop, mainly because my energy was overheating, but also because the heartache of returning became unbearable. 
+
+I had dissolved into such intimate contact with the divine that returning felt like a loss. Ideally, one would maintain that divine intimacy while grounded in physical existence. However, my experiences were temporary immersions, and those immersions led to a profound sadness after I stopped. I felt flattened, waiting for my time to pass, as I missed the deep communion with the divine. In retrospect, I realized I had lost balance between transcendence and immanence—focusing too much on transcendence caused me to neglect the richness of the here and now. Finding that balance took years, requiring a re-commitment to the present life and the joys within it.
+
+Stephen Gray: Do you think you would have come back with the same kind of insights had you not pursued such an intensive path? 
+
+Marc Caron: Many within our community see a real need for integration after these transformative experiences. How did you adjust to re-engage with life instead of waiting to die? 
+
+Chris Bache: Integration is a significant theme emerging in the psychedelic community. As we heal the personal psyche, we have medical models for healthy integration, but deeper experiences challenge our understanding of integration more profoundly. I spent a year writing the last chapter of my book, "Diamonds from Heaven," focusing on this aspect of coming off the mountain.
+
+To regroup, I recommitted to my earthly existence—renewing my contemplative practices and deepening relationships. But a factor that amplified my sadness was society's silence around psychedelics, which forced me to keep my experiences to myself. This sickness of silence split my identity in half. Writing my books allowed me to merge my psychedelic experiences with my professional self, and as I began to share these insights, I felt more grounded and connected to the earth again.
+
+Stephen Gray: It sounds like you’ve really navigated the complexities of integration. 
+
+Chris Bache: Yes, bringing those experiences back into dialogue is essential for a wholesome life.
+
+Stephen Gray: As we wrap up, it seems everyone tuning in may need to pour themselves a drink after absorbing all this, considering how transformative this conversation has been. So let's end on a hopeful note. If all goes well in the transformational journey for our species, what do you envision the future human to be like?
+
+**Chris Bache: ** We've been building the future human for tens of thousands of years. With every incarnation, every repetitive cycle, we’ve been building and activating the form that this human being is. We're learning, stretching, teaching, and growing lifetime by lifetime. Where we're going is that all our former lives are coming together as we become more coherent and integrated. I experienced this in one session where all my former lives began to coalesce, like wrapping string around a kite spool. At a certain point, they fused, resulting in an explosion of energy. When they fused, this diamond light broke out of my chest and threw me into a completely different state of consciousness. 
+
+It was an individual experience, yet it was a form of individual consciousness that was beyond anything I had ever encountered before. It wasn’t simply the sum of those individual lives; it was a higher form of evolutionary expression. I touched on my own personal version of the future human that is evolving. In evolution, we must envision a species that has healed all the pains of history and reconciled divisions among ourselves, our bodies, and our souls. A species that has opened its heart to all beings, not just humans, but all life forms. Our minds will exist in conscious communion with the intelligence of the universe. 
+
+In one of my most challenging sessions, I traveled far into the future, deeper than I ever had before. One of the gems of that journey was experiencing the archetypal form of the future human—what we are in the process of becoming. It’s often said that we’re evolving into a planet of Buddhas, a planet of Christ, a planet of prophets. Imagine the entire species operating at the highest levels of spiritual realization. What kind of species would we be if the entire humanity is enlightened and uplifted spiritually, emotionally, and psychologically? 
+
+This is what we’re in the process of becoming. Once we activate that deep level of our collective being, we can truly begin to create something exciting on this planet, off the planet, and into the galaxy. The intelligence that created this universe thinks on a scale that still boggles our minds. Our planet is just one of many hotbeds where consciousness is being incubated, but it won't remain here; it will migrate and move forward. However, to make this leap, we first need to grow up and come to terms with who we are. We must stop viewing ourselves narrowly as this body and this life, and open ourselves to the full depth and splendor that lies within us.
+
+**Stephen Gray: ** Thank you, that was beautiful. Does that sound like a good place to end?
+
+**Marc Caron: ** It couldn’t have been a better segue after such a deep, inspiring, and thought-provoking conversation. Thank you very much for that, Chris. I look forward to meeting you in person and hearing your talk at the conference.
+
+**Chris Bache: ** I’m very much looking forward to that weekend. I can’t believe the wonderful people you’ve gathered for it.
+
+**Marc Caron: ** It’s growing and getting more popular every day. We’re excited to see what transforms at this year's conference. If you’re interested in continuing this kind of conversation and sharing your insights with more people, I’d be happy to facilitate that with Stephen. There’s so much more we could discuss. I have tons of questions, but I’m left here feeling a bit shell-shocked.
+
+**Chris Bache: ** Once we gather in Vancouver, we can definitely sit down and explore where future conversations might go.
+
+**Stephen Gray: ** Excellent. Do you have any projected publication date for *Diamonds from Heaven*, your forthcoming book?
+
+**Chris Bache: ** It should be out in the second half of 2019; that’s all my publisher has been able to confirm so far. Hopefully, within a year from now, it’ll be available.
+
+**Stephen Gray: ** Thank you very much. I’m really amazed at the work you’ve done and truly grateful. It was a difficult process for you, as you’ve noted, and you’ve accomplished what few are willing to undertake at that level. You’ve brought back gems to share, and that’s wonderful. 
+
+**Chris Bache: ** Thank you. It’s been an honor and a privilege. I’m really looking forward to meeting both of you in person as well. 
+
+**Marc Caron: ** Until we see you in November then. Live your life!
+
+**Chris Bache: ** Awesome. Blessings. 
+
+**Stephen Gray: ** Good day. 
+
+**Marc Caron: ** Thanks again, gentlemen. Until next time. Goodbye!

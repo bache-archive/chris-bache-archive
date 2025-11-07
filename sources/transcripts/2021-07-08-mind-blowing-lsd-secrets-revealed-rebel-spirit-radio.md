@@ -1,22 +1,26 @@
 ---
-archival_title: "MIND-BLOWING LSD Secrets Revealed – Rebel Spirit Radio"
-
-channel: "Rebel Spirit Radio"
-
-recorded: null
-
-published: 2021-07-08
-
-youtube_id: Qfet06ORfwY
-transcriber: "gpt5 model by OpenAI"
-
-transcription_date: 2025-08-15
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Nick Mather"]
+title: MIND-BLOWING LSD Secrets Revealed – Rebel Spirit Radio
+slug: 2021-07-08-mind-blowing-lsd-secrets-revealed-rebel-spirit-radio
+date: 2021-07-08
+type: lecture
+channel: Rebel Spirit Radio
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: gpt5 model by OpenAI
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2021-07-08-mind-blowing-lsd-secrets-revealed-rebel-spirit-radio.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2021-07-08-mind-blowing-lsd-secrets-revealed-rebel-spirit-radio.srt
 ---
-<!-- diarist_sha1:9de5311af239215024a3c0331b2bfe8d05ad53fb -->
----
+
 Nick Mather: 
 Welcome to Rebel Spirit Radio, exploring the frontiers of spirituality, consciousness, the esoteric, and humanity’s sacred relationship with the living Earth. I’m your host, Nick Mather, and in this episode I speak with Dr. Chris Bache, author of LSD and the Mind of the Universe, which details his experience of 73 high-dose LSD sessions taken over the span of two decades. In our conversation, Chris discusses reincarnation, its role in human evolution, the creative intelligence of the universe, our current ecological moment, and more. Please join me for a fascinating conversation with Dr. Chris Bache.
 

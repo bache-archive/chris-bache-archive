@@ -1,20 +1,26 @@
 ---
-archival_title: "2024-06-30 – LSD and the Mind of the Universe – Full Interview (In Reality)"
-
-channel: "In Reality"
-
-published: "2024-06-30"
-
-youtube_id: "wp5V5_Y5rJ8"
-transcriber: "gpt5 model by OpenAI"
-
-transcription_date: "2025-08-19"
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache"]
+title: LSD and the Mind of the Universe – Full Interview (In Reality)
+slug: 2024-06-30-lsd-and-the-mind-of-the-universe-full-interview-in-reality
+date: 2024-06-30
+type: interview
+channel: In Reality
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: gpt5 model by OpenAI
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2024-06-30-lsd-and-the-mind-of-the-universe-full-interview-in-reality.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2024-06-30-lsd-and-the-mind-of-the-universe-full-interview-in-reality.srt
 ---
-<!-- diarist_sha1:2b1a1e65cce2a191365477e6b08da70ad8260463 -->
----
+
 Chris Bache: 
 And eventually you come out with a certain understanding, at least of the large structure—the nature of reality. We're not simply creating a new society or a better society or a new economy or a new ecology. We are actually giving birth to a new form of the human species. I never expected anything like this to emerge in the work. I didn't know this was even possible. At the subtle level of consciousness, you open up to different levels of collective consciousness, and when your individual identity pops, you can open to your species identity, to the collective psyche. I’ve had that experience many times.
 

@@ -1,22 +1,26 @@
 ---
-archival_title: "2023-01-05 – Exploring LSD and the Mind of the Universe"
-
-channel: "Luc Briede-Cooper"
-
-recorded: "2023-01-05"
-
-published: "2023-01-05"
-
-youtube_id: "cvhWP8xzwiY"
-transcriber: "gpt5 model by OpenAI"
-
-transcription_date: "2025-08-19"
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Luc Briede-Cooper"]
+title: Exploring LSD and the Mind of the Universe
+slug: 2023-01-05-exploring-lsd-and-the-mind-of-the-universe
+date: 2023-01-05
+type: lecture
+channel: Luc Briede-Cooper
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: gpt5 model by OpenAI
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-01-05-exploring-lsd-and-the-mind-of-the-universe.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-01-05-exploring-lsd-and-the-mind-of-the-universe.srt
 ---
-<!-- diarist_sha1:4bf89c1823e639593ada51d5665d9f52ab77a67d -->
----
+
 Chris Bache: 
 And all of a sudden, my visual field pivoted 90 degrees, and I saw reality far, far in the distance. It looked kind of like galaxies. And out of that reality, a beam of light came and hit me, and it absolutely shattered me. It was a more powerful light than even the diamond luminosity that had become my ultimate reality, 50 high-dose sessions in, and in that one second, it completely changed my understanding of reality.
 

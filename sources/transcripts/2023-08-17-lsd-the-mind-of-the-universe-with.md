@@ -1,9 +1,25 @@
 ---
-diarist_sha1: ea596b544c705e00af4229baf1f4c7aa2d15a0bb
+title: "LSD & The Mind of the Universe with Chris Bache"
+slug: 2023-08-17-lsd-the-mind-of-the-universe-with
+date: 2023-08-17
+type: interview
+channel: OMTimesTV
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-08-17-lsd-the-mind-of-the-universe-with.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-08-17-lsd-the-mind-of-the-universe-with.srt
 ---
-<!-- diarist_sha1:ea596b544c705e00af4229baf1f4c7aa2d15a0bb -->
----
----
+
 **Sandy Sedgbeer: ** Welcome to OM Times TV, a division of OM Times Media and Broadcasting. 
 
 **Sandy Sedgbeer: ** Welcome to What Is Going On for New Thought from the edge of OM. Each week on OM Times' flagship radio show, veteran broadcaster, author, and media consultant, Sandy Sedgbeer, conducts thought-provoking interviews with inspirational authors, artists, musicians, scientists, speakers, and filmmakers who are working at the point where spirituality and science meet consciousness at the very edge of OM. Here is your host, Sandy Sedgbeer. 

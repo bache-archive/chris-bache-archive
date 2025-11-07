@@ -1,20 +1,26 @@
 ---
-archival_title: "Part II of his Remarkable Twenty-Year Journey into the World of Psychedelics (Edge of Mind Podcast – Part 2)"
-
+title: Part II of his Remarkable Twenty-Year Journey into the World of Psychedelics (Edge of Mind Podcast – Part 2)
+slug: 2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2
+date: 2022-06-03
+type: interview
 channel: Edge of Mind
-
-published: 2022-06-03
-
-youtube_id: -vebDk9FRYU
-transcriber: gpt5 model by OpenAI
-
-transcription_date: 2025-08-19
-
-license: CC0 1.0 Universal
-speakers: ["Andrew Holecek", "Chris Bache"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: gpt5 model by OpenAI
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.srt
 ---
-<!-- diarist_sha1:0a5ddd6ef97f0d2eba8565c98960d78438985dfe -->
----
+
 Andrew Holecek 
 Welcome, everybody, to our ongoing Edge of Mind Podcast, where I have the great honor and delight to spend a little more time with this remarkable thinker, psychonaut, explorer of the mind and heart, Christopher Bache, and continue to unpack some of the many aspects of his remarkable journey that we introduced in round one. I’ll reiterate a very brief bio of Chris, and then we’ll jump right in and venture into some rich, deep waters. Christopher Bache is a professor emeritus in the Department of Philosophy and Religious Studies at Youngstown State University, where he taught for 33 years, a fellow at the Institute of Noetic Sciences. He was also adjunct faculty at the California Institute of Integral Studies and on the advisory board for Grof Transpersonal Training and the Grof Foundation, an award-winning teacher and international speaker, author of three books, and lives in Portland. You’re still in Portland, right?
 

@@ -1,9 +1,25 @@
 ---
-diarist_sha1: e930f749afe040dc5e53df0ff389c191b6710709
+title: 11/17/13 Sunday Service with Guest Speaker Chris Bache and Musician Lilly Russ from Agape in L.A.
+slug: 2013-11-18-sunday-service-with-guest-speaker-chris-bache-unity-myrtle-beach
+date: 2013-11-18
+type: lecture
+channel: Unity Myrtle Beach
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2013-11-18-sunday-service-with-guest-speaker-chris-bache-unity-myrtle-beach.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2013-11-18-sunday-service-with-guest-speaker-chris-bache-unity-myrtle-beach.srt
 ---
-<!-- diarist_sha1:e930f749afe040dc5e53df0ff389c191b6710709 -->
----
----
+
 **Margaret Hiller: ** You as I me. I can see.
 
 **Audience: ** That I forgot to be me. No man.

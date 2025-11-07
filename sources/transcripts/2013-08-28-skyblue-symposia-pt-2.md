@@ -1,9 +1,25 @@
 ---
-diarist_sha1: 73a2e227ceb51a282cae8da42c28d5cc7c098507
+title: Christopher Bache at SkyBlue Symposia   Pt 2 of 2
+slug: 2013-08-28-skyblue-symposia-pt-2
+date: 2013-08-28
+type: lecture
+channel: SkyBlue Symposia
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2013-08-28-skyblue-symposia-pt-2.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2013-08-28-skyblue-symposia-pt-2.srt
 ---
-<!-- diarist_sha1:73a2e227ceb51a282cae8da42c28d5cc7c098507 -->
----
----
+
 **Susan: ** Chris, now, Chris, you've mentioned this crisis or pivotal point for humanity, and what insights or experiences have you gained as from that, from your psychedelic work about this crisis or pivotal point, and what do you see as the evolutionary trajectory of humanity as a whole coming through that?
 
 **Chris Bache: ** Well, that is a big question, isn't it? That's a huge question, and it has absorbed a lot of my time, and in non-ordinary states of consciousness, it's been one of the recurring themes. And because what happens when your individual bubble of consciousness dissolves, when the drop opens you, you fall into the divine at different depths. And one of the things that happens, I think, is that one falls into deep time. So one falls out of linear time into the deeper expanse of time. So the universe seems to have many different time signatures, and one can experience arcs of time over thousands and thousands of years as if it were a simple hour, and even hundreds of thousands of years. And so as I dissolved at the individual level, I was drawn into repeatedly into the evolutionary arc that underlies my individual existence. I was drawn into the arc of human evolution as a whole, which is just, of course, one layer of the larger evolution of the planet and solar system and so on. And just as I was drawn into these large episodes of collective suffering, when I would spin out, when eventually these would peak, and I would go through some large combustion, death-rebirth process, when I would spin out into spiritual spaces, ecstatic experiences, or the deeper warp and woof of the universe. I was often drawn into various visions or drawn into the experience of what's really taking place behind the scenes, and that is this evolutionary crescendo that's building in time, this breaking forth of this deeper consciousness in history that's breaking forward into time. And eventually, in the 55th session out of a 73 session series, I had an extraordinary experience in which I actually, what seems to have happened, as best as I can understand it, is that at some collective level, I went through the death-rebirth of our species. It was I was in a state of consciousness, hard to describe, but I was at that time, I was literally billions of people simultaneously, and every individual and all billions at the same time simultaneously, were beginning to go through a life-death crisis that was literally global. It was just a profound restructuring of life. Life was being broken down to the very core. It was, I think, in this massive die-off that's coming down to us, which is simply the fallout of our ecological foolishness.

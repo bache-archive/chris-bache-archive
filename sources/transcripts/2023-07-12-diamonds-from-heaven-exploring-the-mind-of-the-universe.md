@@ -1,16 +1,26 @@
 ---
-archival_title: Diamonds from Heaven: Exploring the Mind of the Universe
+title: "Diamonds from Heaven: Exploring the Mind of the Universe"
+slug: 2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe
+date: 2023-07-12
+type: lecture
 channel: Sounds True
-recorded: 
-published: 2023-07-12
-youtube_id: mG1uyBw0ucg
-transcriber: gpt5 model by OpenAI
-transcription_date: 2025-09-09
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Tami Simon"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: gpt5 model by OpenAI
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.srt
 ---
-<!-- diarist_sha1:852aae524753ac575e0d57b235a96ad3ddc0ad46 -->
----
+
 Chris Bache 
 Eventually, I came to understand that the many deaths one endures in this process are a symptom of purification. The form that you are can die. The structures of your life can be shattered, but the inner essence of your being cannot die. I began to realize that what we experience as death is actually a deep form of purification—letting go of the small in order to welcome, and be welcomed by, that which is larger.
 

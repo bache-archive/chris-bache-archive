@@ -1,22 +1,26 @@
 ---
-archival_title: Psychedelics and Cosmological Exploration with Chris Bache
-
+title: Psychedelics and Cosmological Exploration with Chris Bache – Reach Truth Podcast
+slug: 2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast
+date: 2022-08-30
+type: interview
 channel: Tasshin Fogleman
-
-recorded:
-
-published: 2022-08-30
-
-youtube_id: FEQ8ony19sk
-transcriber: gpt5 model by OpenAI
-
-transcription_date: 2025-08-19
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Tasshin Fogleman"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: gpt5 model by OpenAI
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.srt
 ---
-<!-- diarist_sha1:9164acf7600a9ac84ef234c02a178edefb1c788e -->
----
+
 Tasshin Fogleman: 
 Hi, friend—thanks for joining me.
 

@@ -1,9 +1,25 @@
 ---
-speakers: ["Chris Bache", "Donna Loeffler", "John Hock", "Teresa Marie"]
+title: "LSD and the Mind of the Universe – Christopher Bache, Ph.D."
+slug: 2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d
+date: 2021-06-03
+type: lecture
+channel: Portland Psychedelic Society
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.srt
 ---
-<!-- diarist_sha1:8eb8b05ed4549ae9d57eaf71b8b2e5ac7e8dcc07 -->
----
----
+
 Donna Loeffler
 Hi everyone. Welcome to “LSD and the Mind of the Universe,” with author Chris Bache. The format today is simple: I’ll introduce everyone, then we’ll have a Q&A. As John said, please put your question in the chat, let us know who it’s directed to, and we’ll try to get to as many as we can. Our panel, Teresa and David, have some questions that will be asked first.
 

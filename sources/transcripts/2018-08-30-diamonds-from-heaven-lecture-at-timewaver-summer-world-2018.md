@@ -1,27 +1,26 @@
 ---
-archival_title: Diamonds from Heaven – Lecture at TimeWaver Summer World 2018
-
+title: Diamonds from Heaven – Lecture at TimeWaver Summer World 2018
+slug: 2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018
+date: 2018-08-30
+type: lecture
 channel: TimeWaver TV
-
-recorded: 2018-08-30
-
-published: 2018-08-30
-
-youtube_id: O4ui6I1Wo9c
-
-speakers:
-
-- Chris Bache
-
-Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
-
-transcription_date: 2025-08-01
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.srt
 ---
-<!-- diarist_sha1:06be90d63cb44efa8bb70ff2460ec1635a9e8b44 -->
----
+
 Chris Bache: Marcus, I want to thank you very much for the opportunity to be here today and to address the Time Wafer community, which is such a progressive and wonderful group. Martin mentioned Stanislav Grof—he's one of the co-founders, with Abraham Maslow, of transpersonal psychology and the foremost authority on integrating LSD and other psychedelic substances into the therapeutic process. When I first read "Realms of the Human Unconscious," Stan's first book, in 1979, I was a brand-new, young junior faculty member at the university. As soon as I read that book, I realized psychedelics would represent a turning point, not just in psychology but also in philosophy. I was trained as a philosopher of religion, so I made the decision to begin a psychedelic voyage. I became convinced the most important work in the near future would be done by people writing from an experiential basis, not just an intellectual one, and so I began that journey.
 
 Now, I have to assume a certain familiarity with Stan Grof's work, so I won't try to describe in detail the methodology of working with psychedelics, but suffice it to say, it's an intense process—not about tripping at a concert, but rather working in very contemplative, isolated conditions, with eyeshades, going deeply within. I carried out this work over 20 years, across 73 high-dose LSD sessions using Stan Grof's paradigm. I worked for four years, stopped for six years, then worked very intensely for another ten years.

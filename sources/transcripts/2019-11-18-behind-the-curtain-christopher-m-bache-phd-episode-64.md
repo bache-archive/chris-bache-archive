@@ -1,9 +1,25 @@
 ---
-diarist_sha1: 81365187dbb2b71b0e1d13b7f0f4b5763f6fa1c2
+title: "Behind the Curtain — Christopher M. Bache, Ph.D. (Episode 64)"
+slug: 2019-11-18-behind-the-curtain-christopher-m-bache-phd-episode-64
+date: 2019-11-18
+type: interview
+channel: Frank McCaughey
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2019-11-18-behind-the-curtain-christopher-m-bache-phd-episode-64.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2019-11-18-behind-the-curtain-christopher-m-bache-phd-episode-64.srt
 ---
-<!-- diarist_sha1:81365187dbb2b71b0e1d13b7f0f4b5763f6fa1c2 -->
----
----
+
 **Chris Bache: ** Like a smile, another side, purification, purifications unto death in order to enter that dialog.
 
 Audience: ** What do you think death is?

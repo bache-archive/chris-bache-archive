@@ -1,22 +1,26 @@
 ---
-archival_title: 2023-01-27 – The Mind of the Universe: Diamonds from Heaven
-
+title: "The Mind of the Universe: Diamonds from Heaven"
+slug: 2023-01-27-the-mind-of-the-universe-diamonds-from-heaven
+date: 2023-01-27
+type: lecture
 channel: Portals of Perception
-
-recorded: 2023-01-27
-
-published: 2023-01-27
-
-youtube_id: ec0elBHJXAc
-Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
-
-transcription_date: 2025-07-31
-
-license: CC0 1.0 Universal
-speakers: ["Aviv Shahar", "Chris Bache"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.srt
 ---
-<!-- diarist_sha1:c275d2d9bb7ee407ef095a6c63bd36cfca36048f -->
----
+
 Aviv Shahar: 
 Central to the Portals project is the inquiry about the future and the evolutionary change underway. We seek to perceive what is emerging at the edge of the human experience, to decode and integrate insights about how we humans are evolving through this liminal transition. Chris Bache is a professor emeritus in the Department of Philosophy and Religious Studies at Youngstown State University, where he taught for 33 years, and a fellow at the Institute of Noetic Sciences. Chris is the author of The Living Classroom: Teaching and Collective Consciousness; Dark Night, Early Dawn: Steps to a Deep Ecology of Mind; and his third book, LSD and the Mind of the Universe: Diamonds from Heaven, where he describes his 20 years of intensive work through 73 LSD sessions.
 

@@ -1,22 +1,26 @@
 ---
-archival_title: 2018-07-05 – Diamonds from Heaven – Interview with Iain McNay
-
+title: Diamonds from Heaven – Interview with Iain McNay
+slug: 2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay
+date: 2018-07-05
+type: interview
 channel: Conscious TV
-
-recorded:
-
-published: 2018-07-05
-
-youtube_id: yewNM9smrqo
-Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
-
-transcription_date: 2025-07-31
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Iain McNay"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.srt
 ---
-<!-- diarist_sha1:11f89bf22309ff2648cb43e0313f1a38307df964 -->
----
+
 Iain McNay: 
 So hello and welcome again to Conscious TV. I'm Iain McNay, and my guest today is Chris Bache. Hi, Chris.
 

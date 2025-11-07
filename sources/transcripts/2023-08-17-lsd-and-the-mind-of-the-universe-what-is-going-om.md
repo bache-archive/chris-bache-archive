@@ -1,29 +1,26 @@
 ---
-archival_title: LSD & the Mind of the Universe (What Is Going OM)
-
-channel: OMTimesTV / Sandie Sedgebeer
-
-recorded: unknown
-
-published: 2023-08-17
-
-youtube_id: 2Trb-vC8zc0
-
-speakers:
-
-- Sandie Sedgebeer
-
-- Christopher M. Bache
-
-Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
-
-transcription_date: 2025-07-31
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Sandy Sedgbeer"]
+title: "LSD & the Mind of the Universe (What Is Going OM)"
+slug: 2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om
+date: 2023-08-17
+type: lecture
+channel: OMTimesTV / Sandie Sedgbeer
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.srt
 ---
-<!-- diarist_sha1:eb0a72b6a64602658ef4b4174748ddda73ed1a25 -->
----
+
 Sandy Sedgbeer: Hello. Throughout the years that I've been conducting interviews on science, consciousness, and spirituality, I've read numerous mind-shifting books and heard goodness knows how many extraordinary stories. But the story you're going to hear today is so far beyond remarkable that I've struggled to find words to adequately describe it. All I can say by way of introduction is that what you're about to hear is a story that, until I read it, I didn’t know I—and no doubt countless millions of seekers—had been waiting for our entire lives.
 
 Christopher M. Bache is Professor Emeritus in the Department of Philosophy and Religious Studies at Youngstown State University, where he taught for 33 years; a fellow at the Institute of Noetic Sciences; adjunct faculty at the California Institute of Integral Studies; and on the advisory board for Grof Transpersonal Training and the Grof Foundation. An award-winning teacher and international speaker, Chris joins me now to discuss his book LSD and the Mind of the Universe: Diamonds from Heaven, hailed as a gripping account of an utterly unique and extraordinary hero’s journey that opens our minds and hearts to a new vision of our universe and ourselves as inseparable from the ineffable being we have called God. Chris Bache, welcome.

@@ -1,9 +1,25 @@
 ---
-diarist_sha1: a924d54fba4ca2dd2347c84d97805f35440696c2
+title: Collective Karma and Reincarnation — with Chris Bache
+slug: 2025-10-15-collective-karma-and-reincarnation-with
+date: 2025-10-15
+type: interview
+channel: New Thinking Allowed with Jeffrey Mishlove
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2025-10-15-collective-karma-and-reincarnation-with.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2025-10-15-collective-karma-and-reincarnation-with.srt
 ---
-<!-- diarist_sha1:a924d54fba4ca2dd2347c84d97805f35440696c2 -->
----
----
+
 **Chris Bache: ** The idea that we all have to get past the same finish line at the same time in order for things to work out right, we all have to be saved before we die, or something like this. That doesn't make nearly as much sense as we are developing a flower garden. We are different types of flowers, which are developing and emerging over large periods of time.
 
 Audience: ** Keep watching to learn more. Book four in the New Thinking Allowed dialog series is Charles T. Tart: 70 Years of Exploring Consciousness and Parapsychology, now available on Amazon.

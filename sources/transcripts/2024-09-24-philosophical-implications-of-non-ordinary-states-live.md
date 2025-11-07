@@ -1,39 +1,26 @@
 ---
-archival_title: Philosophical Implications of Non-Ordinary States (Live)
-
+title: Philosophical Implications of Non-Ordinary States (live)
+slug: 2024-09-24-philosophical-implications-of-non-ordinary-states-live
+date: 2024-09-24
+type: lecture
 channel: Spirit Plant Medicine
-
-recorded: 2024-09-24
-
-published: 2024-09-24
-
-youtube_id: 9jsKPUwwqfQ
-
-speakers:
-
-- MARK KARAN
-
-- STEPHEN GRAY
-
-- CHRIS BACHE
-
-- MICHAEL KRAUSS
-
-- JACOB
-
-- JACKIE H
-
-- MICHAEL K
-
-Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
-
-transcription_date: 2025-07-31
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Marc Caron", "Stephen Gray"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2024-09-24-philosophical-implications-of-non-ordinary-states-live.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2024-09-24-philosophical-implications-of-non-ordinary-states-live.srt
 ---
-<!-- diarist_sha1:7f32c6c4eaedbdd64e37b9f2a938cd49b84359a0 -->
----
+
 Marc Caron 
 Hello and welcome to Conscious Living. My name is Marc Caron, and today I’m coming to you live from the beautiful I’m Awake Foundation Center, where they do consciousness research and a lot of really interesting work in spirituality, medicines, consciousness, and transformation. I was blessed to be invited, and I’m broadcasting live from here today for Conscious Living Radio. It’s going to be another plant medicine–focused program, and I’m happy to invite my good friend and partner of the conference, Stephen Gray. Stephen, always a pleasure to have you here. We’re airing our program today on 100.5 CFRO-FM in Vancouver Co-op Radio. We’re happy to have been running that program locally for over 15 years now. You’ve been a guest many times and really a co-host in many programs, so thank you for joining me in what I’m sure will be a great conversation with our guest today.
 

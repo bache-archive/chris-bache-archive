@@ -1,9 +1,25 @@
 ---
-diarist_sha1: ef0d1418215be6d7b5546d3e3555faff80d0bbc9
+title: "PSA Fireside Chat — Dr. Raymond Turpin & Dr. Chris Bache"
+slug: 2025-10-21-psa-fireside-chat-featuring-dr-raymond-turpin-dr
+date: 2025-10-21
+type: panel
+channel: Psychedelic Society of Asheville (PSA)
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2025-10-21-psa-fireside-chat-featuring-dr-raymond-turpin-dr.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2025-10-21-psa-fireside-chat-featuring-dr-raymond-turpin-dr.srt
 ---
-<!-- diarist_sha1:ef0d1418215be6d7b5546d3e3555faff80d0bbc9 -->
----
----
+
 All right, everybody, let's go ahead and get started here. First and foremost, is everyone here? Can you hear me okay? Beautiful. Well, thank you all so much for coming to tonight's fireside chat on Sky Mountain. We have our wonderful guests here today that will be speaking: Dr. Raymond Turpin and Dr. Christopher Bache. 
 
 Before we dive in, I want to extend a big thank you to Melissa and Joe Summerage for allowing us to use this lovely facility for our talk tonight. It's such an incredible venue. A couple of housekeeping items: there are bathrooms straight back by the stairs, and water stations over there with hot and cold options. If anyone needs to stand up and stretch, please feel free to do so. You're welcome to take pictures, but we are capturing a formal video, which we will release through the Psychedelic Society website, so if you can refrain from recording, we appreciate it.

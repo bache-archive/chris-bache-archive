@@ -1,9 +1,25 @@
 ---
-diarist_sha1: 874fdf5032381c0fa6b39990d3a0822c88feac9c
+title: "Behind the Curtain with Christopher M. Bache, Ph.D. (Episode 64)"
+slug: 2020-03-22-behind-the-curtain-with-christopher-m-bache-phd-episode-64
+date: 2020-03-22
+type: interview
+channel: Frank McCaughey
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2020-03-22-behind-the-curtain-with-christopher-m-bache-phd-episode-64.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2020-03-22-behind-the-curtain-with-christopher-m-bache-phd-episode-64.srt
 ---
-<!-- diarist_sha1:874fdf5032381c0fa6b39990d3a0822c88feac9c -->
----
----
+
 **Frank McCaughey: ** Like a smile, another side I truly live. All right, are you doing good? Nice to meet you.
 
 **Frank McCaughey: ** Frank, likewise. All right. Well done on the book.

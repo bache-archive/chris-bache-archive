@@ -1,9 +1,25 @@
 ---
-diarist_sha1: 53667c7e219ff9085d7a240a5d4dfc3f9a4be689
+title: Dr. Christopher Bache - The Individual and Matrix Consciousness Pt 2/2
+slug: 2009-03-07-the-individual-and-matrix-consciousness-pt-2
+date: 2009-03-07
+type: lecture
+channel: Nasty Infinity
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2009-03-07-the-individual-and-matrix-consciousness-pt-2.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2009-03-07-the-individual-and-matrix-consciousness-pt-2.srt
 ---
-<!-- diarist_sha1:53667c7e219ff9085d7a240a5d4dfc3f9a4be689 -->
----
----
+
 **Chris Bache: ** I think that we have for several thousand years, been on a journey which has been potentiating individuality and all the patriarchal religions, the whole masculine focus has been, as it were, a decided potentiation of the individual, even to the point of asserting the survival of the soul for the reward. You know, the soul lives forever and ever in heaven or hell based upon the quality of choices that the individual makes. It's an enormous potentiation of individuals, at the great cost, of course, of tearing the individual free of the matrix of life. Now we seem to be moving into a new direction, where we're recontextualizing the stupendous accomplishment of the fully empowered individual. We're recontextualizing that individual within the subtler matrix of what Buddhism sometimes called the Buddha womb, or the matrix consciousness, the Source consciousness, so that what was previously an unconscious relationship of embeddedness is now becoming a conscious relationship of embeddedness. The ego can get frightened because the ego thinking that its individuality requires separation and unchanging Self, and that's usually the two concepts that go along with self, is that the self has to be separate and it's unchanging. Neither of those are really true; there is an actual higher form of individuality that emerges and is compatible with the condition of interpenetration, not separability, and the condition of perpetual change, not unchanging. And I think that's really what Buddhism wanted to deny when it went with the option of anata, no self. What it was fundamentally denying was separability and unchanging Self. It rejected those in lieu of a concept of self which is dynamic and is interpenetrating, and that, I think, is where we are moving, evolutionarily, so that we have an individuality of a true self, reflective consciousness, potentiated over hundreds and thousands of incarnations, increasingly potentiated self-directive, self-emergent, self-learning, self-creating but contextualized within a matrix that supports and is nourished by that process. It truly does support it. It is, it is the mother matrix which births this individual genius, and it is nourished by the learning of the individual genius. And that's a long way from the board. Yeah, absolutely, that's great. And I think that, you know, that's the larger issue behind, you know, the fundamental challenge of the 21st Century that we're pushing towards, I think, is towards a global consciousness, you know, global citizenship, which mediates between all the various divisions and nationalism and factions and religionism of history into a much more complex, not boundaryless, but to some degree, boundaryless condition, which doesn't suffocate individuality, but definitely recontextualizes it in a different way with a different force.
 
 **Panelist: ** Yeah, yeah, absolutely. What do you see as sort of the ultimate applicability of this group wisdom or collective wisdom potential that's emerging? So what do you see that as?

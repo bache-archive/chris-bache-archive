@@ -1,20 +1,26 @@
 ---
-archival_title: Consciousness, Psychedelics & Collective Evolution
-
+title: "Consciousness, Psychedelics & Collective Evolution"
+slug: 2025-07-16-consciousness-psychedelics-and-collective-evolution
+date: 2025-07-16
+type: lecture
 channel: Daniel Pinchbeck
-
-published: 2025-07-16
-
-youtube_id: tzscyUU1rXI
-Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
-
-transcription_date: 2025-07-31
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Daniel Pinchbeck", "David Luke"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2025-07-16-consciousness-psychedelics-and-collective-evolution.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2025-07-16-consciousness-psychedelics-and-collective-evolution.srt
 ---
-<!-- diarist_sha1:be7afb857aaaad9aedfbc869fec56585308efa3a -->
----
+
 Chris Bache 
 Hi everybody. It’s nice to see your faces. By way of brief introduction, I made my living as a university professor in Ohio. I taught in the Department of Philosophy and Religious Studies at Youngstown State—courses in religious studies, Eastern religion, the psychology of mysticism, comparative spirituality, Eastern thought. But what brings me here today isn’t that work; it’s my work with psychedelics, which I did for 20 years while I was an academic. I wasn’t really allowed to speak about it in that environment, and it was only after I retired that I was able to write a book I’m speaking from today.
 

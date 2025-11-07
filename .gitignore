@@ -106,3 +106,5 @@ patches/**/logs/
 # === Misc old/back files ===
 *.bak
 *.old
+# scratch files
+/tmp_one.txt

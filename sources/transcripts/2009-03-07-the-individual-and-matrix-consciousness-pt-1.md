@@ -1,9 +1,25 @@
 ---
-diarist_sha1: 9fb8cde003744a62f84f36dd394eced273883cd7
+title: Dr. Christopher Bache - The Individual and Matrix Consciousness Pt 1/2
+slug: 2009-03-07-the-individual-and-matrix-consciousness-pt-1
+date: 2009-03-07
+type: lecture
+channel: Nasty Infinity
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2009-03-07-the-individual-and-matrix-consciousness-pt-1.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2009-03-07-the-individual-and-matrix-consciousness-pt-1.srt
 ---
-<!-- diarist_sha1:9fb8cde003744a62f84f36dd394eced273883cd7 -->
----
----
+
 **Chris Bache: ** What is? What is a group mind, or collective consciousness? The way I have experienced patterns of collective mind, the primary ways in which context in which I've experienced them in my work has been working with students in the classroom, and there I find that using Morphic, Rupert Sheldrake's work in Morphic field theory and the theory of formative causation, to understand some of the patterns that were emerging in the classroom were very helpful. Was very helpful. So that when a group of students come together, and they come together with a common intention, if you can strengthen that common intention, if you can strengthen it and attend to the quality of engagement, which injects our common work with an emotional intensity, not simply a passive intellectual intensity, which you often get in a, you know, introductory course at a university, just a passive engagement, but if you can elicit active engagement and focus that engagement in meaningful exercises in which the students have freedom of choice, and therefore the choices they make freely have greater power than the choices which are pushed upon them with time and with repetition, meeting not just once or twice, but meeting week after week, month after month, and in some cases, when students take multiple courses with you, year after year, there seems to form a certain porosity, a certain transparency, so that students sometimes find themselves showing up in each other's dreams and synchronistic experiences begin to increase among students in the class, or often, as I described, in dark night, early dawn, a certain transparency would sometimes open between my mind and their and my students' mind, so that they would find sometimes when I would just be reaching, you know, in the void, so to speak, reaching for the example, to illustrate a particular point in the lecture, I would end up using as what would be, to me, a randomly chosen example, something which would have drawn from the immediate life experience of one of the students in the classroom, in a way which, when they heard that woven into the lecture, would hit a nerve in their life that would trigger a reaction and engagement, even though I was not in any way myself conscious of making any paranormal or psychic contact. Yet there seems to be this process of flow, osmosis, exchange of information that takes place between the different parties in the room. At first, I thought of this in terms of some kind of psychic bridging taking place between my mind and their mind, right? But over time, I began to adopt a more collective representational model that this is, this is the emergence into conscious expression of a literally, of an entity you can get when you can think of it as an entity, as a standing wave within larger currents of mind.
 
 **xcite83: ** Say more about that? The standing wave? 

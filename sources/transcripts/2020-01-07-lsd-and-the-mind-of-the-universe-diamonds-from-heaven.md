@@ -1,22 +1,26 @@
 ---
-archival_title: "LSD and the Mind of the Universe: Diamonds from Heaven — Psychedelics Today Interview"
-
-channel: "Psychedelics Today"
-
-recorded:
-
-published: "2020-01-07"
-
-youtube_id: "CbgJkCoee3w"
-transcriber: "gpt5 model by OpenAI"
-
-transcription_date: "2025-08-15"
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Joe Moore", "Kyle Buller"]
+title: "LSD and the Mind of the Universe: Diamonds from Heaven"
+slug: 2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven
+date: 2020-01-07
+type: lecture
+channel: Psychedelics Today
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: gpt5 model by OpenAI
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.srt
 ---
-<!-- diarist_sha1:8ef9b439218410bc75a42041d0563462d886e57e -->
----
+
 Joe Moore
 Hello everybody. Welcome back to Psychedelics Today. This is Joe Moore coming at you from Breckenridge, Colorado. On this episode, Kyle and I talk to Dr. Chris Bache, who, over a number of years, went through 73 high-dose LSD sessions and had some very interesting things to report back—personal growth and much more. We get into it in quite a bit of detail. The name of the book is LSD and the Mind of the Universe. We’re giving away three copies; you can find that in the show notes, and we’ll have a link to the contest there and on our social media. You can also find it at psychedelicstoday.com/welcome. It was a really mind-blowing episode for me. We don’t need to spoil anything, but Dr. Chris Bache has some extraordinary things to share and, as a recently retired university professor, comes with perspective and education on topics we should all be aware of if we’re going to get into the transpersonal. Enjoy the episode.
 

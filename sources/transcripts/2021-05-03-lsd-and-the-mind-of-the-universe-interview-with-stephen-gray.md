@@ -1,29 +1,26 @@
 ---
-archival_title: LSD and the Mind of the Universe – Interview with Stephen Gray
-
+title: LSD and the Mind of the Universe – Interview with Stephen Gray
+slug: 2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray
+date: 2021-05-03
+type: interview
 channel: StephenGray Vision
-
-recorded: unknown
-
-published: 2021-05-03
-
-youtube_id: zXt-LkmINyc
-
-speakers:
-
-- Steven Gray
-
-- Chris Bache
-
-Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
-
-transcription_date: 2025-07-31
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Stephen Gray"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.srt
 ---
-<!-- diarist_sha1:f016a985cf9b0ab0676e0cc8d2c4e5d99544306f -->
----
+
 Stephen Gray 
 Welcome, everybody. This is the very first interview on my YouTube channel, which will also appear as an audio podcast on Anchor. The series is called “Stephen Gray Vision”—all one word, S-T-E-P-H-E-N, capital G-R-A-Y, Vision—and the purpose is to explore the possibilities of an awakening humanity. I hope to have subscribe and contact links available at the beginning and end of future episodes.
 

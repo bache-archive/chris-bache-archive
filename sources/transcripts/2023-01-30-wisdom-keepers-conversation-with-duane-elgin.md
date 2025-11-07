@@ -1,47 +1,26 @@
 ---
-archival_title: Wisdom Keepers Conversation with Duane Elgin
-
+title: Wisdom Keepers conversation with Duane Elgin
+slug: 2023-01-30-wisdom-keepers-conversation-with-duane-elgin
+date: 2023-01-30
+type: interview
 channel: The WisdomKeepers
-
-recorded: 2023-01-30
-
-published: 2023-01-30
-
-youtube_id: TeifW7GZ9xI
-
-speakers:
-
-- BAS (host)
-
-- MAYO (co-host)
-
-- CHRIS BACHE
-
-- DUANE ELGIN
-
-- TODD
-
-- HENRIK
-
-- SUE
-
-- DAVID
-
-- TERRY
-
-- MICHELLE
-
-- EVE
-
-Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
-
-transcription_date: 2025-07-31
-
-license: CC0 1.0 Universal
-speakers: ["Bas de Cock", "Chris Bache", "Duane Elgin"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.srt
 ---
-<!-- diarist_sha1:97f149463109443874a0dffe0f707f1af515e684 -->
----
+
 Bas de Cock 
 Thank you all for joining. We have two and a half hours together—plenty of time—and you’ll see it will pass quickly. Tonight we’ll begin with a meditation to settle into the theme of this Wisdom Keepers gathering. Then we’ll look ahead to the next hour or hour and a half with Chris and Duane—two different angles, two different paradigms in a beautiful dance. What are the possibilities for creating a new mindset as humans, a mindset of the whole universe? Because it’s not only about technological evolution or world leaders. Yes, we can cut greenhouse gases, drive electric cars, plant more trees, and be kinder to our neighbors—that’s where the mindset starts. After an hour and a half with Chris and Duane, we’ll use the last 30 to 45 minutes to look ahead at creating more circles as a community, as a human family, to practice this new mindset. We’ll guide you step by step. Please sit comfortably and have a good evening.
 

@@ -1,27 +1,26 @@
 ---
-archival_title: "2023-03-16 – What does it mean to be a good person, psychedelically? | Chris Bache PhD"
-
+title: "What does it mean to be a good person, psychedelically? | Chris Bache PhD"
+slug: 2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd
+date: 2023-03-16
+type: lecture
 channel: Adventures Through the Mind
-
-published: 2023-03-16
-
-youtube_id: 83VOl7ylChQ
-
-speakers:
-
-- HOST
-
-- CHRIS BACHE
-
-transcriber: gpt5 model by OpenAI
-
-transcription_date: 2025-08-19
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: gpt5 model by OpenAI
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.srt
 ---
-<!-- diarist_sha1:36f6caa555946bb928787bfed4873aaf793a5b8e -->
----
+
 Host
 Given where we are and what's happening, from the perspective of the deep psychedelic work you've done, what does it mean to be a good person right now? What does it take?
 

@@ -1,27 +1,26 @@
 ---
-archival_title: Contemplating Reincarnation - Part 2
-
+title: Contemplating Reincarnation – Part 2
+slug: 2021-03-16-contemplating-reincarnation-part-2
+date: 2021-03-16
+type: lecture
 channel: Gene Keys
-
-published: 2021-03-16
-
-youtube_id: AQwAxhukBrE
-
-speakers:
-
-- CHRIS BACHE
-
-- RICHARD RUDD
-
-transcriber: gpt5 model by OpenAI
-
-transcription_date: 2025-08-15
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Richard Rudd"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: gpt5 model by OpenAI
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2021-03-16-contemplating-reincarnation-part-2.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2021-03-16-contemplating-reincarnation-part-2.srt
 ---
-<!-- diarist_sha1:05f67ceed1c55e0ae6b8867d0bf6c4c351aae626 -->
----
+
 Chris Bache 
 Well, hello, Richard. It's good to continue our discussion. In our previous conversation, we started on reincarnation—looking at the evidence from extraordinary children around the world—and began to unpack that evidence into a deeper understanding of the rhythms of life and the stages of human evolution that reincarnation makes possible. It restores the meaningfulness of the challenges embedded in our lives and offers an opportunity to deepen therapeutic interventions where we’re stuck, where we’re holding pain rooted in our deeper history. Today, let’s go farther—into the significance of being reincarnating beings in a universe that supports, nurtures, and created this reincarnation dynamic.
 

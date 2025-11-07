@@ -1,22 +1,26 @@
 ---
-archival_title: Global Collapse, Spirituality & The Birth of the Future Human (ATTMind #142)
-
+title: "Global Collapse, Spirituality & The Birth of the Future Human (ATTMind #142)"
+slug: 2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142
+date: 2021-04-21
+type: lecture
 channel: Adventures Through the Mind
-
-recorded: "2020-09"
-
-published: 2021-04-21
-
-youtube_id: tLqeJHhb048
-transcriber: gpt5 model by OpenAI
-
-transcription_date: 2025-08-15
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "James Jesso"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: gpt5 model by OpenAI
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142.srt
 ---
-<!-- diarist_sha1:2c280dad456a282d910434f2a613b334e1d470a8 -->
----
+
 James Jesso: 
 Hello everyone. Welcome to Adventures Through the Mind. I'm your host, as always, James W. Jesso. This podcast explores topics relevant and related to psychedelic culture, medicine, and research.
 

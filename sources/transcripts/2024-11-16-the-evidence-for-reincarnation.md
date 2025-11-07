@@ -1,22 +1,26 @@
 ---
-archival_title: The Evidence for Reincarnation
-
+title: The Evidence for Reincarnation
+slug: 2024-11-16-the-evidence-for-reincarnation
+date: 2024-11-16
+type: lecture
 channel: Vancouver IONS Community Group
-
-recorded: 2024-11-16
-
-published: 2024-11-16
-
-youtube_id: iCKq7-de8Xg
-transcriber: gpt5 model by OpenAI
-
-transcription_date: 2025-08-19
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Christopher", "Dottie Koontz", "Janine", "Jonai", "Norma", "Paul", "Victoria"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: gpt5 model by OpenAI
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2024-11-16-the-evidence-for-reincarnation.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2024-11-16-the-evidence-for-reincarnation.srt
 ---
-<!-- diarist_sha1:2fe933c885bcdfd972874b6d59d7b90fee2fa271 -->
----
+
 Dottie Koontz: 
 Welcome, everybody. This is the Vancouver IONS Community Group, and our speaker tonight—I’m very excited to say—is Chris Bache, PhD, back to talk about another of his areas of contemplation, which he wrote about in his book Life Cycles: A Study of Reincarnation. Reincarnation is a topic that people approach with belief, disbelief, or curiosity. Based on my own contemplation in my younger years and subsequent personal experiences, including a past-life regression in my 20s, I’m in the believer camp.
 

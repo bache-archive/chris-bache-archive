@@ -1,9 +1,25 @@
 ---
-diarist_sha1: ef530df74b6e2d1855e46eb9cc1ba05930ce3801
+title: "Discover the Mind of the Universe — LSD, Psychedelic Research, and Consciousness"
+slug: 2021-01-02-discover-the-mind-of-the-universe-lsd-psychedelic-research-with-professor-christopher-m-bache
+date: 2021-01-02
+type: interview
+channel: Passion Harvest Podcast
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2021-01-02-discover-the-mind-of-the-universe-lsd-psychedelic-research-with-professor-christopher-m-bache.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2021-01-02-discover-the-mind-of-the-universe-lsd-psychedelic-research-with-professor-christopher-m-bache.srt
 ---
-<!-- diarist_sha1:ef530df74b6e2d1855e46eb9cc1ba05930ce3801 -->
----
----
+
 **Luisa: ** Passion harvest. Hello, passionate listeners and watchers, welcome to Passion Harvest. I am Luisa, your host, international passion ambassador. I am really, really, really excited about my guest today. I've just read his amazing book, and if you don't know who he is, Christopher M. Bache. Professor Christopher M. Bache set out to explore his mind and the mind of the universe on what will become a life changing journey with the help of the psychedelic drug, LSD. Chris's 73 high dose LSD sessions over the course of 20 years drew him into a deeper communion with cosmic consciousness, pushing the boundaries of theory and practice. Chris's psychedelic experiences took him beyond self-transformation into collective transformation, beyond the present into the future, revealing spirit and matter in perfect balance. Christopher M. Bache, PhD, is a professor in the Department of Philosophy and Religious Studies at Youngstown State University, where he taught for 33 years. He is also adjunct faculty at the California Institute of Integral Studies, Emeritus, fellow at the Institute of Noetic Sciences, and on the Advisory Council of Grof Legacy Training. Chris's passion has been the study of the philosophical implications of non-ordinary states of consciousness, especially psychedelic states. An award-winning teacher and international speaker, Chris has written four books: *Life Cycles*, a study of reincarnation in light of contemporary consciousness research; *Dark Night, Early Dawn*, a pioneering work in psychedelic philosophy and collective consciousness; *The Living Classroom*, an exploration of collective fields of consciousness in teaching; and *LSD and the Mind of the Universe*, the story of his 20-year journey with LSD. This is his story, and this is his passion. Professor Christopher M. Bache, welcome to Passion Harvest. Thank you so much for being here.
 
 **Christopher M. Bache: ** My pleasure, Luisa. It's nice to be with you.

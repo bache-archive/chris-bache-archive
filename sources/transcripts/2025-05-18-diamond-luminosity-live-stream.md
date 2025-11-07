@@ -1,31 +1,26 @@
 ---
-archival_title: Diamond Luminosity (live stream)
-
+title: Diamond Luminosity (live stream)
+slug: 2025-05-18-diamond-luminosity-live-stream
+date: 2025-05-18
+type: lecture
 channel: New Thinking Allowed
-
-recorded: 2025-05-18
-
-published: 2025-05-18
-
-youtube_id: FlHqinHyt9I
-
-speakers:
-
-- JEFFREY MISHLOVE
-
-- EMMY VADNAIS
-
-- CHRIS BACHE
-
-Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
-
-transcription_date: 2025-07-31
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Emmy Vadnais", "Jeffrey Mishlove"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2025-05-18-diamond-luminosity-live-stream.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2025-05-18-diamond-luminosity-live-stream.srt
 ---
-<!-- diarist_sha1:3e2c65cd81eb94bcff5033f76e9d53c870387315 -->
----
+
 Jeffrey Mishlove: 
 Allowed is presented by the California Institute for Human Science, okay? And then I'll shut that.
 

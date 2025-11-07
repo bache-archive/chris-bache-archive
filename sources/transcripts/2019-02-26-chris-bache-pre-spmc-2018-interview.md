@@ -1,9 +1,25 @@
 ---
-diarist_sha1: 23df5764e84e5eadd503490bed6a880bf49489f4
+title: Chris Bache Pre-SPMC 2018 Interview
+slug: 2019-02-26-chris-bache-pre-spmc-2018-interview
+date: 2019-02-26
+type: interview
+channel: Spirit Plant Medicine
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2019-02-26-chris-bache-pre-spmc-2018-interview.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2019-02-26-chris-bache-pre-spmc-2018-interview.srt
 ---
-<!-- diarist_sha1:23df5764e84e5eadd503490bed6a880bf49489f4 -->
----
----
+
 **Marc Caron: ** Welcome the spirit plant medicine community here in Vancouver and around the world, and to the Facebook live audience who may be watching and anybody out there who's watching. Today, we have a very special guest, Mr. Chris Bache is joining us. Bache, sorry, with Mr. Steven Gray. Chris is going to be one of our great presenters at the spirit plant medicine conference coming up here in just about a month and a half. And my name is Marc Caron. Really happy to have Chris with us. And of course, my co-producer and organizer, Steven Gray with the conference, I'm going to pass it to Steven to introduce Chris and his work and what we'll be talking about.
 
 **Stephen Gray: ** Sure, thank you, Marc. This is going to be a very brief introduction. There's a bio on the conference website, spiritplantmedicine.com, if anyone wants to read more. I will just say that Chris is a retired university professor at Youngstown, Ohio, who was teaching in religious philosophy, I believe. Chris, Philosophy and Religious Studies Department, yeah, Philosophy and Religious Studies Department. More relevant to what we're doing today, or more specifically relevant anyway, is that he became interested in the work of Stanislav Grof, who did a lot of remarkable pioneering work in LSD therapy, and over a period of 20 years, from 1979 to 1999, undertook a remarkable, what Joseph Campbell would probably truly call a hero's journey of 20 years of 73 high dose LSD sessions, privately with a sitter with eye coverings and headphones on, with a carefully curated playlist. And the results of that are truly stunning. He wrote about it in a lot about it in his 2000 book, *Dark Night, Early Dawn*, and has a forthcoming book called *Diamonds from Heaven*, in which he actually takes the reader through a sequential journey through those 73 sessions, if I'm correct. Chris, yeah, so perhaps a good way to start, as I've mentioned to you in some of our email exchanges, I've got about 1,005 questions, because I delved back into your work again. I watched the Transpersonal conference interview or presentation, an interview with some guy named Ian Campbell or something like that as well. And been reading a bunch of *Dark Night, Early Dawn*, which actually has transcripts from those journeys in it. But perhaps for the viewers, maybe just you could say a little bit briefly about, beyond what I said about hearing about Stan Grof's work, what led you into doing this? You know, why you, why you?

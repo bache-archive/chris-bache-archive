@@ -1,22 +1,26 @@
 ---
-archival_title: Mapping Consciousness with High-Dose LSD
-
-channel: Adventures Through the Mind (ATTMind #83)
-
-recorded: unknown
-
-published: 2018-10-12
-
-youtube_id: L3D_fSr75u8
-Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
-
-transcription_date: 2025-08-01
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "James Jesso"]
+title: "Mapping Consciousness with High-Dose LSD (ATTMind #83)"
+slug: 2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83
+date: 2018-10-12
+type: lecture
+channel: Adventures Through the Mind
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.srt
 ---
-<!-- diarist_sha1:76fbc9b3384e09c0daa1cb62ab0e2e2c1002b05b -->
----
+
 Chris Bache: 
 Okay, testing one two, testing one two—yeah, you're great.
 

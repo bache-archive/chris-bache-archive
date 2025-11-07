@@ -1,9 +1,25 @@
 ---
-diarist_sha1: 60aa09f52fc989c24d34fe9e1c73ca94058bc40c
+title: An Interview with Chris Bache — LSD and the Universe
+slug: 2019-10-22-an-interview-with-chris-bache-lsd-and-the-universe
+date: 2019-10-22
+type: interview
+channel: Spirit Plant Medicine
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2019-10-22-an-interview-with-chris-bache-lsd-and-the-universe.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2019-10-22-an-interview-with-chris-bache-lsd-and-the-universe.srt
 ---
-<!-- diarist_sha1:60aa09f52fc989c24d34fe9e1c73ca94058bc40c -->
----
----
+
 **Marc Caron: ** Hello and good afternoon. My name is Mark Kron. I'm here with my co-host for the Spirit Plant Medicine Conference, Steve, Mr. Steven Gray, good friend. Glad to be here. And today we have a very special guest on our little talk about our speakers for the upcoming conference. We have Mr. Chris Bache. Now, Chris is a professor emeritus in the Department of Philosophy and Religious Studies at Youngstown State University, where he taught for 33 years. He is also adjunct faculty at the California Institute of Integral Studies and a fellow at the Institute of Noetic Sciences. He's an award-winning teacher, and Chris's work explores the philosophical implications of non-ordinary states of consciousness, especially psychedelic states. Chris has also written three books. One is called *Lifecycles*, another *Dark Night, Early Dawn*, and *The Living Classroom*. His new book is *LSD and the Mind of the Universe*, which is actually the title of his talk as well for the conference coming up in actually a month tomorrow. We start in four weeks. So welcome, Chris. Pleasure to see you again. Have a conversation. It's always great to hear what you have to say, and we look forward to having you at the conference again. But as we get started, maybe you can introduce yourself and let our viewers know a little bit about your story and the work that you've done in terms of, I think we're just talking about, you know, 73 high dosage LSD journeys as a mind in the mind of a psychologist or philosopher, if I remember correctly, from last year.
 
 **Chris Bache: ** Yeah, well, I was actually a professor of religious studies, and I taught in a philosophy of religious studies program at the university, which is part of the Ohio State system, up in the northeast corner of the state. And I'm really excited about the conference. I'm very, very pleased that the book is actually being released for the first time anywhere at the conference, and after all the years of research and all the years of writing, finally, it's coming out and allowing me to have a conversation that I've been waiting to have for a long time. Because basically, in order to do psychedelic work myself, to explore the philosophical potential of psychedelic states, I had to do all this work underground, so it was hidden from my colleagues. I couldn't really talk about it. In my day job, I was a conventional, you know, maybe not so conventional, but I was a religious studies professor. None of my students knew about my work. So this is a conversation that I've been waiting for a long time. I had to wait until after I retired to have it. I had to wait until after I was past the statute of limitations for my psychedelic crimes, and I've been, I'm just delighted to begin this conversation here at the conference and in the workshop we'll do following the weekend after the conference.

@@ -1,31 +1,26 @@
 ---
-archival_title: LSD & the Mind of the Universe: Diamonds from Heaven
-
-channel: Trust Psyche Livestream
-
-recorded: 2019-11-13
-
-published: 2019-11-13
-
-youtube_id: uHn8lzYNXyE
-
-speakers:
-
-- Jessica DiRuzza
-
-- Chris Bache
-
-- Audience Members
-
-Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
-
-transcription_date: 2025-08-01
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Jessica DiRuzza"]
+title: "LSD & the Mind of the Universe: Diamonds from Heaven"
+slug: 2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven
+date: 2019-11-13
+type: lecture
+channel: Trust Psyche
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.srt
 ---
-<!-- diarist_sha1:4f75e696d6ff5e821a7b9ee43362395acfad5e04 -->
----
+
 Jessica DiRuzza: 
 Welcome, everybody. I'm Jessica DiRuzza from Trust Psyche, and it is such a pleasure to spend this Sunday together. This is our free monthly Trust Psyche livestream that we host every first Sunday of the month. All are welcome, so please invite your friends. We feature a variety of speakers on a myriad of topics, and you can find out more about us at trustpsyche.com. You can sign up for these livestreams at trustpsyche.com backslash live stream to participate live and ask your questions. If you value what we do, the best way to support us is by subscribing to our YouTube channel, liking this video, and sharing it with your friends.
 

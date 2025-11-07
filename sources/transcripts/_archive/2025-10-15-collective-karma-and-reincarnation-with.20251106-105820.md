@@ -1,0 +1,196 @@
+---
+diarist_sha1: a924d54fba4ca2dd2347c84d97805f35440696c2
+
+---
+<!-- diarist_sha1:a924d54fba4ca2dd2347c84d97805f35440696c2 -->
+Chris Bache: The idea that we all have to get past the same finish line at the same time for things to work out right—where we all have to be saved before we die—doesn't hold as much weight as viewing life as a flower garden. We are different types of flowers, each developing and emerging over long periods of time.
+
+Emmy Vadnais: Thank you for that perspective, Chris. This is our second interview together, although we also had a live stream. In our first conversation, we discussed your book *LSD in the Mind of the Universe: Diamonds from Heaven,* where you recounted your experiences during 73 LSD sessions, including many deaths and rebirths. Today, we will explore your understanding of personal and collective karma and how we reincarnate for the collective good toward what you describe as the "future human." To start, how did you become interested in these topics?
+
+Chris Bache: The first book I wrote as an academic was *Life Cycles, Reincarnation, and the Web of Life.* My interest in reincarnation began early in my career when I encountered Ian Stevenson's research at the University of Virginia and Stan Grof's work in *Realms of the Human Unconscious.* As I delved into Stevenson's research, my worldview shifted; I began to perceive life as a continuation of past lives, leading toward future ones. 
+
+I studied the evidence for reincarnation extensively, examining past life therapy cases. I came to understand how unresolved issues, burdens, and unfulfilled expectations can carry over into subsequent lives—not in a simple way, but through complex and subtle mechanisms. This exploration clarified that our individual lives are continuations of past projects and will lead to future ones after our physical bodies die. 
+
+When I started my psychedelic work, many of these ideas were affirmed and elaborated. My experiences revealed a reality of reincarnation as a natural aspect of spiritual existence, intricately intertwined with the physical world, which led me to explore the distinctions between individual and collective karma. This fundamental theme is a cornerstone of my second book, *Dark Night, Early Dawn,* where I investigate how the boundary between individual and collective karma dissolves when one reaches deep states of consciousness.
+
+Emmy Vadnais: Before we dive deeper, it’s important to clarify that we’re not suggesting people engage in LSD to experience these insights.
+
+Chris Bache: Absolutely. What I did was illegal, and while I felt it was unjust for mind-expanding substances to be prohibited, I would never advocate breaking the law. There are many techniques to access these deep levels of consciousness. My journey was just one way I explored this domain. I also underwent three years of hypnotherapy to explore my former lives, which had nothing to do with psychedelics.
+
+Emmy Vadnais: Given your background as a professor of philosophy and religion, could you share insights regarding the spiritual evidence for reincarnation, and then perhaps touch on the scientific evidence as well?
+
+Chris Bache: From an empirical standpoint, I found Stevenson's work to be intellectually compelling. He and his teams conducted research with thousands of children around the globe who spontaneously recalled memories of their previous lives. The detail he documented adds to the credibility of reincarnation as a fact of life. 
+
+Furthermore, my studies in past life therapy have shown that individuals can remember their profound past as a means to heal and reclaim the gifts they possess from previous lives. Not all memories are burdensome; we also inherit strengths and virtues. Through meditation, I experienced the boundaryless nature of consciousness, establishing a connection to Transpersonal realms—those that extend beyond personal identity. 
+
+My deeper psychedelic work further reinforced that reincarnation is a reality. While Stevenson's evidence is vital, it merely scratches the surface of understanding how reincarnation operates. There’s much we don’t know about the soul’s physics—how consciousness transitions after death and reintegrates in another life. Our entire species evolves through collective karma over generations. We often confuse intellectual understanding with direct experience, but both aspects can reinforce each other.
+
+Emmy Vadnais: You've described feeling a sense of oneness during these experiences. Can you share that feeling, especially for those who might not be familiar with your journey?
+
+Chris Bache: Oneness is an intricate theme that surpasses mere reincarnation. This truth embodies our evolving consciousness over vast time scales, but it also touches on deeper inquiries about our essence and existence. Many spiritual traditions suggest that our essence is intertwined with the essence of the Divine. 
+
+Experiencing oneness dissolves the rigid boundaries between self and other. It allows you to feel a profound connection to life—a sense of intimacy and kinship with everything around you. This realization can transform your life, fostering greater compassion for both others and yourself. 
+
+When you encounter oneness, it unleashes an inherent drive to look out for the collective good. This intrinsic compassion is a natural byproduct of such experiences, which is why wisdom and compassion in mystical traditions are intricately linked.
+
+Emmy Vadnais: Can you describe your personal experience of that oneness?
+
+Chris Bache: That's a challenging question because recalling those memories requires immersion back into them. Yet, I’ve learned that oneness is not a simple switch; there are multiple degrees and stages of initiation into this state. One can catch glimpses of oneness or genuinely dissolve into the deeper layers of existence. 
+
+This journey involves navigating increasingly intense levels of energy, which accompany deeper states of consciousness. My path involved years of intense purification leading to moments of insight, where everything comes alive, and one experiences profound joy devoid of loneliness. It's as if you’ve found your essential nature or have been found by it. 
+
+The key lies in how deeply one dares to dive into this oneness, as going too fast can be jarring. After the experience, integrating these realizations influences psychological and spiritual development in ways we are only beginning to understand. 
+
+Emmy Vadnais: Your experiences highlight the interconnectedness between personal actions and the collective consciousness.
+
+Chris Bache: Exactly. Consider any negative qualities we wish to overcome; none of these are private issues. They place us within a larger social context. The line between personal resolution and collective healing is quite blurred. 
+
+Historically, Western thought has tended to treat individuals as isolated entities. However, my experiences have shown that each person is a vital component of humanity's tapestry. Each mind is a cell contributing to the fabric of human consciousness. Our struggles and breakthroughs resonate beyond ourselves—they ripple through the collective.
+
+Emmy Vadnais: Among the world's religious traditions, some embrace reincarnation while others might dismiss it. Could you comment on this divide?
+
+Chris Bache: Religions are multifaceted; they exist on both exterior and esoteric levels. Eastern religions like Buddhism and Hinduism naturally affirm reincarnation. Meanwhile, in the West, mystical traditions within Judaism and Islam also uphold reincarnation. 
+
+Christianity presents a more complex picture. Early sects within Christianity embraced reincarnation, especially within Gnostic traditions. However, over time, ecclesiastical authorities sidelined these beliefs to reinforce centralized control. 
+
+Interestingly, modern surveys suggest that about 25% of American Christians believe in reincarnation, a clear indicator that many don't rely solely on ecclesiastical endorsement. My book examines how reincarnation can align with core Christian principles, offering a fresh perspective on long-standing dogmas. 
+
+By considering reincarnation, we may begin to find explanations for life's disparities—why some experience abundance while others suffer. It's important to note: while Chris Bache as a personality lives once, the soul within, which animates us, lives on across many experiences.
+
+Emmy Vadnais: There’s a depth in understanding that each incarnation is but one facet of a larger existence. Some even interpret Jesus's resurrection as a metaphor for reincarnation. 
+
+Chris Bache: That’s an interesting discussion. While I don't find compelling evidence that Jesus explicitly taught reincarnation, his teachings are indeed compatible with the idea. The first gospel notably lacks an empty tomb description, suggesting a transformation akin to the transcendent experiences I've described. 
+
+Easter symbolizes continuity after death, a journey that speaks to the universal truth of life beyond death. 
+
+Emmy Vadnais: The connection to quantum physics and oneness adds another layer—some find it beautiful, while others may resist the idea of being part of a larger collective.
+
+Chris Bache: It’s a fascinating dichotomy. Quantum entanglement illustrates the interconnectedness of all life, prompting rich philosophical discussions about individuality versus collective existence. Ultimately, we must acknowledge that our individual thoughts, emotions, and actions contribute to a broader tapestry of existence.
+
+**Chris Bache: ** I think when we first begin to entertain the possibilities that we are larger than we’ve conventionally thought, and that we have interconnections that extend beyond our understanding, it's natural to feel fear and reflexively pull back. It’s completely understandable. But if we allow that feeling to pass and begin to look at the data—like research on near-death experiences and past life therapy—we see universal threads running through these accounts. These threads reveal continuity between lives and the richness that emerges when individuals untangle their past. 
+
+When we trace our mind and body back through their long evolutionary lineage, we discover that both have beautiful, magnificent pedigrees. The understanding that our body and mind are not ours alone—rather, they are parts of a collective summation—helps soften that initial anxiety. Instead of dissolving the individual, this recognition affirms our individuality within a vast web of interconnections. We draw sustenance from and give back to this web, much like a leaf that draws energy from a tree and returns it. This perspective becomes a natural way of seeing the world. 
+
+I’m thankful that physicists are expanding on these concepts with quantum physics and unified systems theory. At its core, this understanding can be an experiential one. When we calm our hearts and minds, entering deeper states of self-aware stillness, we can feel instincts and perceptions that usually go unnoticed. In that quiet space, we begin to recognize threads connecting us to the lives of others—threads that, like those between leaves on a tree, cannot be broken.
+
+**Emmy Vadnais: ** I agree with your description of a collective mind or collective consciousness that we are all a part of. I recently spoke with Jill Bolte Taylor, who wrote *My Stroke of Insight*. After experiencing a stroke that took her left brain offline, she only had access to her right brain and felt a merging of oneness. She could sense the energy from people visiting her, even for just a few minutes. This inspired her follow-up book about whole brain living, where she shares how others can have similar experiences. 
+
+What do you think is the significance of reincarnation? How does karma play a role, and how does it give meaning to our lives or potentially change our lives?
+
+**Chris Bache: ** That’s a large question, so let me share how it has impacted me and the students I've engaged with. For decades, I believe it changes everything. It makes life more intelligible and our experiences more comprehensible. We all have aptitudes and interests that we never learned from anyone. Some people excel at musical pursuits, while others gravitate toward sports—these differences aren't simply due to genetic mutations or accidents of birth.
+
+When we explore past life experiences, it makes sense to view our attributes as outcomes of our choices from the past. For example, an interest in music may start small but can grow tremendously, like Mozart composing concertos at six years old. Skills can emerge from past experiences, such as a talent for quick drawing from a past life as a frontier marshal. This understanding empowers us because it suggests we’re not prisoners of our past—our history shapes us, but we can make choices that feed into our future. 
+
+Through the lens of reincarnation, we realize that everyone is playing a different game, so to speak. Just as students progress through various grades in school, we all move through our individual lives at different paces and stages. This perspective allows us to be compassionate towards others, as each person is working toward their own growth at their own speed. Instead of focusing on a singular finish line, we can see ourselves as part of a beautiful garden of different flowers developing over extended periods. I often remind my students to ask themselves, "What do you want to be doing in 10,000 years?" 
+
+**Emmy Vadnais: ** That’s a profound question. 
+
+**Chris Bache: ** Yes, it is. And it illustrates that the universe thinks on a grand scale, not a small one. The Hindu perspective tends to view reincarnation as a burden—a repetitive cycle we must endure. However, we can flip that narrative. The greatest burden faced by modern humanity is the idea that we are nothing more than our biology. Yet reincarnation reveals that we are part of a vast, evolving process. With this understanding, we can elevate our perspective on life’s purpose.
+
+A person’s performance on an academic test correlates with the amount of time and effort they've invested. If life has a purpose, it should be proportionate to the time we are given to realize that purpose. Through reincarnation, we see that we have an open-ended opportunity to develop ourselves. This doesn’t lead to laziness; rather, it invites us to explore the grandeur of our existence. We are ancient players in this cosmic drama, integral to the unfolding of the universe.
+
+**Emmy Vadnais: ** What do you see as the purpose of our individual karma in relation to the collective? What are we reincarnating toward?
+
+**Chris Bache: ** To me, the boundary between the individual and the collective blurs. I view it as one living organism comprised of different individuals. Humanity's collective psyche is unique, and we exist in a dialogue between the individual and the collective. This raises the question of what we are evolving toward. Most answers, such as love or wisdom, may seem too limited and tied to our historical perspective—ask the same question in 5,000 years, and we would likely arrive at a richer answer.
+
+It's safer to frame this discussion around the processes of growth and empowerment. Our essence seems to lean toward growth—evolving toward love, wisdom, and intelligence. I consider reincarnation a higher octave of evolution. While evolution progresses entire groups forward, reincarnation facilitates the learning and growth of individuals. Nature allows individuals to run forward through time—a process we've been undergoing for hundreds of thousands of years.
+
+What could we become if we had 10,000 years to work with? The potential is immense; we could become more attuned to spiritual realities and collaboratively solve our challenges.
+
+**Emmy Vadnais: ** How can people engage in the karmic and reincarnation process more consciously? I imagine many listeners might think, “I’m suffering. I don’t want to be here anymore.”
+
+**Chris Bache: ** My heart goes out to those experiencing such profound pain. It's common to project our reality onto metaphysical views; if one sees the world as a prison run by dark forces, it reflects their psychological state. As you gain clarity through spiritual practices and strive to live a good life, the constrictive forces in your life will loosen. You’ll realize that, in subtle ways, you're in control of the energy flowing through your life. 
+
+If past choices have led to constrictions, you can actively choose differently now. Many spiritual traditions, including Buddhism, offer guidance for fostering clarity through ethical living. The more we commit to these principles, the different our perception of the universe becomes; instead of seeing dark forces, we may discover a hopeful, vibrant reality full of opportunities.
+
+To change your experience, reflect on your actions. Commit to doing no harm and to speaking and acting with kindness. Over time, this can create a calmer, quieter, more peaceful lifestyle. As you clear your inner life, opportunities for growth and clarity will surround you. Karma is not a trap; it’s a platform allowing us to transcend our past and actively create a brighter future.
+
+**Emmy Vadnais: ** Can you expand on your understanding of karma? Many people may equate it with simple cause and effect or punishment.
+
+**Chris Bache: ** Karma is indeed about cause and effect, referred to in Hindi as *karmavipaka*. Everything exists within a universe of cause and effect—there's no part of existence that lacks this principle. The choices we make set into motion a trajectory of learning. Each decision—whether to include or exclude, to support or to harm—echoes back around, shaping subsequent experiences.
+
+While the notion of good and bad karma focuses on the consequences of our actions, what’s crucial is the recognition of our agency. We may not control every outcome initially due to the system's momentum, but we can begin to consciously engage with those forces. Think of your life as a transcript where your choices reflect your learning journey. Just as students accumulate grades based on their efforts, we too are compiling our life's transcript through the choices we make.
+
+Karma isn’t magical or punitive; it's simply a reminder that our psychological and spiritual realms also follow laws of cause and effect. Yet, there exists a deeper dimension within us—our essential nature—which is free of cause and effect. Spiritual practices aim to connect us more with this aspect rather than get lost in the turbulence of our karmic cycles.
+
+**Emmy Vadnais: ** What role do historical and collective traumas play in our current experiences? You mentioned some positive aspects we carry forward, but what about the burdens?
+
+**Chris Bache: ** History imbues us with both virtues and burdens. Right now, we’re in a critical juncture in human history—facing challenges unparalleled in our past. Our entire planet is at risk due to human actions, creating chaos and uncertainty. As we assess the turbulence we experience today, we must consider what inner turbulence might be contributing to it.
+
+When individual mystics approach enlightenment, they often undergo a deep purification process before achieving profound understanding. In a way, we can view humanity as a single meditating entity going through a dark night of the soul—a collective purging of everything incompatible with universal love. We need to expose our shadows to heal them. 
+
+This time of purification is crucial for the spiritual awakening we need. As we navigate the disturbances in our world, we reveal our shadows, which can be an essential part of leading to our growth.
+
+**Emmy Vadnais: ** This idea resonates deeply. Focusing on our shadows allows for healing. How should individuals balance self-focus and assisting the collective?
+
+**Chris Bache: ** It’s a both/and situation. While an enlightened person might uplift the collective from a distance, most of us exist in the world and want to make a tangible difference. Helping to create positive change is vital, but it must come from a place of inner clarity. 
+
+Engaging in social activism without deeper personal clarity can lead to unintended consequences, so integrating both aspects is essential. Some may be drawn to individual growth, while others focus on social change, and each path is valid. Ultimately, we aim to leave the world a better place, addressing our collective challenges and supporting those in need. 
+
+**Emmy Vadnais: ** And what would you say to someone who feels they are doing their part, yet sees others or institutions causing problems?
+
+**Chris Bache: ** That sentiment is valid. It's understandable to want to address injustice actively. But from a philosophical standpoint, understanding the deeper forces at play in people's lives can transform our perspective. Envy of others' good fortunes or judgment of their misfortunes doesn't serve us; we should focus on our growth instead. It’s vital to engage in the aspects of the world that we can influence while recognizing the variety of experiences and stages that others are in.
+
+Ultimately, much of our judgment serves only to create barriers. We need to approach life with compassion and understanding, realizing that everyone is navigating their own unique karmic pathway. 
+
+**Emmy Vadnais: ** Do you believe we are currently experiencing a collective near-death experience, even if we do not actually die since consciousness continues?
+
+**Emmy Vadnais: ** Chris, some listeners may wonder why, if there is this oceanic wave of love and oneness, things have to become so tough. Why must we endure such pain and suffering, or even face death when perhaps it seems unnecessary?
+
+**Chris Bache: ** That’s a challenging question. You’re essentially asking, why is there suffering if intelligence, wisdom, and love are the foundations of creation? Why is it so difficult? It's easy to feel anger toward divine intelligence and think we could create a better universe with less suffering. However, we judge based on our limited perspective and don't always understand the broader project being built here. The creative intelligence thinks on an expansive scale. When we meditate on the vastness that astrophysics reveals, we have to ponder what this intelligence is creating in us as a species. If we look at humanity's evolution over 100,000 years—a blink in cosmic time—we might begin to understand where suffering fits into this larger picture. Most of us just want comfort and happiness, but perhaps that’s not the ultimate agenda of existence. 
+
+I don’t mean to dismiss the reality of suffering. It’s vital to respect those who endure it. Think of it this way: when we build a house, it takes time to finish. The rain comes in because the roof isn’t yet put on. Humanity, in this sense, is an unfinished species. Sri Aurobindo discussed how we're transitioning from what we were 100,000 years ago to what we’re becoming. We’re not the end of the project; we’re still in progress. For instance, take disease. We're only beginning to harness our consciousness to heal ourselves. Current suffering can be seen as unfinished business—we haven't yet expanded our understanding enough to control our health fully.
+
+Before blaming divine intelligence for the suffering we face, we should reexamine our assumptions about the purpose of this project.
+
+**Emmy Vadnais: ** Given your deep background in philosophy and spirituality, could you share your relationship to the term "God"?
+
+**Chris Bache: ** I was raised in a Catholic tradition and spent four years studying to be a priest. Through that experience, I learned a lot about various religions and how they come into being. Just like sausage-making, understanding the formation of dogma can be quite messy. I've realized it’s dangerous for anyone to claim they know what God wants others to do. There are countless cultural and historical limitations embedded in the language of God, which is why I prefer to use terms like "the divine." My book, *LSD in the Mind of the Universe*, avoids concretizing divinity in conventional terms because I seek to describe something much larger.
+
+The universe's vastness—measured in light-years—points to an intelligence that encompasses it all. When I journey into that vast intelligence, I find profound love. Once you've experienced this clarity, it’s easy to fall in love with this reality. I call it my beloved; it represents a relationship with life and the deeper intelligence within it. Though I sometimes refer to the divine or God, it's always with the intent of pointing to a more expansive reality than what traditional definitions offer. 
+
+One of the hardest aspects of my psychedelic journeys wasn’t the experience itself, but returning to ordinary life after those encounters. Even though I knew that deeper reality was always present, the intensity of being connected to that source made its absence acutely felt. Returning to this everyday world required a decade of grounding myself again. While I wouldn't trade any of those experiences for material treasures, learning to exist without that constant immersion was a real challenge for me.
+
+**Emmy Vadnais: ** In your experiences, how can people explore their deeper creative intelligence and move their karmic journey forward? Are there practices outside of psychedelics that can assist?
+
+**Chris Bache: ** There are countless practices available because spirituality encompasses many traditions. Each religious or philosophical lineage—whether Christian, Jewish, Muslim, or Buddhist—offers unique insights into spirituality, but they all share common ground. Today, many formerly secret teachings are now accessible everywhere. 
+
+After the Chinese invasion of Tibet, many lineage holders shared their ancient wisdom traditions in Western countries. This has led to accessible spiritual and therapeutic practices, which can help us heal emotional wounds and deepen our understanding. My wife, who was my sitter during my LSD sessions, found what she needed through meditation without ever taking psychedelics herself. 
+
+There are many rich traditions—Celtic, Native American, South American, and modern shamanic practices. In everyday wisdom literature, you can find teachings about kindness, non-injury, simplicity, and centering, which can foster a calmer, richer life. The journey toward healing and growth isn't confined to one lifetime; it's a continuous process improving over many lifetimes.
+
+**Emmy Vadnais: ** You’ve mentioned the shadow self. How much do joy, love, and following one's bliss contribute to a person’s karma and reincarnation?
+
+**Chris Bache: ** They play a critical role in our karmic journey. Often, what we learn about reincarnation comes from the struggles we face, which can skew our view negatively. However, our creative pursuits also have roots that extend far beyond our current lives. 
+
+Our past experiences shape our virtues and vices. We honor existence by embracing our virtues and working to reduce our vices. 
+
+**Emmy Vadnais: ** What importance does self-love hold in this process?
+
+**Chris Bache: ** How can you love the world if you don’t love yourself? This became very clear to me through my teachings. If we seek unity with all of life, we must first achieve unity within ourselves. As we try to connect with the divine or universe, all the parts of us that conflict with self-love surface. This includes trauma and self-defeating habits. 
+
+Deep acceptance and unconditional love for ourselves is essential, the kind of love that a mother has for her child, nurturing and caring for even the darkest parts of ourselves.
+
+**Emmy Vadnais: ** Unconditional love covers a multitude of challenges.
+
+**Chris Bache: ** Indeed, it compensates for many difficulties we face.
+
+**Emmy Vadnais: ** You've shared so much today about collective karma and reincarnation. I'm excited for our next conversation about the birth of a future human that you experienced during your LSD sessions. Could you give us a glimpse of that?
+
+**Chris Bache: ** One of my surprises was that, while I began my psychedelic journey focusing on personal transformation, much of my work emphasized collective dynamics. My love expanded from myself to embracing the people and the planet. Over time, I had visions of humanity at a pivotal moment, facing a death and rebirth process. This wasn't just personal; it was a larger cycle within history. 
+
+Humanity is on the brink of giving birth to a new kind of being—a revolution in human consciousness, which some call Homo spiritualis or Homo noeticus. This means that future generations will exist within a fundamentally different collective psyche, shaped by a slow but profound transformation that will take decades.
+
+I'll also delve into how reincarnation plays a role in this evolution, introducing concepts of the diamond soul and an integration of our experiences across lifetimes, leading to greater insight and compassion in humanity. Understanding this reassuring reality helps me navigate the growing chaos in the world.
+
+**Emmy Vadnais: ** I’m looking forward to that conversation about the future human. Is there anything else you’d like to share about collective karma and reincarnation today?
+
+**Chris Bache: ** I’d like to share a visionary experience from my book. About fifteen years into my journey, I opened to a profound realization that humanity functions as a single organism, reincarnating over generations. I saw this collective process of perpetual development and integration of spirituality. It was both uplifting and devastating to witness that whole generations might be sacrificed during this transformation. But I believe this role we take on is a voluntary offering to the creative intelligence behind our evolution. 
+
+It’s crucial to recognize that the individual experiences we have are reflective of a collective journey. We are all interconnected in this transition. Some of us may move ahead, while others may lag, but ultimately, we progress together toward a magnificent future.
+
+**Emmy Vadnais: ** I felt moved during this conversation as you shared. Your book, *LSD and the Mind of the Universe*, is deeply impactful, and I look forward to discussing this further. Thank you for your insights today, Chris. 
+
+**Chris Bache: ** Thank you, Emmy. It’s a pleasure and an honor to share this journey with you.
+
+**Emmy Vadnais: ** The pleasure is all mine. And to everyone watching or listening, thank you for being with us. You are the reason we are here.

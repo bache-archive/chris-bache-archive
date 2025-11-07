@@ -1,25 +1,25 @@
 ---
-
-archival_title: When We Die… (IONS “Living Classroom” excerpt)
-
+title: When We Die… (IONS “Living Classroom” excerpt)
+slug: 2022-04-26-when-we-die-ions-living-classroom-excerpt
+date: 2022-04-26
+type: other
 channel: Institute of Noetic Sciences
-
-recorded: unknown
-
-published: 2022-04-26
-
-youtube_id: 04N9-eDIkyg
-
-speakers: \[Chris Bache\]
-
-Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
-
-transcription_date: 2025-08-01
-
-license: CC0 1.0 Universal
-
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2022-04-26-when-we-die-ions-living-classroom-excerpt.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2022-04-26-when-we-die-ions-living-classroom-excerpt.srt
 ---
-
 **Abstract (≈130 words)**
 
 In this short excerpt from an Institute of Noetic Sciences (IONS) ConnectIONS Live session, philosopher Chris Bache explores the fate of consciousness after physical death. He proposes that every lesson, deed, and mistake we accumulate is both carried forward by the enduring soul and simultaneously encoded into humanity’s collective psyche, or “species mind.” Because the species itself possesses an integrating consciousness, individual experiences—writings, conversations, insights—are never lost; they become “hard-wired” into a vast Akashic-like network that preserves and evolves collective knowledge. Bache argues that understanding this process requires a quantum rather than atomistic perspective: bodies come and go, but souls and species fields persist. He concludes that many possible continuations exist for these informational fields once we are no longer physically present.

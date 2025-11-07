@@ -1,9 +1,25 @@
 ---
-diarist_sha1: 824e989fb3de037ddc31496fa116a8f856373e14
+title: Face to Face with Chris Bache
+slug: 2024-02-08-face-to-face-with-chris-bache
+date: 2024-02-08
+type: interview
+channel: OMTimesTV
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2024-02-08-face-to-face-with-chris-bache.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2024-02-08-face-to-face-with-chris-bache.srt
 ---
-<!-- diarist_sha1:824e989fb3de037ddc31496fa116a8f856373e14 -->
----
----
+
 **Interviewer: ** Welcome to OM Times TV, a division of OM Times Media and Broadcasting. Welcome to the No BS Spiritual Book Club's live streaming interview series where leading New Thought teachers, speakers, and authors share the intimate stories behind the 10 best spiritual books that inspired them the most on their spiritual journey. From well-known classics to hidden gems you might never have heard of, the No BS Spiritual Book Club saves you time and money by sharing reliable recommendations from those who've walked the path before you. The No BS Spiritual Book Club, the only No BS guide to the best spiritual books to inspire your own journey of self-discovery. Here’s your host, founder of the No BS Spiritual Book Club, Sandy Sedgbeer.
 
 **Sandy Sedgbeer: ** Hello and welcome. Joining me today to share the 10 best spiritual books that inspired him the most on his life journey is award-winning teacher and international speaker Christopher M. Bache, whose latest book, *LSD and the Mind of the Universe*, is, in my opinion, probably the most important book of our time. Chris Bache is professor emeritus in the Department of Philosophy and Religious Studies at Youngstown State University, where he taught for 33 years. He's a fellow at the Institute of Noetic Sciences and an advisory board member for Grof Transpersonal Training and the Grof Foundation. And if you want to know why I regard *LSD and the Mind of the Universe* as the most important book of this time, stay tuned. We'll find out more about that later in the show. Meantime, Chris Bache, welcome to the show.

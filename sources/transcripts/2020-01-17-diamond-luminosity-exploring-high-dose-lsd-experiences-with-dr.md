@@ -1,9 +1,25 @@
 ---
-diarist_sha1: f1a629a540439280a906c1b23ae4130c058eb6c7
+title: Diamond Luminosity — Exploring High-Dose LSD Experiences with Dr. Chris Bache
+slug: 2020-01-17-diamond-luminosity-exploring-high-dose-lsd-experiences-with-dr
+date: 2020-01-17
+type: interview
+channel: Psychedelics Today
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2020-01-17-diamond-luminosity-exploring-high-dose-lsd-experiences-with-dr.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2020-01-17-diamond-luminosity-exploring-high-dose-lsd-experiences-with-dr.srt
 ---
-<!-- diarist_sha1:f1a629a540439280a906c1b23ae4130c058eb6c7 -->
----
----
+
 **Joe Moore: ** You. Good. Hello, everybody. Welcome back to Psychedelics Today. Today on the show, we have Chris Bache, retired professor and Professor Emeritus at Youngstown State University and author of the recent book *LSD and the Mind of the Universe*. We're also going to be doing a giveaway. So stay tuned on that, Chris. Thanks for joining us.
 
 **Chris Bache: ** Glad to be here, guys. So I, I had been talking about you, I think even a couple of years ago when I found out about your kind of long-term project, before, probably the book, was even with a publisher, and I was really excited by the idea, and then I just totally forgot, and then all of a sudden, we got connected, I think, through the publisher. And now I'm very excited to record with you, because this is quite the project you've undertaken, and you've got some very unique insights to share. How do you like to start this story? Like, how did maybe, maybe we can start with psychedelics? How did psychedelics come on your radar initially?

@@ -1,29 +1,26 @@
 ---
-archival_title: 2025-01-08 – The Phoenix Always Rises: Evolving into the Future Human
-
+title: "The Phoenix Always Rises: Evolving into the Future Human"
+slug: 2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human
+date: 2025-01-08
+type: lecture
 channel: Accidental Gods
-
-recorded: 2024-12 (exact date unknown)
-
-published: 2025-01-08
-
-youtube_id: q-caGhIlKS8
-
-speakers:
-
-- Chris Bache
-
-- Manda Scott
-
-Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
-
-transcription_date: 2025-07-31
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Manda Scott"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.srt
 ---
-<!-- diarist_sha1:000030a1fde1296765ecdcaa07dee97258c95d9a -->
----
+
 Manda Scott 
 Chris, welcome to the accidental goals podcast. How are you, and where are you? It’s a slightly gray December day over here, but it might be lovely where you are.
 

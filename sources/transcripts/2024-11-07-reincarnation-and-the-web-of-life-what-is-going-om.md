@@ -1,22 +1,26 @@
 ---
-archival_title: "2024-11-07 – Reincarnation and the Web of Life (What Is Going OM)"
-
-channel: "Sandie Sedgbeer"
-
-recorded: "2024-11-07"
-
-published: "2024-11-07"
-
-youtube_id: "-Tavh3KhQPE"
-transcriber: "gpt5 model by OpenAI"
-
-transcription_date: "2025-08-19"
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Sandy Sedgbeer"]
+title: Reincarnation and the Web of Life (What Is Going OM)
+slug: 2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om
+date: 2024-11-07
+type: lecture
+channel: Sandie Sedgbeer
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: gpt5 model by OpenAI
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.srt
 ---
-<!-- diarist_sha1:3b9b2a582d585238cfaeee98f1d232d447174e64 -->
----
+
 Sandy Sedgbeer
 Hello and welcome. Today we're going to be talking about life after death, heaven and hell, and reincarnation. Christopher Bache is professor emeritus in the Department of Philosophy and Religious Studies at Youngstown State University, adjunct faculty at the California Institute of Integral Studies, an emeritus fellow at the Institute of Noetic Sciences, and on the Advisory Council of Grof Legacy Training. An award-winning teacher and international speaker, he is the author of four books, including one that I rate as one of my favorites of all time, LSD and the Mind of the Universe: Diamonds from Heaven, which chronicles his 20-year psychedelic journey exploring consciousness. The other book we’re discussing today is Life Cycles: Reincarnation and the Web of Life, which combines scientists’ testimonies about reincarnation with findings from consciousness research and near-death studies. Christopher Bache, welcome back to the show.
 

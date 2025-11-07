@@ -1,22 +1,26 @@
 ---
-archival_title: LSD & the Mind of the Universe – SMN Webinar
-
-channel: Scientific & Medical Network
-
-recorded: 2022-12-07
-
-published: 2022-12-07
-
-youtube_id: hr0nxquWvgQ
-Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
-
-transcription_date: 2025-08-01
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "David Lorimer"]
+title: "LSD & the Mind of the Universe (SMN webinar)"
+slug: 2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar
+date: 2022-12-07
+type: lecture
+channel: "Scientific & Medical Network"
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.srt
 ---
-<!-- diarist_sha1:b17902104e0f81b2564dd4ab6975b8af6ea0710f -->
----
+
 David Lorimer: 
 A warm welcome, everybody. I'm tuning in from the Cathar area of South West France. As many of you will know, my name is David Lorimer. I'm the Program Director of the Scientific and Medical Network.
 

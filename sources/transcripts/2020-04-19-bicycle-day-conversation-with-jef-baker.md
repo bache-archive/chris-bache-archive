@@ -1,29 +1,26 @@
 ---
-archival_title: Bicycle Day Conversation with Jef Baker
-
+title: Bicycle Day Conversation with Jef Baker
+slug: 2020-04-19-bicycle-day-conversation-with-jef-baker
+date: 2020-04-19
+type: interview
 channel: Australian Psychedelic Society
-
-recorded:
-
-published: 2020-04-19
-
-youtube_id: B0BhUOEP1Mg
-
-speakers:
-
-- Chris Bache
-
-- Jef Baker
-
-Transcriber: Otter.ai (diarized, speaker-attributed) + GPT-5 normalization
-
-transcription_date: 2025-07-31
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Jef Baker"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2020-04-19-bicycle-day-conversation-with-jef-baker.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2020-04-19-bicycle-day-conversation-with-jef-baker.srt
 ---
-<!-- diarist_sha1:6500bdfa1ddd5a34e3d437766da4498d2fcc9e67 -->
----
+
 Jef Baker: 
 Author and psychedelic explorer, Chris Bache meticulously documented the insights from 73 high-dose LSD sessions conducted over 20 years. Drawing on his training as a philosopher of religion and following protocols established by Stanislav Grof, Chris went on a life-changing journey to explore his mind. What he discovered drew him into deep communion with cosmic consciousness.
 

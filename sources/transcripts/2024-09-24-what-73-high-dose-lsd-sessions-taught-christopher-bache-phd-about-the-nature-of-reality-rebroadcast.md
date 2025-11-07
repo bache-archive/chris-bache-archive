@@ -1,20 +1,26 @@
 ---
-archival_title: "2024-09-24 – What 73 high dose LSD sessions taught Christopher Bache PhD about the nature of reality (Rebroadcast)"
-
-channel: "Numinus Network"
-
-published: "2024-09-24"
-
-youtube_id: "I1n2E46S-4E"
-transcriber: "gpt5 model by OpenAI"
-
-transcription_date: "2025-08-19"
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Reid Robison", "Steve Thayer"]
+title: What 73 high dose LSD sessions taught Christopher Bache PhD about the nature of reality (Rebroadcast)
+slug: 2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast
+date: 2024-09-24
+type: lecture
+channel: Numinus Network
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: gpt5 model by OpenAI
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.srt
 ---
-<!-- diarist_sha1:646fd1f7e2574f06760b80c7025b20788591214f -->
----
+
 Steve Thayer 
 Steve Thayer, welcome back to Psychedelic Therapy Frontiers, the podcast devoted to exploring the frontiers of psychedelic medicine and what it takes to cultivate a healthy mind, body, and spirit. As always, Psychedelic Therapy Frontiers is brought to you by Numinous. I'm Dr. Steve Thayer, and today my co-host, Dr. Reid Robison, and I are joined by Dr. Christopher Bache, PhD. Chris is a professor emeritus in the Department of Philosophy and Religious Studies at Youngtown State University, adjunct faculty at the California Institute for Integral Studies, emeritus fellow at the Institute of Noetic Sciences, and on the advisory council of Grof Legacy Training. He's the author of several books, but the one that prompted us to reach out to him for this interview is LSD and the Mind of the Universe—an account of what Chris experienced and learned from 73 high-dose LSD journeys that he embarked on over the course of 20 years.
 

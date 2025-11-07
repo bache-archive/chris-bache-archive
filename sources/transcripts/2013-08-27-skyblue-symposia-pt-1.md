@@ -1,9 +1,25 @@
 ---
-diarist_sha1: 7849cffd7d59a6e635c6af31abb184acef351415
+title: Christopher Bache at SkyBlue Symposia - Pt 1 of 2
+slug: 2013-08-27-skyblue-symposia-pt-1
+date: 2013-08-27
+type: lecture
+channel: SkyBlue Symposia
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2013-08-27-skyblue-symposia-pt-1.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2013-08-27-skyblue-symposia-pt-1.srt
 ---
-<!-- diarist_sha1:7849cffd7d59a6e635c6af31abb184acef351415 -->
----
----
+
 **Susan: ** Welcome to Sky Blue Symposia, a convivial gathering for stimulating conversation and a free exchange of ideas. We're so glad you could join us, friends. I'm Susan, your host, and here at our round table are Cybele and Chipper, and today, Chris Bache is kind enough to join us for a new symposium as we continue consciously exploring. Welcome, Chris, it's so nice to have you with us.
 
 **Chris Bache: ** Thank you, Susan, it's a real pleasure to be part of your conversation today. 

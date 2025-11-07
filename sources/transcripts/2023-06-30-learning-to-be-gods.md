@@ -1,14 +1,26 @@
 ---
-archival_title: "Learning to be Gods: Conversations about LSD and the Mind of the Universe with Chris Bache"
-channel: "Inbodied Life"
-published: 2023-06-30
-transcriber: "gpt5 model by OpenAI (edited from Otter.ai first-pass transcript)"
-transcription_date: 2025-09-30
-license: "CC0 1.0 Universal (Public Domain Dedication)"
-speakers: ["Chris Bache", "Lauren Taus"]
+title: "Learning to be Gods: Conversations about LSD and the Mind of the Universe with Chris Bache"
+slug: 2023-06-30-learning-to-be-gods
+date: 2023-06-30
+type: interview
+channel: Inbodied Life
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: gpt5 model by OpenAI (edited from Otter.ai first-pass transcript)
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-06-30-learning-to-be-gods.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-06-30-learning-to-be-gods.srt
 ---
-<!-- diarist_sha1:90ae489038c6bce8bd9a9d2daa74e1928073ad13 -->
----
+
 Chris Bache: We can't solve the problems we're facing at the level of ego. We either grow up or we go extinct. Growing up has to do with the maturation of the soul—the transition from ego identity to soul identity—because the soul lives in the world differently than the ego does. The soul has an awareness of its history and, therefore, an awareness of its extended relationships with the people around it. We have been black, white, red. We've been all the colors. We've been all the religions of the world. We've been rich, poor. When the soul matures, there’s a tremendous sense of compassion and generative freedom in that process, and that's what I think we need to meet where we're going.
 
 Lauren Taus: Welcome to Embodied Life, the podcast. My name is Lauren Taus, and this show is a space for you to move past the traffic of the mind and into the stillness of your heart. The journey is inward, and a courageous traveler welcomes the wide range of their human experience. We are meeting pioneers, healers, and change-makers who are showing us the way with important guides and maps. Feel whatever it is that needs to be felt so that you can return home to yourself. Let's go. Let's get embodied.

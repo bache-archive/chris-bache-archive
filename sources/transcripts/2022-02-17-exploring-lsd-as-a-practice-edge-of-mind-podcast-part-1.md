@@ -1,20 +1,26 @@
 ---
-archival_title: Exploring LSD as a Practice (Edge of Mind Podcast – Part 1)
-
+title: Exploring LSD as a Practice (Edge of Mind Podcast – Part 1)
+slug: 2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1
+date: 2022-02-17
+type: interview
 channel: Edge of Mind
-
-published: 2022-02-17
-
-youtube_id: eV86_iSTEbU
-transcriber: gpt5 model by OpenAI
-
-transcription_date: 2025-08-19
-
-license: CC0 1.0 Universal
-speakers: ["Andrew Holecek", "Chris Bache"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: gpt5 model by OpenAI
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.srt
 ---
-<!-- diarist_sha1:a297ff3bfbe714cbedbf9cb2cf97575545e3c79e -->
----
+
 Andrew Holecek 
 Everybody, Andrew Holecek here, and I simply cannot contain my excitement about my guest today, Dr. Christopher Bache. With a brief introduction, we’re going to launch into what I believe will be a revelatory, provocative conversation. Chris, PhD, is professor emeritus in the Department of Philosophy and Religious Studies at Youngstown State University, where he taught for 33 years. He is also adjunct faculty at the California Institute of Medical Studies, an emeritus fellow at the Institute of Noetic Sciences, and on the advisory board of Grof Legacy Training. Chris’s passion has been the study of the philosophical implications of non-ordinary states of consciousness, especially psychedelic states. An award-winning teacher and international speaker, he has written four books: Life Cycles, a study of reincarnation in light of contemporary consciousness research; Dark Night, Early Dawn, a pioneering work in psychedelic philosophy and collective consciousness; The Living Classroom, an exploration of collective fields of consciousness and teaching; and LSD and the Mind of the Universe, the story of his 20-year journey with LSD. Chris is a father of three and lives in Weaverville, North Carolina, with his wife, Christina Hardy.
 

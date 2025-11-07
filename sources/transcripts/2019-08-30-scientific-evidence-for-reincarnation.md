@@ -1,22 +1,26 @@
 ---
-archival_title: Scientific Evidence for Reincarnation
-
+title: Scientific Evidence for Reincarnation
+slug: 2019-08-30-scientific-evidence-for-reincarnation
+date: 2019-08-30
+type: lecture
 channel: ECR – Existential Consciousness Research Institute
-
-recorded: 2019-08-30
-
-published: 2019-08-30
-
-youtube_id: x_iGTmrzIpY
-transcriber: gpt5 model by OpenAI
-
-transcription_date: 2025-08-15
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache"]
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: gpt5 model by OpenAI
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2019-08-30-scientific-evidence-for-reincarnation.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2019-08-30-scientific-evidence-for-reincarnation.srt
 ---
-<!-- diarist_sha1:25d7416b59249b0b6d6db48a38337bfa89d53c88 -->
----
+
 Chris Bache: 
 The good news is that after me, it’s lunch, so I’m the end of your day. I’m a professor. I’ve been at this game a long time, and I know a tired audience when I see one. It’s been a long morning with a lot of wonderful ideas. So, real quick—everybody, stand up… Okay, okay—now sit down.
 

@@ -1,43 +1,26 @@
 ---
-archival_title: "LSD and the Mind of the Universe: Diamonds from Heaven (SDI Meeting)"
-
-channel: "San Diego Integral"
-
-recorded: 2024-02-10
-
-published: 2024-02-10
-
-youtube_id: "Ucgt6vNpCDI"
-
-speakers:
-
-- CHRIS BACHE
-
-- TOM KHABIB
-
-- TOM MCDOUGALL
-
-- REGIS
-
-- SANDY
-
-- TRUDY
-
-- LARRY
-
-- LYNN
-
-- EATON
-
-transcriber: gpt5 model by OpenAI
-
-transcription_date: 2025-08-19
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Tom Habib"]
+title: "LSD and the Mind of the Universe: Diamonds from Heaven (SDI Meeting)"
+slug: 2024-02-10-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-sdi-meeting
+date: 2024-02-10
+type: lecture
+channel: San Diego Integral
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: gpt5 model by OpenAI
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2024-02-10-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-sdi-meeting.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2024-02-10-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-sdi-meeting.srt
 ---
-<!-- diarist_sha1:e2617fd562dedb678c2f6f83cfefc6c9ebf8deb4 -->
----
+
 Tom Habib: 
 Welcome to San Diego Integral. I'm Tom Habib, and I'm a member of the leadership team. We have an exciting presentation today: LSD and the Mind of the Universe. We'll begin shortly, but I first wanted to mention that we're recording this meeting. If you prefer not to be seen on video, you can turn your camera off, although we love to see your reactions. The link to the recording will be posted on Meetup a day or two after this event on the SDI YouTube channel. Also, you can find future events on our website, either San Diego interworld.org, the Facebook page, or by coming back to Meetup.com. The advantage of joining one of these groups is that you'll automatically be notified for future presentations. If you have any questions today about these meetings, you are welcome to contact any member of the leadership team.
 

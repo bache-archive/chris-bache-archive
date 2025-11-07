@@ -1,9 +1,25 @@
 ---
-diarist_sha1: 5e1c9803081550043827be18844910778cf485ba
+title: "2013 11 16, Dr. Chris Bache, Guest Speaker, \"No Fear of Death\", Part 1/3"
+slug: 2013-11-17-no-fear-of-death-part-1-unity-myrtle-beach
+date: 2013-11-17
+type: lecture
+channel: Unity Myrtle Beach
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2013-11-17-no-fear-of-death-part-1-unity-myrtle-beach.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2013-11-17-no-fear-of-death-part-1-unity-myrtle-beach.srt
 ---
-<!-- diarist_sha1:5e1c9803081550043827be18844910778cf485ba -->
----
----
+
 **Margaret Hiller: ** Okay, okay, Alrighty, welcome, welcome, welcome, and for those of you who don't know me, I'm Margaret Hiller, spiritual leader here at Unity Christ Church. Thank you. Be guided to here. We are so welcome to unity, and we are so happy and grateful that Chris Bache has returned to visit with us. I know it's not just because Ann Marie, our member and bookstore manager, happens to be his mother-in-law. We know he's here because he loves us. And actually, I have it on good authority from Chris that he really does appreciate this group. And so Chris, wow. He comes to us with over 30 years of being a professor in luminous studies and also a former Director of Education at the Institute of Noetic Sciences. He's written several books, and most importantly, he's been here before, and we all so respect and honor you and your presentation style and presence and all that you bring to us. So thank you for being here again. Chris, thank you. Good morning.
 
 **Chris Bache: ** Good morning, everybody. How nice to be back with you again.

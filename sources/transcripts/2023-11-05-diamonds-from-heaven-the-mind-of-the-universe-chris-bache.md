@@ -1,20 +1,26 @@
 ---
-archival_title: "Diamonds From Heaven — The Mind of the Universe (Chris Bache)"
-
-channel: "Sacred Reconnections"
-
-published: 2023-11-05
-
-youtube_id: pvZDcQfGzpM
-transcriber: gpt5 model by OpenAI
-
-transcription_date: 2025-08-19
-
-license: CC0 1.0 Universal
-speakers: ["Chris Bache", "Colin Campbell", "Rachel Fleming"]
+title: Diamonds From Heaven – The Mind of the Universe (Chris Bache)
+slug: 2023-11-05-diamonds-from-heaven-the-mind-of-the-universe-chris-bache
+date: 2023-11-05
+type: lecture
+channel: Sacred Reconnections
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: gpt5 model by OpenAI
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-11-05-diamonds-from-heaven-the-mind-of-the-universe-chris-bache.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-11-05-diamonds-from-heaven-the-mind-of-the-universe-chris-bache.srt
 ---
-<!-- diarist_sha1:acb69643f5c35c2fdc068958b7fb3a7be29ffd8b -->
----
+
 Rachel Fleming: Diamonds from Heaven. It was LSD in the Mind of the Universe—was that the title?
 
 Chris Bache: Yes, that was the publisher’s title, but my title while I was writing the book was always Diamonds from Heaven.
