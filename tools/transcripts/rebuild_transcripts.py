@@ -2,7 +2,9 @@
 """
 tools/transcripts/rebuild_transcripts.py
 
-Rebuild markdown transcripts from diarist .txt files using GPT normalization.
+Rebuild markdown transcripts from diarist .txt files using GPT normalization
+with externalized prompt templates and glossary.
+
 Worklist is driven by a file of basenames (one per line) provided via:
   - environment variable MISSING (path to the file), or
   - --missing-file PATH
@@ -10,6 +12,9 @@ Worklist is driven by a file of basenames (one per line) provided via:
 Inputs:
   - sources/diarist/<basename>.txt   (also tolerates 'sources/diarists/')
   - index.json (optional; for title/date lookup)
+  - tools/prompt_templates/edited_transcript_system.prompt.md
+  - tools/prompt_templates/edited_transcript_user.prompt.md
+  - assets/glossary/bache_glossary.json
 
 Output:
   - sources/transcripts/<basename>.md  (archives any existing file to _archive/)
@@ -32,7 +37,7 @@ Environment:
 """
 
 from __future__ import annotations
-import argparse, json, os, re, sys, time, hashlib, shutil, datetime, glob
+import argparse, json, os, re, sys, time, hashlib, shutil, datetime
 from pathlib import Path
 from typing import Optional, Tuple, Dict, List
 
@@ -49,6 +54,11 @@ OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 MAX_RETRIES = 5
 RETRY_BASE_SEC = 2
 
+# Prompt & glossary paths
+SYSTEM_PROMPT_PATH = Path("tools/prompt_templates/edited_transcript_system.prompt.md")
+USER_PROMPT_PATH   = Path("tools/prompt_templates/edited_transcript_user.prompt.md")
+GLOSSARY_PATH      = Path("assets/glossary/bache_glossary.json")
+
 # OpenAI SDK
 try:
     from openai import OpenAI
@@ -62,10 +72,10 @@ YAML_FM_RE = re.compile(r"^---\s*\n(.*?)\n---\s*\n", re.DOTALL)
 DIAR_SHA1_LINE_RE = re.compile(r'(?m)^\s*diarist_sha1:\s*([0-9a-f]{40})\s*$')
 DIAR_SHA1_HTML_RE = re.compile(r'<!--\s*diarist_sha1:([0-9a-f]{40})\s*-->')
 
-SYSTEM_MSG = (
-    "You are a meticulous transcription editor. "
-    "You convert diarized transcripts into clean, readable Markdown while preserving fidelity. "
-    "You never hallucinate or add content."
+# Fallback minimal system prompt (used only if file missing)
+SYSTEM_MSG_FALLBACK = (
+    "You are editing a diarized transcript into a clear, faithful Markdown transcript. "
+    "Preserve meaning and sequence, enforce speaker tags as **Name:**, no hallucinations."
 )
 
 def info(enabled: bool, msg: str) -> None:
@@ -198,7 +208,6 @@ def index_by_basename(idx: Optional[list]) -> Dict[str, dict]:
     if not idx:
         return m
     for entry in idx:
-        # accept either transcript path or file field
         path = entry.get("transcript") or entry.get("file") or ""
         base = Path(path).stem if path else ""
         if base:
@@ -213,9 +222,8 @@ def derive_date_from_index_entry(entry: dict) -> str:
         v = (entry.get(k) or "").strip()
         if v:
             return v
-    # fallback: try to parse YYYY-MM-DD- prefix from filename
     file_path = entry.get("file","")
-    m = re.search(r"/(\d{4}-\d{2}-\d{2})-", file_path)
+    m = re.search(r"/(\d{4}-\d{2}-\d{2})-", file_path or "")
     return m.group(1) if m else ""
 
 # --------------- diarist / label helpers ----------------
@@ -283,45 +291,77 @@ def extract_recorded_diarist_sha1(md_path: Path) -> Optional[str]:
         return m.group(1)
     return None
 
-# --------------- prompting ----------------
+# --------------- prompts & glossary ----------------
 
-def make_user_prompt_chunk(title: str, date: str, diarist_chunk: str, i: int, n: int) -> str:
-    return f"""Task: Convert this diarized transcript CHUNK into a clean, faithful TRANSCRIPT.
+def load_system_prompt() -> str:
+    if SYSTEM_PROMPT_PATH.exists():
+        return read_text(SYSTEM_PROMPT_PATH).strip()
+    warn(f"Missing system prompt at {SYSTEM_PROMPT_PATH}, using fallback.")
+    return SYSTEM_MSG_FALLBACK
 
-Context:
-- Archival title: {title}
-- Recorded/published date: {date}
-- This is chunk {i} of {n}. Process ONLY this chunk. Do not reference or infer from other chunks.
+def load_user_template() -> str:
+    if USER_PROMPT_PATH.exists():
+        return read_text(USER_PROMPT_PATH).strip()
+    warn(f"Missing user prompt at {USER_PROMPT_PATH}, using inline fallback.")
+    # simple fallback with raw transcript placeholder
+    return (
+        "# INPUT TRANSCRIPT (verbatim)\n{raw_transcript_text}\n\n"
+        "# CONTEXT\n"
+        "Archival title: {title}\n"
+        "Recorded/published date: {date}\n"
+        "Chunk {i} of {n}. Process only this chunk.\n\n"
+        "# GLOSSARY\n{glossary_json_or_empty_object}\n"
+    )
 
-Strict output rules (fidelity first):
-- Preserve speakers’ WORDING (no paraphrasing). Fix only obvious typos, casing, punctuation, and mis-heard PROPER NOUNS.
-- Correct canonical spellings for known people/terms when clearly intended, e.g.:
-  Stanislav Grof (not “Stanislov”), Vajrayāna (Vajrayana ok), Dharmakāya (Dharmakaya ok).
-- Remove ALL timecodes and diarization cruft.
-- Keep turns separate (do NOT merge different speakers into one paragraph).
-- Speaker label format MUST be EXACTLY: **Name:** space, then utterance.
-  Examples:
-  **Chris Bache:** …
-  **Interviewer:** …
-  **Audience:** …
-  **Stanislav Grof:** …
-- Always label Chris as **Chris Bache:** (never “Chris”, “Bache”, etc.).
-- If a host/MC name is present, use their proper name (e.g., **Host Name:**); otherwise **Interviewer:**.
-- Panels: if another guest’s identity is clear from this CHUNK (name appears or is unambiguous), use **Full Name:** with corrected spelling.
-  If a speaker is unidentified but clearly not Chris/host, use **Panelist:** (do NOT invent names).
-- Unlabeled/generic lines:
-  • Trivial back-channel (yeah, uh-huh, laughter, thanks) → DROP.  
-  • Clear question to a guest → attribute to **Interviewer:** (or named host if known).  
-  • Otherwise, if it obviously continues the prior named speaker, keep with that speaker; else **Audience:** or **Panelist:** as appropriate.
-- Do NOT reorder content. Do NOT summarize. No stage directions or meta-notes.
+def load_glossary_json() -> str:
+    try:
+        if GLOSSARY_PATH.exists():
+            obj = json.loads(read_text(GLOSSARY_PATH))
+            # Serialize compactly but stably
+            return json.dumps(obj, ensure_ascii=False, separators=(",", ": "))
+    except Exception as e:
+        warn(f"Failed to read/parse glossary at {GLOSSARY_PATH}: {e}")
+    # fallback empty object
+    return "{}"
 
-Output format:
-- ONLY transcript lines in Markdown using the bold speaker labels above. No headers, no YAML, no notes.
+def render_user_prompt(
+    template: str,
+    title: str,
+    date: str,
+    diarist_chunk: str,
+    i: int,
+    n: int,
+    glossary_json: str
+) -> str:
+    # Replace known placeholders (both variants supported)
+    out = template
+    replacements = {
+        "{raw_transcript_text}": diarist_chunk,
+        "{diarist_chunk}": diarist_chunk,
+        "{title}": title,
+        "{date}": date,
+        "{i}": str(i),
+        "{n}": str(n),
+        "{glossary_json_or_empty_object}": glossary_json,
+    }
+    for k, v in replacements.items():
+        out = out.replace(k, v)
 
-Diarist CHUNK (verbatim) starts below:
-----------------------------------------
-{diarist_chunk}
-"""
+    # If the template didn't include context tokens, append a minimal context block
+    if "{title}" not in template and "{date}" not in template and "{i}" not in template:
+        out = (
+            f"{out.rstrip()}\n\n"
+            f"# CONTEXT\n"
+            f"Archival title: {title}\n"
+            f"Recorded/published date: {date}\n"
+            f"Chunk {i} of {n}. Process only this chunk.\n"
+        )
+
+    # Ensure glossary is present
+    if "{glossary_json_or_empty_object}" not in template and "GLOSSARY" not in out:
+        out = f"{out.rstrip()}\n\n# GLOSSARY\n{glossary_json}\n"
+
+    return out
 
 # --------------- core processing ----------------
 
@@ -330,6 +370,9 @@ def process_one(
     args,
     client: OpenAI,
     idx_map: Dict[str, dict],
+    system_msg: str,
+    user_template: str,
+    glossary_json: str,
 ) -> Tuple[str, Optional[str]]:
     # locate diarist
     diar_path = diarist_path_for(basename)
@@ -344,7 +387,6 @@ def process_one(
     diar_text = read_text(diar_path)
     diar_hash = sha1_str(diar_text)
 
-    # optional clip for testing
     if args.verbose:
         info(True, f"{basename}: diarist chars={len(diar_text):,}")
     max_chars = int(os.environ.get("MAX_DIARIST_CHARS", "0") or "0")
@@ -370,13 +412,13 @@ def process_one(
     for i, ch in enumerate(chunks, 1):
         if args.verbose:
             info(True, f"{basename}: sending chunk {i}/{len(chunks)} ({len(ch):,} chars)")
-        prompt = make_user_prompt_chunk(title, date, ch, i, len(chunks))
-        piece = call_model(client, args.model, SYSTEM_MSG, prompt)
+        user_msg = render_user_prompt(user_template, title, date, ch, i, len(chunks), glossary_json)
+        piece = call_model(client, args.model, system_msg, user_msg)
         piece = normalize_label_spacing(piece)
         outs.append(piece)
     out = "\n\n".join(outs)
 
-    # seatbelts
+    # strip inline timecodes that slipped through
     out = re.sub(r'^([#>* _`-]*[^\n:]{1,80})\s+[0-9]{1,2}:[0-9]{2}(?::[0-9]{2})?\s*:', r'\1:', out, flags=re.M)
 
     # stage lines to resolve generics after we know mains
@@ -399,7 +441,7 @@ def process_one(
     # mains/interviewer guess from diarist labels
     diar_labs = extract_speakers_from_diarist(diar_text)
     mains = [s for s in diar_labs if not re.match(r'(?i)unknown speaker|speaker\s+\d+', s)]
-    interviewer = next((s for s in mains if s.lower() in {"interviewer", "host", "moderator", "robert mcdermott", "luc briede-cooper"}), None)
+    interviewer = next((s for s in mains if s.lower() in {"interviewer", "host", "moderator"}), None)
     if not interviewer and mains:
         interviewer = next((s for s in mains if s.lower() != "chris bache"), mains[0] if mains else None)
 
@@ -419,6 +461,7 @@ def process_one(
                 last_named = label
 
     body = "\n".join(rebuilt)
+
     # optional body label normalization
     if mains and args.normalize_labels:
         tmp = join_front_matter(None, body)  # attach empty YAML for helper
@@ -433,7 +476,6 @@ def process_one(
     body = re.sub(r'(?m)^[#>* _`-]*\b(?:Unknown Speaker|Speaker\s+\d+)\s*:', 'Audience:', body)
 
     # compose final md with YAML
-    # ensure diarist_sha1 is recorded in YAML
     fm_body_updated = fm_body or ""
     if "diarist_sha1:" in fm_body_updated:
         fm_body_updated = re.sub(DIAR_SHA1_LINE_RE, f"diarist_sha1: {diar_hash}", fm_body_updated)
@@ -459,7 +501,6 @@ def process_one(
         write_text(target_abs, final_md)
         return "applied", str(target_rel)
     else:
-        # If not applying, place in build mirror path
         build_out = Path("./build") / target_rel
         write_text(build_out, final_md)
         return "built", str(build_out)
@@ -476,10 +517,8 @@ def load_missing_list(path: Path, verbose: bool=False) -> List[str]:
         line = raw.strip()
         if not line:
             continue
-        # ignore obvious shell error echoes like "...: File name too long"
         if "File name too long" in line:
             continue
-        # keep only safe-looking basenames to avoid surprises
         if SAFE_BASE_RE.match(line):
             basenames.append(line)
         else:
@@ -509,6 +548,11 @@ def main():
 
     client = ensure_client()
 
+    # Load prompts & glossary
+    system_msg = load_system_prompt()
+    user_template = load_user_template()
+    glossary_json = load_glossary_json()
+
     # Load index (optional)
     idx = load_index(Path(args.index)) if args.index else None
     idx_map = index_by_basename(idx)
@@ -525,7 +569,7 @@ def main():
     for i, base in enumerate(work, 1):
         try:
             if args.dry_run:
-                status, where = process_one(base, args, client, idx_map)
+                status, where = process_one(base, args, client, idx_map, system_msg, user_template, glossary_json)
                 if status in ("planned",):
                     planned += 1
                     print(f"[plan] {base} -> {where}")
@@ -533,7 +577,7 @@ def main():
                     print(f"[plan?] {base}: unexpected status {status}")
                 continue
 
-            status, where = process_one(base, args, client, idx_map)
+            status, where = process_one(base, args, client, idx_map, system_msg, user_template, glossary_json)
             if status == "applied":
                 applied += 1
                 print(f"[applied] {base} -> {where}")

@@ -5,8 +5,8 @@ tools/transcripts/normalize_front_matter.py
 Normalize front matter for sources/transcripts/*.md to a lean, DRY, evergreen schema.
 
 - Canonical fields pulled from index.json: title, date (published), type, channel
-- Drops legacy / duplicate keys (e.g., youtube_id, archival_title, speakers, diarist_sha1, published)
-- DOES NOT keep 'transcription_date' (explicitly dropped)
+- Drops legacy / duplicate keys (e.g., youtube_id, archival_title, speakers, published)
+- Retains diarist_sha1 and transcription_date (both under provenance)
 - Keeps 'recorded' only if distinct from date (as provenance.recorded)
 - Keeps transcriber (from transcriber/Transcriber) as provenance.transcriber
 - Adds identifiers (Wikidata/OpenAlex) and people (Chris only)
@@ -20,9 +20,8 @@ Usage:
 
 from __future__ import annotations
 from pathlib import Path
-import argparse, json, re, sys
+import argparse, json, re, sys, fnmatch
 from datetime import datetime
-import fnmatch
 
 # --- Paths ---------------------------------------------------------------
 ROOT = Path(__file__).resolve().parents[2]
@@ -40,7 +39,7 @@ TYPE_MAP = {
     "keynote": "lecture",
     "address": "lecture",
     "interview": "interview",
-    "conversation": "interview",  # collapse into interview by default
+    "conversation": "interview",
     "panel": "panel",
     "panel-discussion": "panel",
     "discussion": "panel",
@@ -55,10 +54,6 @@ TYPE_MAP = {
 FM_RE = re.compile(r'^\s*---\s*\n(.*?)\n---\s*\n(.*)\Z', re.S)
 
 def split_front_matter(text: str):
-    """
-    Returns (fm_text or "", body_text).
-    If no front matter, fm_text is "" and body_text is original text.
-    """
     m = FM_RE.match(text)
     if not m:
         return "", text
@@ -71,147 +66,127 @@ def load_index():
         print(f"[error] cannot load index.json: {e}", file=sys.stderr)
         sys.exit(1)
     items = data["items"] if isinstance(data, dict) and "items" in data else data
-    by_slug = {}
-    for it in items:
-        tpath = it.get("transcript", "")
-        if not tpath.endswith(".md"):
-            continue
-        slug = Path(tpath).stem
-        by_slug[slug] = it
-    return by_slug
+    return {Path(it.get("transcript", "")).stem: it for it in items if it.get("transcript", "").endswith(".md")}
 
 def canon_type(source_type: str) -> str:
-    if not source_type:
-        return "other"
-    key = source_type.strip().lower()
-    return TYPE_MAP.get(key, "other")
+    return TYPE_MAP.get((source_type or "").strip().lower(), "other")
 
 def iso_date_or_empty(s: str) -> str:
-    if not s: return ""
-    s = s.strip()
-    # Accept YYYY-MM-DD; otherwise return ""
+    s = (s or "").strip()
     try:
         datetime.strptime(s, "%Y-%m-%d")
         return s
     except Exception:
         return ""
 
-def file_exists(path: Path) -> bool:
+def file_exists(p: Path) -> bool:
     try:
-        return path.exists()
+        return p.exists()
     except Exception:
         return False
 
+def yaml_str(x):
+    if x is None:
+        return "null"
+    s = str(x)
+    if (
+        s == ""
+        or any(c in s for c in [":", "#", "{", "}", "[", "]", ",", "&", "*", "!", "|", ">", "'", '"'])
+        or s.strip() != s
+    ):
+        s = s.replace('"', '\\"')
+        return f"\"{s}\""
+    return s
+
 def build_yaml(meta: dict) -> str:
-    """
-    Manual YAML emitter (deterministic order, no external deps).
-    """
     lines = []
+
     def emit(k, v, indent=0):
         pad = "  " * indent
         if isinstance(v, dict):
             lines.append(f"{pad}{k}:")
             for kk in v:
-                emit(kk, v[kk], indent+1)
+                emit(kk, v[kk], indent + 1)
         elif isinstance(v, list):
             lines.append(f"{pad}{k}:")
             for item in v:
                 if isinstance(item, dict):
                     lines.append(f"{pad}-")
-                    # indent nested dict entries by one more level
-                    first = True
                     for kk in item:
-                        # for pretty list dicts, indent under the hyphen
                         lines.append(f"{pad}  {kk}: {yaml_str(item[kk])}")
-                        first = False
                 else:
                     lines.append(f"{pad}- {yaml_str(item)}")
         else:
             lines.append(f"{pad}{k}: {yaml_str(v)}")
 
-    def yaml_str(x):
-        if x is None: return "null"
-        s = str(x)
-        # quote if it contains problematic chars or is empty
-        if s == "" or any(c in s for c in [":", "#", "{", "}", "[", "]", ",", "&", "*", "!", "|", ">", "'", '"']) or s.strip() != s:
-            # prefer double quotes; escape inner "
-            s = s.replace('"', '\\"')
-            return f"\"{s}\""
-        return s
-
-    # deterministic key order at top-level
-    order = ["title","slug","date","type","channel","language","license","identifiers","people","provenance"]
+    order = [
+        "title",
+        "slug",
+        "date",
+        "type",
+        "channel",
+        "language",
+        "license",
+        "identifiers",
+        "people",
+        "provenance",
+    ]
     for k in order:
         if k in meta:
             emit(k, meta[k])
-    # include any extra keys (shouldn't be any)
     for k in meta:
         if k not in order:
             emit(k, meta[k])
     return "---\n" + "\n".join(lines) + "\n---\n"
 
 def parse_kv_front_matter(fm_text: str) -> dict:
-    """
-    Tolerant key: value line parser for simple front matter (best-effort).
-    Not used for final write; only to harvest a few carry-through fields.
-    """
     meta = {}
     for line in fm_text.splitlines():
-        if not line.strip(): continue
-        if ":" not in line: continue
+        if not line.strip() or ":" not in line:
+            continue
         k, v = line.split(":", 1)
-        k = k.strip()
-        v = v.strip().strip('"').strip("'")
-        meta[k] = v
+        meta[k.strip()] = v.strip().strip('"').strip("'")
     return meta
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--write", action="store_true", help="Write changes to files (default is dry-run)")
+    ap.add_argument("--write", action="store_true", help="Write changes to files (default: dry run)")
     ap.add_argument("--only", default="", help="Glob to limit which .md files to process (e.g., '2025-10-*.md')")
     args = ap.parse_args()
 
     index = load_index()
-
     md_files = sorted(TRANS_DIR.glob("*.md"))
     if args.only:
         md_files = [p for p in md_files if fnmatch.fnmatch(p.name, args.only)]
 
-    changed = 0
-    total = 0
+    changed, total = 0, 0
+
     for md in md_files:
         total += 1
         text = md.read_text(encoding="utf-8")
         fm_text, body = split_front_matter(text)
         old_meta = parse_kv_front_matter(fm_text) if fm_text else {}
-
         slug = md.stem
         idx = index.get(slug, {})
 
-        # Canonical fields from index.json
         title = idx.get("archival_title") or old_meta.get("title") or slug.replace("-", " ")
-        date = iso_date_or_empty(idx.get("published") or old_meta.get("date") or old_meta.get("published") or "")
-        ty = canon_type(idx.get("source_type") or old_meta.get("type") or "")
+        date = iso_date_or_empty(idx.get("published") or old_meta.get("date") or old_meta.get("published"))
+        ty = canon_type(idx.get("source_type") or old_meta.get("type"))
         channel = idx.get("channel") or old_meta.get("channel") or ""
-
-        # Provenance bits (carry through, cleaned)
         transcriber = old_meta.get("transcriber") or old_meta.get("Transcriber")
-        recorded = old_meta.get("recorded") or ""  # keep if ISO and != date
-        recorded = iso_date_or_empty(recorded)
+        recorded = iso_date_or_empty(old_meta.get("recorded"))
         if recorded == date:
             recorded = ""
 
-        # Diarist pointers (include only if files exist)
         diarist_txt = DIARIST_DIR / f"{slug}.txt"
         diarist_srt = DIARIST_DIR / f"{slug}.srt"
         have_txt = file_exists(diarist_txt)
         have_srt = file_exists(diarist_srt)
 
-        # Build new meta
         new_meta = {
             "title": title,
             "slug": slug,
-            "date": date if date else "",  # empty allowed; better than wrong
+            "date": date or "",
             "type": ty,
             "channel": channel,
             "language": "en",
@@ -228,8 +203,8 @@ def main():
                 }
             ],
             "provenance": {
-                "source": "otter+diarist->normalization"
-            }
+                "source": "otter+diarist->normalization",
+            },
         }
 
         # Optional provenance fields
@@ -242,7 +217,14 @@ def main():
         if have_srt:
             new_meta["provenance"]["diarist_srt"] = str(diarist_srt.as_posix())
 
-        # Emit YAML and compare
+        # Preserve diarist_sha1 and transcription_date if found
+        dsha1 = old_meta.get("diarist_sha1")
+        tdate = iso_date_or_empty(old_meta.get("transcription_date"))
+        if dsha1:
+            new_meta["provenance"]["diarist_sha1"] = dsha1
+        if tdate:
+            new_meta["provenance"]["transcription_date"] = tdate
+
         new_fm = build_yaml(new_meta)
         new_text = new_fm + body
 
@@ -253,19 +235,17 @@ def main():
                 md.write_text(new_text, encoding="utf-8")
                 print(f"[write] {rel}")
             else:
-                # brief diff-y summary
                 print(f"[diff]  {rel}")
                 print(f"       title: {old_meta.get('title','(none)')}  →  {title}")
-                print(f"       date : {old_meta.get('date') or old_meta.get('published') or '(none)'}  →  {date or '(empty)'}")
+                print(f"       date : {old_meta.get('date') or '(none)'}  →  {date or '(empty)'}")
                 print(f"       type : {old_meta.get('type','(none)')}  →  {ty}")
                 print(f"       chan : {old_meta.get('channel','(none)')}  →  {channel}")
-                # show removed keys if interesting
-                for k in ("speakers","archival_title","youtube_id","published","diarist_sha1","Transcriber","transcriber","recorded","transcription_date"):
-                    if k in old_meta:
-                        print(f"       drop : {k}")
+                if old_meta.get('diarist_sha1'):
+                    print(f"       keep : diarist_sha1")
+                if old_meta.get('transcription_date'):
+                    print(f"       keep : transcription_date")
 
-    mode = "wrote" if args.write else "would change"
-    print(f"\nDone: {mode} {changed} / {total} files.")
+    print(f"\nDone: normalized {changed} / {total} files ({'written' if args.write else 'dry-run'} mode).")
 
 if __name__ == "__main__":
     main()
