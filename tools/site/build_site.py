@@ -8,7 +8,8 @@ Adds:
   • Compact JSON-LD in <head> (Google-preferred)
   • Hidden mirrored text block at bottom of <body> (LLM-friendly)
   • "Watch on YouTube" button via index.json
-  • Speaker label normalizer (**Name:** …)
+  • Speaker label normalizer (**Name:** …), incl. Audience fixes
+  • Editorial note appended at end of page
 
 Usage:
   python tools/site/build_site.py
@@ -34,31 +35,63 @@ FM_RE     = re.compile(r'^\s*---\s*\n(.*?)\n---\s*\n(.*)\Z', re.S)
 META_LINE = re.compile(r'^\s*([A-Za-z0-9_]+)\s*:\s*("?)(.+?)\2\s*$', re.M)
 H1_RE     = re.compile(r'^\s*#\s+(.+?)\s*$', re.M)
 
-# Fix common malformed speaker labels like "**Name: ** text" → "**Name:** text"
+# Speaker normalization patterns
+# 1) "**Name: ** rest"  -> "**Name:** rest"
 SPEAKER_LINE_RE = re.compile(
     r'^(?P<lead>\s*)\*\*\s*(?P<name>[^*:]{1,120}?)\s*:\s*\*\*(?P<tail>\s*)(?P<rest>.*)$',
     re.M
 )
+# 2) "** Name **: rest" -> "**Name:** rest"
 SPEAKER_WEIRD_RE = re.compile(
     r'^(?P<lead>\s*)\*\*\s*(?P<name>[^*:]{1,120}?)\s*\*\*\s*:\s*(?P<rest>.*)$',
     re.M
 )
+# 3) Leading italics before a label: "* Name: ** rest" -> "**Name:** rest"
+SPEAKER_ITALIC_LEAD_RE = re.compile(
+    r'^(?P<lead>\s*)[*_]{1,3}\s*(?P<name>[A-Z][^*:]{0,120}?)\s*:\s*\*\*\s*(?P<rest>.*)$',
+    re.M
+)
+# 4) Specific Audience fixes:
+#    "Audience: ** rest" -> "**Audience:** rest"
+AUDIENCE_TRAIL_BOLD_RE = re.compile(
+    r'^(?P<lead>\s*)Audience\s*:\s*\*\*\s*(?P<rest>.*)$',
+    re.M | re.I
+)
+#    plain "Audience: rest" -> "**Audience:** rest"
+AUDIENCE_PLAIN_RE = re.compile(
+    r'^(?P<lead>\s*)Audience\s*:\s*(?P<rest>.+)$',
+    re.M | re.I
+)
+
+# Optionally broaden to Host/Moderator if helpful later:
+GENERIC_LABELS = ("Audience","Host","Moderator","MC","Interviewer","Participant")
 
 def normalize_speaker_labels(md: str) -> str:
-    def _fix(m):
-        lead = m.group('lead') or ''
-        name = (m.group('name') or '').strip()
-        rest = m.group('rest')
-        return f"{lead}**{name}:** {rest}"
-    md = SPEAKER_LINE_RE.sub(_fix, md)
-    md = SPEAKER_WEIRD_RE.sub(lambda m: f"{m.group('lead')}**{m.group('name').strip()}:** {m.group('rest')}", md)
+    def _mk(name: str, rest: str, lead: str = "") -> str:
+        return f"{lead}**{name.strip()}:** {rest.strip()}"
+
+    # 1/2) Core bold-ordering fixes
+    md = SPEAKER_LINE_RE.sub(lambda m: _mk(m.group('name'), m.group('rest'), m.group('lead')), md)
+    md = SPEAKER_WEIRD_RE.sub(lambda m: _mk(m.group('name'), m.group('rest'), m.group('lead')), md)
+
+    # 3) Strip leading italics around a label that then has "**" before text
+    md = SPEAKER_ITALIC_LEAD_RE.sub(lambda m: _mk(m.group('name'), m.group('rest'), m.group('lead')), md)
+
+    # 4a) Audience: ** rest  -> **Audience:** rest
+    md = AUDIENCE_TRAIL_BOLD_RE.sub(lambda m: _mk("Audience", m.group('rest'), m.group('lead')), md)
+
+    # 4b) Audience: rest (plain) -> **Audience:** rest
+    # Guard against double-normalizing lines already starting with "**Audience:**"
+    def _aud_plain(m):
+        lead, rest = m.group('lead') or "", m.group('rest') or ""
+        if rest.lstrip().startswith("**"):  # already normalized form
+            return m.group(0)
+        return _mk("Audience", rest, lead)
+    md = AUDIENCE_PLAIN_RE.sub(_aud_plain, md)
+
     return md
 
 def parse_front_matter(md_txt: str) -> tuple[dict, str]:
-    """
-    Tolerant front-matter parser (simple key: value lines).
-    Returns (meta_dict, body_md).
-    """
     m = FM_RE.match(md_txt)
     if not m:
         return ({}, md_txt)
@@ -105,7 +138,6 @@ def hero_block(pill: str, h1: str, subtitle_html: str, buttons: list[tuple[str,s
 </header>""".strip()
 
 def wrap_shell(page_title: str, style_href: str, head_jsonld: str, body_inner: str, hidden_tail: str, canonical: str | None = None) -> str:
-    # Canonical + compact JSON-LD in <head>
     canonical_link = f'\n  <link rel="canonical" href="{canonical}" />' if canonical else ""
     jsonld_block  = f'\n  <script type="application/ld+json">{head_jsonld}</script>' if head_jsonld else ""
     return f"""<!doctype html>
@@ -153,9 +185,6 @@ def load_index_map(index_path: Path) -> dict[str, dict]:
 
 # ---- Compact JSON-LD for <head> (strings only) -------------------------
 def build_json_ld_compact(meta: dict, info: dict, canonical_url: str | None) -> str:
-    """
-    Minimal, high-signal Article JSON-LD for Google/LLMs; minified to save space.
-    """
     def nz(x): return (x or "").strip()
     title   = nz(meta.get("title")) or "Transcript"
     date    = nz(meta.get("date")) or None
@@ -184,9 +213,6 @@ def build_json_ld_compact(meta: dict, info: dict, canonical_url: str | None) -> 
     return json.dumps(clean, ensure_ascii=False, separators=(",", ":"))
 
 def hidden_mirror_text(meta: dict, info: dict) -> str:
-    """
-    Hidden text mirror for crawlers/LLMs that scrape DOM text only.
-    """
     esc = lambda s: html.escape((s or "").strip())
     title   = esc(meta.get("title"))
     date    = esc(meta.get("date"))
@@ -219,6 +245,7 @@ def process_source_page(md_path: Path, site_base: str, stylesheet: str, pill: st
 
     text = md_path.read_text(encoding="utf-8")
     meta, body_md = parse_front_matter(text)
+
     # normalize speaker labels BEFORE markdown conversion
     body_md = normalize_speaker_labels(body_md or text)
     body_html = ensure_target_blank(md_to_html(body_md))
@@ -243,7 +270,7 @@ def process_source_page(md_path: Path, site_base: str, stylesheet: str, pill: st
         buttons=buttons
     )
 
-    # No "Document" heading—just the transcript content in a clean card
+    # Transcript card (no "Document" heading)
     content_block = f"""
 <section class="section">
   <div class="card">
@@ -253,7 +280,19 @@ def process_source_page(md_path: Path, site_base: str, stylesheet: str, pill: st
   </div>
 </section>""".strip()
 
-    inner = "\n".join([hero, content_block])
+    # Editorial note at the very end (visible)
+    editorial_note = """
+<section class="section">
+  <div class="card">
+    <p class="muted" style="font-size:0.95rem; line-height:1.5">
+      <strong>Editorial note.</strong> All published transcripts in the Chris Bache Archive are lightly edited for readability.
+      Disfluencies and partial phrases have been removed where they do not affect meaning.
+      Verbatim diarized transcripts are preserved separately for research and verification.
+    </p>
+  </div>
+</section>""".strip()
+
+    inner = "\n".join([hero, content_block, editorial_note])
 
     # Canonical URL
     out_html = md_path.with_suffix(".html")
