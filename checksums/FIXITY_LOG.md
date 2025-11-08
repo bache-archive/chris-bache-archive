@@ -608,3 +608,4 @@ Checksums include downloads/. All files verified.
     - sources/transcripts/extras/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-short.html
     - sources/transcripts/extras/2022-02-19-the-mind-of-the-universe-conversation-with-prof-short.html
     - sources/transcripts/extras/2022-04-26-when-we-die-short.html
+68d17d29496bc05ab24596d51e2fe31fc885b1bb036958ade242af9a82ce2e75  chris-bache-archive-v3.8.2-20251107.tar.gz
