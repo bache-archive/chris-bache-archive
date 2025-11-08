@@ -8,6 +8,7 @@ Adds:
   • Compact JSON-LD in <head> (Google-preferred)
   • Hidden mirrored text block at bottom of <body> (LLM-friendly)
   • "Watch on YouTube" button via index.json
+  • Speaker label normalizer (**Name:** …)
 
 Usage:
   python tools/site/build_site.py
@@ -32,6 +33,26 @@ DEFAULT_STYLESHEET = "assets/style.css"
 FM_RE     = re.compile(r'^\s*---\s*\n(.*?)\n---\s*\n(.*)\Z', re.S)
 META_LINE = re.compile(r'^\s*([A-Za-z0-9_]+)\s*:\s*("?)(.+?)\2\s*$', re.M)
 H1_RE     = re.compile(r'^\s*#\s+(.+?)\s*$', re.M)
+
+# Fix common malformed speaker labels like "**Name: ** text" → "**Name:** text"
+SPEAKER_LINE_RE = re.compile(
+    r'^(?P<lead>\s*)\*\*\s*(?P<name>[^*:]{1,120}?)\s*:\s*\*\*(?P<tail>\s*)(?P<rest>.*)$',
+    re.M
+)
+SPEAKER_WEIRD_RE = re.compile(
+    r'^(?P<lead>\s*)\*\*\s*(?P<name>[^*:]{1,120}?)\s*\*\*\s*:\s*(?P<rest>.*)$',
+    re.M
+)
+
+def normalize_speaker_labels(md: str) -> str:
+    def _fix(m):
+        lead = m.group('lead') or ''
+        name = (m.group('name') or '').strip()
+        rest = m.group('rest')
+        return f"{lead}**{name}:** {rest}"
+    md = SPEAKER_LINE_RE.sub(_fix, md)
+    md = SPEAKER_WEIRD_RE.sub(lambda m: f"{m.group('lead')}**{m.group('name').strip()}:** {m.group('rest')}", md)
+    return md
 
 def parse_front_matter(md_txt: str) -> tuple[dict, str]:
     """
@@ -82,18 +103,6 @@ def hero_block(pill: str, h1: str, subtitle_html: str, buttons: list[tuple[str,s
   <p class="subtitle">{subtitle_html}</p>
   {btnrow}
 </header>""".strip()
-
-def card_section(title: str, inner_html: str) -> str:
-    safe = inner_html if inner_html.strip() else "<p class='muted'>(None)</p>"
-    return f"""
-<section class="section">
-  <div class="card">
-    <h2>{html.escape(title)}</h2>
-    <div class="stack">
-      {safe}
-    </div>
-  </div>
-</section>""".strip()
 
 def wrap_shell(page_title: str, style_href: str, head_jsonld: str, body_inner: str, hidden_tail: str, canonical: str | None = None) -> str:
     # Canonical + compact JSON-LD in <head>
@@ -172,7 +181,6 @@ def build_json_ld_compact(meta: dict, info: dict, canonical_url: str | None) -> 
         "publisher": {"@type":"Organization","name": channel} if channel else None
     }
     clean = {k: v for k, v in data.items() if v not in (None, [], "")}
-    # minified JSON to keep <head> compact
     return json.dumps(clean, ensure_ascii=False, separators=(",", ":"))
 
 def hidden_mirror_text(meta: dict, info: dict) -> str:
@@ -211,7 +219,9 @@ def process_source_page(md_path: Path, site_base: str, stylesheet: str, pill: st
 
     text = md_path.read_text(encoding="utf-8")
     meta, body_md = parse_front_matter(text)
-    body_html = ensure_target_blank(md_to_html(body_md or text))
+    # normalize speaker labels BEFORE markdown conversion
+    body_md = normalize_speaker_labels(body_md or text)
+    body_html = ensure_target_blank(md_to_html(body_md))
 
     title = meta.get("title") or title_guess_from_path(md_path)
     subtitle = "Readable, speaker-attributed text with links back to the original recording."
@@ -232,7 +242,18 @@ def process_source_page(md_path: Path, site_base: str, stylesheet: str, pill: st
         subtitle_html=html.escape(subtitle),
         buttons=buttons
     )
-    inner = "\n".join([hero, card_section("Document", body_html)])
+
+    # No "Document" heading—just the transcript content in a clean card
+    content_block = f"""
+<section class="section">
+  <div class="card">
+    <div class="stack">
+      {body_html}
+    </div>
+  </div>
+</section>""".strip()
+
+    inner = "\n".join([hero, content_block])
 
     # Canonical URL
     out_html = md_path.with_suffix(".html")
