@@ -19,59 +19,10 @@ provenance:
   transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
   diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2022-04-26-when-we-die-ions-living-classroom-excerpt.txt
   diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2022-04-26-when-we-die-ions-living-classroom-excerpt.srt
----
-**Abstract (≈130 words)**
-
-In this short excerpt from an Institute of Noetic Sciences (IONS) ConnectIONS Live session, philosopher Chris Bache explores the fate of consciousness after physical death. He proposes that every lesson, deed, and mistake we accumulate is both carried forward by the enduring soul and simultaneously encoded into humanity’s collective psyche, or “species mind.” Because the species itself possesses an integrating consciousness, individual experiences—writings, conversations, insights—are never lost; they become “hard-wired” into a vast Akashic-like network that preserves and evolves collective knowledge. Bache argues that understanding this process requires a quantum rather than atomistic perspective: bodies come and go, but souls and species fields persist. He concludes that many possible continuations exist for these informational fields once we are no longer physically present.
+diarist_sha1: 7950b435d123a8a0379314cd54663754c2c9fae5
 
 ---
+<!-- diarist_sha1:7950b435d123a8a0379314cd54663754c2c9fae5 -->
+**Chris Bache: ** I think when we die, everything we've learned and all the good we've done, as well as our mistakes, goes with us. Our learning is retained within the collective psyche of our species. All of our experiences are preserved by the individual consciousness, which continues its learning once it leaves time and space. But because we are members of this species, and because the species has a mind that integrates all the conscious experiences of its members, my experiences and everything I've written about—and everything we're talking about here—are not lost to humanity when I die. They are literally hard-wired into the collective psyche, the collective unconscious, right now. 
 
-**CHRIS BACHE:**
-
-I think when we die, everything we’ve learned—the good we’ve done and our mistakes—goes with us.
-
-At the same time, it’s retained within the collective psyche of our species. All experience is preserved by
-
-the individual consciousness that continues learning after it leaves time and space. Because each of us
-
-is a member of this species, and because the species has a mind integrating every member’s experience,
-
-my work and everything we discuss here are not lost when I die; they are literally hard-wired into the
-
-collective unconscious now.
-
-That means we must think in a quantum rather than atomistic way about what happens to these fields as
-
-physical bodies come and go. Bodies are transient; souls endure. Species have a soul—a species mind.
-
-There’s an Akashic field, as Laszlo describes—an Akashic soul of the universe—an immense network of
-
-consciousness constantly integrating the experiences of all its members.
-
-So I can imagine many variations of what happens to these fields once we’re no longer on the scene.
-
----
-
-### Key themes
-
-- Continuity of consciousness beyond physical death
-
-- Integration of individual experiences into a collective species mind
-
-- Quantum versus atomistic perspectives on consciousness fields
-
-- Distinction between transient bodies and enduring souls
-
-- Concept of an Akashic field or universal memory
-
-- Evolutionary implications of a networked consciousness
-
----
-
-### Revision history
-
-| Date | Editor | Change |
-
-|------------|-------------------------|------------------------------|
-
-| 2025-08-01 | Otter.ai + GPT-5 normalization| First publication & cleanup |
+This means we have to think in a quantum fashion rather than an atomistic one when considering what happens to these fields as physical bodies come and go. Souls endure. Species have a soul. There is a species soul. There's an Akashic field, as Laszlo talks about. You could even describe it as the Akashic Soul of the Universe. There's this tremendous network of consciousness constantly integrating the experiences of all its members. So, I can imagine any number of variations of what happens to these fields after we are no longer on the scene.

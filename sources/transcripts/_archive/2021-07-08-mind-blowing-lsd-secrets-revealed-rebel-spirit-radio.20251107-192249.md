@@ -1,0 +1,210 @@
+---
+title: MIND-BLOWING LSD Secrets Revealed – Rebel Spirit Radio
+slug: 2021-07-08-mind-blowing-lsd-secrets-revealed-rebel-spirit-radio
+date: 2021-07-08
+type: lecture
+channel: Rebel Spirit Radio
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: gpt5 model by OpenAI
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2021-07-08-mind-blowing-lsd-secrets-revealed-rebel-spirit-radio.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2021-07-08-mind-blowing-lsd-secrets-revealed-rebel-spirit-radio.srt
+---
+
+Nick Mather: 
+Welcome to Rebel Spirit Radio, exploring the frontiers of spirituality, consciousness, the esoteric, and humanity’s sacred relationship with the living Earth. I’m your host, Nick Mather, and in this episode I speak with Dr. Chris Bache, author of LSD and the Mind of the Universe, which details his experience of 73 high-dose LSD sessions taken over the span of two decades. In our conversation, Chris discusses reincarnation, its role in human evolution, the creative intelligence of the universe, our current ecological moment, and more. Please join me for a fascinating conversation with Dr. Chris Bache.
+
+Dr. Christopher Bache is Professor Emeritus in the Department of Philosophy and Religious Studies at Youngstown State University in Ohio, where he taught for 33 years. He’s also an adjunct faculty member at the California Institute of Integral Studies, an Emeritus Fellow at the Institute of Noetic Sciences, and serves on the Advisory Council of Grof Legacy Training. The heart of Chris’s work has been the study of the philosophical implications of non-ordinary states of consciousness, particularly psychedelic states. He has written four books: Life Cycles, a study of reincarnation in light of contemporary consciousness research; Dark Night, Early Dawn, an investigation of psychedelic philosophy and collective consciousness; The Living Classroom, an exploration of collective fields of consciousness and teaching; and his latest work, LSD and the Mind of the Universe, the story of his 20-year journey with LSD by way of 73 high-dose sessions. Chris, welcome to Rebel Spirit Radio. I’m so very grateful for your time today, and I can’t begin to tell you how much I’m looking forward to this conversation.
+
+Chris Bache: 
+I’m glad to be here.
+
+Nick Mather: 
+Wonderful. First, I wanted to say that I thoroughly enjoyed your book, LSD and the Mind of the Universe. I found it deeply personal, beautifully written, and very engaging—and I believe necessary. I’ve read all of your books, and in a way, even though this is your latest, it seems to me to be the first, as the experiences you describe undergird all of your other work.
+
+Chris Bache: 
+It really is.
+
+Nick Mather: 
+For listeners unfamiliar with you and your work, what led you on this journey? What led you to it, and why?
+
+Chris Bache: 
+LSD—quite unexpectedly. I was raised in the Deep South, in Mississippi. I earned a degree in theology from Notre Dame. I’m the last person you would expect to have written a book on LSD research, especially a psychedelic autobiography. I had just finished my graduate work at Brown University as a philosopher of religion. I came out of graduate school as an atheistically inclined agnostic and had just begun teaching at Youngstown State in Northeast Ohio. I was looking around for where to take my research after publishing articles from my dissertation, and I came across the work of two people who changed my life.
+
+One was Ian Stevenson at the University of Virginia and his work on reincarnation, which convinced me in one reading that reincarnation was a fact of life—totally new terrain for me. Even more influential was the work of Stanislav Grof. He had just published Realms of the Human Unconscious. This was in 1978 when I was a young academic, 30 years old. In one reading, he convinced me of the importance of psychedelics for philosophical inquiry, not just psychological inquiry. I became convinced that the most important contributions in my field would come from people writing out of an experiential basis, not simply an intellectual basis.
+
+So I had a choice, because psychedelics were illegal at the time. I began a private, hidden psychedelic inquiry just with myself, which eventually led to 73 high-dose LSD sessions following Stan Grof’s protocols, as outlined in his book LSD Psychotherapy. During the day I was a conventional philosopher of religion, teaching year in and year out. In my private life, I began a systematic exploration of the deep structure of my consciousness—and by studying my consciousness, studying how the universe manifested itself in these deep states. That’s how I got into it.
+
+Nick Mather: 
+I appreciate that. Coming from a background in religious studies and philosophy myself, it drives me a little crazy that so much of it is theoretical. There’s so little attention to practice. Students can often tell—not necessarily whether someone has had psychedelic experiences—but whether they’ve had profound religious experience.
+
+Chris Bache: 
+Yes. And right up front, I do not recommend that people do what I did. Setting aside questions of legality—which is a changing landscape—I don’t recommend the protocol I adopted. I know more now than I did in the beginning, and I explain in the book that I would recommend a different protocol if I were doing it over again today.
+
+Nick Mather: 
+It doesn’t read like it was fun. You describe a lot of pain and suffering. People unfamiliar with psychedelics often have a false view: this isn’t a wild weekend in Las Vegas. There’s also a lot of fear around psychedelics. You had to keep this secret, and you describe how painful that was for various reasons—illegality, and the question of credibility in academia, which still tends to look down on these experiences. The landscape seems to be changing. Oregon has legalized psilocybin, and California has legislation to decriminalize psychedelics. Given this new landscape, have you thought about what it would have been like to teach in an environment where these things are more accepted?
+
+Chris Bache: 
+Wouldn’t that have been interesting. I did eventually teach at the California Institute of Integral Studies in the Philosophy, Cosmology, and Consciousness program, but that came late in my series. I did my core work between 1979 and 1999, when I was between 30 and 50 years old. Now I’m in my early 70s. I had an opportunity to teach graduate students after Dark Night, Early Dawn came out, but it would be fascinating to do this work in the classroom today instead of online settings.
+
+There was an upside to having waited. I held back for 20 years after finishing my work before writing LSD and the Mind of the Universe—not only for legal reasons, but because these experiences were extremely difficult to understand. High doses of LSD push you into dimensions of reality that go considerably beyond what appears in much of the mystical literature, and the methodology is very different from contemplative traditions. There were riddles to solve. If I had been teaching while doing this work, I might not have produced as mature a final product. By holding it, pondering it, and working out details, the end result is a more polished, clear presentation of the stages of the journey.
+
+Methodologically, if people are familiar with psychedelics at all, they think of recreational tripping or, informed by today’s climate, therapeutic protocols aimed at personal healing. My work shared some features with current protocols: complete isolation from the outside world during sessions; at home or in my then-wife’s office; my former wife, a clinical psychologist, was my sitter for all sessions; lying down on the floor with eyeshades and earphones; listening to carefully selected music designed to pace the stages of opening and closing; and writing up each session within 24 hours. It’s very different from taking LSD and going to a concert.
+
+Nick Mather: 
+Because you were working at high doses, would the same methodology apply at lower dosages?
+
+Chris Bache: 
+The same methodology applies, but the nature of the journey differs. Psychedelics amplify and catalyze consciousness—the unconscious rises into awareness. With lower doses, you tend to peel consciousness in layers, spending time working through psychodynamic material and then moving slowly into deeper levels. With high doses, there’s a more powerful cathartic thrust. You move quickly through psychodynamic levels and engage what Stan calls the perinatal level—at the boundary between physical and spiritual reality—and then push deeper into transpersonal, spiritual consciousness.
+
+Nick Mather: 
+One more methodological question. It’s helpful to begin a session by stating an intention. You’ve written that your intention was something like, “May this help me serve the common good.” But later you say that at the high doses you were taking, intention didn’t seem to matter—you were taken where a larger intelligence wanted to take you. Is intention still important at lower doses, or will you go where the experience wants to take you regardless?
+
+Chris Bache: 
+It’s both. The essence of this practice is surrender. Once you create safe conditions and are truly contained, you surrender completely and let the experience take you where it wants to go, whether or not you understand it at the time. At lower doses, your psychological structure is less disrupted, so your reasons for doing the work can influence where you go. At high doses, in my experience, any intention I had was quickly shattered. A larger consciousness was guiding my journey. There were many things I didn’t understand at the time; some deep structures only became clear years later, in hindsight. I found I was always engaging, or being guided by, an intelligence I think of as the mind of the universe—a cosmic intelligence.
+
+Nick Mather: 
+Is this what others might identify as God? Something beyond God? I’m assuming this is the “mind of the universe” from your title.
+
+Chris Bache: 
+What shall we call it? If we say “God,” we inherit all the historical interpretations of that concept across religions, and I’m not comfortable with that. Sometimes I say “the divine,” but that’s only a small shift. You might call it the Dao. I think of it as the generative intelligence of the universe—the intelligence responsible for the Big Bang and the unfolding of all time and space since. We now understand more than ever how incredibly large and old the universe is, and psychedelic research adds that it is also conscious. The size and age of the universe reflect its intelligence and consciousness. It’s so large we can’t see the edges, and so old we can’t see the beginning. In classical cultures one would call it God, but those interpretations have been constricted by their cultural contexts. Yet there are qualities here that echo descriptions in the world’s mystical traditions more than in neighborhood church theologies—especially the contemplative, mystical lineages.
+
+Nick Mather: 
+When you speak, it reminds me of the Merkabah mysticism of Ezekiel, where you can’t describe the full vision of God, but you can talk about the throne or the hem of the robe—just a small portion of a grander vision.
+
+Chris Bache: 
+I think so. I’ve spent more ink than most trying to describe these things, and even so, I still feel I’m just talking about the hem of the garment.
+
+Nick Mather: 
+I want to dig deeper into the cosmology you reveal. One key element is reincarnation. You were deeply informed by Ian Stevenson at the University of Virginia. I agree his evidence is compelling, although he was cautious. But you have a somewhat different take than the traditional understanding. Could you speak to that, and how reincarnation fits into this cosmology?
+
+Chris Bache: 
+Ian Stevenson and many researchers and therapists who followed him have generated hundreds of cases that, if you look without bias, make it overwhelmingly clear that reincarnation occurs—that there is continuity of memory across lifetimes, that our consciousness is older than our body. The mind I’m using to speak now has a history older than my physical body. But how it works—we’re still beginners. We don’t know the physics of reincarnation. We don’t know what the soul is, how consciousness encodes learning into a new brain, or how it leaves and remains coherent after death. There’s much we don’t know, and many early understandings are inadequate.
+
+For example, the idea that a human could return as an animal—most sophisticated thinkers reject that. Once you’re functioning at a certain level, there’s nothing to be gained by returning at a lower capacity. Also, reincarnation isn’t a simple linear chain of one life following another. Past-life literature shows that a present life is informed by multiple former lives. It’s like a deck of cards: you’re dealt certain cards for this hand. Some former lives are active in structuring the issues you’re dealing with now; others remain in the background.
+
+The basic vision is that when we die, we expand into a larger state of consciousness—the soul, which I define as the consciousness that holds all our incarnation experience. When we incarnate, we contract into a very limited physical, historical, and social circumstance. It’s like going to college: you enter a specific set of courses, learn what’s on offer, then at semester’s end you expand again. Reincarnation is the rhythm of expansion at death and contraction at birth, over and over. In this process we learn, challenge ourselves, and become more than we were.
+
+The primary difference I hold from traditional Eastern views is this: classically, we grow, mature, awaken to our deeper identity—the Atman that is Brahman—and then, at death, we leave time-space. Culmination takes place “off-planet,” whether heaven, the Islamic garden, or a Buddhist pure land. Historically that made sense. But with our contemporary understanding of the universe and its evolutionary arc, I think we’re seeing a different outcome. The intermediate goal is not to wake up and leave, but to wake up and fully embody soul consciousness in physical reality. The soul awakens; you no longer identify with the physical body as yourself. I call this the birth of the diamond soul: we remember former lives and, more importantly, live consciously the deep life that has been gestating across centuries.
+
+Nick Mather: 
+That’s beautiful. It’s not escaping into heaven or transcendence, but a deepening of sacred presence on Earth. We don’t typically remember our past lives, though some children do. I’ve long suspected there are things in me I can’t explain except as echoes from before. Given this understanding—that we are souls on a journey—can we start doing things now, being cognizant of this, to affect the long arc of the cycle? Can I do things now that will consciously affect my rebirth?
+
+Chris Bache: 
+I think so. To their credit, the classic spiritual traditions have always said that once you understand reincarnation and karma—karma being the cycle of cause and effect that conditions consciousness and destiny—you can improve the quality of your choices whether or not you recall former lives. You naturally choose non-injury, generosity, and long-term thinking. We see this in Native American traditions—planning for seven generations. You begin to think not just how choices affect you, but how they affect others, recognizing that spiritually we’re like two leaves on the same branch: separate at one level, not separate at another. You make choices that serve the good of the tree. Doing so accelerates your evolutionary development and improves the outcome of this lifetime. This doesn’t require knowing who you were in the 17th century; it requires understanding the structure of reality—what Hindus call Dharma—and adjusting yourself to live in harmony with what’s real.
+
+Nick Mather: 
+I was thinking about that “seven generations” principle this morning. We often imagine those future generations as not us. But in reincarnation, they are us. If more people held that idea, how would it change how we act in the world now?
+
+Chris Bache: 
+Take the ecological situation. Reincarnation tells us the world we come back to is the world we leave—psychologically and literally. We’ve never faced a planetary crisis like the one created by industrial culture. If we truly believed that in 100 years we’d be back on this Earth, don’t you think we’d take better care of it? If we believed we’d be returning to society without knowing what part we’d enter, wouldn’t we try to create a society that works for all—just and fair in the distribution of resources? Those ideas affect how we think about organizing our culture.
+
+Nick Mather: 
+I try to be as environmentally aware as I can and to avoid harm, though I know I fall short—partly because of the systems we’re embedded in. I’ve often thought about this in terms of karma. It seems fundamentally wrong to imagine we’d escape the consequences of our actions. If more people accepted reincarnation or were aware of this—and the larger vision you’re providing—do you think we’re undergoing an evolution of our collective consciousness? In the United States especially, more people seem to be hearing a call to spirituality. I’ve been going through this myself, wanting everything I do to be grounded in practice, and I have friends doing the same. Is this part of our collective evolution? Are we moving toward the larger vision you experienced?
+
+Chris Bache 
+I think so. While there’s a growing appreciation, awareness, and thirst for spiritual truth and encounter, it isn’t necessarily expressing itself as an increase in religiosity or religious participation. I think the religions we have today largely did the bulk of the work they were charged to do. When you consider the breadth of human evolution—hundreds of thousands of years of growing and growing—and then notice religions rarely last more than a few thousand years, the idea that a religion, if true, is eternally true doesn’t seem realistic. More likely, a religion helps a reincarnating humanity go from A to B. When we arrive at B, there’s still so much further to go, and it requires a new set of insights, a new inspiration, a new vision to take us from B to C, and later from C to D. I think we’re at a phase where the vision that brought us here isn’t sufficient for where we need to go next.
+
+I’d add that all the religions of the Axial Age make at least two fundamental mistakes. One is getting women wrong—building systems that marginalize them. Relatedly, they get nature wrong. With an up-and-out theology where the goal is awakening or salvation followed by leaving time and space, the physical world is devalued relative to the spiritual. We haven’t had an answer to the question: what is the purpose of time-space, of the physical world? It becomes a veil of tears or something to escape, to get “back home.” These religions are wrong about women and the Earth. What we need going forward is a larger vision that includes the best insights of the past but expands them into something truly gender-balanced and species-balanced. Religions have been largely anthropocentric, valuing men and humans over other species. We need a vision that values physicality—being here—not merely as a training ground for going to heaven.
+
+We’re in a transition. The collapse of the old is getting clearer, but the new isn’t clear yet. It’s like night with the earliest layers of dawn on the horizon. Things are falling apart; we haven’t congealed around a new vision. There’s anxiety, push and pull, political polarization. And we’re out of time—the Earth is forcing a re-formation of our values.
+
+Nick Mather 
+I was thinking about our current moment, especially the pandemic. Initially it felt like a final warning shot and a last opportunity to make meaningful changes. When the lockdowns first happened, the air in Los Angeles cleared. There were stories of dolphins in the Venice canals, wildlife in cities, and a quiet where you could hear birdsong again. It felt like a painful situation with real potential. Then, after a storm here in Pasadena, I stepped onto my porch and could actually see the pollution hovering over a nearby freeway. The traffic noise was back. I thought, maybe it’s too late—we lost our chance. It seems your book suggests something similar: that we have to go through this, that the pain we try to avoid is a necessary part of an initiation into a new form of humanity. Am I getting that right?
+
+Chris Bache 
+I think we’re being initiated into a new level of consciousness and maturity. We’re inheriting the consequences of our egoic history. The ego is a beautiful thing—individual consciousness is extraordinary—but it’s fundamentally fragmented. It cuts us off from each other, from other life forms, and from the physical world. A world built by the ego is inherently divided, splitting into haves and have-nots. We’re inheriting centuries of those consequences. We need to grow up—less adolescent, more adult—with adult-sized responsibility, vision, and commitment.
+
+There will be pain. Choices of the past have accumulated not only in our social, legal, and economic systems, but in our bodies. A tremendous detoxification and purification is underway. I think of it as a birth process. Gestation is long and gradual, but once the waters break, birth is short, cathartic, and powerful. The future human has been gestating in us for thousands of incarnations. The diamond soul has been developing century by century, and now it’s time for this larger, deeper being to be born. Labor is hard work. I think we’re going into global labor.
+
+Nick Mather 
+Along those lines, you say we’ve embodied a lot of trauma—personal, from past lives, and it seems ancestral as well. I think about my family and our cultural “founding fathers” as collective ancestors whose pain and trauma we still have to account for.
+
+Chris Bache 
+Just as we are the future seven generations, we are our ancestors. In a reincarnating universe, generation after generation we are born again, so the ancestors aren’t separate from us. It’s easy to oversimplify a very subtle process, but the themes, qualities, and learning of our ancestors are woven into our current incarnation—not only the leftover pains from former lives, but also strengths and capacities.
+
+Many of us learn about reincarnation through past-life therapy, which frames it therapeutically. People go to therapy because of pain, so our understanding gets skewed toward pathology. But that’s only a small percentage of the carryover. Most kids pass each year in school; most people learn and come out of each incarnation with more positive than negative. We carry forward the positive as well as the negative—accumulated capacities of intelligence built into our bodies: musical, mathematical, social. These are the voices of our ancestors alive in us as we become the ancestors of our future selves.
+
+Nick Mather 
+You write that evolution grows species, while reincarnation grows individuals. There seems to be a linkage between human evolution as a species and individual reincarnation. Can you say more?
+
+Chris Bache 
+I think of reincarnation as the higher octave of evolution. Evolution, as science tells us, develops whole species. Somewhere along the way, nature—or the intelligence behind nature—figured out how to evolve individuals within highly developed species. As individuality emerges, individuals make choices, and those choices influence their learning. Once that cycle is established, cause and effect shapes not just the physiology of species but the psychophysiology of individuals. Reincarnation is evolution reaching a point where it involves individuals and evolves their consciousness.
+
+Nick Mather 
+This model seems to avoid the issue of an external intelligent design. It sounds like we actively drive evolution through this cycle. Is that right?
+
+Chris Bache 
+Intelligent Design arose to address gaps in conventional evolutionary theory, but it relies on an external deity tinkering from the outside. I see evolution and reincarnation as emergent principles. The intelligence is already in matter, manifesting in greater complexity—partly through mechanisms recognized by science and partly through subtler mechanisms. Evolution arises from within organisms; reincarnation arises from within consciousness. It’s self-expressive and self-transformative.
+
+Nick Mather 
+I want to turn back to your experiences and the theme of pain. You describe an ocean of suffering, both personal and collective. Most religions address suffering, often aiming to end it, but you write that we need to be open to our suffering.
+
+Chris Bache 
+Let’s set the context. In a therapeutic modality with psychedelics, your system becomes hyperconscious for a time. When that happens, it spontaneously begins to cleanse itself. It brings forward the parts of your past you’ve struggled with—pain, fear, unfinished business. By confronting those fears and pains heroically, you can bring to resolution things that started in the past but never completed—ugly deaths, problematic relationships, and so on. Embracing the suffering that presents itself—letting it into awareness—allows it to move to a better outcome. The system relaxes, and you’re free to move into deeper levels of reality.
+
+Early on, as consciousness expands beyond time-space, you may face ego death—the shattering of the identity formed in time-space. It’s painful, an inversion of everything you’ve known yourself to be, but in surrender, consciousness is liberated into deeper textures of mind. If you continue, you cycle through further purifications and deeper deaths, each followed by entry into deeper dimensions of reality, always working a particular edge.
+
+Beyond personal and soul-level unfinished business, you can encounter trauma that is species-wide. In my chapter “The Ocean of Suffering,” after ego death and going deeper, I was drawn into vast fields of human suffering—terrible anger, torture, pain. It continued for two years. At first I thought it was refining my ego death, but eventually I realized it wasn’t aimed at my personal transformation. It was aimed at transforming my entire human family. In these sessions, consciousness had expanded far beyond “Chris Bache.” It was as if I were the species, remembering and reliving the species’ pain. By letting humanity’s suffering enter full awareness, a transformation takes place that registers in the individual, but also—this is my hypothesis—registers in the species as a whole. Just as individuals carry scars from trauma, the species carries scars from all the terrible things we’ve done to each other, held in the collective psyche.
+
+Each session had a rhythm: purification—personal or collective—followed by an ecstatic phase with instruction and learning. After two years in the ocean of suffering, I reached a profound culmination and it never reoccurred. From then on I was operating beyond the collective psyche—first exploring archetypal reality for about a year and a half, then, after another death and rebirth, what some call causal reality, the oneness out of which diversity arises. You can dissolve into that oneness and experience all reality functioning as an undivided whole. Later there were further deaths and rebirths into levels beyond causal reality.
+
+In the book’s opening chapter, I flag a primary concern for readers: the sheer quantity of suffering described. It isn’t because I’m a sadomasochist. Like anyone, I’d prefer to avoid suffering. But suffering is part of a purification cycle. The deepest breakthroughs and insights come after the deepest purifications. Once you learn that rhythm—purification, then breakthrough—you surrender to suffering willingly, to be of use to the system, to the universe, and to receive the blessings waiting on the other side.
+
+Nick Mather 
+That answers a lot. You write that creation is a choice and we voluntarily participate, taking this on—and there’s always a blessing after. The book’s inner title is Diamonds from Heaven. Are those diamonds the blessing we get from this process?
+
+Chris Bache 
+There are many blessings—insight, transformation, deepening—but “diamonds from heaven” refers to something specific. After about 15 years, having moved through ego death, collective species death, archetypal realities, and causal-level realities, I went through another death-rebirth and was catapulted into a dimension of pure light—crystalline, ultra-clear light. I’d experienced light before, as many psychedelic voyagers do, but this was different. When I call it diamond consciousness or diamond luminosity, I’m pointing to a particular quality of light: ultra, ultra clear—beyond imagination.
+
+Over the last five years of my work—26 sessions—I was taken into diamond luminosity four times. Between those entries, there was lots of purification and many teachings, but those four immersions are the true “diamonds from heaven,” the most important takeaway. Looking to religious literature, the closest analogue I found is Buddhism’s Dharmakaya—the clear light of absolute reality, the light out of which the Big Bang emerges. That is what I believe I experienced in diamond luminosity.
+
+Nick Mather 
+Much of your cosmology feels Buddhist, though there are differences—especially around reincarnation, where the goal isn’t to enter nirvana and depart, but to continue evolving. Do you feel your journey confirms Buddhism, and where does it differ?
+
+Chris Bache 
+I’ve been deeply influenced by all the world’s religions. I began as a Christian and a Catholic—four years in seminary studying for the priesthood. I studied Hebrew and Greek for biblical work. I’ve learned so much from Hinduism, Buddhism, Taoism, and Native traditions. The two deepest, longest-lasting influences on me have been Christianity and Buddhism.
+
+I think my journey affirms the deepest truths of Christianity and of all the world’s religions—Judaism’s Kabbalah, Hinduism, Buddhism—while also, in important ways, eclipsing the religions of the last several thousand years. The universe I was initiated into demanded levels of understanding beyond anything I had learned in those traditions. I had to become operational within a deeper metaphysics.
+
+These experiences affirm the core truths but not the cultural privilege each religion places on its own teacher, lineage, revelation, or scripture. Every tradition says its scripture is uniquely the word of God; that tells us none are uniquely so. All are facets of a larger, dynamic process. The core insights stand: we are participating in each other’s reality; we’re hardwired together; our deepest well-being lies in serving not just our small good but the good of the whole; self-sacrifice has value when called for; we should take the long view toward the deep future and open our consciousness to inspiration arising from the deepest levels of our own being and of nature itself—as the Taoists would say, becoming one with the Tao. So I feel at home with the religions of the world, and yet I’ve ended up in a place larger than any of them.
+
+Nick Mather: I can see that. I’ve been asking this question—and I touched on it a little earlier—about feeling a call to ground everything in spirituality. Where do you turn? So many traditions don’t seem to answer or fulfill that deep desire right now. We can recognize their value and how they led us to this point. I see a kind of eco-spirituality emerging—clunky term, I know. I’ve also been thinking about the move to reclaim a paganism, and I see benefits to that. But something you wrote, and some things you’ve said, struck me: many folks looking at this sort of neo-paganism treat the ancient gods not as actual gods, but as archetypes. Yet you’ve mentioned that this journey we’re on is going to generate new archetypes. Do you think this new spiritual vision is unfolding now? I’m looking for advice—maybe for others and for myself—on how to ground ourselves in this new spiritual experience and reality as it unfolds. I suppose we’re all participants in creating it.
+
+Chris Bache: The movements you mentioned—neo-paganism and eco-spirituality—I see both as attempting to put nature back into spiritual discourse, which was one of the things lost in the classic patriarchal religions. They’re trying to bring us back to the innate wisdom of nature, a wisdom that runs throughout our consciousness and our bodies, connecting our body consciousness to the body consciousness of Earth. Eco-spirituality is a way of experiencing spirituality that connects us to the planet and to the stars.
+
+We can see this in the resurgence of interest in astrology—not a naive, mechanistic astrology, but the vision that the universe has a pulse to it. The galaxies have a pulse, our solar system has a pulse, and if you know how to read that pulse, you can feel how your body and destiny unfold in rhythm with it. That’s a form of eco-spirituality—solar spirituality, galactic spirituality.
+
+There’s a lot of dissatisfaction with traditional religious forms. Psychedelics are interesting in that respect. Of course they’re very old—South American, Mesoamerican, Native American, and shamanic traditions have worked with them for thousands of years. But in our industrialized culture, they’re relatively young. Here we are at a point in history where we’re highly educated, with sophisticated science and a deep understanding of nature, yet we’ve bought into a vision that the physical world is devoid of consciousness: a giant machine growing randomly, with no intelligence or purpose to existence. At precisely this moment, these mind-openers have landed in our laps, giving highly educated, scientifically informed people the direct experience that that is a lie. They’re giving us the truth that our consciousness and existence are the result of intelligent action—that the universe is intelligent. In fact, it’s so intelligent that all previous visions of its intelligence are inadequate; our prophetic revelations and images are child’s play compared to the reality itself.
+
+Used carefully and constructively, psychedelics can give us direct experience of layers and layers of this intelligence. That ruptures the vision that it’s all pointless and that consciousness disappears when the brain goes. It opens up the experience that the universe is a living intelligence—and if it’s alive, that’s an aliveness we might want to merge with, to enter into conscious communion with.
+
+This reanimates interest in vision quests—immersing ourselves in solitude and in nature—and in meditation, where we sink deeper into our consciousness until we drop out from beneath the floor of our individual identity and enter communion with deeper consciousness. All spiritual traditions have told us it’s there; now we can accelerate our immersion into it. Many things are happening at once, helping us break out of old husks and exposing us to new ideas—tokens of where we’re going.
+
+Nick Mather: Wonderful. I’m mindful of the time; that’s a beautiful place to end.
+
+Nick Mather: I know you have a website—chrisbache.com. Is that the best place for people to find out more about you and your work?
+
+Chris Bache: It is. As of this moment the website isn’t quite finished, but it’s almost done, and that’s generally the best place to find or connect with me. You can also go to academia.edu, where academics post articles they’ve published. If you search for my name there—Chris M. Bache—you’ll come to my page, and my most important publications will show up. Soon my website will be finished; it will have all my publications and be an easy place to keep track of me and for us to dialog.
+
+Nick Mather: Okay, wonderful. And I know your books are widely available on Amazon and on bookshop.org if you don’t want to make Jeff Bezos any richer than he is. Is there anything coming up that you’d like listeners to know about?
+
+Chris Bache: After holding my silence about psychedelics for so many decades, the conversation I’m having now is about psychedelics. I don’t think my experiences are more important than anyone else’s, but they are mine, and they’re the best thing I have to offer the psychedelic conversation at this time. I’m hosting six-week conversations around LSD and the Mind of the Universe. Those will be announced on my website for people who have read the book and want to discuss the themes of the book—not necessarily my experiences, but the themes touched in those experiences.
+
+I want these conversations to be useful and available not only to the psychedelically initiated, but also to people who are not. I get lots of emails from people who say, “I understand what you’re saying, I agree, I’ve had many of the same experiences—and I’ve never done psychedelics.” That’s what you would expect, because psychedelics don’t give you an experience; they amplify consciousness, and it’s consciousness that does the work. Of course there are other ways to work with consciousness to access very deep states. So, conversations with LSD and the Mind of the Universe—and I go where I’m called. If people want to work together or invite me places, I’ll show up. Otherwise, I’m comfortable being relaxed and growing old.
+
+Nick Mather: Very good. Thank you so much for your time. I thoroughly enjoyed this conversation and look forward to everything you’re doing in the future. Your work has been very profound for me.
+
+Chris Bache: Thank you, Nick. I really appreciate it. I’ve really enjoyed our conversation today. Thank you for the opportunity to talk with all your viewers.
+
+Nick Mather: Thank you—and that’s a wrap on episode two of Rebel Spirit Radio. If you enjoyed this podcast, please give it a positive review on Apple Podcasts, Spotify, or whatever service you use; your reviews really do help. Please consider subscribing. For those viewing on YouTube, give this video a thumbs up and subscribe to the channel. Hit the notification bell so you’ll be kept in the know regarding upcoming episodes. For the time being, I’ll be releasing episodes every other week, with the goal of releasing them every week in the near future. Also, please consider making a donation via Patreon. You can make a one-time donation or join as a sustaining donor with three levels of membership available. Details can be found at patreon.com/rebelspirit. Your support makes this podcast possible. I’m Nick Mather, and you’ve been listening to Rebel Spirit Radio. Until next time, may you be in peace and flourish in all possible ways.

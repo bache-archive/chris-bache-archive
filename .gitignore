@@ -108,3 +108,8 @@ patches/**/logs/
 *.old
 # scratch files
 /tmp_one.txt
+# never track generated HTML under transcript subtrees we don't publish
+/sources/transcripts/_archive/*.html
+/sources/transcripts/_archive/**/*.html
+/sources/transcripts/extras/*.html
+/sources/transcripts/extras/**/*.html

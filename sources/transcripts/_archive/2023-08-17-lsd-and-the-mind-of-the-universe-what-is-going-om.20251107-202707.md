@@ -1,0 +1,193 @@
+---
+title: "LSD & the Mind of the Universe (What Is Going OM)"
+slug: 2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om
+date: 2023-08-17
+type: lecture
+channel: OMTimesTV / Sandie Sedgbeer
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.srt
+---
+
+Sandy Sedgbeer: Hello. Throughout the years that I've been conducting interviews on science, consciousness, and spirituality, I've read numerous mind-shifting books and heard goodness knows how many extraordinary stories. But the story you're going to hear today is so far beyond remarkable that I've struggled to find words to adequately describe it. All I can say by way of introduction is that what you're about to hear is a story that, until I read it, I didn’t know I—and no doubt countless millions of seekers—had been waiting for our entire lives.
+
+Christopher M. Bache is Professor Emeritus in the Department of Philosophy and Religious Studies at Youngstown State University, where he taught for 33 years; a fellow at the Institute of Noetic Sciences; adjunct faculty at the California Institute of Integral Studies; and on the advisory board for Grof Transpersonal Training and the Grof Foundation. An award-winning teacher and international speaker, Chris joins me now to discuss his book LSD and the Mind of the Universe: Diamonds from Heaven, hailed as a gripping account of an utterly unique and extraordinary hero’s journey that opens our minds and hearts to a new vision of our universe and ourselves as inseparable from the ineffable being we have called God. Chris Bache, welcome.
+
+Chris Bache: Hi, Sandy. It's a pleasure to be here with you today.
+
+Sandy Sedgbeer: This is a long-awaited interview. So, a little background. In 1979, you took the first step on a life-changing journey to explore your mind—and the mind of the universe—as deeply and systematically as possible with the help of LSD. If you had known then that it would take 20 years of excruciating pain, suffering, bliss, and intense purification, plus many more years of digesting, processing, organizing, and writing to publish this book, would you still have put yourself through it?
+
+Chris Bache: That's a good question. I'm not sure that I would. If I had known then what I know now, I would have been gentler on myself. I would have used a gentler protocol—balancing high and low doses, and balancing LSD with psilocybin and ayahuasca. I still would have taken the journey, but not as aggressively as I did.
+
+Sandy Sedgbeer: You experienced 73 higher-dose LSD sessions following protocols established by Stanislav Grof, with the intention of engaging hyper-intensive states in a way that would allow the initial chaos at each new level to clear and also allow your biophysical and psychological systems to adapt. How did you know the precise dosage to accomplish that in the way you wanted to?
+
+Chris Bache: Stan was very clear in his early books, and in LSD Psychotherapy published in 1980, about the differences between psycholytic (low-dose) therapy and psychedelic (high-dose) therapy. Psycholytic work typically runs in the 50–150 microgram range, while high-dose psychedelic therapy is in the several-hundred-microgram range. At that time, high-dose therapy was being used at Spring Grove Hospital in Baltimore with terminal patients to trigger something approximating a near-death experience to give them a glimpse of where they were going.
+
+I thought, if you can do this work three times safely, you can do it more than three times safely. I chose high doses for a couple of reasons. One, I had a false model of what the project was. I thought it was about personal transformation—my healing, my spiritual awakening—and that by working with high doses I’d be biting off my karma in larger pieces and clearing it faster. That turned out to be profoundly incomplete. Personal transformation was too small to describe it. Also, I wanted to be efficient. I was in a dual-career marriage; getting time for sessions was complicated, and I wanted to get as much done in every session as I could.
+
+What I learned along the way is that because consciousness is unified at its source, when you hyper-stimulate consciousness you're not just hyper-stimulating your personal field—you’re engaging some portion of the unified field. The dynamics that get activated—healing, purification, illumination—are much larger than personal dynamics.
+
+Sandy Sedgbeer: At what point did you realize this wasn't going to be a personal journey at all—that there was so much more going on?
+
+Chris Bache: For about the first two and a half years, it followed very much the material Stan Grof had been tracking. My work was perinatal in nature: going through the death-rebirth process, re-experiencing one's birth, confronting death and the apparent meaninglessness of existence. This culminated in a crushing and liberating ego death. According to Stan’s early descriptions, after ego death, access to transpersonal reality should get easier. But in my sessions, I began entering periods of vast suffering that got deeper and larger—terrible pain, not personal but collective—opening to the suffering of thousands and hundreds of thousands of people across thousands of years.
+
+At first, I thought this was a deepening of ego death, but it went on so long and involved so many people that I had to conclude that what was being healed wasn’t my personal psyche but some aspect of the collective psyche of humanity. Just as personal trauma gets internalized and can produce pathology, the vast trauma humanity has absorbed through history gets internalized in the collective psyche and produces a kind of social pathology. Something was using my sessions to address and to some degree heal this collective trauma.
+
+Sandy Sedgbeer: There didn't seem to be anything random about this journey. Sometimes you didn’t have a session for long periods—even years—but when you went back, you always seemed to pick up where you left off.
+
+Chris Bache: That was my sense too—that I was engaging a long, sustained conversation, a communion or initiation with a larger consciousness whose size and scale kept deepening. The continuity across time was striking. I did four years of work, stopped for six, and then did another ten. When I stopped, I was in the “ocean of suffering” material. Six years later, in a completely different time of my life, the ocean of suffering started exactly where it had stopped and continued. That clearly indicated the intelligence I was engaging was guiding what was happening. It was in charge of my sessions. My job was to isolate myself, open up, and follow wherever it wanted to take me.
+
+I found that if I trusted completely and surrendered, I’d go through intense purification or death processes, culminating in a crisis or breakthrough, then be spun into ecstatic, revelatory experiences for the remainder of the session. The next session would begin the cycle again. I learned to trust that process.
+
+Sandy Sedgbeer: Still, the suffering—there were times when I was saying, “My goodness, why are you going back? It’s so painful.”
+
+Chris Bache: You don’t go back for the pain. You go back for the joy waiting on the other side of pain. You go back understanding that the suffering is a purification process—which I didn’t fully understand at the time, but Stan’s work supported it and my own work affirmed it. When you go through it, the doors open. You go back for the revelations, the insights, the visions, and the profound communion with the universe.
+
+Sandy Sedgbeer: So the suffering is the gateway.
+
+Chris Bache: It's a byproduct of letting go of being small in order to enter being large, and that’s not always easy. It’s not just letting go of personal identity. Ego death is only the first of many patterns of death and rebirth. At deeper levels, what you let go of is much larger than egoic structures. It’s such a mystery that at the end of the book I included an appendix asking, what dies when you're so far beyond ego death and yet still having sensations of dying and loss of control? What, exactly, is dying?
+
+Sandy Sedgbeer: I don’t want to focus too much on individual sessions, but there was one that really stood out—a collection of sessions where you experienced life as many different women in turn. What do you think was the purpose, and how did they impact you?
+
+Chris Bache: That was my ego death experience. Around my ninth or tenth session, the universe broke me like a twig. I began the day as a white, Ivy League–educated philosopher, passionately concerned with the meaning of existence. The universe forced me to become its exact opposite. I became women. I became women of color. I became women who weren’t interested in the meaning of life, who weren’t educated at all. I was myself, but in all these other roles. It terrified me. I fought it. Eventually, when I surrendered and allowed myself to become all these women, everything shifted. I was taken under the arm of the Great Mother and initiated into the lives of hundreds of women—the more positive side of female experience—conceiving, giving birth, loving husbands, loving children.
+
+The fundamental message wasn’t “reclaim your former lives as women,” though I know I’ve had them. The message was: where you are going, gender does not exist. Let go. I was being taken into a level of reality where male–female is irrelevant. To do that, I had to be broken of my male identity and allow a larger identity to emerge. Becoming women was part of that breaking process.
+
+Sandy Sedgbeer: The whole 20 years seems to have been quite a massive breaking process. Nobody knew about it except your wife. You weren’t talking about it. You were teaching mature students philosophy, and often your experiences would have been the perfect example to offer, but you couldn’t. What was that like?
+
+Chris Bache: It wasn’t so bad at the beginning, but it got increasingly difficult. I could feel questions from students with deep personal significance, and answers would spontaneously rise in me grounded in my psychedelic experience. Sometimes I could refer to Stan Grof’s or others’ research, but other times I couldn’t, and I wasn’t willing to bring my own experiences forward. I began to experience a catch in my throat—my voice would momentarily bark. It was embarrassing. I was literally strangling on what I wanted to say but wasn’t allowed to say.
+
+I knew the cost of doing this work would be my silence, and I paid it. What I didn’t realize was that dividing your life—daytime as a straight professor, nighttime as a psychonaut—creates fractures in your psyche deeper than you anticipate. In the end, those cracks were only healed when I finally came out of the psychedelic closet and allowed myself to speak openly.
+
+Sandy Sedgbeer: Most people in the spiritual arena are familiar with NDEs, reincarnation, and channeled works that explain who we are and where we go in the afterlife—and you’ve taught courses on these yourself. But your experience took you way beyond where anyone has gone before. It gave you a whole new vision of the Bardo. Tell us about that.
+
+Chris Bache: The classic understanding of the Bardo was affirmed in my sessions. There are many layers of spiritual reality, and when we return after death, we enter the layer that reflects our spiritual development. It’s a social domain—there are other beings, incarnate and discarnate, as well as guardians and guides. After you die, there’s a debrief where you process your most recently completed life—what you did poorly, what you did well—then a return to the world of spirit, to “home.” Eventually you go through the choice process of incarnating again. Because the evolution of the soul is vast, it takes many lifetimes to actualize the full potential of human existence. There are many tiers of the Bardo, and my experience affirms this.
+
+I tapped into Bardo realities as collective domains. The “ocean of suffering” is analogous to the Buddhist hell realms. I also accessed levels analogous to the high deity realms in the Buddhist cosmology of the Six Lokas. And there is a reality outside the Bardo—when you graduate from the Earth system and move beyond the spiritual echo of time–space experience—entering what I would describe as the domain of Diamond Luminosity.
+
+Sandy Sedgbeer: Why do you call it that?
+
+Chris Bache: Because of the quality of the light. One encounters light in deep spiritual and near-death experiences, and I had many such encounters. But starting with my 45th session, I encountered a light unlike anything before—unbelievably bright, beautiful, and clear. It becomes so refined and intense it’s almost invisible—just clear. Your mind is incredibly clear. I came to understand the Buddhist saying that touching this for one second undoes thousands of years of living in the shadows of karma. It is radically pure, clear.
+
+Once I touched that, I wasn’t interested in exploring the other dimensions I’d known—collective unconscious, archetypal reality, even causal oneness. This was completely different. In the last five years of my work—26 sessions, a third of my entire journey—I touched this reality only four times. Each touch triggered more purification and a year’s worth of work before I could return.
+
+Sandy Sedgbeer: And having touched it, was that what kept you going—seeking it again and again?
+
+Chris Bache: Absolutely. In the last third of my work, my agenda was to do whatever I needed to do to go back into that reality.
+
+Sandy Sedgbeer: So if I understand this right, there are different layers—almost stages—and over millennia we gradually move through them. But you went through them in a fraction of that time. What kind of effect does that have on someone?
+
+Chris Bache: I want to be careful. In therapeutically or spiritually focused psychedelic sessions, you speed up what happens in life at a slower pace. In reincarnation, we grow and evolve: die, return to soul consciousness; are born, contract into egoic consciousness; die, return to soul consciousness—again and again. We choose lives that challenge, stretch, and heal us, develop new talents, deepen capacities.
+
+Psychedelic therapy accelerates that process. Long, sustained meditation retreats do too. You bite off larger pieces of personal karma. But then something else takes over. It’s not about your personal enlightenment anymore. Your ties to the human family, the family of life, the universe deepen. You begin to feel engaged in a profound life process.
+
+You can take it farther than is comfortable. You can be dissolved so completely into vast flows of consciousness and dimensions of existence that it’s hard to come back—hard to leave the joy, clarity, and ecstasy to return to time and space. And touching these realities doesn’t mean you can stabilize them back in time and space. It doesn’t mean you’ve accomplished what great spiritual teachers have—abiding with one foot in, one foot out. I emphasize: this is a path of temporary immersion. Temporary experiences of oneness don’t make you as developed as someone who can abide in that reality. All honor to the great spiritual masters. I wouldn’t say I accomplished all those evolutionary journeys in one lifetime, but I did something pointing in that direction.
+
+Sandy Sedgbeer: But you can’t unknow what you know. When you come back with that knowledge into a world that seems to be falling apart on every level, how do you cope with that dichotomy?
+
+Chris Bache: It’s challenging, but there are mitigating dynamics. The deeper your experience of the intelligence of life and the joy of its creative manifestation, the more you see the universe for what it is—the body of the Divine, the body of God. The universe manifests a profound intelligence. Once you touch that, you’re overwhelmed by its brilliance, wisdom, and love—an order of love beyond anything I’d known in this lifetime.
+
+Those experiences change how you see everything. And they give you a larger horizon to understand the human experience. I adopted reincarnation early on based on empirical evidence—reading Ian Stevenson and early past-life therapy work—but it still takes years to truly live into a universe that pulses in reincarnation cycles, not just for individuals but for the species.
+
+I had experiences understanding my current life as a continuity from previous lifetimes, and deeper experiences of the entire human species pulsing generation by generation as a reincarnating species. Our individual challenges and karma are fractal manifestations of the larger species challenge and species karma. When you have those experiences, you look at people, the planet, the galaxy differently. You feel a deeper participation in a mystery whose details you may not fully understand, but you feel the joy because you’ve touched the intelligence behind it. That makes it more joyful to enter life. There is sadness that you can’t sustain peak experiences, but every few months I would return—four or five times a year—and drink deeply again. The full cost of how deep I went didn’t emerge until I stopped. The universe told me it was time, and I felt it. Only then, without knowing I’d be returning for another communion with my beloved, did I realize the true cost of overextending myself so deeply into the transcendental.
+
+Sandy Sedgbeer: Before we go to a break, one question. You said the universe is the body of God. What are we?
+
+Chris Bache: We are part of the universe, so we are part of the body of God too—part of the manifestation of the universe’s intention to create. Our body is rooted in quantum and atomic reality; the evolutionary story is built into our nerves, vascular systems, and organs. Likewise, our minds are part of the creative intelligence manifesting existence. When we go deep into mind and drop beneath the depths of the personal mind, there’s no floor—we fall into the mind of the species, then into the mind of the universe. Then the Hindu teaching Atman is Brahman—the essence of the individual is the essence of the totality—becomes the most natural core truth. Another core truth is oneness: Brahman is one, and we are a fractal manifestation of that oneness. Once known, even when you return to paying bills and the tasks of the physical world, all you have to do is step back to re-appreciate these deeper truths—the deeper pulsing of life.
+
+Sandy Sedgbeer: We’re going to take a short break. Welcome back. Chris, you’ve made it quite clear there’s an evolutionary dimension to all of this. In the later chapters of the book, where you talk about the birth of the Diamond Soul, you begin to see that we are at an evolutionary cusp, and the global systems crisis we’re all experiencing is part of that. For what point—what is the ultimate purpose of all of this happening?
+
+Chris Bache: 
+Let me break that down into two parts—the classical vision, first, on reincarnation. In most Eastern traditions, you grow, get clearer, kinder, more generous, cultivate deeper qualities, and eventually reach a spiritual maturing where your consciousness opens to the core of your being. You awaken to the fact that the essence of your nature is the essence of all nature, that all beings share the same nature. There’s an explosion of compassion and a deep embrace of the universe. The usual interpretation is that you are now free to leave time and space—what the Hindus call Moksha—to escape Samsara. It’s an “up and out” cosmology. The religions of the Axial Age, in one way or another, are part of that pattern: we don’t want to be on Earth, we’re in a veil of tears, we want out—by salvation or enlightenment. But that leaves fundamentally unexplained: What is the purpose of the universe? What is the purpose of this magnificent creation? With our deeper understanding of the magnitude of existence—how many billions of years went into the unfolding of the universe—it becomes profoundly unacceptable and short-sighted to think the purpose of life is to awaken to your true nature and then escape into nirvana or an off-planet paradise.
+
+At a critical point in my work, I experienced all of my former lives coming into me, one after another, like wrapping a white filament of light around a kite spool. At a certain point, all those lives fused into one consciousness. There was an explosion of diamond light out of my chest, and I was catapulted into a deeper state of consciousness than I had ever touched. I was an individual, but an individual beyond any frame of reference I had known. I came to call this the birth of the Diamond Soul.
+
+I think that as we incarnate over and over, sooner or later the soul—the consciousness we return to when we die—wakes up and manifests inside our time–space consciousness. The soul wakes up inside time and space: a fully conscious, 100,000-year-old being, not a 100-year-old being, with an intuitive awareness of the breadth of human relationships and an ability to enter deeper communion with cosmic intelligence. At that point, we don’t leave; we begin to live differently on the planet. I think the entire human species is evolving in this direction—into fully manifesting soul consciousness. And by “soul consciousness,” I don’t mean something separate or isolated; it’s fully transparent. Shunyata—emptiness. Anata—no-self. All affirmed, but a soul manifesting consciousness. Imagine a planet filled with fully conscious souls; that species would create a different life on this planet than we’ve ever seen.
+
+Later in my work, over about four years, I began receiving a series of visions about human evolution. The message was always the same: we’re coming to a turning point, a profound spiritual awakening—a before-and-after in human history. It involves tremendous collective purification, emptying out the pains of history to lay a new foundation for an infusion of divine energy rising within us. I was given glimpses of the transformed humanity that would emerge, but not how nature would pull it off.
+
+Several years later, in 1995, when I had transitioned to the Diamond Luminosity phase of my work, I expected to be taken back into that state. Instead, I was dissolved into the species—Chris Bache dissolved into the human family. As the human family, I was taken into the future—into deep time—and experienced what I came to understand as a death-and-rebirth process impacting the entire human family. Just as an individual can undergo an intense death–rebirth process in spiritual or psychedelic practice, history was putting the entire human family through such a process.
+
+I experienced an unraveling of life, a profound loss of control, a cascading series of crises breaking us down level by level. I wasn’t given details or a calendar, but it was global and seemed triggered by cascading ecological crises. The whole system of life was coming crashing down. And then, just when it seemed like an extinction event, the peak of the storm passed. Things began to get easier; we picked ourselves up and rebuilt civilization. When we did, everything was different. We were suffused with new ideas, new ways of thinking, new values, new capacities of the human heart that generated new social relationships and institutions. Going through this global systems crisis broke us down and open, tapping us into the universe at a deeper level than before. What emerged wasn’t just a new civilization, economy, or industry—it was literally a new kind of human being. It was a shift in the plate tectonics of the collective psyche, the fundamental core of the collective psyche.
+
+Humanity has been through shifts like this before. There was a time when our brain size increased by 50%—an enormous shift. This is something like that, a deep shift of the collective psyche so that every human being born after this will live their individual awareness within a field of collective awareness different from the one we inhabit today.
+
+This is what I call the birth of the future human. I think the form this being will take is the Diamond Soul. We’re giving birth to a new species on this planet—a spiritually awake, spiritually mature, soul-conscious species. By that I mean something beyond what we’ve historically meant by “soul,” because our concepts have been restricted by our assumptions. I call it the Diamond Soul to signal that it’s something new, something different. Our great spiritual masters—Jesus the Christ, the Buddhas, the prophets—have given us foreshadowing insights into the nature of the being we are becoming. They are prototypes of the being we are all becoming.
+
+Later in my journey, I was taken deep into time and given my deepest experience of the future human. This being is magnificent—an extraordinarily beautiful being with a vast heart, a mind capable of drinking deeply from creative intelligence, and a heart capable of experiencing the fundamental oneness of all life. A being who experiences that oneness would never hurt another being—not just another human being—never hurt another being. Such a being would build a different world than the one we’re building now.
+
+Sandy Sedgbeer: 
+So such a being has no need to evolve.
+
+Chris Bache: 
+I think this is simply the next step in our evolutionary saga. I don’t know how long this transition will take—at least generations. Whether it’s 100 years or several hundred, I don’t know. If it took 1,000 years, that’s probably stretching it, because I think we’ll be dead if we don’t make this transition sooner. We’re either going to go extinct or we’re going to transition into this new form. Extinction—or near extinction—is a tremendous accelerator of evolution. However long it takes, whatever we become, evolution isn’t going to stop. We’ve been at this for billions of years; we’ll be at this for billions more. There’s no telling where we might go next, and next after that. So I don’t see an end point—just the next point. And the next point is to wake up to what’s really going on, to who we really are, to the depth and breadth of our relationships with life itself, other people, and other species—and then we continue.
+
+Sandy Sedgbeer: 
+It’s been 24 years since you stopped. Do you feel you have fully integrated all of those experiences?
+
+Chris Bache: 
+No, I haven’t. When I finished my sessions and was beginning the digesting process, in meditation the universe said to me, “Twenty years in, twenty years out.” I thought, “Oh, it’ll take me 20 years to assimilate 20 years of my journey.” As I was getting to the end, writing Diamonds from Heaven, I thought that was probably optimistic. I think it will take me many lifetimes to fully integrate all the gifts I’ve been given.
+
+Sandy Sedgbeer: 
+What do you think, in light of what you’ve told us—what you’ve learned and seen—we most urgently need to address now as a species?
+
+Chris Bache: 
+There are many layers to that question. First, we start by taking full responsibility for our shadow—engaging it and clearing obstacles and blocks that impede our compassion and healthy, whole psycho-spiritual functioning. We need to reconnect with, and rediscover, our relationship with the universe and our fundamental core identity with the universe.
+
+We need to overcome thousands of years of teachings that place humanity at the top of the evolutionary pyramid—not just unique in degree, but unique in kind and superior to all other life forms—and that all other life forms serve us and can be used exploitatively. All that has to be transcended. We must enter into renewed communion with the universe—both spiritual and physical reality.
+
+We need to recognize that our body is divine—not just our mind and heart. Sri Aurobindo thought humanity would eventually become so spiritually energized that the body, being sufficiently psychoplastic, could live indefinitely. His calculation was that it would take 300 years of spiritual practice before we could set in motion the chain reaction for our biological body to perpetually refresh itself as we live in communion with divinity. I don’t know about that, but it’s an intriguing vision from a profound teacher about the potential we’re activating.
+
+What’s important is to realize we’re just children waking up in a garden that’s been developing for billions of years. We’re only beginning to wake up to what’s going on, to who we are, to what’s happening. We’re like children in a playpen, but I think we’re about to get out of the playpen. We’re about to walk. We’re about to become mature adults.
+
+Sandy Sedgbeer: 
+You feel there is an urgent need to get psychedelics back on the table so their efficacy can be proven, and we can start adopting them to help people heal their wounds and, hopefully, evolve more quickly?
+
+Chris Bache: 
+I think so. They’re very valuable substances, and fortunately we are reclaiming them after a 40-year interruption. These are amplifiers of consciousness. Everything hinges on how we use those hours of amplification. If we use them carefully and wisely, these substances can help heal the wounds of life. Deeper still, they can help us recover insights into our true nature—our fundamental core identity with all other life forms. They open up spiritual platforms.
+
+I think psychedelics have profound philosophical significance. This is a different way of doing philosophy: we systematically, temporarily expand the mind, come back, write it down, analyze and compare experiences. One person’s experiences are never important by themselves; it’s when many people’s experiences are put on the table and we find common ground and themes that we begin to develop a truly trustable epistemology—trustable insights into what’s going on.
+
+They must be used very carefully, with great respect. When one amplifies consciousness, the dirt comes out of the system. If you’re not prepared to meet that, or you open under the wrong circumstances, it can be terrifying and dangerous. But if you take precautions and open under the right circumstances, nothing that comes out can’t be beneficial if you face it with courage, grounding, and skill. We are now training the next generation of psychedelic therapists—training people to help others use these substances beneficially.
+
+Sandy Sedgbeer: 
+Back in the ’60s, there was a move—many people were involved in experiments to find out how they could be useful to humanity—and they got shut down. Are you hopeful that this time we’ll be able to move forward and allow people to benefit?
+
+Chris Bache: 
+I hope so. That seems to be where we’re going. The psychedelic renaissance is focused on personal healing—treating conditions generated by modern culture: post-traumatic stress disorder, depression, addiction, death anxiety. We’re using scientific methodologies and carefully framed studies to document the beneficial effects of these substances. Once we do that—once we establish them and bring them back as legitimate subjects for discussion in scientific and educated society—then we’ll move into second and third levels, realizing these substances not only heal but reveal, open, illumine.
+
+Civilizations have known this; Indigenous peoples have known it for millennia. Ayahuasca in South America goes back at least 1,500 years. Peyote, mescaline, mushrooms—Indigenous people have used these to open spiritual communion for millennia. We’re catching up, and Indigenous people really are our teachers in how to use these substances wisely.
+
+Sandy Sedgbeer: 
+Do you ever wonder why you—why did you have this experience and not someone else?
+
+Chris Bache: 
+First, many people have used these substances wisely and have had these kinds of experiences. I’m just representative of a social movement. Maybe I pushed the edge harder than most. Because of my training, maybe I wrote it down, analyzed it, and worked out the details more than most. But I don’t see myself as unique; I see myself as part of a movement.
+
+When I got out of graduate school and met Stan Grof’s work, I knew immediately this was my calling. It woke up inside. Why that was the case eventually came back to decisions made in the Bardo before I incarnated—what my soul’s work was going to be. My soul’s work was around education and healing—not psychotherapeutic healing one-on-one, but healing at a deep collective level.
+
+I think many people are working at this level. There are many hidden saints working to bring about the birth of the huge human. There are many bodhisattvas in the world—some recognized, most not—who invest their lives in transforming the lives of others, helping us make it through the global systems crisis we’re entering, the ecological crisis bearing down on us. It’s going to take all of us. I think all of us chose to be here at this time and in the form we incarnated. There are no victims. There is no compulsion in reincarnation. We chose to enter this time in history. We may not remember why, but we chose to be part of this process.
+
+Sandy Sedgbeer: 
+Chris Bache, thank you for joining us and sharing your incredible journey—and for sharing it with the world.
+
+Chris Bache: 
+Thank you, Sandy. It’s been my honor and pleasure to be in discussion with you today. Likewise.
+
+Sandy Sedgbeer: 
+LSD and the Mind of the Universe; Diamonds from Heaven—it’s published by Inner Traditions, Bear & Company. For more information about Chris Bache, his articles, events, and his other three books—The Living Classroom: Teaching in the Collective Consciousness; Dark Night, Early Dawn: Steps to a Deep Ecology of Mind; and Lifecycles: Reincarnation and the where of life—visit his website at chrisbache.com. That’s it for this week. I’m Sandy Sedgbeer. I’ll be back with another edition of What Is Going On at the same time next week. Till then, it’s goodbye from me and thank you again to Chris Bache.
+
+Chris Bache: 
+Thank you, Sandy.

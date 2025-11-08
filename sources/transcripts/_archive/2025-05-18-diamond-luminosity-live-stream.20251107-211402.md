@@ -1,0 +1,394 @@
+---
+title: Diamond Luminosity (live stream)
+slug: 2025-05-18-diamond-luminosity-live-stream
+date: 2025-05-18
+type: lecture
+channel: New Thinking Allowed
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2025-05-18-diamond-luminosity-live-stream.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2025-05-18-diamond-luminosity-live-stream.srt
+---
+
+Jeffrey Mishlove: 
+Allowed is presented by the California Institute for Human Science, okay? And then I'll shut that.
+
+Emmy Vadnais: 
+I'm going to go ahead and share my screen—minimizing.
+
+Jeffrey Mishlove: 
+There we go. As of this moment, announcements are being sent out to our followers. They’ll be logging in, they’ll hear everything we say, and their screen will look like this, with little thumbnails of our images.
+
+Emmy Vadnais: 
+In a minute, I’ll start the countdown clock timer. For those listening and joining, welcome and thank you for being with us. If you want to chat in where you’re joining from in the world—from your neck of the woods—we’d love to hear where you’re from.
+
+Jeffrey Mishlove: 
+I might mention for people watching the archival video who wonder why they have to sit through 10 minutes of conversation before we begin. Once we start the timer and go live, YouTube automatically makes the archival recording, which then goes public. We could, in theory, capture a recording on our hard drive and edit it before letting it go public, and edit out the first 10 minutes. I got a complaint from a viewer who didn’t understand they could fast forward to the beginning. So, for viewers who don’t want to sit through the preliminary conversation—fast forward 10 minutes.
+
+Emmy Vadnais: 
+Right. That’s why there’s a timer—it says nine minutes until livestream. It notifies our subscribers that we’re going live in a few minutes. If we were to take it down and re-upload it, the only thing is we’ve already shared this particular URL all over the internet.
+
+Jeffrey Mishlove: 
+Yeah, we’d have to have a new URL. I kind of like keeping things the way they are. We’re on Zoom—it’s not the highest quality from the Zoom recorder, to be honest. If I were to start downloading the recording, any time you mention another person I’d want to insert a book cover or something the way we normally do for our interviews, which would create delays. This way, the archival video goes up as soon as we finish talking.
+
+Emmy Vadnais: 
+It’s pretty easy to fast forward a YouTube video to when it actually begins.
+
+Jeffrey Mishlove: 
+Typically, by the time the day is over, there are three or four times as many people who watch the archival video as were with us live.
+
+Chris Bache: 
+How many years have you been doing this, Jeffrey?
+
+Jeffrey Mishlove: 
+I started in 1972 doing interviews, but a YouTube channel—this is our 10th year on YouTube. I began at KPFA, Pacifica Radio, a nonprofit station in Berkeley, back in 1972.
+
+Chris Bache: 
+That’s a lot of good information streamed out to a lot of people.
+
+Jeffrey Mishlove: 
+Yeah, really—and I was guided to do it by a dream. At a time in my life when I didn’t own a radio or a television—long-haired Berkeley hippie—I didn’t believe in radio or television. I thought they were all phony baloney. But I had this dream, acted on it, changed my mind, and for most of the last half century I’ve been doing interviews.
+
+Chris Bache: 
+Wow, that’s fascinating—another example of the wisdom of the deep consciousness of the world communicating and giving us directions in our so-called private lives.
+
+Jeffrey Mishlove: 
+I’m very interested in people who have had what I would call life-changing dreams. That dream was a life changer. Here I am, half a century later, still acting on that information.
+
+Emmy Vadnais: 
+And livestreams on YouTube have been, what, three, four years you’ve been doing these?
+
+Jeffrey Mishlove: 
+Yeah, maybe even—
+
+Emmy Vadnais: 
+I think maybe five years.
+
+Jeffrey Mishlove: 
+Yeah. In fact, yes—five years.
+
+Emmy Vadnais: 
+Usually every two to three weeks we have fabulous guests on like you, Chris.
+
+Chris Bache: 
+How did you get into this particular role, Emmy? What drew you here?
+
+Emmy Vadnais: 
+Jeff was a guest on my podcast back in 2018. I originally learned about him and Thinking Allowed on public television back in 1987 when I was probably 13 years old. He was interviewing wonderful people from 1986 to 2002, although my understanding is that it was sent out on satellite in 1987. I began watching it and was fascinated and intrigued by the information. I didn’t understand all of it at the time because I was 13, but I understood enough that I wanted to learn more. In retrospect, it helped set the tone for my career—holistic health, intuition, spirituality, consciousness—and even back then, Jeff, you were talking about UFOs and interviewing people like Jacques Vallée and John Mack. I thought, this man is really intelligent; there must be something to all of this.
+
+Then I was researching for a book I wrote about intuition, and Jeff’s name kept coming up. I realized, oh—Jeffrey Mishlove, he was the host of that program. I learned he had a doctorate in parapsychology, which was downplayed on the original program. I thought, I’d love to talk to him and invited him on my podcast. He said yes. In 2020, Jeff put out a call for volunteers. I started volunteering, and then he won the Bigelow essay competition for the best evidence for the continuation of consciousness in the afterlife in 2021. He invited me to be a guest host, and shortly thereafter I became the co-host. Now he’s invited other guest hosts, too. I’m grateful to be here, help share this information, and learn from one of the best in the field.
+
+Chris Bache: 
+In such a way our lives are all intertwined around each other, aren’t they?
+
+Emmy Vadnais: 
+Very true. And Chris, we’re going to learn more about you in a few minutes. When did you start? I know you were a professor for many years. When did you start public speaking or getting interested in these kinds of topics?
+
+Chris Bache: 
+When I started the LSD work in ’79 I had to keep it under tight wraps. I couldn’t bring it out publicly at all. It wasn’t until I wrote Dark Night, Early Dawn, my first book on psychedelic work, which came out in 2000, that I began going to conferences and teaching at CIIS in that area. I really didn’t go public until I retired from the university in 2013. I worked on LSD and the Mind of the Universe for five years during that period, and when it came out in 2019 I became more public—just increasingly public. I was formally out of the psychedelic closet when that book came out.
+
+Emmy Vadnais: 
+It’s a wonderful book—LSD and the Mind of the Universe. I really enjoyed reading it. I like how you included many of your session notes; I felt like I was sometimes along on the trip with you.
+
+Chris Bache: 
+That’s what I wanted. In order to have the philosophical conversation about the potential of psychedelics, first people have to understand what happens in deep sessions. The first task was descriptive; later, the second or third round would be more evaluative and analytic. I tried to bring the reader along into those sessions, so I had to learn a whole new way of writing—lose my academic voice and develop a different voice.
+
+Emmy Vadnais: 
+You did it beautifully. I would say you nailed it.
+
+Emmy Vadnais: 
+We’ve got about a minute before we officially begin the program.
+
+Jeffrey Mishlove: 
+In retrospect, the impulse I had to act on that dream and be alert to it—I was primed for that from having had LSD a number of times prior.
+
+Chris Bache: 
+Yeah, and the depth of our interweaving continues to grow.
+
+Jeffrey Mishlove: 
+All right, welcome everybody. I’m Jeffrey Mishlove. I’m with my co-host, Emmy Vadnais, and our honored guest, Chris Bache. Emmy, will you introduce Chris?
+
+Emmy Vadnais: 
+Yes—hello and welcome, everybody. We’re grateful to have Chris Bache with us today, professor emeritus in the Department of Philosophy and Religious Studies at Youngstown State University in Ohio, where he taught for 33 years. He is also adjunct faculty at the California Institute of Integral Studies, an Emeritus Fellow at the Institute of Noetic Sciences, and on the advisory council of Grof Legacy Training. Chris is author of Life Cycles: Reincarnation and the Web of Life; Dark Night, Early Dawn; The Living Classroom: Teaching and Collective Consciousness; and LSD and the Mind of the Universe: Diamonds from Heaven. His website is chrisbache.com—with an “e” at the end. Welcome, Chris. We’re so happy to have you here today. To get us started, would you share a little about your background? And we also want to let people know that Chris has been a guest on New Thinking Allowed with a recorded interview talking about psychedelics and the cosmic mind.
+
+Chris Bache: 
+I’m actually the last person you would have thought, from the beginning of my life, to end up writing a book describing what happens in a long series of high-dose LSD sessions. I was raised in the Deep South, in Mississippi. I was a seminarian in the early days—studying to be a Catholic priest—but eventually left because celibacy and I didn’t get along very well. I got degrees in theology and New Testament criticism and eventually philosophy of religion from Brown University—very classical, very traditional upbringing. The psychedelic ’60s passed me by entirely.
+
+It wasn’t until I began teaching in 1978 and was looking around for where to take my research that I encountered the work of Stanislav Grof. His book Realms of the Human Unconscious was a life changer. I saw immediately the philosophical significance of his work. If what he was saying was true, it had profound implications for how we could do philosophy in the future—not just healing, but exploring the metaphysical underlying structure of reality. Uncomfortable as I was, I decided I needed to do this work. I began very private, circumscribed work using Stan Grof’s protocol.
+
+I divided my life into two parts. During my day job, I was a traditional member of the Department of Philosophy and Religious Studies at Youngstown State; my “night job” was working with psychedelics—healing my own psyche, exploring the deep structure of the collective psyche, and what lies beyond. I worked for four years, stopped for six years for reasons I give in the book, then resumed for another 10. Basically, between 30 and 50 years old, I did 73 high-dose LSD sessions using a tight therapeutic protocol, and then I took another 20 years to digest and assimilate those experiences and connect the dots before publishing LSD and the Mind of the Universe in 2019.
+
+After I finished my sessions, in one of my meditations I heard a voice say, “20 years in, 20 years out,” which I took to mean it would take at least 20 years to integrate and digest those experiences. That might have been overly optimistic; I don’t think I’ve nearly integrated all the experiences I collected in those first 20 years.
+
+Emmy Vadnais: 
+So you feel like you’re still integrating the experiences?
+
+Chris Bache: 
+Very much so. It raises substantial intellectual questions: how do you possibly integrate experiences that so radically transcend the conditions of time and space and our consciousness inside time and space? If you have temporary experiences that go radically beyond spatial consciousness and linear time, what does it even mean to integrate them? What does integration look like when you’re dealing with such radical experiences? With lower-dose work or gentler psychedelics, where experiences come closer to your world inside time and space, integration is less demanding. But if you really open the very deep waters of the psyche, integration becomes a more substantive issue.
+
+Emmy Vadnais: 
+We’re getting lots of questions. This one from Robert Bushman might be a good place to start: What is consciousness? Is there an ultimate reality, or is it infinitely fractal? How can an individual’s conscious awareness expand without psychedelics? How can one remember past lives? Maybe starting with: what is consciousness?
+
+Chris Bache: 
+I’m happy to let psychologists and philosophers tear their hair out on that one. I’ll go with whatever definition they come up with as long as it’s sufficiently broad to incorporate the total phenomenology of consciousness. Simply, consciousness comes from “con” + “scire”—to know. Consciousness is that with which we know—the knowing function, the awareness through which we know anything else.
+
+We have a tendency to think consciousness fits inside our skull, but increasingly we realize that’s inadequate because of empirical parapsychological research. I think of consciousness as a field that our brain allows us to consolidate and structure inside our physical existence. In its own right, it’s a field—open-ended. If you ask how big that field is, you get into the cosmological adventure. If you go deep into your psyche, you drop first into the personal unconscious. Keep pushing deeper and you drop into the collective psyche—Jung’s territory. Go deeper still and drop below the entire psyche of the human species; you transcend the species psyche. Then you’re in dimensions of consciousness that truly are the mind of the universe—or, if you prefer, the mind of God.
+
+As vast as the universe is—billions of galaxies, immense age and scale—this universe has a mind as deep, broad, and old as its body is. My individual experience of consciousness is a drop, a fractal aspect of the totality of consciousness that flows. That’s why I gave the book the title LSD and the Mind of the Universe: when you go very deep using a powerful and circumscribed protocol, you drop into deeper and deeper layers and are given the opportunity to explore the very nature of physical reality itself.
+
+Emmy Vadnais: 
+I think we just lost your video, Chris.
+
+Chris Bache: 
+I lost the video here. Let’s see—how’s the audio? Okay, let me see if I can—
+
+Jeffrey Mishlove: 
+I guess the camera is pointing somewhere else.
+
+Chris Bache: 
+I don’t know why it dropped, but I can shift to a different—
+
+Emmy Vadnais: 
+There we go. We’ve got a view of you now. Wonderful.
+
+Jeffrey Mishlove: 
+You are back. I think it’s important to emphasize early on—or to repeat what you said in your earlier interview with Emmy—that you are not recommending that other people do what you did: take many high doses of LSD. One of our viewers has raised the question about what kind of people or populations should not use psychedelics.
+
+Chris Bache: 
+First, I absolutely agree. I do not recommend that people adopt the protocol I adopted. Knowing what I know at the end of this journey, if I were starting from scratch I would be much gentler on myself. I’d work with much lower doses, balance organic psychedelics with synthetic psychedelics, and take a gentler, more circumscribed approach. I was young when I did this work. I had assumptions that turned out not to be accurate.
+
+There are many people who shouldn’t be working with psychedelics, for physiological or psychological reasons. Psychedelics are amplifiers of consciousness: they take what is far away and make it available; they take what is low volume and make it high volume—an explosion of awareness. If you’re prepared, disciplined, trained to navigate those transitions, and working with professionals who can help you, okay. But many people are best working in gentler techniques—yoga, meditation, trance dancing—approaches that have the same amplifying effect in a more gentle fashion. We can do a great deal of very good work without taking psychedelics at all.
+
+In fact, many people who have written me have never taken psychedelics—or took them once or twice early in life—but have been meditators for 40 or 50 years. They compare the cosmology that emerges in my story to the cosmology that has emerged for them in meditation and find strong parallels. At the deepest level, the issue is not psychedelics; the issue is consciousness—its boundaries and functions. Some people should stay away from these powerful amplifiers.
+
+Emmy Vadnais: 
+How many micrograms—what was the dose you were usually working at? After we did that interview, some people asked about those levels. And, as you said, you would go lower if you were to do it over again.
+
+Chris Bache: 
+After the first three sessions, which were medium-dose, I worked at 500 to 600 micrograms—right at the body’s maximum capacity to absorb. Taking more doesn’t necessarily take you deeper. I was working at very high levels that can shatter the structures of consciousness and take you temporarily beyond your traditional ways of knowing yourself and the world. Again, I would be much gentler in the early days.
+
+At Spring Grove, they experimented with a population of clients who were dying of cancer—terminal patients—addressing death anxiety. They worked with high-dose LSD sessions, essentially trying to trigger a near-death experience so people could have an insight into where they were going and relieve the anxiety of death. It was quite successful, but the protocol limited high-dose work to three sessions. I came along years later and thought, if you could work successfully three times, you could do it more than three. I adopted that protocol. Over time I learned I had an aptitude for working at those levels. I could let go and expand into the deep psyche comfortably enough, and I did not have problems consolidating; I tended to consolidate comfortably and strongly. It is an unusually intense protocol. I wouldn’t do it again; I’d do it differently.
+
+Emmy Vadnais: 
+In fact, you’ve shared—in your book and in our previous conversation—that near-death experiencers are the group you often relate to with your own experiences with LSD. Is that right?
+
+Chris Bache: 
+Yes. I feel the closest, in some ways, to people who have near-death experiences. When their body almost dies, they are catapulted into very deep states of consciousness; they get glimpses of that world. There’s strong overlap between a deep NDE and a deep, therapeutically structured psychedelic experience. The difference is that near-death experiencers primarily get only one take on that reality. If you work with psychedelics like I have, you get multiple immersions—multiple initiations—so what is a one-time flash becomes a journey, a communion repeated and deepened over time.
+
+Jeffrey Mishlove: 
+We have a question from a viewer whose YouTube name is Greasy Slick, who would like to know if you’ve ever experimented with DMT, which is considered, I believe, the most powerful psychedelic.
+
+Chris Bache: 
+I have experience with other psychedelics besides LSD, though my LSD work is my primary body of work. I’ve had some experiences with DMT, with psilocybin, MDMA, salvia divinorum, and San Pedro. I’ve had experiences with 5-MeO-DMT, an extremely powerful short-acting psychedelic. I don’t have a lot of experiences with 5-MeO-DMT—I feel like I’m just beginning to nibble on that after a long period of not working with psychedelics. I stopped my primary work in 1999; much of my work with these other psychedelics came after that, when I wasn’t concerned with pushing new boundaries so much as helping me integrate the work I had already done. I’ve had limited experience with high-dose ketamine sessions as well.
+
+Jeffrey Mishlove: 
+Are you able to draw any meaningful comparisons between those entheogens and LSD?
+
+Chris Bache: 
+That’s a conversation we’d have to go into carefully. I don’t think I have enough experience—or enough knowledge of other people’s experiences—to make a fair comparison at this time. I do think there is an advantage to psychedelics that open a long window that stays open for a long period—like LSD or, perhaps a little less, psilocybin. With something like 5-MeO-DMT, it’s a very intense immersion but very short-acting. You don’t have as much time for the infinite consciousness you’re entering into to impact you, clean you, and transform your life.
+
+I think this is what Rick Strassman found in DMT: The Spirit Molecule: he took people into very intense experiences; some had very deep experiences, but in the end he found they did not change their lives very much. The experiences were not deeply transformative. I personally think part of the reason is the short window versus a long-acting, large window. Then again, even a psychedelic like LSD is relatively short-acting compared to meditational practices where the window is open much longer. If we combine meditation and contemplative and yogic disciplines with psychedelic practices—which give you a window to experience—then you may have optimal conditions for balancing the virtues of both and amplifying the transformative effect.
+
+Jeffrey Mishlove: 
+I wonder how many people who take LSD—widely used in our culture—really have their lives transformed the way you have, and I think I have. I’m under the impression many people of our generation took LSD and weren’t even trying to transform their lives. It was more a question of partying.
+
+Chris Bache: 
+I think that’s the case. Nothing wrong with that—no criticism—but it’s a wasted opportunity to me. The productivity of these experiences for philosophical exploration or therapeutic applications depends on how you handle them. If you stay in touch with the world—having a time at a concert, in nature, with friends—that lends itself to a certain milieu and level of encounter. If you isolate yourself—adopt a zazen atmosphere, create a kiva of practice where you’re isolated from the world, wearing eyeshades so you know whatever you’re experiencing is coming from within—and engage with conscious, singular intent, allowing it to take you where it wants to take you (often not where you’d like to go), it takes you into the places you hurt the most, and into places you don’t even understand why it hurts so much, because you’re going beyond the edge of the maps of the personal psyche.
+
+If you focus with that intent, something exciting opens up. You not only have the opportunity to heal the knots locked in your heart from however many incarnations you’ve had, but as those knots are healed and unlocked, your receptivity to larger fields of consciousness—which are always there—increases. That, I think, is worth a lot of concerts.
+
+Emmy Vadnais: 
+Chris, can you expand on what your session structures were like? Somebody commented after our conversation asking, “Why didn’t he just go out and hang in the mountains and nature?” You had somebody there with you as well, and I think you looked to Stanislav Grof for how to go about that, is that right?
+
+Chris Bache: 
+Stan’s work is so formidable, and his intellectual synthesis of so many traditions is so important, that he became my foundation for doing this work. Remember, I was doing this in Ohio, far from San Francisco. I wasn’t part of a psychedelic community or an ayahuasca group going to Peru to work with indigenous shamans. I was really working alone, and I adopted the protocol Stan outlined in his book LSD Psychotherapy (1980) very early on.
+
+I think it’s wonderful to sit in nature, take a low or moderate dose, and enter into that communion. It’s just not what I did. My days started early. I’d have everything set up, either on the third floor of our home or, later, in my wife’s office when we had children. Carol, a clinical psychologist, was my sitter for all my sessions. I began with meditation, yoga, body stretching, and then we’d begin. All the sessions were guided by very carefully selected music. Carol kept a library of music because you want to pace the rhythm of the full peak and the decline of the session; different music is appropriate for different stages. Holotropic Breathwork sites often catalog extensive libraries for this kind of work.
+
+Basically, I spent all day lying down with eyeshades, and my sitter primarily related to me through the music. Once we set up a movie camera to see if it would be interesting. It was frightfully boring. All the action is inside. Outside you don’t see much, except periodically throwing up—not great to watch. By mid-to-late afternoon the formal session would wrap up. But the tail is very long, and I learned you have to give it a lot of space and time. It’s a good opportunity to reflect and integrate the insights. Powerful insights can be lost like dreams if you don’t hold onto them.
+
+My custom was to spend the next morning writing a complete, thorough account of the session. I developed a strategy to maximize recall: I took the playlist used in exactly the order the music was played—Carol kept a record—and then I would play the music while writing. I played each piece over and over until I felt I had captured as best I could what happened during that portion of the session, then moved to the next piece. By the time I finished, I had as reliable an account as I could create. Once it’s locked in, I don’t change it. I found that “improvements” later diluted the sharp edge of the focus. I respected the sessions as my primary text, which is why in my book all the sessions are in italic text, separated from the commentary I add after the session.
+
+Emmy Vadnais: 
+That’s fascinating. I believe in psychological terms it’s called state-dependent memory. You were using the music you listened to during the session to help reach—
+
+Chris Bache: 
+Yes. The day after, you’re still one foot in, one foot out—standing at the edge of the well. By playing the music while your cognitive capacities are back, you let your mind return to that territory and capture it.
+
+Jeffrey Mishlove: 
+A question raised by several viewers relates to the way we titled this program, using your phrase “Diamond Luminosity.” One of our viewers, Celia Funk, asks, “This may be a silly question, but does the title Diamond Luminosity refer to actual diamonds?” Another viewer asks whether it’s related to the Diamond Sutra.
+
+Chris Bache: 
+That’s not a silly question at all. A bit of background: “Diamond Luminosity” points to states of consciousness I entered in the last five years of my work. I had already gone through what Stan Grof calls the perinatal process and a really solid ego death. I had entered what I later called the ocean of suffering at the collective psyche level, gone into archetypal reality, causal-level reality—many adventures—and I felt philosophically satiated and complete. I was experiencing profound oneness with existence, touching the meta-cosmic void, standing under the waterfall of cosmic love. I was existentially very satisfied.
+
+But in the last five years—26 sessions—I was catapulted, after another series of death-and-rebirth experiences, into a state of consciousness that was light—exceptionally pure, exceptionally clear light, clear beyond imagination. I had accessed light many times before; the light is a signature of radically expanded divine states of consciousness. But when I talk about Diamond Luminosity, I mean a particular state: a hyper-clear state of consciousness. Because I know the Buddhist literature better than other traditions (at least the mystical side), I correlate it with what the Buddhists call Dharmakaya, the clear light of absolute reality—the foundational metaphysical structure, the light out of which the Big Bang emerges and gives birth to the physical universe. So it doesn’t have anything to do with physical diamonds, but it does relate to what the Diamond Sutra points toward, and Vajrayana—vajra meaning diamond. Other traditions also speak about this diamond-esque luminosity, but I know it best from Buddhist sources. It seems to correlate with what’s described in the Tantras and in the Vadnais Sutras of the Dharmakaya. Beautiful.
+
+Emmy Vadnais: 
+A question from Megan Salar: you’ve mentioned the importance of meditation and work outside the psychedelic sessions. What does your daily practice look like, or what would you recommend?
+
+Chris Bache: 
+The longer I worked with psychedelics, the more I appreciated the importance of a daily spiritual practice. Conscientious psychedelic work opens your system to a vast field of consciousness—deeper, larger—and to enormous flows of energy. Each step into deeper consciousness is a step into higher energy. To stabilize at that level, you have to acclimate to that energy, which requires intense purification processes—often like fire, solar flares, volcanic energy—transforming your being so you can live for hours at a time at very deep levels where the world works differently, where causal-level reality is a different physics, a different landscape of consciousness.
+
+When you open to these depths and then return to ordinary consciousness, it’s really important to have a daily practice to anchor you, to keep your feet on the ground. The skills cultivated in Vipassana or zazen—observation and non-attachment—are precisely the skills you use in a psychedelic session, so they reinforce each other. Meditation also gives you an environment to assess the cognitive content of your sessions and to process the energy ignited in them.
+
+In the chapter on Diamond Luminosity, I talk about integrating Vajrayana practice with my psychedelic practice. I didn’t begin Vajrayana until about the time I was entering Diamond Luminosity. Carol brought me into the Vajrayana tradition by doing a ChÃ¶d practice for me before one of my sessions. The window that opened—this was my 45th session, so I had a lot of history—was wider, deeper, and stayed open longer than earlier sessions. I immediately learned that practice and began doing it before any session. I would never go into psychedelic space without doing ChÃ¶d, which means cutting—it's a cleansing practice.
+
+Working at very high energetic levels sometimes set in motion processes difficult to integrate in my subtle energy system. If you know Alex Grey’s depictions of powerful energies triggered in deep psychedelic work, you’ll recognize how, after a session, your system can feel achy and stretched. Vajrayana practices—Guru Yoga or deity yoga—gave that energy a place to run when I was back in ordinary consciousness and body. So for clarifying cognitive content, practicing teachings given in sessions, and managing the energetic consequences, a daily spiritual practice is really important.
+
+Before going into a session, I would change my spiritual practice for days and weeks—different practices going in versus coming out. After a session I’d do soul integration practices; before a session, more cutting/clearing practices. There’s a lot of subtlety. I’d do yoga because I wanted my body to be as clear as possible for what would come. I’d also, for example, make sure I get a cut right if I needed to, because if your body is misaligned—structurally, muscularly, emotionally—and you amp your energy up, those blocks are amplified and become problematic. So: good personal hygiene, care of the body, yoga, care of the mind, meditation—before and after. These are good hygiene practices.
+
+My daily practice has changed over time. I’ve been a meditator a long time and worked in the Vajrayana tradition a long time. And because I’m a talker, an academic, I find teaching has become a spiritual art form for me. Bringing spiritual ideas into dialogue with students day after day invites an existential, spiritual posture. It’s demanding work if you really engage students at a deep level. For me, teaching is its own very demanding form of spiritual practice.
+
+Emmy Vadnais: 
+Thank you for teaching and sharing with all of us. I know this could be a long answer, but what is it that you felt you learned from these sessions—what’s so important that our viewers and listeners might benefit from?
+
+Chris Bache: 
+That’s a large topic. The challenge is doing justice to how many layers of consciousness I went through over this 20-year journey. Many important psychedelic books are based on a much smaller number of sessions, which tends to create expectations that shrink the metaphysical window. Aldous Huxley’s The Doors of Perception was written after one mescaline session. Huston Smith’s Cleansing the Doors of Perception gathers a lifetime of writing on psychedelics, but he only did LSD six times. After that he said the bummers increased and he took Alan Watts’s advice: once you get the message, hang up the phone. That suggests there are only a small number of messages you might get—which may be true for a couple of sessions. The challenge for me is describing the many stages of initiation: from the personal to the collective, into subtler and causal levels of reality, and Non-duality.
+
+A reporter once asked me that question and I made a list of highlights; I included it in the last chapter of the book. I can’t remember them all now, so I’ll approximate. I discovered that underlying all existence is a singular intelligence of unbelievable magnitude—a creative genius—and that the physical universe is the manifest body of this intelligence. The world we’re living in is the physical body of the Divine. None of this is new. The cosmology that emerges in psychedelics essentially matches the cosmology of the great mystical traditions of classical contemplative cultures. It’s a different technique—a different trigger protocol—for accessing these dimensions, but the teachings are familiar.
+
+All existence is unified in a fundamental oneness. You can enter oneness so deeply that you enter what the Buddhists call shunyata—emptiness of self, or anatta; nirvana, the self blown out. When you are deeply empty of self, you experience the world as empty of separate individual existences, and within the differentiation of a physical universe, the entire universe lives and breathes as one. You can enter profound intimacy with this consciousness, meet it on these special days, and be engaged by it to go deeper and deeper.
+
+I didn’t have much contact with individual spirit guides or deities. Not that I don’t think they exist; it just wasn’t my experience—partly because of the protocol I used and because of the qualities of LSD. It ground me up so fine and spread my dust so deeply into layers of reality that transcend individual life-beings. I had many experiences of being at different levels, but not many with individual beings.
+
+Part of what I learned is the communion: this intelligence is loving beyond measure. I expected creative intelligence to be intelligent, but I was surprised by how much love was present. When people say love is the primary virtue, I understand that.
+
+I also learned our participation in creation is taking place over hundreds of thousands of years. Reincarnation is a simple fact of life. Because of that, we are not time-limited in our development. It’s not what happens in any one life that’s paramount, and it’s not over at the end of one life. It’s an ongoing progression back and forth between spirit and matter in an evolutionary exercise. I don’t think it culminates in enlightenment in the classic way—where you get clearer and clearer until you achieve realization and then permanently leave samsara for an off-planet spiritual paradise. What I’ve been shown is that this is an early interpretation from when we first made contact with this profound mother-universe. It’s understandable: that universe is beautiful and ecstatic; it feels like home. Naturally we want to return. That generates up-and-out cosmologies. But that reflects our early understanding, which is now deepening.
+
+Now that we better grasp how huge the universe is and how long it’s been around, if you want to understand life you have to begin to think like God—like a galaxy. The creative intelligence thinks in terms of billions of years, of species and planetary systems and galactic systems. We have to expand to understand our role in such a universe, and reincarnation allows us to do that. It helps us understand tensions woven into our body and mind and invites us to participate more fully in the divine project.
+
+So the goal becomes: achieve realization—some deep experiential grounding of our true essential nature beneath the personality. Once we understand that every living thing is grounded in that same reality, that the essence of my individuality is the same as everyone else’s, we recognize we’re all in this together. Then the goal becomes to progressively integrate more and more spiritual reality into our physical incarnation—truly bring heaven to earth. Not metaphorically, but literally: eventually we become a species of awakened beings. A species of enlightened beings creates a different Earth than a species of unenlightened beings. The size of the project, the communion, the opportunity to enter it, and reincarnation—these lead to a different story, a different anthropology of the creative endeavor.
+
+Those are some of the highlights of the large ideas that stand out. As I said, they’re not new; they’re well established in our classic mystical traditions.
+
+Emmy Vadnais: 
+And yet we seem to need to hear them over and over again. Some of us apparently need to.
+
+Jeffrey Mishlove: 
+A question from Pablo Geralda, one of our volunteers in Argentina: do you have advice for someone who wants to try psychedelics for the first time, and are there legal ways to do it? Another viewer, Gracie Slick, asks, how do you acquire LSD? To my knowledge, it’s illegal everywhere in the United States, so how do you know what you’re getting?
+
+Chris Bache: 
+First, I do not want to encourage people to break the law. Be careful. Some people who want to work with ayahuasca will go to Peru or Brazil to work in ayahuasca communities—in Santo Daime or União do Vegetal. There are ayahuasca communities in the United States that have won the right from the Supreme Court to use ayahuasca in spiritual contexts. They’re not plentiful, but they exist.
+
+Among psychedelics, ketamine is the only one that’s legal right now. MDMA—more an empathogen than a strict psychedelic but an important therapeutic instrument—was turned down last year, but it’ll be made legal, probably within three years. Psilocybin won’t be far behind. What’s legal now and what will be legal in five to ten years will be very different.
+
+How do you know whether what you’ve gotten is pure? That’s really important. You do not want street drugs; they’re often contaminated. You can send samples anonymously to labs sponsored by the federal government to be tested and be told what’s in them. You can check and verify at the state or federal level what you have and how strong it is.
+
+Emmy Vadnais: 
+As far as procuring it—no comment, or is that up to each person to find a path themselves?
+
+Chris Bache: 
+Maybe—no comment. You can grow mushrooms; you can learn how to grow your own psilocybin mushrooms. There is, of course, a clear underground throughout the country. Some of it is very irresponsible in terms of impurities, and some people are very conscientious. Still, proceed with caution and always test what you have.
+
+Emmy Vadnais: 
+Here’s a question from First Deacon Gemini: what is the difference between ego death and dissociation or derealization? Both entail detachment, and depending on the person, it can feel good, bad, or neutral.
+
+Chris Bache: 
+I'm not a psychologist, so take what I say about derealization with a grain of salt. I understand it to be a psychological condition in which you feel yourself dissolving or not grounded in your conventional identity. It's often associated with psychopathology, because if it becomes endemic, it undermines your capacity to function as a strong individual in the world. Ego death is similar, but different. It's sometimes said you need a strong ego to go through ego death well.
+
+If you're grounded the way most people are—in bodily consciousness, reflecting the history of this body in this time—when you open into deeper spiritual realities, sooner or later you have to let go of your egoic, body–mind identity to access broader states where the ego has no function. In mystical and contemplative traditions, the death of self is well known. It's usually achieved through a lifestyle of compassion and service, generosity, prayer, contemplative practice. It's a gradual softening of the heart and opening to an infusion of divine flux that's always there; the ego keeps it out. Through generosity, selflessness, and prayer, you transition from time-and-body-grounded consciousness into something more mystical and open.
+
+In a psychedelic session the same process is accelerated and intensified. As a professor of religious studies, I've always held the spiritual traditions in mind while doing psychedelic work and approached psychedelics as a spiritual practice, even though my goal was more cosmological exploration than awakening per se—bringing lessons from spiritual traditions into the psychedelic context. In the psychedelic context you powerfully activate deeper awareness, opening the floodgates to deeper spiritual reality. You reach a point where the ego is put under pressure and ruptures. You can't contain consciousness within the ego's structure. A lot of people spill a lot of ink and sweat over the ego's complexity and durability, but from a spiritual perspective, when you get right down to it, it's not that hard to take apart. When I went through my major ego-death experience, the universe snapped me like a twig.
+
+It didn't involve derealization; it involved a frightening confrontation because I was turned into the exact opposite of everything I’d known myself to be. I had known myself as a man, an intellectual, white, passionately concerned with the meaning of existence. In this critical session, I was turned into women—women of color—women with no philosophical expectations or interests at all. It was the perfect hell for a male academic philosopher. It scared the bajibas out of me. When I let go and allowed myself to become these women, I immediately relaxed and was taken under the arm of the Great Mother into an extraordinary journey into the lives of women—hundreds and hundreds of them. After the session, as I came back, my male identity reasserted itself—I like being a man—but I knew my masculinity, my whiteness, and my intellect would never confine me the way they had before. The problem wasn't women or non-intellectual issues; it was the tight fit my social identity had on my consciousness, and that had to be broken. It was as if the universe said, “Listen: where you're going, gender does not exist. Let go.” When I let go, I entered states that don't differentiate male and female, then states that don't differentiate human and nonhuman, and then states beyond space and time entirely.
+
+So ego death is that kind of rupture, which can be slow or fast depending on how you release the preoccupation with self. The Tibetans call it self-clinging. You can see it when you look at a group photo—your eye goes first to yourself. Understandable from one perspective; sad from another. If you think of the ego as an ice cube: put it next to a candle and it melts slowly—that’s contemplative practice. Throw it on a hot cast-iron skillet and it jumps, pops, and melts fast—that’s ego death in psychedelics. There’s no right or wrong way; the pattern is simply that we must let go of the bars that imprison us in self-referential existence.
+
+Emmy Vadnais: 
+Do you feel the ego serves any purpose, since we all seem to have it? Or is it just something to be dissolved or eliminated—or accepted and transformed?
+
+Chris Bache: 
+Ego gets a bad rap in many spiritual traditions. By ego I mean our individual body–mind identity. It's a beautiful, even magnificent, cosmologically important thing—one of the major gifts of entering time–space. In some classic schools, the goal is to destroy ego and return to God, like a drop returning to the ocean. In that Vedantic picture, you eliminate ego to live the divine life, but no longer as an individual.
+
+I don't think that's adequate. I think creative intelligence has created a system in which we live as individuals, and we deepen and expand that individuality lifetime after lifetime. The goal is not to abandon individuality but to engage what lies beyond the individual ego's experience—the tremendous power, love, and intelligence running through existence—so that you remain an individual but become transparent to the divine condition. Individuality isn't destroyed as you go deeper; it's transformed. It's one of the great gifts of the Mother—of time–space existence. If you study the lives of great adepts, you find they’re distinctive individuals. Enlightenment teaches anatta, no-self, but that doesn't mean your individuality is shattered irrevocably and never returns. If that's happening, it’s a form of psycho- or spiritual pathology.
+
+Healthy spiritual maturity means you have an individual reference point but you're not imprisoned by it. You build bridges; you connect and receive; you care about more than yourself, more than your species, more than your generation—and you live large. You're an individual living a much larger life.
+
+Emmy Vadnais: 
+You recognize the interconnectedness and can perhaps merge with that. That really seems to be a definition of yoga—union with the divine.
+
+Chris Bache: 
+Yes—union with the divine, without dissolving irrevocably so that you lose individual awareness.
+
+Emmy Vadnais: 
+Thank you for all of these answers, Chris. We just want to let our viewers and listeners know that we are over 60 minutes in. We've got about 25 minutes left of the live stream.
+
+Jeffrey Mishlove: 
+Here's a question from a viewer whose YouTube name is Fabius: How can we reconcile the ideal of transforming Earth into a paradise with the spiritual necessity of contrast and suffering as essential conditions for learning and growth in the human experience?
+
+Chris Bache: 
+Great question. The question of suffering is profound; we could spend the whole program on it. If the creative intelligence is intelligent and loving, how could it have tolerated—let alone manifested—a world so painful, where terrible things happen at an organic and social level? To even attempt to comprehend suffering, we need a very long time horizon, a deep look into the workings of the universe—a galactic perspective.
+
+The human species is radically unfinished, very incomplete. How young are we? On a 1-to-100 scale, are we 95% finished or 5%? I think we’re more like 5–10%. We just woke up—4,000 or 5,000 years ago—to the underlying level of consciousness recognized in the true religious traditions. This universe has been building this world for 3.7 billion years; we’re just waking up and learning to engage consciously rather than unconsciously.
+
+The capacities we see in the highest, most spiritually realized individuals—not only compassion but control over their physical processes, even changing matter as some great mahasiddhas can—are emergent qualities in beings integrating more spiritual capacity into the physical body. If we ask what we’re becoming, the project isn’t human beings as we exist in the 21st century, but how we will exist in the 23rd, 25th, 30th, 40th centuries. In that context, suffering—without making light of anyone’s real pain—is part of the crucible within which we are learning on this planet. Suffering has individual roots, sometimes in our karma and bad choices, and collective roots: sometimes our suffering isn’t personal but arises from where the collective is—the herd’s learning curve.
+
+We’re in the early stages of understanding our true nature. The goal of access to this deep nature is not simply to be happy and comfortable, but to transform our experience of being incarnate spiritual beings and to change the conditions of our lives—spiritually and physically. In the future we’ll have more control over disease and the body’s processes; traits we now call miraculous will become more natural. As we move through the pivot I think we’re entering—what I call the birth of the future human—we’ll see significant amelioration of collective suffering, a world of less suffering and greater joy, spiritual empowerment, and physical ease as we transition. This is the next iteration of an evolutionary story hundreds of millions of years old and stretching far ahead. To understand why we suffer, we must go very deep—into divine intention—and open a very large vision of history.
+
+Jeffrey Mishlove: 
+A related paradox: you’ve said consciousness is fundamental, primary, the foundation of existence—yet it was through a chemical substance that you got there. Materialists would say, “See? Consciousness is nothing more than chemistry.”
+
+Chris Bache: 
+The same thing can be said of meditation: sit on a cushion long enough, become proficient, and we can monitor brain waves and biochemistry and say, “See? It’s just biochemistry and electrical activity inducing this.” But that doesn’t solve the problem; it simply applies a materialist metaphysical worldview. If we probe that worldview, there’s abundant counterevidence showing it’s inadequate—parapsychological research, psychedelic research, near-death research, reincarnation research—all undermine the plausibility of materialism if you’re really paying attention.
+
+Yes, it’s ironic that a chemical interacts with the body and seems to open the floodgates. I think of the mind more as a transceiver, a gate controller. Psychedelics quiet the default mode network and allow temporary states beyond it. That mechanism can be interpreted materially or through a nonmaterial, spiritual perspective. I understand human beings as a synthesis of two systems—spiritual reality and physical reality—always intertwined. If we survive bodily death, it’s not because of something that happens when we die; it’s because of something we already are. We already live with one foot in two worlds. We can shift the balance and open to the spiritual dimension without leaving the body—through contemplative and yogic practices, and also using soma, the ancient sacred medicines. That doesn’t prove materialism; it fits a model in which we are a synthesis of two metaphysical systems, a model that explains more phenomena than materialism can.
+
+Emmy Vadnais: 
+Here’s a question from my husband, Xander. As humans we have sensory and motor systems—part of the central nervous system—often described as a filter of consciousness. He asks: Did you have synesthetic experiences? Which senses were most active—like hearing smells or tasting vision?
+
+Chris Bache: 
+I’m not in a good position to answer that, Xander, because those experiences don’t figure largely in my work, and I haven’t studied them much. When I’ve taken psychedelics, I don’t hallucinate visually. I use eye shades, and even without them I don’t have visual distortions in the world around me. I internalize completely and engage conscious reality—plunging into the tunnel of consciousness. I see and experience many things, but not as permutations of physical sensation. I’m sure there’s a good answer, and people on this podcast may have it; I’m just not one of them.
+
+Emmy Vadnais: 
+I think he’s had those experiences and was curious if you had as well.
+
+Chris Bache: 
+The permeability between our senses shows up in several contexts. It shows up in shamanic drumming, for example—the fluidity there. We’re such a complex blending of spirit and matter; it shows up at very broad levels and at micro levels in our sensation.
+
+Jeffrey Mishlove: 
+Here’s a question from a viewer named Corey Burdick: What are some of the most powerful or inspiring examples of the emergence of the new human?
+
+Chris Bache: 
+When someone lays down their life for others, that’s extraordinary. When people spend their lives helping others—bypassing self-enhancement to invest in others’ flourishing—those are symptoms of the future human.
+
+We’ve been incarnating for hundreds of thousands of years. Our religious structures have tended to see a linear development in reincarnation—back and forth, gradually becoming more compassionate, intelligent, creative. But as it was shown to me, we come to a time—history in general, and people individually—where something else happens. I reached a point in a session when all my former lives started coming into me. I’d done years of past-life therapy, so I was familiar with some of them, but then they began to enter me. It was like wrapping a filament of white light around a kite spool. After a time they fused, and when they did there was a tremendous explosion of energy, catapulting me into a state where I was an individual beyond any frame I’d known. I came to call it the birth of the diamond soul.
+
+I was given teachings explaining what was happening: this is what happens to a reincarnating species. There’s a long period of linear individual development, but eventually all our former lives achieve a synthesis of the soul. In spiritual reality, when we die, we return to soul consciousness, which holds all our former lives. Then we incarnate and get narrow; we die and get large; incarnate and get narrow. Keep that up for a few thousand years and it makes sense that the whole soul—the hundred-thousand-year-old being—incarnates, so the consciousness in that body isn’t tempted to think of itself as a hundred-year-old, but naturally knows itself as ancient, with ancient relationships. It has been male, female, rich, poor, Black, white—every permutation—and when they synthesize, identity explodes.
+
+I think this is happening to the planet now. We’re transitioning from egoic identity to soul identity; growing up out of our childish egoic past into a mature self—becoming incarnate diamond souls. You see this in great spiritual masters: they’re different because they’re bigger, older, deeper—distillations of the soul. Symptoms of the soul emerging don’t arrive all at once; they appear gradually in many ways. You see it in those who take the long view—who consider the impact across seven generations; in compassion that extends to whole classes of people; in the Gandhis and Martin Luther Kings; and in the music teacher sharing knowledge with fifth graders year after year. You see it in great compassion, great vision, service, selflessness. We can recognize it without knowing exactly what we’re seeing: the soul emerging in a life.
+
+We’re at a time when we have to grow up into the soul’s consciousness. There’s a synergistic relationship: as the world is trying to become one to solve the problems it has created, the soul is trying to become one. We carry the world’s history inside our soul, so the tensions of division are in us. There’s synergy between our becoming whole within ourselves and the world becoming whole. We’re being guided into a transformation that will not be easy—I think it will be very painful. We’re coming into labor. We’ve been gestating the future human for hundreds of thousands of years—gestation is long, labor is short. We have to deliver the soul into history; we have to grow up. I think we will make this transition. Serious people think we won’t—that we’re an extinct species walking. My experience is that we do make it. It will be painful, but we will give birth to the soul in history.
+
+Jeffrey Mishlove: 
+That’s beautifully put, and probably a good note to close our live stream on. Chris, it’s been a real joy to be with you. Emmy, do you have any concluding thoughts?
+
+Emmy Vadnais: 
+Thank you for the hope and inspiration. It sounds like you were possibly given precognitive information in your LSD sessions, and that you have wisdom not only for yourself but for the collective. You’re right—many feel we might be devolving and things are going south. I’m not thrilled to hear about pain coming up, but hopefully we can take spiritual practices and ameliorate some of that.
+
+Chris Bache: 
+I think we can. We can go through this kicking and screaming and hurting a lot, or more proactively, with foresight and in cooperation with what’s coming. What I’ve described isn’t unique to me; these ideas of transition appear in indigenous traditions, in mystics and meditators, in deep Jungian psychotherapy. There are precognitive aspects to this work: when you let go of your personal identity, you open to the life of your species. Just as you can have insights into your personal trajectory, you can have true insights into your species’ trajectory. Many people have had these insights and see what we’re entering. I think we’ll make it. My concern is how many of our children will die before we do.
+
+Emmy Vadnais: 
+It’s nice to hear more people such as yourself bring these insights. The more spiritually evolved people we have, the better—which is perhaps one of the main reasons we continue to do these programs on New Thinking Allowed.
+
+Chris Bache: 
+I think there are many Bodhisattvas in the world, including the people behind this program, working on behalf of the good of the whole. That’s the essence of the Bodhisattva—and there are many with us now today.
+
+Jeffrey Mishlove: Once again, Chris, thank you so much for being with Emmy and me, and with the New Thinking Allowed audience today. And Emmy, thank you once again for the wonderful job you do as co-host on New Thinking Allowed. I’d like to remind our viewers that you can subscribe for free to our weekly newsletter, you can download for free the first eight issues of the New Thinking Allowed magazine, and we hope you continue to enjoy the videos we post daily on the New Thinking Allowed channel.
+
+Emmy Vadnais: Thank you so much for being with us, Chris.
+
+Chris Bache: No, thank you both for this wonderful conversation. I enjoyed it very much. Thank you for your work.
+
+Emmy Vadnais: Our pleasure. And for those of you watching or listening, thank you for being with us, because you are the reason we are here.

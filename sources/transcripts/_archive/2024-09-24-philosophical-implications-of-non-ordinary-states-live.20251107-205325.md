@@ -1,0 +1,244 @@
+---
+title: Philosophical Implications of Non-Ordinary States (live)
+slug: 2024-09-24-philosophical-implications-of-non-ordinary-states-live
+date: 2024-09-24
+type: lecture
+channel: Spirit Plant Medicine
+language: en
+license: CC0-1.0
+identifiers:
+  wikidata_person: Q112496741
+  openalex_person: A5045900737
+people:
+-
+  name: Christopher M. Bache
+  wikidata: Q112496741
+  openalex: A5045900737
+provenance:
+  source: "otter+diarist->normalization"
+  transcriber: "Otter.ai (diarized, speaker-attributed) + GPT-5 normalization"
+  diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2024-09-24-philosophical-implications-of-non-ordinary-states-live.txt
+  diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2024-09-24-philosophical-implications-of-non-ordinary-states-live.srt
+---
+
+Marc Caron 
+Hello and welcome to Conscious Living. My name is Marc Caron, and today I’m coming to you live from the beautiful I’m Awake Foundation Center, where they do consciousness research and a lot of really interesting work in spirituality, medicines, consciousness, and transformation. I was blessed to be invited, and I’m broadcasting live from here today for Conscious Living Radio. It’s going to be another plant medicine–focused program, and I’m happy to invite my good friend and partner of the conference, Stephen Gray. Stephen, always a pleasure to have you here. We’re airing our program today on 100.5 CFRO-FM in Vancouver Co-op Radio. We’re happy to have been running that program locally for over 15 years now. You’ve been a guest many times and really a co-host in many programs, so thank you for joining me in what I’m sure will be a great conversation with our guest today.
+
+Stephen Gray 
+Happy to. That’s partly because I have a big heart feeling toward Chris, and also an immense amount of respect for him as a person and for the work he’s done in elucidating central issues of our time. So, Chris, I could ask you for a very brief synopsis of that 20-year journey, but maybe you’ll allow me to stumble through it, and then you can sit back and smile and see if I got it right. Welcome to the people who are live and those who are going to join us later.
+
+Chris Bache—the story I know is that he is now a retired professor of religious studies and philosophy from Ohio State University and Youngstown, Ohio. Early in his career he was always interested in mysticism and deep spiritual exploration, and he came upon the work of the legendary psychiatrist Stanislav Grof, who pioneered a protocol for working with high doses of LSD in particular. Chris undertook what turned out to be a 20-year journey of 73 high-dose LSD sessions following the Stan Grof protocol—sessions using 500 to 600 micrograms of LSD, which, for any of you not familiar with that calculation, is a high dose. The protocol involves working at home or in a safe, quiet space with headphones and a carefully curated playlist, eyeshades to block out the light so inner visions aren’t obstructed, and a qualified sitter. In Chris’s case, the sitter was a therapist who knew what she was doing. Generally, he did this on a Saturday, and the following day—again following the Grof protocol—he spent basically the whole day with the headphones on to trigger memories of what was playing when certain experiences and visions occurred, and then meticulously transcribed all that.
+
+Chris is the author of several books, including a book I read long before I ever met him—Dark Night, Early Dawn—which really impressed me; I still have it on my shelves back here. He also wrote The Living Classroom, which I have not read and hope to, because there’s a new edition coming out, right, Chris? And the incredible LSD and the Mind of the Universe: Diamonds from Heaven, which many people have read now.
+
+Just to add a little more about how I understand what happened in that 20-year journey—mind you, it would take all day to do it justice—the very short version is: in each one of those 73 journeys, the first two hours were, as you described in the book, sometimes exquisitely painful as you went through the difficult process of ego dissolution and beyond—letting go of any kind of identity, even as a human. And then what happened, as I recall, is that you broke out into what you have called the vast intelligences of the universe. Believe me, folks, this is no exaggeration—the kind of material that Chris brought back is absolutely stunning and absolutely relevant to what’s going on on the planet.
+
+One of the things most important to me about what Chris downloaded is that—especially in the latter third or so of the 20 years—he started to get increasingly clear, and I would say confident, messages that we are going through, as a species, a death-and-rebirth trajectory that has been coming toward us for perhaps hundreds of thousands of years. And the confidence implied that in the later years, as I recall, these voices or this intelligence started indicating a greater likelihood that we would indeed get through this and that we would come out into what you might call a natural state of being on this planet—you’ve labeled it the birth of the future human.
+
+There are so many questions we could ask, but let me start with a two-parter. First, correct me on anything I didn’t quite get right. And second, I’ve been thinking a lot about timelines. I think you first said this process might take hundreds of years before the light might shine again, so to speak. But I think in an email or a phone conversation in the last few months, you said you might need to correct that to say thousands of years—or more than a thousand years. At the same time, there’s an incredible amount of energy right now on the planet to try to correct the spiritual disconnection. Is it really going to be a complete emptying and dying off over the next decades? Or might there be a cross-fade where things start to lighten up to counterbalance that dissolution—species dissolution—over the next decades? For example, you connected me with Duane Elgin for my book How Psychedelics Can Help Save the World, and he laid out a possible scenario over the next six or seven decades that might result in what he called the birth of a mature planetary civilization. How are you seeing all that now—timelines and all that?
+
+Chris Bache 
+First, Stephen, thank you for that warm introduction. I really appreciate our friendship and what you’re doing with the conference—and Marc, you too. It’s my favorite psychedelic conference to participate in—such a rich setting and audience to address these kinds of questions.
+
+To your question, I would strengthen the visionary component. It was less like messages downloading and more a deep and profound immersion into transtemporal states of consciousness—going into what I call deep time, moving outside linear time. These visions began coming when I was a good 12–14 years into my process. Before then, there was ego death, entering into collective suffering—what I think is a dimension of the collective unconscious of humanity that stores all its pain and suffering—then into archetypal reality. From archetypal reality, I began to receive a series of visionary downloads that kept showing me the same basic story: humanity was coming to a pivot point in its evolutionary journey. The karmic streams of history were entering a canyon. We were about to go through a revolutionary pivot that would later be seen as a before-and-after transformational event—so powerful it would trigger a shift in the collective psyche of humanity, such that all beings born after this shift would be operating out of a different inner landscape, a different collective psychic landscape.
+
+I was completely unprepared for this. I had begun the work thinking it was about personal transformation, then perhaps spiritual awakening, and then I entered these profound collective territories and began having visionary downloads about where the creative intelligence—the divine intelligence—of the universe was taking humanity. There were deep experiences of extraordinary spiritual awakening taking place at a collective level—extreme transformation, a deep intelligence working inside nature and history, underneath us all, bringing this about. But it didn’t show me how. There was little attention paid to mechanisms, no specific pattern of causation beyond an escalating global eco-crisis, and there were no dates.
+
+In 1995—almost 30 years ago—I went through a very deep experience in which I dissolved well beyond egoic identity, became one with the human family, and in that condition experienced the death and rebirth of humanity: a profound unraveling, a loss of control, a global systems crisis seemingly triggered by a cascading series of eco-crises. It was excruciating and kept building in intensity. I experienced this not as an individual human being but as the species. Just when it was at its worst, the peak passed, the dangers began to recede, and we began to pick ourselves up and put the pieces back together. And when we did, we were changed. Something had been tapped, broken open at the very deep level of our being. As we began to build after this crisis, our work, our relationships—our being—were filled with new insights, new values, new understandings of the human project. There was a creative contagion, where the work of individuals and collectives fed back into each other, spiraling us very quickly into a new condition.
+
+But again, the visions didn’t come with dates or much detail. To fill in that information, I turn to scientists and their calculations on the depth and speed of the eco-crisis, and to people like Duane Elgin, who has been processing this information for decades. I’ve been surprised that the crisis is coming at us as fast and as hard as it has. We’re still in the early stages. I think Duane is right: the next 50 years are going to be absolutely pivotal in terms of the intensity of the ecological forces bearing down on us. I don’t think we have a thousand years to address this. Speaking not as a psychonaut or visionary here, but just as a person trying to understand the historical information, I think this may take three or four generations, and if we don’t make the pivot within that timeframe, we may lose the planet. The 21st century is the critical century that is going to bring us to our knees and force us to make choices we’re not willing to make now. And I think this pivot will result in a shift in what I might call the plate tectonics of the collective psyche—a shift at the very core of our being.
+
+In other ways, this represents a culmination of a reincarnational process that has been building for thousands, tens of thousands, hundreds of thousands of years. We’ve been gestating the next iteration of the human condition all this time—reincarnating, learning, exploring, growing. Gestation is long; labor is short, intense, life-threatening. We’ve been in gestation for a long time, and we are entering labor—volatile and very dangerous. I think we will give birth to this new human, this future human—many people are having this vision and call it different things: Homo spiritualis, Homo noeticus. There’s a common intuition that something new is coming into expression underneath us, driven by the same intelligence that drove the creation of galaxies, the planet, life, and conscious awareness. Classically, there are no guaranteed outcomes; everyone has to exert fully for us to get through this. Like labor, it’s potentially life-threatening—mothers die in labor, children die in labor. I understand and endorse that.
+
+And at the same time, the entire trajectory of my psychedelic experience—particularly in the last five years or so—took me so deep into the future with such realistic perception, and gave me experiences of what this future human will be like. Those touches of the future of humanity bring me to my knees. They’re so extraordinarily beautiful—our deepest dreams come true. I experienced this pivot as something yet to be accomplished, and also already accomplished. From deep time, it is an actuality that has taken place; from linear time, it is yet to take place. In my heart, I don’t doubt that humanity will make it through this transition. My concern is: how many of our children—how many of the world’s children—will have to die before we come to our spiritual senses?
+
+Stephen Gray 
+That definitely leaves it open for, as you say, incredible exertion—which is really important to people like Marc and me.
+
+Chris Bache 
+You mentioned that context. One of the things this visionary series showed me is that as we enter deeper into crisis, the whole foundation of the psyche and our culture will shift into what chaos theoreticians call nonlinear systems. There will be so much high-energy engagement that we’ll be shifting out of a linear dynamic of history into a nonlinear one. We know some characteristics of nonlinear systems, and one important characteristic is that in a nonlinear condition, systems are particularly susceptible to small influences—small perturbations. That means as we go into this crisis, the actions of individuals will have proportionately greater impact than they would have had in quieter periods of history. The individual becomes a more dynamic player moving forward.
+
+Stephen Gray 
+That’s an incredibly important message for people. Go ahead, Marc—I see your mouth moving.
+
+Marc Caron 
+Well, you did partly answer what I was thinking, Chris, because there’s so much you said there. My question is: What can we do as individuals, as groups, as a collective society? It’s hard enough to organize important stuff in the world for a lot of people. How do you suggest we move forward—from Me to We to the many? What’s a good approach?
+
+Chris Bache 
+There are people who are better qualified and more skilled at filling in that piece—how we can respond. Duane Elgin is really good at that; Barbara Marx Hubbard was great with her wheel of all the different professions. I think it’s going to take all of us—scientists, educators, politicians, artists. Every one of us, and all the skills we bring, will be needed.
+
+What I can offer is a metaphysical perspective that comes from reincarnation research. The basic vision is: when we incarnate, we choose our incarnation—the time, place, and circumstances of our birth. Therefore, it’s an axiom of my thought that all the human beings on the planet right now knew what they were getting into when they chose to incarnate in this century under these demanding circumstances, and they chose to do so with a specific karmic agenda—specific ways to contribute. So each of us needs to look deeply—at where we are, who we are, how we’re positioned. The question is not really how to find the right thing to do; the deeper question is whether we will have the courage—where we find the courage—to do what we discover we can do.
+
+The essence of this pivot is a pivot into oneness—an awakening of oneness under our feet—which will completely change technology and how we apply it, international conflict, social relationships, the organization of society. It’s a fundamental healing and awakening in the human heart—a vivid mystical experience of the oneness of all life. That’s an inclusive vision, including all living species on the planet as we move back into ecological balance. The more we become the human being that the Earth needs right now, the more we accelerate the transformation—and our role in it. We must become the future being the Earth needs. As we do, we enter into a synergistic relationship with other beings who are also working to become what the planet needs right now. That’s not very specific—others are better with specifics.
+
+Stephen Gray 
+I agree. If I may offer a provisional answer: I’ve got Marc interested in a term I got from Stephen Harrod Buhner, which I believe he translated from William Blake—“follow the golden thread.” The inner work is the foundation for moving into the outer work. One would hope that if the inner work is done effectively, you can follow the golden thread—or, as they sometimes say, let go and let God. That’s another central component of this revision we’re dealing with—moving, hopefully, from head-based calculation to heart-based or intuitive ways of moving through the world. One more thing: one of our other speakers, Mary Sanders, just sent me the title of her talk for the Spirit Plant Medicine Conference this year—“Reimagining Collective Care as a Path to Liberation.” The recognition of the power of connection, shared vision, shared prayer—shared manifestation—seems central to this movement forward.
+
+Marc Caron 
+I just wanted to add one more thing, because you mentioned the head and the heart. We have so much wisdom and knowledge—education-type knowledge—but when we lead with our heart, it’s so much more powerful. We can repeat what we hear, read, and learn, but in my experience, when I share, I know when I’m in my head and when I’m in my heart, and the difference it makes in rapport and relating. When someone’s presenting or you’re working with someone, you know the difference. It reminds me of a quote I’ve always loved: the longest journey you’ll ever take is the one between your head and your heart.
+
+Chris Bache 
+I would add the third piece: the body—its wisdom, and the context within which head and heart meet. One reason we’re in so much trouble with the planet is that our theologies and philosophies have tended to aim us away from the body, away from physical embodiment, away from the Earth, ignoring the messages we’ve been getting. An opening of the heart, an opening of the mind, and an opening of our body—to our body as a cell in the body of the planet. Lots of levels going on at the same time.
+
+Marc Caron 
+To add to that, the body is the connector between spirit and the planet, with the importance of food and what we put in our body. Our conference is called Spirit Plant Medicine—all plants have spirit, whether broccoli, cannabis, iboga, mushrooms, whatever it is. Getting back to clean, nutritious food that isn’t contaminated lets our body work in a much better way. When we acknowledge the spirit of the plants—whether a psychedelic medicine or something to nurture our body for nutrition and health—it makes that connection even more powerful. When we look at the mass population of, say, North America, the quality of our store-bought food is something we all need to become aware of.
+
+Stephen Gray 
+So no more beer and pizza, Marc?
+
+Marc Caron 
+Well, everything in moderation. Every now and again you have to have a zag, but you understand what I’m saying. It’s just what you put in is—
+
+Stephen Gray 
+Of course. That’s really important. Chris, you might have things to say about that, but I’d like to lead you in another direction before Marc turns it to questions. You’ve spoken about the birth of the future human. There’s a humorous line from Yogi Berra: “If you don’t know where you’re going, you might end up somewhere else.” Two-part question: How would you describe what the awakened human looks like, in terms of how they move in the world? And what might be the kinds of signs of awakening people might look for? On that principle—if you don’t know where you’re going—it seems helpful to have signposts for the natural human being, the birth of the future human. What does the future human look like?
+
+Chris Bache: 
+I think our spiritual traditions have been giving us insights into what’s emerging. All of the great saints and sages who seeded the religions of the Axial Age drew humanity to them because we could feel a deep resonance. They were archetypal prototypes of what we were becoming, and they invited us to become what they had become. In the Buddhas, the prophets, the Christ, and the great saints of the deepest spiritual traditions, we can see prototypes of what’s coming.
+
+Some have said—and I agree—that the age of individual enlightenment is over. Now it’s collective enlightenment or death. It’s a collective game. What’s so unusual is that nature seems intent—at least in my visionary experience—on awakening the entire species. Humanity as a whole is going through, or beginning to go through, a collective dark night of the soul: a period of profound purification, confronting what we might think of as the sins of our fathers, which are our sins, clearing out the basement so we become more receptive to increasing energies entering from the spiritual dimension at this time in history.
+
+Another way of putting this, which ran through my sessions, is that we’re coming to a pivot point in our reincarnational story. We’ve been dying, expanding to soul, incarnating, contracting into ego, and repeating this for thousands of years—learning and growing. The Eastern traditions culminate this in enlightenment, often framed as a departure from time and space—leaving samsara for the bliss of eternity. But now that we understand how vast, old, and complex the universe is, it doesn’t make sense that after hundreds of thousands of years evolving humanity to individuated consciousness, and only 5,000 years after developing writing and tapping into the depth layer of mind that is one with all living things, that when we achieve awakening we just leave it all behind. I don’t think that’s what’s happening.
+
+What I was shown is that all our former lives are beginning to come together. As they do, they bring forward their unfinished business, which becomes our unfinished business, and this is happening collectively. When this process reaches a critical stage—and this is how it unfolded in my sessions—there comes a time when former lives start arriving fast and furious and fuse. I’d done a lot of past-life therapy, so some were familiar, but then they hit critical mass. There was an explosion of diamond light out of my chest, catapulting me into a state of consciousness where I was still an individual, but beyond any frame of reference I’d imagined. I was being taken into what happens when an individual reaches that turning point where all former lives come together and fuse, and a new identity is born.
+
+This identity is the identity of the soul—not only the soul we encounter after we die, but the soul in human incarnation, in the earth, in the body. I call this the birth of the diamond soul. The future human will be a being whose operating identity is not a private, 100-year identity, but a 100,000-year identity—someone with a living, conscious memory of having lived in and out of time for thousands of years. Such a being has a deeper sense of self and relationship, remembering former lives and relationships. Having been male and female, of every race and religion, all those differences fuse into an individuality that holds everything as an integrated, harmonious singularity.
+
+When I was given the grace of experiencing this new archetype toward the end of my journeys—this future human—it moved me to tears. It was so beautiful. Picture a humanity completely healed of the wounds and divisions of history, with an open, expansive, compassionate heart like the best of the saints, consciousness in deep communion with the creative intelligence of the universe, with fewer interfering Bardo echoes, and a profound commitment to being in the body—not trying to get out of time and space, but living an increasingly strong, focused, intentional integration of spirit and matter in physical existence. That’s what’s been coming into me. That’s what I have to offer.
+
+Stephen Gray: 
+That was absolutely beautiful, Chris. I think I’m going to play this back to myself with headphones on before bedtime, for a beautiful bedtime story.
+
+Chris Bache: 
+We really are. Ordinary, hard times ahead—but deep beauty.
+
+Stephen Gray: 
+We need that kind of encouragement. This is such a gift. It puts me in mind of something Bishop Desmond Tutu once said: the problem with most people is they don’t believe in the possibility of possibility. We need people to take heart, to believe that what they do, as you say, matters more than ever. Marc, would you like to open it up to some questions?
+
+Marc Caron: 
+Yes, and just a second—I want to add that we can do more than we think we can. We have the ability to push through and persevere. You don’t build muscle with light reps; you push through the pain and challenge. Sometimes we get a little soft, and it’s good to remember our strength. Before we go to questions, I have one that some people may be thinking. Chris, you’ve done amazing work with 72 high-dose journeys, and as a professor of religious studies, most people wouldn’t expect that. What inspired you to choose that path for this deep dive? And what sage advice would you offer anyone hearing what you’ve done?
+
+Chris Bache: 
+To start at the end, my advice is: please don’t do it the way I did. I was young and foolish. I understand much more now, and I’d advise a different protocol.
+
+How I got into this is straightforward. I came out of graduate school an atheistically inclined agnostic in philosophy of religion, with a lifelong passion to ask the big questions—why life is filled with suffering, whether there’s an intelligence expressing itself in the universe. Right after grad school I encountered Stan Grof’s work. Realms of the Human Unconscious changed my life, followed quickly by his 1980 manual, LSD Psychotherapy. I knew I wanted—needed—to do this work. I don’t like breaking the law, but I did. I went underground as part of the transitional underground generation and started high-dose work.
+
+At first, it was a matter of efficiency. I still thought in a personal-therapy model: higher doses would turn up more of my psyche, I’d clean up my stuff faster, and get to enlightenment faster. Turns out my assumptions were wrong. At high doses you activate a larger piece of the fabric of existence. What may begin as an individual transformational process becomes part of humanity’s larger collective process.
+
+Three or four years in, when I began to understand some of this, I also discovered I had a constitution wired for high-dose work. I could get very large and spacious—and, importantly, I could contract safely at the end. Not everyone should work with psychedelics at all, and many should not work with high doses of a powerful psychedelic like LSD. Even if you have aptitude and strong support, I would be much gentler. I’d take a gentler way in, work more with lower doses, balance occasional high doses with integrating lower doses. I’d also balance LSD with psilocybin or ayahuasca—the vegetative psychedelics. There’s a lot I would do differently.
+
+Stephen Gray: 
+You can’t answer this definitively, of course—the road not taken—but speculatively, would you have been able to bring back such deep and powerful information had you not put yourself through this fire?
+
+Chris Bache: 
+It takes a lot of work and discipline. When you go very deep—transcending levels of time, space, identity, species identity, archetypal and beyond-archetype reality—you’re breaking into layers of new territory. It’s hard to stay conscious there; often people bring back only pieces. But if you work consistently and with discipline, you can learn to stay conscious at those levels and bring back more. For me, it’s a philosophical discipline: not only breaking into new territory, but bringing the experiences back—getting them down in writing, art, music, whatever your modality—and learning to live by the insights.
+
+I may not have gone out as far had I not worked that way, but I also learned that “going out” isn’t everything. Early on, I thought the farther out you went, the more profound the impact, and the more it would change your life and stabilize. What I learned is that it’s much more complicated. Retaining and holding those experiences is bigger than remembering them. Integrating a journey is different from integrating individual sessions. The task of integrating such a radical journey will take me lifetimes. I don’t think I could ever fully integrate what happened—enter it and live from it—in this lifetime. The universe is too big, and it took me in too deeply to hold it well.
+
+Stephen Gray: 
+I thank you deeply for having done that work for us. I know you didn’t start out to do it for “us,” but it turned out that way.
+
+Chris Bache: 
+It turned out that way, yes.
+
+Marc Caron: 
+A quick note from the chat: Melanie White says, “Thank you, Chris. I loved the book LSD and the Mind of the Universe, and thank you for sharing your insights tonight.” For those watching online, we’ll take questions from our Zoom audience. Here’s one: how does your process relate to Christology? Did you have Christ avatar experiences, and how does that map onto your journey?
+
+Chris Bache: 
+Interesting question. Two traditions have had the largest influence on my life—Christianity and Buddhism. I also taught world religions for decades, and the lineages became passionate lovers for me; each taught me so much. While I started within a Christian framework, I came to see that Christ is the fruition of a spiritual impulse in the Middle East that parallels, in seminal ways, the fruition of similar impulses in India, Africa, South America. Larger patterns emerged.
+
+If Christology is the study of the Christ archetype, for me that archetype is bigger than Jesus. It’s a larger dynamic of profound awakening of the human heart, mind, and spirit. I live and breathe in Universalist waters: recognizing the distinctness of each lineage and the overlapping common ground.
+
+I didn’t have many experiences of avatar-like beings, angelic beings, or spirit guides. I didn’t have the “machine elves” of DMT. My sense is that maybe you have to be a being to experience beings; you have to be a self to experience selves in the universe. If your work grinds you repeatedly into dust, then when that dust goes out, it takes you into the fabric of life rather than into a dialogue with individuated beings—even very large spiritual beings. I was drawn into archetypal dynamics and dimensions. There was always a consciousness guiding my sessions—I felt in the hands of a massive consciousness—but it never appeared in concrete form. It was a presence: purifying, crushing, destroying, receiving, teaching, taking me deeper, but never distilling into a particular form. So, with Christology, I affirm its deep essence, but it doesn’t concretize into historically specific expressions.
+
+Stephen Gray: 
+Was there a visual component to these journeys?
+
+Chris Bache: 
+Very strong visual components—not hallucinatory. I could lift my eye shades mid-journey and not be hallucinating. The visuals were very deep, but I never saw the intelligence I was experiencing so intimately. It would purify me—beat me up, crush me, destroy me—and then, after purification, receive me, educate me, take me through things until it was sure I understood, then take me deeper. But it never adopted an identifiable form.
+
+Marc Caron: 
+A brief follow-up: how does your work map onto Pierre Teilhard de Chardin’s vision of the noosphere and this epochal birth?
+
+Chris Bache: 
+The overlap is striking. He saw humanity coming to a turning point and articulated the noosphere. Trained as a geologist, he held a vast historical landscape alongside deep natural spirituality and Christian faith. I read Chardin and many others in graduate school. They didn’t shape what actually happened in my sessions, but they helped me understand and interpret it. The sessions had their own generative power, drawing from a different source. That Chardin saw so much on his own, non-amplified—just awesome.
+
+Marc Caron: 
+Another from the audience: What might be accelerating shifts in consciousness now? Are psychedelics part of that? How do we stabilize these shifts? If you had a workshop, what would you train people to do?
+
+Chris Bache: 
+A big yes to your framing. We’re hardwired into the collective psyche—physically, biologically, mentally, spiritually. Everything we do registers in the collective, and the collective shapes everything we do. An extreme example: when I die, I take my psychedelic experiences with me, but the species mind keeps them too, because I was human when I had them. They become part of the human family’s experience. This is true for all of us. Harm registers; healing registers. Insights, care, compassion infuse the network of life that is the human family, and beyond.
+
+The spiritual traditions say there’s no such thing as private spiritual practice. In Buddhism, you begin practice by cultivating bodhicitta—the aspiration to benefit all sentient beings—and end by distributing the merit to all levels of being. The trap is thinking it’s about personal enlightenment. The traditions say the opposite: it’s not about you; it’s all of us. Open your heart and mind, let the pain in, bring the healing out. We can trust that everything we do is conserved and used by other beings alive now.
+
+In my academic life, I had to keep this work hidden, but I found my students were activated by it. A transparency opened between their minds and mine, demonstrating that consciousness is ultimately one. It forced me to learn a new way of teaching, respectful of the quantum fields emerging in our work together. There is no private practice—we’re arm in arm. Everything we do serves everyone.
+
+Marc Caron: 
+Next question: Could you expand on the relationship between the individual and the collective? Do you think the right inspiration from the right individual will spread much faster into the collective consciousness than in the past?
+
+Chris Bache: 
+If we look around, America’s in a presidential election with a deeply divided country and polar-opposite candidates. The times are turbulent and uncertain. It isn’t only truth that catalyzes truth—lying catalyzes lying; darkness catalyzes darkness. The individual–collective dynamic applies to both sides of the street. In shamanic cultures, practitioners manage dark forces as well as healing.
+
+But Carl Jung is right that nature tilts toward growth—toward us becoming larger, wiser, more intelligent. If nature is trying to bring about this pivot toward a higher form of consciousness, then despite the upheaval at political, social, and cultural levels, the deeper movement is toward truer, clearer, better, more good. Individuals who have made the transition in their own being that humanity is trying to make collectively can become seed catalysts. Their very presence helps catalyze what’s trying to emerge beneath our feet at the collective level.
+
+Individuals have tremendous power to influence—not just physically, but subtly. Traditions have long recognized the radiance around deep practitioners. Chinese traditions valued contemplatives outside town; Christian monasteries and convents understood their practice benefits surrounding communities. I think that subtle influence will be increasing as we move forward. Beautiful.
+
+Marc Caron: 
+Great question. Thank you for that, Michael. And unless anybody else raises a hand in the next half a second or so, we’ll start wrapping up our program. Chris, first I want to thank you for the work you do and let you know how much I appreciate you. I’ve gotten to know you over the past number of years as you’ve been a great supporter of the Spirit Plant Medicine Conference. Your graciousness, your wisdom, your energy—and that of your beautiful wife, Christina—are such a gift. It’s beautiful to be in your presence and take in your words. I’m going to have to pay you later, because at the beginning you said it’s one of the best psychedelic conferences ever! Thank you for that.
+
+Which leads into something I want to share with folks watching in the Zoom room or online. If you’re thinking about coming to the conference or you’re not sure, one of the things we do is bring in a virtual aspect so you can connect with each other and have Q&A with speakers in the room as well. Chris was one of our surprise guests last year who came in and talked to folks in the room—just another way of connecting and participating, because not everyone can join us physically. If you can join in person, we’d love to see you there, and we also love to see you in the virtual room. The bonus of the virtual option is replays: you can come back into the membership and catch up instead of just getting that one hit from the room. Thank you so much for your work, Chris; I really appreciate your support—and Christina’s—with our conference. And I got a shirt for you, because I know the ones you like.
+
+Chris Bache: 
+Ah, good—yeah. I’ve worn the other ones so much they’re getting worn out. So a new shirt is good.
+
+Marc Caron: 
+A fun side note: I was at the Unicorn Music Festival, and John Stockton—a beautiful soul, a lawyer from the early cannabis days—came up to our tent at the conference wearing the same green tree shirt, and it was all worn out. He loved it, one of his favorites, so we set him up with another. Just a funny sidebar. If there’s anything you want to add, Stephen or Chris, before we wrap up, that would be great.
+
+Stephen Gray: 
+Excuse me—I’m assuming you’ll say a little more about how people can join the conference, Marc. I also have a question for a friend who lives in Switzerland and wanted to catch this interview, but it was 2 a.m. when we started. How can he see this later? And to anyone still with us now, plus anyone who sees this later: if you heard what Chris said today, along with other information he’s shared, this is absolutely important for our planet right now—absolutely central. At the very least, the encouragement and uplift that’s going to be needed as we go through increasingly challenging times on the material level. There’s no doubt deeper levels of anxiety and depression and confusion are already happening and will increase, with tendencies to grasp at unreasonable hopes—such as what’s going on in the MAGA movement, for example. My hope is that thousands and thousands of people will watch this interview. So, starting with my friend Craig in Switzerland—how can he tune in?
+
+Marc Caron: 
+What a great question, Stephen—thanks for asking. It’s really simple. For anybody who signed up, we’re going to send out an email with the direct link. You can check out our Spirit Plant Medicine YouTube channel—it’s streaming there live as we speak. You can check our Facebook page as well—it’s streaming live there too. They’re always there for replays after the fact. And if you’re inspired or moved by what you’re hearing, please share it with your friends—share it far and wide. That helps the algorithms on the social platforms start showing it more and more. We’ll also send out email reminders.
+
+Stephen Gray: 
+I’d like to put in one final pitch for people to attend the conference. Because of the kinds of things Chris has been sharing, we are moving into a collective journey. This is not really a sales pitch—it’s a call to a gathering. I’ve been tending to think of the conference as an empowerment hub now, where we can support, empower, and encourage each other by meeting—whether virtually or, even better, in person. It’s part of the collective journey we’re working with here.
+
+Chris Bache: 
+I can jump in with a heartfelt plug for the conference. I truly love going. It’s an intimate conference—God bless MAPS, but it’s not the 13,000-person mega-conferences. This is a group of dedicated practitioners working with many therapeutic modalities and many substances, with opportunities for conversations, and a lot of new things get opened there. I released Diamonds, LSD and the Mind of the Universe in 2019, I think—we got an early release there. And now, at this conference, I’m going to be releasing, as part of my presentation, the new edition of The Living Classroom, which is the first time I’m able to really tell the story of the role psychedelics played in the ideas I wrote about in the original 2008 version of The Living Classroom, where I thought it was best to keep psychedelics out of the story. New material comes forward, new ideas, and there’s nothing like the contagious quality of being in the room with like-minded people—the interactions and exchanges that take place. It’s just a wonderful place to be.
+
+Stephen Gray: 
+Hey, Chris, have you been talking to Colin at all about getting that book in time for the conference?
+
+Chris Bache: 
+Oh, good—I think we’re going to have it in time. It’s going to be an advance release. I don’t think the paperback will be out, so it’ll be a bit pricey because it’ll be the hardback—from SUNY Press, the State University of New York Press. But yes, we will have copies there. I wish we were going to have the paperback, but that won’t be out for another year.
+
+Stephen Gray: 
+Hey, Marc, maybe we could offer a slight special discount ticket price if they purchase the book at the same time.
+
+Marc Caron: 
+That’s a good one. I’m not sure how I would figure that out right now.
+
+Chris Bache: 
+And I’ll warn you, it’s pricey—I don’t remember exactly what it is, but it’s aimed at libraries. That’s the challenge.
+
+Marc Caron: 
+Definitely—we’ll share it far and wide for those interested through our community. And thank you for your kind words, Chris. It’s not really a conference—we just call it a conference. It’s a ceremony, and then we kind of put a conference inside of it. It’s a community-based gathering. I’m blessed to be here today at the I Am Awake Foundation. There’s a story about Chris and Jen and the work they’re doing in consciousness research and exploration. They met at the Spirit Plant Medicine Conference in 2019 and their work grew from there. We’ve met so many people who have met and created relationships, doing business and working together, just connecting. Even if you’re not in person, you still have that ability in the virtual world to connect and chat with like-minded people. If you’re interested, please join us—there are many ways to do so. We’d love to see you there, virtually and, of course, in person; there’s always room. With that being said, I want to thank you again, Chris, for the work you do. I look forward to seeing you and Christina again in the very near future. And Stephen, thank you as well for being my partner and co-host in everything we do together—it’s always a pleasure. A big shout out to Michael Krause, who is behind the scenes—a beautiful soul who does a lot of great work with Unify, the world peace movement, and many things regarding spirituality and consciousness.
+
+As a segue—hey, Stephen—this Thursday, two days from now, we’ve got a great series coming up in the next month of pre-conference events and conversations. This Thursday, 4: 00, Marco Sanchez and Acashia Lewis will be joining us.
+
+Stephen Gray: 
+They’re both absolutely brilliant. No offense to any of the other speakers last year, but they were the two strongest for me personally—they have a lot of really relevant things to say. And hey, Michael, if you’re still listening, you’re lucky—Chris has gone beyond the level of spiritual realization where he’s seduced by flattery.
+
+Marc Caron: 
+And then, a week from today, Rick Doblin from MAPS. And I think the following Thursday after we have Soy, Keen—
+
+Stephen Gray: 
+Soy, Ken—yeah. Actually, we have to talk about that.
+
+Marc Caron: 
+Let’s just talk about who’s joining us next Thursday, and we’ll talk about the time.
+
+Stephen Gray: 
+Part of that, Marc, is we might possibly have to switch that to Wednesday for Anya, but we’ll have to talk about it.
+
+Marc Caron: 
+Okay—next week, stay tuned. We’ve got lots coming. Just check your emails and make sure you confirm so you get everything. We’ll be posting that. We just want to let everybody know. With that, I want to wrap up with a nice closing for Conscious Living on Co-op Radio. My name is Mark Kuhn, joined by Stephen Gray and our special guest Chris Bache here on 100.5 CFRO-FM in Vancouver. Until next time, take care of each other. Thank you.

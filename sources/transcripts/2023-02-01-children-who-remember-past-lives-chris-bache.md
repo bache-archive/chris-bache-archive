@@ -19,7 +19,8 @@ provenance:
   transcriber: gpt5 model by OpenAI
   diarist_txt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-02-01-children-who-remember-past-lives-chris-bache.txt
   diarist_srt: /Users/howardrhee/Documents/chris-bache-archive/sources/diarist/2023-02-01-children-who-remember-past-lives-chris-bache.srt
----
+diarist_sha1: 539cd3ec9faffef9ae951731a7cc1d097cdab973
 
-Chris Bache: 
-I think Stevenson's evidence is really strong evidence for some type of continuity of awareness from lifetime to lifetime, especially his last two books, a two-volume work on philosophy and on reincarnation in biology, in which he studied 170 87 cases of children who not only had psychological recall from their previous lifetime, but actually bore marks on their bodies in the form of birthmarks that replicated wounds of death in the previous incarnation. Somehow it was as if consciousness had been traumatized in such a way that it not only imprinted on the subsequent mind, but also on the body of the subsequent mind. After looking at this data, I think what it tells us is we have information in our mind that predates this body.
+---
+<!-- diarist_sha1:539cd3ec9faffef9ae951731a7cc1d097cdab973 -->
+**Chris Bache: ** I think Stevenson's evidence is really strong for some type of continuity of awareness from lifetime to lifetime, especially his last two-volume book on the philosophy of reincarnation and biology. In it, he studied 187 cases of children who not only had psychological recall from their previous lifetimes but also bore marks on their bodies in the form of birthmarks, which replicated wounds of death in their previous incarnations. It was as if consciousness had been traumatized in such a way that it not only imprinted on the subsequent mind but also on the body of that mind. After examining this data extensively, I think what it tells us is that we have information in our minds that predates this body.
