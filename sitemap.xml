@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>https://bache-archive.github.io/chris-bache-archive/sitemap-captions.xml</loc>
-    <lastmod>2025-11-08</lastmod>
-  </sitemap>
-  <sitemap>
     <loc>https://bache-archive.github.io/chris-bache-archive/sitemap-transcripts.xml</loc>
     <lastmod>2025-11-08</lastmod>
   </sitemap>

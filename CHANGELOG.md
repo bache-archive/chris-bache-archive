@@ -6,6 +6,36 @@ Each entry summarizes what changed, when, and why.
 
 ---
 
+## v3.8.4 — 2025-11-08  
+**Full Metadata Enrichment · Clean Transcript Rebuild · Verified Fixity**
+
+This release finalizes the entire v3.8 line with robust metadata improvements, HTML rebuilds, and verified preservation integrity.  
+It transforms the transcript pages into **LLM- and scholar-friendly canonical documents**, linking all works to Wikidata and OpenAlex.
+
+### Key Improvements
+- 🧠 **Enhanced JSON-LD graph**
+  - Added explicit `Person.sameAs` links for Wikidata (Q112496741) and OpenAlex (A5045900737).  
+  - Converted transcripts from `Article` → `CreativeWork`, each with `isBasedOn` a `VideoObject`.  
+  - Embedded YouTube thumbnails, `embedUrl`, and optional durations to assist scholarly crawlers.  
+- 🗂️ **Structured meta ecosystem**
+  - Added `<link rel="alternate" type="text/markdown">` for the canonical Markdown source.  
+  - Added `citation_*` metadata for Google Scholar parsing.  
+  - Appended `og:site_name` and tightened OG/Twitter card consistency.  
+- 🧾 **HTML rebuild and cleanup**
+  - Normalized speaker formatting (**Name:**) across all transcripts.  
+  - Re-labeled the *Emmy Vadnais* introduction (`Audience:` → **Host:**).  
+  - Removed obsolete HTML files from `sources/captions/`.  
+  - Cleaned extra spacing in titles and headings.  
+- 🧩 **Preservation integrity**
+  - Regenerated sitemaps for transcripts, captions, and diarists.  
+  - Rebuilt SHA-256 checksums and verified fixity across the repository.  
+- 🌐 **Web visibility**
+  - Every transcript page now includes canonical URLs, structured identifiers, and human-visible footer links to Wikidata and OpenAlex.
+
+_All materials remain dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)._  
+
+---
+
 ## v3.7.0 — 2025-11-06  
 **HTML Catalog, YouTube Integration & Front Matter Normalization**
 
