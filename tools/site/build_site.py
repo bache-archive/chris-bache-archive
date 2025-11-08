@@ -1,15 +1,16 @@
 #!/usr/bin/env python3
 """
-tools/site/build_site.py
+tools/site/build_site.py  —  Drop-in replacement
 
 Build styled static HTML wrappers ONLY for:
-  • sources/transcripts/*.md    (skips _archive/ and extras/)
+  • sources/transcripts/*.md    (skips subfolders like _archive/ and extras/)
 Adds:
-  • Compact JSON-LD in <head> (Google-preferred)
-  • Hidden mirrored text block at bottom of <body> (LLM-friendly)
-  • "Watch on YouTube" button via index.json
-  • Speaker label normalizer (**Name:** …), incl. Audience fixes
-  • Editorial note appended at end of page
+  • Canonical URL + OG/Twitter meta (+ og:site_name)
+  • JSON-LD @graph: Person (sameAs→Wikidata/OpenAlex), VideoObject (url+embedUrl+thumbnailUrl), CreativeWork (transcript) with isBasedOn + mainEntityOfPage
+  • Highwire/Google Scholar-style citation_* meta
+  • <link rel="alternate" type="text/markdown"> pointing at the source .md
+  • Speaker label normalizer (**Name:** …)
+  • Editorial + identifier footer
 
 Usage:
   python tools/site/build_site.py
@@ -35,63 +36,36 @@ FM_RE     = re.compile(r'^\s*---\s*\n(.*?)\n---\s*\n(.*)\Z', re.S)
 META_LINE = re.compile(r'^\s*([A-Za-z0-9_]+)\s*:\s*("?)(.+?)\2\s*$', re.M)
 H1_RE     = re.compile(r'^\s*#\s+(.+?)\s*$', re.M)
 
-# Speaker normalization patterns
-# 1) "**Name: ** rest"  -> "**Name:** rest"
+# Fix common malformed speaker labels like "**Name: ** text" → "**Name:** text"
 SPEAKER_LINE_RE = re.compile(
     r'^(?P<lead>\s*)\*\*\s*(?P<name>[^*:]{1,120}?)\s*:\s*\*\*(?P<tail>\s*)(?P<rest>.*)$',
     re.M
 )
-# 2) "** Name **: rest" -> "**Name:** rest"
 SPEAKER_WEIRD_RE = re.compile(
     r'^(?P<lead>\s*)\*\*\s*(?P<name>[^*:]{1,120}?)\s*\*\*\s*:\s*(?P<rest>.*)$',
     re.M
 )
-# 3) Leading italics before a label: "* Name: ** rest" -> "**Name:** rest"
-SPEAKER_ITALIC_LEAD_RE = re.compile(
-    r'^(?P<lead>\s*)[*_]{1,3}\s*(?P<name>[A-Z][^*:]{0,120}?)\s*:\s*\*\*\s*(?P<rest>.*)$',
-    re.M
-)
-# 4) Specific Audience fixes:
-#    "Audience: ** rest" -> "**Audience:** rest"
-AUDIENCE_TRAIL_BOLD_RE = re.compile(
-    r'^(?P<lead>\s*)Audience\s*:\s*\*\*\s*(?P<rest>.*)$',
-    re.M | re.I
-)
-#    plain "Audience: rest" -> "**Audience:** rest"
-AUDIENCE_PLAIN_RE = re.compile(
-    r'^(?P<lead>\s*)Audience\s*:\s*(?P<rest>.+)$',
-    re.M | re.I
-)
-
-# Optionally broaden to Host/Moderator if helpful later:
-GENERIC_LABELS = ("Audience","Host","Moderator","MC","Interviewer","Participant")
+# Audience edge-cases:
+AUDIENCE_RE_1 = re.compile(r'^(?P<lead>\s*)Audience\s*:\s*\*\*\s*(?P<rest>.*)$', re.M)
+AUDIENCE_RE_2 = re.compile(r'^(?P<lead>\s*)\*?Audience\*?\s*:\s*(?P<rest>.*)$', re.M)
 
 def normalize_speaker_labels(md: str) -> str:
-    def _mk(name: str, rest: str, lead: str = "") -> str:
-        return f"{lead}**{name.strip()}:** {rest.strip()}"
-
-    # 1/2) Core bold-ordering fixes
-    md = SPEAKER_LINE_RE.sub(lambda m: _mk(m.group('name'), m.group('rest'), m.group('lead')), md)
-    md = SPEAKER_WEIRD_RE.sub(lambda m: _mk(m.group('name'), m.group('rest'), m.group('lead')), md)
-
-    # 3) Strip leading italics around a label that then has "**" before text
-    md = SPEAKER_ITALIC_LEAD_RE.sub(lambda m: _mk(m.group('name'), m.group('rest'), m.group('lead')), md)
-
-    # 4a) Audience: ** rest  -> **Audience:** rest
-    md = AUDIENCE_TRAIL_BOLD_RE.sub(lambda m: _mk("Audience", m.group('rest'), m.group('lead')), md)
-
-    # 4b) Audience: rest (plain) -> **Audience:** rest
-    # Guard against double-normalizing lines already starting with "**Audience:**"
-    def _aud_plain(m):
-        lead, rest = m.group('lead') or "", m.group('rest') or ""
-        if rest.lstrip().startswith("**"):  # already normalized form
-            return m.group(0)
-        return _mk("Audience", rest, lead)
-    md = AUDIENCE_PLAIN_RE.sub(_aud_plain, md)
-
+    def _fix(m):
+        lead = m.group('lead') or ''
+        name = (m.group('name') or '').strip()
+        rest = m.group('rest')
+        return f"{lead}**{name}:** {rest}"
+    md = SPEAKER_LINE_RE.sub(_fix, md)
+    md = SPEAKER_WEIRD_RE.sub(lambda m: f"{m.group('lead')}**{m.group('name').strip()}:** {m.group('rest')}", md)
+    md = AUDIENCE_RE_1.sub(lambda m: f"{m.group('lead')}**Audience:** {m.group('rest')}", md)
+    md = AUDIENCE_RE_2.sub(lambda m: f"{m.group('lead')}**Audience:** {m.group('rest')}", md)
     return md
 
 def parse_front_matter(md_txt: str) -> tuple[dict, str]:
+    """
+    Tolerant front-matter parser (simple key: value lines).
+    Returns (meta_dict, body_md).
+    """
     m = FM_RE.match(md_txt)
     if not m:
         return ({}, md_txt)
@@ -116,12 +90,15 @@ def ensure_target_blank(html_txt: str) -> str:
         return tag
     return re.sub(r'<a\s+[^>]*href="https?://[^"]+"[^>]*>', repl, html_txt, flags=re.I)
 
+def collapse_spaces(s: str) -> str:
+    return re.sub(r'\s+', ' ', (s or '').strip())
+
 def title_guess_from_path(p: Path) -> str:
     txt = p.read_text(encoding="utf-8", errors="ignore")
     m = H1_RE.search(txt)
     if m:
-        return m.group(1).strip()
-    return p.stem.replace("-", " ").replace("_"," ").title()
+        return collapse_spaces(m.group(1))
+    return collapse_spaces(p.stem.replace("-", " ").replace("_"," ").title())
 
 def hero_block(pill: str, h1: str, subtitle_html: str, buttons: list[tuple[str,str,str]] | None = None) -> str:
     btns = []
@@ -137,17 +114,35 @@ def hero_block(pill: str, h1: str, subtitle_html: str, buttons: list[tuple[str,s
   {btnrow}
 </header>""".strip()
 
-def wrap_shell(page_title: str, style_href: str, head_jsonld: str, body_inner: str, hidden_tail: str, canonical: str | None = None) -> str:
+def editorial_footer_block() -> str:
+    return """
+<section class="section">
+  <div class="card muted">
+    <p><strong>Editorial note.</strong> All published transcripts in the Chris Bache Archive are lightly edited for readability. Disfluencies and partial phrases have been removed where they do not affect meaning. Verbatim diarized transcripts are preserved separately for research and verification.</p>
+  </div>
+</section>""".strip()
+
+def id_footer_block() -> str:
+    return """
+<footer class="metadata">
+  <p>Identifiers:
+     <a href="https://www.wikidata.org/wiki/Q112496741" target="_blank" rel="noopener noreferrer">Wikidata Q112496741</a> ·
+     <a href="https://openalex.org/A5045900737" target="_blank" rel="noopener noreferrer">OpenAlex A5045900737</a>
+  </p>
+</footer>""".strip()
+
+def wrap_shell(page_title: str, style_href: str, head_extras: str, body_inner: str, canonical: str | None = None, alternate_md: str | None = None) -> str:
     canonical_link = f'\n  <link rel="canonical" href="{canonical}" />' if canonical else ""
-    jsonld_block  = f'\n  <script type="application/ld+json">{head_jsonld}</script>' if head_jsonld else ""
+    alt_md_link   = f'\n  <link rel="alternate" type="text/markdown" href="{alternate_md}" />' if alternate_md else ""
     return f"""<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>{html.escape(page_title)}</title>{canonical_link}
-  <meta name="description" content="Readable, styled pages from the Chris Bache Archive." />
-  <link rel="stylesheet" href="{style_href}">{jsonld_block}
+  <title>{html.escape(page_title)}</title>{canonical_link}{alt_md_link}
+  <meta name="description" content="Readable, speaker-attributed pages from the Chris Bache Archive." />
+  <link rel="stylesheet" href="{style_href}">
+{head_extras}
 </head>
 <body>
   <div class="container">
@@ -156,7 +151,6 @@ def wrap_shell(page_title: str, style_href: str, head_jsonld: str, body_inner: s
       Built by the Chris Bache Archive · <a href="/chris-bache-archive/">Home</a>
     </div>
   </div>
-{hidden_tail}
 </body>
 </html>"""
 
@@ -183,61 +177,132 @@ def load_index_map(index_path: Path) -> dict[str, dict]:
         }
     return mapping
 
-# ---- Compact JSON-LD for <head> (strings only) -------------------------
-def build_json_ld_compact(meta: dict, info: dict, canonical_url: str | None) -> str:
+# ---- JSON-LD + OG/Twitter builders -------------------------------------
+def build_jsonld_graph(meta: dict, info: dict, canonical_url: str, h1_title: str) -> str:
+    """
+    Build a compact @graph:
+      - Person with sameAs → Wikidata/OpenAlex
+      - VideoObject for original recording (url, embedUrl, thumbnailUrl if YouTube)
+      - CreativeWork for transcript (isBasedOn → VideoObject, mainEntityOfPage)
+    """
     def nz(x): return (x or "").strip()
-    title   = nz(meta.get("title")) or "Transcript"
-    date    = nz(meta.get("date")) or None
-    channel = nz(meta.get("channel"))
-    slug    = nz(meta.get("slug"))
-    youtube = info.get("youtube_url")
-    data = {
-        "@context": "https://schema.org",
-        "@type": "Article",
-        "headline": title,
-        "datePublished": date,
+    # Prefer explicit recorded_date/datePublished keys, fallback to 'date'
+    date = nz(meta.get("recorded_date")) or nz(meta.get("datePublished")) or nz(meta.get("date")) or None
+    channel = nz(meta.get("channel")) or None
+    publisher = {"@type": "Organization", "name": channel} if channel else None
+
+    yt_url = info.get("youtube_url")
+    yt_id  = info.get("youtube_id")
+    thumb  = f"https://i.ytimg.com/vi/{yt_id}/hqdefault.jpg" if yt_id else None
+    embed  = f"https://www.youtube.com/embed/{yt_id}" if yt_id else None
+
+    # Stable fragment IDs on this page
+    person_id = canonical_url + "#person"
+    video_id  = canonical_url + "#video"
+    tx_id     = canonical_url + "#transcript"
+
+    # Identifiers as resolvable URLs plus value
+    identifiers = []
+    slug = nz(meta.get("slug"))
+    if slug:
+        identifiers.append({"@type":"PropertyValue","propertyID":"slug","value":slug})
+    identifiers.append({
+        "@type":"PropertyValue",
+        "propertyID":"wikidata:QID",
+        "value":"Q112496741",
+        "url":"https://www.wikidata.org/wiki/Q112496741"
+    })
+    identifiers.append({
+        "@type":"PropertyValue",
+        "propertyID":"openalex:author",
+        "value":"A5045900737",
+        "url":"https://openalex.org/A5045900737"
+    })
+
+    graph = [
+        {
+            "@id": person_id,
+            "@type": "Person",
+            "name": "Christopher M. Bache",
+            "sameAs": [
+                "https://www.wikidata.org/wiki/Q112496741",
+                "https://openalex.org/A5045900737"
+            ]
+        }
+    ]
+
+    video_obj: dict = {
+        "@id": video_id,
+        "@type": "VideoObject",
+        "name": f"{h1_title} (original recording)",
+        "inLanguage": "en"
+    }
+    if yt_url:
+        video_obj["url"] = yt_url
+        video_obj["sameAs"] = [yt_url]
+    if embed:
+        video_obj["embedUrl"] = embed
+    if thumb:
+        video_obj["thumbnailUrl"] = thumb
+    # Only append the VideoObject if we have at least a URL or embed/thumbnail (i.e., some signal)
+    if any(k in video_obj for k in ("url","embedUrl","thumbnailUrl")):
+        graph.append(video_obj)
+
+    transcript_obj: dict = {
+        "@id": tx_id,
+        "@type": "CreativeWork",
+        "name": h1_title,
+        "author": { "@id": person_id },
         "inLanguage": "en",
         "isAccessibleForFree": True,
         "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-        "author": [{"@type": "Person", "name": "Christopher M. Bache"}],
-        "identifier": [
-            {"@type": "PropertyValue", "propertyID": "slug", "value": slug},
-            {"@type": "PropertyValue", "propertyID": "wikidata_person", "value": "Q112496741"},
-            {"@type": "PropertyValue", "propertyID": "openalex_person", "value": "A5045900737"}
-        ],
-        "url": canonical_url or None,
-        "sameAs": [youtube] if youtube else None,
-        "publisher": {"@type":"Organization","name": channel} if channel else None
+        "url": canonical_url,
+        "mainEntityOfPage": canonical_url,
+        "identifier": identifiers
     }
-    clean = {k: v for k, v in data.items() if v not in (None, [], "")}
-    return json.dumps(clean, ensure_ascii=False, separators=(",", ":"))
+    if date:
+        transcript_obj["datePublished"] = date
+    if publisher:
+        transcript_obj["publisher"] = publisher
+    if any(o.get("@id")==video_id for o in graph):
+        transcript_obj["isBasedOn"] = {"@id": video_id}
 
-def hidden_mirror_text(meta: dict, info: dict) -> str:
-    esc = lambda s: html.escape((s or "").strip())
-    title   = esc(meta.get("title"))
-    date    = esc(meta.get("date"))
-    typ     = esc(meta.get("type"))
-    channel = esc(meta.get("channel"))
-    slug    = esc(meta.get("slug"))
-    yt_url  = esc(info.get("youtube_url") or "")
-    wid     = "Q112496741"
-    oid     = "A5045900737"
-    return f"""
-<!-- machine-readable metadata (hidden mirror) -->
-<section aria-hidden="true" style="display:none">
-  <p data-meta="title">{title}</p>
-  <p data-meta="date">{date}</p>
-  <p data-meta="type">{typ}</p>
-  <p data-meta="channel">{channel}</p>
-  <p data-meta="slug">{slug}</p>
-  <p data-meta="wikidata_person">{wid}</p>
-  <p data-meta="openalex_person">{oid}</p>
-  {"<p data-meta='youtube_url'>" + yt_url + "</p>" if yt_url else ""}
-</section>""".strip()
+    graph.append(transcript_obj)
+
+    data = {"@context": "https://schema.org", "@graph": graph}
+    return json.dumps(data, ensure_ascii=False, separators=(",", ":"))
+
+def build_social_meta(title: str, description: str, url: str, site_name: str = "Chris Bache Archive") -> str:
+    t = html.escape(title)
+    d = html.escape(description)
+    u = html.escape(url)
+    sn = html.escape(site_name)
+    return f"""  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="{sn}">
+  <meta property="og:title" content="{t}">
+  <meta property="og:description" content="{d}">
+  <meta property="og:url" content="{u}">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{t}">
+  <meta name="twitter:description" content="{d}">
+"""
+
+def build_citation_meta(title: str, author: str, pub_date: str | None, html_url: str) -> str:
+    """Highwire/Google Scholar style meta (harmless if ignored)."""
+    lines = [
+        f'  <meta name="citation_title" content="{html.escape(title)}">',
+        f'  <meta name="citation_author" content="{html.escape(author)}">',
+        f'  <meta name="citation_fulltext_html_url" content="{html.escape(html_url)}">'
+    ]
+    if pub_date:
+        # Use YYYY/MM/DD if available (Google Scholar often accepts this)
+        pd = pub_date.replace("-", "/")
+        lines.append(f'  <meta name="citation_publication_date" content="{html.escape(pd)}">')
+    return "\n".join(lines) + "\n"
 
 # ---- Page builder -------------------------------------------------------
 def process_source_page(md_path: Path, site_base: str, stylesheet: str, pill: str, idx_map: dict[str, dict]):
-    # Only top-level files in sources/transcripts (skip _archive/ and extras/)
+    # Only top-level files in sources/transcripts (skip subfolders)
     if md_path.parent != SRC_TRANS:
         return
 
@@ -245,12 +310,13 @@ def process_source_page(md_path: Path, site_base: str, stylesheet: str, pill: st
 
     text = md_path.read_text(encoding="utf-8")
     meta, body_md = parse_front_matter(text)
-
     # normalize speaker labels BEFORE markdown conversion
     body_md = normalize_speaker_labels(body_md or text)
     body_html = ensure_target_blank(md_to_html(body_md))
 
-    title = meta.get("title") or title_guess_from_path(md_path)
+    # Title (collapse whitespace)
+    raw_title = meta.get("title") or title_guess_from_path(md_path)
+    title = collapse_spaces(raw_title)
     subtitle = "Readable, speaker-attributed text with links back to the original recording."
 
     # Index lookup
@@ -270,7 +336,7 @@ def process_source_page(md_path: Path, site_base: str, stylesheet: str, pill: st
         buttons=buttons
     )
 
-    # Transcript card (no "Document" heading)
+    # transcript content
     content_block = f"""
 <section class="section">
   <div class="card">
@@ -280,32 +346,28 @@ def process_source_page(md_path: Path, site_base: str, stylesheet: str, pill: st
   </div>
 </section>""".strip()
 
-    # Editorial note at the very end (visible)
-    editorial_note = """
-<section class="section">
-  <div class="card">
-    <p class="muted" style="font-size:0.95rem; line-height:1.5">
-      <strong>Editorial note.</strong> All published transcripts in the Chris Bache Archive are lightly edited for readability.
-      Disfluencies and partial phrases have been removed where they do not affect meaning.
-      Verbatim diarized transcripts are preserved separately for research and verification.
-    </p>
-  </div>
-</section>""".strip()
+    # editorial + id footer
+    footers = "\n".join([editorial_footer_block(), id_footer_block()])
+    inner = "\n".join([hero, content_block, footers])
 
-    inner = "\n".join([hero, content_block, editorial_note])
-
-    # Canonical URL
+    # Canonical + alternate (.md) URLs
     out_html = md_path.with_suffix(".html")
     rel_out  = out_html.relative_to(ROOT).as_posix()
     canonical = (site_base.rstrip("/") + "/" + rel_out)
+    alt_md    = (site_base.rstrip("/") + "/" + md_path.relative_to(ROOT).as_posix())
 
-    # Compact JSON-LD in <head>
-    head_jsonld = build_json_ld_compact(meta if isinstance(meta, dict) else {}, info, canonical)
+    # JSON-LD graph + social meta + citation meta
+    jsonld = build_jsonld_graph(meta if isinstance(meta, dict) else {}, info, canonical, title)
+    social_meta = build_social_meta(f"{title} — Chris Bache Archive",
+                                    "Readable, speaker-attributed transcript with source links and identifiers.",
+                                    canonical)
+    pub_date = meta.get("recorded_date") or meta.get("datePublished") or meta.get("date")
+    citation_meta = build_citation_meta(title, "Christopher M. Bache", pub_date, canonical)
 
-    # Hidden mirror at bottom of <body>
-    hidden_tail = hidden_mirror_text(meta, info)
+    head_extras = f'{social_meta}{citation_meta}  <script type="application/ld+json">{jsonld}</script>'
 
-    page_html = wrap_shell(f"{title} — Chris Bache Archive", style_href, head_jsonld, inner, hidden_tail, canonical=canonical)
+    page_html = wrap_shell(f"{title} — Chris Bache Archive", style_href, head_extras, inner,
+                           canonical=canonical, alternate_md=alt_md)
     out_html.write_text(page_html, encoding="utf-8")
     print(f"[ok] SRC {out_html.relative_to(ROOT)}")
 
