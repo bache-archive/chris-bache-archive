@@ -6,6 +6,31 @@ Each entry summarizes what changed, when, and why.
 
 ---
 
+## v3.8.5 — 2025-11-09  
+**Wikidata & Wikipedia Alignment · Public Knowledge Integration**
+
+This release documents the integration of the Chris Bache Archive with public knowledge systems — ensuring that the archive’s metadata, author identity, and preserved works are verifiable across Wikidata, OpenAlex, and Wikipedia.
+
+### Key Additions
+- 🧩 **WIKIDATA_AND_WIKIPEDIA_NOTES.md**  
+  - New internal record detailing the reconciliation and curation process for Christopher M. Bache’s Wikidata item (**Q112496741**) and his four major works.  
+  - Logs tool usage (`wikibase-cli`), enrichment steps, and rationale for metadata synchronization.
+- 🌐 **Wikidata updates**  
+  - Verified and corrected all primary statements: occupations, education, affiliations, and external identifiers (OpenAlex, ResearchGate, VIAF, official website).  
+  - Linked each of Bache’s four major books — *LSD and the Mind of the Universe*, *Dark Night, Early Dawn*, *The Living Classroom*, *Lifecycles* — to the author record with publisher, catalog URL, and reference metadata.
+- 🪶 **Wikipedia coordination**  
+  - Created and submitted a neutral, citation-grounded **Wikipedia draft** (Articles for Creation, November 2025).  
+  - The page contextualizes Bache’s academic and philosophical contributions and references the Chris Bache Archive as a preservation initiative.
+- 🧭 **Public knowledge linkage**  
+  - Ensures full alignment between GitHub, Zenodo, Wikidata, and Wikipedia entries — improving traceability and interoperability for both human and machine readers.
+
+This release marks the completion of the archive’s **public metadata cycle**:  
+Bache’s works, identifiers, and digital corpus are now coherently represented across the global knowledge graph.
+
+_All materials remain dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)._  
+
+---
+
 ## v3.8.4 — 2025-11-08  
 **Full Metadata Enrichment · Clean Transcript Rebuild · Verified Fixity**
 
