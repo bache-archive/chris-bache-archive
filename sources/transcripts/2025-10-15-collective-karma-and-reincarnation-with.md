@@ -24,11 +24,11 @@ diarist_sha1: a924d54fba4ca2dd2347c84d97805f35440696c2
 <!-- diarist_sha1:a924d54fba4ca2dd2347c84d97805f35440696c2 -->
 **Chris Bache: ** The idea that we all have to get past the same finish line at the same time in order for things to work out right—that we all have to be saved before we die, or something like this—that doesn't make nearly as much sense as thinking of ourselves as a developing flower garden. We are different types of flowers, which are developing and emerging over large periods of time.
 
-Audience: ** Keep watching to learn more. Book four in the new *Thinking Allowed* dialog series is *Charles T. Tart: 70 Years of Exploring Consciousness and Parapsychology*, now available on Amazon.
+**Host:** Keep watching to learn more. Book four in the new *Thinking Allowed* dialog series is *Charles T. Tart: 70 Years of Exploring Consciousness and Parapsychology*, now available on Amazon.
 
-Audience: ** *New Thinking Allowed* is presented by the California Institute for Human Science, a fully accredited university offering distant learning graduate degrees that focus on mind, body, and spirit. We're particularly excited to announce new degrees emphasizing parapsychology and the paranormal. Visit their website at cihs.edu.
+**Host:** *New Thinking Allowed* is presented by the California Institute for Human Science, a fully accredited university offering distant learning graduate degrees that focus on mind, body, and spirit. We're particularly excited to announce new degrees emphasizing parapsychology and the paranormal. Visit their website at cihs.edu.
 
-Audience: ** *Thinking aloud: Conversations on the leading edge of knowledge and discovery* with psychologist Jeffrey Mishlove.
+**Host:** *Thinking aloud: Conversations on the leading edge of knowledge and discovery* with psychologist Jeffrey Mishlove.
 
 **Emmy Vadnais: ** Hello and welcome. I'm Emmy Vadnais, co-host with Jeffrey Mishlove. Our topic today is collective karma and reincarnation with my guest, Chris Bache, who is Professor Emeritus in the Department of Philosophy and Religious Studies at Youngstown State University in Ohio, where he taught for 33 years. He is also adjunct faculty at the California Institute of Integral Studies, Emeritus Fellow at the Institute of Noetic Sciences, and on the Advisory Council of Grof Legacy Training. Chris is the author of four books: *Lifecycles: Reincarnation and the Web of Life*, *Dark Night, Early Dawn*, *The Living Classroom: Teaching and Collective Consciousness*, and *LSD and the Mind of the Universe: Diamonds from Heaven*. If you enjoy this program, please like, subscribe, press the bell icon, and share. Chris is joining us from just north of Asheville in Weaverville, North Carolina. Now I'll switch over to the internet video. Welcome, Chris! It is a great joy to be with you on *New Thinking Allowed* today.
 
