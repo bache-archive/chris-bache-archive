@@ -1,0 +1,14 @@
+{
+  "slug": "yyyy-mm-dd-title",
+  "source_url": "https://example.com/public-talk",
+  "original_title": "",
+  "channel_or_publisher": "",
+  "published": "yyyy-mm-dd",
+  "source_type": "talk",
+  "rights_note": "Publicly available source; verify before publication.",
+  "caption_source": "source|generated|none",
+  "transcription_provider": "openai-gpt-4o-transcribe-diarize|whisperx-pyannote|assemblyai",
+  "permission_note": "",
+  "publication_scope": "public-transcript-and-metadata",
+  "review_status": "pending"
+}

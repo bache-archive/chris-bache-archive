@@ -46,14 +46,21 @@ SITEMAPS_PY        := tools/generate_sitemaps.py
 
 # Deps we expect on PATH
 SHELL := /bin/bash
+VENV ?= .venv
+PYTHON ?= $(VENV)/bin/python
+ENSURE_VENV := test -x "$(PYTHON)" || python3 -m venv "$(VENV)"
+ENSURE_MARKDOWN := $(ENSURE_VENV); "$(PYTHON)" -c "import importlib.util, sys; sys.exit(0 if importlib.util.find_spec('markdown') else 1)" || "$(PYTHON)" -m pip install markdown
 
 # ------------------------------------------------------------------------------
 # Init & basics (existing)
 # ------------------------------------------------------------------------------
-.PHONY: init harvest build-edu audit-parquet rebuild-parquet
+.PHONY: init harvest build-edu audit-parquet rebuild-parquet identity-audit
 init:
 	@[ -f $(ENV_FILE) ] || cp tools/.env.example $(ENV_FILE)
 	@echo ">> Edit $(ENV_FILE) with real hosts/keys."
+
+identity-audit:
+	@python3 tools/identity_audit.py
 
 # Safe harvest: removes only machine-generated quote packs; preserves curated docs.
 harvest:
@@ -81,25 +88,7 @@ rebuild-parquet:
 
 # Lightweight parquet sanity (tail clustering / max-second dupes)
 audit-parquet:
-	@python3 - <<'PY'
-import pandas as pd, os
-PARQ=os.environ.get("PARQ","$(PARQUET_PATH)")
-df=pd.read_parquet(PARQ)
-def stats(g, T=120):
-    s=g["start_sec"].dropna()
-    if s.empty: return (0,0,0,0)
-    mx=int(s.max()); return (len(g), int((s>=mx-T).sum()), mx, int(s.value_counts().max()))
-rows=[]
-for tid,g in df.groupby("talk_id"):
-    n,t,mx,md = stats(g)
-    if n>=5 and t/n>=0.20:
-        rows.append((tid,n,t,100*t/n,md,mx))
-rows.sort(key=lambda x:-x[3])
-print("== Tail concentrations (>=20% in last 120s) ==")
-for tid,n,t,p,md,mx in rows[:15]:
-    hh=f"{mx//3600:02d}:{(mx%3600)//60:02d}:{mx%60:02d}"
-    print(f"- {tid:64} n={n:4d} tail={t:3d} ({p:5.1f}%) max_dupe={md} max={hh}")
-PY
+	@PARQ="$(PARQUET_PATH)" python3 tools/rag/audit_parquet.py
 
 # ------------------------------------------------------------------------------
 # Checksums & fixity (existing)
@@ -227,16 +216,9 @@ media:
 # Build HTML site (uses Python-Markdown)
 site:
 	@echo ">> Building site"
-	@python3 - <<'PY' || true
-import importlib, sys
-try:
-    importlib.import_module("markdown")
-except ImportError:
-    import subprocess, sys
-    subprocess.check_call([sys.executable, "-m", "pip", "install", "markdown"])
-PY
+	@$(ENSURE_MARKDOWN)
 	@test -f "$(BUILD_SITE_PY)" || { echo "ERROR: $(BUILD_SITE_PY) not found"; exit 1; }
-	@python3 "$(BUILD_SITE_PY)"
+	@"$(PYTHON)" "$(BUILD_SITE_PY)"
 
 # Generate sitemaps for GitHub Pages
 sitemaps:
@@ -256,13 +238,18 @@ RELEASE_VERSION ?= v3.5.4
 .PHONY: finalize
 finalize:
 	@echo ">> Rebuilding site..."
-	@python3 tools/site/build_site.py
+	@$(ENSURE_MARKDOWN)
+	@"$(PYTHON)" tools/site/build_site.py
 	@echo ">> Regenerating sitemaps..."
 	@python3 tools/site/generate_sitemaps.py
 	@echo ">> Rebuilding checksums for $(RELEASE_VERSION)..."
 	@python3 tools/preservation/make_checksums.py --version $(RELEASE_VERSION) --verify --no-downloads
+	@echo ">> Rebuilding JSON release manifest..."
+	@python3 tools/preservation/build_manifests_from_checksums.py \
+	  --checksums checksums/RELEASE-$(RELEASE_VERSION).sha256 \
+	  --version $(RELEASE_VERSION)
 	@echo ">> Verifying fixity..."
-	@python3 tools/preservation/verify_fixity.py
+	@python3 tools/preservation/verify_fixity.py --manifest manifests/release-$(RELEASE_VERSION).json
 	@echo ""
 	@echo "✅ Finalization complete — site + sitemaps + checksums + fixity verified."
 	@echo "Results logged in checksums/FIXITY_LOG.md"
