@@ -69,16 +69,22 @@ assets/             → static site CSS and resources
 
 ## 🌐 Website
 
-**Public site:**  
+**Canonical public site:**  
+👉 [https://chrisbachearchive.com](https://chrisbachearchive.com)
+
+**Static preservation mirror:**  
 👉 [https://bache-archive.github.io/chris-bache-archive/](https://bache-archive.github.io/chris-bache-archive/)
+
+The Next.js frontend for the canonical domain lives in `../bache-archive-web`. This repository remains the canonical corpus and static mirror source.
 
 **Crawl policy**
 ```text
 User-agent: *
 Allow: /
 Sitemap: https://bache-archive.github.io/chris-bache-archive/sitemap.xml
+```
 
-The site is a static build of the transcript, book, and caption corpus intended for both human reading and programmatic indexing.
+The mirror is a static build of the transcript, book, and caption corpus intended for both human reading and programmatic indexing.
 
 ⸻
 
@@ -107,7 +113,7 @@ All QIDs are maintained centrally in bache-archive-meta￼ (wikidata.jsonld).
 
 Bache Archive (2025).
 Chris Bache Archive (2009 – 2025) — public talks, book registries, transcripts, captions, and retrieval indices.
-https://bache-archive.github.io/chris-bache-archive/￼
+https://chrisbachearchive.com
 
 ⸻
 

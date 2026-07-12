@@ -54,24 +54,27 @@ make media
 # 7) Build and publish the HTML site
 make site
 make sitemaps
+```
 
 Option B — Script-by-script
 
+```bash
 # 1) Fetch captions
-python tools/intake/grab_all_captions.py --index index.json --only 2025-10-27-mystic-cosmos
+python3 tools/intake/grab_all_captions.py --index index.json --only 2025-10-27-mystic-cosmos
 
 # 2) Build transcript
-python tools/transcripts/rebuild_transcripts_v2.py \
+printf '%s\n' 2025-10-27-mystic-cosmos > /tmp/bache-worklist.txt
+python3 tools/transcripts/rebuild_transcripts.py \
   --root . \
-  --only 2025-10-27-mystic-cosmos \
+  --missing-file /tmp/bache-worklist.txt \
   --normalize-labels \
   --sync-speakers-yaml \
-  --verbose \
-  --out-dir sources/transcripts
+  --verbose
 
 # 3) Build HTML + sitemaps
-python tools/site/build_site.py
-python tools/site/generate_sitemaps.py https://bache-archive.github.io/chris-bache-archive
+python3 tools/site/build_site.py
+python3 tools/site/generate_sitemaps.py https://bache-archive.github.io/chris-bache-archive
+```
 
 
 ⸻
@@ -91,7 +94,7 @@ python tools/site/generate_sitemaps.py https://bache-archive.github.io/chris-bac
 	•	dedupe_prefer_timed.py — Choose the most complete timed transcripts.
 
 📝 transcripts/
-	•	rebuild_transcripts_v2.py — Build final readable Markdown transcripts.
+	•	rebuild_transcripts.py — Build final readable Markdown transcripts from a worklist of diarist basenames.
 	•	timeline_from_captions.py / timeline_from_diarist.py — Generate timing JSON for QA or analytics.
 	•	normalize_filenames.sh — Normalize diarist/transcript filenames.
 

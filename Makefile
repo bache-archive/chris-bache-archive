@@ -37,12 +37,12 @@ TRANSCRIPT_MD      := sources/transcripts/$(SLUG).md
 ROOT_URL           ?= https://bache-archive.github.io/chris-bache-archive
 
 # Script paths
-CAPTION_SCRIPT     := tools/grab_all_captions.py
-REBUILD_SCRIPT     := tools/rebuild_transcripts_v2.py
-INDEX_MD_SCRIPT    := tools/generate_index_md.py
-DOWNLOAD_MEDIA_SH  := tools/download_media.sh
-BUILD_SITE_PY      := tools/build_site.py
-SITEMAPS_PY        := tools/generate_sitemaps.py
+CAPTION_SCRIPT     := tools/intake/grab_all_captions.py
+REBUILD_SCRIPT     := tools/transcripts/rebuild_transcripts.py
+INDEX_MD_SCRIPT    := tools/site/generate_index_md.py
+DOWNLOAD_MEDIA_SH  := tools/media/download_media.sh
+BUILD_SITE_PY      := tools/site/build_site.py
+SITEMAPS_PY        := tools/site/generate_sitemaps.py
 
 # Deps we expect on PATH
 SHELL := /bin/bash
@@ -191,13 +191,15 @@ diarist:
 transcript:
 	@test -f "$(REBUILD_SCRIPT)" || { echo "ERROR: $(REBUILD_SCRIPT) not found"; exit 1; }
 	@echo ">> Building transcript for $(SLUG)"
-	@python3 "$(REBUILD_SCRIPT)" \
+	@tmp=$$(mktemp); \
+	printf '%s\n' "$(SLUG)" > "$$tmp"; \
+	python3 "$(REBUILD_SCRIPT)" \
 	  --root . \
-	  --only "$(SLUG)" \
+	  --missing-file "$$tmp" \
 	  --normalize-labels \
 	  --sync-speakers-yaml \
-	  --verbose \
-	  --out-dir sources/transcripts
+	  --verbose; \
+	rm -f "$$tmp"
 
 # Regenerate index.md from index.json
 index:

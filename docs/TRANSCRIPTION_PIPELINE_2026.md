@@ -42,6 +42,22 @@ For each slug, preserve:
 - Run `make finalize`.
 - Rebuild RAG vectors only after the canonical transcript is accepted.
 
+## Current Repo Commands
+
+For an individual public talk slug, prefer the Makefile wrapper so future script moves stay centralized:
+
+```bash
+make add SLUG=<yyyy-mm-dd-title> YT=<public_source_url>
+make captions SLUG=<yyyy-mm-dd-title>
+make transcript SLUG=<yyyy-mm-dd-title>
+make index
+make site
+make sitemaps
+make finalize
+```
+
+`make transcript` expects the raw diarist export at `sources/diarist/<slug>.txt` and uses `tools/transcripts/rebuild_transcripts.py`. Preserve the raw diarist file before running any LLM cleanup.
+
 ## Frontend Contract
 
 The web frontend should consume generated public metadata, not raw working files. Public pages can link to:
@@ -50,4 +66,3 @@ The web frontend should consume generated public metadata, not raw working files
 - Markdown source
 - Original public video/audio source
 - RAG citations with stable transcript URLs
-
