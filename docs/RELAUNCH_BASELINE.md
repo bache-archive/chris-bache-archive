@@ -20,6 +20,8 @@ make finalize
 
 4. Review all generated diffs before committing.
 5. Only after the baseline is clean, create a separate Vercel frontend repo under `bache-archive`.
+6. Canonical public domain: `https://chrisbachearchive.com`.
+7. Redirect/secondary domain, if purchased: `https://bachearchive.com` -> `https://chrisbachearchive.com`.
 
 ## Frontend milestone
 

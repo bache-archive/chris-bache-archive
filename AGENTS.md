@@ -12,7 +12,7 @@ This repository is the canonical preservation corpus. Treat provenance, fixity, 
 
 - Remote must be `git@github-bache:bache-archive/chris-bache-archive.git`.
 - Local Git identity must be `Bache Archive <bache-archive@tuta.com>`.
-- Do not use personal GitHub CLI auth, personal GitHub remotes, or personal Vercel integrations.
+- Do not use personal GitHub CLI auth or personal GitHub remotes. Vercel is currently allowed under Howard's personal Vercel account by explicit user choice.
 
 ## Content Policy
 

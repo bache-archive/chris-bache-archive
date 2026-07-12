@@ -1,6 +1,6 @@
 # Bache Archive Anonymity Runbook
 
-This project should remain operationally separate from personal GitHub, Vercel, email, domain, and API identities.
+This project should remain operationally separate from personal GitHub identities. Vercel ownership is currently an explicit exception and may use Howard's personal Vercel account.
 
 ## Current local guardrails
 
@@ -21,9 +21,9 @@ make identity-audit
 
 - Use only the `github-bache` SSH host alias for archive repositories.
 - Do not push archive work through `https://github.com/...`, the default `github.com` SSH host, or a personal `gh` login.
-- Use the archive email for commits, GitHub notifications, Vercel ownership, domain registration, and API/vendor accounts wherever feasible.
+- Use the archive email for commits and GitHub notifications. Vercel/domain ownership may use Howard's personal account unless this policy changes.
 - Keep raw private materials, email exports, OAuth tokens, API keys, and local `.env` files out of Git.
-- Treat GitHub Pages as the preservation mirror. Use Vercel for a separate public frontend only after linking it from the archive-owned Vercel account or team.
+- Treat GitHub Pages as the preservation mirror. Use Vercel for a separate public frontend, currently under Howard's personal Vercel account by explicit choice.
 - Do not ingest Chris's email or private papers until written permission, scope, and publication rules are recorded.
 
 ## Pre-flight checklist
