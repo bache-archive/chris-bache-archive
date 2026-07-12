@@ -11,7 +11,7 @@ This repository is the canonical preservation corpus. Treat provenance, fixity, 
 ## Git Identity
 
 - Remote must be `git@github-bache:bache-archive/chris-bache-archive.git`.
-- Local Git identity must be `bache-archive <bache-archive@tuta.com>`.
+- Local Git identity must be `Bache Archive <bache-archive@tuta.com>`.
 - Do not use personal GitHub CLI auth, personal GitHub remotes, or personal Vercel integrations.
 
 ## Content Policy
@@ -26,4 +26,3 @@ This repository is the canonical preservation corpus. Treat provenance, fixity, 
 - Prefer structured ingestion: source URL -> metadata -> audio/caption capture -> diarized transcript -> normalized Markdown/HTML -> checksums/manifests -> RAG rebuild.
 - Keep generated media and private working files ignored.
 - Keep public transcript URLs stable whenever possible.
-

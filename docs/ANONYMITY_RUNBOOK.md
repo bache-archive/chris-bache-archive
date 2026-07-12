@@ -8,7 +8,7 @@ This project should remain operationally separate from personal GitHub, Vercel, 
 - GitHub owner: `bache-archive`
 - SSH host alias: `github-bache`
 - SSH key: `~/.ssh/id_ed25519_bache`
-- Commit identity: `bache-archive <bache-archive@tuta.com>`
+- Commit identity: `Bache Archive <bache-archive@tuta.com>`
 - Canonical remote shape: `git@github-bache:bache-archive/<repo>.git`
 
 Run this before any archive commit, push, dependency install, Vercel link, or deployment:
@@ -31,7 +31,7 @@ make identity-audit
 1. `make identity-audit` passes.
 2. `git status --short --branch` shows only the intended files.
 3. `git remote -v` uses `git@github-bache:bache-archive/...`.
-4. `git config --local user.name` is `bache-archive`.
+4. `git config --local user.name` is `Bache Archive`.
 5. `git config --local user.email` is `bache-archive@tuta.com`.
 6. Any deployment target is owned by the archive identity, not a personal identity.
 

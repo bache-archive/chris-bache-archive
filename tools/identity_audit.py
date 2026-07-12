@@ -9,7 +9,7 @@ from pathlib import Path
 
 
 EXPECTED_OWNER = "bache-archive"
-EXPECTED_NAME = "bache-archive"
+EXPECTED_NAME = "Bache Archive"
 EXPECTED_EMAIL = "bache-archive@tuta.com"
 EXPECTED_SSH_COMMAND = "ssh -i ~/.ssh/id_ed25519_bache"
 EXPECTED_REMOTE_PREFIX = "git@github-bache:bache-archive/"

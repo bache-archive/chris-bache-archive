@@ -1,7 +1,7 @@
 {
   "version": "v3.5.4",
   "source": "checksums/RELEASE-v3.5.4.sha256",
-  "generated": "2025-11-05T23:37:38Z",
+  "generated": "2026-07-12T02:36:03Z",
   "files": [
     {
       "path": "CONFIG.md",
@@ -24,12 +24,16 @@
       "sha256": "2b4f365d2f880158eca4af3c14f6d9914efee785c6879641a6fecf43708d60ff"
     },
     {
+      "path": "assets/glossary/bache_glossary.json",
+      "sha256": "c55057fd6cb14bfc664ad3c5a3c4714e90264fdef49f9f06d2b2348603022c85"
+    },
+    {
       "path": "assets/style.css",
       "sha256": "712fc77ad960a26e026d1387274a835465403cbb8bcc1c453ff2fdf38d45e81c"
     },
     {
       "path": "index.html",
-      "sha256": "505f99f21835bc124f3d7c6da4374a08097acbf95f25973a4dc07a5eb4fd5e91"
+      "sha256": "8f630a9dcd359f3ab0a744145dbbd1b719fa1f47bb380ddc0d9a91d9bc9f6c4c"
     },
     {
       "path": "index.json",
@@ -37,7 +41,11 @@
     },
     {
       "path": "index.md",
-      "sha256": "44a6cf7753774279f92be02c513a10998407303f2f6b9e7c749c62266a46804a"
+      "sha256": "32559bfd5f52fef2845d3f144fff969e919c8fe49fb18af56ee75f4a79f5a776"
+    },
+    {
+      "path": "meta/.DS_Store",
+      "sha256": "085cc6987a2f9ab37999a5a11d07a90378c8bdbcf0b508e59a8de0caa2eca97a"
     },
     {
       "path": "meta/.git",
@@ -96,20 +104,16 @@
       "sha256": "6eb070dde8990cce0d6ba50ee8a3b0cdc3299c75b51c2d98a4ad0fc7a343944b"
     },
     {
-      "path": "sitemap-captions.xml",
-      "sha256": "3e2a3c2c296c4a1a35153dd673a1a3b08dbc4b7d63132119fcc6e509821e74b3"
-    },
-    {
       "path": "sitemap-diarist.xml",
-      "sha256": "e87fa2cc449dd70ce7de112b09c563a2bd8999f07dcd82d34d5c380118ec21f3"
+      "sha256": "d3a769a10e2c4b03cbf40e965bf1cc87757572a5fb36747e001336fce0ab700d"
     },
     {
       "path": "sitemap-transcripts.xml",
-      "sha256": "de64b1c3c34f97ba2529743fb213a5e9f192256761016e572ae4ce2cf909e265"
+      "sha256": "1c60d799a2ccd4be79dd152c34e05f2377e0e6eaccfc166883a0638bcabc3339"
     },
     {
       "path": "sitemap.xml",
-      "sha256": "b4b78a05cb7889c048b4c5c822ce607caec85c924c10a14bee592992880c6606"
+      "sha256": "282d79671ce51187b76be9af9f3bf02f9934d201d04f034a094f43fcac0824e3"
     },
     {
       "path": "sources/books/dned/work.json",
@@ -196,20 +200,12 @@
       "sha256": "2dc9c2850a782497204e83f4fabb902d5fdbcefa9797ca45ad23f7fc8694e241"
     },
     {
-      "path": "sources/captions/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.html",
-      "sha256": "abcf4297966116a41f3f922d8caa00c2d497591c9e26382c4acfd8cdeb3b0ff4"
-    },
-    {
       "path": "sources/captions/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.md",
       "sha256": "8ed413aaadfdc4830ee9e8f4a1a20a8e0c54519a5acce57a5bb08210f63831e4"
     },
     {
       "path": "sources/captions/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.vtt",
       "sha256": "6417aeac8ee73a0748ba6e286b70b424d95a700b2f5f74cc238bb13c0a8e5340"
-    },
-    {
-      "path": "sources/captions/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.html",
-      "sha256": "b739f8346dc6f2efc19abb8875e44985325bed32ba92ccebec69231e75346ec6"
     },
     {
       "path": "sources/captions/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.md",
@@ -220,20 +216,12 @@
       "sha256": "0ff979e2b3c91ffdf5c1a5e9281457d3b02537073a9cd0ba2ddcc584eb3e1cb5"
     },
     {
-      "path": "sources/captions/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.html",
-      "sha256": "09d92ad761a1409a26c1c63e6929409f5799bf0c4f7ff7a99054e8c319f22507"
-    },
-    {
       "path": "sources/captions/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.md",
       "sha256": "9f9ef2cfc1849702aab018475c7e96ebf3f059fb874021cd8320fa97ea99a327"
     },
     {
       "path": "sources/captions/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.vtt",
       "sha256": "e9d2638e3093cd494443fc289db9e46d270d09f94ddb1dda4b7f7855e35c03dd"
-    },
-    {
-      "path": "sources/captions/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.html",
-      "sha256": "5cf3b35a0e5da921c493c5cf6764d37c7cd9d9ce549c0a48bd6f0a1140bf184e"
     },
     {
       "path": "sources/captions/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.md",
@@ -244,20 +232,12 @@
       "sha256": "97cd1b46becd4f4028eef2d3a85b823ef49654e87575d3ced0557eb091b94093"
     },
     {
-      "path": "sources/captions/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.html",
-      "sha256": "d133d7be680405e7afe95fe2e3e303f8d4adebc0da4c2ca6e923e8d0d4b51201"
-    },
-    {
       "path": "sources/captions/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.md",
       "sha256": "cf9c9a33c7cb1de5f22e6185a61fa77083f39a6b4255f733763b5d41cfab3c08"
     },
     {
       "path": "sources/captions/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.vtt",
       "sha256": "cddd1bafb07d163e3d23230511490825ae2c93bc57884fd8aea7ff0911067a43"
-    },
-    {
-      "path": "sources/captions/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.html",
-      "sha256": "07bb1a0626253218bf70aa5647379db9db71633be72939e62a02fdd88db9fd7e"
     },
     {
       "path": "sources/captions/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.md",
@@ -276,10 +256,6 @@
       "sha256": "49a0c32ba2a64b3cbf4b664d48d3f5398f2a1ae7112b4349fa88c1f48bdfc8b8"
     },
     {
-      "path": "sources/captions/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.html",
-      "sha256": "f254a226588ab74fb17062f91515fa935bb53d8f97c67519f7b1d8091c95f3b3"
-    },
-    {
       "path": "sources/captions/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.md",
       "sha256": "18600bd6066be5060491377ca32e85234ee50deeacca63889f2db56d5f8fd70f"
     },
@@ -288,20 +264,12 @@
       "sha256": "49a0c32ba2a64b3cbf4b664d48d3f5398f2a1ae7112b4349fa88c1f48bdfc8b8"
     },
     {
-      "path": "sources/captions/2019-08-30-scientific-evidence-for-reincarnation.html",
-      "sha256": "c4b67ff2a53803b0e5ceeb86095ad619fc0f3a07ba0b9525cb738d3d9c4c8668"
-    },
-    {
       "path": "sources/captions/2019-08-30-scientific-evidence-for-reincarnation.md",
       "sha256": "2d67d7966615a42dfce3fcb5cab12179adca0999c818e1588d462575a6085562"
     },
     {
       "path": "sources/captions/2019-08-30-scientific-evidence-for-reincarnation.vtt",
       "sha256": "23486e802f4243d97f21e584b27428938d4d8d0e0a8a2ca7ac3829f4856050f2"
-    },
-    {
-      "path": "sources/captions/2019-09-26-mapping-of-transcendence.html",
-      "sha256": "0d85dfb3aa3ca0537dca798175fb32225456c8ca179e1a2c08d4d3898a4ee4f6"
     },
     {
       "path": "sources/captions/2019-09-26-mapping-of-transcendence.md",
@@ -324,10 +292,6 @@
       "sha256": "cd9b7d622d08798bd4b2d8fcbcf29fc0770e837a42ee1363d345d4e5059d8e9b"
     },
     {
-      "path": "sources/captions/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.html",
-      "sha256": "6ee92fd6528d97aa1e9ae45409bfd10d2c13924f6a8dd5372d6c7c223e63d0dc"
-    },
-    {
       "path": "sources/captions/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md",
       "sha256": "5ff00694623084d7a542eb6ba27200874eb090c63df86ea7d8da61d238b84e1f"
     },
@@ -344,20 +308,12 @@
       "sha256": "8c980bdc02a37ae41e860aadf43a6f775e15e93147fd4a22594335db72ee63f2"
     },
     {
-      "path": "sources/captions/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.html",
-      "sha256": "e688d1e8159eedd8e530fae487012bdee88759e0f3c1f9ca1c0ab8e6369a6d40"
-    },
-    {
       "path": "sources/captions/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md",
       "sha256": "ae07246e1bd07f0d2a2c3586bbb6fb7f54a2adc60df7904c6b55c030a4a5dd58"
     },
     {
       "path": "sources/captions/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.vtt",
       "sha256": "a8c07898f4596cc62a8ce55f38e8efe2f9347fa47adce3aa382c17d633228e6e"
-    },
-    {
-      "path": "sources/captions/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.html",
-      "sha256": "5db30aacd854dfa44eb5831597947e4ecda3a64f02925aa2adbc3e1c9de38d00"
     },
     {
       "path": "sources/captions/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.md",
@@ -376,10 +332,6 @@
       "sha256": "3ab5125be06822b9dab9d1d2ddabdd3a990b58c99040377bb16748fb8e5081e5"
     },
     {
-      "path": "sources/captions/2020-04-19-bicycle-day-conversation-with-jef-baker.html",
-      "sha256": "87f54b6ec4360f86fc2158ed576289341423a7d9f2019a2d15b2691d5686f8f8"
-    },
-    {
       "path": "sources/captions/2020-04-19-bicycle-day-conversation-with-jef-baker.md",
       "sha256": "55cd1f88ea77f3f7c4904daded49c14b3a53f18bcd6dabc34123635dc5dc13a3"
     },
@@ -388,20 +340,12 @@
       "sha256": "0f9bce60fd746cb5a80babd15d3f56dbd5e0e4422f88e19e54e82d1770d69970"
     },
     {
-      "path": "sources/captions/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.html",
-      "sha256": "93c481b574f6bd3d57838f8acc0ba6238713fc5b7c99542039d415a4a5d4edbd"
-    },
-    {
       "path": "sources/captions/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.md",
       "sha256": "00eded37f1d46390af06e51a5402d9bfa9ea6400b6c0f0500127498c71f7ec5d"
     },
     {
       "path": "sources/captions/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.vtt",
       "sha256": "1edea8ebe300e917716cb17390f2fb111ab4a8c4a62e286914bfee6feb7c9fbc"
-    },
-    {
-      "path": "sources/captions/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.html",
-      "sha256": "aec90c179cde24ad0775a8c8a3bd8c6414c9f152ca407f76b9b7e9e58faca9e8"
     },
     {
       "path": "sources/captions/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.md",
@@ -414,10 +358,6 @@
     {
       "path": "sources/captions/2020-12-03-what-73-high-dose-lsd-sessions-teach-you-about-the-mind-of-the-universe-w-christopher-m-bache-ep11.vtt",
       "sha256": "8b69097d8784ff698e36939870dff5a70e62af3e47a360436a7b419657b1fa4e"
-    },
-    {
-      "path": "sources/captions/2020-12-21-great-conjunction-reflection-short.html",
-      "sha256": "b5137d5baed805a1e5e6f0b71125a43b38ee8efe28c33bf43c37663268ca913d"
     },
     {
       "path": "sources/captions/2020-12-21-great-conjunction-reflection-short.md",
@@ -436,10 +376,6 @@
       "sha256": "b2a94cc9490fdb90b4b1638701fac658c53e843036a0a0daa5651974001dae82"
     },
     {
-      "path": "sources/captions/2021-03-16-contemplating-reincarnation-part-2.html",
-      "sha256": "9c4542627263f17813937c4f6a76cf377382fa1d4232a995ef75d7161d336cca"
-    },
-    {
       "path": "sources/captions/2021-03-16-contemplating-reincarnation-part-2.md",
       "sha256": "982d5a67f9134847f4e8c7bb5588b40095296d180728bf1b260e7aaf4535a432"
     },
@@ -448,16 +384,8 @@
       "sha256": "a738c72e9dd61b571cc484201e6304bd154c854690a7668849deeac784a7aa08"
     },
     {
-      "path": "sources/captions/2021-03-16-contemplating-reincarnation-part-3.html",
-      "sha256": "10973f56a4c4c2c497ccb0aae69ed1acd88878e61024415acb148dd2a263cd64"
-    },
-    {
       "path": "sources/captions/2021-03-16-contemplating-reincarnation-part-3.md",
       "sha256": "1274624477009a10c4a920b9fdf9b00cf7ffa69a2a44f2132a597e2eb4329628"
-    },
-    {
-      "path": "sources/captions/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.html",
-      "sha256": "4db1320564a4550fa047fe4a035c8f6c7061da037c022ccb12845a73e4b2c69f"
     },
     {
       "path": "sources/captions/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.md",
@@ -472,16 +400,8 @@
       "sha256": "683bd0c6526ff94c67928b489e8552ceb5434d0856fdcaefedc8da4d90348195"
     },
     {
-      "path": "sources/captions/2021-04-01-contemplating-reincarnation-part-1.html",
-      "sha256": "ad8c1e405ef445969a8a6be44c9a875f1335c338d8fe3318e80ad91463140679"
-    },
-    {
       "path": "sources/captions/2021-04-01-contemplating-reincarnation-part-1.md",
       "sha256": "e7157ea86ef9a8b76b61bd664054fbcfa04e35adbc27f43dbb881d85554febe4"
-    },
-    {
-      "path": "sources/captions/2021-04-02-reincarnation-qanda-live-with-richard-rudd.html",
-      "sha256": "75cfb49d924d918b3f72ca340ce57dbcedfb1306add1ef3505b4b640a87d1ee7"
     },
     {
       "path": "sources/captions/2021-04-02-reincarnation-qanda-live-with-richard-rudd.md",
@@ -492,20 +412,12 @@
       "sha256": "6cb04cd7ecd2e33027c75a36b271770ad1e49fb53e3b5ee1772d3429ddc7bb89"
     },
     {
-      "path": "sources/captions/2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142.html",
-      "sha256": "33a585813c3f1a34af531a904dc728216ac3210e0dc27b12517cc39f0d5af0d0"
-    },
-    {
       "path": "sources/captions/2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142.md",
       "sha256": "8c94b1f3f5e85e37704d0c1e6ae36f41acaf8e7d068df83aa493dd471f0ae543"
     },
     {
       "path": "sources/captions/2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142.vtt",
       "sha256": "4ca382f3904331de311ee58a4170d7ab91a9c7bfe70bd04b16e4155bd5a46dea"
-    },
-    {
-      "path": "sources/captions/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.html",
-      "sha256": "333cac924001fd7cc27089c55502ca60b2012dcf3962cb380712da0a5290b31d"
     },
     {
       "path": "sources/captions/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.md",
@@ -516,20 +428,12 @@
       "sha256": "11eb775a6c473e6f664ee1c6a7cc85f9b9255bb64a0b22e1e98dadf0f8b69311"
     },
     {
-      "path": "sources/captions/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.html",
-      "sha256": "fc2d9093bb585c51d5bad2dba4ffebee604a465deb69664e98eb4b490aa6e9ff"
-    },
-    {
       "path": "sources/captions/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.md",
       "sha256": "8b029d946e60122b3e06c1117a18d97f913913b932bc5a54f40dfcffdcf7e559"
     },
     {
       "path": "sources/captions/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.vtt",
       "sha256": "4c3b68df21a517eb52b7e7bc2d363bdc9af09af9e2229ead8afbbcdf4c8af2a6"
-    },
-    {
-      "path": "sources/captions/2021-07-08-mind-blowing-lsd-secrets-revealed-rebel-spirit-radio.html",
-      "sha256": "4eb2993b8a236d1b420edfa941d034291cd5b10ec0e12ffe078c8a6fefc4ddf5"
     },
     {
       "path": "sources/captions/2021-07-08-mind-blowing-lsd-secrets-revealed-rebel-spirit-radio.md",
@@ -544,20 +448,12 @@
       "sha256": "14dde7ffca20f1e917fd013d046ad4e35db6f5e27e68461ff9ce1770edcddec3"
     },
     {
-      "path": "sources/captions/2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.html",
-      "sha256": "a266724f31544ee4b3908a5e0e9eb27c7bd291ad01084873282ba889b29fe989"
-    },
-    {
       "path": "sources/captions/2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.md",
       "sha256": "790395f733412fdc1114e7d12f9551d6fbb40f453f2655912bf34d76a3fd1158"
     },
     {
       "path": "sources/captions/2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.vtt",
       "sha256": "a6882fed048d6f5377b8774fd009f254a77e28692bd90b6989d76bc9b2874a1b"
-    },
-    {
-      "path": "sources/captions/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.html",
-      "sha256": "94713c59bdb6cbd2a601f032cb5965e1c1dcae4aa383d73ff271d29364d2d02a"
     },
     {
       "path": "sources/captions/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.md",
@@ -568,20 +464,12 @@
       "sha256": "9071b8dad22d43b4e77a40f195a020d69ce655a543ddd78d3017d9c4619dbec6"
     },
     {
-      "path": "sources/captions/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.html",
-      "sha256": "e6d51a4c27a8855a0c3c8e948b23a7e6199b996f2a41b8470ff8c27fc9d49a5c"
-    },
-    {
       "path": "sources/captions/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.md",
       "sha256": "d8d5bf71f3044e453e4d123665b752d115bf66e496d4e8eed59b8daf82145e06"
     },
     {
       "path": "sources/captions/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.vtt",
       "sha256": "6aee4a8df2ea3fd6001aec7067b5d49d44431294e40aaf7cce6a40679bdb43b6"
-    },
-    {
-      "path": "sources/captions/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.html",
-      "sha256": "a991df2181031c4794308aa7f4ab100643ce012f71fedcc85f29787f55c07ebf"
     },
     {
       "path": "sources/captions/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.md",
@@ -592,10 +480,6 @@
       "sha256": "e1f5ddc211c8e6ee4b7f0d97ef90d53d88eebf71cd800bb47a9270f0f7f1ae17"
     },
     {
-      "path": "sources/captions/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.html",
-      "sha256": "ac9c9e77477f97e5bb5820cf64599e78bc66813bb2af0428cb12119079348bbb"
-    },
-    {
       "path": "sources/captions/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.md",
       "sha256": "b20ee7beaf56991b85d793f5cb3bfdbd1db7eea52c6cc9599724f175395ca5a8"
     },
@@ -604,20 +488,12 @@
       "sha256": "daf7760dee24610ec9b39f5d629929abdeb26a5d64d8a3fb9d410fc79b1d7633"
     },
     {
-      "path": "sources/captions/2022-04-26-when-we-die-ions-living-classroom-excerpt.html",
-      "sha256": "ce817cc3b2b03ff65f452e3daabf9f830e3ddffff23e6db26f07e58383900d37"
-    },
-    {
       "path": "sources/captions/2022-04-26-when-we-die-ions-living-classroom-excerpt.md",
       "sha256": "e1e7e7745b2dec478313521a099bc9ef5ba7808dca72c7c2ed0418af93e76c54"
     },
     {
       "path": "sources/captions/2022-04-26-when-we-die-ions-living-classroom-excerpt.vtt",
       "sha256": "acd0de3c9512f6e35d314aa5c48e72b30c1dc1df332d233120c9ebc23626c5d2"
-    },
-    {
-      "path": "sources/captions/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.html",
-      "sha256": "1d83c13b778943f1f1e0e13e614233e8a2a7d15e9043eb3016a77c35008de324"
     },
     {
       "path": "sources/captions/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.md",
@@ -632,20 +508,12 @@
       "sha256": "33db422f22f2d4403f5e8922bc6456fe74ef321e9e565380d3eea09df6dc2eb9"
     },
     {
-      "path": "sources/captions/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.html",
-      "sha256": "84e2b3557744f839170c060b8ed093d82851e17b0c64bcd0022c66882c046230"
-    },
-    {
       "path": "sources/captions/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.md",
       "sha256": "50b68d5cdeb868b3d979fcec14f39d5c691512860a0901fb8784de42a7c6c0c8"
     },
     {
       "path": "sources/captions/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.vtt",
       "sha256": "f05650f8167d73a9257b204c41a68ac1325ab5afa2bd6c22b5f3b7a872c63a70"
-    },
-    {
-      "path": "sources/captions/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.html",
-      "sha256": "4ebc31e492ec8ccc583f8e9024307915026265fb34a4a5c830ebd30d1bd11533"
     },
     {
       "path": "sources/captions/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.md",
@@ -656,20 +524,12 @@
       "sha256": "cdedb56e494236da466267f7e48977cf3c92d9e8e3df0c4c8138b2a9e04fd572"
     },
     {
-      "path": "sources/captions/2023-01-05-exploring-lsd-and-the-mind-of-the-universe.html",
-      "sha256": "29ffdc322b1b05ca76b62a7a665eff210ca02a1674f7860dc8bfe5158f79cbc9"
-    },
-    {
       "path": "sources/captions/2023-01-05-exploring-lsd-and-the-mind-of-the-universe.md",
       "sha256": "6336826f36a1d358638d4b695d4de4ff01c8e31e2c3919577a3665668d76c94f"
     },
     {
       "path": "sources/captions/2023-01-05-exploring-lsd-and-the-mind-of-the-universe.vtt",
       "sha256": "0fe3cc9b5fa63f3319e259fc2605a28fa6636de8792968585231673fa6714126"
-    },
-    {
-      "path": "sources/captions/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.html",
-      "sha256": "98591dddca4d946c7878703b7466bbe54131497078c4cd00eea5e5210ad69714"
     },
     {
       "path": "sources/captions/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.md",
@@ -680,10 +540,6 @@
       "sha256": "17b34ad55097808d28fed17774e4cde12d6760f1f6524bbf4ab6425456af9043"
     },
     {
-      "path": "sources/captions/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.html",
-      "sha256": "38303f6401ccc5ac2985c7947e64092816d2c408125d46aff0dd2b5cbd677919"
-    },
-    {
       "path": "sources/captions/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.md",
       "sha256": "eced5a8350bb12f185cf1b8d498d8d145e4e2b45cf3b52c4c8fcef02882559bf"
     },
@@ -692,20 +548,12 @@
       "sha256": "646ad4f2bad47261fb8f6a252031b7c98fbba9acf8e68e551aded557b67b30bb"
     },
     {
-      "path": "sources/captions/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.html",
-      "sha256": "3db4a0ecaeda0150589c67634abfc899833bdd25f73fb23fcf3d264ae303360d"
-    },
-    {
       "path": "sources/captions/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.md",
       "sha256": "07a580727f3a23193024c825dce5d11caebd93e4895cf4168d11d6fb5a958397"
     },
     {
       "path": "sources/captions/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.vtt",
       "sha256": "edefc2362ad8db84e54c6750f544f38829b05a782aed2d36b80fca2ed8586192"
-    },
-    {
-      "path": "sources/captions/2023-02-01-children-who-remember-past-lives-chris-bache.html",
-      "sha256": "365f042423f36c524d7ff924525d86166ff08ae1797026cb63c6c43f008c0258"
     },
     {
       "path": "sources/captions/2023-02-01-children-who-remember-past-lives-chris-bache.md",
@@ -720,20 +568,12 @@
       "sha256": "214b3e647767fffb48d3b8632e04213010c8863c3b70774a9d7fa1d82ec64ec1"
     },
     {
-      "path": "sources/captions/2023-03-16-collective-shadow-work-and-turning-toward-our-pain.html",
-      "sha256": "43e179812ac574f72fc2234c4a9fc6caaf5275a8539b41beeea728ea6edbf365"
-    },
-    {
       "path": "sources/captions/2023-03-16-collective-shadow-work-and-turning-toward-our-pain.md",
       "sha256": "bd1b354059a2630c0d7345703f84e5bcffccdabf4ccb690af8e4480c35949c92"
     },
     {
       "path": "sources/captions/2023-03-16-collective-shadow-work-and-turning-toward-our-pain.vtt",
       "sha256": "2f55811af413656273563be9b33dc2fedbeb947f51ee74cf3ae02be12e5eb74f"
-    },
-    {
-      "path": "sources/captions/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.html",
-      "sha256": "4d8129af8dbfc6a1e1dab36f61de776b86dd58c2f970f8ef95de80ddf701abe0"
     },
     {
       "path": "sources/captions/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.md",
@@ -744,10 +584,6 @@
       "sha256": "02a32ca4d27382c5be2336d08849887c1046c33d14802c177955a7a679b4b2c3"
     },
     {
-      "path": "sources/captions/2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth.html",
-      "sha256": "488bcc49b0c729d33bb02bb30f88d9ddbfc301475c2b141b4b82234081b83e20"
-    },
-    {
       "path": "sources/captions/2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth.md",
       "sha256": "53fcfe208c525e551b173e75c90d48d8b3e018d5faec4ad9267f61ce1ce746c5"
     },
@@ -756,16 +592,8 @@
       "sha256": "84554a30b3f64dd4a59006a344eebf421d8888161ecf67d9cb33e0319659c376"
     },
     {
-      "path": "sources/captions/2023-06-30-learning-to-be-gods.html",
-      "sha256": "f0158a06cf837e523a83fa4ccc4a3998714fec25c808d8056b49fe8934efe3a6"
-    },
-    {
       "path": "sources/captions/2023-06-30-learning-to-be-gods.md",
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-    },
-    {
-      "path": "sources/captions/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.html",
-      "sha256": "3ea89f146e62ed885686f9fb988d4c9154cb9ffbf6f3bdb5cd3e29cfdead06c6"
     },
     {
       "path": "sources/captions/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.md",
@@ -774,10 +602,6 @@
     {
       "path": "sources/captions/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.vtt",
       "sha256": "26f6f21fcb465535ce8f927559f45b507a8e11de6e28b7b52f15db8943520e1f"
-    },
-    {
-      "path": "sources/captions/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.html",
-      "sha256": "808ced9bb734eb35bd0e568c423cf75a45939d504f74f1e446452a8caf3d6eb9"
     },
     {
       "path": "sources/captions/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.md",
@@ -792,10 +616,6 @@
       "sha256": "86a4e988cbb208e9fd17fe4881613cb8210bf2abedd9e689dac415b7395c88aa"
     },
     {
-      "path": "sources/captions/2023-10-10-experience-of-the-human-being-of-the-future-short.html",
-      "sha256": "e638ffb901f7218e97f64ca04fc239a75d36a3c44fea2bfa45d34078ac4d1352"
-    },
-    {
       "path": "sources/captions/2023-10-10-experience-of-the-human-being-of-the-future-short.md",
       "sha256": "8aa2a7deba0405ad1413321576858543752629b76ec47e97c46023edb855854e"
     },
@@ -804,20 +624,12 @@
       "sha256": "ec22527fcef0dd40659756d9da2a7724bcb619ef984776ee3137083a6d44a365"
     },
     {
-      "path": "sources/captions/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.html",
-      "sha256": "0c6c760038747f798c26d8106762948a828748e3d2fc72c65783dd379c82bad2"
-    },
-    {
       "path": "sources/captions/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.md",
       "sha256": "18cc107d91359408b691cca7cd7662af5d199d8e5f1d9ec0b744e2312dbdefc2"
     },
     {
       "path": "sources/captions/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.vtt",
       "sha256": "37e7e420b6f9b3d2496c9d4c0f9571e37f0a8aad83c3dd556c65c0e95e864fd1"
-    },
-    {
-      "path": "sources/captions/2023-11-05-diamonds-from-heaven-the-mind-of-the-universe-chris-bache.html",
-      "sha256": "1300847ed615d15dd67a3b0987f9745d6acb6e90b5c0ec707874bc163de729d8"
     },
     {
       "path": "sources/captions/2023-11-05-diamonds-from-heaven-the-mind-of-the-universe-chris-bache.md",
@@ -832,20 +644,12 @@
       "sha256": "99cea46f39ace67d50f02496d40c73cfdc3a833ac6211274d3d5942218fa78b8"
     },
     {
-      "path": "sources/captions/2023-11-06-73-trips-inside-the-psychedelic-universe.html",
-      "sha256": "0f21a891667598addebdc1e46ec9b803c0dd4fdc12c5f449f61bf53b2f7db0be"
-    },
-    {
       "path": "sources/captions/2023-11-06-73-trips-inside-the-psychedelic-universe.md",
       "sha256": "40e411d71c9b900030bfe73b11a51d0b673dd6ed6f9cd04de452652e218db59d"
     },
     {
       "path": "sources/captions/2023-11-06-73-trips-inside-the-psychedelic-universe.vtt",
       "sha256": "4787bf2e4bae7cfd59bb24eedd8077255e96caaaf94a6cfff68d1869681f4166"
-    },
-    {
-      "path": "sources/captions/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.html",
-      "sha256": "e3bae79bf9d84f0e3ae5be466b6b44ac60dd0cd5a35775a628a9040531c7dc50"
     },
     {
       "path": "sources/captions/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.md",
@@ -860,20 +664,12 @@
       "sha256": "9f1627240829fe8134eec4ce1066ea2c70cf116fd73f0309bb448e45d078bddf"
     },
     {
-      "path": "sources/captions/2024-02-10-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-sdi-meeting.html",
-      "sha256": "ff35925dc37abfe6db2877700f88295bc973a0ad05621c31331003959135c703"
-    },
-    {
       "path": "sources/captions/2024-02-10-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-sdi-meeting.md",
       "sha256": "35679ee6fb0b10249d64387394ac8d3aeaab11c238f3a07c46b7ad3b8edaac91"
     },
     {
       "path": "sources/captions/2024-02-10-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-sdi-meeting.vtt",
       "sha256": "2183b504842efe5b2eb15bad1901dadd65a93d0b999c16e8d011a49fc6df44b6"
-    },
-    {
-      "path": "sources/captions/2024-06-30-lsd-and-the-mind-of-the-universe-full-interview-in-reality.html",
-      "sha256": "54fdca5dbe9f66b8a8fbc2b597da976dfe82c7a41db4ac617c6e9353fa83d21c"
     },
     {
       "path": "sources/captions/2024-06-30-lsd-and-the-mind-of-the-universe-full-interview-in-reality.md",
@@ -884,20 +680,12 @@
       "sha256": "94641aac40f14bd513b085460709b668093b0172ea5de6c1cd70d887f9a80c99"
     },
     {
-      "path": "sources/captions/2024-09-24-philosophical-implications-of-non-ordinary-states-live.html",
-      "sha256": "8609973ceb33645979274d3db6a5eeff1e849c4939dcad36f98b599e4a997c69"
-    },
-    {
       "path": "sources/captions/2024-09-24-philosophical-implications-of-non-ordinary-states-live.md",
       "sha256": "92fcc9f3a569876c62dd80f87a529aaa67ada07e6dc159864ef343f2ba0d9d66"
     },
     {
       "path": "sources/captions/2024-09-24-philosophical-implications-of-non-ordinary-states-live.vtt",
       "sha256": "3a0232bdc2959efa675d443f596d5d59238a5dd71c3cb021218d9d9ae77a8d49"
-    },
-    {
-      "path": "sources/captions/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.html",
-      "sha256": "023732a32384c81f1f406316616e7dedebfe7b04552201818656fede0031a8bc"
     },
     {
       "path": "sources/captions/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.md",
@@ -908,10 +696,6 @@
       "sha256": "8280b1745f59fbf0879de67be0fb3d521851f38f7667862134ea804678e11956"
     },
     {
-      "path": "sources/captions/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.html",
-      "sha256": "b91a1ef9317139f1da3bfb20de399508121480515d7ca15d833495ab15201fa7"
-    },
-    {
       "path": "sources/captions/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.md",
       "sha256": "f21b8d3450dafbc53a52fb087601cde002f77a3b971d7bbdafa6c0ed43bb7ff9"
     },
@@ -920,20 +704,12 @@
       "sha256": "3064501daf45f62c05b3dfc08bac1db180dc1e2e14b6325244aacf8e5115c6f1"
     },
     {
-      "path": "sources/captions/2024-11-16-the-evidence-for-reincarnation.html",
-      "sha256": "d501ec22d1e5f51502b29be915934b3b7a39c9ffd03cc8cbea2915581453a5d3"
-    },
-    {
       "path": "sources/captions/2024-11-16-the-evidence-for-reincarnation.md",
       "sha256": "6377edf5dd6aa2accc7782827106e7e2db3768b87b455756f1e3c560aecd4123"
     },
     {
       "path": "sources/captions/2024-11-16-the-evidence-for-reincarnation.vtt",
       "sha256": "a61da0be5c1baf41d04daf1c628ad498c311769974d0c3b319f18fa93c314b82"
-    },
-    {
-      "path": "sources/captions/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.html",
-      "sha256": "a3c8f59c6e296fa5295bb3a0779f9e89b3a13a4beb1ea4e8f1ce6e37510489bc"
     },
     {
       "path": "sources/captions/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.md",
@@ -948,20 +724,12 @@
       "sha256": "f33dab3299d1c5d5b0786cd379c0bbc002b286987655e6dd099e7d8129bffff7"
     },
     {
-      "path": "sources/captions/2025-03-18-psychedelics-and-the-cosmic-mind.html",
-      "sha256": "e5bcfb8d38a8dcdb7a3e8fd8615e218d0efdccb2f2d068970bbd3d576f323115"
-    },
-    {
       "path": "sources/captions/2025-03-18-psychedelics-and-the-cosmic-mind.md",
       "sha256": "05dd315ecec2d1ae918881a60b8897f49a213d1fa1abcc7e4265c9fc2d3aedcf"
     },
     {
       "path": "sources/captions/2025-03-18-psychedelics-and-the-cosmic-mind.vtt",
       "sha256": "88a78a51147ec0aa7a3a72af01dbdc42ee703fa28b4de7b1079242cc8751b5f1"
-    },
-    {
-      "path": "sources/captions/2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine.html",
-      "sha256": "e9ffea62d7999b5de13411133c7e352fd75945d410b8146a061ab338121f899e"
     },
     {
       "path": "sources/captions/2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine.md",
@@ -972,10 +740,6 @@
       "sha256": "7b685320b7f74d36fd63b99a7ecbf66534bab5136ccb0d9a09eb5a0ee3c784c8"
     },
     {
-      "path": "sources/captions/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.html",
-      "sha256": "897647e929fd3079e2b705d6d56ae91da4b0989dbd7efd6f82cb34d538e76127"
-    },
-    {
       "path": "sources/captions/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.md",
       "sha256": "a445f0542daee1834a2759d11c76d7f9dedb9d951286b11f3948eb2326f5e98d"
     },
@@ -984,20 +748,12 @@
       "sha256": "05ad34b5ec2cd5b512ff2c1b50a4e231af997aa4ddc4239ba89f4aea76c3bd25"
     },
     {
-      "path": "sources/captions/2025-05-18-diamond-luminosity-live-stream.html",
-      "sha256": "c9c6688800475e90d6ba4482e3a97ac0bf534a7808dc0c8067c5af0413201ff0"
-    },
-    {
       "path": "sources/captions/2025-05-18-diamond-luminosity-live-stream.md",
       "sha256": "86a00401bf78152bb0cc26dddb3d32afe3e0af68bf609c6b3c4978b11374191c"
     },
     {
       "path": "sources/captions/2025-05-18-diamond-luminosity-live-stream.vtt",
       "sha256": "f6d053ce6a1524f1999034505a03717d54a743c511917268588337f6826ce8b8"
-    },
-    {
-      "path": "sources/captions/2025-07-16-consciousness-psychedelics-and-collective-evolution.html",
-      "sha256": "4c647f3cffa0014111383f9a4a20f316b99ebe961ad7dcf8ea78c3eed9081bca"
     },
     {
       "path": "sources/captions/2025-07-16-consciousness-psychedelics-and-collective-evolution.md",
@@ -1026,6 +782,70 @@
     {
       "path": "sources/captions/_captions_missing.json",
       "sha256": "4e211bfce912308a81eabae409ed28bab12759daaa3b3968d645d393bd57be66"
+    },
+    {
+      "path": "sources/diarist/2009-03-07-the-individual-and-matrix-consciousness-pt-1.srt",
+      "sha256": "62f2d153c436f25ccc9ccbe61d9e23ceb3a591786bd05d26eb93123492556cf2"
+    },
+    {
+      "path": "sources/diarist/2009-03-07-the-individual-and-matrix-consciousness-pt-1.txt",
+      "sha256": "bc4e679ae5f3cbd051f28fe9b256f5b71d891d3385a0f6ff237e450d4f68ba89"
+    },
+    {
+      "path": "sources/diarist/2009-03-07-the-individual-and-matrix-consciousness-pt-2.srt",
+      "sha256": "8776ca524ab9acd4a0b27bf97e88715e007d52e8e5fb1917be2c540d2a4aee87"
+    },
+    {
+      "path": "sources/diarist/2009-03-07-the-individual-and-matrix-consciousness-pt-2.txt",
+      "sha256": "28554cd9cc75136d98f4ddc2ec137c4e6629af8957e8d594614044f3358febff"
+    },
+    {
+      "path": "sources/diarist/2013-08-27-skyblue-symposia-pt-1.srt",
+      "sha256": "14b03aa5da809cdfc3bdb97cc01fac153ad0e6e05dd52bd98e2c59a88aaebca9"
+    },
+    {
+      "path": "sources/diarist/2013-08-27-skyblue-symposia-pt-1.txt",
+      "sha256": "b0e4703afba76ae8840c0383b428c254e623f8b645b2ae0633d2921078408b37"
+    },
+    {
+      "path": "sources/diarist/2013-08-28-skyblue-symposia-pt-2.srt",
+      "sha256": "a0737f29456b044d29f1b53716959c156bcfe6c5e7fdf881a5abfa458b51d368"
+    },
+    {
+      "path": "sources/diarist/2013-08-28-skyblue-symposia-pt-2.txt",
+      "sha256": "5f088597204c6009d0894ef64a650323765a5dcdad1414ee72f8dc82762b1cdf"
+    },
+    {
+      "path": "sources/diarist/2013-11-17-no-fear-of-death-part-1-unity-myrtle-beach.srt",
+      "sha256": "90422684a687240d96f5b6458b382fce5029cc4c8107ba5cf2e5cfc532c212a6"
+    },
+    {
+      "path": "sources/diarist/2013-11-17-no-fear-of-death-part-1-unity-myrtle-beach.txt",
+      "sha256": "ca39c8e2ef99557a676f860c4432eafd9e63a929d57887a0cc760945f5590836"
+    },
+    {
+      "path": "sources/diarist/2013-11-17-no-fear-of-death-part-2-unity-myrtle-beach.srt",
+      "sha256": "d287c4991ff351e9ab830b8f99f4a36c951919f1dbb0e72c6ab3e793f09577bc"
+    },
+    {
+      "path": "sources/diarist/2013-11-17-no-fear-of-death-part-2-unity-myrtle-beach.txt",
+      "sha256": "4e6a246ba390ebf59320706d83f288f51e7e045ef4e2e169c78a34d27bb7e790"
+    },
+    {
+      "path": "sources/diarist/2013-11-17-no-fear-of-death-part-3-unity-myrtle-beach.srt",
+      "sha256": "7755ae8771f78e56efa990c1e557230b96cf12e2b7b78d7f444cd053cc49f23b"
+    },
+    {
+      "path": "sources/diarist/2013-11-17-no-fear-of-death-part-3-unity-myrtle-beach.txt",
+      "sha256": "5950e110c98ec25e3cc7bc8224594edba8f18d2196707d9a5664498fe7fbda37"
+    },
+    {
+      "path": "sources/diarist/2013-11-18-sunday-service-with-guest-speaker-chris-bache-unity-myrtle-beach.srt",
+      "sha256": "2dfaf7f2663704259581b39742ff787d6fecead7012fb499129aa743df69b3fe"
+    },
+    {
+      "path": "sources/diarist/2013-11-18-sunday-service-with-guest-speaker-chris-bache-unity-myrtle-beach.txt",
+      "sha256": "65647ad72b3cbdef5734cc20412a9d3a97adeff5ea8085ba16115da4f09c8a22"
     },
     {
       "path": "sources/diarist/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.srt",
@@ -1076,6 +896,14 @@
       "sha256": "7df17a563d3c83dcc79d5b8ac194851a42600fa50d39a7226552842f56a858c1"
     },
     {
+      "path": "sources/diarist/2019-02-26-chris-bache-pre-spmc-2018-interview.srt",
+      "sha256": "97c4f489086810bf316628f30d36b8a3cf9a180e5fbdd9609ff0f356cf2cb6ed"
+    },
+    {
+      "path": "sources/diarist/2019-02-26-chris-bache-pre-spmc-2018-interview.txt",
+      "sha256": "5fdd572f8f02e5bcdeff6d5529ea4b168845bde0cfd4b455553ddd0e9e71f0e8"
+    },
+    {
       "path": "sources/diarist/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.srt",
       "sha256": "9d1548e4f62c35137864c42f57ae5cefcbb1db095571e59655508548b333b5c4"
     },
@@ -1100,12 +928,44 @@
       "sha256": "613998bcc52271938c44bdff56f83b8c0b4952fe4e13e0146b2a9ec9f0a0b83a"
     },
     {
+      "path": "sources/diarist/2019-10-18-the-human-experience-live-show-022-dr-chris-bache-lsd-and-the-mind-of-the-universe.srt",
+      "sha256": "2de14cf625c7014e05f160ecf339b17b7d7c986c6105979a552aee7e97f36b29"
+    },
+    {
+      "path": "sources/diarist/2019-10-18-the-human-experience-live-show-022-dr-chris-bache-lsd-and-the-mind-of-the-universe.txt",
+      "sha256": "3b0140a612d255f6c5f3742c77def0ab3c80c872c343f211276d58aa0936c1aa"
+    },
+    {
+      "path": "sources/diarist/2019-10-22-an-interview-with-chris-bache-lsd-and-the-universe.srt",
+      "sha256": "920e94d5b522ce8d876eadc946e92bf7c9fdc2bec4a3a8d7b19f1a1e4eda5138"
+    },
+    {
+      "path": "sources/diarist/2019-10-22-an-interview-with-chris-bache-lsd-and-the-universe.txt",
+      "sha256": "da850b51f6c008c63ae2e5bc3254a80b1c73fe34c072d6be0342d560da273fa1"
+    },
+    {
       "path": "sources/diarist/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.srt",
       "sha256": "77daf69f176e288432ce0e10adc3560e09079a506beec4a460682d82db07ef52"
     },
     {
       "path": "sources/diarist/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.txt",
       "sha256": "e9192848ed7d99aef9bf658a7de9fbf0b7279ec62a3c5e0a505b13bb3388af79"
+    },
+    {
+      "path": "sources/diarist/2019-11-18-behind-the-curtain-christopher-m-bache-phd-episode-64.srt",
+      "sha256": "2f0ad0c72171584ad7c45ee94e52367725817cceaa15c50565b4b8cbb322808c"
+    },
+    {
+      "path": "sources/diarist/2019-11-18-behind-the-curtain-christopher-m-bache-phd-episode-64.txt",
+      "sha256": "b05a141d18ce277394f3f3014f1bdd33f4e895c122a988d4d0e93664c09acef2"
+    },
+    {
+      "path": "sources/diarist/2019-11-25-live-with-chris-bache-73-lsd-sessions-journey-through-the-mind-of-the-universe-w-vanese-mc-neill.srt",
+      "sha256": "eb5473e3758090543ce4b7e319136c1fa94c2d359097527cc0c23e3c3b1233fd"
+    },
+    {
+      "path": "sources/diarist/2019-11-25-live-with-chris-bache-73-lsd-sessions-journey-through-the-mind-of-the-universe-w-vanese-mc-neill.txt",
+      "sha256": "ae2c2809e1a864773e230efe1d8c36c2af4654866bded060db7eac3fef30b37c"
     },
     {
       "path": "sources/diarist/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.srt",
@@ -1122,6 +982,22 @@
     {
       "path": "sources/diarist/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.txt",
       "sha256": "1846be171b7e2597aea8ea81757431e80de5cb6833fc8c25122789b2f6cb098c"
+    },
+    {
+      "path": "sources/diarist/2020-01-17-diamond-luminosity-exploring-high-dose-lsd-experiences-with-dr.srt",
+      "sha256": "174b4ef49fe0cd2757a6f2a5e79b790111f6860d18200d7933ed171ba04a4617"
+    },
+    {
+      "path": "sources/diarist/2020-01-17-diamond-luminosity-exploring-high-dose-lsd-experiences-with-dr.txt",
+      "sha256": "035e48da7817b47f6d3d1581ce67c3ee3e5554203c7469b42cf3bb31b15994b5"
+    },
+    {
+      "path": "sources/diarist/2020-03-22-behind-the-curtain-with-christopher-m-bache-phd-episode-64.srt",
+      "sha256": "47f75ee436bd5e8b6d900366c1e570726e4ef6cc4d44ff61160a26d103057496"
+    },
+    {
+      "path": "sources/diarist/2020-03-22-behind-the-curtain-with-christopher-m-bache-phd-episode-64.txt",
+      "sha256": "d70bb72a5122d24cc98073e85a43a243621c031bf31ae9137ae7955d74064038"
     },
     {
       "path": "sources/diarist/2020-04-19-bicycle-day-conversation-with-jef-baker.srt",
@@ -1148,12 +1024,28 @@
       "sha256": "9fc7eeb303fb781e727ab153a7d7a6f2f4a967ae3cdaad4ef5eef9b2272a8df6"
     },
     {
+      "path": "sources/diarist/2020-12-03-what-73-high-dose-lsd-sessions-teach-you-about-the-mind-of-the-universe-w-christopher-m-bache-ep11.srt",
+      "sha256": "42cc363260e566badf2fde9e9981ee5444f410ecd53bc7d9526426efaa211aa5"
+    },
+    {
+      "path": "sources/diarist/2020-12-03-what-73-high-dose-lsd-sessions-teach-you-about-the-mind-of-the-universe-w-christopher-m-bache-ep11.txt",
+      "sha256": "4f98cc789e14bc7952cec7ef0cc788afb3d2bd69906d04081b84cadda57d442a"
+    },
+    {
       "path": "sources/diarist/2020-12-21-great-conjunction-reflection-short.srt",
       "sha256": "a56c1bf41f468454319d18294774bff93eb1d9bd3aebc339824ce20f2a4318a1"
     },
     {
       "path": "sources/diarist/2020-12-21-great-conjunction-reflection-short.txt",
       "sha256": "e7497f110e65d3a8841a14cb44cd4189275b2d72de92708c9fe2d7d26bd28cf7"
+    },
+    {
+      "path": "sources/diarist/2021-01-02-discover-the-mind-of-the-universe-lsd-psychedelic-research-with-professor-christopher-m-bache.srt",
+      "sha256": "886a11af96cac59df0b369cb33a672bd25fa85d26af97c1fdcb7b90009a3a4c6"
+    },
+    {
+      "path": "sources/diarist/2021-01-02-discover-the-mind-of-the-universe-lsd-psychedelic-research-with-professor-christopher-m-bache.txt",
+      "sha256": "fd1d51f50179274b7f1ee7f15de34a17b14182be82c2b283fdb97b4649d80169"
     },
     {
       "path": "sources/diarist/2021-03-16-contemplating-reincarnation-part-2.srt",
@@ -1228,6 +1120,14 @@
       "sha256": "1aa98dc84cc571e21e43a4e10963561f0d69875b20d051a2e9714362ea3a4ff2"
     },
     {
+      "path": "sources/diarist/2021-11-16-transformative-journey-into-the-cosmic-mind-through-psychedelics-with.srt",
+      "sha256": "7dda34f95e712dd809351dd160cac0dd98fb8e887d2459bf4a3fb6f4a286fc1c"
+    },
+    {
+      "path": "sources/diarist/2021-11-16-transformative-journey-into-the-cosmic-mind-through-psychedelics-with.txt",
+      "sha256": "8bbeb436ba1d0161ddaabc35ed99f3bc76617de072474f74604851bcbcd83faa"
+    },
+    {
       "path": "sources/diarist/2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.srt",
       "sha256": "c02e09f556bc46478a70667ec57c533fc18186657abc8a8f42af1b88c9fae32d"
     },
@@ -1282,6 +1182,14 @@
     {
       "path": "sources/diarist/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.txt",
       "sha256": "2c9e0081a797b3e9a4cb43aad9ec488c2e404d7cc22d531ed4d0639baf3cf0cc"
+    },
+    {
+      "path": "sources/diarist/2022-08-21-chris-bache-lsd-and-the-mind-of-the-universe.srt",
+      "sha256": "39c98a7d97aa8c1233a277447ddd4068ed538e7cd433b2512808fefa6a30701d"
+    },
+    {
+      "path": "sources/diarist/2022-08-21-chris-bache-lsd-and-the-mind-of-the-universe.txt",
+      "sha256": "516db188457965084f8cc10edd48c7132e96a96bf40b67295a6ccef86c77a638"
     },
     {
       "path": "sources/diarist/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.srt",
@@ -1340,6 +1248,14 @@
       "sha256": "e5cec5445050b83a6437a8e427ff1f7209b6204218f5e48d95f140fc79cce204"
     },
     {
+      "path": "sources/diarist/2023-03-15-the-role-of-psychedelics-for-a-planet-in-transition-with-belinda-eriacho.srt",
+      "sha256": "1364765bd10ce75595b411d821dad2116b2be344fdd866ed865f27d76e6366a0"
+    },
+    {
+      "path": "sources/diarist/2023-03-15-the-role-of-psychedelics-for-a-planet-in-transition-with-belinda-eriacho.txt",
+      "sha256": "815df4acd42e5591db6a6c9a0ced512c4d528d3dd917a38f2b24a532e87e7823"
+    },
+    {
       "path": "sources/diarist/2023-03-16-collective-shadow-work-and-turning-toward-our-pain.srt",
       "sha256": "c84318a29874479e11ae2f98d64265e13d20e39a7e25bc3d7cb4b3c5cc434205"
     },
@@ -1388,6 +1304,14 @@
       "sha256": "0836e7775476c4dd1092d7e4da4f41f4d437d2e0158852c14434b5696cd96e0c"
     },
     {
+      "path": "sources/diarist/2023-08-17-lsd-the-mind-of-the-universe-with.srt",
+      "sha256": "4b9206c35de031471e0122c714ab26375f5ab19ccbfc0be43a16578bffb50257"
+    },
+    {
+      "path": "sources/diarist/2023-08-17-lsd-the-mind-of-the-universe-with.txt",
+      "sha256": "67935f5b859e78936f0147ac5a823774274293421e0c062553264ab1342f29f3"
+    },
+    {
       "path": "sources/diarist/2023-10-10-experience-of-the-human-being-of-the-future-short.srt",
       "sha256": "8d3d0e01c93ef309b0abbed2dc3f789f1ded8113d7fa76ffe1aefc79ed99bbda"
     },
@@ -1426,6 +1350,14 @@
     {
       "path": "sources/diarist/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.txt",
       "sha256": "785866c8b9212047a4513e708ffc27ed8226ec71c6a40f9d3017a6a081c1d27f"
+    },
+    {
+      "path": "sources/diarist/2024-02-08-face-to-face-with-chris-bache.srt",
+      "sha256": "d30849da3b1f3b8b1baaeb3c35e155903f815607af203866a223d1a9ae056ef4"
+    },
+    {
+      "path": "sources/diarist/2024-02-08-face-to-face-with-chris-bache.txt",
+      "sha256": "3837f28de7181e7e38bb56db398f14a01d4e9db5ea9106de0b1c97120cb6c752"
     },
     {
       "path": "sources/diarist/2024-02-10-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-sdi-meeting.srt",
@@ -1524,1028 +1456,2108 @@
       "sha256": "823b27c0c44d222e62b1bc859567cd38bf40b93c8701c6d4421e0bfbe6ddbe5b"
     },
     {
+      "path": "sources/diarist/2025-10-15-collective-karma-and-reincarnation-with.srt",
+      "sha256": "eb28df031598f5a081896275085d6709e21a0b7c37a1fdd4d8fcddf3f1dba7a7"
+    },
+    {
+      "path": "sources/diarist/2025-10-15-collective-karma-and-reincarnation-with.txt",
+      "sha256": "c67facb7e5130e62cbe7062809fedddb7051fa50a27b6732f92b1eaa7b50a9d0"
+    },
+    {
+      "path": "sources/diarist/2025-10-21-psa-fireside-chat-featuring-dr-raymond-turpin-dr.srt",
+      "sha256": "e0e36f95eb18a82e64f33f7d083fc3a14ddd4cea606a76e9ed47d5df15ee4c80"
+    },
+    {
+      "path": "sources/diarist/2025-10-21-psa-fireside-chat-featuring-dr-raymond-turpin-dr.txt",
+      "sha256": "dfcd41ecb4459c583e5d38c958951dd8de14c7984ec9a552b80df1a85d761e41"
+    },
+    {
+      "path": "sources/transcripts/2009-03-07-the-individual-and-matrix-consciousness-pt-1.html",
+      "sha256": "bbcd6735f79965a87c6f51f3b55f3f60b8dda9efe14a2fac2c087c56e8bfd5ec"
+    },
+    {
+      "path": "sources/transcripts/2009-03-07-the-individual-and-matrix-consciousness-pt-1.md",
+      "sha256": "b91d3083d696f80561afe177f36a3b0c03725c0ad0b9b1f84baec80802f102cc"
+    },
+    {
+      "path": "sources/transcripts/2009-03-07-the-individual-and-matrix-consciousness-pt-2.html",
+      "sha256": "06045b9a7a1e57183ec8ed70ff61fc997ffb26baee8cb9ae7ccdc8b948b41999"
+    },
+    {
+      "path": "sources/transcripts/2009-03-07-the-individual-and-matrix-consciousness-pt-2.md",
+      "sha256": "2c829a6e9e3d3a8f656879bb3cebbe679b9f39daa07341f50b32e811d9a8cd5b"
+    },
+    {
+      "path": "sources/transcripts/2013-08-27-skyblue-symposia-pt-1.html",
+      "sha256": "cce954852f4f9bd5ef19381f2683bda9a337cf9119959edb0515081fa3f36cdb"
+    },
+    {
+      "path": "sources/transcripts/2013-08-27-skyblue-symposia-pt-1.md",
+      "sha256": "7a327dea05511400225df33b500ceb585d03978fad3b7ee360dbdf6abc0cbf79"
+    },
+    {
+      "path": "sources/transcripts/2013-08-28-skyblue-symposia-pt-2.html",
+      "sha256": "50a18cc7f56eb59a42a76b6359841ce55fa4c4102e25ab9721e2faf1efe87465"
+    },
+    {
+      "path": "sources/transcripts/2013-08-28-skyblue-symposia-pt-2.md",
+      "sha256": "5d816e24ef722e7a5fa1751377915ade7ce6cda3fd5d70c7be95f52a965a7d4e"
+    },
+    {
+      "path": "sources/transcripts/2013-11-17-no-fear-of-death-part-1-unity-myrtle-beach.html",
+      "sha256": "74bdc525f9ea51599e567ad237ab6824f90d0198725df3b89fce6e360fffae87"
+    },
+    {
+      "path": "sources/transcripts/2013-11-17-no-fear-of-death-part-1-unity-myrtle-beach.md",
+      "sha256": "b1be1d3be82928caed3e9bc21fdb27024a7ad2763245aebd9fd44496218836f7"
+    },
+    {
+      "path": "sources/transcripts/2013-11-17-no-fear-of-death-part-2-unity-myrtle-beach.html",
+      "sha256": "48faa5ba62aacb421cd5c065dcc7939bb6c8272492776c11d31bdce5cd43d368"
+    },
+    {
+      "path": "sources/transcripts/2013-11-17-no-fear-of-death-part-2-unity-myrtle-beach.md",
+      "sha256": "b3d51dbd6944ece9a7825f1e0ad2952a26718686eb93e2616aaf9884b2a44631"
+    },
+    {
+      "path": "sources/transcripts/2013-11-17-no-fear-of-death-part-3-unity-myrtle-beach.html",
+      "sha256": "6fdcbd8de3eaa82fc0fdf806ba733c008938e2a45be00cdd44d086e9a51593f0"
+    },
+    {
+      "path": "sources/transcripts/2013-11-17-no-fear-of-death-part-3-unity-myrtle-beach.md",
+      "sha256": "7611c3e9fe9350a18cf81a153716f139f91e4fabaa90ab0d9eb5bfc5858bc096"
+    },
+    {
+      "path": "sources/transcripts/2013-11-18-sunday-service-with-guest-speaker-chris-bache-unity-myrtle-beach.html",
+      "sha256": "77ec9bb8d20c572b81339116e35141ed7486b208c2ce52b56f7839ba32a66803"
+    },
+    {
+      "path": "sources/transcripts/2013-11-18-sunday-service-with-guest-speaker-chris-bache-unity-myrtle-beach.md",
+      "sha256": "bf093558c42a4743b6bea0e456215779e80809cc42ed07ca50323cc8a3e51c2e"
+    },
+    {
       "path": "sources/transcripts/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.html",
-      "sha256": "47fc7a844ff4886dd6a9ffdd6392cfd72cb33a485314753b7f5ce409bd6d5f53"
+      "sha256": "52087d04befc5aa9596ba9272145f363dba3ed3337522ef0a6825735efe3af6f"
     },
     {
       "path": "sources/transcripts/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.md",
-      "sha256": "8fa83722e6c15be548f28c30126f19980f3ba44bb881eea7ec93663d940e1fb9"
+      "sha256": "c1c9d320efc1c91b3104263d6e286c9c2854f94f0953e5764fa3067520b341af"
     },
     {
       "path": "sources/transcripts/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.html",
-      "sha256": "07e0a68aa06f9a3dc17f515b800724e24c2f9524f35090a82a0da6aba09aee91"
+      "sha256": "4fb27769571151d8050ee699d3668516d96fbdcaab1019a3fc040009f763e4ab"
     },
     {
       "path": "sources/transcripts/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.md",
-      "sha256": "50516f7fb4c0c163e0bcb514970bedd3f6378d9c1e6e53e6b3ce5a83290ccc5c"
+      "sha256": "f085b5e363b55d947c7f532d80e23f72cf0cc3a7222f8d3d9d82866f7052b750"
     },
     {
       "path": "sources/transcripts/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.html",
-      "sha256": "07810f956774ce7f5db7bd52f371712fa4264d14790de667cc9a070dac01d57b"
+      "sha256": "678167dd642a5136a9c872eba2b0c3ecf14ecb05412d462d6ef3af0d94f18a8a"
     },
     {
       "path": "sources/transcripts/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.md",
-      "sha256": "a42172cbf92063a4732b3a9664349f1af07eeb82d91df499a5376067302a2e1e"
+      "sha256": "d7d1b035617c104bfe6529ed4e5a46cf0367d52de72b962a2807de2ec9ba2e7c"
     },
     {
       "path": "sources/transcripts/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.html",
-      "sha256": "03ecbd65165d22283d2ca6865dd01a2a151eb63b5b3f5155350d9b47c10f7662"
+      "sha256": "61319d55f1890d55ce148a31ff933defd60d6dfff8a576821a5b958be84ea3d6"
     },
     {
       "path": "sources/transcripts/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.md",
-      "sha256": "3f1dfd99ffeca08241995023610df8245f4d84d963f8af0bee1032bf46e92fcc"
+      "sha256": "f91e850acfe299a080cf1d8cc77e89a10f2832833f40484290ec20d5423921e2"
     },
     {
       "path": "sources/transcripts/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.html",
-      "sha256": "de91cad2d90156081252eb8f61acd295077c30fdaa9fb53b2dcd3a15087315d1"
+      "sha256": "439c943157ea422fb53b6295ca1ab9760dffaef1a18b3010af252c1f817c53b6"
     },
     {
       "path": "sources/transcripts/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.md",
-      "sha256": "5792f7b2430fa3cfac42251ba57c734baabc136d8d5c6a4ebf571e06771922ca"
+      "sha256": "43530b58b93ec6a83ffa2a5cd2ea304f4b5752298c3a2ebcdaa2b1ba7d1e3815"
     },
     {
       "path": "sources/transcripts/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.html",
-      "sha256": "6171c9f1c4b9376a5429ee86bf0a0782ef790e565175e17a65798e0c35eb6922"
+      "sha256": "846ddc624fd58f62db5e0014a87d1f7a3653089123a8a35007b9029d1bfb0852"
     },
     {
       "path": "sources/transcripts/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.md",
-      "sha256": "bf234f8261d1a223a334e7062a5c521609de833118bf171118b0c4ed65453111"
+      "sha256": "e461c1b56a345b1745de7339f885421dbdd3ca7a9e9be9ac382ca7abca02972f"
+    },
+    {
+      "path": "sources/transcripts/2019-02-26-chris-bache-pre-spmc-2018-interview.html",
+      "sha256": "f19bda7125a074a6e1ac632def2cefe4b0c2e5df2bfcec8e6142c9de33cb03ce"
+    },
+    {
+      "path": "sources/transcripts/2019-02-26-chris-bache-pre-spmc-2018-interview.md",
+      "sha256": "f434f9481c1d06bbda61c1a51a7a0f7b795fb6f95e862f62c7a65aa7841b9bb8"
     },
     {
       "path": "sources/transcripts/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.html",
-      "sha256": "5893e0faa64058b6723e35cb9588d1fbdbe2143b295721966d858e9f6a53df9e"
+      "sha256": "91910a8ea0ffa0e489b9f6821628a5403d819625188e20e60becb1b1590dfe12"
     },
     {
       "path": "sources/transcripts/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.md",
-      "sha256": "3b5bf15395ccecb5b0131b5b682bcdba976f5ea206063f68d01aa13e1d71a8a3"
+      "sha256": "3fee40356586ecc8dcbc624f823eb8529c65386020eaebfb1f3300d8d51b95d4"
     },
     {
       "path": "sources/transcripts/2019-08-30-scientific-evidence-for-reincarnation.html",
-      "sha256": "78daf729bd509aec748af851af63f1813dd8e978e873aee5bd563cfb9a4f3fc5"
+      "sha256": "66e6b9e2afb17d980522569cd63b113f7bbe01625404308a337580caf4f67568"
     },
     {
       "path": "sources/transcripts/2019-08-30-scientific-evidence-for-reincarnation.md",
-      "sha256": "4c01ddc8665e4da6e018761c8bc1a73881c198927f00a67a3cd8939dca415193"
+      "sha256": "60b264ecb0738ceb9856966be3f87c09ccff97d5fb2bbb5d050f205cb45c510e"
     },
     {
       "path": "sources/transcripts/2019-09-26-mapping-of-transcendence.html",
-      "sha256": "feb11265407c107cb6fa3795a35594a502c22d432d2dc317a57675cd18091668"
+      "sha256": "fda8832e62e463af3a46603e0a722758eff476d2afee5f902c97a1a005a1dcaf"
     },
     {
       "path": "sources/transcripts/2019-09-26-mapping-of-transcendence.md",
-      "sha256": "b85b51cd79b394dcdc0fceb08173c021a4e0a18e0f9e080041faec54b13b8989"
+      "sha256": "09eadcde47ed9af7c0eae667b182b0be245f2724df5f2fedbe96efb2a66232ca"
+    },
+    {
+      "path": "sources/transcripts/2019-10-18-the-human-experience-live-show-022-dr-chris-bache-lsd-and-the-mind-of-the-universe.html",
+      "sha256": "badde554fb5503bee3db0e080d20676cf331b270b18b7da90351da291c86e8d9"
+    },
+    {
+      "path": "sources/transcripts/2019-10-18-the-human-experience-live-show-022-dr-chris-bache-lsd-and-the-mind-of-the-universe.md",
+      "sha256": "7fe37dc3b6d16e03051de8e6a7025ebb002fa7b9c96a30f1e011d7d6b46d6639"
+    },
+    {
+      "path": "sources/transcripts/2019-10-22-an-interview-with-chris-bache-lsd-and-the-universe.html",
+      "sha256": "43b0ce22144985d481bc48d74af5d55dee5a2cb44996def4648375e52238e31c"
+    },
+    {
+      "path": "sources/transcripts/2019-10-22-an-interview-with-chris-bache-lsd-and-the-universe.md",
+      "sha256": "49194ae38ace07ff830a6c32024647ca7a79c0b173ee76ac19d8e29732a51201"
     },
     {
       "path": "sources/transcripts/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.html",
-      "sha256": "86c2cb40e7e749d3484b0862c5357f54870b69a1b28fd28d797901304f18ee93"
+      "sha256": "4bd343072b233cea5bcffd073107ece7a84b4818fdc0cb8a8f363142022252c4"
     },
     {
       "path": "sources/transcripts/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md",
-      "sha256": "d848b80997c92029a7ecce52652c9f8ce23acb9889987207161fec86ee034c41"
+      "sha256": "6d6ef929a2bdbfb7b6eb95879b9fed566cadc245bba0c084b825b3d2821170ab"
+    },
+    {
+      "path": "sources/transcripts/2019-11-18-behind-the-curtain-christopher-m-bache-phd-episode-64.html",
+      "sha256": "d80198d63aa7e49abb3d8ef874c1d20cf31585c2d8a64210807d9bf87d5ebb65"
+    },
+    {
+      "path": "sources/transcripts/2019-11-18-behind-the-curtain-christopher-m-bache-phd-episode-64.md",
+      "sha256": "be62528919813aebf330d7264ef0984608efce2e805f5d9e988bfbccc3d143db"
+    },
+    {
+      "path": "sources/transcripts/2019-11-25-live-with-chris-bache-73-lsd-sessions-journey-through-the-mind-of-the-universe-w-vanese-mc-neill.html",
+      "sha256": "68ac2a7ae4108df488af2fd56fab81c688c7019f48e38cca934ab8732d7cff96"
+    },
+    {
+      "path": "sources/transcripts/2019-11-25-live-with-chris-bache-73-lsd-sessions-journey-through-the-mind-of-the-universe-w-vanese-mc-neill.md",
+      "sha256": "08019de0c869d36029ff9e8efd660e2bbecdc1cf6830d0129b99d6a7a3afcd9e"
     },
     {
       "path": "sources/transcripts/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.html",
-      "sha256": "347ddd3670cc1797803e2cad39a7b8c7b00a315354746fa2d537cf7f92059ff6"
+      "sha256": "1a41db52eb4f0ea1fcd9c3a438747f72aae3c31759af764222ec817ff13f5ce0"
     },
     {
       "path": "sources/transcripts/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md",
-      "sha256": "239ff334989516af276a0ae9c704ad21f9ab7438a0dccfc45673e3985f3b77f7"
+      "sha256": "c5ff6a1d7fbf41845daa6a5558c6ce5292ca56e7224f7ee35ae063b6059df7c5"
     },
     {
       "path": "sources/transcripts/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.html",
-      "sha256": "9b63273a56e32b221ae610d7c03c86bc58bce827804b1b27474954294af063b8"
+      "sha256": "2394117de0fb5d2ea9768f95396017cb88b49b27ef401d94081e7b5f593b89ac"
     },
     {
       "path": "sources/transcripts/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.md",
-      "sha256": "946f470c2fd45da9ba1314ebd9841eb6e7bd200a73c6eda107aaa2ccfaea71ae"
+      "sha256": "4d34095ad07ad15660086d0d61cf1ab73bfc56eb68f2c23ba084351839ab4c6e"
+    },
+    {
+      "path": "sources/transcripts/2020-01-17-diamond-luminosity-exploring-high-dose-lsd-experiences-with-dr.html",
+      "sha256": "3aa1018791665883425d485f702e35d68274312c059b40cdef267839d550ed27"
+    },
+    {
+      "path": "sources/transcripts/2020-01-17-diamond-luminosity-exploring-high-dose-lsd-experiences-with-dr.md",
+      "sha256": "2106ba88c7724c441231bd339696058a479c121fa0d37f461bf29e95f9c6bb6d"
+    },
+    {
+      "path": "sources/transcripts/2020-03-22-behind-the-curtain-with-christopher-m-bache-phd-episode-64.html",
+      "sha256": "238fb67fb6011fb5dd92dca3ffc3fca253a130f678cbb42897f7157dd05ef750"
+    },
+    {
+      "path": "sources/transcripts/2020-03-22-behind-the-curtain-with-christopher-m-bache-phd-episode-64.md",
+      "sha256": "789acf2dedafdb456c2d89a5a7bea618938e304874f6b29ddaa4b088e052e450"
     },
     {
       "path": "sources/transcripts/2020-04-19-bicycle-day-conversation-with-jef-baker.html",
-      "sha256": "231a0adaa00d3e45e2093eae7fb82242e3354d94d22665b0a2e127f2f3ffa236"
+      "sha256": "1bec69317b43d8f60c0f7f208b5f7410b8e2504de15648c2d0a4735199c2bc34"
     },
     {
       "path": "sources/transcripts/2020-04-19-bicycle-day-conversation-with-jef-baker.md",
-      "sha256": "6f20aa0851907446d1e152eccf05b866c92b4bc30009e4641fb3a33c6a316095"
+      "sha256": "7366ff7df8aa4cd960ea83e7bd2ccf412e3a70f6202c979e0273d926f1ca1771"
     },
     {
       "path": "sources/transcripts/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.html",
-      "sha256": "3c1efd8c0095cfd1e62ef0d136261c9dee6e1cd298b9f5c924ac090794e445db"
+      "sha256": "ca76d1759bf8c6985f41b803d832b89cdd4cb0f1c94976b2d6e99f4d59b08ca7"
     },
     {
       "path": "sources/transcripts/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.md",
-      "sha256": "a42bedd0e6eb765d254a4b1e51dcaf990a5c4a91ee4fdf698bcd0731f40f8bdb"
+      "sha256": "8f84aa51c88cfc61cf02b0f35eb19b367ab37abca8e5d4a1badcbcc213175ba6"
     },
     {
       "path": "sources/transcripts/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.html",
-      "sha256": "d34bf2eeb2640ba00b7a772b6207f27d6eef4ac5165263ac350dae297d982640"
+      "sha256": "7b6ef5ea3e558576e0c2c41a696edd4837a00845e301668ab7c756963f43d34c"
     },
     {
       "path": "sources/transcripts/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.md",
-      "sha256": "9cd31270255ecaf06aff96e977588ce958bf6f08ca571debbb612a4234f7ea73"
+      "sha256": "ac92eb2815eb3b9ddb5ffa2253925e70951c5c92bf8dd2664923d75976f0292f"
+    },
+    {
+      "path": "sources/transcripts/2020-12-03-what-73-high-dose-lsd-sessions-teach-you-about-the-mind-of-the-universe-w-christopher-m-bache-ep11.html",
+      "sha256": "a00e7e5a00c2f62826a63c1631b5a75c7721001810f2e126e85a9f9665674942"
+    },
+    {
+      "path": "sources/transcripts/2020-12-03-what-73-high-dose-lsd-sessions-teach-you-about-the-mind-of-the-universe-w-christopher-m-bache-ep11.md",
+      "sha256": "ca8b8d82c286042f2a78daf04932da64718c2cb9b829f09684374b3ac200a349"
     },
     {
       "path": "sources/transcripts/2020-12-21-great-conjunction-reflection-short.html",
-      "sha256": "de5a2ee51dfa982d30a939c3372a6673adda3039db0eb6127fb9ec1cca85225e"
+      "sha256": "c588167759aee5946ae7372e4d2d31679b01e1523434c850a38d27a41088f16f"
     },
     {
       "path": "sources/transcripts/2020-12-21-great-conjunction-reflection-short.md",
-      "sha256": "b1c4272ee0b1ad6249c710ac8128425abc47414a89d3bb8525424d8e34e4624a"
+      "sha256": "7d4053debdc6973ae31dee968cd2fd6de2443112dce89de043968b0f936dd4fc"
+    },
+    {
+      "path": "sources/transcripts/2021-01-02-discover-the-mind-of-the-universe-lsd-psychedelic-research-with-professor-christopher-m-bache.html",
+      "sha256": "21a5be71727af87d92a6af50f39abfe84d6559ca508ab2668900084dd6ea28dc"
+    },
+    {
+      "path": "sources/transcripts/2021-01-02-discover-the-mind-of-the-universe-lsd-psychedelic-research-with-professor-christopher-m-bache.md",
+      "sha256": "8a63bdf06bc62a3651e153439f8e62e502b136ec3575ce5aa384d86258f2daed"
     },
     {
       "path": "sources/transcripts/2021-03-16-contemplating-reincarnation-part-2.html",
-      "sha256": "77fe9e7bb228c89688f1b14ee8e739705f7de0da6324ae07fcce1a28cfe7f3c1"
+      "sha256": "a7b88062a57ed5f66bf001d173fc6103d6a663a481b1d6e60644a48c63cac74f"
     },
     {
       "path": "sources/transcripts/2021-03-16-contemplating-reincarnation-part-2.md",
-      "sha256": "b49730c2a24112960588e04edca24e8db287fa8931b895c1c3f18ccdc144e8c2"
+      "sha256": "c1961bb4e6467489cb6bfe17174deb2be414c38b98b8ea78e21f3e4cb72f0253"
     },
     {
       "path": "sources/transcripts/2021-03-16-contemplating-reincarnation-part-3.html",
-      "sha256": "420dc0ae90d063a788f80a36dac8dcaea9cba7f9decc64fc3e718b36fa7458a2"
+      "sha256": "13846cd9ac5e8d2432884dc51e0831ce62d1e5f1e219e6ebf2d7df36de9d94dc"
     },
     {
       "path": "sources/transcripts/2021-03-16-contemplating-reincarnation-part-3.md",
-      "sha256": "1b96a26005f117b767b59f20cbe189f94c7ca7dddea6b14aedca884f3bd84996"
+      "sha256": "f17346dd6c54cc1be97b128008f3c0ed7dc7ed95c99b18401d171fde8978432f"
     },
     {
       "path": "sources/transcripts/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.html",
-      "sha256": "2304791db83b6dbe4b8bd1d4d7bb7f1e187f3a87da180348dd0119e5646d95e8"
+      "sha256": "e2baf7f7a007f7f2cfb6955a087659664a61602fccd55d64015c9e118c9286b6"
     },
     {
       "path": "sources/transcripts/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.md",
-      "sha256": "aaf43bc8ebb437dea3356272ca1d8556abf13fcaab61796c7ccd0041572cef04"
+      "sha256": "47c367ac6fb55ca78e5a313efafd7daeac0bdad5486db4aace9f39450c5fc817"
     },
     {
       "path": "sources/transcripts/2021-04-01-contemplating-reincarnation-part-1.html",
-      "sha256": "bb0e2a9842b4877b232329bc56f78f2928821eebc6f171c50b5d57435a36aadd"
+      "sha256": "ae00c6902ab9887a7a83edac759ae8d13fbbdafba3c2ef41ed978400b18f7bbd"
     },
     {
       "path": "sources/transcripts/2021-04-01-contemplating-reincarnation-part-1.md",
-      "sha256": "d17a59f764cab77fca96e5adf9edea2a137f404c8104244bde4bb2a430f83478"
+      "sha256": "c93a3fe869a80a893376f6e9f202139cb7a7a7b3bb12d751f59ed4cb4254e393"
     },
     {
       "path": "sources/transcripts/2021-04-02-reincarnation-qanda-live-with-richard-rudd.html",
-      "sha256": "07242d201644238f37c9648f6f85954a414324244290932c4163b3849a623a7a"
+      "sha256": "e1b5902e608789fd866460b7603a94785fced65103b828c724f15f75709af06c"
     },
     {
       "path": "sources/transcripts/2021-04-02-reincarnation-qanda-live-with-richard-rudd.md",
-      "sha256": "dd437f0fa1d54cb2fa4e662dfcecc362abb4a72a2e4ef40275ebe5b07d1ce668"
+      "sha256": "218cd7f10e6517ff94d0fae39453a61600af2f0c56258ece9bc7d7792a15df64"
     },
     {
       "path": "sources/transcripts/2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142.html",
-      "sha256": "9eeef111213ad55a40f2dcfe75f258371234b0d4762a3e00cb11232455df2cff"
+      "sha256": "04ee71bef364be75b69ff19ead254b3963aff90017334411b52b204e14cd92b9"
     },
     {
       "path": "sources/transcripts/2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142.md",
-      "sha256": "9d3f6fa1c00d970f2d521946eddaabffaff63b2c40d1d10c9b0fbe47c8814c05"
+      "sha256": "a21b7060682ad3153079e41040012c04a3ec4d24db6095d7815cb6ddf216bd97"
     },
     {
       "path": "sources/transcripts/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.html",
-      "sha256": "0729b07779c4ec194fd774ad2c4f2fe51fdd0581fea28bcdf98228cebe4e1a04"
+      "sha256": "46ef8523f01825c275b2648c13cf88e6cf31b2a52e696a747de81918e856c95a"
     },
     {
       "path": "sources/transcripts/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.md",
-      "sha256": "6c8a6c88aca8683e42af624e86b347fceabc7c82730c8449bcab73675c5742df"
+      "sha256": "f875b7498ed5358ff3922c67af33da652a070680b21272bcc2c98a75efc61157"
     },
     {
       "path": "sources/transcripts/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.html",
-      "sha256": "8dbd696ef7b46902d7468086215820e29b9ec2202de7f700e253515a5eea517b"
+      "sha256": "9502232d4ac42f988812a1f9a2547f9bfe86095cc63e483dfbdc3ef659168692"
     },
     {
       "path": "sources/transcripts/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.md",
-      "sha256": "e4b1adc53578c2699f7a7369ed31442de5a6d72ac9121914c8146db0c5c1373e"
+      "sha256": "7fb0d5b41a3696d847580e1610ec99ceb84b354d362b54e9b8da7d91fb100cad"
     },
     {
       "path": "sources/transcripts/2021-07-08-mind-blowing-lsd-secrets-revealed-rebel-spirit-radio.html",
-      "sha256": "0656b86810c6df4da9fed3799911c36195699937df0f113888fe03f1d46ea4fd"
+      "sha256": "c8afc98d5b14d53db0a19550238419778e04760b70a86278d0a772e0aab7d851"
     },
     {
       "path": "sources/transcripts/2021-07-08-mind-blowing-lsd-secrets-revealed-rebel-spirit-radio.md",
-      "sha256": "bc25aa7e6cc6dae4bf6a21aad3b8aca2cc2cb3e28fc6ef3cf18da40164126e77"
+      "sha256": "acd2a043f09fc8a95c2b6a28a5564825bd3d9376fe38819e8ad61f091fd564c8"
+    },
+    {
+      "path": "sources/transcripts/2021-11-16-transformative-journey-into-the-cosmic-mind-through-psychedelics-with.html",
+      "sha256": "f0310768bfcf45eaf1ff362f252975ee6ad5c2aeb2f175f5aec7bb877bbf5adc"
+    },
+    {
+      "path": "sources/transcripts/2021-11-16-transformative-journey-into-the-cosmic-mind-through-psychedelics-with.md",
+      "sha256": "c2314ce6df25d43e86ec189c8566d79b6f00b8884f47c427e6f46d108f25c008"
     },
     {
       "path": "sources/transcripts/2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.html",
-      "sha256": "f07ab54d3f73b4481b337bfb782732373d776891e9e664e080217dd12fb32359"
+      "sha256": "c33971c764b2cc297501914822e3ea441257e4d82454a563029c5fea02311a9b"
     },
     {
       "path": "sources/transcripts/2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.md",
-      "sha256": "50686816c77e7c9a42827e6de11472d6abce459ec57f1603764cb9d68ad04387"
+      "sha256": "a75aed795e1c313ea1c39ad082f5810417c8168e2ca93a8706fb69c8974255e6"
     },
     {
       "path": "sources/transcripts/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.html",
-      "sha256": "5b26c8f1d3c8535b76ffbefcff206b446d07744d3e4c4a4b5c06025d6801e921"
+      "sha256": "4fc1f9d121dfeed178250adf5d947c333236f010492c38864d6ab32f93d6715d"
     },
     {
       "path": "sources/transcripts/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.md",
-      "sha256": "57326b0d1ba39c8f371829f6169eccc175471fae257f02029e2fb56cdf28a274"
+      "sha256": "0e042480956c7d75418a85f67fa4287c86de0d01e9cf7be2fdf39bc5036044c5"
     },
     {
       "path": "sources/transcripts/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.html",
-      "sha256": "50d94f60ff832b1abce1efe26e0d24659ab6f7a9128f704b2db025ebcc7c8752"
+      "sha256": "eaae3ec8fe47dda48a2a68fbca92e1a6a55f90fcd1cda3c6dbb515af7baea7f5"
     },
     {
       "path": "sources/transcripts/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.md",
-      "sha256": "48f4de8ad0b3121edb9ba951627899aa1a8a3b27d0bf6e342c6503cb4c47f6aa"
+      "sha256": "493b22e2e9d33e4c23971a96005324235b3de0a6f2def7b16c4555f5d9f1c979"
     },
     {
       "path": "sources/transcripts/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.html",
-      "sha256": "cf5b1c7d83252c8f0508042ffb2280dd5f1b3602b70c2d56095eaa555120f0e2"
+      "sha256": "530b816d68ed3233e0c0381533438e435e475051c84a90f79a9f4d84db203dcb"
     },
     {
       "path": "sources/transcripts/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.md",
-      "sha256": "2c533478dd9ad83daabad8c4765a8a8862a253f051f3fe717f99c4d9f9b1c4d2"
+      "sha256": "07ff62a1940682559547c962bb15d89cafad96bceb7b506b8930c200f9637e34"
     },
     {
       "path": "sources/transcripts/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.html",
-      "sha256": "fa22ce3f27250a3f29f346d875fadcf41e56793a868827d568b72787026e0952"
+      "sha256": "d0fb9b2b6cb6fdcd20aa10fa7916d6e3000920e8808c667ebebc1d3700b33d9b"
     },
     {
       "path": "sources/transcripts/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.md",
-      "sha256": "7846995d00a1c72963561fb4a3abd7f0119265b8ec03ae51c7b0c5b89340f2ab"
+      "sha256": "fb49717347946b970df8b53fa84c19ecd92585de5266552040a8d34b947f76ea"
     },
     {
       "path": "sources/transcripts/2022-04-26-when-we-die-ions-living-classroom-excerpt.html",
-      "sha256": "853652c5d46d95b2a00ba83c9f79b7a06d87c360c432a1844854a826d87a515d"
+      "sha256": "f86224537923dc1db432935ae2f7e72f9a344ef977724120b117da24a82f2e89"
     },
     {
       "path": "sources/transcripts/2022-04-26-when-we-die-ions-living-classroom-excerpt.md",
-      "sha256": "1d9f1ff800be8d245b94cf0f552c3604ef5b0c9d9202ced5f0748c055909c0df"
+      "sha256": "2a35bbaab5598f31b739972c84f532c804b53420d51d4ba293dd0b989681f3dd"
     },
     {
       "path": "sources/transcripts/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.html",
-      "sha256": "90faf6452c9fabe3f4c80522d210d63b89a8de6bc6333b36e6dd623f75e90564"
+      "sha256": "775d7942e86ed50652be9de0cc987ad94ff9f207936e6b396a7ec49e8b37c26a"
     },
     {
       "path": "sources/transcripts/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.md",
-      "sha256": "9f72a873e4b7bae7128631ab9567bb5ada540c502d5e8b21b4e68d53bc55772c"
+      "sha256": "d9611d2a877ee8f1283f8aa205096efcb92d261fa21b5c04b77b3b0dbf50d24e"
+    },
+    {
+      "path": "sources/transcripts/2022-08-21-chris-bache-lsd-and-the-mind-of-the-universe.html",
+      "sha256": "f2d010f49fa6c07556363d6366fdf54b9f56bc9b9e189fb48b2a31cf01f1b582"
+    },
+    {
+      "path": "sources/transcripts/2022-08-21-chris-bache-lsd-and-the-mind-of-the-universe.md",
+      "sha256": "373a535a7848705a02f0e359301c491b8180ffc8b4280f260f0287ee0e0e105e"
     },
     {
       "path": "sources/transcripts/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.html",
-      "sha256": "77b31f316ba0813e92048fda78e77a4a15bafd0d2f0c9fa0b7c1072b8d75f365"
+      "sha256": "501b3876c94bb6267cbe9661478f262f9307a88a12408d8c0d12c211b7115622"
     },
     {
       "path": "sources/transcripts/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.md",
-      "sha256": "6ce7bca424ba9c6afcc0da6cf1271cb1fef6fdf0ec8ed41c7c9eeda280d02b74"
+      "sha256": "2b754205a359561a19dbacbde6c1fd0c861aa8e68dfa005b67ed52a1d946643c"
     },
     {
       "path": "sources/transcripts/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.html",
-      "sha256": "3fd2c53c93118093785b6bd5b8eb75d38d0a9f0d0d8fdabd7761a5015f579bcb"
+      "sha256": "8fbcd09ca21e230770eab318322a1d8501072a99c6309bb09ae6997fedff6080"
     },
     {
       "path": "sources/transcripts/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.md",
-      "sha256": "9fe30a5bbba8530b751c98062093557ec71749cb6de590ba4844d28d8c12246d"
+      "sha256": "4bda54048eb2cf80b0b6a477d562535a347a626943379bfee8d0ea9a6ec6e574"
     },
     {
       "path": "sources/transcripts/2023-01-05-exploring-lsd-and-the-mind-of-the-universe.html",
-      "sha256": "b3fa6653cefd165c7ee9dfb9471ba296a05d6ed8a8b435d059e229ddb4899c13"
+      "sha256": "7da96d6236940a9d50b4013b445f496a7e60944fed3801d37ea993e0911a00e2"
     },
     {
       "path": "sources/transcripts/2023-01-05-exploring-lsd-and-the-mind-of-the-universe.md",
-      "sha256": "b5ee8d6e0207a4f8f23022bd078e6a9e725532fedd66463f4c513338c146d005"
+      "sha256": "43984f97bfd210278601544bd328ed17578384f6d88e8991c03b416c2cb8c863"
     },
     {
       "path": "sources/transcripts/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.html",
-      "sha256": "629d6c2dfb0d9423adbc0ea0e693088db9b17ec58f2c0726df97c0404df14983"
+      "sha256": "c7d07d61985e5f63c8f1635d017246056790ef432b27a6f8da40a37d1a55a9c8"
     },
     {
       "path": "sources/transcripts/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.md",
-      "sha256": "5ff2e1f0413f1aa3cc67bbc42b006dc6a0de03a2966e876308b037feacb43a9f"
+      "sha256": "8730d606afd2f60d101e8c6ab32cf3c34b76579d058db5af4b530565ab60648c"
     },
     {
       "path": "sources/transcripts/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.html",
-      "sha256": "f1b7a37018032c35cabe1e69592166c6afafa52b66646a91011f739bd912e048"
+      "sha256": "9f7d68f0e3ecef05d4dfa19abff188d866534a052fb1a3cb31bc1137d6bbf19a"
     },
     {
       "path": "sources/transcripts/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.md",
-      "sha256": "b7cc7a8dd85a5b488439282d966da709cc15cb2e6c736b51dc9d09666fe68448"
+      "sha256": "018ff9f3002c4f1246e89fc4425bfb8e38c14efb627124be1fb8484989727c7e"
     },
     {
       "path": "sources/transcripts/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.html",
-      "sha256": "19e7a0e7c71ac26078aa859ab582ab7cb057b7e2fe9ed1b27d8241aceff535bf"
+      "sha256": "114aacf5860832480716860fe71a5e8fa676cf0455619b452472d9399648c590"
     },
     {
       "path": "sources/transcripts/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.md",
-      "sha256": "20e3d01788770caf5ea38e8dcb1b3e7846f627c7f872d5c6aa69d1dd231c683f"
+      "sha256": "9b933446f2a68ba4b1a50f247966e17415b1e21154a07818dfdba5d80105aa1d"
     },
     {
       "path": "sources/transcripts/2023-02-01-children-who-remember-past-lives-chris-bache.html",
-      "sha256": "3821a6f071b77cd8bc1ddf84816e86b0bb9041200490ce5869919f5c21039d45"
+      "sha256": "d253cf94fd6b72facd52c97a3a188fc0dc4514008ada836a844b6c6c25670f6f"
     },
     {
       "path": "sources/transcripts/2023-02-01-children-who-remember-past-lives-chris-bache.md",
-      "sha256": "8d56d1b53448bc3928935ae9de625922715ea515c7e8b1f81384d5102782ef83"
+      "sha256": "18d5c955dfa0748fb976b73895cb1f2df65f76cfb6fb1352b833a934167c6da7"
+    },
+    {
+      "path": "sources/transcripts/2023-03-15-the-role-of-psychedelics-for-a-planet-in-transition-with-belinda-eriacho.html",
+      "sha256": "c4efd81fdd910b9d3915e692e4c0b16f8093593b13550c95d2d39ebf27f492ef"
+    },
+    {
+      "path": "sources/transcripts/2023-03-15-the-role-of-psychedelics-for-a-planet-in-transition-with-belinda-eriacho.md",
+      "sha256": "5777ae49039bb39941a54e51b2027cb5c00b8ce6f310fd0960e0bb17824bc7c1"
     },
     {
       "path": "sources/transcripts/2023-03-16-collective-shadow-work-and-turning-toward-our-pain.html",
-      "sha256": "7e90ad0dca6ae19e58dc935c7a102b003b479f9f83d9bdc1106e87df7ef63369"
+      "sha256": "97c4c147590490b21029db00a326047ec29800016018db2a6da17182a666f01a"
     },
     {
       "path": "sources/transcripts/2023-03-16-collective-shadow-work-and-turning-toward-our-pain.md",
-      "sha256": "3ed9093304ec2c9cff28c2df866b527c9f1289e4e7a52119e26bd0217a299781"
+      "sha256": "52606138707255a23fc56054ed5b0cdd499876af1601f2e89fd78aa04b509e12"
     },
     {
       "path": "sources/transcripts/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.html",
-      "sha256": "1021acad08cde44688da1d0ba9e111a59d820b805c21b808c8fdaf869aaef969"
+      "sha256": "abd9acead3488587760f92961988db799d8fbb6d63e43118bfff005a13768115"
     },
     {
       "path": "sources/transcripts/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.md",
-      "sha256": "8ad6a0dbadddd60a9ff70bb62d9c18f3877a8670b6b74c0e15538282494f0bf5"
+      "sha256": "6cd619b0e2ffb363a4466d00680ba46e21e10704d2bb0f31c8fbea4dc76940b0"
     },
     {
       "path": "sources/transcripts/2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth.html",
-      "sha256": "67d4be5578032a48b3577b745a90cdd0e877052ef9060ea66007843342f7997b"
+      "sha256": "23922c9b1ba18d275fc9dcf19c25581ca41d5d28d3d36952915412ca6dcc862c"
     },
     {
       "path": "sources/transcripts/2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth.md",
-      "sha256": "46542c8b69a925f2e82f3404d53318144f920728a9563d7730fd18910a4740a8"
+      "sha256": "35f3f769d0b845ec5f6ea8d0300332ecbec7541db5a628760357c0e2462484cd"
     },
     {
       "path": "sources/transcripts/2023-06-30-learning-to-be-gods.html",
-      "sha256": "89f6cb98d785bb31b958c7944e6ab6d8cd50f495ee05d4e7625561421caddad3"
+      "sha256": "67fe1afba8942ca56a257577375babaebed96e4b47423153395b9aa761f0e213"
     },
     {
       "path": "sources/transcripts/2023-06-30-learning-to-be-gods.md",
-      "sha256": "622455b0c92c1b93eb0761be7a1cd4fada4ef96573d234746f2b4814243e1f2a"
+      "sha256": "aec07344521026e1bb3954f15d9b71a29425e5a4716e62d491dba63093e10608"
     },
     {
       "path": "sources/transcripts/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.html",
-      "sha256": "9fa73196cea64775f91eaa636d52496ec674c2f0d173413b247912c0bb957d08"
+      "sha256": "2875d94696033859e57b44b024792895e554ddc8c84cd7573b383eceb54deb46"
     },
     {
       "path": "sources/transcripts/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.md",
-      "sha256": "4e269116fd6f093c930051b7e3b060da5deb5f92181df098be740aaca6c258cf"
+      "sha256": "e4cf118e776b157ad18cffbc5d815b5f6800607081ea68197f265cb5d9d5ac10"
     },
     {
       "path": "sources/transcripts/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.html",
-      "sha256": "180fe82fa16731b2a9662d9c9627189747f07f07f7a98898534e592315774ce7"
+      "sha256": "3a41416a0d5a628a2162efe3436a4adde117e9fd63d5596a526bd6fa078fde37"
     },
     {
       "path": "sources/transcripts/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.md",
-      "sha256": "51315384c0dc7bfd0aa7a26e0b58a7d53e11dda4043b093f8649623c55435f5e"
+      "sha256": "6d810b384e4fe066f42261568712be582fda09db0928c1ca4aed92ad33a972bc"
+    },
+    {
+      "path": "sources/transcripts/2023-08-17-lsd-the-mind-of-the-universe-with.html",
+      "sha256": "ca7a86c1b16001740fdf787853332fca20340bcb1a65a72d825f209e997c3afe"
+    },
+    {
+      "path": "sources/transcripts/2023-08-17-lsd-the-mind-of-the-universe-with.md",
+      "sha256": "ae28cde1b2cc12e90abb4bcceeb9b9ee67dddaa54e2d3dc11824e78f448668cc"
     },
     {
       "path": "sources/transcripts/2023-10-10-experience-of-the-human-being-of-the-future-short.html",
-      "sha256": "43179857e9206a6c5aa0cb22f3b880925fde2357a302928c8024da3d7e8c4a47"
+      "sha256": "c7547dedb3b90c780448c1aabd295a55ce2922fd3cbe9b84a601679031a4ed08"
     },
     {
       "path": "sources/transcripts/2023-10-10-experience-of-the-human-being-of-the-future-short.md",
-      "sha256": "132605cf1e869f4a7d3694d7a7f0d88112a6be8d71eff6be37aaf808fe185f4e"
+      "sha256": "b323fc804c1580245b8bfd4e875e567d0aa20f60a29f19253fc6649ee7ccc87d"
     },
     {
       "path": "sources/transcripts/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.html",
-      "sha256": "c9844721a62729b24b65dbffa8712155b83afa48164928670f121fa1fc96abf7"
+      "sha256": "039b9f1ed15ea2b0ba9765eb19927fa5454dc15230d0fe8f82ae2797967ec2c0"
     },
     {
       "path": "sources/transcripts/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.md",
-      "sha256": "a62fab0829e0b97212a51d3c8fed0cdfdfb85b17f9ab102bdb540a31097d3e3c"
+      "sha256": "9426b692f88051c37207cd5c167866cabf8e081731536ce209d539ec79328ca3"
     },
     {
       "path": "sources/transcripts/2023-11-05-diamonds-from-heaven-the-mind-of-the-universe-chris-bache.html",
-      "sha256": "0da9fe547a4fd73192f30ab01c08a2a497b6f01fdbe0a619cb866ee1aa14ef38"
+      "sha256": "76d182fccd72f5eadd52982dd7f18f6ac4b89e1a444588b854da8447f8b12cbe"
     },
     {
       "path": "sources/transcripts/2023-11-05-diamonds-from-heaven-the-mind-of-the-universe-chris-bache.md",
-      "sha256": "4e456208950e237246194e60207d733705a5d302616e0c938e126df1a2dbe204"
+      "sha256": "ba4d089e83f1a255eeed6c6db11ca5a714fdc2797684236b17b873f95253e03a"
     },
     {
       "path": "sources/transcripts/2023-11-06-73-trips-inside-the-psychedelic-universe.html",
-      "sha256": "c4962062907eba9cbffda299f307f953268ed31c00228ae9a941849e3b483fde"
+      "sha256": "6a8c37fb385ffb3444b2a539de1412773eac49c7e438444a3f7a9c697d854508"
     },
     {
       "path": "sources/transcripts/2023-11-06-73-trips-inside-the-psychedelic-universe.md",
-      "sha256": "eb17fcdb269fa7e60c8043c1e06908a57993723e63b1be9c67a9b081714d39ef"
+      "sha256": "c2f82d53bdbc375ddcc4a44b77d57422a6bb4528bf7a90b02b501d8426fa6f7c"
     },
     {
       "path": "sources/transcripts/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.html",
-      "sha256": "26eb7fee149c34ebf1b02ff323824874a009bbdbf8f20b4b078892acc7939b40"
+      "sha256": "7280f2e18e82f8dc72f869318987b30cd155238c7fb393221eb567a409908ec7"
     },
     {
       "path": "sources/transcripts/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.md",
-      "sha256": "bd7d960f011e496a932fc203c8681ee949b439fc5e2204305b9c0bcea9e5983c"
+      "sha256": "6d1ca70ce0e37f5f6c960b64dee2b200f923af68186824b7203ee04506846d0c"
+    },
+    {
+      "path": "sources/transcripts/2024-02-08-face-to-face-with-chris-bache.html",
+      "sha256": "5673218c083d6ae631b61b12d9dabab3f928a2f65061d0bca697e24aae0879a8"
+    },
+    {
+      "path": "sources/transcripts/2024-02-08-face-to-face-with-chris-bache.md",
+      "sha256": "3b710c2f4d679cfc9759eacc5b092f3f2a930ef807ae3dc5767028be96036aa6"
     },
     {
       "path": "sources/transcripts/2024-02-10-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-sdi-meeting.html",
-      "sha256": "fac45d808d9891767f56ef563b90b65aa734be32058efb1e28ec52723153c5ec"
+      "sha256": "4175f7f8f4fd7ac6d494f2dd6c3c5f7b2682ebf895d9e1e8617812c0a91f562a"
     },
     {
       "path": "sources/transcripts/2024-02-10-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-sdi-meeting.md",
-      "sha256": "0a9712b84d98292ecd7e8759731020f23f1221f9cccdf4d8e06992f07c3781f9"
+      "sha256": "8e89ebd0323f0312e98117f4b6fce83dffc5f39fde7a24e469eb91f691dc0d60"
     },
     {
       "path": "sources/transcripts/2024-06-30-lsd-and-the-mind-of-the-universe-full-interview-in-reality.html",
-      "sha256": "c1fc2bb4f7aad17a767acdebc3fac7f15297e3b874f8c48ebb6108bc8b3c58da"
+      "sha256": "2184e53ca1ccf8b58f5dc867ba7cf7b1818b4752e1f4262f651f347898fa5e9d"
     },
     {
       "path": "sources/transcripts/2024-06-30-lsd-and-the-mind-of-the-universe-full-interview-in-reality.md",
-      "sha256": "b3bec8aa9c443a4113ee0b94cc0c58c966736c681947a1e108d671a17dee627f"
+      "sha256": "0ee154153e85b7992d65f48e0082066beb34296a3c85e28d5a8d2c57fe5c5bf6"
     },
     {
       "path": "sources/transcripts/2024-09-24-philosophical-implications-of-non-ordinary-states-live.html",
-      "sha256": "3219bec48a635f01f0e8601f2ec11fbfa040beca8d6247bf2ddad3da276adc22"
+      "sha256": "fee62d6dad0a8206d4a27081ada79539cb8ca1db7f707252a2593937a5eba1cb"
     },
     {
       "path": "sources/transcripts/2024-09-24-philosophical-implications-of-non-ordinary-states-live.md",
-      "sha256": "1f840b9ef01e61642762379c6fdd3e6beed160b1b8afe64f8e814b3c600ddbfb"
+      "sha256": "b119de5c39c983caca70ff25605185301daac53e7032001ebebfadf1ec77d556"
     },
     {
       "path": "sources/transcripts/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.html",
-      "sha256": "f851f56a7bd36ebea56c1af71eee0ab9790ca4727571a24ad73127e61d67e1a5"
+      "sha256": "87d11a9fd4238072028d921b98fe48bac45544e2c3b91ece967b7e6b390e0ea5"
     },
     {
       "path": "sources/transcripts/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.md",
-      "sha256": "58b1daab324aedb714969bd4664aa47eed21a845a5c24578011e87e44f73f846"
+      "sha256": "ff027258d4f1a363740ecc1ca5a3b989008eb08cfc522d7066927302b349eb43"
     },
     {
       "path": "sources/transcripts/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.html",
-      "sha256": "25bb7e51d80ee6227ab8d5e0a1ed9319f5649e642fdc7f6bfd3a6271b9e2fd31"
+      "sha256": "4cdc3ae4c52f36428ff84c701677917f3f8af9909a2b5cacf7773b2e93372430"
     },
     {
       "path": "sources/transcripts/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.md",
-      "sha256": "cd7a18a45380d5a02a155ed62ab8cfea40da31c81716ab0b5d1cf1ef2d696912"
+      "sha256": "06bc141deecad9dd519229e450107d5f8fe1c07b377584f11422259c23992012"
     },
     {
       "path": "sources/transcripts/2024-11-16-the-evidence-for-reincarnation.html",
-      "sha256": "20d0d4d3933b8c109787bc0755318ded4a1112198fae345be25d9492a22525ec"
+      "sha256": "8fe85c6473fc353a0979c622fc03796dcd272a6a144081a0411c4d612f1c37c4"
     },
     {
       "path": "sources/transcripts/2024-11-16-the-evidence-for-reincarnation.md",
-      "sha256": "5e5951ada1867a29f0a5077d81ce7ce207076d0999813bf0c4681a5a3e8c823e"
+      "sha256": "310ad4a18db575cab5c961674434fe980a646b95f3f9d5dc350206c5082ea633"
     },
     {
       "path": "sources/transcripts/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.html",
-      "sha256": "307e1e2ae4d827ef26b889ec9bdc38ae27c75637f93dee4b42a3b236361fcb7f"
+      "sha256": "0943f0a9efcd7e224ce87fc516a3200f51f4ea113ae4a2745a65c8bb8a3d849b"
     },
     {
       "path": "sources/transcripts/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.md",
-      "sha256": "d8e3c81081b4cbaed4ebefc59b4e1a8f5fec13dbe359dceefb0bc863932b008d"
+      "sha256": "f710419b19242f749c59fe6d6fc510d1cfe20627a9bb3bc02d0d16f043bc58ee"
     },
     {
       "path": "sources/transcripts/2025-03-18-psychedelics-and-the-cosmic-mind.html",
-      "sha256": "b110d2cfa16db736b8fb7108fb5728001eb7e0de7221d95f556a616a8bb8df16"
+      "sha256": "9ba96616ef46a4247212cf71df9b8ea1a22420087aa4ba178d5ffe47c80553c7"
     },
     {
       "path": "sources/transcripts/2025-03-18-psychedelics-and-the-cosmic-mind.md",
-      "sha256": "879ea6afd1023bbf575cc37e7b42af0ee2cfe97c8bfdecc7cab2d7cf904531e6"
+      "sha256": "b16dfb271a6ef99f2b730881f1b752a6a973d7a6da0117ffd665f5fd55f0b733"
     },
     {
       "path": "sources/transcripts/2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine.html",
-      "sha256": "97c0304618296f5b2e5cdfc915d56d6297a7d3ae1b5347e095c4995950108e2c"
+      "sha256": "d6b17688dab1fe642966d4296c7417574ebf39f5268d4ed3bd04ec1a339d7c78"
     },
     {
       "path": "sources/transcripts/2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine.md",
-      "sha256": "88be12fab4e8ee49d0476402fe2ee480fcce11c2dcddc8d0303fcf19d7fd2fcf"
+      "sha256": "2f47fa096905db61088c97a8d33b0c185293c176750223ca48b5325270a22c0c"
     },
     {
       "path": "sources/transcripts/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.html",
-      "sha256": "36876b973459d733ed3d1ab1a3f73e597bc19c59e9c0e9551520c96949d4c40e"
+      "sha256": "4102fe8c5f62dce0dd161cea6e67ec78777ade6594cb10a00ae648d327790e86"
     },
     {
       "path": "sources/transcripts/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.md",
-      "sha256": "589e3ebd978f1862d35b5abd921b124fbf026b8d3bdbac35e1f3a25690ae4882"
+      "sha256": "7fbd676877c019a4ef33b834aac46b871bfd569cf12fd964edb38f4b9e787efe"
     },
     {
       "path": "sources/transcripts/2025-05-18-diamond-luminosity-live-stream.html",
-      "sha256": "839b08526ac74c3647702e825f64680240181bc55de510f2a8689570bba47f3f"
+      "sha256": "0a8732916b2c956b80384efef39b398d6d303bd674cf6d3442f2d98396b68689"
     },
     {
       "path": "sources/transcripts/2025-05-18-diamond-luminosity-live-stream.md",
-      "sha256": "75577e0b7f805d07716a931a5a13ed63643d47b7794b26c125965fceb3f85829"
+      "sha256": "d9dba98a529702fc970e4013df8e7f36febbc2dbda3324823faa4e7b8c105253"
     },
     {
       "path": "sources/transcripts/2025-07-16-consciousness-psychedelics-and-collective-evolution.html",
-      "sha256": "cb7c2b4e56da1d1957835d97b43be9c1af706505b172091f7fe13b6abed9816e"
+      "sha256": "4f2f051ad4d516736145f6df13a850dea22dcc66a0ba24fb6c4014d02a04e7cc"
     },
     {
       "path": "sources/transcripts/2025-07-16-consciousness-psychedelics-and-collective-evolution.md",
-      "sha256": "6efcb15540b000b7b299ce94f776d7662f6c14f16e49af2e9f5ff7b09e457db9"
+      "sha256": "432ee829b8b0468a8e5ee74addd23f27226ac84a57b834f380f469f85d78c453"
+    },
+    {
+      "path": "sources/transcripts/2025-10-15-collective-karma-and-reincarnation-with.html",
+      "sha256": "98b80d596275a3f39461f4f67ff4fe56a181c814daa97dff142eeedf5659f515"
+    },
+    {
+      "path": "sources/transcripts/2025-10-15-collective-karma-and-reincarnation-with.md",
+      "sha256": "7d40b5ad52b3fb9b7df8fa98dd5632464eaa49b62f4e35e887ce2ce023eb575c"
+    },
+    {
+      "path": "sources/transcripts/2025-10-21-psa-fireside-chat-featuring-dr-raymond-turpin-dr.html",
+      "sha256": "2932001643b57b6f8c061b673901fb1d065b5edc862bd8b437f42206cf4b7328"
+    },
+    {
+      "path": "sources/transcripts/2025-10-21-psa-fireside-chat-featuring-dr-raymond-turpin-dr.md",
+      "sha256": "c56ebef364c615e8973c59588a47e8c6d83abfc922e31431fbf7a043a78c6b8f"
+    },
+    {
+      "path": "sources/transcripts/_archive/2009-03-07-the-individual-and-matrix-consciousness-pt-1.20251106-081510.html",
+      "sha256": "a8ac4798e8713f4a67d0311bdfa43be5ac7c5b6001841a3da1e24d25fcc60367"
+    },
+    {
+      "path": "sources/transcripts/_archive/2009-03-07-the-individual-and-matrix-consciousness-pt-1.20251106-081510.md",
+      "sha256": "b153a225e8b5e6981887ca94c7972fcc3f5230ee5b3219a605c403b40f0013a3"
+    },
+    {
+      "path": "sources/transcripts/_archive/2009-03-07-the-individual-and-matrix-consciousness-pt-1.20251107-172414.html",
+      "sha256": "62f0900c70f3557cc7c9d7da7dc0ccd0b50f9e2e7486a26b22542efec5409141"
+    },
+    {
+      "path": "sources/transcripts/_archive/2009-03-07-the-individual-and-matrix-consciousness-pt-1.20251107-172414.md",
+      "sha256": "0217cf18337f626534547d0622a5ff4771be851abda8306b9736f2b8ec055427"
+    },
+    {
+      "path": "sources/transcripts/_archive/2009-03-07-the-individual-and-matrix-consciousness-pt-2.20251106-081547.html",
+      "sha256": "218ffa8a2555d1d795db72bc51de22149206f2fe5b207d6c547ca80f26bcb3e8"
+    },
+    {
+      "path": "sources/transcripts/_archive/2009-03-07-the-individual-and-matrix-consciousness-pt-2.20251106-081547.md",
+      "sha256": "c4058e48633b870c0346f0b1f89eda2bb327374be59696ab9598b02bf543ab28"
+    },
+    {
+      "path": "sources/transcripts/_archive/2009-03-07-the-individual-and-matrix-consciousness-pt-2.20251107-172446.html",
+      "sha256": "e4bd89b86b7bf57dd8727d83484e2d74abe60a655c48bcc527891a2af73a55ec"
+    },
+    {
+      "path": "sources/transcripts/_archive/2009-03-07-the-individual-and-matrix-consciousness-pt-2.20251107-172446.md",
+      "sha256": "7dac49e985e1718e9130dc742e27c0cdaed22bcd55a9df066b9f39eb823e0c0f"
+    },
+    {
+      "path": "sources/transcripts/_archive/2013-08-27-skyblue-symposia-pt-1.20251106-081855.html",
+      "sha256": "488037234f14dd5a70cf7eef3cca51b0c5901d4ffdae0a7f614e943747c76d59"
+    },
+    {
+      "path": "sources/transcripts/_archive/2013-08-27-skyblue-symposia-pt-1.20251106-081855.md",
+      "sha256": "ad31d33f585fd9e1be46a3d96df1de03b726e2c34b66371948c78de563135e2d"
+    },
+    {
+      "path": "sources/transcripts/_archive/2013-08-27-skyblue-symposia-pt-1.20251107-172619.html",
+      "sha256": "a44ddbd0c58b62300b440e7341945f85de4baba621991358534e65cd4cc27430"
+    },
+    {
+      "path": "sources/transcripts/_archive/2013-08-27-skyblue-symposia-pt-1.20251107-172619.md",
+      "sha256": "7bf87dadb36212027f2f21ca2342ca114efc4338f562dc3f28b67654e55ea7b7"
+    },
+    {
+      "path": "sources/transcripts/_archive/2013-08-28-skyblue-symposia-pt-2.20251106-082319.html",
+      "sha256": "1b292526a48463afd18177bb906e67e23c38b8c184c3f8c5292d56e6753e45eb"
+    },
+    {
+      "path": "sources/transcripts/_archive/2013-08-28-skyblue-symposia-pt-2.20251106-082319.md",
+      "sha256": "3cb04a94f6fddd51c74483c1aa7d7e7ef2067cc50449021d2f4bc7bd88398ccf"
+    },
+    {
+      "path": "sources/transcripts/_archive/2013-08-28-skyblue-symposia-pt-2.20251107-172956.html",
+      "sha256": "2d53504b1c958275acc51e1b3deed44da9c288d5a64468437e30e1ba529ea638"
+    },
+    {
+      "path": "sources/transcripts/_archive/2013-08-28-skyblue-symposia-pt-2.20251107-172956.md",
+      "sha256": "0349da72fdbe67ea5f335f849696b412d08bfa78aff95cb35a4abeae3951b33b"
+    },
+    {
+      "path": "sources/transcripts/_archive/2013-11-17-no-fear-of-death-part-1-unity-myrtle-beach.20251106-082640.html",
+      "sha256": "d50d732fd25391ef79c4cc973c3b7c8dda6801157effdbe61a19647643ce0757"
+    },
+    {
+      "path": "sources/transcripts/_archive/2013-11-17-no-fear-of-death-part-1-unity-myrtle-beach.20251106-082640.md",
+      "sha256": "2a0013b810ba82fd5df006455b72ff6b6223771bb3e4c8e6cf107750790c30a4"
+    },
+    {
+      "path": "sources/transcripts/_archive/2013-11-17-no-fear-of-death-part-1-unity-myrtle-beach.20251107-173125.html",
+      "sha256": "b70aaa3b4f8d95609bb5452bf4ccc713734011401bd050eb7302eded9bac8d37"
+    },
+    {
+      "path": "sources/transcripts/_archive/2013-11-17-no-fear-of-death-part-1-unity-myrtle-beach.20251107-173125.md",
+      "sha256": "416aa4cc2ea0f7eab5f8b2b94ee0ec4f085a2d8db3a38b7721d836b12a6c94fb"
+    },
+    {
+      "path": "sources/transcripts/_archive/2013-11-17-no-fear-of-death-part-2-unity-myrtle-beach.20251106-083028.html",
+      "sha256": "fa2e41163394b348415ec289ff02474b7f8951f6979a2f7f5bb8c4c8c66b907b"
+    },
+    {
+      "path": "sources/transcripts/_archive/2013-11-17-no-fear-of-death-part-2-unity-myrtle-beach.20251106-083028.md",
+      "sha256": "9efb4a495041dae2888031731e360f138434c30967e9f149d965dbe4941b406d"
+    },
+    {
+      "path": "sources/transcripts/_archive/2013-11-17-no-fear-of-death-part-2-unity-myrtle-beach.20251107-173420.html",
+      "sha256": "e109213eaa5536b8b83922ff9bc5622a6d6caa5abc51726070be6e8563caa27b"
+    },
+    {
+      "path": "sources/transcripts/_archive/2013-11-17-no-fear-of-death-part-2-unity-myrtle-beach.20251107-173420.md",
+      "sha256": "697e56f48dc63d490579c79880fd2b9effce4017ff41e079dc7ecc80cf97f468"
+    },
+    {
+      "path": "sources/transcripts/_archive/2013-11-17-no-fear-of-death-part-3-unity-myrtle-beach.20251106-083615.html",
+      "sha256": "ab957f5f70e51cb7c453d91957d79e6e672e65e24b61776d4efd9c7eb10b2474"
+    },
+    {
+      "path": "sources/transcripts/_archive/2013-11-17-no-fear-of-death-part-3-unity-myrtle-beach.20251106-083615.md",
+      "sha256": "adf5b81f8f92333e4af9aa1029816597564c17ffd4dc8f74fb23df2af23fcc38"
+    },
+    {
+      "path": "sources/transcripts/_archive/2013-11-17-no-fear-of-death-part-3-unity-myrtle-beach.20251107-173725.html",
+      "sha256": "c76b7630e8af42b6d35866b85dc57d47af384fe4dd58baf7da85d472e98505b3"
+    },
+    {
+      "path": "sources/transcripts/_archive/2013-11-17-no-fear-of-death-part-3-unity-myrtle-beach.20251107-173725.md",
+      "sha256": "8eb60371f7115d26d4c891ce0efab14cefeb6ca25578fc5068b50c730f8bc90b"
+    },
+    {
+      "path": "sources/transcripts/_archive/2013-11-18-sunday-service-with-guest-speaker-chris-bache-unity-myrtle-beach.20251106-052449.html",
+      "sha256": "a32ad42fc249205a61be6a545f32e18920101ec133a7f1389aa6429dcb9ae03e"
+    },
+    {
+      "path": "sources/transcripts/_archive/2013-11-18-sunday-service-with-guest-speaker-chris-bache-unity-myrtle-beach.20251106-052449.md",
+      "sha256": "49601f5d28c738ee48e3c4a689b6d039ae8e9be7a5660a52359893315702983b"
+    },
+    {
+      "path": "sources/transcripts/_archive/2013-11-18-sunday-service-with-guest-speaker-chris-bache-unity-myrtle-beach.20251106-084238.html",
+      "sha256": "c9a99c60ca0a0810680d410f607fa378b03765673fa0ac4f2b58c05ff7d1db95"
+    },
+    {
+      "path": "sources/transcripts/_archive/2013-11-18-sunday-service-with-guest-speaker-chris-bache-unity-myrtle-beach.20251106-084238.md",
+      "sha256": "20f4052ac7789ab98af3c08dd54aadea58537c21941b5a3c7e3c7d7454119e37"
+    },
+    {
+      "path": "sources/transcripts/_archive/2013-11-18-sunday-service-with-guest-speaker-chris-bache-unity-myrtle-beach.20251107-174104.html",
+      "sha256": "f8afa664f0785efd5767f49843e3aa8f6041fc9f7893432c706d4118a087f7dd"
+    },
+    {
+      "path": "sources/transcripts/_archive/2013-11-18-sunday-service-with-guest-speaker-chris-bache-unity-myrtle-beach.20251107-174104.md",
+      "sha256": "d24a906d6c1a863cd0cc9a82aa911af8eca3aa45f15bc69d12b97ae9fd1957ee"
+    },
+    {
+      "path": "sources/transcripts/_archive/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.20251107-174541.html",
+      "sha256": "62ca747ecf053c15feb63a595172ba285f3bcb3f755dfa9b3d4a7e52ef4ebf2b"
+    },
+    {
+      "path": "sources/transcripts/_archive/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.20251107-174541.md",
+      "sha256": "ca66d49232db07f38e884a02976a596e3a17103f51bc3ff42bd9e464cca2eff1"
     },
     {
       "path": "sources/transcripts/_archive/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.html",
-      "sha256": "f1ae57cf1e746a9cbfe6d511162c06a81cfa7f2a3570f912873ec17b5b0013f8"
+      "sha256": "492e2a0e99998f32ff4b0fa241b8147b65eb12c50cf2667c96fd82788689ddf4"
     },
     {
       "path": "sources/transcripts/_archive/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.md",
       "sha256": "32d64f8a84de384089b300eb64b89cc9122b99804d2c6268305b8df1bbfccca3"
     },
     {
+      "path": "sources/transcripts/_archive/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.20251107-174753.html",
+      "sha256": "6dd29f9f3dfe47dbc15bf72f0e9bafab63afb08d8a7f0b7483a57cd118c93d22"
+    },
+    {
+      "path": "sources/transcripts/_archive/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.20251107-174753.md",
+      "sha256": "00be514ebc611dd31fd7bb9a3253f6ab7c18a94e3a2f70b915506be542bf490f"
+    },
+    {
       "path": "sources/transcripts/_archive/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.html",
-      "sha256": "7837866ac8648fb860485b62be7c81db6ba5a4d607e23c79e98086affeeb11b5"
+      "sha256": "9f5bdf389c2ae9e854c2ba2cb32d9fbaf94f7b53e4026bc2039f8dc65c206553"
     },
     {
       "path": "sources/transcripts/_archive/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.md",
       "sha256": "d5b76a819e4ee07c7e29b17d63a07ff1dd80ac6d1deff011a895711afd4d5f79"
     },
     {
+      "path": "sources/transcripts/_archive/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.20251107-175020.html",
+      "sha256": "2d9378142240da171cde53fb46d2d69785df3fdcae3ba4e60ccc20bf69cd8007"
+    },
+    {
+      "path": "sources/transcripts/_archive/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.20251107-175020.md",
+      "sha256": "7a1d61da19205ed60eb67afd71838a658b5df098f8af72cc981d169835bbd649"
+    },
+    {
       "path": "sources/transcripts/_archive/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.html",
-      "sha256": "f9a977f6af2e7a829c06d83cfe47df7e1a0b43d13c62d53b0752a2a52df9812c"
+      "sha256": "76fb22a3c1409377c4946e53bd484121ea8992843c8a51ec039864c805b30ff8"
     },
     {
       "path": "sources/transcripts/_archive/2018-07-05-diamonds-from-heaven-interview-with-iain-mcnay.md",
       "sha256": "6a67ca5293e6fd7cf03508fcf34f3d3cc3cc76e368bc6180ba592f818efa2872"
     },
     {
+      "path": "sources/transcripts/_archive/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.20251107-175303.html",
+      "sha256": "20ed4ec3e4ea73f5391fa7d8c203545070f88aa7a6a1fcbe4253847a546fa9af"
+    },
+    {
+      "path": "sources/transcripts/_archive/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.20251107-175303.md",
+      "sha256": "f0542d8ac304ec0eb5f6ad279d2321f2dfcbc24599be2dd66faaa8f00302cac0"
+    },
+    {
       "path": "sources/transcripts/_archive/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.html",
-      "sha256": "9c52e57b61051d09f32a94e7d89909001f483f35a34b0ea61f59c40a0a498665"
+      "sha256": "d6bd009a93d30c5403460dc3659e9f56e541d3841bc9229e0f10c7ab0b153ca1"
     },
     {
       "path": "sources/transcripts/_archive/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.md",
       "sha256": "c858b098db3a60da6474270ea51fd7dd95141b480bbd94e227f9078b9667c559"
     },
     {
+      "path": "sources/transcripts/_archive/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.20251107-175526.html",
+      "sha256": "5c4eecba1bd4e445b0511fc9d0daf028ac819a62e124458caeaffa571b5f487c"
+    },
+    {
+      "path": "sources/transcripts/_archive/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.20251107-175526.md",
+      "sha256": "84756e51a3f62e0b13e6dfe5d5651d8b6d2cc98e3728d46e802e04d00b944de8"
+    },
+    {
       "path": "sources/transcripts/_archive/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.html",
-      "sha256": "d24598338ca97b8c08b1e411886c80c5f80ea8e5bbb8f715b948e5db3ebb61bf"
+      "sha256": "f78a0d749ec1ccedc6c07675f5be370b7a52f92efd0b86ea5d3ed1cae28c50d6"
     },
     {
       "path": "sources/transcripts/_archive/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.md",
       "sha256": "7aad241f269a995d6867784a37a1b3d8b6abe0cbe6f1544068a130c55fa1e28c"
     },
     {
+      "path": "sources/transcripts/_archive/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.20251107-175929.html",
+      "sha256": "438e343ab0fbb4ff19e1e9b26b971d31b7f14ef2a03d830671c13ddf14ec80db"
+    },
+    {
+      "path": "sources/transcripts/_archive/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.20251107-175929.md",
+      "sha256": "b5f82822abc30d87a5b0e2cfc1e8c85e63834b0f2f5bca06a964797564c16649"
+    },
+    {
       "path": "sources/transcripts/_archive/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.html",
-      "sha256": "1015382607f9c65be123f1af1b8e5600ae936ac5be7b3114114ddfde8d0ceace"
+      "sha256": "c1206c8c1aebd467b3f7db34d411120879a2258618d37b44f1893d7539568049"
     },
     {
       "path": "sources/transcripts/_archive/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.md",
       "sha256": "49bddfa652e183d6eb38f72fdb43faa2096146594fc97e113612361bad4a520d"
     },
     {
+      "path": "sources/transcripts/_archive/2019-02-26-chris-bache-pre-spmc-2018-interview.20251106-090935.html",
+      "sha256": "b1dc80661bbf2091278f6f87a7203ba9c1d77060a797e70eecbeb851014e06bb"
+    },
+    {
+      "path": "sources/transcripts/_archive/2019-02-26-chris-bache-pre-spmc-2018-interview.20251106-090935.md",
+      "sha256": "b9492278fde95118373ef871f3df35d5e8960777824cc5093eca21d9df0096c4"
+    },
+    {
+      "path": "sources/transcripts/_archive/2019-02-26-chris-bache-pre-spmc-2018-interview.20251107-180200.html",
+      "sha256": "50afc941ade0713b8b21b16a39d78e46ba21f4a48de334e9e4ff615c458402ae"
+    },
+    {
+      "path": "sources/transcripts/_archive/2019-02-26-chris-bache-pre-spmc-2018-interview.20251107-180200.md",
+      "sha256": "6814e620191b1879bf0182979b91d153fcb47551425dc5a6cc48e6764bf45b41"
+    },
+    {
+      "path": "sources/transcripts/_archive/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.20251107-180744.html",
+      "sha256": "00c688c513943d64c2cfbbd554d6c6d4d482ce4628e1676c9c786889b56ffb91"
+    },
+    {
+      "path": "sources/transcripts/_archive/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.20251107-180744.md",
+      "sha256": "907f6dcc937865136aeb8cdfd88973df6cbdaf776852c49557ffbef6681dbd57"
+    },
+    {
       "path": "sources/transcripts/_archive/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.html",
-      "sha256": "c398a79ed64eb666526e226e1a713b8e5dc02b6672df07c6ca35ead930d71564"
+      "sha256": "d7c59b77a61966ea598d1eb99edb046dbc65ec34533c69c7f975bb10927a030e"
     },
     {
       "path": "sources/transcripts/_archive/2019-05-15-michael-pollan-and-chris-bache-buddha-at-the-gas-pump-interview.md",
       "sha256": "37fdec199aad60404b79264f8dbe9bacd19a880bb071ab6641f3caeba6eaf88f"
     },
     {
+      "path": "sources/transcripts/_archive/2019-08-30-scientific-evidence-for-reincarnation.20251107-181016.html",
+      "sha256": "9e48480046cb23b40fdb4db90fa78cec699c37dcec45912f5b6eda60ef49b492"
+    },
+    {
+      "path": "sources/transcripts/_archive/2019-08-30-scientific-evidence-for-reincarnation.20251107-181016.md",
+      "sha256": "b850920a00ab9e794aed079a0215e3590bc7e5cac82ed4942b8b761fc96c276a"
+    },
+    {
       "path": "sources/transcripts/_archive/2019-08-30-scientific-evidence-for-reincarnation.html",
-      "sha256": "29dcaeb0cb7705a09620db2a43656323386e6a0bd9a90ceab26efca3a96e8fc1"
+      "sha256": "844a118fedad8cdc2a2e9961fb4ae828236fc923e5b892adb0a7cd8457e85dfb"
     },
     {
       "path": "sources/transcripts/_archive/2019-08-30-scientific-evidence-for-reincarnation.md",
       "sha256": "45d49549d6d2afb467357bb45042dd930312f79a4d3cd72d1d02a829fa72a595"
     },
     {
+      "path": "sources/transcripts/_archive/2019-09-26-mapping-of-transcendence.20251107-181240.html",
+      "sha256": "96be51474ef39ea910d7f66f3ed1518986fb678e2a6c5193348ea7b637332af3"
+    },
+    {
+      "path": "sources/transcripts/_archive/2019-09-26-mapping-of-transcendence.20251107-181240.md",
+      "sha256": "e71a445637a9154e7b8084f7d84f086eeee67229b534d0e11a99a8a26228faae"
+    },
+    {
       "path": "sources/transcripts/_archive/2019-09-26-mapping-of-transcendence.html",
-      "sha256": "4e7c4ffa900ea15a7fcf732b27b9400cb344550f1d35eaacd0741cf37a4ae50b"
+      "sha256": "bfc5e11d47bee91cb2f8e8d676622af2dbbc4e3b3c387fc1767577b8a84a2c3d"
     },
     {
       "path": "sources/transcripts/_archive/2019-09-26-mapping-of-transcendence.md",
       "sha256": "f022e63b8d7bd07802118bf782af4efa6c963d4602916f1270b87ce069c72efb"
     },
     {
+      "path": "sources/transcripts/_archive/2019-10-18-the-human-experience-live-show-022-dr-chris-bache-lsd-and-the-mind-of-the-universe.20251106-093436.html",
+      "sha256": "27d16f654ddb8359c029272dd5389aee087d90baaeebb4958a32391721879325"
+    },
+    {
+      "path": "sources/transcripts/_archive/2019-10-18-the-human-experience-live-show-022-dr-chris-bache-lsd-and-the-mind-of-the-universe.20251106-093436.md",
+      "sha256": "78a6a522e1eb60f22bd898a8b9b508754086e2ae8dcf61383dbc22108ca2a632"
+    },
+    {
+      "path": "sources/transcripts/_archive/2019-10-18-the-human-experience-live-show-022-dr-chris-bache-lsd-and-the-mind-of-the-universe.20251107-181530.html",
+      "sha256": "3a947fab53c3c25956f6c080c3d08009ca8a2ed7e4bc0ad6947c84b022a90d8c"
+    },
+    {
+      "path": "sources/transcripts/_archive/2019-10-18-the-human-experience-live-show-022-dr-chris-bache-lsd-and-the-mind-of-the-universe.20251107-181530.md",
+      "sha256": "59a1ec03db142147d47c19fde6810dda69e89bb5d205f73ec12bd2963dd165a4"
+    },
+    {
+      "path": "sources/transcripts/_archive/2019-10-22-an-interview-with-chris-bache-lsd-and-the-universe.20251106-093846.html",
+      "sha256": "eee5b193c7f9f2d295a667cf07effb5b2298c478f80a9090fe355ce9792bc834"
+    },
+    {
+      "path": "sources/transcripts/_archive/2019-10-22-an-interview-with-chris-bache-lsd-and-the-universe.20251106-093846.md",
+      "sha256": "aa20b9715cb394a9a8ec52a5ba0706eed850ed665c32579655489d82ee50382f"
+    },
+    {
+      "path": "sources/transcripts/_archive/2019-10-22-an-interview-with-chris-bache-lsd-and-the-universe.20251107-181848.html",
+      "sha256": "dc24fcb911f99a26915e101e6173e499fb69b5d982176ffc6f27b3178606836f"
+    },
+    {
+      "path": "sources/transcripts/_archive/2019-10-22-an-interview-with-chris-bache-lsd-and-the-universe.20251107-181848.md",
+      "sha256": "e503aeee86ff1749a13ef4ec3cd2788622b177bf6b736a7ec1c0f2526eb47145"
+    },
+    {
+      "path": "sources/transcripts/_archive/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.20251107-182252.html",
+      "sha256": "265bd1a84075dafac5c54290c7864ded3ff17a596989e000aeba49fbd1dc9484"
+    },
+    {
+      "path": "sources/transcripts/_archive/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.20251107-182252.md",
+      "sha256": "479c3583b92660b3d47e336c40d26b8d5fddb7b4ad83ae0c8de2b1ab2c96ad8b"
+    },
+    {
       "path": "sources/transcripts/_archive/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.html",
-      "sha256": "5f948c7f42cb811be7e5ae5f07c557a6bdc7f5ba683935c2f38757c6003d4211"
+      "sha256": "96a76393c4f19f9106f257ca41300462c25a34cc5e339145ef4582e07e4ab091"
     },
     {
       "path": "sources/transcripts/_archive/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md",
       "sha256": "4aa3096fa20aeff05ba36c886f150c95a337abf651c3e84324d418bf49bd2840"
     },
     {
+      "path": "sources/transcripts/_archive/2019-11-18-behind-the-curtain-christopher-m-bache-phd-episode-64.20251106-094000.html",
+      "sha256": "0a1e063a8caa34b6630cefad0760dfd6027e6803d1916451420f2d2989f0db6d"
+    },
+    {
+      "path": "sources/transcripts/_archive/2019-11-18-behind-the-curtain-christopher-m-bache-phd-episode-64.20251106-094000.md",
+      "sha256": "1e1725be832c6a3314baee276b83ad280959100f943026998f57af816813f8fe"
+    },
+    {
+      "path": "sources/transcripts/_archive/2019-11-18-behind-the-curtain-christopher-m-bache-phd-episode-64.20251107-182352.html",
+      "sha256": "3adb27b9fffebd7185041246ee1402b584c56930ed53f4cd9a8ac555c8c3acf5"
+    },
+    {
+      "path": "sources/transcripts/_archive/2019-11-18-behind-the-curtain-christopher-m-bache-phd-episode-64.20251107-182352.md",
+      "sha256": "646c6ee457f9af6e56e952859bbce3e81f1532aa164a74f2e0cf78fce1755570"
+    },
+    {
+      "path": "sources/transcripts/_archive/2019-11-25-live-with-chris-bache-73-lsd-sessions-journey-through-the-mind-of-the-universe-w-vanese-mc-neill.20251106-100615.html",
+      "sha256": "ad9d0a899d46e4d2c89f1116f3b8d27361a87030a88533c3c91300bc678a3c67"
+    },
+    {
+      "path": "sources/transcripts/_archive/2019-11-25-live-with-chris-bache-73-lsd-sessions-journey-through-the-mind-of-the-universe-w-vanese-mc-neill.20251106-100615.md",
+      "sha256": "b36ee046656c4f2f2d5669445c0182b062d167d13d4f85230d5cb1c4297741d6"
+    },
+    {
+      "path": "sources/transcripts/_archive/2019-11-25-live-with-chris-bache-73-lsd-sessions-journey-through-the-mind-of-the-universe-w-vanese-mc-neill.20251107-182524.html",
+      "sha256": "979096dfb03f07a123d4590b4fa25254d8d6422ce3c052a1d1c8358a80a03f06"
+    },
+    {
+      "path": "sources/transcripts/_archive/2019-11-25-live-with-chris-bache-73-lsd-sessions-journey-through-the-mind-of-the-universe-w-vanese-mc-neill.20251107-182524.md",
+      "sha256": "27704f80e39aa873857435b09b47b89cf19a4affeb82502fefda548eada4ccbe"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.20251107-182815.html",
+      "sha256": "9cff57bec0fa248b1e882b904e2299006b8faab780ad61352b41c1348ee60e95"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.20251107-182815.md",
+      "sha256": "59f03a2e084b507564b03f48e0cca15d22dd5fe62c44c666ac6108cba8e84d8f"
+    },
+    {
       "path": "sources/transcripts/_archive/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.html",
-      "sha256": "d9d68434840135df01f1079d8a1b7909122fd3d7511dcad4a2515305e13401c7"
+      "sha256": "4e5b9dc0f1c8eaca312c6ee048c57ebab0629813cccc6dc0a35aade5056dbca7"
     },
     {
       "path": "sources/transcripts/_archive/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md",
       "sha256": "91050548a4084fcdfe0fbb1b002ba50d46848ce766fd36565fdccce392c9f4b4"
     },
     {
+      "path": "sources/transcripts/_archive/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.20251107-182842.html",
+      "sha256": "3c8adc21ea1945c320ccf2448e71d2e97185943e327943e5d86be30f88be3ce2"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.20251107-182842.md",
+      "sha256": "9593b2dddd1f92b627d4b1e52155c91db4e13ded63561a13ed0af4c13b5d000b"
+    },
+    {
       "path": "sources/transcripts/_archive/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.html",
-      "sha256": "a48bb585ecebaba57ab253b07253ecf21334a216d82bf0c6cba760e0d7933e1a"
+      "sha256": "35f0111e6c02e7922d54426d1fde7090f2f871b4d4dd5b4c30a56d327ad1769e"
     },
     {
       "path": "sources/transcripts/_archive/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.md",
       "sha256": "6caf8b5c4bcfa8a3e37beede7a3b8637ca1e82ec60cd2337f725b4197fdd7334"
     },
     {
+      "path": "sources/transcripts/_archive/2020-01-17-diamond-luminosity-exploring-high-dose-lsd-experiences-with-dr.20251106-101143.html",
+      "sha256": "aadc115f16506a70c287b1faf77335ed0cdd723e0bd00c6d80f02f85c336959f"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-01-17-diamond-luminosity-exploring-high-dose-lsd-experiences-with-dr.20251106-101143.md",
+      "sha256": "beb69d1cb6fc00240e1428bb606400a59455038510d62aa25ba0914c41ceaf11"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-01-17-diamond-luminosity-exploring-high-dose-lsd-experiences-with-dr.20251107-183119.html",
+      "sha256": "656e69e4e9b8ce911a25c7adafdba172d814d885769a1b7ba7b8b7e8b8c073e6"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-01-17-diamond-luminosity-exploring-high-dose-lsd-experiences-with-dr.20251107-183119.md",
+      "sha256": "a9a07afaf9723e178102073b1799ed7570cfb8ae16f9987ca104413a5c84b1be"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-03-22-behind-the-curtain-with-christopher-m-bache-phd-episode-64.20251106-101642.html",
+      "sha256": "c5d320896fd1bd6eb875829c53aa476ca2b2145155511f93c423a2cecc52ce8d"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-03-22-behind-the-curtain-with-christopher-m-bache-phd-episode-64.20251106-101642.md",
+      "sha256": "1809174410faa1ae8a71aae4098be671780619bc810ce427b2a435d3785856a4"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-03-22-behind-the-curtain-with-christopher-m-bache-phd-episode-64.20251107-183447.html",
+      "sha256": "8b892e5e2cab7b87758c12d16c910f5838a8e5e66b799cc165541833212fea3c"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-03-22-behind-the-curtain-with-christopher-m-bache-phd-episode-64.20251107-183447.md",
+      "sha256": "d5979a702bbe94a3c92d27918ea087a97d0d1d919c5165a44365361a5379fe4c"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-04-19-bicycle-day-conversation-with-jef-baker.20251107-183935.html",
+      "sha256": "77e207e47e3d052a9a8d7b986883dfa879e98135b26161d42d6bc2a2f0ceade9"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-04-19-bicycle-day-conversation-with-jef-baker.20251107-183935.md",
+      "sha256": "bfbf4d144352392835cdcac34747c825099536ce0ac2bf03834854ef755c4043"
+    },
+    {
       "path": "sources/transcripts/_archive/2020-04-19-bicycle-day-conversation-with-jef-baker.html",
-      "sha256": "410035c3adc9ad2b52b914f6c9821a63fa75b604535c4b7ef4cd1b2aaf9dc318"
+      "sha256": "bd16b6295a4c62e38192cad4d0177e5037ffbe0d2da25b595f09e02cb1bcb629"
     },
     {
       "path": "sources/transcripts/_archive/2020-04-19-bicycle-day-conversation-with-jef-baker.md",
       "sha256": "fa5bb28b51eb36d7fa103363b35cf7a970cd6d84fa4d08071a63e18c6fd27312"
     },
     {
+      "path": "sources/transcripts/_archive/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.20251107-184408.html",
+      "sha256": "781024c61eb34e2c090b989d5a58e24d6a2877154510333e1384dac937f4f956"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.20251107-184408.md",
+      "sha256": "05831a7b156420c1e15e1c1d37c038c7996ebb807d337ccc20d2006b2dbb987d"
+    },
+    {
       "path": "sources/transcripts/_archive/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.html",
-      "sha256": "5548eef49e482ad8c6f7ec2fe6121b5e2afd6df33e424fd0f7c889ee9c8d792e"
+      "sha256": "e39b4afbf80487af65214246b2f7923089a5342c2fa95d261383086a3e4ac569"
     },
     {
       "path": "sources/transcripts/_archive/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.md",
       "sha256": "3b94fae784237478f471976d4098759798d47888eea164a8a48f68ae6e41b026"
     },
     {
+      "path": "sources/transcripts/_archive/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.20251107-184706.html",
+      "sha256": "df469b0cbbb69e2bdd058c1568946238f81bab7042d2392d757ec3dd1d5a6327"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.20251107-184706.md",
+      "sha256": "2b46fce97e0114324bc54d77c2bc7575d3f50a5bba8c040bce91d81285ebe2c4"
+    },
+    {
       "path": "sources/transcripts/_archive/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.html",
-      "sha256": "e15b1f6f7015dd1033fbc351ae150a31d65b2736d4bcb12ba6ba668ee354c476"
+      "sha256": "c242dc8ff22328c1ae989935d1ceee15eab2033616967b3e4c03b5298b5ad748"
     },
     {
       "path": "sources/transcripts/_archive/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.md",
       "sha256": "a28da1e19fa7bb32c9f6e8add894a9e70c495bce8ff598f457224059b12a577a"
     },
     {
+      "path": "sources/transcripts/_archive/2020-12-03-what-73-high-dose-lsd-sessions-teach-you-about-the-mind-of-the-universe-w-christopher-m-bache-ep11.20251106-102355.html",
+      "sha256": "a6ceab4b339607e09c8568534f47c9fe1f4a54ec16f794f3d7a041b783b027b8"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-12-03-what-73-high-dose-lsd-sessions-teach-you-about-the-mind-of-the-universe-w-christopher-m-bache-ep11.20251106-102355.md",
+      "sha256": "373d792738836a37af928dd98e8ac2e0408db0c0153fb6aafc4eda7927d47cbe"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-12-03-what-73-high-dose-lsd-sessions-teach-you-about-the-mind-of-the-universe-w-christopher-m-bache-ep11.20251107-185356.html",
+      "sha256": "b3fa621ab71580c5320690f37962bce1bb06c8263c265d0b86bd0524b4d7c8f1"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-12-03-what-73-high-dose-lsd-sessions-teach-you-about-the-mind-of-the-universe-w-christopher-m-bache-ep11.20251107-185356.md",
+      "sha256": "8f6be932093fa2a1711ba6889cddbdbf44b82fac74c608a226d5d19e8b213fa6"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-12-21-great-conjunction-reflection-short.20251107-185459.html",
+      "sha256": "d524124beb9b584163a339c5471374af081b5d973b3412b91fac8d4038b95b2f"
+    },
+    {
+      "path": "sources/transcripts/_archive/2020-12-21-great-conjunction-reflection-short.20251107-185459.md",
+      "sha256": "f65b698dc7f12b8116c70cdc921bc601a087c9c8b2f66687760379174f5aa86c"
+    },
+    {
       "path": "sources/transcripts/_archive/2020-12-21-great-conjunction-reflection-short.html",
-      "sha256": "d8fbfb698d87525de4658cdae6136696d39f678f70a64e0021579138b27df6ff"
+      "sha256": "4ab1eeff72a8da0d28832d9aabe83b904da47e49a7829f16d35cd34781ff0ab0"
     },
     {
       "path": "sources/transcripts/_archive/2020-12-21-great-conjunction-reflection-short.md",
       "sha256": "d2a16527949fcf4a7afe7cc228838d8d0e84a61b62dc6b43cc37625a3e790602"
     },
     {
+      "path": "sources/transcripts/_archive/2021-01-02-discover-the-mind-of-the-universe-lsd-psychedelic-research-with-professor-christopher-m-bache.20251106-102845.html",
+      "sha256": "95ff7fa369e1af69536a436a24749286ec003332931540d09c69412050984ee5"
+    },
+    {
+      "path": "sources/transcripts/_archive/2021-01-02-discover-the-mind-of-the-universe-lsd-psychedelic-research-with-professor-christopher-m-bache.20251106-102845.md",
+      "sha256": "6ee9e43086c4abf114f759357ff4b3de9dc129e7090891afe21e2c0da9f2235b"
+    },
+    {
+      "path": "sources/transcripts/_archive/2021-01-02-discover-the-mind-of-the-universe-lsd-psychedelic-research-with-professor-christopher-m-bache.20251107-185723.html",
+      "sha256": "5b227adf7fd4e418736c1f027f28b4f6b9bbe20aaa9aef5dc7992845af1b2672"
+    },
+    {
+      "path": "sources/transcripts/_archive/2021-01-02-discover-the-mind-of-the-universe-lsd-psychedelic-research-with-professor-christopher-m-bache.20251107-185723.md",
+      "sha256": "b1f620e0fc1d5c7b62f3c6e2a1c257a1d04ce00eab0529c652a96e6eec262793"
+    },
+    {
+      "path": "sources/transcripts/_archive/2021-03-16-contemplating-reincarnation-part-2.20251107-185914.html",
+      "sha256": "3b38735ffc5b6991cfa55ec795e85df24a2b2f5a31f68e3929af641b8d5dd8ce"
+    },
+    {
+      "path": "sources/transcripts/_archive/2021-03-16-contemplating-reincarnation-part-2.20251107-185914.md",
+      "sha256": "d5a1ca8d1453247534d90b5dea03ccd81d4a773b31aaeadc91f8305ca9d1ddc0"
+    },
+    {
       "path": "sources/transcripts/_archive/2021-03-16-contemplating-reincarnation-part-2.html",
-      "sha256": "a810f270aead6b49a97042d8549cad61ac89f67d2a7b967b1c51a0acaeb2c779"
+      "sha256": "fda43bfb722a2de5d2413157d70596010efaf49b9d36730e7bf27e6aae7365d5"
     },
     {
       "path": "sources/transcripts/_archive/2021-03-16-contemplating-reincarnation-part-2.md",
       "sha256": "37444137da49d3ec138effff42417b96fdd9cc037f4dd0551030a0c6c002cd30"
     },
     {
+      "path": "sources/transcripts/_archive/2021-03-16-contemplating-reincarnation-part-3.20251107-190107.html",
+      "sha256": "a37ee389b5e23a24f1589c87c141a3205a583a40d15831c5e3688f7cea880ae4"
+    },
+    {
+      "path": "sources/transcripts/_archive/2021-03-16-contemplating-reincarnation-part-3.20251107-190107.md",
+      "sha256": "2a5e84cf49c211e570aa115d9fce4e9496ad6e8cfac727acc04af89c2e7f0249"
+    },
+    {
       "path": "sources/transcripts/_archive/2021-03-16-contemplating-reincarnation-part-3.html",
-      "sha256": "c2a85de387f2bf2bd7b4cc879668ce4bd1f210f26ff691d88fe025141d9db233"
+      "sha256": "e8e4f570f401f25fbe34b0a7ebcea4817eb6444bc4581e91a27b312579df22c9"
     },
     {
       "path": "sources/transcripts/_archive/2021-03-16-contemplating-reincarnation-part-3.md",
       "sha256": "4a7ae3f4410df20f659a7a568fa6761cd5382828a1ad7acbc6ae5b0208b0f7e5"
     },
     {
+      "path": "sources/transcripts/_archive/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.20251107-190437.html",
+      "sha256": "130704b502eb50599e4e4b39d61ce163c08072cf0bc7fa4965368eee18e4a0b4"
+    },
+    {
+      "path": "sources/transcripts/_archive/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.20251107-190437.md",
+      "sha256": "d887d1c8eb17933a843546c177dba49d43db81c9e8062c245536c5af38ddcaa9"
+    },
+    {
       "path": "sources/transcripts/_archive/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.html",
-      "sha256": "8d2a6b2971acefc048554aa1823bad2701680b7ee784827942de8660bfb5a1e9"
+      "sha256": "c80f26a9ff3851d0461a7546548947792f3b3236ac1eb3805d0445af5f2f1883"
     },
     {
       "path": "sources/transcripts/_archive/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.md",
       "sha256": "7a462725e73d870df5c0c29ff7e0e0aae7ca56795816e3dea4bef882a760e4bb"
     },
     {
+      "path": "sources/transcripts/_archive/2021-04-01-contemplating-reincarnation-part-1.20251107-190744.html",
+      "sha256": "0cf872d4fc452719e6916308e57c5f0bca6f0ecceff52b90ee469fd207df12c1"
+    },
+    {
+      "path": "sources/transcripts/_archive/2021-04-01-contemplating-reincarnation-part-1.20251107-190744.md",
+      "sha256": "231a4d000e4a9e34b5c99098fa902cadbb17d613e46bee9ffab296af6e1ca82e"
+    },
+    {
       "path": "sources/transcripts/_archive/2021-04-01-contemplating-reincarnation-part-1.html",
-      "sha256": "ddd0aca27363849e0801414a6b081878a0165077d7244dbbd4e44004f818e517"
+      "sha256": "68d6f02fb11e26b6e58fc420c7f02eaf1692bb9fcf55919af24a2add884b8536"
     },
     {
       "path": "sources/transcripts/_archive/2021-04-01-contemplating-reincarnation-part-1.md",
       "sha256": "8f9b9b9e6bf22239e3eb5f9452a1cf8fae5e39af8ab1e1892a5bdd216b0c3e4c"
     },
     {
+      "path": "sources/transcripts/_archive/2021-04-02-reincarnation-qanda-live-with-richard-rudd.20251107-191131.html",
+      "sha256": "248fa74cac1346dd1aaed06d7595baf20ad02fffb9f427e1ed1e00dcfa425f54"
+    },
+    {
+      "path": "sources/transcripts/_archive/2021-04-02-reincarnation-qanda-live-with-richard-rudd.20251107-191131.md",
+      "sha256": "c7db832c3fff9bbf931bc861362b66161a348a6a5caa267669d73b8249235b26"
+    },
+    {
       "path": "sources/transcripts/_archive/2021-04-02-reincarnation-qanda-live-with-richard-rudd.html",
-      "sha256": "a3891b0b43e0e41e7bb14859bb4cc17cd3b7b6381c0d463c8c6be3d4ff8487f5"
+      "sha256": "0a74192b2ce08a8c02441bd81f247fe0450a0b1fffb226f4d09f6cf4cb92201e"
     },
     {
       "path": "sources/transcripts/_archive/2021-04-02-reincarnation-qanda-live-with-richard-rudd.md",
       "sha256": "343fc057bbf8dae6f7830688636d19f3247f055076329a27932839fdf8ac3b06"
     },
     {
+      "path": "sources/transcripts/_archive/2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142.20251107-191512.html",
+      "sha256": "22b40337b7da0882dcab3a80a1bb88b276a2faaa70765f160a8c7d54382ef593"
+    },
+    {
+      "path": "sources/transcripts/_archive/2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142.20251107-191512.md",
+      "sha256": "7170af612ee0b707439153ec402321619c1b51ef01a393c58781b6c3c461f645"
+    },
+    {
       "path": "sources/transcripts/_archive/2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142.html",
-      "sha256": "54cdd415a3a4b3325ebc2f293056a8c56be74071450b9a033392b89181b223b7"
+      "sha256": "664390146dcdb12c0ddd574c3eab049bfb94f9071c401fd59104aa983f835bc9"
     },
     {
       "path": "sources/transcripts/_archive/2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142.md",
       "sha256": "dcbdee075ca6623611387e7485f8cf15738cce532e853a5818b7b3550709117f"
     },
     {
+      "path": "sources/transcripts/_archive/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.20251107-191634.html",
+      "sha256": "8d95477b010a5b4c7264477fbd6ee11d6d2212e321edfeb035240246ca29e203"
+    },
+    {
+      "path": "sources/transcripts/_archive/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.20251107-191634.md",
+      "sha256": "67320c23d425f7f18038c0e3e4a757e4e8c0aed973d30cec012a425b36242b7b"
+    },
+    {
       "path": "sources/transcripts/_archive/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.html",
-      "sha256": "2993cd8428d3fff7088b356823bd5d8a995ed1c528f2eea8fcc68ba33b5f7c86"
+      "sha256": "1730c563df77ad83434f80fc4bc302423520b33d6016fb614c39b5e4819d128e"
     },
     {
       "path": "sources/transcripts/_archive/2021-05-03-lsd-and-the-mind-of-the-universe-interview-with-stephen-gray.md",
       "sha256": "548d0a42f5e33a07392afb85ab9ce263fc9c5d56047f4975d6b3808d30f0aa43"
     },
     {
+      "path": "sources/transcripts/_archive/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.20251107-192032.html",
+      "sha256": "42f2030a2c060d11b32555c177a1c30174e4eebd710ba25357f9557a31d12cff"
+    },
+    {
+      "path": "sources/transcripts/_archive/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.20251107-192032.md",
+      "sha256": "667843233794047af8bc97328329d3150d2961b3868d5408376f111766d218e9"
+    },
+    {
       "path": "sources/transcripts/_archive/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.html",
-      "sha256": "e12e681e16a67bad75f9759fbe292a0d098b3b174478f5b56fd6c081785a8a66"
+      "sha256": "7c971e0a2402abf5346330d7589131a93c8e12be7d9a3dd5115cef48fab21dd4"
     },
     {
       "path": "sources/transcripts/_archive/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.md",
       "sha256": "337577b5be3ab819e17e618fd1ccfcb535ec4d49d6ac2bc1fe47131c81090b18"
     },
     {
+      "path": "sources/transcripts/_archive/2021-07-08-mind-blowing-lsd-secrets-revealed-rebel-spirit-radio.20251107-192249.html",
+      "sha256": "0feb5823bfee68e6f55235c1d288c9f1a5969c13c70b6d138e55d9e1f338f614"
+    },
+    {
+      "path": "sources/transcripts/_archive/2021-07-08-mind-blowing-lsd-secrets-revealed-rebel-spirit-radio.20251107-192249.md",
+      "sha256": "34028ef93b327364d5e2f481f7b2e26e96636e5e6c44e6a8d98909464f29650c"
+    },
+    {
       "path": "sources/transcripts/_archive/2021-07-08-mind-blowing-lsd-secrets-revealed-rebel-spirit-radio.html",
-      "sha256": "1f826a5c4e1b93a1e50e8ac206e30f4aa1b50c3b01a462747856119105d80a1e"
+      "sha256": "80f7c2a5439e548729a8d537679211b327fd370c624bc6167b5f22a59b170354"
     },
     {
       "path": "sources/transcripts/_archive/2021-07-08-mind-blowing-lsd-secrets-revealed-rebel-spirit-radio.md",
       "sha256": "9f3ca08570d61f0d8366c4fe357ee8b07cab2e43b0db5588b0a17474276bc26b"
     },
     {
+      "path": "sources/transcripts/_archive/2021-11-16-transformative-journey-into-the-cosmic-mind-through-psychedelics-with.20251106-103211.html",
+      "sha256": "848ea9f0eca9ed77ac4929709cd10a4ab6fe161b270b3475eb82d2faa933a8a1"
+    },
+    {
+      "path": "sources/transcripts/_archive/2021-11-16-transformative-journey-into-the-cosmic-mind-through-psychedelics-with.20251106-103211.md",
+      "sha256": "6c44f147b99211278a565ba93f9286ae819d352c0e3b3cbc52c5301eb8a57a6d"
+    },
+    {
+      "path": "sources/transcripts/_archive/2021-11-16-transformative-journey-into-the-cosmic-mind-through-psychedelics-with.20251107-192612.html",
+      "sha256": "591177d6d4d4318d7d3431492d56e3e570f9bf7afe7a31a7db4194849a380f3f"
+    },
+    {
+      "path": "sources/transcripts/_archive/2021-11-16-transformative-journey-into-the-cosmic-mind-through-psychedelics-with.20251107-192612.md",
+      "sha256": "5975d4c40438beba6bf0716caeb8bb735bae6b674e28ddb9c1667fa40c9d8fc1"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.20251107-192921.html",
+      "sha256": "567c0fe262fb827d3678071bc425843389c8234784177416e79619db42ccdb3e"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.20251107-192921.md",
+      "sha256": "7406829ff1db530a9c41deb6532ba54c261dac8b3d344161d6903e72210fbcfa"
+    },
+    {
       "path": "sources/transcripts/_archive/2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.html",
-      "sha256": "25284db5129f2f2096f8816851e9a8117994408d853aadc933bd88287ce52c9a"
+      "sha256": "d75900aa88bdb2a54b70bcf4a7324a183d6e09ea20c09060e708a592da970e2e"
     },
     {
       "path": "sources/transcripts/_archive/2022-01-20-evolution-of-collective-consciousness-deep-transformation-podcast-part-1.md",
       "sha256": "426c3036b21e589401bc1dc6c90ce83883cd292eb69e0952da0ea46d0f2494e0"
     },
     {
+      "path": "sources/transcripts/_archive/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.20251107-192947.html",
+      "sha256": "1241e18e9d2f9030557ca75577b1834a83c09ec251eff7f54c7e5c2064eefc55"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.20251107-192947.md",
+      "sha256": "9db0867622173e63fb7c2a66c11b395405a52d4851aec718df5ed493223f427c"
+    },
+    {
       "path": "sources/transcripts/_archive/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.html",
-      "sha256": "5b26c8f1d3c8535b76ffbefcff206b446d07744d3e4c4a4b5c06025d6801e921"
+      "sha256": "4de8dbf3e170afbe3371fb918a269c8bc6321caff041a5cc3f74a4088d4a3104"
     },
     {
       "path": "sources/transcripts/_archive/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.md",
       "sha256": "57326b0d1ba39c8f371829f6169eccc175471fae257f02029e2fb56cdf28a274"
     },
     {
+      "path": "sources/transcripts/_archive/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.20251107-193632.html",
+      "sha256": "b0133d446e1056f7f1359486300424f0429644bad4c2c05ee0fb3edc94d4c1d1"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.20251107-193632.md",
+      "sha256": "61d712842380e7ce964748d95cfbc210755e35300da186efe5bcf35561d45ae6"
+    },
+    {
       "path": "sources/transcripts/_archive/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.html",
-      "sha256": "ff016402079b706cc7e6d57c99114a00404984298c57454743cec89f0d4d2116"
+      "sha256": "09e0a4acaedbe26080777e4add7cb192d3eafbd9e6711571d88bf5c5871a2ca9"
     },
     {
       "path": "sources/transcripts/_archive/2022-02-17-exploring-lsd-as-a-practice-edge-of-mind-podcast-part-1.md",
       "sha256": "7457d6e8aa166535fb86837de7df543ffad970cf5c4e3fbf110de6472156e49e"
     },
     {
+      "path": "sources/transcripts/_archive/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.20251107-193637.html",
+      "sha256": "205455f6e615f6080c422076f9ac2d0f8c772a1e83051f21cbeeb9c7d64bd03c"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.20251107-193637.md",
+      "sha256": "8b6368459ff5bc9e36cc9b574d009b23e9854956fdc07ef5c5297e12ed2d21ba"
+    },
+    {
       "path": "sources/transcripts/_archive/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.html",
-      "sha256": "cf5b1c7d83252c8f0508042ffb2280dd5f1b3602b70c2d56095eaa555120f0e2"
+      "sha256": "64c04ada633c3400030d32ff6859dd9ba1ea5658845f8dd19933927241e409e2"
     },
     {
       "path": "sources/transcripts/_archive/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.md",
       "sha256": "2c533478dd9ad83daabad8c4765a8a8862a253f051f3fe717f99c4d9f9b1c4d2"
     },
     {
+      "path": "sources/transcripts/_archive/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.20251107-194129.html",
+      "sha256": "7057650126fc82996d116df770764a1908194324294886ba6e415659d029595a"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.20251107-194129.md",
+      "sha256": "0be0e62b7406b280b6eb7fc6a3f082ab6e17441ec563944e4dd8480812e44fe6"
+    },
+    {
       "path": "sources/transcripts/_archive/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.html",
-      "sha256": "be7553d567f6c8752bfcc6dce1180a00b1a6f26b4279e3d2569b468ec5a32dec"
+      "sha256": "a5ce561f3176757700d26e2a9be45558b43b0725b7d96369bd56df9f883d1e79"
     },
     {
       "path": "sources/transcripts/_archive/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.md",
       "sha256": "7885cf8aeb24d817f9b6c079101103d894f990350c1f3aea7774192fe792bb37"
     },
     {
+      "path": "sources/transcripts/_archive/2022-04-26-when-we-die-ions-living-classroom-excerpt.20251107-194132.html",
+      "sha256": "2b0ad4010cf0127939aa074fa1669c78a833c324f4ec8aaa1a9bb0fed1335db9"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-04-26-when-we-die-ions-living-classroom-excerpt.20251107-194132.md",
+      "sha256": "c2491eaa41d330eb89718badc81e66a1504ee896b699d9914f3a4aac5d0cace9"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.20251107-194907.html",
+      "sha256": "943cd39f3a7d8703532e80ea33675d0a0712ecf621e3246484d1443693325d26"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.20251107-194907.md",
+      "sha256": "e25ae3c234c09ba4bd1d11d658180818a89de2b85c41aae78f10fde82be92076"
+    },
+    {
       "path": "sources/transcripts/_archive/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.html",
-      "sha256": "15ce87a41ac918c2e184dcf6c270b482e88b72ce3e25f6ab574288b8b782d62e"
+      "sha256": "aedc12a368cc9e6cd235ed9ca99283e95e8314e894ebc4993a1a78518b5df123"
     },
     {
       "path": "sources/transcripts/_archive/2022-06-03-part-ii-of-his-remarkable-twenty-year-journey-into-the-world-of-psychedelics-edge-of-mind-podcast-part-2.md",
       "sha256": "e5dd55e58e938ee99a1df3ba5624c192ca837348db2ee731a6473184e8eb0043"
     },
     {
+      "path": "sources/transcripts/_archive/2022-08-21-chris-bache-lsd-and-the-mind-of-the-universe.20251106-103821.html",
+      "sha256": "a805e61ef1b599c283c22f88b9b22f694e98e164025acc6c1f8ae476890b878e"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-08-21-chris-bache-lsd-and-the-mind-of-the-universe.20251106-103821.md",
+      "sha256": "604dd7d5dbe3b48225c31d2379002060e20f51c948f847d465a0e510d34cf010"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-08-21-chris-bache-lsd-and-the-mind-of-the-universe.20251107-195423.html",
+      "sha256": "8d221a48f4133048f566dbab8d8f3327f03b36f9cb3c3eaa0d142d06b8eb597c"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-08-21-chris-bache-lsd-and-the-mind-of-the-universe.20251107-195423.md",
+      "sha256": "d40cd792bb684ae3bb5c578a252f694180e1fbd43c4af538ca96bc673093c5bd"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.20251107-195852.html",
+      "sha256": "b798f45d12cac9f82f0d831be44f3e8fbfa43ed26995e168276eefb899fbd104"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.20251107-195852.md",
+      "sha256": "7db106f0df20299b282d4d2a86a635202c63f97ed2c6b95d5f25e36b0e115c46"
+    },
+    {
       "path": "sources/transcripts/_archive/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.html",
-      "sha256": "036912cbfa44034965b1c006261a5bf096522a07ff314674a319c2941423bb97"
+      "sha256": "540d7b399e42bcc56896fbd69b8e5ea6ca09f0688765a801b9ff0ca123a5881d"
     },
     {
       "path": "sources/transcripts/_archive/2022-08-30-psychedelics-and-cosmological-exploration-with-chris-bache-reach-truth-podcast.md",
       "sha256": "25ffdaf8bcaf8eb1b2132f6ff443ae39ed2bb44a20498cfefef25a307104a60d"
     },
     {
+      "path": "sources/transcripts/_archive/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.20251107-200203.html",
+      "sha256": "dd383da42a484841541cd323da72ebc639d125e30c41d3d416e239837e7fc251"
+    },
+    {
+      "path": "sources/transcripts/_archive/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.20251107-200203.md",
+      "sha256": "c4c9afd8d89422938fbd4b829ba1d2cfbd452b1dc219aabfa35228e7bdf15a3d"
+    },
+    {
       "path": "sources/transcripts/_archive/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.html",
-      "sha256": "637ceb7706ab4c9ac035cd6a47849321d20c69b7ed2a56429d11c9c2e13d8815"
+      "sha256": "bfc7d47bcd78b40511fc697ca93d43191e678bda2377e0f51c493b90e040896f"
     },
     {
       "path": "sources/transcripts/_archive/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.md",
       "sha256": "06578f861392c4d56511f10088c4282a4f7dbbf606429d560cf77dc36ebb9200"
     },
     {
+      "path": "sources/transcripts/_archive/2023-01-05-exploring-lsd-and-the-mind-of-the-universe.20251107-200515.html",
+      "sha256": "21476c147a60c6eb9680403e4c8fc946c8276ad15cf86f1f4d214f99371dba19"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-01-05-exploring-lsd-and-the-mind-of-the-universe.20251107-200515.md",
+      "sha256": "2c295a53801e5b3ae7905d45a4d4a6d26a7fbd7fe4f67d88e65040692814ea88"
+    },
+    {
       "path": "sources/transcripts/_archive/2023-01-05-exploring-lsd-and-the-mind-of-the-universe.html",
-      "sha256": "11dd68f473922a0fbd39070bd7167001ab0d9ec2e1983ca87d0fe4a639aea555"
+      "sha256": "d5d7b07ad11cf6d906b0a1bd177732d50b888dcd74376607ffb23d160b13425c"
     },
     {
       "path": "sources/transcripts/_archive/2023-01-05-exploring-lsd-and-the-mind-of-the-universe.md",
       "sha256": "6c76cb0502e3a6ba84bcba3e7a5406d193ddad22f0745e6ebce1f94d3659e046"
     },
     {
+      "path": "sources/transcripts/_archive/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.20251107-200855.html",
+      "sha256": "b9036c5430f32b6698477f4b910e4b0a1ca0876855e73ceb9d838bdb433a9c87"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.20251107-200855.md",
+      "sha256": "89234a971e6a71edd955ae46ca8018c03c6fdab129aefe9b05bbc9fd52f4f54e"
+    },
+    {
       "path": "sources/transcripts/_archive/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.html",
-      "sha256": "14e8957a7fbdbd7d642e370449f08861530537d768b3c08d3ea8f3cace14870f"
+      "sha256": "41f9ad6e5612ba146674e7f1ff5ae7124b2adcd6ab042437f327d525f31181a6"
     },
     {
       "path": "sources/transcripts/_archive/2023-01-06-lsd-and-the-mind-of-the-universe-s2s-podcast.md",
       "sha256": "95963e787cc93adf28f6a20393114d92c7171f3b8ce8a447a31cf49511b5e463"
     },
     {
+      "path": "sources/transcripts/_archive/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.20251107-201415.html",
+      "sha256": "493817451c3c0e8cfa6349cda8c8437c758432940544398f48d7323f6253c171"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.20251107-201415.md",
+      "sha256": "d0d176a1ceb6ea070e690b788deeecf27d0121634b6b46dab71f434a010aeab1"
+    },
+    {
       "path": "sources/transcripts/_archive/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.html",
-      "sha256": "6c228e03bb1ee99de8312eac31167eebf0d9f52366b9e0fecf10154c639852e9"
+      "sha256": "b2e9932f9983aec5e593d7e786c6189e2435d0a794e78d4ac8aa912afd09f79d"
     },
     {
       "path": "sources/transcripts/_archive/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.md",
       "sha256": "c5e722a6e5bc9639df9105170e5bd0eb8c16bfed87526919cd3be7801fa62a16"
     },
     {
+      "path": "sources/transcripts/_archive/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.20251107-201925.html",
+      "sha256": "d3e1ab432493340e77aef46ce32f385dffab1a50b889942005ac3d13bd612382"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.20251107-201925.md",
+      "sha256": "1c2a96805dfb8b61205170a0356a77924be3c2cde45a3ee44a81eff08b812a78"
+    },
+    {
       "path": "sources/transcripts/_archive/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.html",
-      "sha256": "53e0a8ee438a6736b2bee359aae8d9c81ec22f0584de04b3376141d4806a0515"
+      "sha256": "414ea61ef515eb1babe7edbf6e88ec3a2c0dca733a4fe559ad1c4968f90603d7"
     },
     {
       "path": "sources/transcripts/_archive/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.md",
       "sha256": "df089faeb1e9cac078f0b10c762594e880fccf87461d3a9950daf3ce135af9b2"
     },
     {
+      "path": "sources/transcripts/_archive/2023-02-01-children-who-remember-past-lives-chris-bache.20251107-201927.html",
+      "sha256": "86e4cc8e7a70006a018ede69db466f65e48766a612ca4fe6b6a54ce2d2d8834c"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-02-01-children-who-remember-past-lives-chris-bache.20251107-201927.md",
+      "sha256": "b5c11f74b597c6422be372f7c07140457a2444d6dbb0edd2572060d39fc25113"
+    },
+    {
       "path": "sources/transcripts/_archive/2023-02-01-children-who-remember-past-lives-chris-bache.html",
-      "sha256": "ae917207dc550722c35bf54672bfac1635f6c7e218cde16696bfa7f0dd99c22f"
+      "sha256": "1c2e55406b5f936312b404126e557c6e65f3eb64ca4bd6a08f17e28ee8978ece"
     },
     {
       "path": "sources/transcripts/_archive/2023-02-01-children-who-remember-past-lives-chris-bache.md",
       "sha256": "797c9d4d2e53cfc4aec3f7b76317d07f78a05a79aae88daa8d94c4894c31adf3"
     },
     {
+      "path": "sources/transcripts/_archive/2023-03-15-the-role-of-psychedelics-for-a-planet-in-transition-with-belinda-eriacho.20251106-104317.html",
+      "sha256": "5396bbb317e4ccc1e5f65ae1a88533e8870758d4cc764606336517971a8e3143"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-03-15-the-role-of-psychedelics-for-a-planet-in-transition-with-belinda-eriacho.20251106-104317.md",
+      "sha256": "0337a90daf1ff3735224f0a0224b5358699010a761f88a9275f4b5e20d0f899a"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-03-15-the-role-of-psychedelics-for-a-planet-in-transition-with-belinda-eriacho.20251107-202058.html",
+      "sha256": "851225a9020f13496c3c2f4857221cd1e72c909afcdabca2b595c25a6d434224"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-03-15-the-role-of-psychedelics-for-a-planet-in-transition-with-belinda-eriacho.20251107-202058.md",
+      "sha256": "359161ad07afea53d8165b129f449a70e2fa1564b7ab246c96b84fa222fac765"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-03-16-collective-shadow-work-and-turning-toward-our-pain.20251107-202115.html",
+      "sha256": "bb8e575197af51c91a1cc4605b33a553ab87316ef07c8d4f597206c63507efe3"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-03-16-collective-shadow-work-and-turning-toward-our-pain.20251107-202115.md",
+      "sha256": "af99887909007e933646278e6cafe16ac37b78549800d90a18bc646a88b339d3"
+    },
+    {
       "path": "sources/transcripts/_archive/2023-03-16-collective-shadow-work-and-turning-toward-our-pain.html",
-      "sha256": "a98ac1256967d4cecd2319e3bf53625e8935e1a04625287efe9645727a42a500"
+      "sha256": "9e8813bf7f98ee68e810d1f1bd73e35f40ee40f28b31e8086f8ae06896cc60b1"
     },
     {
       "path": "sources/transcripts/_archive/2023-03-16-collective-shadow-work-and-turning-toward-our-pain.md",
       "sha256": "e84522f72ea5dd52904b9353f3a3fa2f9c9a23478e9053232850558ae8e113cf"
     },
     {
+      "path": "sources/transcripts/_archive/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.20251107-202138.html",
+      "sha256": "28059e1ae5ef5caf91a760d02d85cea8eec120740f47feee842366825d697dfe"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.20251107-202138.md",
+      "sha256": "57c75afee9be84d6c84607a6f2afa1cb5239c582d14fbe37365842fb398299fe"
+    },
+    {
       "path": "sources/transcripts/_archive/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.html",
-      "sha256": "52c41c3d2243cd040ea6d72f988c0fc9e1dd021a79137e423d9eb4e1df3f68c0"
+      "sha256": "669fdeea84d11c9336b6139ba9e93de90693b218a0f2a02e2f210a1d6a12ea3a"
     },
     {
       "path": "sources/transcripts/_archive/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.md",
       "sha256": "b30480a4c1ebef28e3d6d448081544d41475ebead7c3390d92fc06322a8294ca"
     },
     {
+      "path": "sources/transcripts/_archive/2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth.20251107-202141.html",
+      "sha256": "80ab5fd60521861d908178f6b800de88cc8154df2a8772f0591f0629105a33bb"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth.20251107-202141.md",
+      "sha256": "2748a0849d614ead5100062ac1dd562d905b1cd836f65d8134b786f6076ef17c"
+    },
+    {
       "path": "sources/transcripts/_archive/2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth.html",
-      "sha256": "30f27bf0428e9b401b8ebbf621375a0c2e784419d426f8ffe81f2d05a380439e"
+      "sha256": "00ffbea1fa79db39b22dc3fae04c24ee13a88ad86c837c0b6dd34a2516a40645"
     },
     {
       "path": "sources/transcripts/_archive/2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth.md",
       "sha256": "36c2c98686dc07a94f93013f3ae69789c64e73cc5f3a0b7eb4bbb4668b401dae"
     },
     {
+      "path": "sources/transcripts/_archive/2023-06-30-learning-to-be-gods.20251107-202407.html",
+      "sha256": "583faa272e6b82c0bc483495f5c24c2988e31bd78fbe5a6d6b1b880e350d5158"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-06-30-learning-to-be-gods.20251107-202407.md",
+      "sha256": "d1df8955e229505d6bbbf8ff2ff0daee7e71e08f0aa78f7b109bbfe4013459d5"
+    },
+    {
       "path": "sources/transcripts/_archive/2023-06-30-learning-to-be-gods.html",
-      "sha256": "65557cb7c51f458ab02c2b44c928b8068decfaa1848aa9a40f76f1d9ded0f1ca"
+      "sha256": "ad84542358ade1021a40296be90999fdc29596f34b616ccbfc90f61364f88035"
     },
     {
       "path": "sources/transcripts/_archive/2023-06-30-learning-to-be-gods.md",
       "sha256": "eedf188f5a20bf1ec4434a23b7084edad680c02b4306d6b7466608fc2c0c0e87"
     },
     {
+      "path": "sources/transcripts/_archive/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.20251107-202458.html",
+      "sha256": "8dd3e158671b39382b7e113193697fbb6b7d6986797d479aa4e17a65b9bbc35e"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.20251107-202458.md",
+      "sha256": "bf2639e6fc4731f273bca997f58d61ac1c6d1e9c914e558cff4cd20ea11c96d4"
+    },
+    {
       "path": "sources/transcripts/_archive/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.html",
-      "sha256": "ab72bcf90f0bfc2adea2a27617d1275f5176d63741f45087866a029e79f8aed3"
+      "sha256": "f7067ba02966a7faede4b86c95ee3d646b5a9e4cf21e2ce2046548bdf429b75b"
     },
     {
       "path": "sources/transcripts/_archive/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.md",
       "sha256": "dedecb83ae583d6ce3dc40c995853b95ea7b5be5534d07fba11a91159d743023"
     },
     {
+      "path": "sources/transcripts/_archive/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.20251107-202707.html",
+      "sha256": "54c826ee7ddb7a8378e19ffbb4177829ae01353f17f28f86957516ba48abc37f"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.20251107-202707.md",
+      "sha256": "f6993a5e1b3228f243af417d41bf7ab5e3db2807c81cf64248615f0bfdbd2ab2"
+    },
+    {
       "path": "sources/transcripts/_archive/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.html",
-      "sha256": "f36e98991e6e7cf7fbfba5691cded587d5e03d24a5f8ca58720831fbc53cb454"
+      "sha256": "eb3c55d7dd90b24ed13131bc944f93e556b5e03b75d4685453a6ca841d285acf"
     },
     {
       "path": "sources/transcripts/_archive/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.md",
       "sha256": "7016b8468a7ac725d78cdd6c3c37940109e962a987275f330f411fef7cc2e23b"
     },
     {
+      "path": "sources/transcripts/_archive/2023-08-17-lsd-the-mind-of-the-universe-with.20251106-104703.html",
+      "sha256": "d197c057113e5794556090433b3ac7be02e54fba173fd605a31d0ee5d459fc53"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-08-17-lsd-the-mind-of-the-universe-with.20251106-104703.md",
+      "sha256": "caa4bf39d5ee1063b972e7cf54a5bfb6e140465c2a0ed038ee8cded54e266ae8"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-08-17-lsd-the-mind-of-the-universe-with.20251107-202917.html",
+      "sha256": "bf84a2a48e30a6a1c4d9b0ce83ef60d509d9a9a58dcade38595ebcfd75bddc95"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-08-17-lsd-the-mind-of-the-universe-with.20251107-202917.md",
+      "sha256": "c531d59a4d4447b55076c6ce996b22f83f49256a978a0a0b7ecebc480e0a8302"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-10-10-experience-of-the-human-being-of-the-future-short.20251107-202919.html",
+      "sha256": "514d6d0d7f317ae45536c39370b96a7392e0d4b4131c1273181f99982cbae2b2"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-10-10-experience-of-the-human-being-of-the-future-short.20251107-202919.md",
+      "sha256": "5d77b149fae93c62235f87bcc636a4bb5e5c3d24bdbdec1fe132122e7a49bafa"
+    },
+    {
       "path": "sources/transcripts/_archive/2023-10-10-experience-of-the-human-being-of-the-future-short.html",
-      "sha256": "4a9b5a785403984abfdbff6a9c64674fd2f0bdf3531392247d86ab56f33d5f95"
+      "sha256": "716d805454743484a090ddfe4d321c8d395e089746d87f603d539efdb7255a82"
     },
     {
       "path": "sources/transcripts/_archive/2023-10-10-experience-of-the-human-being-of-the-future-short.md",
       "sha256": "5c4f7dac3b3a740d680e586f9bfe7f9a335cf4fff6bf65da2eac65162b6a9c9a"
     },
     {
+      "path": "sources/transcripts/_archive/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.20251107-203155.html",
+      "sha256": "441ee8c62266e2aa388940bd61f00b9883330b25b1425014bd4257e6c80506c4"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.20251107-203155.md",
+      "sha256": "95884c11810f5a39efd579244412af94accb7b14ba54e95d1374314d63cc0d44"
+    },
+    {
       "path": "sources/transcripts/_archive/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.html",
-      "sha256": "0f89f35040cd6ceed2974bf33381bb416eec78315fa2dfa49d06daa00801a1bf"
+      "sha256": "6d4b9883519a485cfd197cb7a024d2cfdee42d7e0955c9c0223521ffdacac284"
     },
     {
       "path": "sources/transcripts/_archive/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.md",
       "sha256": "abd63ec128bf4fe82072f294f4ec9c7a45bf7205a3824d9801ab028099d8b3cc"
     },
     {
+      "path": "sources/transcripts/_archive/2023-11-05-diamonds-from-heaven-the-mind-of-the-universe-chris-bache.20251107-203344.html",
+      "sha256": "154b746fb14407034b88ae9cb0208b988b70789c36428ca50fcccf150ac5059a"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-11-05-diamonds-from-heaven-the-mind-of-the-universe-chris-bache.20251107-203344.md",
+      "sha256": "adfcb7451997fd99728edb9d21bff07ee0836ceeff0ccb3fdf07649574887b58"
+    },
+    {
       "path": "sources/transcripts/_archive/2023-11-05-diamonds-from-heaven-the-mind-of-the-universe-chris-bache.html",
-      "sha256": "9c42129e723373d0a947b88b2878babd1c5326c65b3a23d39626802e3061104d"
+      "sha256": "dd0b81ab26ca4339c06b8489cfc83a14f573756b0d0ce99b4e4e7b36cda9a1d1"
     },
     {
       "path": "sources/transcripts/_archive/2023-11-05-diamonds-from-heaven-the-mind-of-the-universe-chris-bache.md",
       "sha256": "d9a7a2ddc9379f6c78ce8ea6ba95d35b0a182d52f49b2e0732933b78fc6699ef"
     },
     {
+      "path": "sources/transcripts/_archive/2023-11-06-73-trips-inside-the-psychedelic-universe.20251107-203631.html",
+      "sha256": "a5027deac1f73063c4ea442124db74d33a0b351435d695a30848afa250b066b5"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-11-06-73-trips-inside-the-psychedelic-universe.20251107-203631.md",
+      "sha256": "a7d4045428d48d8231a725e46bde3d76511f2bd947c3ab98b8da9d681a974f1f"
+    },
+    {
       "path": "sources/transcripts/_archive/2023-11-06-73-trips-inside-the-psychedelic-universe.html",
-      "sha256": "88f0b7b4a69372ea555bb61cc987155e9a3bb7880d1ba07c8803ac8c36cd3037"
+      "sha256": "260e324782454a59b0ea29c02a69f515c9da9723e3d9753af6af4471c6e0f38b"
     },
     {
       "path": "sources/transcripts/_archive/2023-11-06-73-trips-inside-the-psychedelic-universe.md",
       "sha256": "59bcea92c5b7baae25012fa278d2cc9e2136349d35598f01c35d505c87a61b6f"
     },
     {
+      "path": "sources/transcripts/_archive/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.20251107-203937.html",
+      "sha256": "3819646e570c45652ffc621dc526467c13553d2596b312aadd47188895a6b9ee"
+    },
+    {
+      "path": "sources/transcripts/_archive/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.20251107-203937.md",
+      "sha256": "8951b5d3f7c6c702f5cb7adb5cdba713b320fe1cb4c430dee8ab1f9734b5552c"
+    },
+    {
       "path": "sources/transcripts/_archive/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.html",
-      "sha256": "d712f908326dd137068d09cac2a66f93bced8a78e80e6d2e2a54da675f9c7027"
+      "sha256": "c17c42e639edebea0b1214cfd6dc6dc5fe8744425e88b3c30922745fd944141c"
     },
     {
       "path": "sources/transcripts/_archive/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.md",
       "sha256": "470df8b9083992dca0a65b68ea572f455563b465f4827eb85f341b4b25f20da1"
     },
     {
+      "path": "sources/transcripts/_archive/2024-02-08-face-to-face-with-chris-bache.20251106-105027.html",
+      "sha256": "f2974286cbe5fc1eae3f97aa3f2d4470f4425683940f389dae92df78ba1e1ecc"
+    },
+    {
+      "path": "sources/transcripts/_archive/2024-02-08-face-to-face-with-chris-bache.20251106-105027.md",
+      "sha256": "3e1e8320ef793564704a692044e1c0c55e7757feee691c12d0ea04487f985144"
+    },
+    {
+      "path": "sources/transcripts/_archive/2024-02-08-face-to-face-with-chris-bache.20251107-204224.html",
+      "sha256": "425a50cbc0424786d582d2e64b104fe1a28305c4ef2e847517c7234e0e8a762b"
+    },
+    {
+      "path": "sources/transcripts/_archive/2024-02-08-face-to-face-with-chris-bache.20251107-204224.md",
+      "sha256": "0bcb410b0dacb16d7454ed412097e809e5814067b3ab86aee1858add3ba0f3d5"
+    },
+    {
+      "path": "sources/transcripts/_archive/2024-02-10-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-sdi-meeting.20251107-204954.html",
+      "sha256": "4cc04028ec99b47d4eaae4fe6c1de8f962087c5703403621ffeb5a41da3b174f"
+    },
+    {
+      "path": "sources/transcripts/_archive/2024-02-10-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-sdi-meeting.20251107-204954.md",
+      "sha256": "e674083af53049a1b2db3c86a6f797b886374a7630f2e65ba218030bde181730"
+    },
+    {
       "path": "sources/transcripts/_archive/2024-02-10-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-sdi-meeting.html",
-      "sha256": "132ddb5568a72ef92208ae7d00e634e0296ad742a1f952728bd39e5d36616805"
+      "sha256": "8def0faf2f84758fd21546d7586a8acb7a1ff43abf6c1412d2f23177c667a9ec"
     },
     {
       "path": "sources/transcripts/_archive/2024-02-10-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-sdi-meeting.md",
       "sha256": "043829ebaf9851c1ab1edff71f66f0e0866fa15b7d25b0ad3df5f859f496f6f2"
     },
     {
+      "path": "sources/transcripts/_archive/2024-06-30-lsd-and-the-mind-of-the-universe-full-interview-in-reality.20251107-205040.html",
+      "sha256": "cab1bc091431cefea9a79b18a81d48393588740e24cc9e9df76ec97fca50a0db"
+    },
+    {
+      "path": "sources/transcripts/_archive/2024-06-30-lsd-and-the-mind-of-the-universe-full-interview-in-reality.20251107-205040.md",
+      "sha256": "947774c246381c98386148b59aebf5f32275da8c59580406a3f11c58732c4a33"
+    },
+    {
       "path": "sources/transcripts/_archive/2024-06-30-lsd-and-the-mind-of-the-universe-full-interview-in-reality.html",
-      "sha256": "1e6e5a0cd4023029da4a7fab56fa93bde01da39cea3e7e3b18117ec4ec619a67"
+      "sha256": "b03871f94ba7e40472cf12d1c1f54daf058f872268f23350cfa0c6b6c13e2cd3"
     },
     {
       "path": "sources/transcripts/_archive/2024-06-30-lsd-and-the-mind-of-the-universe-full-interview-in-reality.md",
       "sha256": "a74e6987a3934be03756879be90d555a70aeb8ca48729dd2ecd77b8b296b8720"
     },
     {
+      "path": "sources/transcripts/_archive/2024-09-24-philosophical-implications-of-non-ordinary-states-live.20251107-205325.html",
+      "sha256": "62801a5749dbc468e189045ca53306c8e4e05695d40f7a6fdf4215cf581ce90b"
+    },
+    {
+      "path": "sources/transcripts/_archive/2024-09-24-philosophical-implications-of-non-ordinary-states-live.20251107-205325.md",
+      "sha256": "5e2c2fd7543cb5fb0e5efa6d94635178e253bf4e6712307bde170a74d8bf52ce"
+    },
+    {
       "path": "sources/transcripts/_archive/2024-09-24-philosophical-implications-of-non-ordinary-states-live.html",
-      "sha256": "028731ff1b26b32b4a9cedec5ff7de2efe869fe1645fcd8675883080d1e79fb1"
+      "sha256": "3121321349afe8610af3b5fa79a4b2d88d405d16cd336643fc7f14584b5c600d"
     },
     {
       "path": "sources/transcripts/_archive/2024-09-24-philosophical-implications-of-non-ordinary-states-live.md",
       "sha256": "b0172b2552f936d10da870d82fdbec610c88978f7bde0fee1b020bafa0fdbf82"
     },
     {
+      "path": "sources/transcripts/_archive/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.20251107-205702.html",
+      "sha256": "37d8b9909ebe67f7c0d2ffe43db16c678dc4a7bbd185783ee1ab33fac5ce39fd"
+    },
+    {
+      "path": "sources/transcripts/_archive/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.20251107-205702.md",
+      "sha256": "e9a4054974d94fb2c82f2d55aaac36fdff3d4a0519bf422ef892d571dc8dbca4"
+    },
+    {
       "path": "sources/transcripts/_archive/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.html",
-      "sha256": "16b0adf52ade6616bb204776b9f2b7787edca0d70e6f1c91d153681e711eda63"
+      "sha256": "bbcc6c63a7852eb7ec06c1f3b4ef111edc36021816d8010c10308eaf2284f8f6"
     },
     {
       "path": "sources/transcripts/_archive/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.md",
       "sha256": "891e9180b40ff6ad2d30f54e9c900e4de71f23480ef9a678c2ae9e5b429af503"
     },
     {
+      "path": "sources/transcripts/_archive/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.20251107-205826.html",
+      "sha256": "fa29418adba232a44ac59b9de975af75f43142bcf548121b96250ee92b97849d"
+    },
+    {
+      "path": "sources/transcripts/_archive/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.20251107-205826.md",
+      "sha256": "80c8e640afb1ce5d8307c54657fad7f7645dfb3cbffd5b7d678d4d59dce78527"
+    },
+    {
       "path": "sources/transcripts/_archive/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.html",
-      "sha256": "15cc028c30459d3ceaf875ed92abc1925a429c19ab4ac53199d0bd61c54a8163"
+      "sha256": "f6f8d901c442b2513ec47d3c79a4c90670922e2518d8a212500c977514c77e8b"
     },
     {
       "path": "sources/transcripts/_archive/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.md",
       "sha256": "029ce0ef4fcc6dfee8342db008307d04aad04b8f045b045f8c6a834d0ad1a7c6"
     },
     {
+      "path": "sources/transcripts/_archive/2024-11-16-the-evidence-for-reincarnation.20251107-210322.html",
+      "sha256": "628b0ee85ee54d986cec827553e45c1c40eb45cf4b173662bc7909ff1393afb0"
+    },
+    {
+      "path": "sources/transcripts/_archive/2024-11-16-the-evidence-for-reincarnation.20251107-210322.md",
+      "sha256": "94597e917f3725a28b6a318f7155651d136b6b50aed003c21b860134b6d52366"
+    },
+    {
       "path": "sources/transcripts/_archive/2024-11-16-the-evidence-for-reincarnation.html",
-      "sha256": "bf11f8f98d02986983180c470dafe7fe949344434450367069384989f974d3f7"
+      "sha256": "740be148e1b8a5a59bc95c25a8ba17fc4304576e426ac3eee911180aca272331"
     },
     {
       "path": "sources/transcripts/_archive/2024-11-16-the-evidence-for-reincarnation.md",
       "sha256": "39218d23b8d13a2567382b7801797654cdcf1eee0724dc16eabfacfb2340bc6d"
     },
     {
+      "path": "sources/transcripts/_archive/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.20251107-210602.html",
+      "sha256": "73c126dab68e1788acc6248702ade7cfde9d03ab1c52eecdef9eca57c9992580"
+    },
+    {
+      "path": "sources/transcripts/_archive/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.20251107-210602.md",
+      "sha256": "6eeeed855d55dd13022889f82868368019fe5c7a903d01ea6bbf0107d1171417"
+    },
+    {
       "path": "sources/transcripts/_archive/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.html",
-      "sha256": "36df09d5edb8d4ef78d800933aa45907981bb2af805d470c443644ad27efea47"
+      "sha256": "c020fb4f72d846f3e0f6a6b4f2322096f2d8595650d06ae1143934ee3c0d4e7a"
     },
     {
       "path": "sources/transcripts/_archive/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.md",
       "sha256": "2d18e5557ddc00fb6ae18b6833b9548f7910d409b55cfc28a748c492e61988a8"
     },
     {
+      "path": "sources/transcripts/_archive/2025-03-18-psychedelics-and-the-cosmic-mind.20251107-210843.html",
+      "sha256": "5a128e44005830d1186fe069f1bbae32b0f9581e0b115b5d0b4d9306de98622e"
+    },
+    {
+      "path": "sources/transcripts/_archive/2025-03-18-psychedelics-and-the-cosmic-mind.20251107-210843.md",
+      "sha256": "56652bd2244392ddf1f57b1aeb38dad611e821730399b48c9d1d1eed65a0db66"
+    },
+    {
       "path": "sources/transcripts/_archive/2025-03-18-psychedelics-and-the-cosmic-mind.html",
-      "sha256": "34f28ad4aab9ba63b1f94ddc229a6a1bf9c4997892553aa1ac068b594b55469d"
+      "sha256": "f442649b550b916ca0723a2328f82911a83b37e5f6d5334a4230cbf119663c75"
     },
     {
       "path": "sources/transcripts/_archive/2025-03-18-psychedelics-and-the-cosmic-mind.md",
       "sha256": "fbf8e92bbb0769c8cc52dfb726d41a55220ef15b677c0dc8d9cf8e70fe7fcb46"
     },
     {
+      "path": "sources/transcripts/_archive/2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine.20251107-210849.html",
+      "sha256": "2936055bd183ddf9eaf6c690cf71bf76f3a6f29e9385ad468c7ea5d680071c21"
+    },
+    {
+      "path": "sources/transcripts/_archive/2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine.20251107-210849.md",
+      "sha256": "0ef4454c95c49d3a6288ca92e20b931f330f9470a09e96ea8aae355afba000d2"
+    },
+    {
       "path": "sources/transcripts/_archive/2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine.html",
-      "sha256": "d18c7918eb5a402810ea97bebea6f0214a8451083a1f9460fed098d9d2ed77da"
+      "sha256": "b2afee1c7d78bad94f47b0ce60dc6c93157bf75934835a3aa3761cb3533c0f48"
     },
     {
       "path": "sources/transcripts/_archive/2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine.md",
       "sha256": "f8673d4a4757616a81d3f775e48afd9e2b5e3a4d3195830909ee69de7a59b23a"
     },
     {
+      "path": "sources/transcripts/_archive/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.20251107-211155.html",
+      "sha256": "6e4898c30cead4af8b43f3d4bbd3cb33940d7977d4bf879a53d1d94c58abd0ff"
+    },
+    {
+      "path": "sources/transcripts/_archive/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.20251107-211155.md",
+      "sha256": "ab0c3ba54b51f574e267b48d1f1f5fa2ff0ef9525851e48f4893f4227f1c063e"
+    },
+    {
       "path": "sources/transcripts/_archive/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.html",
-      "sha256": "6cb19b2ceaa072ac9d3dc370dace765e03ef4e4fc62ec94bd3201ebf79e2ad7d"
+      "sha256": "2f5d084b59e85de8ac11e830c35decea62762afc361ea0bc04ddac9fd5b06827"
     },
     {
       "path": "sources/transcripts/_archive/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.md",
       "sha256": "0e60ee7eff08baf3f8be9e06dca53ba1f0c2baddef09831df56d4ee8dc29082e"
     },
     {
+      "path": "sources/transcripts/_archive/2025-05-18-diamond-luminosity-live-stream.20251107-211402.html",
+      "sha256": "2d59fbd40dee5168298bc484f6e212f6102303c1895962caf1816d845115b163"
+    },
+    {
+      "path": "sources/transcripts/_archive/2025-05-18-diamond-luminosity-live-stream.20251107-211402.md",
+      "sha256": "03fb40c61bcc02639213c0d5ffbbf4b7d193dd24c3cac1bd03a8ae546d897ddf"
+    },
+    {
       "path": "sources/transcripts/_archive/2025-05-18-diamond-luminosity-live-stream.html",
-      "sha256": "68db4a9f97611a2458fed4c69cde5a0d4fc06cf9098d0bd54c70655f44696025"
+      "sha256": "8ab4d400a1ccc54de652718dff288f5243a47013d7e7516ff67f6d8085f84c1e"
     },
     {
       "path": "sources/transcripts/_archive/2025-05-18-diamond-luminosity-live-stream.md",
       "sha256": "0f0e469b07d90eb25e3d2eee4376892506be4d4bc05bb3623b10f2edc92fb138"
     },
     {
+      "path": "sources/transcripts/_archive/2025-07-16-consciousness-psychedelics-and-collective-evolution.20251107-211604.html",
+      "sha256": "a7182986623e07184d31a3c8fedcadae3ba16986c701eb536dff5b34d9d6f670"
+    },
+    {
+      "path": "sources/transcripts/_archive/2025-07-16-consciousness-psychedelics-and-collective-evolution.20251107-211604.md",
+      "sha256": "03c399b0748910f4d69daa779f4ffbbcd7e5b84a1acc55575cc650a62cb22367"
+    },
+    {
       "path": "sources/transcripts/_archive/2025-07-16-consciousness-psychedelics-and-collective-evolution.html",
-      "sha256": "d2bf726fec189199c6d09be8b934d3373c1cb70e419294e81d10edbe547d5b3b"
+      "sha256": "cc2143a29ad53beab7c77702465c3a2182295fb1a551a33ba4a9432848c85244"
     },
     {
       "path": "sources/transcripts/_archive/2025-07-16-consciousness-psychedelics-and-collective-evolution.md",
       "sha256": "6c56d0aa4241a74f61a6bb68aff569a6f10329f3310007637f4b3e64985c8a99"
     },
     {
-      "path": "sources/transcripts/extras/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-phd-short.html",
-      "sha256": "e9ac6ecdfd36f3029220fefc86c604fc01519833970fe45892373bac82334b63"
+      "path": "sources/transcripts/_archive/2025-10-15-collective-karma-and-reincarnation-with.20251106-105820.html",
+      "sha256": "88d2b7cd67dae1d6f8fd13e611d2dbb6ca4f113c58ffcfe9a2d5433d88c2fe57"
+    },
+    {
+      "path": "sources/transcripts/_archive/2025-10-15-collective-karma-and-reincarnation-with.20251106-105820.md",
+      "sha256": "8b28383cfed9c83a86b1a7d16fdd91aedbba2bb2e0c64b5056803c22af0238d5"
+    },
+    {
+      "path": "sources/transcripts/_archive/2025-10-15-collective-karma-and-reincarnation-with.20251107-211828.html",
+      "sha256": "f6eda965c1d3a70247ada821f1599cd91864cb88a995065c23d4a71e3e6f9b5f"
+    },
+    {
+      "path": "sources/transcripts/_archive/2025-10-15-collective-karma-and-reincarnation-with.20251107-211828.md",
+      "sha256": "696566152eb3a6cb0aa3d8ff187689552a1819c6d17003b1d39c132c8ed54708"
+    },
+    {
+      "path": "sources/transcripts/_archive/2025-10-21-psa-fireside-chat-featuring-dr-raymond-turpin-dr.20251106-073811.html",
+      "sha256": "f2419d5acec0602b0fd9cae4f4408f3e157ada971e5e877d719811c583159481"
+    },
+    {
+      "path": "sources/transcripts/_archive/2025-10-21-psa-fireside-chat-featuring-dr-raymond-turpin-dr.20251106-073811.md",
+      "sha256": "c1e1a32399f7614ef671635c32f022013550df81b62c2fbc71b2522061763aa8"
+    },
+    {
+      "path": "sources/transcripts/_archive/2025-10-21-psa-fireside-chat-featuring-dr-raymond-turpin-dr.20251107-212210.html",
+      "sha256": "c07f0b75326882c9c191b70c31118f0ca585c24d83e6d95b149a52a79476b048"
+    },
+    {
+      "path": "sources/transcripts/_archive/2025-10-21-psa-fireside-chat-featuring-dr-raymond-turpin-dr.20251107-212210.md",
+      "sha256": "f0b4f462404c56083eab7fb8ac0e0df707eacffca6b9bccfd61605444b2405e8"
     },
     {
       "path": "sources/transcripts/extras/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-phd-short.md",
       "sha256": "337577b5be3ab819e17e618fd1ccfcb535ec4d49d6ac2bc1fe47131c81090b18"
     },
     {
-      "path": "sources/transcripts/extras/2022-02-16-dmt-entity-encounters-short.html",
-      "sha256": "c8c9f41d12e0750a576930c4d061aebe69d958886da9adabe43a27aa08be17ef"
-    },
-    {
       "path": "sources/transcripts/extras/2022-02-16-dmt-entity-encounters-short.md",
       "sha256": "7b2e4ba49851c1415ee2542c763dbb1285222c91a3ef541b3049e493c1f90a03"
-    },
-    {
-      "path": "sources/transcripts/extras/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-short.html",
-      "sha256": "b4165bd1c5e199529254847f3081f447bd6890e1e344c0809c6ebf786799afec"
     },
     {
       "path": "sources/transcripts/extras/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-short.md",
       "sha256": "31cb951bf9fdcddb4cc4b063a1fc39fa3dcf70da927ce8b96951408238a9cf9d"
     },
     {
-      "path": "sources/transcripts/extras/2022-02-19-the-mind-of-the-universe-conversation-with-prof-short.html",
-      "sha256": "a5dc7259c11510c6d73762957447d046045ac4439657a54a86940fb210aac973"
-    },
-    {
       "path": "sources/transcripts/extras/2022-02-19-the-mind-of-the-universe-conversation-with-prof-short.md",
       "sha256": "0ce8abf8242446722a4f7ab4d876ce2629097b2c8fee00b6f43077121d2f9db8"
     },
     {
-      "path": "sources/transcripts/extras/2022-04-26-when-we-die-short.html",
-      "sha256": "8c0313705c698040bdc233ac4dce291f7454007921eb505e8a3c74510fc2ee26"
-    },
-    {
       "path": "sources/transcripts/extras/2022-04-26-when-we-die-short.md",
       "sha256": "ef244cd3e405d077c3d70199e2b4d2904256a87e9a98d221afafb3195e181dc1"
+    },
+    {
+      "path": "sources/transcripts/index.html",
+      "sha256": "b97a82ee0ef73617a7940a44c18284c509db0d4426fefbf8dfb6981ec454e2a6"
     },
     {
       "path": "vectors/bache-talks.embeddings.parquet",
