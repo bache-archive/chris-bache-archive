@@ -36,7 +36,7 @@ Example:
     --max-words 32 \
     --max-duration 16
 
-Author: Bache Archive Project
+Author: Bache Archive maintainer
 License: CC0 on generated outputs; script under project’s repo license.
 """
 import os

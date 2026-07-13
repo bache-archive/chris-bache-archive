@@ -10,9 +10,9 @@ See [WHY_CONTINUITY_MATTERS.md](WHY_CONTINUITY_MATTERS.md) for the philosophical
 
 ---
 
-## 🔗 Context in the Bache Archive Project
+## 🔗 Context in the Bache Archive Ecosystem
 
-This corpus forms the **Preservation Layer** of the broader [**Bache Archive Project**](https://github.com/bache-archive).  
+This corpus forms the **Preservation Layer** of the broader [**Bache Archive**](https://github.com/bache-archive).
 Together, the repositories create a unified, open, and FAIR-compliant ecosystem:
 
 | Layer | Repository | Purpose |

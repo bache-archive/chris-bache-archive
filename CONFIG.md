@@ -2,7 +2,7 @@
 
 **Version:** v3.0-alpha  
 **Date:** 2025-10-15  
-**Maintainer:** Bache Archive Project  
+**Maintainer:** Bache Archive maintainer
 **Repositories:**  
 - [`chris-bache-archive`](https://github.com/bache-archive/chris-bache-archive) — CC0 corpus and vectors  
 - [`bache-rag-api`](https://github.com/bache-archive/bache-rag-api) — MIT backend service  
@@ -104,7 +104,7 @@ chris-bache-archive/
 ## 📜 Licensing
 
 - **Corpus & Transcripts:** CC0 1.0 Universal (Public Domain Dedication)  
-- **Codebase:** MIT License © 2025 Bache Archive Project
+- **Codebase:** MIT License © 2025 Bache Archive maintainer
 
 ---
 
