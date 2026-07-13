@@ -74,7 +74,7 @@
   {
     "archival_title": "2013 11 16, Dr. Chris Bache, Guest Speaker, \"No Fear of Death\", Part 3/ 3",
     "channel": "Unity Myrtle Beach",
-    "source_type": "talk",
+    "source_type": "service",
     "transcript": "sources/transcripts/2013-11-17-no-fear-of-death-part-3-unity-myrtle-beach.md",
     "diarist": "sources/diarist/2013-11-17-no-fear-of-death-part-3-unity-myrtle-beach.txt",
     "youtube_id": "NtcLJ3_Ceyc",
@@ -92,7 +92,7 @@
   {
     "archival_title": "2013 11 16, Dr. Chris Bache, Guest Speaker, \"No Fear of Death\", Part 1/3",
     "channel": "Unity Myrtle Beach",
-    "source_type": "talk",
+    "source_type": "service",
     "transcript": "sources/transcripts/2013-11-17-no-fear-of-death-part-1-unity-myrtle-beach.md",
     "diarist": "sources/diarist/2013-11-17-no-fear-of-death-part-1-unity-myrtle-beach.txt",
     "youtube_id": "PmcpJpCtA_U",
@@ -110,7 +110,7 @@
   {
     "archival_title": "2013 11 16, Dr. Chris Bache, Guest Speaker, \"No Fear of Death\", Part 2/3",
     "channel": "Unity Myrtle Beach",
-    "source_type": "talk",
+    "source_type": "service",
     "transcript": "sources/transcripts/2013-11-17-no-fear-of-death-part-2-unity-myrtle-beach.md",
     "diarist": "sources/diarist/2013-11-17-no-fear-of-death-part-2-unity-myrtle-beach.txt",
     "youtube_id": "bMbnDjnR4Ls",
@@ -128,7 +128,7 @@
   {
     "archival_title": "11/17/13 Sunday Service with Guest Speaker Chris Bache and Musician Lilly Russ from Agape in L.A.",
     "channel": "Unity Myrtle Beach",
-    "source_type": "talk",
+    "source_type": "service",
     "transcript": "sources/transcripts/2013-11-18-sunday-service-with-guest-speaker-chris-bache-unity-myrtle-beach.md",
     "diarist": "sources/diarist/2013-11-18-sunday-service-with-guest-speaker-chris-bache-unity-myrtle-beach.txt",
     "youtube_id": "-ld7Lh5wkxc",
@@ -146,7 +146,7 @@
   {
     "archival_title": "Chris Bache, Waking Up in the Classroom – Lessons from 30 Years of Teaching",
     "channel": "PCC Esalen",
-    "source_type": "lecture",
+    "source_type": "talk",
     "transcript": "sources/transcripts/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.md",
     "diarist": "sources/diarist/2014-11-10-chris-bache-waking-up-in-the-classroom-lessons-from-30-years-of-teaching.txt",
     "youtube_id": "OJipHXvczW0",
@@ -164,7 +164,7 @@
   {
     "archival_title": "Exploring the Boundaries of Death and Rebirth in LSD Psychotherapy",
     "channel": "Archetypal View",
-    "source_type": "lecture",
+    "source_type": "talk",
     "transcript": "sources/transcripts/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.md",
     "diarist": "sources/diarist/2015-03-16-exploring-the-boundaries-of-death-and-rebirth-in-lsd-psychotherapy.txt",
     "youtube_id": "cEsoN2IaGc4",
@@ -200,7 +200,7 @@
   {
     "archival_title": "Scientific Evidence for Reincarnation – TimeWaver Summer World 2018",
     "channel": "TimeWaver TV",
-    "source_type": "lecture",
+    "source_type": "talk",
     "transcript": "sources/transcripts/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.md",
     "diarist": "sources/diarist/2018-08-30-scientific-evidence-for-reincarnation-timewaver-summer-world-2018.txt",
     "youtube_id": "JlCMfEOmsrY",
@@ -218,7 +218,7 @@
   {
     "archival_title": "Diamonds from Heaven – Lecture at TimeWaver Summer World 2018",
     "channel": "TimeWaver TV",
-    "source_type": "lecture",
+    "source_type": "talk",
     "transcript": "sources/transcripts/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.md",
     "diarist": "sources/diarist/2018-08-30-diamonds-from-heaven-lecture-at-timewaver-summer-world-2018.txt",
     "youtube_id": "O4ui6I1Wo9c",
@@ -236,7 +236,7 @@
   {
     "archival_title": "Mapping Consciousness with High-Dose LSD (ATTMind #83)",
     "channel": "Adventures Through the Mind",
-    "source_type": "lecture",
+    "source_type": "interview",
     "transcript": "sources/transcripts/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.md",
     "diarist": "sources/diarist/2018-10-12-mapping-consciousness-with-high-dose-lsd-attmind-83.txt",
     "youtube_id": "L3D_fSr75u8",
@@ -290,7 +290,7 @@
   {
     "archival_title": "Scientific Evidence for Reincarnation",
     "channel": "ECR – Existential Consciousness Research Institute",
-    "source_type": "lecture",
+    "source_type": "talk",
     "transcript": "sources/transcripts/2019-08-30-scientific-evidence-for-reincarnation.md",
     "diarist": "sources/diarist/2019-08-30-scientific-evidence-for-reincarnation.txt",
     "youtube_id": "x_iGTmrzIpY",
@@ -308,7 +308,7 @@
   {
     "archival_title": "Mapping of Transcendence",
     "channel": "ECR – Existential Consciousness Research Inst.",
-    "source_type": "lecture",
+    "source_type": "talk",
     "transcript": "sources/transcripts/2019-09-26-mapping-of-transcendence.md",
     "diarist": "sources/diarist/2019-09-26-mapping-of-transcendence.txt",
     "youtube_id": "70TRNG1-ZEg",
@@ -362,7 +362,7 @@
   {
     "archival_title": "LSD & the Mind of the Universe: Diamonds from Heaven",
     "channel": "Trust Psyche",
-    "source_type": "lecture",
+    "source_type": "talk",
     "transcript": "sources/transcripts/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md",
     "diarist": "sources/diarist/2019-11-13-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.txt",
     "youtube_id": "uHn8lzYNXyE",
@@ -398,7 +398,7 @@
   {
     "archival_title": "Live with Chris Bache — 73 LSD Sessions: Journey Through the Mind of the Universe",
     "channel": "Magical Egypt",
-    "source_type": "interview",
+    "source_type": "livestream",
     "transcript": "sources/transcripts/2019-11-25-live-with-chris-bache-73-lsd-sessions-journey-through-the-mind-of-the-universe-w-vanese-mc-neill.md",
     "diarist": "sources/diarist/2019-11-25-live-with-chris-bache-73-lsd-sessions-journey-through-the-mind-of-the-universe-w-vanese-mc-neill.txt",
     "youtube_id": "mW1l6dOa8sc",
@@ -416,7 +416,7 @@
   {
     "archival_title": "LSD and the Mind of the Universe: Diamonds from Heaven",
     "channel": "Psychedelics Today",
-    "source_type": "lecture",
+    "source_type": "talk",
     "transcript": "sources/transcripts/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.md",
     "diarist": "sources/diarist/2020-01-07-lsd-and-the-mind-of-the-universe-diamonds-from-heaven.txt",
     "youtube_id": "CbgJkCoee3w",
@@ -434,7 +434,7 @@
   {
     "archival_title": "Prof. Dr. Christopher Bache about his work and consciousness",
     "channel": "ECR - Existential Consciousness Research Institute",
-    "source_type": "lecture",
+    "source_type": "short clip",
     "transcript": "sources/transcripts/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.md",
     "diarist": "sources/diarist/2020-01-10-prof-dr-christopher-bache-about-his-work-and-consciousness.txt",
     "youtube_id": "QaBoLNV4FQI",
@@ -488,7 +488,7 @@
   {
     "archival_title": "Bicycle Day Conversation with Jef Baker",
     "channel": "Australian Psychedelic Society",
-    "source_type": "interview",
+    "source_type": "conversation",
     "transcript": "sources/transcripts/2020-04-19-bicycle-day-conversation-with-jef-baker.md",
     "diarist": "sources/diarist/2020-04-19-bicycle-day-conversation-with-jef-baker.txt",
     "youtube_id": "B0BhUOEP1Mg",
@@ -506,7 +506,7 @@
   {
     "archival_title": "EP.6 - Chris Bache | LSD AND THE MIND OF THE UNIVERSE",
     "channel": "Ryan & Mo - Life In Rural Thailand",
-    "source_type": "lecture",
+    "source_type": "interview",
     "transcript": "sources/transcripts/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.md",
     "diarist": "sources/diarist/2020-05-13-ep6-chris-bache-lsd-and-the-mind-of-the-universe.txt",
     "youtube_id": "Dw7D7ih8vy0",
@@ -524,7 +524,7 @@
   {
     "archival_title": "A Visionary Experience of the Birth of the Future Human",
     "channel": "Cambridge Consciousness Forum",
-    "source_type": "lecture",
+    "source_type": "talk",
     "transcript": "sources/transcripts/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.md",
     "diarist": "sources/diarist/2020-10-04-a-visionary-experience-of-the-birth-of-the-future-human.txt",
     "youtube_id": "-xbx5HnOFmA",
@@ -560,7 +560,7 @@
   {
     "archival_title": "Great Conjunction Reflection (short)",
     "channel": "Spirit Plant Medicine",
-    "source_type": "excerpt",
+    "source_type": "short clip",
     "transcript": "sources/transcripts/2020-12-21-great-conjunction-reflection-short.md",
     "diarist": "sources/diarist/2020-12-21-great-conjunction-reflection-short.txt",
     "youtube_id": "fL3SqioIGm0",
@@ -596,7 +596,7 @@
   {
     "archival_title": "Contemplating Reincarnation – Part 2",
     "channel": "Gene Keys",
-    "source_type": "lecture",
+    "source_type": "talk",
     "transcript": "sources/transcripts/2021-03-16-contemplating-reincarnation-part-2.md",
     "diarist": "sources/diarist/2021-03-16-contemplating-reincarnation-part-2.txt",
     "youtube_id": "AQwAxhukBrE",
@@ -614,7 +614,7 @@
   {
     "archival_title": "Contemplating Reincarnation – Part 3",
     "channel": "Gene Keys",
-    "source_type": "lecture",
+    "source_type": "talk",
     "transcript": "sources/transcripts/2021-03-16-contemplating-reincarnation-part-3.md",
     "diarist": "sources/diarist/2021-03-16-contemplating-reincarnation-part-3.txt",
     "youtube_id": "5Lus4MLlzbA",
@@ -632,7 +632,7 @@
   {
     "archival_title": "Chris Bache – LSD and the Mind of the Universe – SPMC 2019",
     "channel": "Spirit Plant Medicine",
-    "source_type": "lecture",
+    "source_type": "talk",
     "transcript": "sources/transcripts/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.md",
     "diarist": "sources/diarist/2021-03-29-chris-bache-lsd-and-the-mind-of-the-universe-spmc-2019.txt",
     "youtube_id": "DBddIrMryJc",
@@ -650,7 +650,7 @@
   {
     "archival_title": "Contemplating Reincarnation (Part 1)",
     "channel": "Gene Keys",
-    "source_type": "lecture",
+    "source_type": "talk",
     "transcript": "sources/transcripts/2021-04-01-contemplating-reincarnation-part-1.md",
     "diarist": "sources/diarist/2021-04-01-contemplating-reincarnation-part-1.txt",
     "youtube_id": "jVDndxA6aZo",
@@ -668,7 +668,7 @@
   {
     "archival_title": "Reincarnation Q&A (Live) with Richard Rudd",
     "channel": "Gene Keys",
-    "source_type": "interview",
+    "source_type": "Q&A",
     "transcript": "sources/transcripts/2021-04-02-reincarnation-qanda-live-with-richard-rudd.md",
     "diarist": "sources/diarist/2021-04-02-reincarnation-qanda-live-with-richard-rudd.txt",
     "youtube_id": "wLg1uqI7b9c",
@@ -686,7 +686,7 @@
   {
     "archival_title": "Global Collapse, Spirituality & The Birth of the Future Human (ATTMind #142)",
     "channel": "Adventures Through the Mind",
-    "source_type": "lecture",
+    "source_type": "interview",
     "transcript": "sources/transcripts/2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142.md",
     "diarist": "sources/diarist/2021-04-21-global-collapse-spirituality-and-the-birth-of-the-future-human-attmind-142.txt",
     "youtube_id": "tLqeJHhb048",
@@ -722,7 +722,7 @@
   {
     "archival_title": "LSD and the Mind of the Universe – Christopher Bache, Ph.D.",
     "channel": "Portland Psychedelic Society",
-    "source_type": "lecture",
+    "source_type": "talk",
     "transcript": "sources/transcripts/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.md",
     "diarist": "sources/diarist/2021-06-03-lsd-and-the-mind-of-the-universe-christopher-bache-ph.d.txt",
     "youtube_id": "icBasHgjzsY",
@@ -740,7 +740,7 @@
   {
     "archival_title": "MIND-BLOWING LSD Secrets Revealed – Rebel Spirit Radio",
     "channel": "Rebel Spirit Radio",
-    "source_type": "lecture",
+    "source_type": "interview",
     "transcript": "sources/transcripts/2021-07-08-mind-blowing-lsd-secrets-revealed-rebel-spirit-radio.md",
     "diarist": "sources/diarist/2021-07-08-mind-blowing-lsd-secrets-revealed-rebel-spirit-radio.txt",
     "youtube_id": "Qfet06ORfwY",
@@ -794,7 +794,7 @@
   {
     "archival_title": "Dr. Chris Bache on Understanding DMT Entity Encounters",
     "channel": "Psychonaut Wisdom",
-    "source_type": "lecture",
+    "source_type": "short clip",
     "transcript": "sources/transcripts/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.md",
     "diarist": "sources/diarist/2022-02-16-dr.-chris-bache-on-understanding-dmt-entity-encounters.txt",
     "youtube_id": "jUFO4p4kA-k",
@@ -812,7 +812,7 @@
   {
     "archival_title": "What It's Like Meeting God on Psychedelics (feat. Christopher Bache)",
     "channel": "Consciousness Clips",
-    "source_type": "lecture",
+    "source_type": "short clip",
     "transcript": "sources/transcripts/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.md",
     "diarist": "sources/diarist/2022-02-17-what-it-s-like-meeting-god-on-psychedelics-feat.-christopher-bache.txt",
     "youtube_id": "58dPxDtf-r0",
@@ -848,7 +848,7 @@
   {
     "archival_title": "The Mind of the Universe – Conversation with Prof. Chris Bache",
     "channel": "Embercombe",
-    "source_type": "interview",
+    "source_type": "conversation",
     "transcript": "sources/transcripts/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.md",
     "diarist": "sources/diarist/2022-02-19-the-mind-of-the-universe-conversation-with-prof-chris-bache.txt",
     "youtube_id": "3QxDjWvqKzA",
@@ -902,7 +902,7 @@
   {
     "archival_title": "Chris Bache — LSD and the Mind of the Universe",
     "channel": "Vancouver IONS Community Group",
-    "source_type": "lecture",
+    "source_type": "talk",
     "transcript": "sources/transcripts/2022-08-21-chris-bache-lsd-and-the-mind-of-the-universe.md",
     "diarist": "sources/diarist/2022-08-21-chris-bache-lsd-and-the-mind-of-the-universe.txt",
     "youtube_id": "JqTHcIpcHUU",
@@ -938,7 +938,7 @@
   {
     "archival_title": "LSD & the Mind of the Universe (SMN webinar)",
     "channel": "Scientific & Medical Network",
-    "source_type": "lecture",
+    "source_type": "webinar",
     "transcript": "sources/transcripts/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.md",
     "diarist": "sources/diarist/2022-12-07-lsd-and-the-mind-of-the-universe-smn-webinar.txt",
     "youtube_id": "hr0nxquWvgQ",
@@ -956,7 +956,7 @@
   {
     "archival_title": "Exploring LSD and the Mind of the Universe",
     "channel": "Luc Briede-Cooper",
-    "source_type": "lecture",
+    "source_type": "interview",
     "transcript": "sources/transcripts/2023-01-05-exploring-lsd-and-the-mind-of-the-universe.md",
     "diarist": "sources/diarist/2023-01-05-exploring-lsd-and-the-mind-of-the-universe.txt",
     "youtube_id": "cvhWP8xzwiY",
@@ -992,7 +992,7 @@
   {
     "archival_title": "The Mind of the Universe: Diamonds from Heaven",
     "channel": "Portals of Perception",
-    "source_type": "lecture",
+    "source_type": "talk",
     "transcript": "sources/transcripts/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.md",
     "diarist": "sources/diarist/2023-01-27-the-mind-of-the-universe-diamonds-from-heaven.txt",
     "youtube_id": "ec0elBHJXAc",
@@ -1010,7 +1010,7 @@
   {
     "archival_title": "Wisdom Keepers conversation with Duane Elgin",
     "channel": "The WisdomKeepers",
-    "source_type": "interview",
+    "source_type": "conversation",
     "transcript": "sources/transcripts/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.md",
     "diarist": "sources/diarist/2023-01-30-wisdom-keepers-conversation-with-duane-elgin.txt",
     "youtube_id": "TeifW7GZ9xI",
@@ -1028,7 +1028,7 @@
   {
     "archival_title": "Children Who Remember Past Lives – Chris Bache",
     "channel": "Spiritual Awakening Clips",
-    "source_type": "lecture",
+    "source_type": "short clip",
     "transcript": "sources/transcripts/2023-02-01-children-who-remember-past-lives-chris-bache.md",
     "diarist": "sources/diarist/2023-02-01-children-who-remember-past-lives-chris-bache.txt",
     "youtube_id": "9eluKiIL18I",
@@ -1046,7 +1046,7 @@
   {
     "archival_title": "The Role of Psychedelics for a Planet in Transition — with Belinda Eriacho and Chris Bache",
     "channel": "Spirit Plant Medicine",
-    "source_type": "interview",
+    "source_type": "panel",
     "transcript": "sources/transcripts/2023-03-15-the-role-of-psychedelics-for-a-planet-in-transition-with-belinda-eriacho.md",
     "diarist": "sources/diarist/2023-03-15-the-role-of-psychedelics-for-a-planet-in-transition-with-belinda-eriacho.txt",
     "youtube_id": "x9BRgE427I8",
@@ -1064,7 +1064,7 @@
   {
     "archival_title": "What does it mean to be a good person, psychedelically? | Chris Bache PhD",
     "channel": "Adventures Through the Mind",
-    "source_type": "lecture",
+    "source_type": "interview",
     "transcript": "sources/transcripts/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.md",
     "diarist": "sources/diarist/2023-03-16-what-does-it-mean-to-be-a-good-person-psychedelically-chris-bache-phd.txt",
     "youtube_id": "83VOl7ylChQ",
@@ -1082,7 +1082,7 @@
   {
     "archival_title": "Collective Shadow Work & Turning Toward Our Pain",
     "channel": "Adventures Through the Mind",
-    "source_type": "lecture",
+    "source_type": "short clip",
     "transcript": "sources/transcripts/2023-03-16-collective-shadow-work-and-turning-toward-our-pain.md",
     "diarist": "sources/diarist/2023-03-16-collective-shadow-work-and-turning-toward-our-pain.txt",
     "youtube_id": "KAGPLyC2WZQ",
@@ -1100,7 +1100,7 @@
   {
     "archival_title": "Prof Chris Bache – Cycles of Death & Rebirth",
     "channel": "Scientific & Medical Network",
-    "source_type": "lecture",
+    "source_type": "webinar",
     "transcript": "sources/transcripts/2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth.md",
     "diarist": "sources/diarist/2023-04-18-prof-chris-bache-cycles-of-death-and-rebirth.txt",
     "youtube_id": "bQw4ypKrJb8",
@@ -1118,7 +1118,7 @@
   {
     "archival_title": "Learning to be Gods: Conversations about LSD and the Mind of the Universe with Chris Bache",
     "channel": "Inbodied Life",
-    "source_type": "interview",
+    "source_type": "conversation",
     "transcript": "sources/transcripts/2023-06-30-learning-to-be-gods.md",
     "diarist": "sources/diarist/2023-06-30-learning-to-be-gods.txt",
     "youtube_id": "",
@@ -1135,7 +1135,7 @@
   {
     "archival_title": "Diamonds from Heaven: Exploring the Mind of the Universe",
     "channel": "Sounds True",
-    "source_type": "lecture",
+    "source_type": "interview",
     "transcript": "sources/transcripts/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.md",
     "diarist": "sources/diarist/2023-07-12-diamonds-from-heaven-exploring-the-mind-of-the-universe.txt",
     "youtube_id": "mG1uyBw0ucg",
@@ -1153,7 +1153,7 @@
   {
     "archival_title": "LSD & the Mind of the Universe (What Is Going OM)",
     "channel": "OMTimesTV / Sandie Sedgbeer",
-    "source_type": "lecture",
+    "source_type": "interview",
     "transcript": "sources/transcripts/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.md",
     "diarist": "sources/diarist/2023-08-17-lsd-and-the-mind-of-the-universe-what-is-going-om.txt",
     "youtube_id": "2Trb-vC8zc0",
@@ -1189,7 +1189,7 @@
   {
     "archival_title": "Experience of the Human Being of the Future (short)",
     "channel": "Buddha at the Gas Pump",
-    "source_type": "excerpt",
+    "source_type": "short clip",
     "transcript": "sources/transcripts/2023-10-10-experience-of-the-human-being-of-the-future-short.md",
     "diarist": "sources/diarist/2023-10-10-experience-of-the-human-being-of-the-future-short.txt",
     "youtube_id": "3tVAlUzqz7M",
@@ -1207,7 +1207,7 @@
   {
     "archival_title": "Ego to Oneness, Confronting the Climate Crisis (EP 278)",
     "channel": "Connecting with Coincidence",
-    "source_type": "lecture",
+    "source_type": "interview",
     "transcript": "sources/transcripts/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.md",
     "diarist": "sources/diarist/2023-10-29-ego-to-oneness-confronting-the-climate-crisis-ep-278.txt",
     "youtube_id": "pYw8ZqCqx18",
@@ -1225,7 +1225,7 @@
   {
     "archival_title": "Diamonds From Heaven – The Mind of the Universe (Chris Bache)",
     "channel": "Sacred Reconnections",
-    "source_type": "lecture",
+    "source_type": "talk",
     "transcript": "sources/transcripts/2023-11-05-diamonds-from-heaven-the-mind-of-the-universe-chris-bache.md",
     "diarist": "sources/diarist/2023-11-05-diamonds-from-heaven-the-mind-of-the-universe-chris-bache.txt",
     "youtube_id": "pvZDcQfGzpM",
@@ -1243,7 +1243,7 @@
   {
     "archival_title": "73 Trips: Inside the Psychedelic Universe",
     "channel": "Regina Meredith",
-    "source_type": "lecture",
+    "source_type": "interview",
     "transcript": "sources/transcripts/2023-11-06-73-trips-inside-the-psychedelic-universe.md",
     "diarist": "sources/diarist/2023-11-06-73-trips-inside-the-psychedelic-universe.txt",
     "youtube_id": "S4XSaHn54P4",
@@ -1261,7 +1261,7 @@
   {
     "archival_title": "What 73 High-Dose LSD Sessions Taught Christopher Bache",
     "channel": "Numinus Network",
-    "source_type": "lecture",
+    "source_type": "talk",
     "transcript": "sources/transcripts/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.md",
     "diarist": "sources/diarist/2023-12-05-what-73-high-dose-lsd-sessions-taught-christopher-bache.txt",
     "youtube_id": "AyMBQMGaIeA",
@@ -1297,7 +1297,7 @@
   {
     "archival_title": "LSD and the Mind of the Universe: Diamonds from Heaven (SDI Meeting)",
     "channel": "San Diego Integral",
-    "source_type": "lecture",
+    "source_type": "talk",
     "transcript": "sources/transcripts/2024-02-10-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-sdi-meeting.md",
     "diarist": "sources/diarist/2024-02-10-lsd-and-the-mind-of-the-universe-diamonds-from-heaven-sdi-meeting.txt",
     "youtube_id": "Ucgt6vNpCDI",
@@ -1333,7 +1333,7 @@
   {
     "archival_title": "Philosophical Implications of Non-Ordinary States (live)",
     "channel": "Spirit Plant Medicine",
-    "source_type": "lecture",
+    "source_type": "livestream",
     "transcript": "sources/transcripts/2024-09-24-philosophical-implications-of-non-ordinary-states-live.md",
     "diarist": "sources/diarist/2024-09-24-philosophical-implications-of-non-ordinary-states-live.txt",
     "youtube_id": "9jsKPUwwqfQ",
@@ -1351,7 +1351,7 @@
   {
     "archival_title": "What 73 high dose LSD sessions taught Christopher Bache PhD about the nature of reality (Rebroadcast)",
     "channel": "Numinus Network",
-    "source_type": "lecture",
+    "source_type": "talk",
     "transcript": "sources/transcripts/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.md",
     "diarist": "sources/diarist/2024-09-24-what-73-high-dose-lsd-sessions-taught-christopher-bache-phd-about-the-nature-of-reality-rebroadcast.txt",
     "youtube_id": "I1n2E46S-4E",
@@ -1369,7 +1369,7 @@
   {
     "archival_title": "Reincarnation and the Web of Life (What Is Going OM)",
     "channel": "Sandie Sedgbeer",
-    "source_type": "lecture",
+    "source_type": "interview",
     "transcript": "sources/transcripts/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.md",
     "diarist": "sources/diarist/2024-11-07-reincarnation-and-the-web-of-life-what-is-going-om.txt",
     "youtube_id": "-Tavh3KhQPE",
@@ -1387,7 +1387,7 @@
   {
     "archival_title": "The Evidence for Reincarnation",
     "channel": "Vancouver IONS Community Group",
-    "source_type": "lecture",
+    "source_type": "talk",
     "transcript": "sources/transcripts/2024-11-16-the-evidence-for-reincarnation.md",
     "diarist": "sources/diarist/2024-11-16-the-evidence-for-reincarnation.txt",
     "youtube_id": "iCKq7-de8Xg",
@@ -1405,7 +1405,7 @@
   {
     "archival_title": "The Phoenix Always Rises: Evolving into the Future Human",
     "channel": "Accidental Gods",
-    "source_type": "lecture",
+    "source_type": "interview",
     "transcript": "sources/transcripts/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.md",
     "diarist": "sources/diarist/2025-01-08-the-phoenix-always-rises-evolving-into-the-future-human.txt",
     "youtube_id": "q-caGhIlKS8",
@@ -1423,7 +1423,7 @@
   {
     "archival_title": "Psychedelics and the Cosmic Mind",
     "channel": "New Thinking Allowed",
-    "source_type": "lecture",
+    "source_type": "talk",
     "transcript": "sources/transcripts/2025-03-18-psychedelics-and-the-cosmic-mind.md",
     "diarist": "sources/diarist/2025-03-18-psychedelics-and-the-cosmic-mind.txt",
     "youtube_id": "FMgixG6Z0sk",
@@ -1441,7 +1441,7 @@
   {
     "archival_title": "LSD Sessions: The Infinite Reality of the Divine",
     "channel": "New Thinking Allowed",
-    "source_type": "lecture",
+    "source_type": "talk",
     "transcript": "sources/transcripts/2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine.md",
     "diarist": "sources/diarist/2025-03-30-lsd-sessions-the-infinite-reality-of-the-divine.txt",
     "youtube_id": "-ZTmPkFG1AE",
@@ -1459,7 +1459,7 @@
   {
     "archival_title": "Bicycle Day Psychedelic Talk (recorded 2025-04-19)",
     "channel": "The Pearl Institute",
-    "source_type": "lecture",
+    "source_type": "talk",
     "transcript": "sources/transcripts/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.md",
     "diarist": "sources/diarist/2025-04-26-bicycle-day-psychedelic-talk-recorded-2025-04-19.txt",
     "youtube_id": "H-edIvbzE8w",
@@ -1477,7 +1477,7 @@
   {
     "archival_title": "Diamond Luminosity (live stream)",
     "channel": "New Thinking Allowed",
-    "source_type": "lecture",
+    "source_type": "livestream",
     "transcript": "sources/transcripts/2025-05-18-diamond-luminosity-live-stream.md",
     "diarist": "sources/diarist/2025-05-18-diamond-luminosity-live-stream.txt",
     "youtube_id": "FlHqinHyt9I",
@@ -1495,7 +1495,7 @@
   {
     "archival_title": "Consciousness, Psychedelics & Collective Evolution",
     "channel": "Daniel Pinchbeck",
-    "source_type": "lecture",
+    "source_type": "talk",
     "transcript": "sources/transcripts/2025-07-16-consciousness-psychedelics-and-collective-evolution.md",
     "diarist": "sources/diarist/2025-07-16-consciousness-psychedelics-and-collective-evolution.txt",
     "youtube_id": "tzscyUU1rXI",
@@ -1531,7 +1531,7 @@
   {
     "archival_title": "PSA Fireside Chat — Dr. Raymond Turpin & Dr. Chris Bache",
     "channel": "Psychedelic Society of Asheville (PSA)",
-    "source_type": "panel",
+    "source_type": "conversation",
     "transcript": "sources/transcripts/2025-10-21-psa-fireside-chat-featuring-dr-raymond-turpin-dr.md",
     "diarist": "sources/diarist/2025-10-21-psa-fireside-chat-featuring-dr-raymond-turpin-dr.txt",
     "youtube_id": "IBCN4z5P-8s",
