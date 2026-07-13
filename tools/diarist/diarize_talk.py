@@ -46,6 +46,7 @@ import json
 import csv
 import time
 import argparse
+import inspect
 from pathlib import Path
 from typing import List, Dict, Any, Optional, Tuple
 
@@ -122,10 +123,25 @@ def apply_lexicon(text: str, lex: Dict[str, Any]) -> str:
         return text
     pairs = []
     for canonical, variants in lex.items():
+        if isinstance(variants, dict):
+            canonical_value = str(variants.get("canonical") or canonical)
+            raw_variants = variants.get("variants") or variants.get("aliases") or []
+            if isinstance(raw_variants, str):
+                raw_variants = [raw_variants]
+            for variant in raw_variants:
+                if isinstance(variant, str):
+                    pairs.append((variant, canonical_value))
+            continue
         if isinstance(variants, str):
-            variants = [variants]
-        for v in variants:
-            pairs.append((v, canonical))
+            pairs.append((variants, str(canonical)))
+            continue
+        # A list value can mean either "canonical -> aliases" or, in the current
+        # repo lexicon, "category -> vocabulary terms". Only apply replacements
+        # for explicit alias mappings; category vocabulary is prompt context.
+        if isinstance(variants, list) and "_" not in str(canonical):
+            for variant in variants:
+                if isinstance(variant, str):
+                    pairs.append((variant, str(canonical)))
     pairs.sort(key=lambda kv: len(kv[0]), reverse=True)
     for v, c in pairs:
         pat = re.compile(rf"(?<!\w){re.escape(v)}(?!\w)", re.IGNORECASE)
@@ -279,7 +295,10 @@ def run_diarization_pyannote(audio_path: Path, hf_token: Optional[str], num_spea
     if not token:
         raise RuntimeError("No HuggingFace token. Set PYANNOTE_TOKEN or pass --hf_token.")
     print("[pyannote] Loading diarization pipeline…")
-    pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization-3.1", use_auth_token=token)
+    kwargs = {"token": token}
+    if "token" not in inspect.signature(Pipeline.from_pretrained).parameters:
+        kwargs = {"use_auth_token": token}
+    pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization-3.1", **kwargs)
     params = {"num_speakers": num_speakers} if num_speakers else {}
     diarization = pipeline(str(audio_path), **params)
     spans = [(float(turn.start), float(turn.end), str(speaker)) for turn, _, speaker in diarization.itertracks(yield_label=True)]

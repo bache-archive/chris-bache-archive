@@ -64,6 +64,7 @@ SPEAKER_REF_MANIFEST ?= data/speakers/chris_bache.reference_manifest.json
 SPEAKER_REF_CLIPS ?= build/speaker-reference-clips/chris_bache
 SPEAKER_REPORT ?= reports/diarization/$(SLUG).speaker_identity.json
 SPEAKER_PYTHON ?= python3
+TRANSCRIPT_PYTHON ?= python3
 
 # Deps we expect on PATH
 SHELL := /bin/bash
@@ -275,9 +276,10 @@ diarist:
 transcript:
 	@test -f "$(REBUILD_SCRIPT)" || { echo "ERROR: $(REBUILD_SCRIPT) not found"; exit 1; }
 	@echo ">> Building transcript for $(SLUG)"
-	@tmp=$$(mktemp); \
+	@set -e; \
+	tmp=$$(mktemp); \
 	printf '%s\n' "$(SLUG)" > "$$tmp"; \
-	python3 "$(REBUILD_SCRIPT)" \
+	"$(TRANSCRIPT_PYTHON)" "$(REBUILD_SCRIPT)" \
 	  --root . \
 	  --missing-file "$$tmp" \
 	  --normalize-labels \

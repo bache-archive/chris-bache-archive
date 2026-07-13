@@ -405,6 +405,9 @@ def process_one(
     title = derive_title_from_index_entry(entry, basename)
     date  = derive_date_from_index_entry(entry)
 
+    if args.dry_run:
+        return "planned", str(target_rel)
+
     # chunk & call model
     chunk_size = int(os.environ.get("CHUNK_CHARS", "30000"))
     chunks = chunk_text(diar_text, max_chars=chunk_size)
@@ -487,9 +490,6 @@ def process_one(
     # also keep an HTML comment tag near top for quick grepping
     body_with_tag = f"<!-- diarist_sha1:{diar_hash} -->\n{body}".strip() + "\n"
     final_md = join_front_matter(fm_body_updated, body_with_tag)
-
-    if args.dry_run:
-        return "planned", str(target_rel)
 
     # archive & write
     if args.apply:
@@ -591,6 +591,7 @@ def main():
                 print(f"[{status}] {base} -> {where}")
         except KeyboardInterrupt:
             print("\nInterrupted.")
+            errors += 1
             break
         except Exception as e:
             errors += 1
@@ -602,6 +603,8 @@ def main():
     print(f"Applied:  {applied}")
     print(f"Skipped:  {skipped}")
     print(f"Errors:   {errors}")
+    if errors:
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()

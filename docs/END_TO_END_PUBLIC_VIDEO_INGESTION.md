@@ -14,6 +14,12 @@ to be fully unattended because archival transcripts need human review for:
 - transcript quality
 - final publication acceptance
 
+Pilot status: the 2026-07-12 pilot on `KgqQiLkg1mM` validated metadata,
+caption, audio, ASR, and speaker-ID command execution, but did not complete
+full publication. Pyannote model access and OpenAI API quota blocked archival
+diarization and transcript rebuild. See
+`docs/PUBLIC_VIDEO_INGESTION_PILOT_2026-07-12.md`.
+
 ## Repositories
 
 - Corpus, transcript, fixity, GitHub Pages mirror:
