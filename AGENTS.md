@@ -57,5 +57,6 @@ If the label does not exist or permissions do not allow it, do not block on that
 ## Pipeline Expectations
 
 - Prefer structured ingestion: source URL -> metadata -> audio/caption capture -> diarized transcript -> normalized Markdown/HTML -> checksums/manifests -> RAG rebuild.
+- For public YouTube/video ingestion, follow `docs/END_TO_END_PUBLIC_VIDEO_INGESTION.md`. Treat `make add` and `make quick` as legacy helpers, not the production batch workflow.
 - Keep generated media and private working files ignored.
 - Keep public transcript URLs stable whenever possible.

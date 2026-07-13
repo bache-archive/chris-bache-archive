@@ -1,11 +1,11 @@
 {
   "version": "v3.5.4",
   "source": "checksums/RELEASE-v3.5.4.sha256",
-  "generated": "2026-07-13T01:18:23Z",
+  "generated": "2026-07-13T01:43:25Z",
   "files": [
     {
       "path": "CONFIG.md",
-      "sha256": "539a350cfa16476e374afb7210c3b1851a7ac01ed3da168675ea91bdee778223"
+      "sha256": "822ec5dfaaf4adcf360f267e840779d785a427fdf8288cbbe46c2704659a4f10"
     },
     {
       "path": "LICENSE",
@@ -13,7 +13,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "578fffb198b651626df1cf5919bc93e5c5c85549f6a905a9e791c10779cb50c1"
+      "sha256": "2d2526fb8acec4b38512d9d12c61307b19c4d4deed55120f61a6622922a3ec4a"
     },
     {
       "path": "README_RAG.md",
@@ -33,7 +33,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "8f630a9dcd359f3ab0a744145dbbd1b719fa1f47bb380ddc0d9a91d9bc9f6c4c"
+      "sha256": "78ad300bc1ccad8e01902a46520de7e7e46e3083b40d7225a567e2c080f019a3"
     },
     {
       "path": "index.json",

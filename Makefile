@@ -45,6 +45,7 @@ DOWNLOAD_MEDIA_SH  := tools/media/download_media.sh
 BUILD_SITE_PY      := tools/site/build_site.py
 SITEMAPS_PY        := tools/site/generate_sitemaps.py
 PREPARE_YT_BATCH   := tools/intake/prepare_youtube_batch.py
+FETCH_YT_METADATA  := tools/intake/fetch_youtube_metadata.py
 SPEAKER_REF_SCRIPT := tools/speakers/build_reference_manifest.py
 SPEAKER_CLIPS_SCRIPT := tools/speakers/extract_reference_clips.py
 SPEAKER_IDENTIFY_SCRIPT := tools/speakers/identify_speakers.py
@@ -159,15 +160,16 @@ fixity: $(RELEASE_SHA)
 # ------------------------------------------------------------------------------
 # New: YouTube → captions → diarist → transcript → index → media → site
 # ------------------------------------------------------------------------------
-.PHONY: help prepare-youtube-batch speaker-reference speaker-reference-clips speaker-identify add captions diarize diarist transcript index media site sitemaps publish quick
+.PHONY: help prepare-youtube-batch fetch-youtube-metadata speaker-reference speaker-reference-clips speaker-identify add captions diarize diarist transcript index media site sitemaps publish quick
 
 help:
 	@echo "Usage:"
 	@echo "  make prepare-youtube-batch BATCH_URLS=<urls.txt> BATCH_OUT=<patch-dir>"
+	@echo "  make fetch-youtube-metadata BATCH_URLS=<urls.txt> BATCH_OUT=<patch-dir>"
 	@echo "  make speaker-reference"
 	@echo "  make speaker-reference-clips"
 	@echo "  make speaker-identify SLUG=<slug> AUDIO=<path-to-audio.mp3>"
-	@echo "  make add SLUG=<yyyy-mm-dd-title> YT=<youtube_url>"
+	@echo "  make add SLUG=<yyyy-mm-dd-title> YT=<youtube_url>  # legacy stub; prefer patch workflow"
 	@echo "  make captions SLUG=<slug>"
 	@echo "  make diarize SLUG=<slug> AUDIO=<path-to-audio.mp3>"
 	@echo "  make diarist SLUG=<slug>  # legacy placement reminder"
@@ -186,6 +188,13 @@ prepare-youtube-batch:
 	@python3 "$(PREPARE_YT_BATCH)" \
 	  --urls "$(BATCH_URLS)" \
 	  --index "$(INDEX_JSON)" \
+	  --out-dir "$(BATCH_OUT)"
+
+# Fetch public metadata and create a review-only draft patch. Does not mutate index.json.
+fetch-youtube-metadata: prepare-youtube-batch
+	@test -f "$(FETCH_YT_METADATA)" || { echo "ERROR: $(FETCH_YT_METADATA) not found"; exit 1; }
+	@python3 "$(FETCH_YT_METADATA)" \
+	  --urls "$(BATCH_OUT)/inputs/urls.normalized.txt" \
 	  --out-dir "$(BATCH_OUT)"
 
 # Build non-audio speaker reference metadata from reviewed timecoded diarist files.
@@ -222,7 +231,7 @@ add:
 	     "archival_title": ($$slug | gsub("-"; " ") ),
 	     "published": (($$slug | capture("^(?<d>\\d{4}-\\d{2}-\\d{2})")).d // ""),
 	     "channel": "",
-	     "type": "interview",
+	     "source_type": "interview",
 	     "youtube_url": $$yt,
 	     "youtube_id": ($$yt | capture("(?:v=|/shorts/|/embed/|youtu\\.be/)(?<id>[A-Za-z0-9_-]{11})").id // ""),
 	     "diarist": "sources/diarist/\($$slug).txt",
@@ -303,9 +312,9 @@ sitemaps:
 	@echo ">> Generating sitemaps for $(ROOT_URL)"
 	@python3 "$(SITEMAPS_PY)" "$(ROOT_URL)"
 
-# One-shot: add → captions → diarist reminder → transcript → index
+# Legacy one-shot: only for already staged diarist text. Prefer the patch workflow.
 quick: add captions diarist transcript index
-	@echo ">> Quick flow completed for $(SLUG)"
+	@echo ">> Legacy quick flow completed for $(SLUG). Prefer docs/END_TO_END_PUBLIC_VIDEO_INGESTION.md for production."
 
 # ------------------------------------------------------------------------------
 # Finalization (simple one-command build + verify)

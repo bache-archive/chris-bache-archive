@@ -3,6 +3,9 @@
 Use this workflow for public YouTube batches before any media download,
 diarization, transcript editing, RAG rebuild, or frontend sync.
 
+For the complete cross-repo publication path, see
+`docs/END_TO_END_PUBLIC_VIDEO_INGESTION.md`.
+
 ## 1. Stage URLs
 
 Put public YouTube URLs in a dated patch workspace:
@@ -39,13 +42,13 @@ published date, duration, source type, and final slug before promoting it to
 Run this in a network-capable shell with current `yt-dlp`:
 
 ```bash
-while read -r url; do
-  yt-dlp --skip-download --dump-json "$url" \
-    | jq '{id,title,channel,upload_date,duration_string,webpage_url}'
-done < patches/YYYY-MM-DD-youtube-public-batch/inputs/urls.normalized.txt
+make fetch-youtube-metadata \
+  BATCH_OUT=patches/YYYY-MM-DD-youtube-public-batch \
+  BATCH_URLS=patches/YYYY-MM-DD-youtube-public-batch/inputs/urls.txt
 ```
 
-Use the metadata to complete `work/index.patch.json`, then merge with:
+Use `outputs/youtube_metadata.json` and `work/index.patch.metadata.json` to
+complete reviewed `work/index.patch.json`, then merge with:
 
 ```bash
 python3 tools/curation/merge_index.py \
