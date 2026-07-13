@@ -37,6 +37,8 @@ For each slug, preserve:
 ## Quality Gate
 
 - Confirm speaker labels for Chris, host, and audience segments.
+- For newly diarized files, use `make speaker-identify` when local reference clips
+  are available, then confirm the suggested Chris cluster by review.
 - Spot-check at least 5 minutes or 10% of the source, whichever is smaller.
 - Confirm timestamp anchors link to the original video/audio when available.
 - Run `make finalize`.
@@ -49,6 +51,7 @@ For an individual public talk slug, prefer the Makefile wrapper so future script
 ```bash
 make add SLUG=<yyyy-mm-dd-title> YT=<public_source_url>
 make captions SLUG=<yyyy-mm-dd-title>
+make diarize SLUG=<yyyy-mm-dd-title> AUDIO=<path-to-audio.mp3>
 make transcript SLUG=<yyyy-mm-dd-title>
 make index
 make site
@@ -56,7 +59,9 @@ make sitemaps
 make finalize
 ```
 
-`make transcript` expects the raw diarist export at `sources/diarist/<slug>.txt` and uses `tools/transcripts/rebuild_transcripts.py`. Preserve the raw diarist file before running any LLM cleanup.
+`make diarize` is the preferred replacement for the old Otter export step. It wraps `tools/diarist/diarize_talk.py`, which uses WhisperX for ASR/alignment and pyannote for speaker turns. It writes `sources/diarist/<slug>.txt`, `.srt`, and `.json`.
+
+`make transcript` expects the raw diarist text at `sources/diarist/<slug>.txt` and uses `tools/transcripts/rebuild_transcripts.py`. Preserve the raw diarist files before running any LLM cleanup.
 
 ## Frontend Contract
 

@@ -1,5 +1,7 @@
 # === Python / Virtual Environment ===
 .venv/
+.venv-diarize/
+.venv-speakers/
 __pycache__/
 *.pyc
 *.pyo

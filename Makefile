@@ -38,11 +38,31 @@ ROOT_URL           ?= https://bache-archive.github.io/chris-bache-archive
 
 # Script paths
 CAPTION_SCRIPT     := tools/intake/grab_all_captions.py
+DIARIZE_SCRIPT     := tools/diarist/diarize_talk.py
 REBUILD_SCRIPT     := tools/transcripts/rebuild_transcripts.py
 INDEX_MD_SCRIPT    := tools/site/generate_index_md.py
 DOWNLOAD_MEDIA_SH  := tools/media/download_media.sh
 BUILD_SITE_PY      := tools/site/build_site.py
 SITEMAPS_PY        := tools/site/generate_sitemaps.py
+PREPARE_YT_BATCH   := tools/intake/prepare_youtube_batch.py
+SPEAKER_REF_SCRIPT := tools/speakers/build_reference_manifest.py
+SPEAKER_CLIPS_SCRIPT := tools/speakers/extract_reference_clips.py
+SPEAKER_IDENTIFY_SCRIPT := tools/speakers/identify_speakers.py
+BATCH_OUT          ?= patches/2026-07-12-youtube-public-batch
+BATCH_URLS         ?= $(BATCH_OUT)/inputs/urls.txt
+AUDIO              ?= downloads/audio/$(SLUG).mp3
+DIAR_OUT           ?= sources/diarist
+DIAR_PYTHON        ?= python3
+DIAR_LANGUAGE      ?= en
+DIAR_MODEL         ?= large-v3
+DIAR_NUM_SPEAKERS  ?=
+DIAR_LEXICON       ?= data/diarist/lexicon.yml
+DIAR_PROMPT        ?= data/diarist/initial_prompt.txt
+DIAR_EXTRA         ?=
+SPEAKER_REF_MANIFEST ?= data/speakers/chris_bache.reference_manifest.json
+SPEAKER_REF_CLIPS ?= build/speaker-reference-clips/chris_bache
+SPEAKER_REPORT ?= reports/diarization/$(SLUG).speaker_identity.json
+SPEAKER_PYTHON ?= python3
 
 # Deps we expect on PATH
 SHELL := /bin/bash
@@ -139,13 +159,18 @@ fixity: $(RELEASE_SHA)
 # ------------------------------------------------------------------------------
 # New: YouTube → captions → diarist → transcript → index → media → site
 # ------------------------------------------------------------------------------
-.PHONY: help add captions diarist transcript index media site sitemaps publish quick
+.PHONY: help prepare-youtube-batch speaker-reference speaker-reference-clips speaker-identify add captions diarize diarist transcript index media site sitemaps publish quick
 
 help:
 	@echo "Usage:"
+	@echo "  make prepare-youtube-batch BATCH_URLS=<urls.txt> BATCH_OUT=<patch-dir>"
+	@echo "  make speaker-reference"
+	@echo "  make speaker-reference-clips"
+	@echo "  make speaker-identify SLUG=<slug> AUDIO=<path-to-audio.mp3>"
 	@echo "  make add SLUG=<yyyy-mm-dd-title> YT=<youtube_url>"
 	@echo "  make captions SLUG=<slug>"
-	@echo "  make diarist SLUG=<slug>"
+	@echo "  make diarize SLUG=<slug> AUDIO=<path-to-audio.mp3>"
+	@echo "  make diarist SLUG=<slug>  # legacy placement reminder"
 	@echo "  make transcript SLUG=<slug>"
 	@echo "  make index"
 	@echo "  make media"
@@ -153,6 +178,37 @@ help:
 	@echo "  make sitemaps ROOT_URL=$(ROOT_URL)"
 	@echo "  make publish"
 	@echo "  make quick SLUG=<slug> YT=<youtube_url>"
+
+# Offline-safe URL normalization and duplicate check for a public YouTube batch.
+prepare-youtube-batch:
+	@test -f "$(PREPARE_YT_BATCH)" || { echo "ERROR: $(PREPARE_YT_BATCH) not found"; exit 1; }
+	@test -f "$(BATCH_URLS)" || { echo "ERROR: $(BATCH_URLS) not found"; exit 1; }
+	@python3 "$(PREPARE_YT_BATCH)" \
+	  --urls "$(BATCH_URLS)" \
+	  --index "$(INDEX_JSON)" \
+	  --out-dir "$(BATCH_OUT)"
+
+# Build non-audio speaker reference metadata from reviewed timecoded diarist files.
+speaker-reference:
+	@test -f "$(SPEAKER_REF_SCRIPT)" || { echo "ERROR: $(SPEAKER_REF_SCRIPT) not found"; exit 1; }
+	@python3 "$(SPEAKER_REF_SCRIPT)" --out "$(SPEAKER_REF_MANIFEST)"
+
+# Extract local reference clips when source audio is present. Outputs are ignored.
+speaker-reference-clips: speaker-reference
+	@test -f "$(SPEAKER_CLIPS_SCRIPT)" || { echo "ERROR: $(SPEAKER_CLIPS_SCRIPT) not found"; exit 1; }
+	@python3 "$(SPEAKER_CLIPS_SCRIPT)" \
+	  --manifest "$(SPEAKER_REF_MANIFEST)" \
+	  --out-dir "$(SPEAKER_REF_CLIPS)"
+
+# Compare diarized speaker clusters against the reviewed Chris reference clips.
+speaker-identify:
+	@test -f "$(SPEAKER_IDENTIFY_SCRIPT)" || { echo "ERROR: $(SPEAKER_IDENTIFY_SCRIPT) not found"; exit 1; }
+	@test -f "sources/diarist/$(SLUG).json" || { echo "ERROR: sources/diarist/$(SLUG).json not found"; exit 1; }
+	@"$(SPEAKER_PYTHON)" "$(SPEAKER_IDENTIFY_SCRIPT)" \
+	  --audio "$(AUDIO)" \
+	  --diarization-json "sources/diarist/$(SLUG).json" \
+	  --reference-clips "$(SPEAKER_REF_CLIPS)/clips_manifest.json" \
+	  --out "$(SPEAKER_REPORT)"
 
 # Append a stub record into index.json
 add:
@@ -181,11 +237,30 @@ captions:
 	@echo ">> Downloading captions for $(SLUG)"
 	@python3 "$(CAPTION_SCRIPT)" --index "$(INDEX_JSON)" --only "$(SLUG)"
 
-# Reminder to drop Otter exports
+# Run the current local diarization path: WhisperX ASR + pyannote speaker turns.
+diarize:
+	@test -f "$(DIARIZE_SCRIPT)" || { echo "ERROR: $(DIARIZE_SCRIPT) not found"; exit 1; }
+	@test -f "$(AUDIO)" || { echo "ERROR: audio not found: $(AUDIO)"; exit 1; }
+	@mkdir -p "$(DIAR_OUT)"
+	@echo ">> Diarizing $(AUDIO) -> $(DIAR_OUT)/$(SLUG).{txt,srt,json}"
+	@extra=""; \
+	if [ -n "$(DIAR_NUM_SPEAKERS)" ]; then extra="$$extra --num-speakers $(DIAR_NUM_SPEAKERS)"; fi; \
+	if [ -f "$(DIAR_LEXICON)" ]; then extra="$$extra --lexicon $(DIAR_LEXICON)"; fi; \
+	if [ -f "$(DIAR_PROMPT)" ]; then extra="$$extra --initial-prompt-file $(DIAR_PROMPT)"; fi; \
+	"$(DIAR_PYTHON)" "$(DIARIZE_SCRIPT)" \
+	  --input "$(AUDIO)" \
+	  --out "$(DIAR_OUT)" \
+	  --basename "$(SLUG)" \
+	  --language "$(DIAR_LANGUAGE)" \
+	  --whisper-model "$(DIAR_MODEL)" \
+	  $$extra $(DIAR_EXTRA)
+
+# Legacy reminder for external diarist exports.
 diarist:
-	@echo "↳ Place diarist exports at:"
+	@echo "↳ Legacy external-diarist placement:"
 	@echo "   - $(DIAR_TXT)"
 	@echo "   - (optional) $(DIAR_SRT)"
+	@echo "↳ Preferred current path: make diarize SLUG=$(SLUG) AUDIO=<path-to-audio.mp3>"
 
 # Build transcript markdown from diarist + index metadata
 transcript:

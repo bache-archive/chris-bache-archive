@@ -49,12 +49,6 @@ import argparse
 from pathlib import Path
 from typing import List, Dict, Any, Optional, Tuple
 
-import torch
-from tqdm import tqdm
-
-import whisperx  # type: ignore
-from pyannote.audio import Pipeline  # type: ignore
-
 try:
     import yaml
 except ImportError:
@@ -213,6 +207,14 @@ def run_asr_align_whisperx(
         "duration": float_seconds
       }
     """
+    try:
+        import whisperx  # type: ignore
+    except ImportError as exc:
+        raise RuntimeError(
+            "Missing WhisperX dependency. Install the diarization environment: "
+            "pip install whisperx pyannote.audio torch torchaudio numpy pandas tqdm pyyaml"
+        ) from exc
+
     # CPU-safe default
     if device == "cpu" and compute_type.lower() in {"float16", "float32"}:
         compute_type = "int8"
@@ -265,6 +267,14 @@ def run_asr_align_whisperx(
 
 
 def run_diarization_pyannote(audio_path: Path, hf_token: Optional[str], num_speakers: Optional[int] = None):
+    try:
+        from pyannote.audio import Pipeline  # type: ignore
+    except ImportError as exc:
+        raise RuntimeError(
+            "Missing pyannote.audio dependency. Install the diarization environment: "
+            "pip install whisperx pyannote.audio torch torchaudio numpy pandas tqdm pyyaml"
+        ) from exc
+
     token = load_hf_token(hf_token)
     if not token:
         raise RuntimeError("No HuggingFace token. Set PYANNOTE_TOKEN or pass --hf_token.")
@@ -311,7 +321,7 @@ def main():
     ap.add_argument("--basename", default=None)
     ap.add_argument("--language", default=None)
     ap.add_argument("--whisper-model", default="large-v3")
-    ap.add_argument("--device", default="cuda" if torch.cuda.is_available() else "cpu")
+    ap.add_argument("--device", default="auto", help="auto, cpu, cuda, or another WhisperX-supported device")
     ap.add_argument("--compute-type", default="float16")
     ap.add_argument("--batch-size", type=int, default=16)
     ap.add_argument("--hf_token", default=None)
@@ -322,6 +332,16 @@ def main():
     ap.add_argument("--initial-prompt-file", default=None)
     ap.add_argument("--lexicon", default=None)
     args = ap.parse_args()
+
+    if args.device == "auto":
+        try:
+            import torch
+        except ImportError as exc:
+            raise SystemExit(
+                "ERROR: Missing Torch dependency. Install the diarization environment: "
+                "pip install whisperx pyannote.audio torch torchaudio numpy pandas tqdm pyyaml"
+            ) from exc
+        args.device = "cuda" if torch.cuda.is_available() else "cpu"
 
     audio_path = Path(args.input).expanduser().resolve()
     if not audio_path.exists():

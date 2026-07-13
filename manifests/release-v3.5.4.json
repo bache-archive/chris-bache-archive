@@ -1,7 +1,7 @@
 {
   "version": "v3.5.4",
   "source": "checksums/RELEASE-v3.5.4.sha256",
-  "generated": "2026-07-12T02:36:03Z",
+  "generated": "2026-07-13T01:18:23Z",
   "files": [
     {
       "path": "CONFIG.md",
@@ -13,7 +13,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "f2ac8ad14c87bb39646944a01d07c1ad092388cffc112a6c0734afc90be9491c"
+      "sha256": "578fffb198b651626df1cf5919bc93e5c5c85549f6a905a9e791c10779cb50c1"
     },
     {
       "path": "README_RAG.md",
@@ -109,11 +109,11 @@
     },
     {
       "path": "sitemap-transcripts.xml",
-      "sha256": "1c60d799a2ccd4be79dd152c34e05f2377e0e6eaccfc166883a0638bcabc3339"
+      "sha256": "3cbfd0a08fd8d8e2e664d5a33c740e6e96da926bed7de7cf6433ce8d266089a6"
     },
     {
       "path": "sitemap.xml",
-      "sha256": "282d79671ce51187b76be9af9f3bf02f9934d201d04f034a094f43fcac0824e3"
+      "sha256": "f7e15e4e00d0e11cce715c00c9a83093b6071fc6df2987d25e159992d5ce4025"
     },
     {
       "path": "sources/books/dned/work.json",

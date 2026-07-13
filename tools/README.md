@@ -37,10 +37,9 @@ make add SLUG=2025-10-27-mystic-cosmos \
 # 2) Fetch captions (VTT)
 make captions SLUG=2025-10-27-mystic-cosmos
 
-# 3) Export diarist TXT (+ optional SRT) from Otter
-#    Save to:
-#      sources/diarist/2025-10-27-mystic-cosmos.txt
-#      sources/diarist/2025-10-27-mystic-cosmos.srt
+# 3) Diarize audio with WhisperX + pyannote
+make diarize SLUG=2025-10-27-mystic-cosmos \
+             AUDIO=downloads/audio/2025-10-27-mystic-cosmos.mp3
 
 # 4) Build the transcript (Markdown with YAML front matter)
 make transcript SLUG=2025-10-27-mystic-cosmos
