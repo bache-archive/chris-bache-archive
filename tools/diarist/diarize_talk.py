@@ -22,6 +22,9 @@ Requirements (pip):
 pyannote needs a HuggingFace token:
   export PYANNOTE_TOKEN=<hf_token>
   # or pass --hf_token
+  # Accept terms for pyannote/speaker-diarization-3.1,
+  # pyannote/segmentation-3.0, and any gated pyannote submodels required by
+  # the installed pyannote.audio release.
 
 Example:
   python tools/diarist/diarize_talk.py \
@@ -294,13 +297,39 @@ def run_diarization_pyannote(audio_path: Path, hf_token: Optional[str], num_spea
     token = load_hf_token(hf_token)
     if not token:
         raise RuntimeError("No HuggingFace token. Set PYANNOTE_TOKEN or pass --hf_token.")
+
+    try:
+        import torch
+        import torchaudio
+    except ImportError as exc:
+        raise RuntimeError(
+            "Missing torchaudio dependency. Install the diarization environment: "
+            "pip install whisperx pyannote.audio torch torchaudio numpy pandas tqdm pyyaml"
+        ) from exc
+
     print("[pyannote] Loading diarization pipeline…")
     kwargs = {"token": token}
     if "token" not in inspect.signature(Pipeline.from_pretrained).parameters:
         kwargs = {"use_auth_token": token}
     pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization-3.1", **kwargs)
     params = {"num_speakers": num_speakers} if num_speakers else {}
-    diarization = pipeline(str(audio_path), **params)
+
+    # pyannote.audio 4.x uses TorchCodec for file-path decoding. On macOS
+    # systems with newer Homebrew FFmpeg, TorchCodec may not find the expected
+    # libav* versions. Preloading through torchaudio keeps the Makefile workflow
+    # stable and gives pyannote the documented in-memory audio shape.
+    print("[pyannote] Loading audio for diarization…")
+    waveform, sample_rate = torchaudio.load(str(audio_path))
+    if waveform.ndim != 2:
+        raise RuntimeError(f"Unexpected audio waveform shape: {tuple(waveform.shape)}")
+    if waveform.shape[0] > 1:
+        waveform = waveform.mean(dim=0, keepdim=True)
+    waveform = waveform.to(dtype=torch.float32)
+    if sample_rate != 16000:
+        waveform = torchaudio.functional.resample(waveform, sample_rate, 16000)
+        sample_rate = 16000
+
+    diarization = pipeline({"waveform": waveform, "sample_rate": sample_rate}, **params)
     spans = [(float(turn.start), float(turn.end), str(speaker)) for turn, _, speaker in diarization.itertracks(yield_label=True)]
     spans.sort(key=lambda x: x[0])
     return spans

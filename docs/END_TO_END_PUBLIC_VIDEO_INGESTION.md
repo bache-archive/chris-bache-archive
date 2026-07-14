@@ -115,6 +115,14 @@ pip install whisperx pyannote.audio torch torchaudio numpy pandas tqdm pyyaml
 export PYANNOTE_TOKEN=<token>
 ```
 
+The Hugging Face account behind `PYANNOTE_TOKEN` must have accepted all gated
+models needed by the installed pyannote stack. For the current local stack this
+includes:
+
+- `pyannote/speaker-diarization-3.1`
+- `pyannote/segmentation-3.0`
+- `pyannote/speaker-diarization-community-1`
+
 Run diarization:
 
 ```bash

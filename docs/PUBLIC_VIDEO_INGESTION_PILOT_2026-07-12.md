@@ -26,8 +26,12 @@ Validated:
 
 Blocked or not publication-ready:
 
-- Pyannote speaker diarization did not run. The configured Hugging Face token
-  could not access the gated `pyannote/speaker-diarization-3.1` model.
+- Pyannote speaker diarization did not run. At the time of the pilot, the
+  configured Hugging Face token could not access the gated
+  `pyannote/speaker-diarization-3.1` model. A later local check confirmed
+  access to `pyannote/speaker-diarization-3.1` and `pyannote/segmentation-3.0`,
+  but current `pyannote.audio` also requires
+  `pyannote/speaker-diarization-community-1`.
 - The resulting diarist output fell back to one speaker, so it cannot distinguish
   Chris from the host and is not archival speaker attribution.
 - Canonical transcript rebuild could not run because the configured OpenAI API
@@ -49,7 +53,8 @@ Blocked or not publication-ready:
 ## Follow-Up Required
 
 1. Accept the gated pyannote model terms for the Hugging Face account tied to
-   `PYANNOTE_TOKEN`, or switch the workflow to a non-gated diarization backend.
+   `PYANNOTE_TOKEN`, including `pyannote/speaker-diarization-community-1`, or
+   switch the workflow to a non-gated diarization backend.
 2. Restore OpenAI API quota or configure a working archive transcription model
    endpoint.
 3. Rerun this pilot with production settings, ideally on a faster GPU/cloud

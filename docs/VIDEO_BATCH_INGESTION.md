@@ -86,7 +86,7 @@ The preferred replacement for the old Otter step is:
 
 The diarizer uses WhisperX for ASR/alignment and pyannote for speaker turns. It
 requires a local ML environment plus a Hugging Face token accepted for the
-pyannote speaker-diarization model:
+pyannote speaker-diarization model and its gated submodels:
 
 ```bash
 export PYANNOTE_TOKEN=<token>
@@ -95,6 +95,13 @@ python3 -m venv .venv-diarize
 pip install whisperx pyannote.audio torch torchaudio numpy pandas tqdm pyyaml
 make diarize DIAR_PYTHON=.venv-diarize/bin/python SLUG=<slug> AUDIO=<path-to-audio.mp3>
 ```
+
+For current `pyannote.audio` releases, accept at least these Hugging Face model
+terms for the account behind `PYANNOTE_TOKEN`:
+
+- `pyannote/speaker-diarization-3.1`
+- `pyannote/segmentation-3.0`
+- `pyannote/speaker-diarization-community-1`
 
 Otter should now be treated as a legacy fallback or comparison source, not the
 normal archival path. Preserve raw diarized artifacts under `sources/diarist/`
