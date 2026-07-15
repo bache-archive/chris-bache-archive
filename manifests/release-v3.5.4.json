@@ -1,8 +1,16 @@
 {
   "version": "v3.5.4",
   "source": "checksums/RELEASE-v3.5.4.sha256",
-  "generated": "2026-07-15T05:49:12Z",
+  "generated": "2026-07-15T14:39:52Z",
   "files": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "038f2b862a353f3438ae329da883b16230583beecbfa8c1d661fbbe0612f6067"
+    },
+    {
+      "path": "CLAUDE.md",
+      "sha256": "5062eaa436a22ca717ee49b09b98741bf1727d9ea025b99c6200f2edd363ca0a"
+    },
     {
       "path": "CONFIG.md",
       "sha256": "822ec5dfaaf4adcf360f267e840779d785a427fdf8288cbbe46c2704659a4f10"
@@ -30,6 +38,58 @@
     {
       "path": "assets/style.css",
       "sha256": "712fc77ad960a26e026d1387274a835465403cbb8bcc1c453ff2fdf38d45e81c"
+    },
+    {
+      "path": "data/diarist/initial_prompt.txt",
+      "sha256": "dbae38d8d01b7921b06ae420e6f1523297d59f2f5a9723d314da999cee7123aa"
+    },
+    {
+      "path": "data/diarist/lexicon.yml",
+      "sha256": "ca833ec7d0632cd374f6d7cdf2d51e5c3ae6df38c64d186c5fcb27120e19c1d2"
+    },
+    {
+      "path": "data/speakers/README.md",
+      "sha256": "9f8b9b2adb7381154cdee2587e0e9bd1a7bdd8b04b412d34811ba3d329b33d43"
+    },
+    {
+      "path": "data/speakers/chris_bache.reference_manifest.json",
+      "sha256": "3cc7805fa58d02a3ac24cdd25d4f980c9321f1d6da7350df3742f463e99fb7d8"
+    },
+    {
+      "path": "docs/AGENT_AUTONOMOUS_VIDEO_INGESTION_SPEC.json",
+      "sha256": "732c53608ac5848feb0a5cf230b9392bc485de977924feb618808d1fb2b7cf8b"
+    },
+    {
+      "path": "docs/ANONYMITY_RUNBOOK.md",
+      "sha256": "8077f1d6b9aa6caf2f0490e0a8b35842b158fb30ded3acdc4661dacfcbb2a859"
+    },
+    {
+      "path": "docs/AUTONOMOUS_VIDEO_INGESTION_ROADMAP.md",
+      "sha256": "41d8c1562310afab73d45ccd67c05d2f1973f2f5351d8d1bae926a12429dc86c"
+    },
+    {
+      "path": "docs/END_TO_END_PUBLIC_VIDEO_INGESTION.md",
+      "sha256": "037572d907d7a15996a451877c06d8cdece7a4db20ffa0604dc331a3baaaaaa8"
+    },
+    {
+      "path": "docs/PUBLIC_VIDEO_INGESTION_PILOT_2026-07-12.md",
+      "sha256": "c941540e1980f26a8409daa333c7bd26b864be65eee1b5f5698e5ad78af9f0bb"
+    },
+    {
+      "path": "docs/RELAUNCH_BASELINE.md",
+      "sha256": "de974132f5e7838e31ecb74c5f1eaa12716db86554a22f749029e747eedf0eaf"
+    },
+    {
+      "path": "docs/SPEAKER_IDENTITY_WORKFLOW.md",
+      "sha256": "b44c778cae8e975c3fed817a50c7bc4879e65c1d4502933d81ce69aa0e34f8b5"
+    },
+    {
+      "path": "docs/TRANSCRIPTION_PIPELINE_2026.md",
+      "sha256": "3b93d200c09428c39b12bb44cf4995ff7ae844d9ccc62aced952c4a08af39300"
+    },
+    {
+      "path": "docs/VIDEO_BATCH_INGESTION.md",
+      "sha256": "70930cd4c4f9872826eb515f21859caa412aa40f1555744b02efe7cdf096899d"
     },
     {
       "path": "index.html",
@@ -98,6 +158,138 @@
     {
       "path": "meta/wikidata.jsonld",
       "sha256": "137e7a28fb2f5847b6d5a98b45aefdbf33d148737dc6ab375e3ab8edbe6259ec"
+    },
+    {
+      "path": "patches/2025-10-31-bache-youtube-early/inputs/candidates.bache.youtube.csv",
+      "sha256": "b6db544a5b4b9e9be28df18f3b734a04e8d4d0f4b2bd6ed4598a1d644ab350a9"
+    },
+    {
+      "path": "patches/2025-10-31-bache-youtube-early/inputs/candidates.bache.youtube.json",
+      "sha256": "31bc01ef57b1a5cb269b2ed28f90bca0c49ec1c670ce443aa13d3b910f837f18"
+    },
+    {
+      "path": "patches/2025-10-31-bache-youtube-early/outputs/index.merged.json",
+      "sha256": "5eafc038559f31d5d76d1f0af2e8e70d847558c1b6e94b84290677ea268b32da"
+    },
+    {
+      "path": "patches/2025-10-31-bache-youtube-early/work/index.patch.json",
+      "sha256": "0e48dcd7dd703ad74e8d06f63f22135e44bdb487ef35c4801c191d520af0810b"
+    },
+    {
+      "path": "patches/2025-10-31-bache-youtube/inputs/candidates.bache.youtube.csv",
+      "sha256": "8874ce4efd79cc68153f1a644d0cc0ac9dcf751745133b485548ed7935ddad62"
+    },
+    {
+      "path": "patches/2025-10-31-bache-youtube/inputs/candidates.bache.youtube.json",
+      "sha256": "383d072ef5bea54153e71186b7c3902e3d690fed71bfe514da576a29fc9fe701"
+    },
+    {
+      "path": "patches/2025-10-31-bache-youtube/work/index.patch.json",
+      "sha256": "db194eef3be41f5d1141cacff7e6054fd02a4bc8fcba8153de5da65f0295365f"
+    },
+    {
+      "path": "patches/2025-10-31-bache-youtube/work/slugs.allow",
+      "sha256": "5714bbfda5f41388d57b0f528c50f464a957ee9c3e291e38bd1fb045aa9040ec"
+    },
+    {
+      "path": "patches/2026-07-12-youtube-public-batch/inputs/urls.normalized.txt",
+      "sha256": "e8804872c1f373508dc22430ffe798f99769f1bbe2a6de5fa472ee97f78a87f5"
+    },
+    {
+      "path": "patches/2026-07-12-youtube-public-batch/inputs/urls.txt",
+      "sha256": "e8804872c1f373508dc22430ffe798f99769f1bbe2a6de5fa472ee97f78a87f5"
+    },
+    {
+      "path": "patches/2026-07-12-youtube-public-batch/outputs/intake_status.csv",
+      "sha256": "f80e4a03135c299a27bdde2bc6057b1ccf966735a1692a87bd7b4881bd40bcc3"
+    },
+    {
+      "path": "patches/2026-07-12-youtube-public-batch/outputs/youtube_metadata.json",
+      "sha256": "028653487f2be35e3e81a10fc0f4902dcc942e9c1ac2f5fa3e070201cfa95a8e"
+    },
+    {
+      "path": "patches/2026-07-12-youtube-public-batch/work/existing_video_ids.txt",
+      "sha256": "d812f3656476bfc58d687df8f66192315a94afa823ff5a61dce86daba990f121"
+    },
+    {
+      "path": "patches/2026-07-12-youtube-public-batch/work/index.patch.metadata.json",
+      "sha256": "d0247644ca979b2ff721995042a4e9418714aef9fcdb257aca9b7b8d4e24a8f9"
+    },
+    {
+      "path": "patches/2026-07-12-youtube-public-batch/work/index.patch.skeleton.json",
+      "sha256": "81b496f45ce6eee528e70a9313039faae0ad620dbde721681f5bea162bcc1558"
+    },
+    {
+      "path": "patches/2026-07-12-youtube-public-batch/work/new_video_ids.txt",
+      "sha256": "cd6c795f44f548457d6c7c1239de3192649aca65828324779ac7811d99c172a2"
+    },
+    {
+      "path": "patches/2026-07-15-youtube-public-batch/inputs/urls.normalized.txt",
+      "sha256": "e8804872c1f373508dc22430ffe798f99769f1bbe2a6de5fa472ee97f78a87f5"
+    },
+    {
+      "path": "patches/2026-07-15-youtube-public-batch/inputs/urls.txt",
+      "sha256": "e8804872c1f373508dc22430ffe798f99769f1bbe2a6de5fa472ee97f78a87f5"
+    },
+    {
+      "path": "patches/2026-07-15-youtube-public-batch/outputs/agent_status.json",
+      "sha256": "76428a9c60ce9e02971ff7cec000b3bc5054731f0dbc63ca00f2b2dcc77aafa7"
+    },
+    {
+      "path": "patches/2026-07-15-youtube-public-batch/outputs/captions_manifest.csv",
+      "sha256": "eb27f1ad754dc03403b3ea7af832bd7a4c9e2ffff710792e709f5d13bb8dc99b"
+    },
+    {
+      "path": "patches/2026-07-15-youtube-public-batch/outputs/diarization_smoke_report.json",
+      "sha256": "de1b19ec5029745df9a2766123dd88200cdb3cee82c1670f611b9456efa8b999"
+    },
+    {
+      "path": "patches/2026-07-15-youtube-public-batch/outputs/index.merged.json",
+      "sha256": "008dd56f680e6d7588576b6de7084123b2a04874153b5f048fe31fdea586d33c"
+    },
+    {
+      "path": "patches/2026-07-15-youtube-public-batch/outputs/intake_status.csv",
+      "sha256": "f80e4a03135c299a27bdde2bc6057b1ccf966735a1692a87bd7b4881bd40bcc3"
+    },
+    {
+      "path": "patches/2026-07-15-youtube-public-batch/outputs/media_manifest.csv",
+      "sha256": "4cef1bec93545c27d4eb9c7a653b867b87a63e56e100a87c7aff5a95854b4013"
+    },
+    {
+      "path": "patches/2026-07-15-youtube-public-batch/outputs/promotion_report.json",
+      "sha256": "4982d2e50388472161f4bf466394b15cf0493863bd1da623099f6506aa02e84a"
+    },
+    {
+      "path": "patches/2026-07-15-youtube-public-batch/outputs/youtube_metadata.json",
+      "sha256": "a514f2fd568d1efe4e1a220bedaedc87ffbbb0da368bc70238767cc0b142d5e5"
+    },
+    {
+      "path": "patches/2026-07-15-youtube-public-batch/work/download.index.json",
+      "sha256": "1fa98c18c268a6df8d6d1b9c6c7d6368b9db4ee68d2b9250b5da71cf21c823a3"
+    },
+    {
+      "path": "patches/2026-07-15-youtube-public-batch/work/existing_video_ids.txt",
+      "sha256": "d812f3656476bfc58d687df8f66192315a94afa823ff5a61dce86daba990f121"
+    },
+    {
+      "path": "patches/2026-07-15-youtube-public-batch/work/index.patch.json",
+      "sha256": "c660a6cb53dd0a5c3c286880cf0787cfba5ce442c816fdfd91743c55e6674c9a"
+    },
+    {
+      "path": "patches/2026-07-15-youtube-public-batch/work/index.patch.metadata.json",
+      "sha256": "1aa3746279ee0d3dd335d5eb4b4dcd4501654d03dbef6f649d35669cef3f92ff"
+    },
+    {
+      "path": "patches/2026-07-15-youtube-public-batch/work/index.patch.skeleton.json",
+      "sha256": "81b496f45ce6eee528e70a9313039faae0ad620dbde721681f5bea162bcc1558"
+    },
+    {
+      "path": "patches/2026-07-15-youtube-public-batch/work/ingestion.plan.json",
+      "sha256": "5e1990af4018b325039f43609315c92e8347db155d3568a25ff47b28b2e4b697"
+    },
+    {
+      "path": "patches/2026-07-15-youtube-public-batch/work/new_video_ids.txt",
+      "sha256": "cd6c795f44f548457d6c7c1239de3192649aca65828324779ac7811d99c172a2"
     },
     {
       "path": "robots.txt",

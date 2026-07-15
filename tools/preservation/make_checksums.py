@@ -33,6 +33,7 @@ INCLUDE_FILE_GLOBS = [
     # Root site & docs landing
     "index.html", "index.md", "index.json", "robots.txt",
     "sitemap*.xml", "LICENSE", "README*.md", "CONFIG.md",
+    "AGENTS.md", "CLAUDE.md",
 
     # Site assets (css/images used by the site)
     "assets/**/*",
@@ -44,6 +45,15 @@ INCLUDE_FILE_GLOBS = [
     "docs/educational/*/index.md",
     "docs/educational/*/index.html",
     "docs/educational/*/sources.json",
+    "docs/*.md",
+    "docs/*.json",
+
+    # Agent/public operational state used to reproduce ingestion decisions
+    "data/diarist/*",
+    "data/speakers/*",
+    "patches/*/inputs/*",
+    "patches/*/outputs/*",
+    "patches/*/work/*",
 
     # NOTE: manifests/*.json intentionally excluded from checksums
     # They are derivatives of RELEASE-*.sha256 and can drift when archived.
@@ -68,7 +78,7 @@ INCLUDE_FILE_GLOBS = [
 # Only hash text-ish and small aux formats from sources/ & alignments/
 TEXTY_EXT_WHITELIST = {
     ".md", ".json", ".vtt", ".srt", ".txt", ".html", ".css", ".xml",
-    ".yaml", ".yml", ".csv", ".tsv", ".jsonl"
+    ".yaml", ".yml", ".csv", ".tsv", ".jsonl", ".allow"
 }
 
 # Top-level directories to skip entirely
@@ -91,7 +101,10 @@ def top_level_prefix(path: Path) -> str | None:
 
 def is_excluded(p: Path) -> bool:
     tl = top_level_prefix(p)
-    return tl in EXCLUDE_DIR_PREFIXES
+    if tl in EXCLUDE_DIR_PREFIXES:
+        return True
+    rel_parts = p.relative_to(ROOT).parts
+    return "logs" in rel_parts
 
 def wanted_path(p: Path) -> bool:
     """Apply per-area rules for included globs."""
@@ -105,8 +118,10 @@ def wanted_path(p: Path) -> bool:
     rel = p.relative_to(ROOT).as_posix()
 
     # Strict text-only for sources and alignments
-    if rel.startswith("sources/") or rel.startswith("alignments/"):
+    if rel.startswith(("sources/", "alignments/", "docs/", "data/", "patches/")):
         if p.suffix and p.suffix.lower() not in TEXTY_EXT_WHITELIST:
+            return False
+        if not p.suffix and rel.startswith(("data/", "patches/")):
             return False
 
     # Allow assets/**/* but media types already filtered above
