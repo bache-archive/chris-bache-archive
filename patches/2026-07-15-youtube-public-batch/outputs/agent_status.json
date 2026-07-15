@@ -103,7 +103,24 @@
       "pyannote_gated_access": "working",
       "pyannote_4_output_compatibility": "fixed_in_tools/diarist/diarize_talk.py",
       "speaker_identity_tool_path": "working_on_smoke_artifact",
-      "bulk_processing_requirement": "use background worker, GPU, smaller ASR model, or resumable job orchestration before unattended batch diarization"
+      "bulk_processing_requirement": "use background worker, GPU, smaller ASR model, or resumable job orchestration before unattended batch diarization",
+      "asr_cache": "working; ignored build/diarization-cache cache can be reused for pyannote retries",
+      "foreground_cpu_full_diarization": "not ready; ASR completed but pyannote remained too slow for interactive processing"
+    },
+    "full_length_tiny_attempt": {
+      "command": "make diarize DIAR_PYTHON=.venv-diarize/bin/python SLUG=2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe AUDIO=downloads/audio/2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe.mp3 DIAR_MODEL=tiny DIAR_NUM_SPEAKERS=2",
+      "result": "terminated_by_agent_after_about_29_minutes",
+      "asr_completed": true,
+      "asr_segments": 206,
+      "asr_words": 4340,
+      "blocked_phase": "pyannote_embedding_extraction",
+      "artifacts_created": []
+    },
+    "asr_cache_test": {
+      "command": "make diarize DIAR_PYTHON=.venv-diarize/bin/python SLUG=2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe AUDIO=downloads/audio/2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe.mp3 DIAR_MODEL=tiny DIAR_EXTRA='--asr-only'",
+      "cache_path": "build/diarization-cache/2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe.tiny.en.asr.json",
+      "cache_reuse_verified": true,
+      "tracked": false
     }
   },
   "items": [

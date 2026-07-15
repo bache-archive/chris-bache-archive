@@ -8,6 +8,7 @@ Outputs in --out with consistent basenames:
   <basename>.txt   # clean text with speaker labels, no timestamps
   <basename>.json  # rich metadata (segments, words, speakers)
 Also appends/creates: diarist_manifest.csv
+Intermediate ASR cache: build/diarization-cache/<basename>.<model>.<language>.asr.json
 
 Heuristics & priorities:
 - Reproducible, deterministic batching
@@ -191,6 +192,45 @@ def write_txt(path: Path, diarized_segments: List[Dict[str, Any]]):
 def write_json(path: Path, payload: Dict[str, Any]):
     with path.open("w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
+
+
+def asr_cache_path(cache_dir: Optional[str], basename: str, model: str, language: Optional[str]) -> Optional[Path]:
+    if not cache_dir:
+        return None
+    lang = language or "auto"
+    safe_model = re.sub(r"[^A-Za-z0-9_.-]+", "-", model)
+    safe_lang = re.sub(r"[^A-Za-z0-9_.-]+", "-", lang)
+    return Path(cache_dir).expanduser().resolve() / f"{basename}.{safe_model}.{safe_lang}.asr.json"
+
+
+def load_asr_cache(path: Optional[Path], audio_path: Path) -> Optional[Dict[str, Any]]:
+    if not path or not path.exists():
+        return None
+    payload = json.loads(path.read_text(encoding="utf-8"))
+    if payload.get("input") != str(audio_path):
+        print(f"[cache] Ignoring ASR cache for different input: {path}")
+        return None
+    asr = payload.get("asr")
+    if not isinstance(asr, dict) or not isinstance(asr.get("words"), list):
+        print(f"[cache] Ignoring malformed ASR cache: {path}")
+        return None
+    print(f"[cache] Reusing ASR cache: {path}")
+    return asr
+
+
+def write_asr_cache(path: Optional[Path], audio_path: Path, asr: Dict[str, Any], model: str, device: str) -> None:
+    if not path:
+        return
+    safe_mkdir(path.parent)
+    payload = {
+        "schema": "bache.diarization.asr_cache.v1",
+        "input": str(audio_path),
+        "whisper_model": model,
+        "device": device,
+        "asr": asr,
+    }
+    write_json(path, payload)
+    print(f"[cache] Wrote ASR cache: {path}")
 
 
 def update_manifest(manifest_path: Path, row: Dict[str, Any]):
@@ -387,6 +427,9 @@ def main():
     ap.add_argument("--max-duration", type=float, default=18.0)
     ap.add_argument("--initial-prompt-file", default=None)
     ap.add_argument("--lexicon", default=None)
+    ap.add_argument("--asr-cache-dir", default="build/diarization-cache", help="Directory for ignored ASR alignment cache; pass empty string to disable.")
+    ap.add_argument("--force-asr", action="store_true", help="Ignore any existing ASR cache and regenerate ASR/alignment.")
+    ap.add_argument("--asr-only", action="store_true", help="Write/reuse ASR cache and stop before pyannote diarization.")
     args = ap.parse_args()
 
     if args.device == "auto":
@@ -410,8 +453,16 @@ def main():
     manifest_path = out_dir / "diarist_manifest.csv"
 
     initial_prompt = load_lines(args.initial_prompt_file)
-    asr = run_asr_align_whisperx(audio_path, args.language, args.whisper_model, args.device,
-                                 args.compute_type, args.batch_size, initial_prompt)
+    cache_path = asr_cache_path(args.asr_cache_dir, basename, args.whisper_model, args.language)
+    asr = None if args.force_asr else load_asr_cache(cache_path, audio_path)
+    if asr is None:
+        asr = run_asr_align_whisperx(audio_path, args.language, args.whisper_model, args.device,
+                                     args.compute_type, args.batch_size, initial_prompt)
+        write_asr_cache(cache_path, audio_path, asr, args.whisper_model, args.device)
+
+    if args.asr_only:
+        print("[done] ASR cache ready; stopping before diarization because --asr-only was set.")
+        return
 
     diar_spans, diar_failed = [], False
     try:

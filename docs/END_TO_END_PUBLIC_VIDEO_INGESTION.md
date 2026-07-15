@@ -37,8 +37,10 @@ Current local status as of 2026-07-15:
   pyannote diarization succeeded with two detected speakers, and speaker-ID
   suggested `SPEAKER_01` as Chris on the smoke artifact. The full-length
   foreground CPU `large-v3` attempt was terminated after about 50 minutes with
-  no final artifacts, so unattended bulk diarization needs background/GPU or
-  faster-model orchestration.
+  no final artifacts. A later full-length CPU `tiny` attempt completed ASR
+  alignment for the 29-minute audio, but pyannote embedding extraction was
+  still running after about 29 minutes and was stopped. Unattended bulk
+  diarization needs background/GPU or faster/resumable pyannote orchestration.
 
 The batch is ready for controlled processing from reviewed metadata into
 captions, audio, diarization, speaker-ID QA, canonical transcripts, fixity, RAG,
@@ -152,6 +154,16 @@ Run diarization:
 ```bash
 make diarize DIAR_PYTHON=.venv-diarize/bin/python SLUG=<slug> AUDIO=downloads/audio/<slug>.mp3
 ```
+
+For CPU-bound environments, checkpoint ASR before slow diarization:
+
+```bash
+make diarize DIAR_PYTHON=.venv-diarize/bin/python SLUG=<slug> AUDIO=downloads/audio/<slug>.mp3 DIAR_MODEL=tiny DIAR_EXTRA='--asr-only'
+make diarize DIAR_PYTHON=.venv-diarize/bin/python SLUG=<slug> AUDIO=downloads/audio/<slug>.mp3 DIAR_MODEL=tiny DIAR_NUM_SPEAKERS=2
+```
+
+The ASR cache is written under ignored `build/diarization-cache/`, so a failed
+or interrupted pyannote run can be retried without repeating WhisperX ASR.
 
 Build or refresh the Chris reference clips when local source audio is present:
 

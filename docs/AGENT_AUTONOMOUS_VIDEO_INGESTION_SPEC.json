@@ -143,7 +143,10 @@
     },
     {
       "state": "diarized",
-      "command": "make diarize DIAR_PYTHON=.venv-diarize/bin/python SLUG=<slug> AUDIO=downloads/audio/<slug>.mp3"
+      "command": [
+        "make diarize DIAR_PYTHON=.venv-diarize/bin/python SLUG=<slug> AUDIO=downloads/audio/<slug>.mp3 DIAR_MODEL=tiny DIAR_EXTRA='--asr-only'",
+        "make diarize DIAR_PYTHON=.venv-diarize/bin/python SLUG=<slug> AUDIO=downloads/audio/<slug>.mp3"
+      ]
     },
     {
       "state": "speaker_identity_scored",
@@ -221,5 +224,9 @@
       "production deploy verified",
       "playlist dry-run matches expected delta before apply"
     ]
+  },
+  "readiness": {
+    "full_length_cpu_tiny": "foreground CPU tiny attempt on 29-minute KgqQiLkg1mM completed ASR alignment (206 segments, 4340 words) but pyannote embedding extraction was still running after about 29 minutes and was interrupted; ASR cache support was added for resumable retries",
+    "asr_cache": "tools/diarist/diarize_talk.py supports --asr-only and ignored build/diarization-cache/ ASR alignment caches"
   }
 }

@@ -195,6 +195,7 @@ help:
 	@echo "  make add SLUG=<yyyy-mm-dd-title> YT=<youtube_url>  # legacy stub; prefer patch workflow"
 	@echo "  make captions SLUG=<slug>"
 	@echo "  make diarize SLUG=<slug> AUDIO=<path-to-audio.mp3>"
+	@echo "  make diarize SLUG=<slug> AUDIO=<path-to-audio.mp3> DIAR_MODEL=tiny DIAR_EXTRA='--asr-only'"
 	@echo "  make diarist SLUG=<slug>  # legacy placement reminder"
 	@echo "  make transcript SLUG=<slug>"
 	@echo "  make index"

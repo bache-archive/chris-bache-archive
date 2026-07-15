@@ -1,7 +1,7 @@
 {
   "version": "v3.5.4",
   "source": "checksums/RELEASE-v3.5.4.sha256",
-  "generated": "2026-07-15T14:39:52Z",
+  "generated": "2026-07-15T15:15:13Z",
   "files": [
     {
       "path": "AGENTS.md",
@@ -57,7 +57,7 @@
     },
     {
       "path": "docs/AGENT_AUTONOMOUS_VIDEO_INGESTION_SPEC.json",
-      "sha256": "732c53608ac5848feb0a5cf230b9392bc485de977924feb618808d1fb2b7cf8b"
+      "sha256": "03831c2d9d89d9c10298d1240a05821f16d9211b8ce6f682dcd72e3dd33e06c6"
     },
     {
       "path": "docs/ANONYMITY_RUNBOOK.md",
@@ -69,7 +69,7 @@
     },
     {
       "path": "docs/END_TO_END_PUBLIC_VIDEO_INGESTION.md",
-      "sha256": "037572d907d7a15996a451877c06d8cdece7a4db20ffa0604dc331a3baaaaaa8"
+      "sha256": "2ff59fc045420fd890d5d3f68a20bfa8e99c7be20bbe015076cfd8a75cbf8846"
     },
     {
       "path": "docs/PUBLIC_VIDEO_INGESTION_PILOT_2026-07-12.md",
@@ -233,7 +233,7 @@
     },
     {
       "path": "patches/2026-07-15-youtube-public-batch/outputs/agent_status.json",
-      "sha256": "76428a9c60ce9e02971ff7cec000b3bc5054731f0dbc63ca00f2b2dcc77aafa7"
+      "sha256": "76ac3cb8f0d957b24124a784f1ea5635d4d330b0fa8962b995688b415e85a13e"
     },
     {
       "path": "patches/2026-07-15-youtube-public-batch/outputs/captions_manifest.csv",
@@ -241,7 +241,7 @@
     },
     {
       "path": "patches/2026-07-15-youtube-public-batch/outputs/diarization_smoke_report.json",
-      "sha256": "de1b19ec5029745df9a2766123dd88200cdb3cee82c1670f611b9456efa8b999"
+      "sha256": "78a53d3fcfd61fe424fc0609358aa25f25891d4e1d60d3de8cd2b4b71bec6feb"
     },
     {
       "path": "patches/2026-07-15-youtube-public-batch/outputs/index.merged.json",
