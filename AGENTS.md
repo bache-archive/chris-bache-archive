@@ -6,6 +6,7 @@ This repository is the canonical preservation corpus. Treat provenance, fixity, 
 
 - These instructions must be sufficient when Codex CLI is started from this repository instead of `/Users/howardrhee/projects/bache-archive`.
 - Also read `../AGENTS.md` and `../CODEX_WORKSPACE.md` when they are available; they contain cross-repo policy and current workspace priorities.
+- The parent workspace `/Users/howardrhee/projects/bache-archive` is its own lightweight coordination repo (`bache-archive/bache-archive`) for cross-repo instructions, workspace launch notes, and product soul. Keep preservation data and corpus implementation changes in this repo; put workspace-wide instruction changes in the parent repo.
 - Use `AGENTS.md` for durable Codex instructions. Do not create `CODEX.md` unless a separate non-Codex tool explicitly requires it.
 - For GitHub CLI commands, set `GH_CONFIG_DIR="$HOME/.config/gh-bache"` so archive auth does not overwrite or use personal GitHub accounts.
 - Start broad archive work from `/Users/howardrhee/projects/bache-archive`; keep corpus/transcript/fixity implementation work in this repo.
