@@ -53,6 +53,7 @@ If the label does not exist or permissions do not allow it, do not block on that
 
 - Default to completing verified work without asking the operator whether to commit, push, or merge.
 - When corpus, fixity, public-source ingestion, or agent-workflow changes are ready, run the required checks, commit the intended changes, push to `origin`, merge to `main` when checks pass and publication gates are satisfied, then push `main`.
+- Ask the operator before commit, push, or merge only when actual human intervention is needed: ambiguous or conflicting scope, private or rights-sensitive material, a failing check that needs a judgment call, an unresolved QA/publication gate, a credential/account action, or a destructive/unrecoverable operation.
 - Stop instead of merging only when checks fail, identity/remotes are wrong, secrets/private files/downloaded media would be committed, or a documented QA gate explicitly blocks publication.
 - Leave exact commands and blockers when auth, network, GitHub, or missing local dependencies prevent commit, push, or merge.
 
