@@ -16,16 +16,16 @@ Prereqs:
 
 Usage:
   # Create-or-sync (without reordering existing items)
-  python tools/yt_playlist_sync.py --title "Chris Bache Archive — Public Talks & Interviews (2009–2025)"
+  python tools/intake/yt_playlist_sync.py --title "Chris Bache Archive — Public Talks & Interviews (2009–2025)"
 
   # Sync an existing playlist by ID
-  python tools/yt_playlist_sync.py --playlist-id PLIuDc6SKtEHWjyTpCTJj6AVUrRYv3rbu1
+  python tools/intake/yt_playlist_sync.py --playlist-id PLIuDc6SKtEHWjyTpCTJj6AVUrRYv3rbu1
 
   # Preview only
-  python tools/yt_playlist_sync.py --playlist-id PLIu... --dry-run
+  python tools/intake/yt_playlist_sync.py --playlist-id PLIu... --dry-run
 
   # Enforce strict oldest->newest across the entire playlist
-  python tools/yt_playlist_sync.py --playlist-id PLIu... --reorder
+  python tools/intake/yt_playlist_sync.py --playlist-id PLIu... --reorder
 """
 from __future__ import annotations
 import argparse
@@ -35,12 +35,6 @@ import pathlib
 import re
 import sys
 from typing import Dict, List, Tuple
-
-from googleapiclient.discovery import build
-from googleapiclient.errors import HttpError
-from google_auth_oauthlib.flow import InstalledAppFlow
-from google.oauth2.credentials import Credentials
-from google.auth.transport.requests import Request
 
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 INDEX_JSON = ROOT / "index.json"
@@ -85,6 +79,16 @@ def load_items() -> List[Dict]:
 def auth_youtube(dry_run: bool = False):
     if dry_run:
         return None  # No network calls in dry-run until explicitly needed
+
+    try:
+        from googleapiclient.discovery import build
+        from google_auth_oauthlib.flow import InstalledAppFlow
+        from google.oauth2.credentials import Credentials
+        from google.auth.transport.requests import Request
+    except ModuleNotFoundError as exc:
+        raise SystemExit(
+            "Missing Google API dependencies. Run: make install-ingest-deps"
+        ) from exc
 
     creds = None
     if TOKEN.exists():
@@ -252,7 +256,7 @@ def main():
     if not args.dry_run:
         try:
             existing = set(get_existing_video_ids(youtube, playlist_id))
-        except HttpError as e:
+        except Exception as e:
             print(f"Error reading playlist items: {e}", file=sys.stderr)
             sys.exit(4)
     else:
@@ -268,14 +272,14 @@ def main():
         try:
             add_video(youtube, playlist_id, vid, dry_run=args.dry_run)
             added += 1
-        except HttpError as e:
+        except Exception as e:
             print(f"Failed to add {vid}: {e}", file=sys.stderr)
 
     # Optional strict reordering
     if args.reorder:
         try:
             reorder_playlist(youtube, playlist_id, ordered_vids, dry_run=args.dry_run)
-        except HttpError as e:
+        except Exception as e:
             print(f"Failed to reorder playlist: {e}", file=sys.stderr)
 
     print(f"Added {added} new videos." + (" (dry-run)" if args.dry_run else ""))

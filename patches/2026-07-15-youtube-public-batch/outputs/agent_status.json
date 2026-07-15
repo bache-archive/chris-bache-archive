@@ -1,0 +1,259 @@
+{
+  "schema": "bache.youtube_batch.agent_status.v1",
+  "batch_dir": "patches/2026-07-15-youtube-public-batch",
+  "counts": {
+    "intake": {
+      "new": 15,
+      "already-indexed": 1
+    },
+    "metadata": {
+      "metadata_ok": 15,
+      "not-fetched": 1
+    },
+    "patch_records": 15
+  },
+  "items": [
+    {
+      "youtube_id": "ovU2Esv62CU",
+      "url": "https://youtu.be/ovU2Esv62CU",
+      "intake_status": "new",
+      "metadata_status": "metadata_ok",
+      "published": "2026-01-29",
+      "duration_hms": "1:04:36",
+      "channel": "The Weekend University",
+      "title": "Consciousness Beyond Death: Findings from 20 Years of LSD Research — Christopher Bache",
+      "proposed_slug": "2026-01-29-consciousness-beyond-death-findings-from-20-years-of-lsd-research-christopher",
+      "existing_slug": "",
+      "existing_transcript": ""
+    },
+    {
+      "youtube_id": "PXvcNCrdTEw",
+      "url": "https://youtu.be/PXvcNCrdTEw",
+      "intake_status": "new",
+      "metadata_status": "metadata_ok",
+      "published": "2026-03-05",
+      "duration_hms": "1:11:28",
+      "channel": "Heather Ensworth",
+      "title": "Interview with Chris Bache, Ph.D. - Our Spiritual Awakening and Transformation into the New Human",
+      "proposed_slug": "2026-03-05-interview-with-chris-bache-ph-d-our-spiritual-awakening-and-transformation",
+      "existing_slug": "",
+      "existing_transcript": ""
+    },
+    {
+      "youtube_id": "Nu8Dk-UdhYM",
+      "url": "https://youtu.be/Nu8Dk-UdhYM",
+      "intake_status": "new",
+      "metadata_status": "metadata_ok",
+      "published": "2025-09-23",
+      "duration_hms": "1:16:48",
+      "channel": "Sounds True",
+      "title": "Reincarnation, Deep Time and the Diamond Soul, with Christopher Bache | Insights At The Edge",
+      "proposed_slug": "2025-09-23-reincarnation-deep-time-and-the-diamond-soul-with-christopher-bache-insights",
+      "existing_slug": "",
+      "existing_transcript": ""
+    },
+    {
+      "youtube_id": "xcI-NOVnRoY",
+      "url": "https://youtu.be/xcI-NOVnRoY",
+      "intake_status": "new",
+      "metadata_status": "metadata_ok",
+      "published": "2026-06-23",
+      "duration_hms": "1:21:57",
+      "channel": "Speira",
+      "title": "Dr Chris Bache | The Impossible Question | Speira",
+      "proposed_slug": "2026-06-23-dr-chris-bache-the-impossible-question-speira",
+      "existing_slug": "",
+      "existing_transcript": ""
+    },
+    {
+      "youtube_id": "nFZfqoBbK_U",
+      "url": "https://youtu.be/nFZfqoBbK_U",
+      "intake_status": "new",
+      "metadata_status": "metadata_ok",
+      "published": "2025-11-17",
+      "duration_hms": "1:21:16",
+      "channel": "New Thinking Allowed with Jeffrey Mishlove",
+      "title": "An Open-Ended Conversation with Chris Bache",
+      "proposed_slug": "2025-11-17-an-open-ended-conversation-with-chris-bache",
+      "existing_slug": "",
+      "existing_transcript": ""
+    },
+    {
+      "youtube_id": "VuQWEffN8x0",
+      "url": "https://youtu.be/VuQWEffN8x0",
+      "intake_status": "new",
+      "metadata_status": "metadata_ok",
+      "published": "2026-06-30",
+      "duration_hms": "1:30:29",
+      "channel": "Ligare: A Christian Psychedelic Society",
+      "title": "Dr. Chris Bache, author of \"LSD and the Mind of the Universe\"",
+      "proposed_slug": "2026-06-30-dr-chris-bache-author-of-lsd-and-the-mind-of-the",
+      "existing_slug": "",
+      "existing_transcript": ""
+    },
+    {
+      "youtube_id": "7R_k6aF-9gk",
+      "url": "https://youtu.be/7R_k6aF-9gk",
+      "intake_status": "new",
+      "metadata_status": "metadata_ok",
+      "published": "2025-11-22",
+      "duration_hms": "59:23",
+      "channel": "The Leading Edge",
+      "title": "LSD and the Edge of Human Experience: Dr. Chris Bache on his Twenty Year Exploration of the Unknown.",
+      "proposed_slug": "2025-11-22-lsd-and-the-edge-of-human-experience-dr-chris-bache-on",
+      "existing_slug": "",
+      "existing_transcript": ""
+    },
+    {
+      "youtube_id": "63uGUsyipuk",
+      "url": "https://youtu.be/63uGUsyipuk",
+      "intake_status": "new",
+      "metadata_status": "metadata_ok",
+      "published": "2026-01-08",
+      "duration_hms": "1:38:06",
+      "channel": "Soul Unique",
+      "title": "Psychedelics, Reincarnation, Death, & the Future of Humanity – with Christopher Bache",
+      "proposed_slug": "2026-01-08-psychedelics-reincarnation-death-the-future-of-humanity-with-christopher-bache",
+      "existing_slug": "",
+      "existing_transcript": ""
+    },
+    {
+      "youtube_id": "pgULV1_MoNM",
+      "url": "https://youtu.be/pgULV1_MoNM",
+      "intake_status": "new",
+      "metadata_status": "metadata_ok",
+      "published": "2026-02-12",
+      "duration_hms": "58:02",
+      "channel": "Sandie Sedgbeer",
+      "title": "Rethinking Human Existence – Gods Plan and Purpose for Humanity with Christopher Bache",
+      "proposed_slug": "2026-02-12-rethinking-human-existence-gods-plan-and-purpose-for-humanity-with-christopher",
+      "existing_slug": "",
+      "existing_transcript": ""
+    },
+    {
+      "youtube_id": "0MaF7cXVL20",
+      "url": "https://youtu.be/0MaF7cXVL20",
+      "intake_status": "new",
+      "metadata_status": "metadata_ok",
+      "published": "2026-05-20",
+      "duration_hms": "1:32:03",
+      "channel": "Neon Galactic w/James Faulk",
+      "title": "The New Shaman: How LSD gave Christopher Bache the keys to the cosmos",
+      "proposed_slug": "2026-05-20-the-new-shaman-how-lsd-gave-christopher-bache-the-keys-to",
+      "existing_slug": "",
+      "existing_transcript": ""
+    },
+    {
+      "youtube_id": "424meKDrZ2M",
+      "url": "https://youtu.be/424meKDrZ2M",
+      "intake_status": "new",
+      "metadata_status": "metadata_ok",
+      "published": "2026-02-03",
+      "duration_hms": "2:09:19",
+      "channel": "Love Conquers Fear",
+      "title": "#36: What 20 Years of LSD Revealed About Suffering, Healing & the Future of Humanity — Chris Bache",
+      "proposed_slug": "2026-02-03-36-what-20-years-of-lsd-revealed-about-suffering-healing-the",
+      "existing_slug": "",
+      "existing_transcript": ""
+    },
+    {
+      "youtube_id": "2w-8klAX--M",
+      "url": "https://youtu.be/2w-8klAX--M",
+      "intake_status": "new",
+      "metadata_status": "metadata_ok",
+      "published": "2026-02-02",
+      "duration_hms": "2:01:32",
+      "channel": "The Serious Jester",
+      "title": "In the Living Classroom with Chris Bache",
+      "proposed_slug": "2026-02-02-in-the-living-classroom-with-chris-bache",
+      "existing_slug": "",
+      "existing_transcript": ""
+    },
+    {
+      "youtube_id": "zlRKDRV3H-I",
+      "url": "https://youtu.be/zlRKDRV3H-I",
+      "intake_status": "new",
+      "metadata_status": "metadata_ok",
+      "published": "2026-03-15",
+      "duration_hms": "1:04:20",
+      "channel": "Suzanne Giesemann - Messages of Hope",
+      "title": "What Altered States Reveal About the Nature of Reality",
+      "proposed_slug": "2026-03-15-what-altered-states-reveal-about-the-nature-of-reality",
+      "existing_slug": "",
+      "existing_transcript": ""
+    },
+    {
+      "youtube_id": "njiw2enxy40",
+      "url": "https://youtu.be/njiw2enxy40",
+      "intake_status": "new",
+      "metadata_status": "metadata_ok",
+      "published": "2026-03-06",
+      "duration_hms": "1:20:11",
+      "channel": "IARS - Int'l Assn. for Reincarnation Studies",
+      "title": "IARS Reincarnation Book Club with CHRIS BACHE, PhD",
+      "proposed_slug": "2026-03-06-iars-reincarnation-book-club-with-chris-bache-phd",
+      "existing_slug": "",
+      "existing_transcript": ""
+    },
+    {
+      "youtube_id": "IBCN4z5P-8s",
+      "url": "https://youtu.be/IBCN4z5P-8s",
+      "intake_status": "already-indexed",
+      "metadata_status": "not-fetched",
+      "published": "",
+      "duration_hms": "",
+      "channel": "",
+      "title": "",
+      "proposed_slug": "",
+      "existing_slug": "2025-10-21-psa-fireside-chat-featuring-dr-raymond-turpin-dr",
+      "existing_transcript": "sources/transcripts/2025-10-21-psa-fireside-chat-featuring-dr-raymond-turpin-dr.md"
+    },
+    {
+      "youtube_id": "KgqQiLkg1mM",
+      "url": "https://youtu.be/KgqQiLkg1mM",
+      "intake_status": "new",
+      "metadata_status": "metadata_ok",
+      "published": "2026-05-31",
+      "duration_hms": "29:04",
+      "channel": "Magical Egypt",
+      "title": "73 LSD Sessions / Journey through the Mind of the Universe?",
+      "proposed_slug": "2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe",
+      "existing_slug": "",
+      "existing_transcript": ""
+    }
+  ],
+  "agent_next_actions": [
+    {
+      "id": "review_metadata_patch",
+      "input": "work/index.patch.metadata.json",
+      "output": "work/index.patch.json",
+      "instruction": "Filter already-indexed/rejected candidates; verify public-source scope; normalize source_type, title, channel, published date, duration_hms, transcript path, diarist path, media paths, notes, and slug."
+    },
+    {
+      "id": "merge_index",
+      "command": "python3 tools/curation/merge_index.py --base index.json --patch <batch>/work/index.patch.json --out <batch>/outputs/index.merged.json",
+      "instruction": "Diff index.json against merged output before replacing index.json."
+    },
+    {
+      "id": "process_accepted_slugs",
+      "per_slug_commands": [
+        "make captions SLUG=<slug>",
+        "stage ignored audio at downloads/audio/<slug>.mp3",
+        "make diarize DIAR_PYTHON=.venv-diarize/bin/python SLUG=<slug> AUDIO=downloads/audio/<slug>.mp3",
+        "make speaker-identify SPEAKER_PYTHON=.venv-speakers/bin/python SLUG=<slug> AUDIO=downloads/audio/<slug>.mp3",
+        "make transcript SLUG=<slug>"
+      ]
+    },
+    {
+      "id": "publish_and_downstream",
+      "commands": [
+        "make finalize",
+        "python3 tools/rag/chunk_transcripts.py",
+        "python3 tools/rag/embed_and_faiss.py",
+        "make audit-parquet",
+        "cd ../bache-archive-web && npm run sync:archive && npm run typecheck && npm run lint && npm run build",
+        "make playlist-sync PLAYLIST_ID=<playlist-id> PLAYLIST_EXTRA='--dry-run'"
+      ]
+    }
+  ]
+}

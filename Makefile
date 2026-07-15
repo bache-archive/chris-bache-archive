@@ -46,11 +46,22 @@ BUILD_SITE_PY      := tools/site/build_site.py
 SITEMAPS_PY        := tools/site/generate_sitemaps.py
 PREPARE_YT_BATCH   := tools/intake/prepare_youtube_batch.py
 FETCH_YT_METADATA  := tools/intake/fetch_youtube_metadata.py
+FIND_YT_VIDEOS     := tools/intake/find_bache_videos.py
+YT_PLAYLIST_SYNC   := tools/intake/yt_playlist_sync.py
+SUMMARIZE_YT_BATCH := tools/intake/summarize_youtube_batch.py
 SPEAKER_REF_SCRIPT := tools/speakers/build_reference_manifest.py
 SPEAKER_CLIPS_SCRIPT := tools/speakers/extract_reference_clips.py
 SPEAKER_IDENTIFY_SCRIPT := tools/speakers/identify_speakers.py
 BATCH_OUT          ?= patches/2026-07-12-youtube-public-batch
 BATCH_URLS         ?= $(BATCH_OUT)/inputs/urls.txt
+DISCOVERY_OUT      ?= reports/youtube-discovery/$(shell date +%F)
+DISCOVERY_AFTER    ?=
+DISCOVERY_BEFORE   ?=
+DISCOVERY_MAX_PER_QUERY ?= 20
+DISCOVERY_MIN_SCORE ?= 2
+PLAYLIST_ID        ?=
+PLAYLIST_EXTRA     ?= --dry-run
+FETCH_ONLY_NEW     ?= 1
 AUDIO              ?= downloads/audio/$(SLUG).mp3
 DIAR_OUT           ?= sources/diarist
 DIAR_PYTHON        ?= python3
@@ -161,12 +172,16 @@ fixity: $(RELEASE_SHA)
 # ------------------------------------------------------------------------------
 # New: YouTube → captions → diarist → transcript → index → media → site
 # ------------------------------------------------------------------------------
-.PHONY: help prepare-youtube-batch fetch-youtube-metadata speaker-reference speaker-reference-clips speaker-identify add captions diarize diarist transcript index media site sitemaps publish quick
+.PHONY: help install-ingest-deps find-youtube-candidates prepare-youtube-batch fetch-youtube-metadata youtube-batch-status playlist-sync speaker-reference speaker-reference-clips speaker-identify add captions diarize diarist transcript index media site sitemaps publish quick
 
 help:
 	@echo "Usage:"
+	@echo "  make install-ingest-deps"
+	@echo "  make find-youtube-candidates DISCOVERY_AFTER=YYYY-MM-DD DISCOVERY_BEFORE=YYYY-MM-DD"
 	@echo "  make prepare-youtube-batch BATCH_URLS=<urls.txt> BATCH_OUT=<patch-dir>"
-	@echo "  make fetch-youtube-metadata BATCH_URLS=<urls.txt> BATCH_OUT=<patch-dir>"
+	@echo "  make fetch-youtube-metadata BATCH_URLS=<urls.txt> BATCH_OUT=<patch-dir>  # defaults to new IDs only"
+	@echo "  make youtube-batch-status BATCH_OUT=<patch-dir>"
+	@echo "  make playlist-sync PLAYLIST_ID=<playlist-id> PLAYLIST_EXTRA='--dry-run'"
 	@echo "  make speaker-reference"
 	@echo "  make speaker-reference-clips"
 	@echo "  make speaker-identify SLUG=<slug> AUDIO=<path-to-audio.mp3>"
@@ -182,6 +197,28 @@ help:
 	@echo "  make publish"
 	@echo "  make quick SLUG=<slug> YT=<youtube_url>"
 
+install-ingest-deps:
+	@$(ENSURE_VENV)
+	@"$(PYTHON)" -m pip install -r requirements.txt
+
+# Discover likely new public Chris Bache YouTube videos. Outputs stay ignored
+# under reports/ until a human or agent promotes reviewed URLs into patches/.
+find-youtube-candidates:
+	@test -f "$(FIND_YT_VIDEOS)" || { echo "ERROR: $(FIND_YT_VIDEOS) not found"; exit 1; }
+	@mkdir -p "$(DISCOVERY_OUT)"
+	@set -e; \
+	after_arg=""; before_arg=""; \
+	if [ -n "$(DISCOVERY_AFTER)" ]; then after_arg="--published-after $(DISCOVERY_AFTER)"; fi; \
+	if [ -n "$(DISCOVERY_BEFORE)" ]; then before_arg="--published-before $(DISCOVERY_BEFORE)"; fi; \
+	set -a; [ ! -f .env ] || source .env; set +a; \
+	"$(PYTHON)" "$(FIND_YT_VIDEOS)" \
+	  --index "$(INDEX_JSON)" \
+	  --max-per-query "$(DISCOVERY_MAX_PER_QUERY)" \
+	  --min-score "$(DISCOVERY_MIN_SCORE)" \
+	  $$after_arg $$before_arg \
+	  --out-json "$(DISCOVERY_OUT)/candidates.bache.youtube.json" \
+	  --out-csv "$(DISCOVERY_OUT)/candidates.bache.youtube.csv"
+
 # Offline-safe URL normalization and duplicate check for a public YouTube batch.
 prepare-youtube-batch:
 	@test -f "$(PREPARE_YT_BATCH)" || { echo "ERROR: $(PREPARE_YT_BATCH) not found"; exit 1; }
@@ -194,9 +231,28 @@ prepare-youtube-batch:
 # Fetch public metadata and create a review-only draft patch. Does not mutate index.json.
 fetch-youtube-metadata: prepare-youtube-batch
 	@test -f "$(FETCH_YT_METADATA)" || { echo "ERROR: $(FETCH_YT_METADATA) not found"; exit 1; }
-	@python3 "$(FETCH_YT_METADATA)" \
-	  --urls "$(BATCH_OUT)/inputs/urls.normalized.txt" \
+	@set -e; \
+	urls_file="$(BATCH_OUT)/inputs/urls.normalized.txt"; \
+	if [ "$(FETCH_ONLY_NEW)" = "1" ] && [ -s "$(BATCH_OUT)/work/new_video_ids.txt" ]; then \
+	  urls_file="$(BATCH_OUT)/work/new_video_ids.txt"; \
+	fi; \
+	python3 "$(FETCH_YT_METADATA)" \
+	  --urls "$$urls_file" \
 	  --out-dir "$(BATCH_OUT)"
+
+youtube-batch-status:
+	@test -f "$(SUMMARIZE_YT_BATCH)" || { echo "ERROR: $(SUMMARIZE_YT_BATCH) not found"; exit 1; }
+	@"$(PYTHON)" "$(SUMMARIZE_YT_BATCH)" "$(BATCH_OUT)"
+
+# Idempotently preview or sync the archive YouTube playlist from index.json.
+# Default is dry-run; pass PLAYLIST_EXTRA= to apply additions, or
+# PLAYLIST_EXTRA='--reorder' to enforce ordering.
+playlist-sync:
+	@test -f "$(YT_PLAYLIST_SYNC)" || { echo "ERROR: $(YT_PLAYLIST_SYNC) not found"; exit 1; }
+	@set -e; \
+	id_arg=""; \
+	if [ -n "$(PLAYLIST_ID)" ]; then id_arg="--playlist-id $(PLAYLIST_ID)"; fi; \
+	"$(PYTHON)" "$(YT_PLAYLIST_SYNC)" $$id_arg $(PLAYLIST_EXTRA)
 
 # Build non-audio speaker reference metadata from reviewed timecoded diarist files.
 speaker-reference:

@@ -1,0 +1,221 @@
+{
+  "schema": "bache.agent_autonomous_video_ingestion_spec.v1",
+  "updated": "2026-07-15",
+  "optimization_target": "coding_ai_agents_with_large_context_windows",
+  "human_readability_priority": "low",
+  "current_capability": {
+    "controlled_end_to_end_ingestion": true,
+    "fully_unattended_human_zero_publication": false,
+    "reason_unattended_not_ready": [
+      "candidate acceptance policy is not encoded as deterministic gates",
+      "speaker identity acceptance thresholds are not calibrated",
+      "transcript QA gates for speaker swaps, hallucinated edits, missing timestamps, and low-ASR regions are not complete",
+      "RAG rebuild, API verification, web deployment, GitHub Pages publication, and YouTube playlist sync are not orchestrated as one resumable state machine"
+    ]
+  },
+  "identity": {
+    "github_cli_env": "GH_CONFIG_DIR=$HOME/.config/gh-bache",
+    "required_remotes": {
+      "workspace": "git@github-bache:bache-archive/bache-archive.git",
+      "corpus": "git@github-bache:bache-archive/chris-bache-archive.git",
+      "web": "git@github-bache:bache-archive/bache-archive-web.git",
+      "rag_api": "git@github-bache:bache-archive/bache-rag-api.git"
+    },
+    "local_git_identity": "Bache Archive <bache-archive@tuta.com>",
+    "vercel_exception": "Howard personal Vercel account currently allowed"
+  },
+  "repositories": {
+    "chris-bache-archive": {
+      "role": "canonical corpus, transcripts, captions, diarization artifacts, manifests, checksums, GitHub Pages mirror, RAG vector source",
+      "standard_checks": [
+        "make identity-audit",
+        "make finalize"
+      ]
+    },
+    "bache-rag-api": {
+      "role": "citation-grounded retrieval and answer API",
+      "standard_checks": [
+        "representative /search checks",
+        "representative /answer checks"
+      ]
+    },
+    "bache-archive-web": {
+      "role": "Next.js frontend for chrisbachearchive.com",
+      "standard_checks": [
+        "npm run sync:archive",
+        "npm run typecheck",
+        "npm run lint",
+        "npm run build"
+      ]
+    }
+  },
+  "secrets_and_ignored_artifacts": [
+    ".env",
+    ".env.*",
+    "tools/client_secret.json",
+    "tools/token.json",
+    "downloads/",
+    "build/speaker-reference-clips/",
+    "reports/",
+    "logs/",
+    ".vercel/",
+    "raw media",
+    "private email exports",
+    "OAuth tokens",
+    "API keys"
+  ],
+  "known_credentials_expected_local_untracked": {
+    "PYANNOTE_TOKEN": "chris-bache-archive/.env",
+    "OPENAI_API_KEY": "chris-bache-archive/.env or chris-bache-archive/tools/.env",
+    "YT_API_KEY": "chris-bache-archive/.env",
+    "YouTube OAuth client": "chris-bache-archive/tools/client_secret.json",
+    "YouTube OAuth token": "chris-bache-archive/tools/token.json"
+  },
+  "readiness_checks_verified_2026_07_15": {
+    "yt_dlp_metadata_fetch_for_supplied_batch": "16/16 reachable; 15 new and 1 already indexed",
+    "pyannote_gated_models": [
+      "pyannote/speaker-diarization-3.1",
+      "pyannote/segmentation-3.0",
+      "pyannote/speaker-diarization-community-1"
+    ],
+    "speaker_reference_manifest": "81 reference ranges from 22 talks",
+    "youtube_discovery_api": "working with YT_API_KEY",
+    "playlist_sync": "dry-run capable; real sync requires Google OAuth files and dependencies"
+  },
+  "current_supplied_batch": {
+    "batch_dir": "patches/2026-07-15-youtube-public-batch",
+    "new_count": 15,
+    "already_indexed": [
+      {
+        "youtube_id": "IBCN4z5P-8s",
+        "existing_slug": "2025-10-21-psa-fireside-chat-featuring-dr-raymond-turpin-dr"
+      }
+    ],
+    "agent_status": "patches/2026-07-15-youtube-public-batch/outputs/agent_status.json"
+  },
+  "state_machine": [
+    {
+      "state": "discovered",
+      "entry_artifacts": [
+        "reports/youtube-discovery/<date>/candidates.bache.youtube.json",
+        "reports/youtube-discovery/<date>/candidates.bache.youtube.csv"
+      ],
+      "command": "make find-youtube-candidates DISCOVERY_AFTER=<date> DISCOVERY_BEFORE=<date>"
+    },
+    {
+      "state": "batch_prepared",
+      "entry_artifacts": [
+        "patches/<date>-youtube-public-batch/inputs/urls.txt"
+      ],
+      "command": "make prepare-youtube-batch BATCH_OUT=<batch> BATCH_URLS=<batch>/inputs/urls.txt"
+    },
+    {
+      "state": "metadata_fetched",
+      "entry_artifacts": [
+        "patches/<batch>/work/new_video_ids.txt"
+      ],
+      "command": "make fetch-youtube-metadata BATCH_OUT=<batch> BATCH_URLS=<batch>/inputs/urls.txt"
+    },
+    {
+      "state": "agent_status_written",
+      "command": "make youtube-batch-status BATCH_OUT=<batch>",
+      "canonical_artifact": "patches/<batch>/outputs/agent_status.json"
+    },
+    {
+      "state": "metadata_reviewed",
+      "required_artifact": "patches/<batch>/work/index.patch.json",
+      "gate": "no TODO slugs; no already-indexed duplicates; public source scope recorded"
+    },
+    {
+      "state": "index_merged",
+      "command": "python3 tools/curation/merge_index.py --base index.json --patch <batch>/work/index.patch.json --out <batch>/outputs/index.merged.json"
+    },
+    {
+      "state": "source_artifacts_captured",
+      "per_slug_commands": [
+        "make captions SLUG=<slug>",
+        "stage audio under downloads/audio/<slug>.mp3"
+      ]
+    },
+    {
+      "state": "diarized",
+      "command": "make diarize DIAR_PYTHON=.venv-diarize/bin/python SLUG=<slug> AUDIO=downloads/audio/<slug>.mp3"
+    },
+    {
+      "state": "speaker_identity_scored",
+      "commands": [
+        "make speaker-reference",
+        "make speaker-reference-clips",
+        "make speaker-identify SPEAKER_PYTHON=.venv-speakers/bin/python SLUG=<slug> AUDIO=downloads/audio/<slug>.mp3"
+      ],
+      "canonical_artifact": "reports/diarization/<slug>.speaker_identity.json"
+    },
+    {
+      "state": "transcript_built",
+      "command": "make transcript SLUG=<slug>",
+      "canonical_artifact": "sources/transcripts/<slug>.md"
+    },
+    {
+      "state": "corpus_finalized",
+      "command": "make finalize"
+    },
+    {
+      "state": "rag_rebuilt_and_checked",
+      "commands": [
+        "python3 tools/rag/chunk_transcripts.py",
+        "python3 tools/rag/embed_and_faiss.py",
+        "make audit-parquet",
+        "run representative bache-rag-api /search and /answer checks"
+      ]
+    },
+    {
+      "state": "web_synced_built_deployed",
+      "commands": [
+        "cd ../bache-archive-web",
+        "npm run sync:archive",
+        "npm run typecheck",
+        "npm run lint",
+        "npm run build",
+        "commit, push, deploy production"
+      ]
+    },
+    {
+      "state": "playlist_synced",
+      "commands": [
+        "make playlist-sync PLAYLIST_ID=<playlist-id> PLAYLIST_EXTRA='--dry-run'",
+        "make playlist-sync PLAYLIST_ID=<playlist-id> PLAYLIST_EXTRA="
+      ]
+    }
+  ],
+  "unattended_publication_required_future_gates": {
+    "candidate_acceptance": [
+      "minimum score",
+      "explicit Chris Bache title or high-confidence description match",
+      "duration within configured range",
+      "channel allowlist or enough textual evidence",
+      "not already indexed",
+      "public source reachable"
+    ],
+    "speaker_identity": [
+      "Chris cluster similarity threshold calibrated from reviewed files",
+      "minimum Chris speech duration",
+      "confidence margin over next-best cluster",
+      "fallback to issue creation when ambiguous"
+    ],
+    "transcript_quality": [
+      "ASR confidence or provider comparison",
+      "timestamp coverage",
+      "speaker label consistency",
+      "LLM cleanup diff bounded against raw ASR",
+      "no unsupported editorial additions"
+    ],
+    "publication": [
+      "identity audit passed",
+      "make finalize passed",
+      "RAG checks passed",
+      "web build passed",
+      "production deploy verified",
+      "playlist dry-run matches expected delta before apply"
+    ]
+  }
+}

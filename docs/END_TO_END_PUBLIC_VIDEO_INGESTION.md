@@ -20,6 +20,24 @@ full publication. Pyannote model access and OpenAI API quota blocked archival
 diarization and transcript rebuild. See
 `docs/PUBLIC_VIDEO_INGESTION_PILOT_2026-07-12.md`.
 
+Current local status as of 2026-07-15:
+
+- `PYANNOTE_TOKEN` access has been verified for
+  `pyannote/speaker-diarization-3.1`, `pyannote/segmentation-3.0`, and
+  `pyannote/speaker-diarization-community-1`.
+- The earlier public YouTube URL batch is staged at
+  `patches/2026-07-15-youtube-public-batch`.
+- Metadata fetch succeeded for all 15 new videos in that batch; `IBCN4z5P-8s`
+  is already indexed.
+- Discovery via `tools/intake/find_bache_videos.py` is available and can be run
+  through `make find-youtube-candidates`.
+- YouTube playlist sync is available through `make playlist-sync` and defaults
+  to dry-run.
+
+The batch is ready for controlled processing from reviewed metadata into
+captions, audio, diarization, speaker-ID QA, canonical transcripts, fixity, RAG,
+web sync, and playlist update. It is not yet a human-zero unattended system.
+
 ## Repositories
 
 - Corpus, transcript, fixity, GitHub Pages mirror:

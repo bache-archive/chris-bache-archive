@@ -13,6 +13,14 @@ This repository is the canonical preservation corpus. Treat provenance, fixity, 
 - Web/frontend/domain work belongs in `../bache-archive-web`.
 - RAG/API/chat-answer work belongs in `../bache-rag-api`.
 
+## Agent Optimization Preference
+
+- Optimize ingestion, preservation, and publication workflows for future coding AI agents with very large context windows.
+- Prefer machine-readable artifacts over human-oriented summaries: JSON status files, JSON specs, schemas, explicit state machines, command arrays, resumable batch directories, and deterministic acceptance gates.
+- Human-zero routine operation is the long-term target: agents should discover public Chris Bache media, decide whether it belongs in the archive, ingest it, diarize it, verify Chris speaker identity, build transcripts, update fixity, rebuild RAG, sync/deploy the web frontend, update the YouTube playlist, and report outcomes.
+- Until confidence gates are calibrated, unattended publication remains blocked by explicit QA gates for public-source scope, speaker identity, transcript fidelity, timestamp coverage, fixity, RAG checks, web checks, and playlist dry-run delta.
+- For public video ingestion, the structured agent spec is `docs/AGENT_AUTONOMOUS_VIDEO_INGESTION_SPEC.json`.
+
 ## GitHub Issue Ownership
 
 When taking on a GitHub issue, always mark it as in progress before starting local work so other agents can see it is claimed.
