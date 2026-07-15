@@ -49,6 +49,13 @@ If the label does not exist or permissions do not allow it, do not block on that
 - Run `make finalize` after archive content, transcript, sitemap, checksum, or manifest changes.
 - If the default Python environment lacks `markdown`, use a repo-local virtualenv or an explicit compatible interpreter; do not mutate system Python.
 
+## Default Change Closeout
+
+- Default to completing verified work without asking the operator whether to commit, push, or merge.
+- When corpus, fixity, public-source ingestion, or agent-workflow changes are ready, run the required checks, commit the intended changes, push to `origin`, merge to `main` when checks pass and publication gates are satisfied, then push `main`.
+- Stop instead of merging only when checks fail, identity/remotes are wrong, secrets/private files/downloaded media would be committed, or a documented QA gate explicitly blocks publication.
+- Leave exact commands and blockers when auth, network, GitHub, or missing local dependencies prevent commit, push, or merge.
+
 ## Git Identity
 
 - Remote must be `git@github-bache:bache-archive/chris-bache-archive.git`.
