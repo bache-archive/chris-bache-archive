@@ -80,7 +80,10 @@
     ],
     "speaker_reference_manifest": "81 reference ranges from 22 talks",
     "youtube_discovery_api": "working with YT_API_KEY",
-    "playlist_sync": "dry-run capable; real sync requires Google OAuth files and dependencies"
+    "playlist_sync": "dry-run capable; real sync requires Google OAuth files and dependencies",
+    "diarization_smoke": "60-second smoke test on KgqQiLkg1mM completed with pyannote diarization_failed=false and 2 detected speakers",
+    "speaker_identity_smoke": "speechbrain speaker-ID completed on smoke artifact; suggested Chris speaker SPEAKER_01 with mean similarity 0.7213 vs SPEAKER_00 at 0.457",
+    "full_length_cpu_large_v3": "foreground CPU large-v3 attempt on 29-minute KgqQiLkg1mM was terminated after about 50 minutes without final artifacts; unattended batch processing needs background/GPU/faster-model orchestration"
   },
   "current_supplied_batch": {
     "batch_dir": "patches/2026-07-15-youtube-public-batch",
@@ -124,6 +127,7 @@
     {
       "state": "metadata_reviewed",
       "required_artifact": "patches/<batch>/work/index.patch.json",
+      "command": "make promote-youtube-batch BATCH_OUT=<batch> PROMOTE_POLICY=operator-supplied",
       "gate": "no TODO slugs; no already-indexed duplicates; public source scope recorded"
     },
     {

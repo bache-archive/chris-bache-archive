@@ -1179,3 +1179,18 @@ Checksums include downloads/. All files verified.
 - Wrote checksums/RELEASE-v3.5.4.sha256 (892 entries)
 - Skipped downloads manifest
 2026-07-13T01:43:25Z  Verified 892 files — all hashes match. (manifest=manifests/release-v3.5.4.json)
+
+### v3.5.4 — 2026-07-15T05:44:45Z
+- Wrote checksums/RELEASE-v3.5.4.sha256 (909 entries)
+- Skipped downloads manifest
+2026-07-15T05:44:46Z  Verified 909 files — all hashes match. (manifest=manifests/release-v3.5.4.json)
+
+### v3.5.4 — 2026-07-15T05:48:02Z
+- Wrote checksums/RELEASE-v3.5.4.sha256 (909 entries)
+- Skipped downloads manifest
+2026-07-15T05:48:03Z  Verified 909 files — all hashes match. (manifest=manifests/release-v3.5.4.json)
+
+### v3.5.4 — 2026-07-15T05:49:12Z
+- Wrote checksums/RELEASE-v3.5.4.sha256 (909 entries)
+- Skipped downloads manifest
+2026-07-15T05:49:12Z  Verified 909 files — all hashes match. (manifest=manifests/release-v3.5.4.json)

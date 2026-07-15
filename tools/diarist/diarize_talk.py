@@ -329,7 +329,15 @@ def run_diarization_pyannote(audio_path: Path, hf_token: Optional[str], num_spea
         waveform = torchaudio.functional.resample(waveform, sample_rate, 16000)
         sample_rate = 16000
 
-    diarization = pipeline({"waveform": waveform, "sample_rate": sample_rate}, **params)
+    diarization_output = pipeline({"waveform": waveform, "sample_rate": sample_rate}, **params)
+    # pyannote.audio 4.x returns DiarizeOutput; older releases returned a
+    # pyannote.core.Annotation directly. Prefer exclusive diarization for
+    # word-level assignment because it is non-overlapping.
+    diarization = getattr(diarization_output, "exclusive_speaker_diarization", None)
+    if diarization is None:
+        diarization = getattr(diarization_output, "speaker_diarization", diarization_output)
+    if not hasattr(diarization, "itertracks"):
+        raise RuntimeError(f"Unsupported pyannote diarization output: {type(diarization_output).__name__}")
     spans = [(float(turn.start), float(turn.end), str(speaker)) for turn, _, speaker in diarization.itertracks(yield_label=True)]
     spans.sort(key=lambda x: x[0])
     return spans

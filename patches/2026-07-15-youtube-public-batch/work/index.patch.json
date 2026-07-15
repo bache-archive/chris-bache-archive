@@ -1,0 +1,587 @@
+[
+  {
+    "archival_title": "Consciousness Beyond Death: Findings from 20 Years of LSD Research — Christopher Bache",
+    "channel": "The Weekend University",
+    "source_type": "interview",
+    "transcript": "sources/transcripts/2026-01-29-consciousness-beyond-death-findings-from-20-years-of-lsd-research-christopher.md",
+    "diarist": "sources/diarist/2026-01-29-consciousness-beyond-death-findings-from-20-years-of-lsd-research-christopher.txt",
+    "youtube_id": "ovU2Esv62CU",
+    "youtube_url": "https://youtu.be/ovU2Esv62CU",
+    "web_url": "",
+    "duration_hms": "1:04:36",
+    "media": {
+      "audio": "downloads/audio/2026-01-29-consciousness-beyond-death-findings-from-20-years-of-lsd-research-christopher.mp3",
+      "video": "downloads/video/2026-01-29-consciousness-beyond-death-findings-from-20-years-of-lsd-research-christopher.mp4"
+    },
+    "blob_url": "",
+    "raw_url": "",
+    "published": "2026-01-29",
+    "status": "metadata-reviewed",
+    "notes": "Agent-reviewed public YouTube metadata. Proceed through captions, audio staging, diarization, speaker identity QA, transcript build, fixity, RAG, web sync, and playlist sync before publication complete.",
+    "ingestion": {
+      "schema": "bache.ingestion.record_state.v1",
+      "state": "metadata_reviewed",
+      "policy": "operator-supplied",
+      "decision_reason": "operator_supplied_public_url_batch",
+      "reviewed_at_utc": "2026-07-15T04:45:24.250570+00:00",
+      "slug": "2026-01-29-consciousness-beyond-death-findings-from-20-years-of-lsd-research-christopher",
+      "required_next_states": [
+        "captions_captured",
+        "audio_staged",
+        "diarized",
+        "speaker_identity_scored",
+        "transcript_built",
+        "corpus_finalized",
+        "rag_rebuilt_and_checked",
+        "web_synced_built_deployed",
+        "playlist_synced"
+      ]
+    }
+  },
+  {
+    "archival_title": "Interview with Chris Bache, Ph.D. - Our Spiritual Awakening and Transformation into the New Human",
+    "channel": "Heather Ensworth",
+    "source_type": "interview",
+    "transcript": "sources/transcripts/2026-03-05-interview-with-chris-bache-ph-d-our-spiritual-awakening-and-transformation.md",
+    "diarist": "sources/diarist/2026-03-05-interview-with-chris-bache-ph-d-our-spiritual-awakening-and-transformation.txt",
+    "youtube_id": "PXvcNCrdTEw",
+    "youtube_url": "https://youtu.be/PXvcNCrdTEw",
+    "web_url": "",
+    "duration_hms": "1:11:28",
+    "media": {
+      "audio": "downloads/audio/2026-03-05-interview-with-chris-bache-ph-d-our-spiritual-awakening-and-transformation.mp3",
+      "video": "downloads/video/2026-03-05-interview-with-chris-bache-ph-d-our-spiritual-awakening-and-transformation.mp4"
+    },
+    "blob_url": "",
+    "raw_url": "",
+    "published": "2026-03-05",
+    "status": "metadata-reviewed",
+    "notes": "Agent-reviewed public YouTube metadata. Proceed through captions, audio staging, diarization, speaker identity QA, transcript build, fixity, RAG, web sync, and playlist sync before publication complete.",
+    "ingestion": {
+      "schema": "bache.ingestion.record_state.v1",
+      "state": "metadata_reviewed",
+      "policy": "operator-supplied",
+      "decision_reason": "operator_supplied_public_url_batch",
+      "reviewed_at_utc": "2026-07-15T04:45:24.250922+00:00",
+      "slug": "2026-03-05-interview-with-chris-bache-ph-d-our-spiritual-awakening-and-transformation",
+      "required_next_states": [
+        "captions_captured",
+        "audio_staged",
+        "diarized",
+        "speaker_identity_scored",
+        "transcript_built",
+        "corpus_finalized",
+        "rag_rebuilt_and_checked",
+        "web_synced_built_deployed",
+        "playlist_synced"
+      ]
+    }
+  },
+  {
+    "archival_title": "Reincarnation, Deep Time and the Diamond Soul, with Christopher Bache | Insights At The Edge",
+    "channel": "Sounds True",
+    "source_type": "interview",
+    "transcript": "sources/transcripts/2025-09-23-reincarnation-deep-time-and-the-diamond-soul-with-christopher-bache-insights.md",
+    "diarist": "sources/diarist/2025-09-23-reincarnation-deep-time-and-the-diamond-soul-with-christopher-bache-insights.txt",
+    "youtube_id": "Nu8Dk-UdhYM",
+    "youtube_url": "https://youtu.be/Nu8Dk-UdhYM",
+    "web_url": "",
+    "duration_hms": "1:16:48",
+    "media": {
+      "audio": "downloads/audio/2025-09-23-reincarnation-deep-time-and-the-diamond-soul-with-christopher-bache-insights.mp3",
+      "video": "downloads/video/2025-09-23-reincarnation-deep-time-and-the-diamond-soul-with-christopher-bache-insights.mp4"
+    },
+    "blob_url": "",
+    "raw_url": "",
+    "published": "2025-09-23",
+    "status": "metadata-reviewed",
+    "notes": "Agent-reviewed public YouTube metadata. Proceed through captions, audio staging, diarization, speaker identity QA, transcript build, fixity, RAG, web sync, and playlist sync before publication complete.",
+    "ingestion": {
+      "schema": "bache.ingestion.record_state.v1",
+      "state": "metadata_reviewed",
+      "policy": "operator-supplied",
+      "decision_reason": "operator_supplied_public_url_batch",
+      "reviewed_at_utc": "2026-07-15T04:45:24.250929+00:00",
+      "slug": "2025-09-23-reincarnation-deep-time-and-the-diamond-soul-with-christopher-bache-insights",
+      "required_next_states": [
+        "captions_captured",
+        "audio_staged",
+        "diarized",
+        "speaker_identity_scored",
+        "transcript_built",
+        "corpus_finalized",
+        "rag_rebuilt_and_checked",
+        "web_synced_built_deployed",
+        "playlist_synced"
+      ]
+    }
+  },
+  {
+    "archival_title": "Dr Chris Bache | The Impossible Question | Speira",
+    "channel": "Speira",
+    "source_type": "interview",
+    "transcript": "sources/transcripts/2026-06-23-dr-chris-bache-the-impossible-question-speira.md",
+    "diarist": "sources/diarist/2026-06-23-dr-chris-bache-the-impossible-question-speira.txt",
+    "youtube_id": "xcI-NOVnRoY",
+    "youtube_url": "https://youtu.be/xcI-NOVnRoY",
+    "web_url": "",
+    "duration_hms": "1:21:57",
+    "media": {
+      "audio": "downloads/audio/2026-06-23-dr-chris-bache-the-impossible-question-speira.mp3",
+      "video": "downloads/video/2026-06-23-dr-chris-bache-the-impossible-question-speira.mp4"
+    },
+    "blob_url": "",
+    "raw_url": "",
+    "published": "2026-06-23",
+    "status": "metadata-reviewed",
+    "notes": "Agent-reviewed public YouTube metadata. Proceed through captions, audio staging, diarization, speaker identity QA, transcript build, fixity, RAG, web sync, and playlist sync before publication complete.",
+    "ingestion": {
+      "schema": "bache.ingestion.record_state.v1",
+      "state": "metadata_reviewed",
+      "policy": "operator-supplied",
+      "decision_reason": "operator_supplied_public_url_batch",
+      "reviewed_at_utc": "2026-07-15T04:45:24.250935+00:00",
+      "slug": "2026-06-23-dr-chris-bache-the-impossible-question-speira",
+      "required_next_states": [
+        "captions_captured",
+        "audio_staged",
+        "diarized",
+        "speaker_identity_scored",
+        "transcript_built",
+        "corpus_finalized",
+        "rag_rebuilt_and_checked",
+        "web_synced_built_deployed",
+        "playlist_synced"
+      ]
+    }
+  },
+  {
+    "archival_title": "An Open-Ended Conversation with Chris Bache",
+    "channel": "New Thinking Allowed with Jeffrey Mishlove",
+    "source_type": "interview",
+    "transcript": "sources/transcripts/2025-11-17-an-open-ended-conversation-with-chris-bache.md",
+    "diarist": "sources/diarist/2025-11-17-an-open-ended-conversation-with-chris-bache.txt",
+    "youtube_id": "nFZfqoBbK_U",
+    "youtube_url": "https://youtu.be/nFZfqoBbK_U",
+    "web_url": "",
+    "duration_hms": "1:21:16",
+    "media": {
+      "audio": "downloads/audio/2025-11-17-an-open-ended-conversation-with-chris-bache.mp3",
+      "video": "downloads/video/2025-11-17-an-open-ended-conversation-with-chris-bache.mp4"
+    },
+    "blob_url": "",
+    "raw_url": "",
+    "published": "2025-11-17",
+    "status": "metadata-reviewed",
+    "notes": "Agent-reviewed public YouTube metadata. Proceed through captions, audio staging, diarization, speaker identity QA, transcript build, fixity, RAG, web sync, and playlist sync before publication complete.",
+    "ingestion": {
+      "schema": "bache.ingestion.record_state.v1",
+      "state": "metadata_reviewed",
+      "policy": "operator-supplied",
+      "decision_reason": "operator_supplied_public_url_batch",
+      "reviewed_at_utc": "2026-07-15T04:45:24.250940+00:00",
+      "slug": "2025-11-17-an-open-ended-conversation-with-chris-bache",
+      "required_next_states": [
+        "captions_captured",
+        "audio_staged",
+        "diarized",
+        "speaker_identity_scored",
+        "transcript_built",
+        "corpus_finalized",
+        "rag_rebuilt_and_checked",
+        "web_synced_built_deployed",
+        "playlist_synced"
+      ]
+    }
+  },
+  {
+    "archival_title": "Dr. Chris Bache, author of \"LSD and the Mind of the Universe\"",
+    "channel": "Ligare: A Christian Psychedelic Society",
+    "source_type": "interview",
+    "transcript": "sources/transcripts/2026-06-30-dr-chris-bache-author-of-lsd-and-the-mind-of-the.md",
+    "diarist": "sources/diarist/2026-06-30-dr-chris-bache-author-of-lsd-and-the-mind-of-the.txt",
+    "youtube_id": "VuQWEffN8x0",
+    "youtube_url": "https://youtu.be/VuQWEffN8x0",
+    "web_url": "",
+    "duration_hms": "1:30:29",
+    "media": {
+      "audio": "downloads/audio/2026-06-30-dr-chris-bache-author-of-lsd-and-the-mind-of-the.mp3",
+      "video": "downloads/video/2026-06-30-dr-chris-bache-author-of-lsd-and-the-mind-of-the.mp4"
+    },
+    "blob_url": "",
+    "raw_url": "",
+    "published": "2026-06-30",
+    "status": "metadata-reviewed",
+    "notes": "Agent-reviewed public YouTube metadata. Proceed through captions, audio staging, diarization, speaker identity QA, transcript build, fixity, RAG, web sync, and playlist sync before publication complete.",
+    "ingestion": {
+      "schema": "bache.ingestion.record_state.v1",
+      "state": "metadata_reviewed",
+      "policy": "operator-supplied",
+      "decision_reason": "operator_supplied_public_url_batch",
+      "reviewed_at_utc": "2026-07-15T04:45:24.250945+00:00",
+      "slug": "2026-06-30-dr-chris-bache-author-of-lsd-and-the-mind-of-the",
+      "required_next_states": [
+        "captions_captured",
+        "audio_staged",
+        "diarized",
+        "speaker_identity_scored",
+        "transcript_built",
+        "corpus_finalized",
+        "rag_rebuilt_and_checked",
+        "web_synced_built_deployed",
+        "playlist_synced"
+      ]
+    }
+  },
+  {
+    "archival_title": "LSD and the Edge of Human Experience: Dr. Chris Bache on his Twenty Year Exploration of the Unknown.",
+    "channel": "The Leading Edge",
+    "source_type": "interview",
+    "transcript": "sources/transcripts/2025-11-22-lsd-and-the-edge-of-human-experience-dr-chris-bache-on.md",
+    "diarist": "sources/diarist/2025-11-22-lsd-and-the-edge-of-human-experience-dr-chris-bache-on.txt",
+    "youtube_id": "7R_k6aF-9gk",
+    "youtube_url": "https://youtu.be/7R_k6aF-9gk",
+    "web_url": "",
+    "duration_hms": "59:23",
+    "media": {
+      "audio": "downloads/audio/2025-11-22-lsd-and-the-edge-of-human-experience-dr-chris-bache-on.mp3",
+      "video": "downloads/video/2025-11-22-lsd-and-the-edge-of-human-experience-dr-chris-bache-on.mp4"
+    },
+    "blob_url": "",
+    "raw_url": "",
+    "published": "2025-11-22",
+    "status": "metadata-reviewed",
+    "notes": "Agent-reviewed public YouTube metadata. Proceed through captions, audio staging, diarization, speaker identity QA, transcript build, fixity, RAG, web sync, and playlist sync before publication complete.",
+    "ingestion": {
+      "schema": "bache.ingestion.record_state.v1",
+      "state": "metadata_reviewed",
+      "policy": "operator-supplied",
+      "decision_reason": "operator_supplied_public_url_batch",
+      "reviewed_at_utc": "2026-07-15T04:45:24.250949+00:00",
+      "slug": "2025-11-22-lsd-and-the-edge-of-human-experience-dr-chris-bache-on",
+      "required_next_states": [
+        "captions_captured",
+        "audio_staged",
+        "diarized",
+        "speaker_identity_scored",
+        "transcript_built",
+        "corpus_finalized",
+        "rag_rebuilt_and_checked",
+        "web_synced_built_deployed",
+        "playlist_synced"
+      ]
+    }
+  },
+  {
+    "archival_title": "Psychedelics, Reincarnation, Death, & the Future of Humanity – with Christopher Bache",
+    "channel": "Soul Unique",
+    "source_type": "interview",
+    "transcript": "sources/transcripts/2026-01-08-psychedelics-reincarnation-death-the-future-of-humanity-with-christopher-bache.md",
+    "diarist": "sources/diarist/2026-01-08-psychedelics-reincarnation-death-the-future-of-humanity-with-christopher-bache.txt",
+    "youtube_id": "63uGUsyipuk",
+    "youtube_url": "https://youtu.be/63uGUsyipuk",
+    "web_url": "",
+    "duration_hms": "1:38:06",
+    "media": {
+      "audio": "downloads/audio/2026-01-08-psychedelics-reincarnation-death-the-future-of-humanity-with-christopher-bache.mp3",
+      "video": "downloads/video/2026-01-08-psychedelics-reincarnation-death-the-future-of-humanity-with-christopher-bache.mp4"
+    },
+    "blob_url": "",
+    "raw_url": "",
+    "published": "2026-01-08",
+    "status": "metadata-reviewed",
+    "notes": "Agent-reviewed public YouTube metadata. Proceed through captions, audio staging, diarization, speaker identity QA, transcript build, fixity, RAG, web sync, and playlist sync before publication complete.",
+    "ingestion": {
+      "schema": "bache.ingestion.record_state.v1",
+      "state": "metadata_reviewed",
+      "policy": "operator-supplied",
+      "decision_reason": "operator_supplied_public_url_batch",
+      "reviewed_at_utc": "2026-07-15T04:45:24.250954+00:00",
+      "slug": "2026-01-08-psychedelics-reincarnation-death-the-future-of-humanity-with-christopher-bache",
+      "required_next_states": [
+        "captions_captured",
+        "audio_staged",
+        "diarized",
+        "speaker_identity_scored",
+        "transcript_built",
+        "corpus_finalized",
+        "rag_rebuilt_and_checked",
+        "web_synced_built_deployed",
+        "playlist_synced"
+      ]
+    }
+  },
+  {
+    "archival_title": "Rethinking Human Existence – Gods Plan and Purpose for Humanity with Christopher Bache",
+    "channel": "Sandie Sedgbeer",
+    "source_type": "interview",
+    "transcript": "sources/transcripts/2026-02-12-rethinking-human-existence-gods-plan-and-purpose-for-humanity-with-christopher.md",
+    "diarist": "sources/diarist/2026-02-12-rethinking-human-existence-gods-plan-and-purpose-for-humanity-with-christopher.txt",
+    "youtube_id": "pgULV1_MoNM",
+    "youtube_url": "https://youtu.be/pgULV1_MoNM",
+    "web_url": "",
+    "duration_hms": "58:02",
+    "media": {
+      "audio": "downloads/audio/2026-02-12-rethinking-human-existence-gods-plan-and-purpose-for-humanity-with-christopher.mp3",
+      "video": "downloads/video/2026-02-12-rethinking-human-existence-gods-plan-and-purpose-for-humanity-with-christopher.mp4"
+    },
+    "blob_url": "",
+    "raw_url": "",
+    "published": "2026-02-12",
+    "status": "metadata-reviewed",
+    "notes": "Agent-reviewed public YouTube metadata. Proceed through captions, audio staging, diarization, speaker identity QA, transcript build, fixity, RAG, web sync, and playlist sync before publication complete.",
+    "ingestion": {
+      "schema": "bache.ingestion.record_state.v1",
+      "state": "metadata_reviewed",
+      "policy": "operator-supplied",
+      "decision_reason": "operator_supplied_public_url_batch",
+      "reviewed_at_utc": "2026-07-15T04:45:24.250958+00:00",
+      "slug": "2026-02-12-rethinking-human-existence-gods-plan-and-purpose-for-humanity-with-christopher",
+      "required_next_states": [
+        "captions_captured",
+        "audio_staged",
+        "diarized",
+        "speaker_identity_scored",
+        "transcript_built",
+        "corpus_finalized",
+        "rag_rebuilt_and_checked",
+        "web_synced_built_deployed",
+        "playlist_synced"
+      ]
+    }
+  },
+  {
+    "archival_title": "The New Shaman: How LSD gave Christopher Bache the keys to the cosmos",
+    "channel": "Neon Galactic w/James Faulk",
+    "source_type": "interview",
+    "transcript": "sources/transcripts/2026-05-20-the-new-shaman-how-lsd-gave-christopher-bache-the-keys-to.md",
+    "diarist": "sources/diarist/2026-05-20-the-new-shaman-how-lsd-gave-christopher-bache-the-keys-to.txt",
+    "youtube_id": "0MaF7cXVL20",
+    "youtube_url": "https://youtu.be/0MaF7cXVL20",
+    "web_url": "",
+    "duration_hms": "1:32:03",
+    "media": {
+      "audio": "downloads/audio/2026-05-20-the-new-shaman-how-lsd-gave-christopher-bache-the-keys-to.mp3",
+      "video": "downloads/video/2026-05-20-the-new-shaman-how-lsd-gave-christopher-bache-the-keys-to.mp4"
+    },
+    "blob_url": "",
+    "raw_url": "",
+    "published": "2026-05-20",
+    "status": "metadata-reviewed",
+    "notes": "Agent-reviewed public YouTube metadata. Proceed through captions, audio staging, diarization, speaker identity QA, transcript build, fixity, RAG, web sync, and playlist sync before publication complete.",
+    "ingestion": {
+      "schema": "bache.ingestion.record_state.v1",
+      "state": "metadata_reviewed",
+      "policy": "operator-supplied",
+      "decision_reason": "operator_supplied_public_url_batch",
+      "reviewed_at_utc": "2026-07-15T04:45:24.250963+00:00",
+      "slug": "2026-05-20-the-new-shaman-how-lsd-gave-christopher-bache-the-keys-to",
+      "required_next_states": [
+        "captions_captured",
+        "audio_staged",
+        "diarized",
+        "speaker_identity_scored",
+        "transcript_built",
+        "corpus_finalized",
+        "rag_rebuilt_and_checked",
+        "web_synced_built_deployed",
+        "playlist_synced"
+      ]
+    }
+  },
+  {
+    "archival_title": "#36: What 20 Years of LSD Revealed About Suffering, Healing & the Future of Humanity — Chris Bache",
+    "channel": "Love Conquers Fear",
+    "source_type": "interview",
+    "transcript": "sources/transcripts/2026-02-03-36-what-20-years-of-lsd-revealed-about-suffering-healing-the.md",
+    "diarist": "sources/diarist/2026-02-03-36-what-20-years-of-lsd-revealed-about-suffering-healing-the.txt",
+    "youtube_id": "424meKDrZ2M",
+    "youtube_url": "https://youtu.be/424meKDrZ2M",
+    "web_url": "",
+    "duration_hms": "2:09:19",
+    "media": {
+      "audio": "downloads/audio/2026-02-03-36-what-20-years-of-lsd-revealed-about-suffering-healing-the.mp3",
+      "video": "downloads/video/2026-02-03-36-what-20-years-of-lsd-revealed-about-suffering-healing-the.mp4"
+    },
+    "blob_url": "",
+    "raw_url": "",
+    "published": "2026-02-03",
+    "status": "metadata-reviewed",
+    "notes": "Agent-reviewed public YouTube metadata. Proceed through captions, audio staging, diarization, speaker identity QA, transcript build, fixity, RAG, web sync, and playlist sync before publication complete.",
+    "ingestion": {
+      "schema": "bache.ingestion.record_state.v1",
+      "state": "metadata_reviewed",
+      "policy": "operator-supplied",
+      "decision_reason": "operator_supplied_public_url_batch",
+      "reviewed_at_utc": "2026-07-15T04:45:24.250967+00:00",
+      "slug": "2026-02-03-36-what-20-years-of-lsd-revealed-about-suffering-healing-the",
+      "required_next_states": [
+        "captions_captured",
+        "audio_staged",
+        "diarized",
+        "speaker_identity_scored",
+        "transcript_built",
+        "corpus_finalized",
+        "rag_rebuilt_and_checked",
+        "web_synced_built_deployed",
+        "playlist_synced"
+      ]
+    }
+  },
+  {
+    "archival_title": "In the Living Classroom with Chris Bache",
+    "channel": "The Serious Jester",
+    "source_type": "interview",
+    "transcript": "sources/transcripts/2026-02-02-in-the-living-classroom-with-chris-bache.md",
+    "diarist": "sources/diarist/2026-02-02-in-the-living-classroom-with-chris-bache.txt",
+    "youtube_id": "2w-8klAX--M",
+    "youtube_url": "https://youtu.be/2w-8klAX--M",
+    "web_url": "",
+    "duration_hms": "2:01:32",
+    "media": {
+      "audio": "downloads/audio/2026-02-02-in-the-living-classroom-with-chris-bache.mp3",
+      "video": "downloads/video/2026-02-02-in-the-living-classroom-with-chris-bache.mp4"
+    },
+    "blob_url": "",
+    "raw_url": "",
+    "published": "2026-02-02",
+    "status": "metadata-reviewed",
+    "notes": "Agent-reviewed public YouTube metadata. Proceed through captions, audio staging, diarization, speaker identity QA, transcript build, fixity, RAG, web sync, and playlist sync before publication complete.",
+    "ingestion": {
+      "schema": "bache.ingestion.record_state.v1",
+      "state": "metadata_reviewed",
+      "policy": "operator-supplied",
+      "decision_reason": "operator_supplied_public_url_batch",
+      "reviewed_at_utc": "2026-07-15T04:45:24.250972+00:00",
+      "slug": "2026-02-02-in-the-living-classroom-with-chris-bache",
+      "required_next_states": [
+        "captions_captured",
+        "audio_staged",
+        "diarized",
+        "speaker_identity_scored",
+        "transcript_built",
+        "corpus_finalized",
+        "rag_rebuilt_and_checked",
+        "web_synced_built_deployed",
+        "playlist_synced"
+      ]
+    }
+  },
+  {
+    "archival_title": "What Altered States Reveal About the Nature of Reality",
+    "channel": "Suzanne Giesemann - Messages of Hope",
+    "source_type": "interview",
+    "transcript": "sources/transcripts/2026-03-15-what-altered-states-reveal-about-the-nature-of-reality.md",
+    "diarist": "sources/diarist/2026-03-15-what-altered-states-reveal-about-the-nature-of-reality.txt",
+    "youtube_id": "zlRKDRV3H-I",
+    "youtube_url": "https://youtu.be/zlRKDRV3H-I",
+    "web_url": "",
+    "duration_hms": "1:04:20",
+    "media": {
+      "audio": "downloads/audio/2026-03-15-what-altered-states-reveal-about-the-nature-of-reality.mp3",
+      "video": "downloads/video/2026-03-15-what-altered-states-reveal-about-the-nature-of-reality.mp4"
+    },
+    "blob_url": "",
+    "raw_url": "",
+    "published": "2026-03-15",
+    "status": "metadata-reviewed",
+    "notes": "Agent-reviewed public YouTube metadata. Proceed through captions, audio staging, diarization, speaker identity QA, transcript build, fixity, RAG, web sync, and playlist sync before publication complete.",
+    "ingestion": {
+      "schema": "bache.ingestion.record_state.v1",
+      "state": "metadata_reviewed",
+      "policy": "operator-supplied",
+      "decision_reason": "operator_supplied_public_url_batch",
+      "reviewed_at_utc": "2026-07-15T04:45:24.250976+00:00",
+      "slug": "2026-03-15-what-altered-states-reveal-about-the-nature-of-reality",
+      "required_next_states": [
+        "captions_captured",
+        "audio_staged",
+        "diarized",
+        "speaker_identity_scored",
+        "transcript_built",
+        "corpus_finalized",
+        "rag_rebuilt_and_checked",
+        "web_synced_built_deployed",
+        "playlist_synced"
+      ]
+    }
+  },
+  {
+    "archival_title": "IARS Reincarnation Book Club with CHRIS BACHE, PhD",
+    "channel": "IARS - Int'l Assn. for Reincarnation Studies",
+    "source_type": "interview",
+    "transcript": "sources/transcripts/2026-03-06-iars-reincarnation-book-club-with-chris-bache-phd.md",
+    "diarist": "sources/diarist/2026-03-06-iars-reincarnation-book-club-with-chris-bache-phd.txt",
+    "youtube_id": "njiw2enxy40",
+    "youtube_url": "https://youtu.be/njiw2enxy40",
+    "web_url": "",
+    "duration_hms": "1:20:11",
+    "media": {
+      "audio": "downloads/audio/2026-03-06-iars-reincarnation-book-club-with-chris-bache-phd.mp3",
+      "video": "downloads/video/2026-03-06-iars-reincarnation-book-club-with-chris-bache-phd.mp4"
+    },
+    "blob_url": "",
+    "raw_url": "",
+    "published": "2026-03-06",
+    "status": "metadata-reviewed",
+    "notes": "Agent-reviewed public YouTube metadata. Proceed through captions, audio staging, diarization, speaker identity QA, transcript build, fixity, RAG, web sync, and playlist sync before publication complete.",
+    "ingestion": {
+      "schema": "bache.ingestion.record_state.v1",
+      "state": "metadata_reviewed",
+      "policy": "operator-supplied",
+      "decision_reason": "operator_supplied_public_url_batch",
+      "reviewed_at_utc": "2026-07-15T04:45:24.250981+00:00",
+      "slug": "2026-03-06-iars-reincarnation-book-club-with-chris-bache-phd",
+      "required_next_states": [
+        "captions_captured",
+        "audio_staged",
+        "diarized",
+        "speaker_identity_scored",
+        "transcript_built",
+        "corpus_finalized",
+        "rag_rebuilt_and_checked",
+        "web_synced_built_deployed",
+        "playlist_synced"
+      ]
+    }
+  },
+  {
+    "archival_title": "73 LSD Sessions / Journey through the Mind of the Universe?",
+    "channel": "Magical Egypt",
+    "source_type": "interview",
+    "transcript": "sources/transcripts/2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe.md",
+    "diarist": "sources/diarist/2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe.txt",
+    "youtube_id": "KgqQiLkg1mM",
+    "youtube_url": "https://youtu.be/KgqQiLkg1mM",
+    "web_url": "",
+    "duration_hms": "29:04",
+    "media": {
+      "audio": "downloads/audio/2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe.mp3",
+      "video": "downloads/video/2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe.mp4"
+    },
+    "blob_url": "",
+    "raw_url": "",
+    "published": "2026-05-31",
+    "status": "metadata-reviewed",
+    "notes": "Agent-reviewed public YouTube metadata. Proceed through captions, audio staging, diarization, speaker identity QA, transcript build, fixity, RAG, web sync, and playlist sync before publication complete.",
+    "ingestion": {
+      "schema": "bache.ingestion.record_state.v1",
+      "state": "metadata_reviewed",
+      "policy": "operator-supplied",
+      "decision_reason": "operator_supplied_public_url_batch",
+      "reviewed_at_utc": "2026-07-15T04:45:24.250985+00:00",
+      "slug": "2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe",
+      "required_next_states": [
+        "captions_captured",
+        "audio_staged",
+        "diarized",
+        "speaker_identity_scored",
+        "transcript_built",
+        "corpus_finalized",
+        "rag_rebuilt_and_checked",
+        "web_synced_built_deployed",
+        "playlist_synced"
+      ]
+    }
+  }
+]

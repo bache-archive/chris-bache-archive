@@ -115,6 +115,30 @@ def load_index(index_path: Path, verbose: bool=False) -> list[dict]:
     info(verbose, f"Loaded {len(items)} items from {repo_rel(index_path)}")
     return items
 
+def filter_items(items: list[dict], only: list[str] | None) -> list[dict]:
+    if not only:
+        return items
+    wanted = {item.strip() for item in only if item.strip()}
+    if not wanted:
+        return items
+    out = []
+    for item in items:
+        values = {
+            (item.get("slug") or "").strip(),
+            (item.get("youtube_id") or "").strip(),
+            (item.get("youtube_url") or "").strip(),
+        }
+        if wanted & values:
+            out.append(item)
+    missing = sorted(wanted - {value for item in out for value in [
+        (item.get("slug") or "").strip(),
+        (item.get("youtube_id") or "").strip(),
+        (item.get("youtube_url") or "").strip(),
+    ]})
+    if missing:
+        raise ValueError(f"--only matched no index item(s): {', '.join(missing)}")
+    return out
+
 def video_attempts(url: str,
                    out_mp4: Path,
                    browser_cookies: Optional[str],
@@ -216,11 +240,13 @@ def main() -> int:
     parser.add_argument("--audio-dir", help="Directory for MP3 outputs.")
     parser.add_argument("--browser", default=None, help="cookies-from-browser value, e.g. chrome:Default (used only for fallbacks).")
     parser.add_argument("--mode", choices=["audio", "video", "both"], default="both")
+    parser.add_argument("--only", nargs="*", help="Restrict to slug, youtube_id, or youtube_url")
     parser.add_argument("--verbose", action="store_true")
     args = parser.parse_args()
 
     index_path = Path(args.index).resolve()
-    items = load_index(index_path, verbose=args.verbose)
+    items = filter_items(load_index(index_path, verbose=args.verbose), args.only)
+    info(args.verbose, f"Selected {len(items)} item(s)")
 
     # Defaults for out dirs (mirror your patch preview structure if index is inside it)
     if args.video_dir:
@@ -294,7 +320,11 @@ def main() -> int:
 
     # write manifest
     with manifest_path.open("w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=["slug", "youtube_url", "status", "video_path", "audio_path", "stderr_tail"])
+        w = csv.DictWriter(
+            f,
+            fieldnames=["slug", "youtube_url", "status", "video_path", "audio_path", "stderr_tail"],
+            lineterminator="\n",
+        )
         w.writeheader()
         w.writerows(rows)
 

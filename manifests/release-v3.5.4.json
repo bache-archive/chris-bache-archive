@@ -1,7 +1,7 @@
 {
   "version": "v3.5.4",
   "source": "checksums/RELEASE-v3.5.4.sha256",
-  "generated": "2026-07-13T01:43:25Z",
+  "generated": "2026-07-15T05:49:12Z",
   "files": [
     {
       "path": "CONFIG.md",
@@ -37,7 +37,7 @@
     },
     {
       "path": "index.json",
-      "sha256": "eb683cd513c790f9b389cf82500a360a690a25c96d51c2421e1eb0e169d4dc18"
+      "sha256": "c098c7881f0cb9e2d42431f02d0112012b3046192ec4cd5d825078233e44024e"
     },
     {
       "path": "index.md",
@@ -109,11 +109,11 @@
     },
     {
       "path": "sitemap-transcripts.xml",
-      "sha256": "3cbfd0a08fd8d8e2e664d5a33c740e6e96da926bed7de7cf6433ce8d266089a6"
+      "sha256": "bfb599b7e5afd37b8d2c3e7fcaf5694dc6b939d5e201f8634d7d019676f3bfe0"
     },
     {
       "path": "sitemap.xml",
-      "sha256": "f7e15e4e00d0e11cce715c00c9a83093b6071fc6df2987d25e159992d5ce4025"
+      "sha256": "493da8ff649b85bd9c728a8120d6037c22ef4e5c858d0ea1ad3788a15f3ba9e3"
     },
     {
       "path": "sources/books/dned/work.json",
@@ -764,6 +764,10 @@
       "sha256": "e8ae899a3642c57c45b304fe049330e47ed6dce019a62c60de81c408668df625"
     },
     {
+      "path": "sources/captions/2025-09-23-reincarnation-deep-time-and-the-diamond-soul-with-christopher-bache-insights.vtt",
+      "sha256": "d041733d87579e99c9e30798b6684849d84d3f9fb935e0c9dba24913dcf03904"
+    },
+    {
       "path": "sources/captions/2025-10-15-collective-karma-and-reincarnation-with-human.vtt",
       "sha256": "af8ea8e7de3daa7807fbe20aa60a303060f4bb1c9d0f0ac2e219ea4a722f6300"
     },
@@ -776,8 +780,72 @@
       "sha256": "fba42b626d5dbb7cd914467943a7b78985ed2c6d72bc3ae65cd3ae189076e08d"
     },
     {
+      "path": "sources/captions/2025-11-17-an-open-ended-conversation-with-chris-bache-human.vtt",
+      "sha256": "57b35cceb89d0b041d82c81ff105aa5a5108ec9dc47053d704e7eaf4adad6ce8"
+    },
+    {
+      "path": "sources/captions/2025-11-17-an-open-ended-conversation-with-chris-bache.vtt",
+      "sha256": "5905d885a99ec561d98c010af65ebef8aa23ee3dba5c5b3cfc3e310babaa9d7d"
+    },
+    {
+      "path": "sources/captions/2025-11-22-lsd-and-the-edge-of-human-experience-dr-chris-bache-on.vtt",
+      "sha256": "b0a9f8b6730e1ffc4ea6028b5c309044e60ece8a05f9bbba629bc2f10395c736"
+    },
+    {
+      "path": "sources/captions/2026-01-08-psychedelics-reincarnation-death-the-future-of-humanity-with-christopher-bache.vtt",
+      "sha256": "3e1284434332dc7053a3e09d475af5b6e16f6bc2fa51734dfc2cee45ef60e7eb"
+    },
+    {
+      "path": "sources/captions/2026-01-29-consciousness-beyond-death-findings-from-20-years-of-lsd-research-christopher-human.vtt",
+      "sha256": "898b4c3b3f72c735de8383da10c690cf745fd98b64900eaedd8186295680b67d"
+    },
+    {
+      "path": "sources/captions/2026-01-29-consciousness-beyond-death-findings-from-20-years-of-lsd-research-christopher.vtt",
+      "sha256": "05a8d4fde9f6e9c8cb7091e157ee56cb411368e5e91981e801f242c81f358ee8"
+    },
+    {
+      "path": "sources/captions/2026-02-02-in-the-living-classroom-with-chris-bache.vtt",
+      "sha256": "38ea4bc2d67c19b75205bfd2fa63343e91c1fc2d64206747f01a0268a9e09994"
+    },
+    {
+      "path": "sources/captions/2026-02-03-36-what-20-years-of-lsd-revealed-about-suffering-healing-the.vtt",
+      "sha256": "521bd6f9349a32d12cc74f9b7562fd05c19f9d795502f51013efb330ee6ff44a"
+    },
+    {
+      "path": "sources/captions/2026-02-12-rethinking-human-existence-gods-plan-and-purpose-for-humanity-with-christopher.vtt",
+      "sha256": "02e2dd47d544fc47da3b5524ca39bd682247224a4b5a1ddd09df8bfa9a732684"
+    },
+    {
+      "path": "sources/captions/2026-03-05-interview-with-chris-bache-ph-d-our-spiritual-awakening-and-transformation.vtt",
+      "sha256": "fb4f3c021d9f146c096253718a1e1d4a7aed4ceb865f46279db0490218b190a4"
+    },
+    {
+      "path": "sources/captions/2026-03-06-iars-reincarnation-book-club-with-chris-bache-phd.vtt",
+      "sha256": "7e6a4c61076c7967165ab256f3cfdc49a8b34e89ece031f988e44f9a4bc32c51"
+    },
+    {
+      "path": "sources/captions/2026-03-15-what-altered-states-reveal-about-the-nature-of-reality.vtt",
+      "sha256": "804b55859af28a99c8dd8814e0c7eadf11d28101b87fb53ddfd873667d4784c9"
+    },
+    {
+      "path": "sources/captions/2026-05-20-the-new-shaman-how-lsd-gave-christopher-bache-the-keys-to.vtt",
+      "sha256": "a355639f913c6e0c2954a5dee89d306b09175b3adbcb090f8d6ee79b4eefd063"
+    },
+    {
+      "path": "sources/captions/2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe.vtt",
+      "sha256": "2cb1cfc0ab64187cdcb5c649d4e0306efc5f4c24194d315f435b9e030d8efc87"
+    },
+    {
+      "path": "sources/captions/2026-06-23-dr-chris-bache-the-impossible-question-speira.vtt",
+      "sha256": "54dea96b765f750fed64b2db4445f37d3faae50c0d58585bc20fb68260fb0d83"
+    },
+    {
+      "path": "sources/captions/2026-06-30-dr-chris-bache-author-of-lsd-and-the-mind-of-the.vtt",
+      "sha256": "43f641eea063de32974855a3a2fc1944c27ab41616da5cd1b78ebfb09d50e15f"
+    },
+    {
       "path": "sources/captions/_captions_manifest.csv",
-      "sha256": "48421a4b8ba84221291ddefc49defcaea424d866ca5ebb3d33f509f4d8b3798d"
+      "sha256": "eb27f1ad754dc03403b3ea7af832bd7a4c9e2ffff710792e709f5d13bb8dc99b"
     },
     {
       "path": "sources/captions/_captions_missing.json",

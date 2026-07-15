@@ -1,0 +1,55 @@
+{
+  "schema": "bache.diarization_smoke_report.v1",
+  "created_at_local": "2026-07-15T01:45:00-04:00",
+  "youtube_id": "KgqQiLkg1mM",
+  "slug": "2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe",
+  "source_audio": "downloads/audio/2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe.mp3",
+  "smoke_audio": "build/diarization-smoke/kgq-60s.mp3",
+  "smoke_outputs": {
+    "diarization_json": "build/diarization-smoke/kgq-60s.json",
+    "diarization_srt": "build/diarization-smoke/kgq-60s.srt",
+    "diarization_txt": "build/diarization-smoke/kgq-60s.txt",
+    "speaker_identity_json": "build/diarization-smoke/kgq-60s.speaker_identity.json"
+  },
+  "archival_status": "non_archival_smoke_test_only",
+  "full_length_attempt": {
+    "command": "make diarize DIAR_PYTHON=.venv-diarize/bin/python SLUG=2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe AUDIO=downloads/audio/2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe.mp3 DIAR_MODEL=large-v3",
+    "result": "terminated_by_agent_after_about_50_minutes",
+    "reason": "foreground CPU large-v3 ASR remained active but produced no diarist artifacts within operationally useful time",
+    "artifacts_created": []
+  },
+  "smoke_diarization": {
+    "whisper_model": "tiny",
+    "compute_type": "int8",
+    "duration_seconds": 60,
+    "diarization_failed": false,
+    "num_speakers_detected": 2,
+    "speakers": [
+      "SPEAKER_00",
+      "SPEAKER_01"
+    ]
+  },
+  "smoke_speaker_identity": {
+    "tool_completed": true,
+    "suggested_chris_speaker": "SPEAKER_01",
+    "speaker_scores": [
+      {
+        "speaker": "SPEAKER_01",
+        "mean_similarity_to_chris_reference": 0.7213,
+        "sample_count": 3
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "mean_similarity_to_chris_reference": 0.457,
+        "sample_count": 1
+      }
+    ],
+    "review_required": true
+  },
+  "agent_conclusion": {
+    "pyannote_gated_access": "working",
+    "pyannote_4_output_compatibility": "fixed_in_tools/diarist/diarize_talk.py",
+    "speaker_identity_tool_path": "working_on_smoke_artifact",
+    "bulk_processing_requirement": "use background worker, GPU, smaller ASR model, or resumable job orchestration before unattended batch diarization"
+  }
+}

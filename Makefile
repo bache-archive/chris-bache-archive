@@ -46,6 +46,7 @@ BUILD_SITE_PY      := tools/site/build_site.py
 SITEMAPS_PY        := tools/site/generate_sitemaps.py
 PREPARE_YT_BATCH   := tools/intake/prepare_youtube_batch.py
 FETCH_YT_METADATA  := tools/intake/fetch_youtube_metadata.py
+PROMOTE_YT_BATCH   := tools/intake/promote_youtube_batch.py
 FIND_YT_VIDEOS     := tools/intake/find_bache_videos.py
 YT_PLAYLIST_SYNC   := tools/intake/yt_playlist_sync.py
 SUMMARIZE_YT_BATCH := tools/intake/summarize_youtube_batch.py
@@ -62,6 +63,8 @@ DISCOVERY_MIN_SCORE ?= 2
 PLAYLIST_ID        ?=
 PLAYLIST_EXTRA     ?= --dry-run
 FETCH_ONLY_NEW     ?= 1
+PROMOTE_POLICY     ?= operator-supplied
+AUDIO_ONLY         ?=
 AUDIO              ?= downloads/audio/$(SLUG).mp3
 DIAR_OUT           ?= sources/diarist
 DIAR_PYTHON        ?= python3
@@ -172,7 +175,7 @@ fixity: $(RELEASE_SHA)
 # ------------------------------------------------------------------------------
 # New: YouTube → captions → diarist → transcript → index → media → site
 # ------------------------------------------------------------------------------
-.PHONY: help install-ingest-deps find-youtube-candidates prepare-youtube-batch fetch-youtube-metadata youtube-batch-status playlist-sync speaker-reference speaker-reference-clips speaker-identify add captions diarize diarist transcript index media site sitemaps publish quick
+.PHONY: help install-ingest-deps find-youtube-candidates prepare-youtube-batch fetch-youtube-metadata promote-youtube-batch merge-youtube-batch-preview captions-from-batch audio-from-batch youtube-batch-status playlist-sync speaker-reference speaker-reference-clips speaker-identify add captions diarize diarist transcript index media site sitemaps publish quick
 
 help:
 	@echo "Usage:"
@@ -180,6 +183,10 @@ help:
 	@echo "  make find-youtube-candidates DISCOVERY_AFTER=YYYY-MM-DD DISCOVERY_BEFORE=YYYY-MM-DD"
 	@echo "  make prepare-youtube-batch BATCH_URLS=<urls.txt> BATCH_OUT=<patch-dir>"
 	@echo "  make fetch-youtube-metadata BATCH_URLS=<urls.txt> BATCH_OUT=<patch-dir>  # defaults to new IDs only"
+	@echo "  make promote-youtube-batch BATCH_OUT=<patch-dir> PROMOTE_POLICY=operator-supplied|heuristic"
+	@echo "  make merge-youtube-batch-preview BATCH_OUT=<patch-dir>"
+	@echo "  make captions-from-batch BATCH_OUT=<patch-dir>"
+	@echo "  make audio-from-batch BATCH_OUT=<patch-dir> AUDIO_ONLY=<slug-or-youtube-id>"
 	@echo "  make youtube-batch-status BATCH_OUT=<patch-dir>"
 	@echo "  make playlist-sync PLAYLIST_ID=<playlist-id> PLAYLIST_EXTRA='--dry-run'"
 	@echo "  make speaker-reference"
@@ -239,6 +246,42 @@ fetch-youtube-metadata: prepare-youtube-batch
 	python3 "$(FETCH_YT_METADATA)" \
 	  --urls "$$urls_file" \
 	  --out-dir "$(BATCH_OUT)"
+
+promote-youtube-batch:
+	@test -f "$(PROMOTE_YT_BATCH)" || { echo "ERROR: $(PROMOTE_YT_BATCH) not found"; exit 1; }
+	@test -f "$(BATCH_OUT)/work/index.patch.metadata.json" || { echo "ERROR: $(BATCH_OUT)/work/index.patch.metadata.json not found"; exit 1; }
+	@python3 "$(PROMOTE_YT_BATCH)" \
+	  --batch-out "$(BATCH_OUT)" \
+	  --index "$(INDEX_JSON)" \
+	  --policy "$(PROMOTE_POLICY)"
+
+merge-youtube-batch-preview:
+	@test -f "$(BATCH_OUT)/work/index.patch.json" || { echo "ERROR: $(BATCH_OUT)/work/index.patch.json not found; run make promote-youtube-batch first"; exit 1; }
+	@python3 tools/curation/merge_index.py \
+	  --base "$(INDEX_JSON)" \
+	  --patch "$(BATCH_OUT)/work/index.patch.json" \
+	  --out "$(BATCH_OUT)/outputs/index.merged.json"
+
+captions-from-batch:
+	@test -f "$(BATCH_OUT)/work/index.patch.json" || { echo "ERROR: $(BATCH_OUT)/work/index.patch.json not found; run make promote-youtube-batch first"; exit 1; }
+	@python3 "$(CAPTION_SCRIPT)" \
+	  --index "$(BATCH_OUT)/work/index.patch.json" \
+	  --only-from-patch "$(BATCH_OUT)/work/index.patch.json"
+	@mkdir -p "$(BATCH_OUT)/outputs"
+	@if [ -f sources/captions/_captions_manifest.csv ]; then cp sources/captions/_captions_manifest.csv "$(BATCH_OUT)/outputs/captions_manifest.csv"; fi
+
+audio-from-batch:
+	@test -f "$(BATCH_OUT)/work/download.index.json" || { echo "ERROR: $(BATCH_OUT)/work/download.index.json not found; run make promote-youtube-batch first"; exit 1; }
+	@set -e; \
+	only_arg=""; \
+	if [ -n "$(AUDIO_ONLY)" ]; then only_arg="--only $(AUDIO_ONLY)"; fi; \
+	python3 tools/media/download_media.py \
+	  --index "$(BATCH_OUT)/work/download.index.json" \
+	  --mode audio \
+	  --audio-dir downloads/audio \
+	  $$only_arg
+	@mkdir -p "$(BATCH_OUT)/outputs"
+	@if [ -f "$(BATCH_OUT)/work/downloads/_media_manifest.csv" ]; then cp "$(BATCH_OUT)/work/downloads/_media_manifest.csv" "$(BATCH_OUT)/outputs/media_manifest.csv"; fi
 
 youtube-batch-status:
 	@test -f "$(SUMMARIZE_YT_BATCH)" || { echo "ERROR: $(SUMMARIZE_YT_BATCH) not found"; exit 1; }

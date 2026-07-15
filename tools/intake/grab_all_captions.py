@@ -73,6 +73,11 @@ def clean_tmp(tmpdir: Path) -> None:
         if p.is_file():
             p.unlink()
 
+def normalize_vtt(path: Path) -> None:
+    text = path.read_text(encoding="utf-8")
+    lines = [line.rstrip(" \t") for line in text.splitlines()]
+    path.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
+
 def build_yt_auth_args(args: argparse.Namespace) -> str:
     extra = []
     if args.yt_cookies_from_browser:
@@ -217,6 +222,7 @@ def main():
             if auto_path.exists():
                 auto_path.unlink()
             shutil.move(str(auto_vtt), str(auto_path))
+            normalize_vtt(auto_path)
             wrote_auto = True
 
         # 2) HUMAN captions
@@ -228,6 +234,7 @@ def main():
             if human_path.exists():
                 human_path.unlink()
             shutil.move(str(human_vtt), str(human_path))
+            normalize_vtt(human_path)
             wrote_human = True
 
         # Record result
@@ -251,7 +258,11 @@ def main():
     # Write manifest CSV
     man_path = CAP_DIR / "_captions_manifest.csv"
     with man_path.open("w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=["talk_id", "youtube_id", "status", "auto_path", "human_path"])
+        w = csv.DictWriter(
+            f,
+            fieldnames=["talk_id", "youtube_id", "status", "auto_path", "human_path"],
+            lineterminator="\n",
+        )
         w.writeheader()
         w.writerows(manifest_rows)
 

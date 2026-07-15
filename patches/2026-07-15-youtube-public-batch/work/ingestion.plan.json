@@ -1,0 +1,378 @@
+{
+  "schema": "bache.youtube_ingestion_plan.v1",
+  "batch_dir": "patches/2026-07-15-youtube-public-batch",
+  "policy": "operator-supplied",
+  "counts": {
+    "candidates": 15,
+    "accepted": 15,
+    "rejected": 0
+  },
+  "commands": {
+    "merge_index_preview": "python3 tools/curation/merge_index.py --base index.json --patch patches/2026-07-15-youtube-public-batch/work/index.patch.json --out patches/2026-07-15-youtube-public-batch/outputs/index.merged.json",
+    "capture_captions_for_batch": "python3 tools/intake/grab_all_captions.py --index patches/2026-07-15-youtube-public-batch/work/index.patch.json --only-from-patch patches/2026-07-15-youtube-public-batch/work/index.patch.json",
+    "download_audio_for_batch": "python3 tools/media/download_media.py --index patches/2026-07-15-youtube-public-batch/work/download.index.json --mode audio --audio-dir downloads/audio",
+    "refresh_batch_status": "make youtube-batch-status BATCH_OUT=patches/2026-07-15-youtube-public-batch"
+  },
+  "items": [
+    {
+      "slug": "2026-01-29-consciousness-beyond-death-findings-from-20-years-of-lsd-research-christopher",
+      "youtube_id": "ovU2Esv62CU",
+      "youtube_url": "https://youtu.be/ovU2Esv62CU",
+      "title": "Consciousness Beyond Death: Findings from 20 Years of LSD Research — Christopher Bache",
+      "published": "2026-01-29",
+      "artifacts": {
+        "captions_auto": "sources/captions/2026-01-29-consciousness-beyond-death-findings-from-20-years-of-lsd-research-christopher.vtt",
+        "captions_human": "sources/captions/2026-01-29-consciousness-beyond-death-findings-from-20-years-of-lsd-research-christopher-human.vtt",
+        "audio": "downloads/audio/2026-01-29-consciousness-beyond-death-findings-from-20-years-of-lsd-research-christopher.mp3",
+        "diarist_txt": "sources/diarist/2026-01-29-consciousness-beyond-death-findings-from-20-years-of-lsd-research-christopher.txt",
+        "diarist_srt": "sources/diarist/2026-01-29-consciousness-beyond-death-findings-from-20-years-of-lsd-research-christopher.srt",
+        "diarist_json": "sources/diarist/2026-01-29-consciousness-beyond-death-findings-from-20-years-of-lsd-research-christopher.json",
+        "speaker_identity_report": "reports/diarization/2026-01-29-consciousness-beyond-death-findings-from-20-years-of-lsd-research-christopher.speaker_identity.json",
+        "transcript": "sources/transcripts/2026-01-29-consciousness-beyond-death-findings-from-20-years-of-lsd-research-christopher.md"
+      },
+      "commands": [
+        "python3 tools/intake/grab_all_captions.py --index <batch>/work/index.patch.json --only 2026-01-29-consciousness-beyond-death-findings-from-20-years-of-lsd-research-christopher",
+        "python3 tools/media/download_media.py --index <batch>/work/download.index.json --mode audio --audio-dir downloads/audio",
+        "make diarize DIAR_PYTHON=.venv-diarize/bin/python SLUG=2026-01-29-consciousness-beyond-death-findings-from-20-years-of-lsd-research-christopher AUDIO=downloads/audio/2026-01-29-consciousness-beyond-death-findings-from-20-years-of-lsd-research-christopher.mp3",
+        "make speaker-identify SPEAKER_PYTHON=.venv-speakers/bin/python SLUG=2026-01-29-consciousness-beyond-death-findings-from-20-years-of-lsd-research-christopher AUDIO=downloads/audio/2026-01-29-consciousness-beyond-death-findings-from-20-years-of-lsd-research-christopher.mp3",
+        "make transcript SLUG=2026-01-29-consciousness-beyond-death-findings-from-20-years-of-lsd-research-christopher"
+      ]
+    },
+    {
+      "slug": "2026-03-05-interview-with-chris-bache-ph-d-our-spiritual-awakening-and-transformation",
+      "youtube_id": "PXvcNCrdTEw",
+      "youtube_url": "https://youtu.be/PXvcNCrdTEw",
+      "title": "Interview with Chris Bache, Ph.D. - Our Spiritual Awakening and Transformation into the New Human",
+      "published": "2026-03-05",
+      "artifacts": {
+        "captions_auto": "sources/captions/2026-03-05-interview-with-chris-bache-ph-d-our-spiritual-awakening-and-transformation.vtt",
+        "captions_human": "sources/captions/2026-03-05-interview-with-chris-bache-ph-d-our-spiritual-awakening-and-transformation-human.vtt",
+        "audio": "downloads/audio/2026-03-05-interview-with-chris-bache-ph-d-our-spiritual-awakening-and-transformation.mp3",
+        "diarist_txt": "sources/diarist/2026-03-05-interview-with-chris-bache-ph-d-our-spiritual-awakening-and-transformation.txt",
+        "diarist_srt": "sources/diarist/2026-03-05-interview-with-chris-bache-ph-d-our-spiritual-awakening-and-transformation.srt",
+        "diarist_json": "sources/diarist/2026-03-05-interview-with-chris-bache-ph-d-our-spiritual-awakening-and-transformation.json",
+        "speaker_identity_report": "reports/diarization/2026-03-05-interview-with-chris-bache-ph-d-our-spiritual-awakening-and-transformation.speaker_identity.json",
+        "transcript": "sources/transcripts/2026-03-05-interview-with-chris-bache-ph-d-our-spiritual-awakening-and-transformation.md"
+      },
+      "commands": [
+        "python3 tools/intake/grab_all_captions.py --index <batch>/work/index.patch.json --only 2026-03-05-interview-with-chris-bache-ph-d-our-spiritual-awakening-and-transformation",
+        "python3 tools/media/download_media.py --index <batch>/work/download.index.json --mode audio --audio-dir downloads/audio",
+        "make diarize DIAR_PYTHON=.venv-diarize/bin/python SLUG=2026-03-05-interview-with-chris-bache-ph-d-our-spiritual-awakening-and-transformation AUDIO=downloads/audio/2026-03-05-interview-with-chris-bache-ph-d-our-spiritual-awakening-and-transformation.mp3",
+        "make speaker-identify SPEAKER_PYTHON=.venv-speakers/bin/python SLUG=2026-03-05-interview-with-chris-bache-ph-d-our-spiritual-awakening-and-transformation AUDIO=downloads/audio/2026-03-05-interview-with-chris-bache-ph-d-our-spiritual-awakening-and-transformation.mp3",
+        "make transcript SLUG=2026-03-05-interview-with-chris-bache-ph-d-our-spiritual-awakening-and-transformation"
+      ]
+    },
+    {
+      "slug": "2025-09-23-reincarnation-deep-time-and-the-diamond-soul-with-christopher-bache-insights",
+      "youtube_id": "Nu8Dk-UdhYM",
+      "youtube_url": "https://youtu.be/Nu8Dk-UdhYM",
+      "title": "Reincarnation, Deep Time and the Diamond Soul, with Christopher Bache | Insights At The Edge",
+      "published": "2025-09-23",
+      "artifacts": {
+        "captions_auto": "sources/captions/2025-09-23-reincarnation-deep-time-and-the-diamond-soul-with-christopher-bache-insights.vtt",
+        "captions_human": "sources/captions/2025-09-23-reincarnation-deep-time-and-the-diamond-soul-with-christopher-bache-insights-human.vtt",
+        "audio": "downloads/audio/2025-09-23-reincarnation-deep-time-and-the-diamond-soul-with-christopher-bache-insights.mp3",
+        "diarist_txt": "sources/diarist/2025-09-23-reincarnation-deep-time-and-the-diamond-soul-with-christopher-bache-insights.txt",
+        "diarist_srt": "sources/diarist/2025-09-23-reincarnation-deep-time-and-the-diamond-soul-with-christopher-bache-insights.srt",
+        "diarist_json": "sources/diarist/2025-09-23-reincarnation-deep-time-and-the-diamond-soul-with-christopher-bache-insights.json",
+        "speaker_identity_report": "reports/diarization/2025-09-23-reincarnation-deep-time-and-the-diamond-soul-with-christopher-bache-insights.speaker_identity.json",
+        "transcript": "sources/transcripts/2025-09-23-reincarnation-deep-time-and-the-diamond-soul-with-christopher-bache-insights.md"
+      },
+      "commands": [
+        "python3 tools/intake/grab_all_captions.py --index <batch>/work/index.patch.json --only 2025-09-23-reincarnation-deep-time-and-the-diamond-soul-with-christopher-bache-insights",
+        "python3 tools/media/download_media.py --index <batch>/work/download.index.json --mode audio --audio-dir downloads/audio",
+        "make diarize DIAR_PYTHON=.venv-diarize/bin/python SLUG=2025-09-23-reincarnation-deep-time-and-the-diamond-soul-with-christopher-bache-insights AUDIO=downloads/audio/2025-09-23-reincarnation-deep-time-and-the-diamond-soul-with-christopher-bache-insights.mp3",
+        "make speaker-identify SPEAKER_PYTHON=.venv-speakers/bin/python SLUG=2025-09-23-reincarnation-deep-time-and-the-diamond-soul-with-christopher-bache-insights AUDIO=downloads/audio/2025-09-23-reincarnation-deep-time-and-the-diamond-soul-with-christopher-bache-insights.mp3",
+        "make transcript SLUG=2025-09-23-reincarnation-deep-time-and-the-diamond-soul-with-christopher-bache-insights"
+      ]
+    },
+    {
+      "slug": "2026-06-23-dr-chris-bache-the-impossible-question-speira",
+      "youtube_id": "xcI-NOVnRoY",
+      "youtube_url": "https://youtu.be/xcI-NOVnRoY",
+      "title": "Dr Chris Bache | The Impossible Question | Speira",
+      "published": "2026-06-23",
+      "artifacts": {
+        "captions_auto": "sources/captions/2026-06-23-dr-chris-bache-the-impossible-question-speira.vtt",
+        "captions_human": "sources/captions/2026-06-23-dr-chris-bache-the-impossible-question-speira-human.vtt",
+        "audio": "downloads/audio/2026-06-23-dr-chris-bache-the-impossible-question-speira.mp3",
+        "diarist_txt": "sources/diarist/2026-06-23-dr-chris-bache-the-impossible-question-speira.txt",
+        "diarist_srt": "sources/diarist/2026-06-23-dr-chris-bache-the-impossible-question-speira.srt",
+        "diarist_json": "sources/diarist/2026-06-23-dr-chris-bache-the-impossible-question-speira.json",
+        "speaker_identity_report": "reports/diarization/2026-06-23-dr-chris-bache-the-impossible-question-speira.speaker_identity.json",
+        "transcript": "sources/transcripts/2026-06-23-dr-chris-bache-the-impossible-question-speira.md"
+      },
+      "commands": [
+        "python3 tools/intake/grab_all_captions.py --index <batch>/work/index.patch.json --only 2026-06-23-dr-chris-bache-the-impossible-question-speira",
+        "python3 tools/media/download_media.py --index <batch>/work/download.index.json --mode audio --audio-dir downloads/audio",
+        "make diarize DIAR_PYTHON=.venv-diarize/bin/python SLUG=2026-06-23-dr-chris-bache-the-impossible-question-speira AUDIO=downloads/audio/2026-06-23-dr-chris-bache-the-impossible-question-speira.mp3",
+        "make speaker-identify SPEAKER_PYTHON=.venv-speakers/bin/python SLUG=2026-06-23-dr-chris-bache-the-impossible-question-speira AUDIO=downloads/audio/2026-06-23-dr-chris-bache-the-impossible-question-speira.mp3",
+        "make transcript SLUG=2026-06-23-dr-chris-bache-the-impossible-question-speira"
+      ]
+    },
+    {
+      "slug": "2025-11-17-an-open-ended-conversation-with-chris-bache",
+      "youtube_id": "nFZfqoBbK_U",
+      "youtube_url": "https://youtu.be/nFZfqoBbK_U",
+      "title": "An Open-Ended Conversation with Chris Bache",
+      "published": "2025-11-17",
+      "artifacts": {
+        "captions_auto": "sources/captions/2025-11-17-an-open-ended-conversation-with-chris-bache.vtt",
+        "captions_human": "sources/captions/2025-11-17-an-open-ended-conversation-with-chris-bache-human.vtt",
+        "audio": "downloads/audio/2025-11-17-an-open-ended-conversation-with-chris-bache.mp3",
+        "diarist_txt": "sources/diarist/2025-11-17-an-open-ended-conversation-with-chris-bache.txt",
+        "diarist_srt": "sources/diarist/2025-11-17-an-open-ended-conversation-with-chris-bache.srt",
+        "diarist_json": "sources/diarist/2025-11-17-an-open-ended-conversation-with-chris-bache.json",
+        "speaker_identity_report": "reports/diarization/2025-11-17-an-open-ended-conversation-with-chris-bache.speaker_identity.json",
+        "transcript": "sources/transcripts/2025-11-17-an-open-ended-conversation-with-chris-bache.md"
+      },
+      "commands": [
+        "python3 tools/intake/grab_all_captions.py --index <batch>/work/index.patch.json --only 2025-11-17-an-open-ended-conversation-with-chris-bache",
+        "python3 tools/media/download_media.py --index <batch>/work/download.index.json --mode audio --audio-dir downloads/audio",
+        "make diarize DIAR_PYTHON=.venv-diarize/bin/python SLUG=2025-11-17-an-open-ended-conversation-with-chris-bache AUDIO=downloads/audio/2025-11-17-an-open-ended-conversation-with-chris-bache.mp3",
+        "make speaker-identify SPEAKER_PYTHON=.venv-speakers/bin/python SLUG=2025-11-17-an-open-ended-conversation-with-chris-bache AUDIO=downloads/audio/2025-11-17-an-open-ended-conversation-with-chris-bache.mp3",
+        "make transcript SLUG=2025-11-17-an-open-ended-conversation-with-chris-bache"
+      ]
+    },
+    {
+      "slug": "2026-06-30-dr-chris-bache-author-of-lsd-and-the-mind-of-the",
+      "youtube_id": "VuQWEffN8x0",
+      "youtube_url": "https://youtu.be/VuQWEffN8x0",
+      "title": "Dr. Chris Bache, author of \"LSD and the Mind of the Universe\"",
+      "published": "2026-06-30",
+      "artifacts": {
+        "captions_auto": "sources/captions/2026-06-30-dr-chris-bache-author-of-lsd-and-the-mind-of-the.vtt",
+        "captions_human": "sources/captions/2026-06-30-dr-chris-bache-author-of-lsd-and-the-mind-of-the-human.vtt",
+        "audio": "downloads/audio/2026-06-30-dr-chris-bache-author-of-lsd-and-the-mind-of-the.mp3",
+        "diarist_txt": "sources/diarist/2026-06-30-dr-chris-bache-author-of-lsd-and-the-mind-of-the.txt",
+        "diarist_srt": "sources/diarist/2026-06-30-dr-chris-bache-author-of-lsd-and-the-mind-of-the.srt",
+        "diarist_json": "sources/diarist/2026-06-30-dr-chris-bache-author-of-lsd-and-the-mind-of-the.json",
+        "speaker_identity_report": "reports/diarization/2026-06-30-dr-chris-bache-author-of-lsd-and-the-mind-of-the.speaker_identity.json",
+        "transcript": "sources/transcripts/2026-06-30-dr-chris-bache-author-of-lsd-and-the-mind-of-the.md"
+      },
+      "commands": [
+        "python3 tools/intake/grab_all_captions.py --index <batch>/work/index.patch.json --only 2026-06-30-dr-chris-bache-author-of-lsd-and-the-mind-of-the",
+        "python3 tools/media/download_media.py --index <batch>/work/download.index.json --mode audio --audio-dir downloads/audio",
+        "make diarize DIAR_PYTHON=.venv-diarize/bin/python SLUG=2026-06-30-dr-chris-bache-author-of-lsd-and-the-mind-of-the AUDIO=downloads/audio/2026-06-30-dr-chris-bache-author-of-lsd-and-the-mind-of-the.mp3",
+        "make speaker-identify SPEAKER_PYTHON=.venv-speakers/bin/python SLUG=2026-06-30-dr-chris-bache-author-of-lsd-and-the-mind-of-the AUDIO=downloads/audio/2026-06-30-dr-chris-bache-author-of-lsd-and-the-mind-of-the.mp3",
+        "make transcript SLUG=2026-06-30-dr-chris-bache-author-of-lsd-and-the-mind-of-the"
+      ]
+    },
+    {
+      "slug": "2025-11-22-lsd-and-the-edge-of-human-experience-dr-chris-bache-on",
+      "youtube_id": "7R_k6aF-9gk",
+      "youtube_url": "https://youtu.be/7R_k6aF-9gk",
+      "title": "LSD and the Edge of Human Experience: Dr. Chris Bache on his Twenty Year Exploration of the Unknown.",
+      "published": "2025-11-22",
+      "artifacts": {
+        "captions_auto": "sources/captions/2025-11-22-lsd-and-the-edge-of-human-experience-dr-chris-bache-on.vtt",
+        "captions_human": "sources/captions/2025-11-22-lsd-and-the-edge-of-human-experience-dr-chris-bache-on-human.vtt",
+        "audio": "downloads/audio/2025-11-22-lsd-and-the-edge-of-human-experience-dr-chris-bache-on.mp3",
+        "diarist_txt": "sources/diarist/2025-11-22-lsd-and-the-edge-of-human-experience-dr-chris-bache-on.txt",
+        "diarist_srt": "sources/diarist/2025-11-22-lsd-and-the-edge-of-human-experience-dr-chris-bache-on.srt",
+        "diarist_json": "sources/diarist/2025-11-22-lsd-and-the-edge-of-human-experience-dr-chris-bache-on.json",
+        "speaker_identity_report": "reports/diarization/2025-11-22-lsd-and-the-edge-of-human-experience-dr-chris-bache-on.speaker_identity.json",
+        "transcript": "sources/transcripts/2025-11-22-lsd-and-the-edge-of-human-experience-dr-chris-bache-on.md"
+      },
+      "commands": [
+        "python3 tools/intake/grab_all_captions.py --index <batch>/work/index.patch.json --only 2025-11-22-lsd-and-the-edge-of-human-experience-dr-chris-bache-on",
+        "python3 tools/media/download_media.py --index <batch>/work/download.index.json --mode audio --audio-dir downloads/audio",
+        "make diarize DIAR_PYTHON=.venv-diarize/bin/python SLUG=2025-11-22-lsd-and-the-edge-of-human-experience-dr-chris-bache-on AUDIO=downloads/audio/2025-11-22-lsd-and-the-edge-of-human-experience-dr-chris-bache-on.mp3",
+        "make speaker-identify SPEAKER_PYTHON=.venv-speakers/bin/python SLUG=2025-11-22-lsd-and-the-edge-of-human-experience-dr-chris-bache-on AUDIO=downloads/audio/2025-11-22-lsd-and-the-edge-of-human-experience-dr-chris-bache-on.mp3",
+        "make transcript SLUG=2025-11-22-lsd-and-the-edge-of-human-experience-dr-chris-bache-on"
+      ]
+    },
+    {
+      "slug": "2026-01-08-psychedelics-reincarnation-death-the-future-of-humanity-with-christopher-bache",
+      "youtube_id": "63uGUsyipuk",
+      "youtube_url": "https://youtu.be/63uGUsyipuk",
+      "title": "Psychedelics, Reincarnation, Death, & the Future of Humanity – with Christopher Bache",
+      "published": "2026-01-08",
+      "artifacts": {
+        "captions_auto": "sources/captions/2026-01-08-psychedelics-reincarnation-death-the-future-of-humanity-with-christopher-bache.vtt",
+        "captions_human": "sources/captions/2026-01-08-psychedelics-reincarnation-death-the-future-of-humanity-with-christopher-bache-human.vtt",
+        "audio": "downloads/audio/2026-01-08-psychedelics-reincarnation-death-the-future-of-humanity-with-christopher-bache.mp3",
+        "diarist_txt": "sources/diarist/2026-01-08-psychedelics-reincarnation-death-the-future-of-humanity-with-christopher-bache.txt",
+        "diarist_srt": "sources/diarist/2026-01-08-psychedelics-reincarnation-death-the-future-of-humanity-with-christopher-bache.srt",
+        "diarist_json": "sources/diarist/2026-01-08-psychedelics-reincarnation-death-the-future-of-humanity-with-christopher-bache.json",
+        "speaker_identity_report": "reports/diarization/2026-01-08-psychedelics-reincarnation-death-the-future-of-humanity-with-christopher-bache.speaker_identity.json",
+        "transcript": "sources/transcripts/2026-01-08-psychedelics-reincarnation-death-the-future-of-humanity-with-christopher-bache.md"
+      },
+      "commands": [
+        "python3 tools/intake/grab_all_captions.py --index <batch>/work/index.patch.json --only 2026-01-08-psychedelics-reincarnation-death-the-future-of-humanity-with-christopher-bache",
+        "python3 tools/media/download_media.py --index <batch>/work/download.index.json --mode audio --audio-dir downloads/audio",
+        "make diarize DIAR_PYTHON=.venv-diarize/bin/python SLUG=2026-01-08-psychedelics-reincarnation-death-the-future-of-humanity-with-christopher-bache AUDIO=downloads/audio/2026-01-08-psychedelics-reincarnation-death-the-future-of-humanity-with-christopher-bache.mp3",
+        "make speaker-identify SPEAKER_PYTHON=.venv-speakers/bin/python SLUG=2026-01-08-psychedelics-reincarnation-death-the-future-of-humanity-with-christopher-bache AUDIO=downloads/audio/2026-01-08-psychedelics-reincarnation-death-the-future-of-humanity-with-christopher-bache.mp3",
+        "make transcript SLUG=2026-01-08-psychedelics-reincarnation-death-the-future-of-humanity-with-christopher-bache"
+      ]
+    },
+    {
+      "slug": "2026-02-12-rethinking-human-existence-gods-plan-and-purpose-for-humanity-with-christopher",
+      "youtube_id": "pgULV1_MoNM",
+      "youtube_url": "https://youtu.be/pgULV1_MoNM",
+      "title": "Rethinking Human Existence – Gods Plan and Purpose for Humanity with Christopher Bache",
+      "published": "2026-02-12",
+      "artifacts": {
+        "captions_auto": "sources/captions/2026-02-12-rethinking-human-existence-gods-plan-and-purpose-for-humanity-with-christopher.vtt",
+        "captions_human": "sources/captions/2026-02-12-rethinking-human-existence-gods-plan-and-purpose-for-humanity-with-christopher-human.vtt",
+        "audio": "downloads/audio/2026-02-12-rethinking-human-existence-gods-plan-and-purpose-for-humanity-with-christopher.mp3",
+        "diarist_txt": "sources/diarist/2026-02-12-rethinking-human-existence-gods-plan-and-purpose-for-humanity-with-christopher.txt",
+        "diarist_srt": "sources/diarist/2026-02-12-rethinking-human-existence-gods-plan-and-purpose-for-humanity-with-christopher.srt",
+        "diarist_json": "sources/diarist/2026-02-12-rethinking-human-existence-gods-plan-and-purpose-for-humanity-with-christopher.json",
+        "speaker_identity_report": "reports/diarization/2026-02-12-rethinking-human-existence-gods-plan-and-purpose-for-humanity-with-christopher.speaker_identity.json",
+        "transcript": "sources/transcripts/2026-02-12-rethinking-human-existence-gods-plan-and-purpose-for-humanity-with-christopher.md"
+      },
+      "commands": [
+        "python3 tools/intake/grab_all_captions.py --index <batch>/work/index.patch.json --only 2026-02-12-rethinking-human-existence-gods-plan-and-purpose-for-humanity-with-christopher",
+        "python3 tools/media/download_media.py --index <batch>/work/download.index.json --mode audio --audio-dir downloads/audio",
+        "make diarize DIAR_PYTHON=.venv-diarize/bin/python SLUG=2026-02-12-rethinking-human-existence-gods-plan-and-purpose-for-humanity-with-christopher AUDIO=downloads/audio/2026-02-12-rethinking-human-existence-gods-plan-and-purpose-for-humanity-with-christopher.mp3",
+        "make speaker-identify SPEAKER_PYTHON=.venv-speakers/bin/python SLUG=2026-02-12-rethinking-human-existence-gods-plan-and-purpose-for-humanity-with-christopher AUDIO=downloads/audio/2026-02-12-rethinking-human-existence-gods-plan-and-purpose-for-humanity-with-christopher.mp3",
+        "make transcript SLUG=2026-02-12-rethinking-human-existence-gods-plan-and-purpose-for-humanity-with-christopher"
+      ]
+    },
+    {
+      "slug": "2026-05-20-the-new-shaman-how-lsd-gave-christopher-bache-the-keys-to",
+      "youtube_id": "0MaF7cXVL20",
+      "youtube_url": "https://youtu.be/0MaF7cXVL20",
+      "title": "The New Shaman: How LSD gave Christopher Bache the keys to the cosmos",
+      "published": "2026-05-20",
+      "artifacts": {
+        "captions_auto": "sources/captions/2026-05-20-the-new-shaman-how-lsd-gave-christopher-bache-the-keys-to.vtt",
+        "captions_human": "sources/captions/2026-05-20-the-new-shaman-how-lsd-gave-christopher-bache-the-keys-to-human.vtt",
+        "audio": "downloads/audio/2026-05-20-the-new-shaman-how-lsd-gave-christopher-bache-the-keys-to.mp3",
+        "diarist_txt": "sources/diarist/2026-05-20-the-new-shaman-how-lsd-gave-christopher-bache-the-keys-to.txt",
+        "diarist_srt": "sources/diarist/2026-05-20-the-new-shaman-how-lsd-gave-christopher-bache-the-keys-to.srt",
+        "diarist_json": "sources/diarist/2026-05-20-the-new-shaman-how-lsd-gave-christopher-bache-the-keys-to.json",
+        "speaker_identity_report": "reports/diarization/2026-05-20-the-new-shaman-how-lsd-gave-christopher-bache-the-keys-to.speaker_identity.json",
+        "transcript": "sources/transcripts/2026-05-20-the-new-shaman-how-lsd-gave-christopher-bache-the-keys-to.md"
+      },
+      "commands": [
+        "python3 tools/intake/grab_all_captions.py --index <batch>/work/index.patch.json --only 2026-05-20-the-new-shaman-how-lsd-gave-christopher-bache-the-keys-to",
+        "python3 tools/media/download_media.py --index <batch>/work/download.index.json --mode audio --audio-dir downloads/audio",
+        "make diarize DIAR_PYTHON=.venv-diarize/bin/python SLUG=2026-05-20-the-new-shaman-how-lsd-gave-christopher-bache-the-keys-to AUDIO=downloads/audio/2026-05-20-the-new-shaman-how-lsd-gave-christopher-bache-the-keys-to.mp3",
+        "make speaker-identify SPEAKER_PYTHON=.venv-speakers/bin/python SLUG=2026-05-20-the-new-shaman-how-lsd-gave-christopher-bache-the-keys-to AUDIO=downloads/audio/2026-05-20-the-new-shaman-how-lsd-gave-christopher-bache-the-keys-to.mp3",
+        "make transcript SLUG=2026-05-20-the-new-shaman-how-lsd-gave-christopher-bache-the-keys-to"
+      ]
+    },
+    {
+      "slug": "2026-02-03-36-what-20-years-of-lsd-revealed-about-suffering-healing-the",
+      "youtube_id": "424meKDrZ2M",
+      "youtube_url": "https://youtu.be/424meKDrZ2M",
+      "title": "#36: What 20 Years of LSD Revealed About Suffering, Healing & the Future of Humanity — Chris Bache",
+      "published": "2026-02-03",
+      "artifacts": {
+        "captions_auto": "sources/captions/2026-02-03-36-what-20-years-of-lsd-revealed-about-suffering-healing-the.vtt",
+        "captions_human": "sources/captions/2026-02-03-36-what-20-years-of-lsd-revealed-about-suffering-healing-the-human.vtt",
+        "audio": "downloads/audio/2026-02-03-36-what-20-years-of-lsd-revealed-about-suffering-healing-the.mp3",
+        "diarist_txt": "sources/diarist/2026-02-03-36-what-20-years-of-lsd-revealed-about-suffering-healing-the.txt",
+        "diarist_srt": "sources/diarist/2026-02-03-36-what-20-years-of-lsd-revealed-about-suffering-healing-the.srt",
+        "diarist_json": "sources/diarist/2026-02-03-36-what-20-years-of-lsd-revealed-about-suffering-healing-the.json",
+        "speaker_identity_report": "reports/diarization/2026-02-03-36-what-20-years-of-lsd-revealed-about-suffering-healing-the.speaker_identity.json",
+        "transcript": "sources/transcripts/2026-02-03-36-what-20-years-of-lsd-revealed-about-suffering-healing-the.md"
+      },
+      "commands": [
+        "python3 tools/intake/grab_all_captions.py --index <batch>/work/index.patch.json --only 2026-02-03-36-what-20-years-of-lsd-revealed-about-suffering-healing-the",
+        "python3 tools/media/download_media.py --index <batch>/work/download.index.json --mode audio --audio-dir downloads/audio",
+        "make diarize DIAR_PYTHON=.venv-diarize/bin/python SLUG=2026-02-03-36-what-20-years-of-lsd-revealed-about-suffering-healing-the AUDIO=downloads/audio/2026-02-03-36-what-20-years-of-lsd-revealed-about-suffering-healing-the.mp3",
+        "make speaker-identify SPEAKER_PYTHON=.venv-speakers/bin/python SLUG=2026-02-03-36-what-20-years-of-lsd-revealed-about-suffering-healing-the AUDIO=downloads/audio/2026-02-03-36-what-20-years-of-lsd-revealed-about-suffering-healing-the.mp3",
+        "make transcript SLUG=2026-02-03-36-what-20-years-of-lsd-revealed-about-suffering-healing-the"
+      ]
+    },
+    {
+      "slug": "2026-02-02-in-the-living-classroom-with-chris-bache",
+      "youtube_id": "2w-8klAX--M",
+      "youtube_url": "https://youtu.be/2w-8klAX--M",
+      "title": "In the Living Classroom with Chris Bache",
+      "published": "2026-02-02",
+      "artifacts": {
+        "captions_auto": "sources/captions/2026-02-02-in-the-living-classroom-with-chris-bache.vtt",
+        "captions_human": "sources/captions/2026-02-02-in-the-living-classroom-with-chris-bache-human.vtt",
+        "audio": "downloads/audio/2026-02-02-in-the-living-classroom-with-chris-bache.mp3",
+        "diarist_txt": "sources/diarist/2026-02-02-in-the-living-classroom-with-chris-bache.txt",
+        "diarist_srt": "sources/diarist/2026-02-02-in-the-living-classroom-with-chris-bache.srt",
+        "diarist_json": "sources/diarist/2026-02-02-in-the-living-classroom-with-chris-bache.json",
+        "speaker_identity_report": "reports/diarization/2026-02-02-in-the-living-classroom-with-chris-bache.speaker_identity.json",
+        "transcript": "sources/transcripts/2026-02-02-in-the-living-classroom-with-chris-bache.md"
+      },
+      "commands": [
+        "python3 tools/intake/grab_all_captions.py --index <batch>/work/index.patch.json --only 2026-02-02-in-the-living-classroom-with-chris-bache",
+        "python3 tools/media/download_media.py --index <batch>/work/download.index.json --mode audio --audio-dir downloads/audio",
+        "make diarize DIAR_PYTHON=.venv-diarize/bin/python SLUG=2026-02-02-in-the-living-classroom-with-chris-bache AUDIO=downloads/audio/2026-02-02-in-the-living-classroom-with-chris-bache.mp3",
+        "make speaker-identify SPEAKER_PYTHON=.venv-speakers/bin/python SLUG=2026-02-02-in-the-living-classroom-with-chris-bache AUDIO=downloads/audio/2026-02-02-in-the-living-classroom-with-chris-bache.mp3",
+        "make transcript SLUG=2026-02-02-in-the-living-classroom-with-chris-bache"
+      ]
+    },
+    {
+      "slug": "2026-03-15-what-altered-states-reveal-about-the-nature-of-reality",
+      "youtube_id": "zlRKDRV3H-I",
+      "youtube_url": "https://youtu.be/zlRKDRV3H-I",
+      "title": "What Altered States Reveal About the Nature of Reality",
+      "published": "2026-03-15",
+      "artifacts": {
+        "captions_auto": "sources/captions/2026-03-15-what-altered-states-reveal-about-the-nature-of-reality.vtt",
+        "captions_human": "sources/captions/2026-03-15-what-altered-states-reveal-about-the-nature-of-reality-human.vtt",
+        "audio": "downloads/audio/2026-03-15-what-altered-states-reveal-about-the-nature-of-reality.mp3",
+        "diarist_txt": "sources/diarist/2026-03-15-what-altered-states-reveal-about-the-nature-of-reality.txt",
+        "diarist_srt": "sources/diarist/2026-03-15-what-altered-states-reveal-about-the-nature-of-reality.srt",
+        "diarist_json": "sources/diarist/2026-03-15-what-altered-states-reveal-about-the-nature-of-reality.json",
+        "speaker_identity_report": "reports/diarization/2026-03-15-what-altered-states-reveal-about-the-nature-of-reality.speaker_identity.json",
+        "transcript": "sources/transcripts/2026-03-15-what-altered-states-reveal-about-the-nature-of-reality.md"
+      },
+      "commands": [
+        "python3 tools/intake/grab_all_captions.py --index <batch>/work/index.patch.json --only 2026-03-15-what-altered-states-reveal-about-the-nature-of-reality",
+        "python3 tools/media/download_media.py --index <batch>/work/download.index.json --mode audio --audio-dir downloads/audio",
+        "make diarize DIAR_PYTHON=.venv-diarize/bin/python SLUG=2026-03-15-what-altered-states-reveal-about-the-nature-of-reality AUDIO=downloads/audio/2026-03-15-what-altered-states-reveal-about-the-nature-of-reality.mp3",
+        "make speaker-identify SPEAKER_PYTHON=.venv-speakers/bin/python SLUG=2026-03-15-what-altered-states-reveal-about-the-nature-of-reality AUDIO=downloads/audio/2026-03-15-what-altered-states-reveal-about-the-nature-of-reality.mp3",
+        "make transcript SLUG=2026-03-15-what-altered-states-reveal-about-the-nature-of-reality"
+      ]
+    },
+    {
+      "slug": "2026-03-06-iars-reincarnation-book-club-with-chris-bache-phd",
+      "youtube_id": "njiw2enxy40",
+      "youtube_url": "https://youtu.be/njiw2enxy40",
+      "title": "IARS Reincarnation Book Club with CHRIS BACHE, PhD",
+      "published": "2026-03-06",
+      "artifacts": {
+        "captions_auto": "sources/captions/2026-03-06-iars-reincarnation-book-club-with-chris-bache-phd.vtt",
+        "captions_human": "sources/captions/2026-03-06-iars-reincarnation-book-club-with-chris-bache-phd-human.vtt",
+        "audio": "downloads/audio/2026-03-06-iars-reincarnation-book-club-with-chris-bache-phd.mp3",
+        "diarist_txt": "sources/diarist/2026-03-06-iars-reincarnation-book-club-with-chris-bache-phd.txt",
+        "diarist_srt": "sources/diarist/2026-03-06-iars-reincarnation-book-club-with-chris-bache-phd.srt",
+        "diarist_json": "sources/diarist/2026-03-06-iars-reincarnation-book-club-with-chris-bache-phd.json",
+        "speaker_identity_report": "reports/diarization/2026-03-06-iars-reincarnation-book-club-with-chris-bache-phd.speaker_identity.json",
+        "transcript": "sources/transcripts/2026-03-06-iars-reincarnation-book-club-with-chris-bache-phd.md"
+      },
+      "commands": [
+        "python3 tools/intake/grab_all_captions.py --index <batch>/work/index.patch.json --only 2026-03-06-iars-reincarnation-book-club-with-chris-bache-phd",
+        "python3 tools/media/download_media.py --index <batch>/work/download.index.json --mode audio --audio-dir downloads/audio",
+        "make diarize DIAR_PYTHON=.venv-diarize/bin/python SLUG=2026-03-06-iars-reincarnation-book-club-with-chris-bache-phd AUDIO=downloads/audio/2026-03-06-iars-reincarnation-book-club-with-chris-bache-phd.mp3",
+        "make speaker-identify SPEAKER_PYTHON=.venv-speakers/bin/python SLUG=2026-03-06-iars-reincarnation-book-club-with-chris-bache-phd AUDIO=downloads/audio/2026-03-06-iars-reincarnation-book-club-with-chris-bache-phd.mp3",
+        "make transcript SLUG=2026-03-06-iars-reincarnation-book-club-with-chris-bache-phd"
+      ]
+    },
+    {
+      "slug": "2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe",
+      "youtube_id": "KgqQiLkg1mM",
+      "youtube_url": "https://youtu.be/KgqQiLkg1mM",
+      "title": "73 LSD Sessions / Journey through the Mind of the Universe?",
+      "published": "2026-05-31",
+      "artifacts": {
+        "captions_auto": "sources/captions/2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe.vtt",
+        "captions_human": "sources/captions/2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe-human.vtt",
+        "audio": "downloads/audio/2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe.mp3",
+        "diarist_txt": "sources/diarist/2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe.txt",
+        "diarist_srt": "sources/diarist/2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe.srt",
+        "diarist_json": "sources/diarist/2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe.json",
+        "speaker_identity_report": "reports/diarization/2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe.speaker_identity.json",
+        "transcript": "sources/transcripts/2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe.md"
+      },
+      "commands": [
+        "python3 tools/intake/grab_all_captions.py --index <batch>/work/index.patch.json --only 2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe",
+        "python3 tools/media/download_media.py --index <batch>/work/download.index.json --mode audio --audio-dir downloads/audio",
+        "make diarize DIAR_PYTHON=.venv-diarize/bin/python SLUG=2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe AUDIO=downloads/audio/2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe.mp3",
+        "make speaker-identify SPEAKER_PYTHON=.venv-speakers/bin/python SLUG=2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe AUDIO=downloads/audio/2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe.mp3",
+        "make transcript SLUG=2026-05-31-73-lsd-sessions-journey-through-the-mind-of-the-universe"
+      ]
+    }
+  ]
+}

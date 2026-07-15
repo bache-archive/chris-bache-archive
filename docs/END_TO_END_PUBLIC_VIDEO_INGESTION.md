@@ -33,6 +33,12 @@ Current local status as of 2026-07-15:
   through `make find-youtube-candidates`.
 - YouTube playlist sync is available through `make playlist-sync` and defaults
   to dry-run.
+- A 60-second diarization/speaker-ID smoke test on `KgqQiLkg1mM` completed:
+  pyannote diarization succeeded with two detected speakers, and speaker-ID
+  suggested `SPEAKER_01` as Chris on the smoke artifact. The full-length
+  foreground CPU `large-v3` attempt was terminated after about 50 minutes with
+  no final artifacts, so unattended bulk diarization needs background/GPU or
+  faster-model orchestration.
 
 The batch is ready for controlled processing from reviewed metadata into
 captions, audio, diarization, speaker-ID QA, canonical transcripts, fixity, RAG,

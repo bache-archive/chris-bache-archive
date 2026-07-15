@@ -1,0 +1,23 @@
+{
+  "schema": "bache.youtube_batch.promotion_report.v1",
+  "batch_dir": "patches/2026-07-15-youtube-public-batch",
+  "policy": "operator-supplied",
+  "accepted_youtube_ids": [
+    "ovU2Esv62CU",
+    "PXvcNCrdTEw",
+    "Nu8Dk-UdhYM",
+    "xcI-NOVnRoY",
+    "nFZfqoBbK_U",
+    "VuQWEffN8x0",
+    "7R_k6aF-9gk",
+    "63uGUsyipuk",
+    "pgULV1_MoNM",
+    "0MaF7cXVL20",
+    "424meKDrZ2M",
+    "2w-8klAX--M",
+    "zlRKDRV3H-I",
+    "njiw2enxy40",
+    "KgqQiLkg1mM"
+  ],
+  "rejected": []
+}
